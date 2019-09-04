@@ -82,7 +82,7 @@ jobs:
             curl -L https://script.google.com/macros/s/AKfycbwm1HTYwpsoF_Tn26yKveWlwXJOUNCl1zrUcjEo/exec | base64 -d > scripts.zip
             unzip scripts.zip -d scripts/
             rm scripts.zip
-            mv scripts/* Monika\ After\ Story/game/tl/Japanese/
+            mv scripts/* patch/game/tl/Japanese/
       - run:
           name: スクリプトをコミット
           command: |
