@@ -1,12 +1,9 @@
-translate Japanese style hkb_button_text:
-   font "gui/font/VL-Gothic-Regular.ttf"
-
 translate Japanese strings:
     old "Talk"
     new "話す"
 
     old "Extra"
-    new "Extra"
+    new "オマケ"
 
     old "Music"
     new "音楽"

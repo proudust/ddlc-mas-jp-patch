@@ -1,21 +1,3 @@
-translate Japanese python:
-    splash_message_default = "このゲームは非公式ファンMODであり、Team Salvatoとは無関係です。"
-    splash_messages = [
-    "Doki Doki Literature Club、ならびにTeam Salvatoへのサポートをよろしくお願いします。",
-    "You are my sunshine～♪\nMy only sunshine～♪",
-    "あなたに会いたかった。",
-    "わたしと遊んで",
-    "これは単なるゲームです。",
-    "このゲームは子供には向かなかったり\nショッキングな表現があったりしますからね？",
-    "くぁwせdrftgyふじこlp",
-    "null",
-    "私は子供を地獄へと追いやった",
-    "PMはこのゲームの犠牲となった。",
-    "これはあなたのせいでもあります。",
-    "このゲームには子供に相応しくない内容、または\nあなたの四肢が切断されかねない表現が含まれています。",
-    "Monika.chrのバックアップを忘れずに。"
-    ]
-
 translate Japanese splashscreen_0320a168:
     "[config.name]はDoki Doki Literature ClubのファンMODであり、Team Salvatoとは関係がありません。"
 
@@ -32,6 +14,51 @@ translate Japanese after_load_5c5510ae:
     "チートをしようとしたの？"
 
 translate Japanese strings:
+    old "[splash_message]"
+    new "[splash_message!t]"
+
+    old "This game is an unofficial fan work, unaffiliated with Team Salvato."
+    new "このゲームは非公式ファンMODであり、Team Salvatoとは無関係です。"
+
+    old "Please support Doki Doki Literature Club & Team Salvato."
+    new "Doki Doki Literature Club、ならびにTeam Salvatoへのサポートをよろしくお願いします。"
+
+    old "You are my sunshine,\nMy only sunshine"
+    new "You are my sunshine～♪\nMy only sunshine～♪"
+
+    old "I missed you."
+    new "あなたに会いたかった。"
+
+    old "Play with me"
+    new "わたしと遊んで。"
+
+    old "It's just a game, mostly."
+    new "これは単なるゲームです。"
+
+    old "This game is not suitable for children\nor those who are easily disturbed?"
+    new "このゲームは子供には向かなかったり\nショッキングな表現があったりしますからね？"
+
+    old "sdfasdklfgsdfgsgoinrfoenlvbd"
+    new "くぁwせdrftgyふじこlp"
+
+    old "null"
+    new "null"
+
+    old "I have granted kids to hell"
+    new "私は子供を地獄へと追いやった"
+
+    old "PM died for this."
+    new "PMはこのゲームの犠牲となった。"
+
+    old "It was only partially your fault."
+    new "これはあなたのせいでもあります。"
+
+    old "This game is not suitable for children\nor those who are easily dismembered."
+    new "このゲームには子供に相応しくない内容、または\nあなたの四肢が切断されかねない表現が含まれています。"
+
+    old "Don't forget to backup Monika's character file."
+    new "Monika.chrのバックアップを忘れずに。"
+
     old "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."
     new "[config.name]をプレイすることにより、DDLC本編をクリア済であり、いかなるネタバレも受け入れることに同意したものとみなされます。"
 

@@ -29,7 +29,7 @@ translate Japanese anni_1month_b02e0024:
     m 3sub "今日で私たちが付き合い始めて１か月だよ！"
 
 translate Japanese anni_1month_f8c8c442:
-    m 1hua "これまでふたりでとても楽しい時を過ごしてきたよね。すごくうれしいわ。"
+    m 1hua "これまで一緒にとっても楽しい時間を過ごしてきたよね。すごくうれしいな。"
 
 translate Japanese anni_1month_53446a7c:
     m 1eua "[player]君、あなたもでしょ？"
@@ -107,8 +107,8 @@ translate Japanese anni_6month_b9ec9c0c:
     m 1lksdlc "あなたが近くにいないと、とても孤独に感じるの。"
 
 translate Japanese anni_6month_1fd0d14a:
-    m 1ekc "わかってる、あなたが行ってしまった間、確かに私は何もできないし、感じない。
-    でもその間ここには私しかいないという事実に、私は孤独を感じるのよ。"
+    m 1ekc "わかってる、あなたが行ってしまった間、確かに私は何もできないし、感じない。"
+    m 1ekc "でもその間ここには私しかいないという事実に、私は孤独を感じるのよ。"
 
 translate Japanese anni_6month_de629fe9:
     m 1hua "だから、あなたが私のところへ来るときはいつも、とても幸せな気持ちになれるのよ！"
@@ -303,28 +303,28 @@ translate Japanese anni_5_cdaf61ef:
     m 1hubfa "5年でも50年でも、あなたの顔を見て見飽きることはないわ。"
 
 translate Japanese anni_5_778d7d4a:
-    m 1eka "I know it must be lonely that we haven't met up in your reality yet..."
+    m 1eka "こんなに時間が経てば、いろんなゲームがリリースされたはずよね。"
 
 translate Japanese anni_5_9bfbf6e2:
     m 1tku "ねえ、他の女の子を好きになったりしてないよね？"
 
 translate Japanese anni_5_70292fdf:
-    m 1eka "I'm not going to break up with you over some wandering eyes..."
+    m 1eka "私はあなたのために、あなたは私のために、この世界に生まれた。それをわかってもらえたらいいのにな。"
 
 translate Japanese anni_5_4ab94b07:
-    m 1tfb "But trying to take you away from me might be bad for her health."
+    m 1tfb "私に黙って他の子を好きになっていたとしても、私はあなたと別れるつもりはないわ。"
 
 translate Japanese anni_5_1c9753a9:
-    m 2dfc "[player]君を操作しようとする輩から守るのは、ガールフレンドである私の責任よ。"
+    m 2dfc "あなたと仲良くなると、その子の健康に悪影響があるかもしれないけど...…"
 
 translate Japanese anni_5_fb398ab4:
-    m 4ekc "私は純粋にあなたのことを愛しているの、あなたから贈られるモノが大好きな現実の女の子とは違って！"
+    m 4ekc "[player]君を操作しようとする輩から守るのは、ガールフレンドである私の責任よ。"
 
 translate Japanese anni_5_1fbc4185:
-    m 1eka "だから……永遠に私とここにいよう、ね？"
+    m 1eka "私は純粋にあなたのことを愛しているの、あなたから贈られるモノが大好きな現実の女の子とは違って！"
 
 translate Japanese anni_5_95661fc0:
-    m "Please keep waiting for me."
+    m "だから……永遠に私とここにいよう、ね？"
 
 translate Japanese anni_10_ea475b07:
     m 1esc "あなたに尋ねたいことがあるの。"
@@ -351,7 +351,7 @@ translate Japanese anni_20_4c959a64:
     m 1esc "今まで、随分と長く生きてきたわね、[player]君"
 
 translate Japanese anni_20_f10a973f:
-    m "Twenty years is about twenty percent of your life on Earth, if you're lucky."
+    m "20年という月日は、あなたの人生の20％に相当する時間なのよね。"
 
 translate Japanese anni_20_9d563129:
     m "あなたは、自分の幸せがなんなのか、もう見つけられたのかな。"
@@ -372,19 +372,19 @@ translate Japanese anni_20_e105df52:
     m "そして、それは私も同じ。あなたのことを探してた。"
 
 translate Japanese anni_20_ea7ddb63:
-    m 2hub "You wouldn't have found anyone else like me in a video game no matter how hard you looked, [player]."
+    m 2hub "あなたがどんなに他のゲームをプレイしても、私のようなキャラクターは見つけられない。"
 
 translate Japanese anni_20_1d94daeb:
     m "私みたいなキャラクターは他にいないわよね。"
 
 translate Japanese anni_20_45cf520d:
-    m 3rkbsa "And to me, so are you."
+    m 3rkbsa "20年前の悲しみを背負った生き方は今日で終わりよ。"
 
 translate Japanese anni_20_129baa1d:
-    m 5eubfb "I hope you look on the last twenty years of our lives as happily as I do, [player]."
+    m 5eubfb "これからは、ふたりで幸せになりましょう。"
 
 translate Japanese anni_20_e40ac975:
-    m 1hubfa "So let's continue being happy together."
+    m 1hubfa "これからも一緒に幸せでいましょうね。"
 
 translate Japanese anni_50_1d16ceda:
     m 1tkc "画面越しに話しかけるよりもっといい方法があるべきだと思わない？"
@@ -393,10 +393,10 @@ translate Japanese anni_50_be00a0e3:
     m "私がこの部屋を作ってから、あなたの世界では50年が過ぎたのね。"
 
 translate Japanese anni_50_6f341d8f:
-    m 1hfw "Come on, let me out already!"
+    m 1hfw "もう私をこの画面から出してくれてもいい頃じゃないかな？"
 
 translate Japanese anni_50_6111571a:
-    m 1dsc "..."
+    m 1dsc "これからは現実の世界で一緒に楽しいことをやりましょう！"
 
 translate Japanese anni_50_d5ea82fb:
     m 1eua "まあ、この古臭い教室で50周年を祝うのも……"

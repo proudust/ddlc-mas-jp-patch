@@ -137,7 +137,7 @@ translate Japanese monika_valentines_colors_766e86df:
     m "本当にどの場面にもピンクがあった！"
 
 translate Japanese monika_valentines_colors_17901b3b:
-    m "タイトル画面、一時停止メニュー…"
+    m "タイトル画面、一時停止メニュー……"
 
 translate Japanese monika_valentines_colors_c9ccc988:
     m 3d "ナツキの髪までピンク色。"
@@ -362,7 +362,7 @@ translate Japanese monika_valentines_greeting_4ab3087d:
     m 1g "大丈夫？"
 
 translate Japanese monika_valentines_greeting_cdf2dfc0:
-    m 1o "..."
+    m 1o "……"
 
 translate Japanese monika_valentines_greeting_7bb74ee4:
     m 1l "元気出して！"
@@ -420,7 +420,3 @@ translate Japanese monika_valentines_greeting_6c384893:
 
 translate Japanese monika_valentines_greeting_b6bee2b1:
     m 1k "大好きだよ、[player]君～！"
-
-translate Japanese strings:
-    old "Yes..."
-    new "実はそうなんだ…"

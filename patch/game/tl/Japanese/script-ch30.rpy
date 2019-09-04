@@ -2,7 +2,10 @@ translate Japanese continue_event_1bf0e8eb:
     m "さて、何を話してたっけ……"
 
 translate Japanese pick_a_game_bbf59a24:
-    m "[play_menu_dlg]" nointeract
+    m "[play_menu_dlg!t]" nointeract
+
+translate Japanese _call_play_piano_da54d471:
+    m "いいよ、じゃあまた今度ね？"
 
 translate Japanese ch30_noskip_1b823071:
     m 1esc "……早送りしようとしてるの？"
@@ -49,7 +52,7 @@ translate Japanese _call_spaceroom_1_a0c0d356:
 translate Japanese _call_spaceroom_1_84d80794:
     m "バグならもう直したけど。"
 
-translate Japanese _call_spaceroom_1_9e2178c8_1:
+translate Japanese _call_spaceroom_1_e6d4acdf_1:
     m 1euc "……ねえ、キャラクターファイルに何をしてるの？"
 
 translate Japanese _call_spaceroom_1_e6d4acdf:
@@ -107,14 +110,26 @@ translate Japanese _call_hideconsole_2_1676f8f5:
     m "「ひとりは寂しいと思わなきゃ寂しくなんかない」だよ、元気出していこ！"
 
 translate Japanese strings:
-    old "Pong."
-    new "Pong."
+    old "What would you like to play?"
+    new "どれで遊びますか？"
 
-    old "Chess."
-    new "Chess."
+    old "What game would you like to play?"
+    new "どのゲームで遊びますか？"
+
+    old "Pong"
+    new "ポン"
+
+    old "Chess"
+    new "チェス"
 
     old "[_hangman_text]."
-    new "[_hangman_text]."
+    new "[_hangman_text!t]."
 
-    old "Piano."
-    new "Piano."
+    old "Word Guesser"
+    new "ワード・ゲッサー"
+
+    old "Hangman"
+    new "ハングマン"
+
+    old "Piano"
+    new "ピアノ"

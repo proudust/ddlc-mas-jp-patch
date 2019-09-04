@@ -1,6 +1,9 @@
 translate Japanese strings:
     old "<<<< Prev"
-    new "<<<< Prev"
+    new "<<<< 前"
 
     old "Next >>>>"
-    new "Next >>>>"
+    new "次 >>>>"
+
+    old "No Music"
+    new "BGMなし"

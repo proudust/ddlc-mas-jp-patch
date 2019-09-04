@@ -1,46 +1,10 @@
-define config.default_language = "Japanese"
-
-init python:
-    config.language = "Japanese"
-    m = DynamicCharacter('m_name', image='monika', what_prefix='「', what_suffix='」', ctc="ctc", ctc_position="fixed")
-
-translate Japanese python:
-    gui.default_font = "gui/font/VL-Gothic-Regular.ttf"
-    gui.name_font = "gui/font/VL-Gothic-Regular.ttf"
-    gui.interface_font = "gui/font/VL-Gothic-Regular.ttf"
-    gui.choice_button_borders = Borders(10, 5, 10, 5)
-
-translate Japanese style _default:
-    font "gui/font/MTLc3m.ttf"
-
-translate Japanese style button_text:
-    font "gui/font/VL-Gothic-Regular.ttf"
-
-translate Japanese style check_button_text:
-    font "gui/font/Mikachan.ttf"
-
-translate Japanese style choice_button_text:
-    font "gui/font/VL-Gothic-Regular.ttf"
-
-translate Japanese style edited:
-    font "gui/font/VL-Gothic-Regular.ttf"
-
-translate Japanese style game_menu_label_text:
-    font "gui/font/VL-Gothic-Regular.ttf"
-
-translate Japanese style navigation_button_text:
-    font "gui/font/VL-Gothic-Regular.ttf"
-
-translate Japanese style poemgame_text:
-    font "gui/font/Mikachan.ttf"
-
-translate Japanese style pref_label_text:
-    font "gui/font/VL-Gothic-Regular.ttf"
-
-translate Japanese style radio_button_text:
-    font "gui/font/Mikachan.ttf"
-
 translate Japanese strings:
+    old "Please don't close the game on me!"
+    new "お願い、終了しないで、お願いだから！"
+
+    old "Thank you, [player]!\nLet's spend more time together~"
+    new "ありがとう、[player]君！\n もう少し一緒にいてもいいよね～"
+
     old "History"
     new "ヒストリー"
 
@@ -108,37 +72,43 @@ translate Japanese strings:
     new "フルスクリーン"
 
     old "Graphics"
-    new "Graphics"
+    new "グラフィック"
 
     old "Disable Animation"
-    new "Disable Animation"
+    new "ｱﾆﾒｰｼｮﾝ無効"
 
     old "Change Renderer"
-    new "Change Renderer"
+    new "ﾚﾝﾀﾞﾘﾝｸﾞ変更"
 
     old "Gameplay"
-    new "Gameplay"
+    new "ゲームプレイ"
 
     old "Unstable"
-    new "Unstable"
+    new "不安定モード"
+
+    old "Unstable mode downloads updates from the experimental unstable branch of development. It is HIGHLY recommended to make a backup of your persistents before enabling this mode."
+    new "不安定モードでは開発中の実験的かつ不安定なブランチからアップデートをダウンロードします。オンにする前にあなたの部長さんのバックアップを取ることを{i}強く{/i}推奨します。"
 
     old "Repeat Topics"
-    new "Repeat Topics"
+    new "話題の繰り返し"
 
-    old " "
-    new " "
+    old "Enable this to let Monika repeat topics that you have already seen."
+    new "モニカが既出の話題を繰り返し話せるようにします。"
 
     old "Sensitive Mode"
-    new "Sensitive Mode"
+    new "デリケートモード"
+
+    old "Sensitive mode removes content that may be disturbing, offensive, or considered tasteless."
+    new "デリケートモードでは不安を煽る、不快、不適切と思われる話題が表示されないようにします。"
 
     old "Sunrise   "
-    new "Sunrise   "
+    new "日の出時刻 "
 
     old "Sunset   "
-    new "Sunset   "
+    new "日の入時刻 "
 
     old "Random Chatter   "
-    new "Random Chatter   "
+    new "モニカとお喋り"
 
     old "Text Speed"
     new "文字表示速度"
@@ -200,9 +170,6 @@ translate Japanese strings:
     old "Install"
     new "インストール"
 
-    old "Cancel"
-    new "Cancel"
-
     old "Monika After Story is up to date."
     new "モニカアフターストーリーは最新版です。"
 
@@ -215,110 +182,29 @@ translate Japanese strings:
     old "The updates have been installed. Please reopen Monika After Story."
     new "更新データがインストールされました。モニカアフターストーリーを再起動してください。"
 
-    old "The updates have been installed."
-    new "The updates have been installed."
-
     old "Skipping"
     new "スキップ中"
 
     old "Introduction"
-    new "Introduction"
-
-    old "Route Part 1, How To Make A Mod"
-    new "Route Part 1, How To Make A Mod"
-
-    old "Route Part 2, Music"
-    new "Route Part 2, Music"
-
-    old "Route Part 3, Scene"
-    new "Route Part 3, Scene"
-
-    old "Route Part 4, Dialogue"
-    new "Route Part 4, Dialogue"
-
-    old "Route Part 5, Menu"
-    new "Route Part 5, Menu"
-
-    old "Route Part 6, Logic Statement"
-    new "Route Part 6, Logic Statement"
-
-    old "Route Part 7, Sprite"
-    new "Route Part 7, Sprite"
-
-    old "Route Part 8, Position"
-    new "Route Part 8, Position"
-
-    old "Route Part 9, Ending"
-    new "Route Part 9, Ending"
+    new "イントロダクション"
 
     old "That's enough for now."
-    new "That's enough for now."
+    new "今は十分です"
 
     old "Go Back"
-    new "Go Back"
+    new "戻る"
 
     old "Please restart Monika After Story."
-    new "Please restart Monika After Story."
+    new "Monika After Storyを最初からやり直す"
 
-translate Japanese screen:
-   screen navigation():
+    old "Leaving without saying goodbye, [player]?"
+    new "さよならも言ってくれないの、[player]君？"
 
-       vbox:
-           style_prefix "navigation"
+    old "Please enter your name"
+    new "あなたの名前を入力して下さい"
 
-           xpos gui.navigation_xpos
-           yalign 0.8
+    old "No need to go back there.\nYou'll just end up back here so don't worry."
+    new "メインメニューに戻らなくてもいいんじゃない？\nどうせここに戻ってくんだし。大丈夫だって。"
 
-           spacing gui.navigation_spacing
-
-           if main_menu:
-
-               textbutton ("Just Monika") action If(persistent.playername, true=Start(), false=Show(screen="name_input", message="Please enter your name", ok_action=Function(FinishEnterName)))
-
-           else:
-
-               textbutton _("History") action [ShowMenu("history"), SensitiveIf(renpy.get_screen("history") == None)]
-
-               textbutton _("Save Game") action [ShowMenu("save"), SensitiveIf(renpy.get_screen("save") == None)]
-
-           textbutton _("Load Game") action [ShowMenu("load"), SensitiveIf(renpy.get_screen("load") == None)]
-
-           if _in_replay:
-
-               textbutton _("End Replay") action EndReplay(confirm=True)
-
-           elif not main_menu:
-               textbutton _("Main Menu") action NullAction(), Show(screen="dialog", message="No need to go back there.\nYou'll just end up back here so don't worry.", ok_action=Hide("dialog"))
-
-           textbutton _("Settings") action [ShowMenu("preferences"), SensitiveIf(renpy.get_screen("preferences") == None)]
-
-           #textbutton _("About") action ShowMenu("about")
-
-           if renpy.variant("pc"):
-
-               ## Help isn't necessary or relevant to mobile devices.
-               textbutton _("Help") action Help("README.html")
-
-               ## The quit button is banned on iOS and unnecessary on Android.
-               textbutton _("Quit") action Quit(confirm=not main_menu)
-
-translate Japanese screen:
-   screen name_input(message, ok_action):
-       modal True
-       zorder 200
-       style_prefix "confirm"
-       add "gui/overlay/confirm.png"
-       key "K_RETURN" action [Play("sound", gui.activate_sound), ok_action]
-       frame:
-           has vbox:
-               xalign .5
-               yalign .5
-               spacing 30
-           label _(message):
-               style "confirm_prompt"
-               xalign 0.5
-           input default "" value VariableInputValue("player") length 12 pixel_width 168
-           hbox:
-               xalign 0.5
-               spacing 100
-               textbutton _("OK") action ok_action
+    old "There's no point in saving anymore.\nDon't worry, I'm not going anywhere."
+    new "もうセーブに意味はないわ。\n安心して、もうどこにも行かないから。"
