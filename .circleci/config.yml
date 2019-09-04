@@ -1,0 +1,119 @@
+version: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: circleci/python:2.7
+        environment:
+          SDL_AUDIODRIVER: dummy
+    steps:
+      - checkout:
+          path: src/
+      - run:
+          name: Git Submodule の初期化
+          command: |
+            pushd src/
+            git submodule init
+            git submodule update --remote
+            popd
+      - run:
+          name: Ren'Py 6.99.12.4 ダウンロード
+          command: |
+            wget -O - https://www.renpy.org/dl/6.99.12.4/renpy-6.99.12.4-sdk.tar.bz2 | tar jxf -
+            mv renpy-6.99.12.4-sdk renpy
+      - run:
+          name: DDLC MAS v0.7.2 ダウンロード
+          command: |
+            wget https://s3-us-west-2.amazonaws.com/monika-after-story/ddlc/mas.zip
+            mkdir mas072
+            unzip mas.zip -d mas072
+            rm mas.zip
+            mv mas072 ddlc
+      - run:
+          name: パッチのビルド
+          command: |
+            cp -fpr src/MonikaModDev/Monika\ After\ Story/* ddlc/
+            cp -fpr src/patch/* ddlc/
+            ./renpy/renpy.sh ./renpy/launcher distribute ./ddlc/ --package Mod
+      - run:
+          name: バージョン名を付与
+          command: |
+            ls .
+            ls Monika_After_Story-0.9.5-dists/
+            version=$(git -C src/ describe --tags)
+            unzip Monika_After_Story-0.9.5-dists/Monika_After_Story-0.9.5-Mod.zip
+            mv Monika_After_Story-0.9.5-Mod DDLC_MAS_JP_${version}
+            zip -r DDLC_MAS_JP_${version} DDLC_MAS_JP_${version}
+            mkdir artifacts
+            mv DDLC_MAS_JP_${version}.zip artifacts/
+      - store_artifacts:
+          path: artifacts
+      - persist_to_workspace:
+          root: .
+          paths:
+            - artifacts
+
+  release:
+    docker:
+      - image: circleci/golang:1.8
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: "GitHub Release に Zip をアップロード"
+          command: |
+            go get github.com/tcnksm/ghr
+            ghr -t ${GITHUB_TOKEN} -u ${CIRCLE_PROJECT_USERNAME} -r ${CIRCLE_PROJECT_REPONAME} -c ${CIRCLE_SHA1} \
+              -n "ver${CIRCLE_TAG} for v1.1.1" -delete -draft ${CIRCLE_TAG} artifacts/
+
+  translate:
+    docker:
+      - image: circleci/golang:1.8
+    steps:
+      - checkout
+      - run:
+          name: Git の設定
+          command: |
+            git config user.email "51193697+ProudustBot@users.noreply.github.com"
+            git config user.name "ProudustBot"
+      - run:
+          name: 翻訳所からスクリプトをダウンロード
+          command: |
+            curl -L https://script.google.com/macros/s/AKfycbwm1HTYwpsoF_Tn26yKveWlwXJOUNCl1zrUcjEo/exec | base64 -d > scripts.zip
+            unzip scripts.zip -d scripts/
+            rm scripts.zip
+            mv scripts/* Monika\ After\ Story/game/tl/Japanese/
+      - run:
+          name: スクリプトをコミット
+          command: |
+            git checkout -B translate
+            git add --all
+            git commit -m ':sparkles: 翻訳の更新'
+            git push -f origin translate
+
+workflows:
+  version: 2
+  main:
+    jobs:
+      - build:
+          filters:
+            tags:
+              only: /.*/
+      - release:
+          requires:
+            - build
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /.*/
+  translate:
+    jobs:
+      - translate
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
