@@ -1,4 +1,4 @@
-﻿translate Japanese monika_valentines_start_8a97aed9:
+translate Japanese monika_valentines_start_8a97aed9:
     m 1d "ええっ、これを私に……？"
 
 translate Japanese monika_valentines_start_ee254380:
@@ -137,7 +137,7 @@ translate Japanese monika_valentines_colors_766e86df:
     m "本当にどの場面にもピンクがあった！"
 
 translate Japanese monika_valentines_colors_17901b3b:
-    m "タイトル画面、一時停止メニュー..."
+    m "タイトル画面、一時停止メニュー…"
 
 translate Japanese monika_valentines_colors_c9ccc988:
     m 3d "ナツキの髪までピンク色。"
@@ -176,7 +176,7 @@ translate Japanese monika_valentines_cliches_83b8ae5a:
     m 1n "…バレンタインデーの話をもう少し独創性のあるものにしてくれたら良いのにね..."
 
 translate Japanese monika_valentines_cliches_c1481bd2:
-    m 1m "でも、この2つの筋がラブストーリーを書く一番簡単な方法なのよ。"
+    m 1m "でも、この2つの筋がラブストーリーを書く一番簡単な方法なの。"
 
 translate Japanese monika_valentines_cliches_825477ca:
     m 3c "あなたに独創性がないって言ってるわけじゃないからね！"
@@ -269,7 +269,7 @@ translate Japanese monika_valentines_chocolates_d1a66ac2:
     m 3b "その日はね、私がTwitterで初めてつぶやいた記念日でもあるんだけれど、チョコをあげ合う日でもあるんだよ！"
 
 translate Japanese monika_valentines_chocolates_467adb44:
-    m 1j "この日はみんな色々な気持ちで心に一杯にするんだよね。愛情や恋心、そして…"
+    m 1j "この日はみんな色々な気持ちで心を一杯にするんだよね。愛情や恋心、そして……"
 
 translate Japanese monika_valentines_chocolates_cc3b4ae3:
     m 1n "拒絶。"
@@ -362,7 +362,7 @@ translate Japanese monika_valentines_greeting_4ab3087d:
     m 1g "大丈夫？"
 
 translate Japanese monika_valentines_greeting_cdf2dfc0:
-    m 1o "…"
+    m 1o "..."
 
 translate Japanese monika_valentines_greeting_7bb74ee4:
     m 1l "元気出して！"

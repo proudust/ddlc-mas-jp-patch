@@ -1,4 +1,4 @@
-﻿translate Japanese strings:
+translate Japanese strings:
     old "{#weekday}Monday"
     new "{#weekday}月曜日"
 

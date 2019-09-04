@@ -1,60 +1,54 @@
-﻿translate Japanese game_pong_742bfe52:
-    m 1a "ポンのゲームを遊びたいの？おっけ～！"
+translate Japanese game_pong_354f0e44:
+    m 1eua "ポンのゲームを遊びたいの？おっけ～！"
 
 translate Japanese _mas_pong_inst_dialogue_8b4dbcb0:
     m "もう一度遊びたい？" nointeract
 
-translate Japanese mas_pong_dlg_winner_29cfd702:
-    m 1j "私の勝ち～！"
+translate Japanese mas_pong_dlg_winner_b7fd60cf:
+    m 1hua "私の勝ち～！"
 
-translate Japanese mas_pong_dlg_winner_end_da7ce32c:
-    m 4e "すごくシンプルだから、そこまで燃えるゲームじゃないんだけど……"
+translate Japanese mas_pong_dlg_winner_end_d5b8a9ec:
+    m 4tku "すごくシンプルだから、そこまで燃えるゲームじゃないんだけど……"
 
-translate Japanese mas_pong_dlg_winner_end_a43d7d92:
-    m 1a "でもふたりで同じ時間を過ごせることは間違いないよね？"
+translate Japanese mas_pong_dlg_winner_end_b920f7d0:
+    m 1eua "でも一緒に時間を過ごせたんだし、まあいっか。"
 
-translate Japanese mas_pong_dlg_winner_end_30727938:
-    m "あはは！"
+translate Japanese mas_pong_dlg_winner_end_3772217d:
+    m 1hub "あはは！"
 
-translate Japanese mas_pong_dlg_winner_end_1ce08673:
-    m 1b "[player]君ったら、わざと私に勝たせてくれたんだよね？ありがとう！"
+translate Japanese mas_pong_dlg_winner_end_3ce54d15:
+    m 1eua "[player]君ったら、わざと私に勝たせてくれたんだよね？ありがとう！"
 
-translate Japanese mas_pong_dlg_winner_end_60263202:
-    m 1a "だって、こんなゲーム本気でやって負けるの小学生くらいでしょ？"
+translate Japanese mas_pong_dlg_winner_end_45b32cf9:
+    m 1tku "だって、こんなゲーム本気でやって負けるの小学生くらいでしょ？"
 
-translate Japanese mas_pong_dlg_winner_end_45d9cd96:
-    m "えへへ～"
+translate Japanese mas_pong_dlg_winner_end_19428ff1:
+    m 1hua "えへへ～"
 
-translate Japanese mas_pong_dlg_loser_8d1e5110:
-    m 1a "あなたの勝ち！おめでとう。"
+translate Japanese mas_pong_dlg_loser_196f83be:
+    m 1hub "あなたの勝ち！おめでとう。"
 
-translate Japanese mas_pong_dlg_loser_end_b0206540:
-    m 1d "むぅー、私も本気出したのに～"
+translate Japanese mas_pong_dlg_loser_end_b09e64e3:
+    m 1wuo "むぅー、私も本気出したのに～"
 
-translate Japanese mas_pong_dlg_loser_end_9b04dd41:
-    m 1a "もしかしてポンをすごく練習したんじゃない？"
+translate Japanese mas_pong_dlg_loser_end_c71f4cc6:
+    m 1eua "もしかしてポンをすごく練習したんじゃない？"
 
-translate Japanese mas_pong_dlg_loser_end_9bcb2616:
-    m "勝ったのがちょっと誇らしい、みたいな？"
+translate Japanese mas_pong_dlg_loser_end_048fc8fd:
+    m 1tku "勝ったのがちょっと誇らしい、みたいな？"
 
-translate Japanese mas_pong_dlg_loser_end_e51f2fe0:
-    m 1j "私にかっこいいところを見せるためだったりして……ね、[player]君？"
+translate Japanese mas_pong_dlg_loser_end_0d458e28:
+    m 1hua "私にかっこいいところを見せるためだったりして……ね、[player]君？"
 
-translate Japanese mas_pong_dlg_loser_fast_7b11d089:
-    m 1e "[player]君、次はボコボコにするから。"
+translate Japanese mas_pong_dlg_loser_fast_ab473560:
+    m 1tfu "[player]君、次はボコボコにするから。"
 
 translate Japanese strings:
     old "[player]"
     new "[player]"
 
-    old "Monika"
-    new "モニカ"
+    old "[m_name]"
+    new "[m_name]"
 
     old "Click to Begin"
     new "クリックでスタートします"
-
-    old "Yes."
-    new "はい"
-
-    old "No."
-    new "いいえ"

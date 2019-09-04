@@ -1,4 +1,4 @@
-﻿translate Japanese python:
+translate Japanese python:
     splash_message_default = "このゲームは非公式ファンMODであり、Team Salvatoとは無関係です。"
     splash_messages = [
     "Doki Doki Literature Club、ならびにTeam Salvatoへのサポートをよろしくお願いします。",

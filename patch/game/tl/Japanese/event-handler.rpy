@@ -3,13 +3,13 @@ translate Japanese strings:
     new "どんなお話をしたい？"
 
     old "{b}Unseen.{/b}"
-    new "未読"
+    new "もっと他の話"
 
     old "Ask a question."
-    new "質問"
+    new "質問する"
 
     old "Repeat conversation."
-    new "もう一度"
+    new "会話に戻る"
 
     old "Goodbye."
     new "さよなら"

@@ -1,72 +1,111 @@
-﻿translate Japanese game_hangman_cc3d7832:
-    m 2b "ハングマンで遊びたいの？おっけ～！"
+translate Japanese game_hangman_a94675bd:
+    m 2eub "You want to play [store.mas_hangman.game_name]? Okay!"
 
-translate Japanese hangman_game_loop_d86a9b76:
-    m 1a "まずは単語を考えるね……"
+translate Japanese mas_hangman_game_select_diff_d4f7473e:
+    m "Choose a difficulty." nointeract
 
-translate Japanese hangman_game_loop_a447b1ab:
-    m "OK、考えたよ！"
+translate Japanese mas_hangman_game_loop_c01c61c2:
+    m 1eua "まずは単語を考えるね……"
 
-translate Japanese hangman_game_loop_6f9f945d:
-    m "[hm_hint]"
+translate Japanese mas_hangman_game_loop_a447b1ab:
+    m "よし、考えたよ！"
 
-translate Japanese hangman_game_loop_ec08e45d:
+translate Japanese mas_hangman_game_loop_6f9f945d:
+    m "[hm_hint!t]"
+
+translate Japanese mas_hangman_game_loop_ec08e45d:
     m "{cps=*2}[hm_glitch_word]{/cps}{w=0.2}{nw}"
 
-translate Japanese hangman_game_loop_dca54b64:
-    m 1j "次はうまくいくといいね～"
+translate Japanese mas_hangman_game_loop_38cea231:
+    m 1eka "[player]君、……"
 
-translate Japanese hangman_game_loop_6f9f945d_1:
-    m "[hm_hint]"
+translate Japanese mas_hangman_game_loop_3b6e1424:
+    m "自分の名前も当てられなかったの？"
 
-translate Japanese hangman_game_loop_cc48e562:
-    m 1n "[player]君……"
+translate Japanese mas_hangman_game_loop_192ec138:
+    m 1hua "次はうまくいくといいね～"
 
-translate Japanese hangman_game_loop_731a3739:
+translate Japanese mas_hangman_game_loop_6f9f945d_1:
+    m "[hm_hint!t]"
+
+translate Japanese mas_hangman_game_loop_c20402db:
+    m 1lksdlb "[player]君……"
+
+translate Japanese mas_hangman_game_loop_9809a66e:
+    m "I thought you said you wanted to play [store.mas_hangman.game_name]."
+
+translate Japanese mas_hangman_game_loop_514482b6:
+    m 1lksdlc "一文字も考えなかったよね。"
+
+translate Japanese mas_hangman_game_loop_e612037c:
+    m "……"
+
+translate Japanese mas_hangman_game_loop_fb39925b:
+    m 1ekc "あなたと遊ぶのって本当に楽しいんだよね。"
+
+translate Japanese mas_hangman_game_loop_5f84907e:
+    m 1ekc "Don't give up so easily."
+
+translate Japanese mas_hangman_game_loop_39f4a1a9:
+    m 3eka "That was only your first wrong letter!"
+
+translate Japanese mas_hangman_game_loop_7a56b717:
+    m 1eka "You still had [chances] more lives left."
+
+translate Japanese mas_hangman_game_loop_e2b0b1df:
+    m 1eka "You still had [chances] more life left."
+
+translate Japanese mas_hangman_game_loop_0445ef5f:
+    m 1hua "I know you can do it!"
+
+translate Japanese mas_hangman_game_loop_10ce11f1:
+    m 1eka "It would really mean a lot to me if you just tried a bit harder."
+
+translate Japanese mas_hangman_game_loop_731a3739:
     m "せめて最後までプレイしようよ……"
 
-translate Japanese hangman_game_loop_9e58fd52:
-    m 1f "すぐあきらめるの、どうかと思うな。"
+translate Japanese mas_hangman_game_loop_00b0f85b:
+    m 1ekc "すぐあきらめるの、どうかと思うな。"
 
-translate Japanese hangman_game_loop_5a6e4179:
+translate Japanese mas_hangman_game_loop_5a6e4179:
     m "あと[chances]文字当てないと、あなたの負けだよ？"
 
-translate Japanese hangman_game_loop_64d6f610:
+translate Japanese mas_hangman_game_loop_64d6f610:
     m "あと[chances]文字当てないと、あなたの負けだよ？"
 
-translate Japanese hangman_game_loop_6e84c3d9:
-    m 1e "[player]君、次は最後まで私につきあってくれるよね？"
+translate Japanese mas_hangman_game_loop_17be01df:
+    m 1eka "[player]君、次は最後まで私につきあってくれるよね？"
 
-translate Japanese hangman_game_loop_0a3ecc53:
-    m 1j "わっ、正解！"
+translate Japanese mas_hangman_game_loop_c7891309:
+    m 1hua "わっ、ちゃんと[the_word]を当てられたね！"
 
-translate Japanese hangman_game_loop_73956dbf:
+translate Japanese mas_hangman_game_loop_73956dbf:
     m "すごいね、[player]君！"
 
-translate Japanese hangman_game_loop_6a8e1911:
+translate Japanese mas_hangman_game_loop_6a8e1911:
     m "もう一度やる？" nointeract
 
-translate Japanese hangman_game_end_ca4afafc:
-    m 1d "ハングマンは実際すごく難しいゲームなんだよね。"
+translate Japanese mas_hangman_dlg_game_end_long_a3194e1a:
+    m 1euc "[store.mas_hangman.game_name] is actually a pretty hard game."
 
-translate Japanese hangman_game_end_5a7c1bd2:
+translate Japanese mas_hangman_dlg_game_end_long_5a7c1bd2:
     m "いろいろな単語を当てるには、けっこうなボキャブラリが必要だから。"
 
-translate Japanese hangman_game_end_9ef51da9:
-    m 1j "このゲームのいちばんの上達法は、もっともっと読書すること！"
+translate Japanese mas_hangman_dlg_game_end_long_eba0111e:
+    m 1hua "このゲームのいちばんの上達法は、もっともっと読書すること！"
 
-translate Japanese hangman_game_end_6c8ea6c2:
-    m 1a "私のために[player]君が読書してくれたら、すごくうれしいんだけどな。"
+translate Japanese mas_hangman_dlg_game_end_long_5e2797d5:
+    m 1eua "私のために[player]君が読書してくれたら、すごくうれしいんだけどな。"
+
+translate Japanese mas_hangman_dlg_game_end_short_d66b1a5a:
+    m 1eua "うん。じゃあまたすぐに遊ぼうね！"
 
 translate Japanese strings:
-    old "{0} would like this word the most."
-    new "{0}が最も好きな言葉ね"
+    old "Easy."
+    new "Easy."
 
-    old "Missed:"
-    new "Missed:"
+    old "Normal."
+    new "Normal."
 
-    old "Guess a letter: (Type '?' to repeat the hint, "
-    new "Guess a letter: (Type '?' to repeat the hint, "
-
-    old "'!' to give up"
-    new "'!' to give up"
+    old "Hard."
+    new "Hard."

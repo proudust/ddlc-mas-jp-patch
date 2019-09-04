@@ -1,4 +1,4 @@
-﻿translate Japanese _call_spaceroom_mpgo_b61a6484:
+translate Japanese _call_spaceroom_mpgo_b61a6484:
     m "こんにちは、[player]君！"
 
 translate Japanese _call_spaceroom_mpgo_cfc770e8:

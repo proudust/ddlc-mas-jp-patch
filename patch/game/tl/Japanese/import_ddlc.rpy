@@ -1,4 +1,4 @@
-﻿translate Japanese import_ddlc_persistent_16686534:
+translate Japanese import_ddlc_persistent_16686534:
     "Doki Doki Literature Clubのセーブデータは[save_path]に存在しています。"
 
 translate Japanese import_ddlc_persistent_52e7b5e2:

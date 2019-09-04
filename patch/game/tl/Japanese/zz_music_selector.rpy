@@ -1,3 +1,6 @@
 translate Japanese strings:
-    old "None"
-    new "なし"
+    old "<<<< Prev"
+    new "<<<< Prev"
+
+    old "Next >>>>"
+    new "Next >>>>"
