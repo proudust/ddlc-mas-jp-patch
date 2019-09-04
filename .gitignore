@@ -1,3 +1,19 @@
+# Ren'Py
+lib/
+renpy/
+*.rpa
+*.rpy[bc]
+*.save
+log.txt
+errors.txt
+traceback.txt
+persistent
+screenshot*.png
+
 # VSCode
 .history/
 .vscode/
+
+# ddlc-mas-jp-patch
+/ddlc/
+/game/
