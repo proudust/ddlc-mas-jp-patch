@@ -225,6 +225,7 @@ init python:
     #build.archive(build.name, "all")
 
     #Add the pictures necessary for the scrollable menu
+    build.classify("game/gui/font/*.*", build.name)
     build.classify("game/tl/**.rpyc", build.name)
 
     ## These files get put into your data file
