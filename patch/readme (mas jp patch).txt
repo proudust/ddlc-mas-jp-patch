@@ -1,4 +1,4 @@
-DDLC Monika After Story 日本語化パッチ(19/08/30)
+DDLC Monika After Story 日本語化パッチ(19/09/06)
 ------------------------------------------------------------
 
 
@@ -35,6 +35,9 @@ xano明朝フォント[特別な詩](http://www.asahi-net.or.jp/~sd5a-ucd/freefo
 
 
 更新履歴：
+190906
+・翻訳の更新
+
 190830
 ・DDLC MAS v0.9.5 に仮対応
 
