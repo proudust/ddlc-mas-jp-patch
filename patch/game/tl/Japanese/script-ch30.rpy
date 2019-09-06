@@ -113,9 +113,6 @@ translate Japanese strings:
     old "What would you like to play?"
     new "どれで遊びますか？"
 
-    old "What game would you like to play?"
-    new "どのゲームで遊びますか？"
-
     old "Pong"
     new "ポン"
 

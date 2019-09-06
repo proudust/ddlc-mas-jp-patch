@@ -5302,6 +5302,9 @@ translate Japanese monika_zombie_713e39a3:
 translate Japanese monika_zombie_ae645349:
     m 3esc "いつも通りの暮らしは一瞬にして奪われ、"
 
+translate Japanese monika_zombie_ec86b845:
+    m 1esc "もちろん、社会全体が日常レベルで脅威にさらされることになる。"
+
 translate Japanese monika_zombie_95f5fe14:
     m 1lksdlc "ゾンビにかかれば、そんなの一瞬よ。"
 
@@ -5446,11 +5449,14 @@ translate Japanese monika_pluralistic_ignorance_d04ac6d2:
 translate Japanese monika_pluralistic_ignorance_7b506637:
     m "もしも評論家がみんな自分に正直になれば、シェークスピアが嫌いなのは実は珍しいことじゃないって分かったりして。"
 
+translate Japanese monika_pluralistic_ignorance_be7ec796:
+    m 2hksdlb "それに、高校生がひどい戯曲を嫌々読まされなくても済むようになるかも。"
+
 translate Japanese monika_pluralistic_ignorance_0ae8a033:
     m 1eka "私さ、ナツキはすごいなって尊敬してることがひとつあって、"
 
 translate Japanese monika_pluralistic_ignorance_94fc7c73:
-    m 3ekd "マンガは文学じゃないって他人からどれだけ言われても、あの子、自分の気持は曲げなかったもんね。"
+    m 3ekd "マンガは文学じゃないって他人からどれだけ言われても、あの子、自分の気持ちは曲げなかったもんね。"
 
 translate Japanese monika_pluralistic_ignorance_86271c12:
     m 3eka "誰もが自分の気持に正直になれれば、きっとすごいことになると思うんだけどな。"
@@ -5475,6 +5481,9 @@ translate Japanese monika_science_11285c16:
 
 translate Japanese monika_science_f352d58a:
     m 1euc "科学というものは、いつも蔑まれてきたわ。特に教会には。"
+
+translate Japanese monika_science_f6c313c0:
+    m 4esc "ジョルダーノ・ブルーノは、宇宙に数多の惑星が存在していることを主張したばかりに、その理論を証明する前にローマ教皇庁によって処刑されたことで有名ね。"
 
 translate Japanese monika_science_5d14cfe8:
     m 1ekc "その理論は、古い考えに反していた。だから、彼は殺された。"
@@ -5512,11 +5521,20 @@ translate Japanese monika_surprise_93063d6c:
 translate Japanese monika_surprise_17547d96:
     m 1eua "うん、名案ね。"
 
+translate Japanese monika_surprise_8002471b:
+    m 2dsa "{w=0.5}…{w=0.5}…{nw}"
+
 translate Japanese monika_surprise_0d527817:
     m 1hua "よし！"
 
 translate Japanese monika_surprise_8ce390fd:
     m 1eua "何を待っているの？さ、見てきて！"
+
+translate Japanese monika_surprise_e5b9210f:
+    m 2dsc "{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese monika_surprise_ff7177e0:
+    m 2duu "{w=0.5}…{w=0.5}…{nw}"
 
 translate Japanese monika_surprise_676433fa:
     m 1hub "あははっ、なに？怖いモノでも想像してた？"

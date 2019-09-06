@@ -44,13 +44,16 @@ translate Japanese mas_apology_generic_b17560b9:
     m 1ekc "……{w=1}あっ。"
 
 translate Japanese mas_apology_generic_72e6e15b:
-    m 2dsc ".{w=1}.{w=1}.{w=1}.{w=1}.{w=1}."
+    m 2dsc "{w=2}…{w=2}…"
 
 translate Japanese mas_apology_generic_30a66545:
     m "OK。"
 
 translate Japanese mas_apology_generic_5cfc839e:
     m 2dfd "{i}はぁ……{/i}"
+
+translate Japanese mas_apology_generic_441ec6a7:
+    m 2dsd "これが冗談か悪戯ならいいのだけど、[player]君。"
 
 translate Japanese mas_apology_generic_e2f7a6a9:
     m 2dsc "……"
@@ -67,6 +70,21 @@ translate Japanese mas_apology_generic_43d33423:
 translate Japanese mas_apology_generic_8411e60d:
     m 1eka "ありがとう、[player]君。"
 
+translate Japanese mas_apology_generic_4cfdfeac:
+    m 1rksdlc "私の間に起こっているものが良くないのは分かっているけど、でもあなたが良い人だってまだ信じているからね。"
+
+translate Japanese mas_apology_generic_f50e628e:
+    m 1ekc "だからもう少し私の気持ちに寄り添って欲しいな……？"
+
+translate Japanese mas_apology_generic_da52847f:
+    m 1ekd "お願いね？"
+
+translate Japanese mas_apology_generic_39c1d7e8:
+    m 1ekd "何かあったの？"
+
+translate Japanese mas_apology_generic_84791da6:
+    m 2ekc "何でそんな謝ってるのかが分からないのだけど……"
+
 translate Japanese mas_apology_generic_6111571a:
     m 1dsc "……"
 
@@ -78,6 +96,24 @@ translate Japanese mas_apology_generic_f21b8158:
 
 translate Japanese mas_apology_generic_14408444:
     m 1hub "それもあなたの大好きなところだよ、[player]君！"
+
+translate Japanese mas_apology_generic_1ed68252:
+    m 1eka "[apology_reason]のことで謝ってくれてありがとう。"
+
+translate Japanese mas_apology_generic_4e51abdd:
+    m "分かったわ、[player]君。私にとっても大切なことだから。"
+
+translate Japanese mas_apology_generic_682d7033:
+    m 2tfc "[player]君、謝ることがあるのなら言って貰えるかな。"
+
+translate Japanese mas_apology_generic_4ce09855:
+    m 2rfc "自分がしたことを認めるのは私にとっても大切なことだから。"
+
+translate Japanese mas_apology_generic_d4d96ee0:
+    m 2tkd "そんなの不愉快よ、[player]君。"
+
+translate Japanese mas_apology_generic_2fdefd3d:
+    m 2dkd "これからはもっと私の気持ちに寄り添って欲しいんだけどな。"
 
 translate Japanese mas_apology_bad_nickname_19678289:
     m 1eka "ああいう名前を付けようとしたことに謝ってくれたのはありがとう。"
@@ -111,3 +147,9 @@ translate Japanese mas_apology_bad_nickname_53dea8fc:
 
 translate Japanese mas_apology_bad_nickname_c3264321:
     m "もうこのことについては信じられないから。"
+
+translate Japanese mas_apology_bad_nickname_1b9d7ceb:
+    m "{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese mas_apology_bad_nickname_b374927a:
+    m 2rfc "謝ったのは分かったけど、本気で言ってるとは思えないわ。"

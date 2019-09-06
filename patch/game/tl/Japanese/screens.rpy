@@ -87,7 +87,7 @@ translate Japanese strings:
     new "不安定モード"
 
     old "Unstable mode downloads updates from the experimental unstable branch of development. It is HIGHLY recommended to make a backup of your persistents before enabling this mode."
-    new "不安定モードでは開発中の実験的かつ不安定なブランチからアップデートをダウンロードします。オンにする前にあなたの部長さんのバックアップを取ることを{i}強く{/i}推奨します。"
+    new "不安定モードでは開発中の実験的かつ不安定なブランチからアップデートをダウンロードします。\nオンにする前にあなたの部長さんのバックアップを取ることを{i}強く{/i}推奨します。"
 
     old "Repeat Topics"
     new "話題の繰り返し"
@@ -96,9 +96,9 @@ translate Japanese strings:
     new "モニカが既出の話題を繰り返し話せるようにします。"
 
     old "Sensitive Mode"
-    new "デリケートモード"
+    new "ﾃﾞﾘｹｰﾄﾓｰﾄﾞ"
 
-    old "Sensitive mode removes content that may be disturbing, offensive, or considered tasteless."
+    old "Sensitive mode removes content that may be disturbing, offensive,  or considered tasteless."
     new "デリケートモードでは不安を煽る、不快、不適切と思われる話題が表示されないようにします。"
 
     old "Sunrise   "
@@ -187,6 +187,33 @@ translate Japanese strings:
 
     old "Introduction"
     new "イントロダクション"
+
+    old "Route Part 1, How To Make A Mod"
+    new "パート1：MODの作り方"
+
+    old "Route Part 2, Music"
+    new "パート2：サウンド"
+
+    old "Route Part 3, Scene"
+    new "パート3：シーン"
+
+    old "Route Part 4, Dialogue"
+    new "パート4：会話"
+
+    old "Route Part 5, Menu"
+    new "パート5：メニュー"
+
+    old "Route Part 6, Logic Statement"
+    new "パート6：条件分岐"
+
+    old "Route Part 7, Sprite"
+    new "パート7：スプライト"
+
+    old "Route Part 8, Position"
+    new "パート8：位置設定"
+
+    old "Route Part 9, Ending"
+    new "パート9：エンディング"
 
     old "That's enough for now."
     new "今は十分です"

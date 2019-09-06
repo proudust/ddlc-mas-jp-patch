@@ -1,11 +1,11 @@
-translate Japanese splashscreen_0320a168:
+translate Japanese _call_mas_backups_you_have_corrupted_persistent_0320a168:
     "[config.name]はDoki Doki Literature ClubのファンMODであり、Team Salvatoとは関係がありません。"
 
-translate Japanese splashscreen_12775544:
+translate Japanese _call_mas_backups_you_have_corrupted_persistent_12775544:
     "このMODは、公式DDLCをクリア後にプレイするものとして作成されており、DDLCのネタバレを含みます。"
 
-translate Japanese splashscreen_e193832f:
-    "このMODはをプレイするにはDoki Doki Literature Club本体ファイルが必要です。ファイルは公式サイトから無料ダウンロードできます。 http://ddlc.moe"
+translate Japanese _call_mas_backups_you_have_corrupted_persistent_e193832f:
+    "このMODをプレイするにはDoki Doki Literature Club本体ファイルが必要です。ファイルは公式サイトから無料ダウンロードできます。 http://ddlc.moe"
 
 translate Japanese after_load_78a4e9dc:
     "セーブデータをロードできませんでした。"
@@ -14,6 +14,9 @@ translate Japanese after_load_5c5510ae:
     "チートをしようとしたの？"
 
 translate Japanese strings:
+    old "DDLC archive files not found in /game folder. Check installation and try again."
+    new "game フォルダに DDLC アーカイブファイルが見つかりません。フォルダを確認した上で再試行してください。"
+
     old "[splash_message]"
     new "[splash_message!t]"
 
@@ -55,9 +58,6 @@ translate Japanese strings:
 
     old "This game is not suitable for children\nor those who are easily dismembered."
     new "このゲームには子供に相応しくない内容、または\nあなたの四肢が切断されかねない表現が含まれています。"
-
-    old "Don't forget to backup Monika's character file."
-    new "Monika.chrのバックアップを忘れずに。"
 
     old "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."
     new "[config.name]をプレイすることにより、DDLC本編をクリア済であり、いかなるネタバレも受け入れることに同意したものとみなされます。"

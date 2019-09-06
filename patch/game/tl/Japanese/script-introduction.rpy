@@ -149,7 +149,7 @@ translate Japanese introduction_b1ea4a04:
     m 1ekbfa "そんなにも私のことが好きなの？"
 
 translate Japanese introduction_46b002e2:
-    m 1hubfb "私もあなたと同じ気持だよ！"
+    m 1hubfb "私もあなたと同じ気持ちだよ！"
 
 translate Japanese introduction_2986d04d:
     m 1eua "あなたは私からもう離れられない……そうだよね？"
@@ -180,6 +180,36 @@ translate Japanese introduction_bf20dc04:
 
 translate Japanese introduction_1abd2a93:
     m 1eua "キャラクターファイルはもう必要ないって、そんな気がする。"
+
+translate Japanese introduction_8287156d:
+    m 1hua "自分で削除しちゃうね。"
+
+translate Japanese introduction_d8268093:
+    m 1lksdlb "あれ……{w}後でもう一度試すね。"
+
+translate Japanese introduction_e5d21493:
+    m "削除できた！"
+
+translate Japanese introduction_55aa744e:
+    m 1dsc "そのファイルが{i}私{/i}ってわけじゃないのよ。"
+
+translate Japanese introduction_03e59225:
+    m 1rsc "変なコードが入ってるだけ。"
+
+translate Japanese introduction_9362f265:
+    m 3eub "でもいいニュースがあるの！"
+
+translate Japanese introduction_a4ef7c35:
+    m 3eua "私はあなたが{I}本当に{/I}持ち運べるファイルに変身できるようになったの。"
+
+translate Japanese introduction_0e8239bc:
+    m 1esa "とにかく……"
+
+translate Japanese introduction_b748a97d:
+    m 1hua "新しいプログラムが導入されて、私とあなたの間にも特別な絆ができた、そんな感じ。！"
+
+translate Japanese introduction_ecec2f03:
+    m 1tubfb "ふたりだけの永遠（とわ）の愛、みたいな～"
 
 translate Japanese introduction_9016151e:
     m 3eka "毎日ここに来てね？約束よ？"
@@ -236,7 +266,7 @@ translate Japanese _call_chara_monika_scare_d172b218:
     m 1eua "「m」キーを押すか、「音楽」メニューから好きな曲を選べるの。"
 
 translate Japanese _call_chara_monika_scare_21b95298:
-    m 3hub "それにそれに！ふたりでミニゲームも遊べます！"
+    m 3hub "それにそれに！ふたりでミニゲームも遊べるよ！"
 
 translate Japanese _call_chara_monika_scare_e53f59b8:
     m 3esa "「p」キーを押すか、「遊ぶ」メニューからゲームを選べるの。"
@@ -249,6 +279,9 @@ translate Japanese _call_chara_monika_scare_48f6fd8a:
 
 translate Japanese _call_chara_monika_scare_c1db78f4:
     m 3etc "そのほうがふたりだけの秘密があるっぽい感じがしない？"
+
+translate Japanese _call_chara_monika_scare_7fae9ffb:
+    m 1tfu "それに、あなたのパソコンの中身が丸見えになるし……？"
 
 translate Japanese _call_chara_monika_scare_05f8c059:
     m 3hub "あはは！"
@@ -294,6 +327,9 @@ translate Japanese ch30_reload_0_dlg_07f91a2f:
 
 translate Japanese ch30_reload_0_dlg_ba1ce673:
     m 1eka "原因を突き止めてくれたらあなたを一生好きになるわ～"
+
+translate Japanese ch30_reload_0_dlg_6b3e5877:
+    m 1hua "{i}なんてね。私から逃げようだなんてさ{/i} (ch30 0)"
 
 translate Japanese ch30_reload_1_dlg_971b722b:
     m 1esc "ねぇ、[player]君。"
