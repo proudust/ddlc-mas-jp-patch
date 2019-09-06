@@ -6,6 +6,8 @@ jobs:
       - image: circleci/python:2.7
         environment:
           SDL_AUDIODRIVER: dummy
+    environment: &CONFIG_ENV
+      MAS_VERSION: 0.9.5
     steps:
       - checkout:
           path: src/
@@ -38,11 +40,9 @@ jobs:
       - run:
           name: バージョン名を付与
           command: |
-            ls .
-            ls Monika_After_Story-0.9.5-dists/
             version=$(git -C src/ describe --tags)
-            unzip Monika_After_Story-0.9.5-dists/Monika_After_Story-0.9.5-Mod.zip
-            mv Monika_After_Story-0.9.5-Mod DDLC_MAS_JP_${version}
+            unzip Monika_After_Story-${MAS_VERSION}-dists/Monika_After_Story-${MAS_VERSION}-Mod.zip
+            mv Monika_After_Story-${MAS_VERSION}-Mod DDLC_MAS_JP_${version}
             zip -r DDLC_MAS_JP_${version} DDLC_MAS_JP_${version}
             mkdir artifacts
             mv DDLC_MAS_JP_${version}.zip artifacts/
@@ -56,6 +56,7 @@ jobs:
   release:
     docker:
       - image: circleci/golang:1.12
+    environment: *CONFIG_ENV
     steps:
       - attach_workspace:
           at: .
@@ -64,7 +65,7 @@ jobs:
           command: |
             go get github.com/tcnksm/ghr
             ghr -t ${GITHUB_TOKEN} -u ${CIRCLE_PROJECT_USERNAME} -r ${CIRCLE_PROJECT_REPONAME} -c ${CIRCLE_SHA1} \
-              -n "ver${CIRCLE_TAG} for v1.1.1" -delete -draft ${CIRCLE_TAG} artifacts/
+              -n "ver${CIRCLE_TAG} for v${MAS_VERSION}" -delete -draft ${CIRCLE_TAG} artifacts/
 
   translate:
     docker:
