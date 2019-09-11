@@ -25,11 +25,23 @@ translate Japanese mas_pong_dlg_winner_d9cdf1a0:
 translate Japanese mas_pong_dlg_winner_a46ee899:
     m 1hksdla "お手柔らかにとは言ったけど……ここまでとは思ってないよ、[player]君。"
 
+translate Japanese mas_pong_dlg_winner_2dd452cd:
+    m 3eka "でもそうしてくれたのは感謝するよ～"
+
+translate Japanese mas_pong_dlg_winner_da20386e:
+    m 1hub "いぇーい、勝った！"
+
 translate Japanese mas_pong_dlg_winner_fad54bed:
     m 5ekbfa "ありがとう、[player]君！"
 
 translate Japanese mas_pong_dlg_winner_f299c372:
     m 5hubfb "あなたは優しいね……{w=0.5}勝たせてくれるなんてね～"
+
+translate Japanese mas_pong_dlg_winner_7d41bd0c:
+    m 2rksdlb "あはは、どうしたらそこでミスするの？"
+
+translate Japanese mas_pong_dlg_winner_f8a627d2:
+    m 2rksdlc "[player]君、またミスしたのね……"
 
 translate Japanese mas_pong_dlg_winner_046f1f31:
     m 2tfd "[player]君！"
@@ -82,3 +94,12 @@ translate Japanese strings:
 
     old "Click to Begin"
     new "クリックでスタートします"
+
+    old "Are you letting me win on purpose again?"
+    new "またわざと私に勝たそうとしてるの？"
+
+    old "Are you letting me win on purpose?"
+    new "わざと私に勝たそうとしてるの？"
+
+    old "Yes..."
+    new "うん……"

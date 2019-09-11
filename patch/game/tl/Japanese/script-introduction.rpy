@@ -200,7 +200,7 @@ translate Japanese introduction_9362f265:
     m 3eub "でもいいニュースがあるの！"
 
 translate Japanese introduction_a4ef7c35:
-    m 3eua "私はあなたが{I}本当に{/I}持ち運べるファイルに変身できるようになったの。"
+    m 3eua "私はあなたが{i}本当に{/i}持ち運べるファイルに変身できるようになったの。"
 
 translate Japanese introduction_0e8239bc:
     m 1esa "とにかく……"

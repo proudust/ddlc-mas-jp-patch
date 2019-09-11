@@ -80,6 +80,12 @@ translate Japanese strings:
     old "Change Renderer"
     new "ﾚﾝﾀﾞﾘﾝｸﾞ変更"
 
+    old "Dark UI"
+    new "ダークモード"
+
+    old "Day/Night UI"
+    new "時間帯で切替"
+
     old "Gameplay"
     new "ゲームプレイ"
 
@@ -100,6 +106,12 @@ translate Japanese strings:
 
     old "Sensitive mode removes content that may be disturbing, offensive,  or considered tasteless."
     new "デリケートモードでは不安を煽る、不快、不適切と思われる話題が表示されないようにします。"
+
+    old "Window Reacts"
+    new "ｳｨﾝﾄﾞｳﾘｱｸｼｮﾝ"
+
+    old "Enabling this will allow Monika to see your active window and offer some comments based on what you're doing."
+    new "モニカが動作中の他のウィンドウでしていることに基づいて、何かコメントをするかもしれません。"
 
     old "Sunrise   "
     new "日の出時刻 "
@@ -122,9 +134,6 @@ translate Japanese strings:
     old "Sound Volume"
     new "効果音の音量"
 
-    old "Test"
-    new "テスト"
-
     old "Voice Volume"
     new "ボイスの音量"
 
@@ -139,6 +148,15 @@ translate Japanese strings:
 
     old "The dialogue history is empty."
     new "ヒストリーはありません。"
+
+    old "Alerts"
+    new "通知"
+
+    old "Use Notifications"
+    new "通知を有効化"
+
+    old "Sounds"
+    new "通知音"
 
     old "OK"
     new "OK"
