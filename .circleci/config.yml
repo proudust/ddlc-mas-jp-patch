@@ -69,9 +69,12 @@ jobs:
 
   translate:
     docker:
-      - image: circleci/golang:1.8
+      - image: circleci/golang:1.12
     steps:
       - checkout
+      - run:
+          name: hub のインストール
+          command: sudo apt install hub
       - run:
           name: Git の設定
           command: |
@@ -80,17 +83,21 @@ jobs:
       - run:
           name: 翻訳所からスクリプトをダウンロード
           command: |
-            curl -L https://script.google.com/macros/s/AKfycbwm1HTYwpsoF_Tn26yKveWlwXJOUNCl1zrUcjEo/exec | base64 -d > scripts.zip
+            curl -L ${GAS_DOWNLOAD_TRANSLATE_URL} | base64 -d > scripts.zip
             unzip scripts.zip -d scripts/
             rm scripts.zip
             mv scripts/* patch/game/tl/Japanese/
       - run:
           name: スクリプトをコミット
           command: |
-            git checkout -B translate
+            git branch -D translate || true
+            git checkout master
+            git checkout -b translate
             git add --all
-            git commit -m ':sparkles: 翻訳の更新'
-            git push -f origin translate
+            if git commit -m ':sparkles: 翻訳の更新'; then
+              git push -f origin translate
+              hub pull-request -m "翻訳の更新" -h translate -a ${CIRCLE_PROJECT_USERNAME} || true
+            fi
 
 workflows:
   version: 2
