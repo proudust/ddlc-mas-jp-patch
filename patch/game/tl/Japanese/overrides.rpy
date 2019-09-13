@@ -16,6 +16,9 @@ translate Japanese style check_button_text:
 translate Japanese style check_dark_button_text:
     font "gui/font/Mikachan.ttf"
 
+translate Japanese style choice_button_text:
+    font gui.default_font
+
 translate Japanese style choice_dark_button_text:
     font gui.default_font
 
