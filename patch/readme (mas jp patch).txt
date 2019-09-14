@@ -1,18 +1,24 @@
-DDLC Monika After Story 日本語化パッチ(19/09/06)
+DDLC Monika After Story 日本語化パッチ(19/09/14)
 ------------------------------------------------------------
 
 
 
 使用方法：
-本編日本語化パッチは予めアンインストールして下さい
+詳細は Steam ガイドを参照してください
+https://steamcommunity.com/sharedfiles/filedetails/?id=1331592265
 
-1. Google Driveから日本語化パッチをダウンロードします
+また、本編日本語化パッチは予めアンインストールして下さい
+https://steamcommunity.com/sharedfiles/filedetails/?id=1296040205
 
-2. DDLCのインストールディレクトリ(Steam\steamapps\common\Doki Doki Literature Club)を開きます
+1. Monika After Story 公式サイトから最新の Monika After Story の zip をダウンロードします
 
-3. インストールディレクトリ内のgameフォルダを日本語化パッチ内のgameフォルダで上書きします
+2. DDLC のインストールディレクトリ (Steam\steamapps\common\Doki Doki Literature Club) を開きます
 
-4. 起動してメッセージやタイトルが日本語になっていれば成功です
+3. Monika After Story の zip の中身をインストールディレクトリ内の game フォルダへ移動します
+
+4. 日本語化パッチの game フォルダをインストールディレクトリ内のgameフォルダに上書きします
+
+5. 起動してメッセージやタイトルが日本語になっていれば成功です
 
 
 
@@ -34,7 +40,27 @@ xano明朝フォント[特別な詩](http://www.asahi-net.or.jp/~sd5a-ucd/freefo
 
 
 
+関連リンク：
+配布ページ (Steam ガイド)
+https://steamcommunity.com/sharedfiles/filedetails/?id=1331592265
+
+Doki Doki Literature Club! 日本語化 作業所 (Google スプレッドシート)
+https://docs.google.com/spreadsheets/d/1X8rvZMdBmTrvt7rCIgfOR7R7NcjY6BFTTh0miAvMvn0/edit?usp=sharing
+
+DDLC翻訳部 (Discord)
+https://discordapp.com/invite/9U9QCN2
+
+日本語化パッチのソースコード (GitHub)
+https://github.com/proudust/ddlc-mas-jp-patch
+
+
+
 更新履歴：
+190914
+・DDLC MAS v0.10.0 に仮対応
+・ダークテーマに対応
+・翻訳の更新
+
 190906
 ・翻訳の更新
 
