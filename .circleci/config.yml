@@ -115,6 +115,10 @@ workflows:
               ignore: /.*/
             tags:
               only: /.*/
+      - translate:
+          filters:
+            branches:
+              only: master
   translate:
     jobs:
       - translate
