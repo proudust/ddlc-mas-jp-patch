@@ -227,6 +227,7 @@ init python:
     #Add the pictures necessary for the scrollable menu
     build.classify("game/gui/font/*.*", build.name)
     build.classify("game/tl/**.rpyc", build.name)
+    build.classify("game/zz_calendar.rpyc", build.name)
 
     ## These files get put into your data file
     build.classify("game/mod_assets/**", None)
