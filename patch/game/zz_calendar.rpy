@@ -1144,10 +1144,13 @@ init -1 python in mas_calendar:
             [1]: timedelta between today and the given _date
         """
         return (
-            " ".join([
-                _date.strftime("%B"), # month
-                _formatDay(_date.day) + ",", # day
-                str(_date.year) # year
+            "".join([
+                str(_date.year),
+                "年",
+                str(_date.month),
+                "月",
+                str(_date.day),
+                "日",
             ]),
             datetime.date.today() - _date
         )
