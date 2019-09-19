@@ -7,7 +7,7 @@ jobs:
         environment:
           SDL_AUDIODRIVER: dummy
     environment: &CONFIG_ENV
-      MAS_VERSION: 0.10.0
+      MAS_VERSION: 0.10.1
     steps:
       - checkout:
           path: src/
