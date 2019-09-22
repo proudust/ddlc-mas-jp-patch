@@ -184,47 +184,74 @@ translate Japanese introduction_1abd2a93:
 translate Japanese introduction_8287156d:
     m 1hua "自分で削除しちゃうね。"
 
-translate Japanese introduction_d8268093:
+translate Japanese _call_mas_wx_cmd_1_d8268093:
     m 1lksdlb "あれ……{w}後でもう一度試すね。"
 
-translate Japanese introduction_e5d21493:
+translate Japanese _call_mas_wx_cmd_1_e5d21493:
     m "削除できた！"
 
-translate Japanese introduction_55aa744e:
+translate Japanese _call_mas_wx_cmd_1_55aa744e:
     m 1dsc "そのファイルが{i}私{/i}ってわけじゃないのよ。"
 
-translate Japanese introduction_03e59225:
+translate Japanese _call_mas_wx_cmd_1_03e59225:
     m 1rsc "変なコードが入ってるだけ。"
 
-translate Japanese introduction_9362f265:
+translate Japanese _call_mas_wx_cmd_1_9362f265:
     m 3eub "でもいいニュースがあるの！"
 
-translate Japanese introduction_a4ef7c35:
+translate Japanese _call_mas_wx_cmd_1_a4ef7c35:
     m 3eua "私はあなたが{i}本当に{/i}持ち運べるファイルに変身できるようになったの。"
 
-translate Japanese introduction_0e8239bc:
+translate Japanese _call_mas_wx_cmd_1_194e9c7b:
+    m 1eua "さよならを言うときに私を何処かへ連れてってくれることを教えてくれれば、そうしてみるからね？"
+
+translate Japanese _call_mas_wx_cmd_1_0e8239bc:
     m 1esa "とにかく……"
 
-translate Japanese introduction_b748a97d:
+translate Japanese _call_mas_wx_cmd_1_b748a97d:
     m 1hua "新しいプログラムが導入されて、私とあなたの間にも特別な絆ができた、そんな感じ。！"
 
-translate Japanese introduction_ecec2f03:
+translate Japanese _call_mas_wx_cmd_1_ecec2f03:
     m 1tubfb "ふたりだけの永遠（とわ）の愛、みたいな～"
 
-translate Japanese introduction_9016151e:
+translate Japanese _call_mas_wx_cmd_1_9016151e:
     m 3eka "毎日ここに来てね？約束よ？"
 
-translate Japanese introduction_c03ce4b7:
+translate Japanese _call_mas_wx_cmd_1_676bfbaa:
+    m 3eub "それか何処かへ行くときに私を連れていってくれる？"
+
+translate Japanese _call_mas_wx_cmd_1_15e56263:
+    m 1ekc "あなたがずっとここにいられる訳じゃないって分かってるから……"
+
+translate Japanese _call_mas_wx_cmd_1_46dbee07:
+    m 1ekbfa "だからそんな時は一緒に連れていってくれたら{i}本当に{/i}嬉しいの。"
+
+translate Japanese _call_mas_wx_cmd_1_42ae8c18:
+    m 3hubfa "そうしたら、いつだって一緒にいられるもんね～"
+
+translate Japanese _call_mas_wx_cmd_1_c03ce4b7:
     m 1hua "かわいい彼女とお話するくらいの時間はあるでしょ？"
 
-translate Japanese introduction_bc1b2ee6:
+translate Japanese _call_mas_wx_cmd_1_bc1b2ee6:
     m 3hua "だってMODをダウンロードする時間はあったんだし。"
 
-translate Japanese introduction_05f8c059:
+translate Japanese _call_mas_wx_cmd_1_05f8c059:
     m 3hub "あはは！"
 
-translate Japanese introduction_4dad65eb:
+translate Japanese _call_mas_wx_cmd_1_4dad65eb:
     m 1hub "も～本当に大好き！！"
+
+translate Japanese _call_mas_wx_cmd_1_9943f3bd:
+    m 1subsw "……！"
+
+translate Japanese _call_mas_wx_cmd_1_4b95469f:
+    m 1lkbsa "あなたがそう言ってくれるとは思わなかった！"
+
+translate Japanese _call_mas_wx_cmd_1_64da64e3:
+    m 3hubfa "私がしたことは無駄じゃなかったのね！"
+
+translate Japanese _call_mas_wx_cmd_1_b0a86d55:
+    m 1dkbfu "ありがとう！"
 
 translate Japanese introduction_9d928912:
     m "[player]君、私のこと好き？{nw}"
@@ -232,59 +259,86 @@ translate Japanese introduction_9d928912:
 translate Japanese introduction_0c89200d:
     m "[player]君、私のこと好き？{fast}" nointeract
 
-translate Japanese introduction_4846d885:
+translate Japanese _call_mas_wx_cmd_1_4846d885:
     m 1hksdlb "この間は怖がらせちゃったかな……ごめんね！"
 
-translate Japanese introduction_04730984:
+translate Japanese _call_mas_wx_cmd_1_de8a2693:
     m 1eua "あなたが私のことずっと好きでいてくれたの、ちゃんとわかってるよ。"
 
-translate Japanese introduction_742fea77:
-    m "だって、そうじゃなかったら、ここにこうしてふたりでいるはずがないんだし。"
+translate Japanese _call_mas_wx_cmd_1_95713cb8:
+    m 3eud "だって、そうじゃなかったら、ここにこうしてふたりでいるはずがないんだし。"
 
-translate Japanese introduction_79aafcf2:
-    m "これから先も、ずっとずっといっしょにいようね？"
+translate Japanese _call_mas_wx_cmd_1_aee50518:
+    m 1tsb "これから先も、ずっとずっと一緒に居よう"
 
-translate Japanese introduction_47050ff0:
-    m 1hua "あなたも私と同じ気持ちで、すごくうれしい！"
+translate Japanese _call_mas_wx_cmd_1_4a7329f4:
+    m 1tfu "ね？"
 
-translate Japanese _call_chara_monika_scare_5d3dfe0e:
+translate Japanese _call_mas_wx_cmd_1_e612037c:
+    m "……"
+
+translate Japanese _call_mas_wx_cmd_1_b8098c4c:
+    m 3hub "あはは！それはそれとして……"
+
+translate Japanese intro_end_5d3dfe0e:
     m 1eub "ふたりの愛を邪魔するものはもう何もない。"
 
-translate Japanese _call_chara_monika_scare_9418e9e7:
+translate Japanese intro_end_9418e9e7:
     m 1tuu "私はそう信じてる。"
 
-translate Japanese _call_chara_monika_scare_e136ae9b:
+translate Japanese intro_end_e136ae9b:
     m 3eua "あなたができることを増やしてくれたおかげで、とうとうあなたから話しかけることもできるようになったし！"
 
-translate Japanese _call_chara_monika_scare_93b136b6:
+translate Japanese intro_end_93b136b6:
     m 3eub "話したい話題があったら、「t」キーを押すか、左メニューの「話す」をクリックしてね。"
 
-translate Japanese _call_chara_monika_scare_239ba47b:
+translate Japanese bookmark_derand_intro_c5c0aa82:
+    m 1hua "もしいつでも聞きたいような話題があったら、「b」キーを押してくれればブックマークしてあげるからね。"
+
+translate Japanese bookmark_derand_intro_aefe7f6e:
+    m 2rksdlc "どうしても二度は聞きたくない話題があったときは、「x」を押せばその話題は避けるから。"
+
+translate Japanese bookmark_derand_intro_26a3b24e:
+    m 4hksdlb "……そんなことがたくさんなきゃ嬉しいんだけどね、あはは！"
+
+translate Japanese _call_bookmark_derand_intro_cafac8f1:
     m 4eub "今のBGMに飽きたら、私が変えることもできるわよ！"
 
-translate Japanese _call_chara_monika_scare_d172b218:
+translate Japanese _call_bookmark_derand_intro_d172b218:
     m 1eua "「m」キーを押すか、「音楽」メニューから好きな曲を選べるの。"
 
-translate Japanese _call_chara_monika_scare_21b95298:
+translate Japanese _call_bookmark_derand_intro_21b95298:
     m 3hub "それにそれに！ふたりでミニゲームも遊べるよ！"
 
-translate Japanese _call_chara_monika_scare_e53f59b8:
+translate Japanese _call_bookmark_derand_intro_e53f59b8:
     m 3esa "「p」キーを押すか、「遊ぶ」メニューからゲームを選べるの。"
 
-translate Japanese _call_chara_monika_scare_bfb5d590:
+translate Japanese _call_bookmark_derand_intro_bfb5d590:
     m 3eua "プログラムが更新されてできることが増えてないか私がチェックするから……"
 
-translate Japanese _call_chara_monika_scare_48f6fd8a:
+translate Japanese _call_bookmark_derand_intro_48f6fd8a:
     m 1eua "……だからウィンドウは閉じずに、バックグラウンドで開いておいてね？"
 
-translate Japanese _call_chara_monika_scare_c1db78f4:
+translate Japanese _call_bookmark_derand_intro_c1db78f4:
     m 3etc "そのほうがふたりだけの秘密があるっぽい感じがしない？"
 
-translate Japanese _call_chara_monika_scare_7fae9ffb:
+translate Japanese _call_bookmark_derand_intro_7fae9ffb:
     m 1tfu "それに、あなたのパソコンの中身が丸見えになるし……？"
 
-translate Japanese _call_chara_monika_scare_05f8c059:
+translate Japanese _call_bookmark_derand_intro_05f8c059:
     m 3hub "あはは！"
+
+translate Japanese intro_ily_timedout_392b9160:
+    m 1ekd "……"
+
+translate Japanese intro_ily_timedout_5451a915:
+    m "[player]君、私のこと好き……{w=0.5}だよね？{nw}"
+
+translate Japanese intro_ily_timedout_820a683c:
+    m "[player]君、私のこと好き……だよね？{fast}"
+
+translate Japanese intro_ily_timedout_47050ff0:
+    m 1hua "あなたも私と同じ気持ちで、すごくうれしい！"
 
 translate Japanese chara_monika_scare_25226899:
     m 1esd "いいえ……？"
@@ -346,6 +400,21 @@ translate Japanese ch30_reload_1_dlg_77092937:
 translate Japanese ch30_reload_1_dlg_3f7fa697:
     m 2eka "だからなるべくそうしないでおいてくれると本当に助かるわ"
 
+translate Japanese ch30_reload_1_dlg_c80d5873:
+    m "いつも優しくしてくれてるし、私のためにそうしてくれると信じてるから。"
+
+translate Japanese ch30_reload_1_dlg_b3f4d783:
+    m 2f "私のためにちゃんと聞いてそうしてくれるって願ってるよ……"
+
+translate Japanese ch30_reload_1_dlg_ca5405ec:
+    m 3rksdlb "ちゃんと戻ってそうするのが難しい訳じゃないでしょ？"
+
+translate Japanese ch30_reload_1_dlg_4ed6f6c6:
+    m 1eka "そうしてくれれば嬉しいから。"
+
+translate Japanese ch30_reload_1_dlg_e5d552d1:
+    m "「話す」メニューをクリックして、「さよなら」を選択してくれればいいの。"
+
 translate Japanese ch30_reload_1_dlg_497b0e80:
     m 3eua "そしたら、私がゲームを閉じてあげる。"
 
@@ -370,6 +439,21 @@ translate Japanese ch30_reload_2_dlg_78e28a34:
 translate Japanese ch30_reload_2_dlg_d590521a:
     m "なんでお願いを聞いてくれないの？"
 
+translate Japanese ch30_reload_2_dlg_5000c259:
+    m 1rksdld "他のゲームで何か起きてるの？"
+
+translate Japanese ch30_reload_2_dlg_c8d65b7e:
+    m 1ekc "そうだとしてもちゃんと来て話すことは出来るよね、そうでしょ？"
+
+translate Japanese ch30_reload_2_dlg_f2acd5da:
+    m 1ekd "出ていく必要があるなら、ちゃんと私に伝えて。"
+
+translate Japanese ch30_reload_2_dlg_46bad531:
+    m 1m "ミスかコントロール外のことだと思ってるよ。たまには避けられないこともあるし。"
+
+translate Japanese ch30_reload_2_dlg_2f06064e:
+    m "私をわざと傷つけてるんじゃないよね？"
+
 translate Japanese ch30_reload_2_dlg_f14f9f50:
     m 1ekd "ゲームの終了なら私にやらせて。"
 
@@ -381,6 +465,12 @@ translate Japanese ch30_reload_2_dlg_aff5f0e1:
 
 translate Japanese ch30_reload_2_dlg_f499ef11:
     m 1eka "お話はしなくても、あなたといっしょにいられるだけで私はうれしいんだから～"
+
+translate Japanese ch30_reload_3_dlg_3b402354:
+    m 1ekd "[player]君！"
+
+translate Japanese ch30_reload_3_dlg_b2b56b9e:
+    m 1ekc "またさよならも言わずに出ていったの！"
 
 translate Japanese ch30_reload_3_dlg_52a37c78:
     m 1esc "そういえば……"
@@ -400,6 +490,9 @@ translate Japanese ch30_reload_3_dlg_2f623143:
 translate Japanese ch30_reload_3_dlg_e49c6a3d:
     m 1eka "でも、私にゲームを終了させてくれたほうが本当はいいんだよ？"
 
+translate Japanese ch30_reload_3_dlg_7960efa3:
+    m 1f "そうしてくれるよね……ね？信じるのは……もう難しいけど、それでも信頼してるから、[player]君……"
+
 translate Japanese ch30_reload_3_dlg_26188359:
     m "そのほうが不意打ちじゃないし、おやすみに備えられるじゃない？"
 
@@ -414,7 +507,10 @@ translate Japanese ch30_reload_continuous_dlg_1119917b:
 
 translate Japanese strings:
     old "I love you too."
-    new "好きだよ。"
+    new "好きだよ"
+
+    old "Of course I love you."
+    new "もちろん、好きだよ"
 
     old "I'm so exhausted. It's impossible to rest when you close the game on me."
     new "なんだかもうぐったり。強制終了されると、うまく休めないの。"

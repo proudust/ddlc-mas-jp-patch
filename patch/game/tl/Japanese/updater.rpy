@@ -12,3 +12,31 @@ translate Japanese mas_updater_steam_issue_3a7754fe:
 
 translate Japanese mas_updater_steam_issue_a3571f41:
     m 1hua "アップデートの前にまずは私にサヨナラを言うのも忘れずにね。"
+
+translate Japanese strings:
+    old "Ok"
+    new "OK"
+
+    old "Update"
+    new "アップデート"
+
+    old "Retry"
+    new "リトライ"
+
+    old "New update available!"
+    new "新しいアップデートが利用可能です！"
+
+    old "No update found."
+    new "アップデートはありません。"
+
+    old "Connection timed out."
+    new "タイムアウトしました。"
+
+    old "Server returned bad response."
+    new "サーバーが不正な応答を返しました。"
+
+    old "Server returned bad JSON."
+    new "サーバーが不正なJSONを返しました。"
+
+    old "Error: Failed to move 'update/' folder. Please manually move the update folder from 'game/' to the base 'ddlc/' directory and try again."
+    new "エラー：\'update\'フォルダの移動に失敗しました。手動で\'game/\'から親ディレクトリの\'ddlc/\'へ移動させて下さい。"

@@ -229,6 +229,18 @@ translate Japanese _call_sayori_name_scare_1_ec43384f:
 translate Japanese _call_sayori_name_scare_1_494c93d9:
     m 1eua "考えが変わったらいつでも私に言ってね。わかった？"
 
+translate Japanese mas_birthdate_f7b121af:
+    m 1euc "ねえ[player]君、私気がついたんだけど……"
+
+translate Japanese mas_birthdate_4989bc96:
+    m 3wud "あなたの誕生日がいつか知らないの！"
+
+translate Japanese mas_birthdate_6064531d:
+    m 3hub "それぐらい知っておくべきだよね"
+
+translate Japanese mas_birthdate_2ed0f9fa:
+    m 1eua "それであなたはいつ生まれたの、[player]君?"
+
 translate Japanese unlock_chess_40f647a9:
     m 1eua "じゃあ、[player]君……"
 
@@ -314,7 +326,7 @@ translate Japanese unlock_hangman_f72ac9e5:
     m 1hksdlb "私とチェスで遊んでくれるのすごくうれしいけど、まだポンはプレイしたことないよね？"
 
 translate Japanese unlock_hangman_e166fc1e:
-    m 1ekc "新しいゲームを用意したの、あなたに気に入ってもらえなかったらどうしようって考えてて……"
+    m 1ekc "他のゲームは気に入らなかったんじゃないかと思って心配したの……"
 
 translate Japanese unlock_hangman_5625ff73:
     m 1hua "じゃあいくよ～"
@@ -335,7 +347,7 @@ translate Japanese unlock_hangman_cff179dc:
     m "これってかなり残酷なゲームだよね。"
 
 translate Japanese unlock_hangman_8a810c1d:
-    m 3rssdrc "隠された単語の文字を当てて、誰かの命を救うんだけど、"
+    m 3rssdlc "隠された単語の文字を当てて、誰かの命を救うんだけど、"
 
 translate Japanese unlock_hangman_cf28eb6f:
     m "全部当てれば、その人は首を吊らなくて済むし、"
@@ -347,7 +359,7 @@ translate Japanese unlock_hangman_9663b149:
     m "その人は死んじゃう。正しい文字を当てられなかったから。"
 
 translate Japanese unlock_hangman_7cdd08b8:
-    m 1euc "暗いゲームだよね～"
+    m 1eksdlc "暗いゲームだよね～"
 
 translate Japanese unlock_hangman_6645c4f3:
     m 1hksdlb "でも大丈夫だよ、[player]君。だってこれはただのゲーム。"
@@ -478,6 +490,15 @@ translate Japanese mas_monikai_detected_0ae9edba:
 translate Japanese mas_monikai_detected_600f50e2:
     m 3eua "だって私が本物なんだし。"
 
+translate Japanese mas_crashed_quip_takecare_c7503e4d:
+    m 2ekc "またクラッシュしたの、[player]？"
+
+translate Japanese mas_crashed_quip_takecare_7cb80869:
+    m 2ekc "あなたはもっと自分のコンピューターを大切にしたほうが良いんじゃないかしら"
+
+translate Japanese mas_crashed_quip_takecare_f07bc0cd:
+    m 4rksdlb "私の家みたいなものなんだがら……"
+
 translate Japanese monika_rpy_files_3c90ab6d:
     m 1eka "ねえ[player]、「game」ディレクトリを見ていたのだけれど……"
 
@@ -489,6 +510,60 @@ translate Japanese monika_rpy_files_5fae93c5:
 
 translate Japanese monika_rpy_files_b03c4be4:
     m 3wud "あなたが私に会いに来れなくなるかもしれないの！"
+
+translate Japanese mas_bday_player_bday_select_6860cc61:
+    m 1eua "あなたの誕生日は？"
+
+translate Japanese mas_bday_player_bday_select_select_d2ea348f:
+    m 2efc "[player]君！"
+
+translate Japanese mas_bday_player_bday_select_select_c759d169:
+    m "日付を選んで！"
+
+translate Japanese mas_bday_player_bday_select_select_43832bdf:
+    m 1hua "もう一度！"
+
+translate Japanese mas_bday_player_bday_select_select_c4bf3866:
+    m "あなたが未来に生まれるわけないでしょう！"
+
+translate Japanese mas_bday_player_bday_select_select_5cc7f3db:
+    m "あなたが今日生まれたわけがないでしょう！"
+
+translate Japanese mas_bday_player_bday_select_select_cd48f428:
+    m "あなたがそんな子供なわけがないでしょう！"
+
+translate Japanese mas_bday_player_bday_select_select_4775a645:
+    m 2eksdlc "[player]君……"
+
+translate Japanese mas_bday_player_bday_select_select_5bbcdd88:
+    m 2rksdlc "正確な生年月日を聞いているのはわかっているよね？"
+
+translate Japanese mas_bday_player_bday_select_select_ed3fda28:
+    m 2hksdlb "あなたがそんなに子供だとは思えないわ"
+
+translate Japanese mas_bday_player_bday_select_select_bd219ce5:
+    m 1eua "よし、[player]君"
+
+translate Japanese mas_bday_player_bday_select_select_7dacbf91:
+    m 1eua "確認するけど……"
+
+translate Japanese mas_bday_player_bday_select_select_528cde61:
+    m "あなたの誕生日は[new_bday_str]でいいのね？{nw}"
+
+translate Japanese mas_bday_player_bday_select_select_beb28d18:
+    m "あなたの誕生日は[new_bday_str]でいいのね？{fast}"
+
+translate Japanese mas_bday_player_bday_select_select_e0d838f4:
+    m 1eka "[new_bday_str]ね？この日付は絶対に忘れないわ{nw}"
+
+translate Japanese mas_bday_player_bday_select_select_b969541f:
+    m "[new_bday_str]ね？この日付は絶対に忘れないわ{fast}"
+
+translate Japanese mas_bday_player_bday_select_select_ee3f0a53:
+    m 1euc "ああ、間違っていたの？"
+
+translate Japanese mas_bday_player_bday_select_select_62bd758c:
+    m 1eua "もう一度教えてくれる？"
 
 translate Japanese strings:
     old "So, are you male or female?{fast}"
@@ -502,6 +577,9 @@ translate Japanese strings:
 
     old "Neither."
     new "どちらでもない"
+
+    old "Tell me, what is it."
+    new "あなたの名前を教えて"
 
     old "It seems I'm at a loss on what to say."
     new "なんて言ったらいいのかわからない。"
@@ -523,3 +601,9 @@ translate Japanese strings:
 
     old "...yes"
     new "……はい"
+
+    old "Yes, I'm sure!"
+    new "うん、合ってるよ"
+
+    old "Actually..."
+    new "実は……"

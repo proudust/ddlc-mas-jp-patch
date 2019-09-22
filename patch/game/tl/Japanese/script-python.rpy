@@ -120,3 +120,15 @@ translate Japanese monika_ptod_tip003_4b3d84c9:
 
 translate Japanese monika_ptod_tip003_6f5a9c87:
     m 3eub "Pythonはインタプリタ言語ね。"
+
+translate Japanese monika_ptod_tip003_112a220e:
+    m 1eua "Pythonはインタプリタ言語だから、インタプリタって呼ばれる対話型の素敵なものがあるんだけど、えーっと……"
+
+translate Japanese monika_ptod_tip003_8c59179f:
+    m 3eub "これ！"
+
+translate Japanese monika_ptod_tip003_db08669d:
+    m "Pythonのコードを直に打って実行することができるの。例えば……"
+
+translate Japanese monika_ptod_tip003_999bd9b2:
+    m 1eua "ただ計算に使うだけじゃなくてもっと色々なことができるけど、それは追々教えていくからね。"

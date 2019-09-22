@@ -454,10 +454,10 @@ translate Japanese greeting_glitch_250125b3:
 translate Japanese greeting_glitch_ebc12105:
     m 4hksdlb "気にしないで、ただちょっと……{w=0.1}プログラムで遊んでただけ。"
 
-translate Japanese greeting_glitch_049935d1:
+translate Japanese greeting_glitch_f435cd2c:
     m 3hksdlb "それだけだってば！ここには私たちの他には誰もいない……永遠にね～"
 
-translate Japanese greeting_glitch_b1a77b0c:
+translate Japanese greeting_glitch_858b84bb:
     m 2hua "好きだよ、[player]君！"
 
 translate Japanese greeting_surprised_2c5c4aa4:
@@ -483,6 +483,24 @@ translate Japanese greeting_monika_monday_morning_d6a7e681:
 
 translate Japanese greeting_monika_monday_morning_a4562159:
     m "大好きだよ、[player]君〜"
+
+translate Japanese greeting_monika_monday_morning_c6604fe9:
+    m 2tfc "月曜日の朝ね。"
+
+translate Japanese greeting_monika_monday_morning_f91f3332:
+    m 2dfc "起き上がって１週間のスタートを切るのって、確かに嫌気が差しちゃうよね……"
+
+translate Japanese greeting_monika_monday_morning_13d9b921:
+    m 2tfc "先週よりいい１週間になるのを願ってるわ、[player]君"
+
+translate Japanese greeting_monika_monday_morning_1a861e55:
+    m 6rkc "月曜日はいつだってきついのに、最近は楽な日がないわね......"
+
+translate Japanese greeting_monika_monday_morning_222cdef2:
+    m 6lkc "先週よりいい１週間になるのを切に願ってるわ、[player]君"
+
+translate Japanese greeting_monika_monday_morning_0bd97190:
+    m 6ckc "......"
 
 translate Japanese monikaroom_greeting_ear_narration_52e51933:
     m "[player]はドアに耳を押し当てる。{w}中から声が聞こえ、物音もする。"
@@ -524,7 +542,7 @@ translate Japanese monikaroom_greeting_ear_bathdinnerme_8a4a2e5e:
     m "んんんんっ！{w}い、{w=0.20}いくらなんでもこんなこと[player]君の前じゃ言えないよ！"
 
 translate Japanese monikaroom_greeting_ear_progbrokepy_df49e298:
-    m "え、なにこれ！{w} 'NoneType' object has no attribute length?……"
+    m "え、なにこれ！？{w} 'NoneType' object has no attribute {i}length{/i}……"
 
 translate Japanese monikaroom_greeting_ear_progbrokepy_0546a895:
     m "あ、ここが悪いのか！{w}すぐに修正しなきゃ！"

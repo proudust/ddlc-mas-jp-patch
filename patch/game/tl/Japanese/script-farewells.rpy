@@ -91,6 +91,9 @@ translate Japanese bye_prompt_sleep_c207c96e:
 translate Japanese bye_prompt_sleep_486c5071:
     m 2efc "おやすみなさい、[player]。"
 
+translate Japanese bye_prompt_sleep_0faf7c55:
+    m 6ekc "そう……おやすみなさい、[player]。"
+
 translate Japanese bye_prompt_sleep_0bd97190:
     m 6ckc "……"
 
@@ -239,6 +242,12 @@ translate Japanese bye_going_somewhere_leavemenu_7055b071:
     m 1tkc "……"
 
 translate Japanese strings:
+    old "Goodbye."
+    new "さようなら"
+
+    old "I'm going to work."
+    new "仕事に行く"
+
     old "Of course!"
     new "もちろん！"
 
@@ -262,6 +271,3 @@ translate Japanese strings:
 
     old "I don't know."
     new "わからない"
-
-    old "Nevermind."
-    new "気にしないで"
