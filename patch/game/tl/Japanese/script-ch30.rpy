@@ -4,9 +4,6 @@ translate Japanese continue_event_1bf0e8eb:
 translate Japanese pick_a_game_bbf59a24:
     m "[play_menu_dlg!t]" nointeract
 
-translate Japanese _call_play_piano_da54d471:
-    m "いいよ、じゃあまた今度ね？"
-
 translate Japanese ch30_noskip_1b823071:
     m 1esc "……早送りしようとしてるの？"
 
@@ -110,17 +107,14 @@ translate Japanese _call_hideconsole_2_1676f8f5:
     m "「ひとりは寂しいと思わなきゃ寂しくなんかない」だよ、元気出していこ！"
 
 translate Japanese strings:
-    old "What would you like to play?"
-    new "どれで遊びますか？"
-
-    old "Pong"
+    old "Pong."
     new "ポン"
 
-    old "Chess"
+    old "Chess."
     new "チェス"
 
     old "[_hangman_text]."
-    new "[_hangman_text!t]."
+    new "[_hangman_text!t]"
 
     old "Word Guesser"
     new "ワード・ゲッサー"
@@ -128,5 +122,8 @@ translate Japanese strings:
     old "Hangman"
     new "ハングマン"
 
-    old "Piano"
+    old "Piano."
     new "ピアノ"
+
+    old "Nevermind."
+    new "やめておく"

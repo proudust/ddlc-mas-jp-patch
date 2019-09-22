@@ -122,6 +122,9 @@ translate Japanese strings:
     old "Random Chatter   "
     new "モニカとお喋り"
 
+    old "Ambient Volume"
+    new "外の音量"
+
     old "Text Speed"
     new "文字表示速度"
 
@@ -195,7 +198,7 @@ translate Japanese strings:
     new "新しいバージョン [u.version] があります。インストールしますか？"
 
     old "Downloading the updates. (Progress bar may not advance during download)"
-    new "Downloading the updates. (Progress bar may not advance during download)"
+    new "更新データをダウンロード中です。"
 
     old "The updates have been installed. Please reopen Monika After Story."
     new "更新データがインストールされました。モニカアフターストーリーを再起動してください。"
@@ -249,7 +252,7 @@ translate Japanese strings:
     new "あなたの名前を入力して下さい"
 
     old "No need to go back there.\nYou'll just end up back here so don't worry."
-    new "メインメニューに戻らなくてもいいんじゃない？\nどうせここに戻ってくんだし。大丈夫だって。"
+    new "メインメニューに戻らなくてもいいんじゃない？\nどうせここに戻ってくるんだし。大丈夫だって。"
 
     old "There's no point in saving anymore.\nDon't worry, I'm not going anywhere."
     new "もうセーブに意味はないわ。\n安心して、もうどこにも行かないから。"

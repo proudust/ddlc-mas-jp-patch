@@ -52,11 +52,50 @@ translate Japanese mas_pong_dlg_winner_5a639edf:
 translate Japanese mas_pong_dlg_winner_ab7e9a4c:
     m "[menu_response!t]{fast}" nointeract
 
+translate Japanese mas_pong_dlg_winner_13fa3f85:
+    m 1hua "えへへ！"
+
+translate Japanese mas_pong_dlg_winner_56470691:
+    m 1eka "勝たせてくれてありがとうね、[player]君～"
+
+translate Japanese mas_pong_dlg_winner_a53ea408:
+    m 5eka "でもね、たまにならあなたに負けるのも気にしないから。"
+
+translate Japanese mas_pong_dlg_winner_e698edb7:
+    m 5eua "私が勝っているのをあなたが見るのと同じぐらい、私だってあなたが勝ってるところが好きだからね～"
+
+translate Japanese mas_pong_dlg_winner_69419ad0:
+    m "それでいいの？{nw}"
+
+translate Japanese mas_pong_dlg_winner_47045433:
+    m "それでいいの？{fast}" nointeract
+
 translate Japanese mas_pong_dlg_winner_22b836a2:
     m 1rfu "[player]君！"
 
+translate Japanese mas_pong_dlg_winner_d2dee365:
+    m 2hksdlb "からかうのはやめて！"
+
+translate Japanese mas_pong_dlg_winner_3b6c7c7a:
+    m 2tku "私に勝たせるのに飽きてきてない、[player]君？"
+
 translate Japanese mas_pong_dlg_winner_2393e208:
     m 1rsc "……"
+
+translate Japanese mas_pong_dlg_winner_f73bb8ea:
+    m 1eka "もう、[player]君！"
+
+translate Japanese mas_pong_dlg_winner_33318048:
+    m 1hub "あなたなら出来るって、信じてるんだから！"
+
+translate Japanese mas_pong_dlg_winner_2c902797:
+    m 3hub "いい頑張りね、[player]君！"
+
+translate Japanese mas_pong_dlg_winner_e6416d5c:
+    m 3tsu "でもそのままじゃ、まだまだ勝てちゃうかな～"
+
+translate Japanese mas_pong_dlg_winner_05f8c059:
+    m 3hub "あはは！"
 
 translate Japanese mas_pong_dlg_winner_f07ae92d:
     m 2tfu "[player]君、ごめんね。"
