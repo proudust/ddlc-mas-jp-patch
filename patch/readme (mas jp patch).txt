@@ -1,4 +1,4 @@
-DDLC Monika After Story 日本語化パッチ(19/09/14)
+DDLC Monika After Story 日本語化パッチ(19/09/22)
 ------------------------------------------------------------
 
 
@@ -56,6 +56,11 @@ https://github.com/proudust/ddlc-mas-jp-patch
 
 
 更新履歴：
+190922
+・DDLC MAS v0.10.1 に仮対応
+・カレンダーに対応
+・翻訳を大量に更新
+
 190914
 ・DDLC MAS v0.10.0 に仮対応
 ・ダークテーマに対応
