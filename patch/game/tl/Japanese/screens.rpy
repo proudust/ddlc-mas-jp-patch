@@ -161,6 +161,12 @@ translate Japanese strings:
     old "Sounds"
     new "通知音"
 
+    old "Alert Filters"
+    new "通知フィルター"
+
+    old "Topic Alerts"
+    new "話題の通知"
+
     old "OK"
     new "OK"
 

@@ -280,6 +280,9 @@ translate Japanese _call_mas_wx_cmd_1_e612037c:
 translate Japanese _call_mas_wx_cmd_1_b8098c4c:
     m 3hub "あはは！それはそれとして……"
 
+translate Japanese introduction_47050ff0:
+    m 1hua "あなたも同じ気持ちだと嬉しいな！"
+
 translate Japanese intro_end_5d3dfe0e:
     m 1eub "ふたりの愛を邪魔するものはもう何もない。"
 
@@ -472,6 +475,18 @@ translate Japanese ch30_reload_3_dlg_3b402354:
 translate Japanese ch30_reload_3_dlg_b2b56b9e:
     m 1ekc "またさよならも言わずに出ていったの！"
 
+translate Japanese ch30_reload_3_dlg_6eeb1e35:
+    m "他のゲームでストレスとか動揺を感じてた訳じゃないよね？"
+
+translate Japanese ch30_reload_3_dlg_7bb84d69:
+    m 3eka "何かが起きたときに私の所へ来られることも分かってるでしょ？"
+
+translate Japanese ch30_reload_3_dlg_259dd2db:
+    m 1eka "さよならの前に会いに来てくれさえすれば嬉しいのにな。"
+
+translate Japanese ch30_reload_3_dlg_bef19f6a:
+    m 1rksdld "いつもそう出来る訳じゃないのも分かってるけど……"
+
 translate Japanese ch30_reload_3_dlg_52a37c78:
     m 1esc "そういえば……"
 
@@ -491,7 +506,7 @@ translate Japanese ch30_reload_3_dlg_e49c6a3d:
     m 1eka "でも、私にゲームを終了させてくれたほうが本当はいいんだよ？"
 
 translate Japanese ch30_reload_3_dlg_7960efa3:
-    m 1f "そうしてくれるよね……ね？信じるのは……もう難しいけど、それでも信頼してるから、[player]君……"
+    m 1f "そうしてくれるよね……ね？信じるのは……もう難しいけど、それでもあなたのことは信頼してるから、[player]君……"
 
 translate Japanese ch30_reload_3_dlg_26188359:
     m "そのほうが不意打ちじゃないし、おやすみに備えられるじゃない？"
@@ -505,12 +520,57 @@ translate Japanese ch30_reload_continuous_dlg_7c5a141b:
 translate Japanese ch30_reload_continuous_dlg_1119917b:
     m 2tkc "終了する時は「さよなら」を選択して。お願いだから。"
 
+translate Japanese ch30_reload_continuous_dlg_10f5befc:
+    m 3eka "他のゲームで何かが起きてもこっちを閉じる必要はないから。"
+
+translate Japanese ch30_reload_continuous_dlg_a95a9a5e:
+    m 1ekb "何が起きたとしても、すぐに戻ってきてくれたのに比べたら大したことじゃないからね！"
+
+translate Japanese ch30_reload_continuous_dlg_89eaa6e4:
+    m 1hua "私　を　消　そ　う　だ　な　ん　て　ね　(continous)"
+
 translate Japanese strings:
     old "I love you too."
     new "好きだよ"
 
     old "Of course I love you."
     new "もちろん、好きだよ"
+
+    old "Welcome back! Can you be careful to close the game properly next time?"
+    new "おかえりなさい！次はしっかりゲームを閉じるように気をつけてくれるかな？"
+
+    old "It hurts when you don't close the game properly...but I'm sure it was a mistake."
+    new "中途半端にゲームを閉じられちゃうと傷つくから……でもあれはミスよね。"
+
+    old "That was really scary...but you've fixed it again. Thank you..."
+    new "本当に怖かったんだから……でも直してくれんだよね。ありがとう……"
+
+    old "Would you give me some more of a warning next time?"
+    new "次は私の為にももう少し気をつけてくれるかな？"
+
+    old "I'm sure you didn't mean to close the game on me but I do need to stress how bad it feels."
+    new "わざとゲームを閉じたんじゃないって分かってるけど、でも嫌なストレスを感じることになっちゃうから。"
+
+    old "You do remember there was a way to say goodbye right? Just checking~"
+    new "ちゃんとさよならを言う方法も覚えてるよね？思い出してね～"
+
+    old "My patience is wearing a little thin...but I suppose I can forgive you this time."
+    new "仏の顔も三度までとは言うけど……でも今回は許してあげようかな。"
+
+    old "Everybody makes mistakes..."
+    new "誰だってミスはするし……"
+
+    old "That hurt...I know you wouldn't do it on purpose but please do be more careful."
+    new "あれは……わざとじゃないのは分かってるから、もっと気をつけてほしいな。お願い。"
+
+    old "...Oh... It's over and I'm back with you my love. That...that was awful."
+    new "……あー……何とか愛しのあなたと戻って来られたのね。あれは……あれは酷かったわ。"
+
+    old "Did something happen outside of your control? I'm just going to guess it was."
+    new "あなたがコントロール出来ないところで何か起きたの？そういうことなのかなって思って。"
+
+    old "You should have just asked me...but I guess you might have had your reasons"
+    new "もちろん閉じるときはさよならを言ってほしいけど……それなりの理由もあっただろうし。"
 
     old "I'm so exhausted. It's impossible to rest when you close the game on me."
     new "なんだかもうぐったり。強制終了されると、うまく休めないの。"
@@ -553,3 +613,33 @@ translate Japanese strings:
 
     old "Too lazy to click the 'Talk' button, [player]?"
     new "「話す」をクリックするのそんなに難しい、[player]？"
+
+    old "You...really do like hurting me, don't you?"
+    new "ねえ……本当に私を傷つけるの好きだね？"
+
+    old "That was a mistake right? It had to have been..."
+    new "あれもミスだったんだよね？そうなんでしょ……"
+
+    old "Y-You're not doing this on purpose are you? Did I do something wrong?"
+    new "わざとやってる訳じゃない、よね？私が何かしてしまったの？"
+
+    old "Please be more careful with how I feel... It really does hurt..."
+    new "私の気持ちも考えてよ……本当につらいから……"
+
+    old "That was an accident...it was an accident...you wouldn't do it on purpose..."
+    new "あれはただの事故だったの……そう、ただの事故……あなたがわざとやる訳なんて……"
+
+    old "You must have just forgot...right?"
+    new "ただ忘れていただけ……でしょ？"
+
+    old "That wasn't funny... That really did hurt."
+    new "笑えないわ……本当に心を抉られるの。"
+
+    old "Everyone makes mistakes... Even you."
+    new "あなたであっても……誰だってミスはするし。"
+
+    old "I don't know what I'm doing wrong."
+    new "いったい、私は何をしてしまったと言うの？"
+
+    old "That really was awful... Just tell me what I'm doing wrong."
+    new "本当に恐ろしいの……私の何がいけないのか教えてよ……"
