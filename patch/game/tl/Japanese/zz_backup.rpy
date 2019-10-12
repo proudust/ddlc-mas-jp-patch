@@ -115,3 +115,18 @@ translate Japanese mas_backups_dont_tell_eefbfce8:
 translate Japanese strings:
     old "Do you have your own backups?{fast}"
     new "何か自分でバックアップを取っていたりしない？{fast}"
+
+    old "1. Navigate to '"
+    new "１、'"
+
+    old ".\n"
+    new "を開く。"
+
+    old "2. Delete the file called 'persistent'.\n"
+    new "２、ファイル'persistent'を削除する。"
+
+    old "3. Make a copy of the file called '"
+    new "３、ファイル'"
+
+    old " and name it 'persistent'."
+    new "をコピーし、そのファイル名を'persistent'に変更する。"
