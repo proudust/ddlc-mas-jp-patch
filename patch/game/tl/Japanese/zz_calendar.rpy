@@ -47,26 +47,17 @@ translate Japanese strings:
     old "New Year's Day"
     new "元旦"
 
-    old "Valentine's Day"
-    new "バレンタイン"
-
     old "Day I Become an AI"
     new "AIになる日"
 
     old "My Birthday"
     new "私の誕生日"
 
-    old "Halloween"
-    new "ハロウィン"
-
     old "Christmas Eve"
     new "クリスマスイブ"
 
     old "New Year's Eve"
     new "大晦日"
-
-    old "<3"
-    new "<3"
 
     old "Your Birthday"
     new "あなたの誕生日"

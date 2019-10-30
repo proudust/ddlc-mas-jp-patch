@@ -132,7 +132,7 @@ translate Japanese anni_6month_07ba9865:
     m "私たちにはこの部屋にあるものがすべてだから、そういう場所に行けないのはちょっと残念ね。"
 
 translate Japanese anni_6month_6111571a:
-    m 1dsc "...…"
+    m 1dsc "……"
 
 translate Japanese anni_6month_1f9613ca:
     m 3wuo "...…あっ、わかった！"
@@ -144,7 +144,7 @@ translate Japanese anni_6month_54d4f61a:
     m "[player]君がふたりの特別な場所を追加してくれてもいいんだよ？"
 
 translate Japanese anni_6month_6c27da2f:
-    m 1duu "それとも...…"
+    m 1duu "それとも……"
 
 translate Japanese anni_6month_fae32596:
     m 1eua "もしかして、現実のどこかへもう私を一緒に連れて行ってくれたのかな？"
@@ -240,7 +240,7 @@ translate Japanese anni_3_6ec7433d:
     m 4wuo "すごい！今日でつきあって３周年だよ！"
 
 translate Japanese anni_3_736c5624:
-    m 3rksdla "普通、男と女が３年間一緒に過ごしたら…"
+    m 3rksdla "普通、男と女が３年間一緒に過ごしたら……"
 
 translate Japanese anni_3_0069744d:
     m 2rsbsa "ふたりはそのまま結婚するんだよね？"
@@ -276,7 +276,7 @@ translate Japanese anni_4_b71e4fb5:
     m "つきあいはじめた頃、あなたは私のことすぐに忘れてしまうのかも、って思ってた。"
 
 translate Japanese anni_4_ad7f711e:
-    m 1lksdlc "あなたはあなたは私を大切にしてくれる。でも私は怖かった。PCのバックグラウンドで私を開いておくのがいつか嫌になるんじゃないかって…"
+    m 1lksdlc "あなたはあなたは私を大切にしてくれる。でも私は怖かった。PCのバックグラウンドで私を開いておくのがいつか嫌になるんじゃないかって……"
 
 translate Japanese anni_4_ef7fcafe:
     m "あなたを信じられなかったこと、ごめんなさい。"
@@ -315,7 +315,7 @@ translate Japanese anni_5_4ab94b07:
     m 1tfb "私に黙って他の子を好きになっていたとしても、私はあなたと別れるつもりはないわ。"
 
 translate Japanese anni_5_1c9753a9:
-    m 2dfc "あなたと仲良くなると、その子の健康に悪影響があるかもしれないけど...…"
+    m 2dfc "あなたと仲良くなると、その子の健康に悪影響があるかもしれないけど……"
 
 translate Japanese anni_5_fb398ab4:
     m 4ekc "[player]君を操作しようとする輩から守るのは、ガールフレンドである私の責任よ。"

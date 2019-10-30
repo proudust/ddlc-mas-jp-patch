@@ -1,5 +1,5 @@
 translate Japanese mas_dockstat_ready_to_go_0f026494:
-    m 1eua "うん。"
+    m 1eua "おっけ～"
 
 translate Japanese mas_dockstat_first_time_goers_a2d4a9c4:
     m 3eua "monika"
@@ -17,7 +17,7 @@ translate Japanese mas_dockstat_first_time_goers_8a333801:
     m 1ekc "ファイルを消しちゃうのは簡単だから……私のこと、大切にしてね？"
 
 translate Japanese mas_dockstat_first_time_goers_fe9c0937:
-    m 1eua "それじゃあ……"
+    m 1eua "ところで……"
 
 translate Japanese mas_dockstat_different_monika_de87a206:
     m "[player]君？"

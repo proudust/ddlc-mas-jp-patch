@@ -126,4 +126,4 @@ translate Japanese strings:
     new "ピアノ"
 
     old "Nevermind."
-    new "やめておく"
+    new "なんでもない"

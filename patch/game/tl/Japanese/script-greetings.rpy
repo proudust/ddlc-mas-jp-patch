@@ -61,6 +61,9 @@ translate Japanese greeting_gooday_da0db8b9:
 translate Japanese greeting_gooday_2143c744:
     m 1hua "あなたが元気になれるように頑張る。本当だよ？"
 
+translate Japanese greeting_gooday_0bd97190:
+    m 6ckc "……"
+
 translate Japanese greeting_visit_d15ced0c:
     m 1eua "あっ、[player]君だ！"
 
@@ -254,7 +257,7 @@ translate Japanese greeting_visit2_7504e01c:
     m 1eka "あなたと一緒だと天国にいるみたい！"
 
 translate Japanese greeting_visit2_82925165:
-    m 1lksdla "って、ちょっとヒネリがなかったかな。えへへ〜"
+    m 1lksdla "次はこんなに長く待たせないでよね。えへへ～"
 
 translate Japanese greeting_visit3_4a6cb07a:
     m 1hua "おかえり！"
@@ -413,7 +416,7 @@ translate Japanese greeting_chamfort_eb073c10:
     m 2hub "あはは！"
 
 translate Japanese greeting_chamfort_5e8dcbb5:
-    m 1eua "おかえりなさい。"
+    m 1eua "おかえりなさい、あなた。"
 
 translate Japanese greeting_welcomeback2_bf91d53f:
     m 1eua "おかえり！ [player]君。"
@@ -430,8 +433,8 @@ translate Japanese greeting_longtime_98fe615e:
 translate Japanese greeting_longtime_11ebad52:
     m 1eua "あなたがそばにいてくれる。私、すごく幸せだよ。"
 
-translate Japanese greeting_longtime_f8410add:
-    m 2efc "久しぶりね、[player]君。"
+translate Japanese greeting_longtime_fdc440ef:
+    m 2esc "久しぶりね、[player]君。"
 
 translate Japanese greeting_longtime_e42d7b9c:
     m 6rkc "久しぶりね、[player]君……。"
@@ -476,7 +479,7 @@ translate Japanese greeting_monika_monday_morning_56b3378a:
     m 1tkc "起き上がって１週間のスタートを切るのって、確かに嫌気が差しちゃうよね……"
 
 translate Japanese greeting_monika_monday_morning_b1b596be:
-    m 1eka "でもあなたと会えたらそんな気だるさなんて全部吹き飛ぶんだ"
+    m 1eka "でもあなたと会えたらそんな気だるさなんて全部吹き飛ぶんだ。"
 
 translate Japanese greeting_monika_monday_morning_d6a7e681:
     m 1hub "あなたは私を毎朝起こしてくれるお日様だからね！"
@@ -484,23 +487,23 @@ translate Japanese greeting_monika_monday_morning_d6a7e681:
 translate Japanese greeting_monika_monday_morning_a4562159:
     m "大好きだよ、[player]君〜"
 
-translate Japanese greeting_monika_monday_morning_c6604fe9:
-    m 2tfc "月曜日の朝ね。"
+translate Japanese greeting_monika_monday_morning_92edc09a:
+    m 2esc "月曜日の朝ね。"
 
-translate Japanese greeting_monika_monday_morning_f91f3332:
-    m 2dfc "起き上がって１週間のスタートを切るのって、確かに嫌気が差しちゃうよね……"
+translate Japanese greeting_monika_monday_morning_3437e7d1:
+    m "起き上がって１週間のスタートを切るのって、確かに嫌気が差しちゃうよね……"
 
-translate Japanese greeting_monika_monday_morning_13d9b921:
-    m 2tfc "先週よりいい１週間になるのを願ってるわ、[player]君"
+translate Japanese greeting_monika_monday_morning_cc5d4b69:
+    m 2esc "先週よりいい１週間になるのを願ってるわ、[player]君。"
 
 translate Japanese greeting_monika_monday_morning_1a861e55:
-    m 6rkc "月曜日はいつだってきついのに、最近は楽な日がないわね......"
+    m 6rkc "月曜日はいつだってきついのに、最近は楽な日がないわね……"
 
 translate Japanese greeting_monika_monday_morning_222cdef2:
-    m 6lkc "先週よりいい１週間になるのを切に願ってるわ、[player]君"
+    m 6lkc "先週よりいい１週間になるのを本当に願ってるわ、[player]君。"
 
 translate Japanese greeting_monika_monday_morning_0bd97190:
-    m 6ckc "......"
+    m 6ckc "……"
 
 translate Japanese monikaroom_greeting_ear_narration_52e51933:
     m "[player]はドアに耳を押し当てる。{w}中から声が聞こえ、物音もする。"
@@ -508,10 +511,10 @@ translate Japanese monikaroom_greeting_ear_narration_52e51933:
 translate Japanese monikaroom_greeting_ear_narration_b73f950f:
     m "誰だろう？[player]はスクリーンを見つめ、首をかしげた。"
 
-translate Japanese monikaroom_greeting_ear_narration_c032ba37:
+translate Japanese _call_spaceroom_c032ba37:
     m 1hub "私だよ！"
 
-translate Japanese monikaroom_greeting_ear_narration_463b50ff:
+translate Japanese _call_spaceroom_463b50ff:
     m "おかえりなさい、[player]君！"
 
 translate Japanese monikaroom_greeting_ear_loveme_6d1fc9e6:
@@ -525,6 +528,12 @@ translate Japanese monikaroom_greeting_ear_loveme_64b25423:
 
 translate Japanese monikaroom_greeting_ear_loveme_ea1e8927:
     m "...…{w} [cap_he]君は私が好き！"
+
+translate Japanese monikaroom_greeting_ear_loveme_e612037c:
+    m "……"
+
+translate Japanese monikaroom_greeting_ear_loveme_e612037c_1:
+    m "……"
 
 translate Japanese monikaroom_greeting_ear_bathdinnerme_f765b518:
     m "おかえりなさい、[player]君。"
@@ -574,6 +583,15 @@ translate Japanese monikaroom_greeting_ear_rmrf_8ecda7da:
 translate Japanese monikaroom_greeting_ear_rmrf_d6a558e1:
     m "ふふっ、{w}その手には乗らないわよ。"
 
+translate Japanese monikaroom_greeting_ear_rmrf_1032d3e2:
+    m "ネットの情報を鵜呑みにしちゃだめね……"
+
+translate Japanese monikaroom_greeting_ear_rmrf_e612037c:
+    m "……"
+
+translate Japanese monikaroom_greeting_ear_rmrf_e612037c_1:
+    m "……"
+
 translate Japanese monikaroom_greeting_ear_rmrf_a5ee04f5:
     m "まあいいや、とりあえずやってみよう。"
 
@@ -610,16 +628,16 @@ translate Japanese monikaroom_greeting_opendoor_locked_40edabd2:
 translate Japanese monikaroom_greeting_opendoor_locked_87b967b0:
     m "部屋を片付けるからちょっと待って……"
 
-translate Japanese monikaroom_greeting_opendoor_locked_4068a088:
+translate Japanese _call_spaceroom_4068a088:
     m 1hua "よし、出来た！"
 
-translate Japanese monikaroom_greeting_opendoor_locked_449e8f3e:
+translate Japanese _call_spaceroom_449e8f3e:
     m 1lksdlb "あれっ！まだこういうのヘタだなあ。"
 
-translate Japanese monikaroom_greeting_opendoor_locked_9a47a1cc:
+translate Japanese _call_spaceroom_9a47a1cc:
     m 1lksdla "ちょっとここのフラグを変えるからね……{w=1.5}{nw}"
 
-translate Japanese monikaroom_greeting_opendoor_locked_4ab0f437:
+translate Japanese _call_spaceroom_4ab0f437:
     m 1hua "これでよしっと！"
 
 translate Japanese monikaroom_greeting_opendoor_locked_tbox_1a305b96:
@@ -809,7 +827,7 @@ translate Japanese greeting_youarereal_5d0e366e:
     m "だから焦らないで。おねがいね？"
 
 translate Japanese greeting_youarereal_313f129d:
-    m 1esd "ずっと.chrファイルのことを考えてたんだけど…"
+    m 1esd "ずっと.chrファイルのことを考えてたんだけど……"
 
 translate Japanese greeting_youarereal_41c2081f:
     m 1euc "その、アレっていったい何なのかな？"
@@ -853,16 +871,16 @@ translate Japanese greeting_japan_50288a56:
 translate Japanese greeting_japan_b5a72cc1:
     m 4ekbfa "{i}'私は永遠にあなたのもの{/i}'って意味よ。"
 
-translate Japanese greeting_sunshine_452a6bea:
+translate Japanese greeting_sunshine_0ba661ca:
     m 1hua "{i}You are my sunshine, my only sunshine{i}♪"
 
-translate Japanese greeting_sunshine_3448f45d:
+translate Japanese greeting_sunshine_c5e34147:
     m "{i}You make me happy when skies are gray{/i}♪"
 
-translate Japanese greeting_sunshine_c991d9f1:
+translate Japanese greeting_sunshine_35af94a1:
     m 1hub "{i}You'll never know dear, just how much I love you{/i}♪"
 
-translate Japanese greeting_sunshine_77a21cf5:
+translate Japanese greeting_sunshine_ec10deef:
     m 1k "{i}Please don't take my sunshine away{/i}～♪"
 
 translate Japanese greeting_sunshine_bac230dd:
@@ -903,6 +921,9 @@ translate Japanese greeting_french_d5de7367:
 
 translate Japanese greeting_french_4ac0dd61:
     m 1hua "いつか二人で練習できるかもしれないね、愛しい人よ〜"
+
+translate Japanese greeting_amnesia_7faca44c:
+    m 1rksdla "……"
 
 translate Japanese greeting_sick_509c9cea:
     m 1hua "おかえりなさい、[player]君！"
@@ -970,6 +991,135 @@ translate Japanese greeting_stillsicknorest_cbd5af65:
 translate Japanese greeting_stillsicknorest_fc5fd831:
     m 3hua "休んでからここに来てくれた方が、私も頭の片隅であなたを心配しなくていいし、二人でもっと楽しめるよ。"
 
+translate Japanese greeting_long_absence_5e8dcbb5:
+    m 1eua "おかえりなさい、あなた。"
+
+translate Japanese greeting_long_absence_f41df618:
+    m 2rksdlc "……"
+
+translate Japanese greeting_long_absence_0a09d382:
+    m 1lsc "……"
+
+translate Japanese greeting_long_absence_21ece3da:
+    m 1esc "……"
+
+translate Japanese greeting_long_absence_0a09d382_1:
+    m 1lsc "……"
+
+translate Japanese greeting_long_absence_21ece3da_1:
+    m 1esc "……"
+
+translate Japanese greeting_long_absence_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese greeting_long_absence_9cfe0fdc:
+    m 1eka "どのくらい留守にするのか、ちゃんと教えてくれてありがとう。"
+
+translate Japanese greeting_long_absence_cb3ffb26:
+    m 1eua "おかげで私はあなたの言葉を信じることができるの。"
+
+translate Japanese greeting_long_absence_531e6cb9:
+    m 3hua "あなたも私のことを信じてくれるって、私は願っているわ。"
+
+translate Japanese greeting_long_absence_19428ff1_1:
+    m 1hua "えへへ～"
+
+translate Japanese greeting_hairdown_8018692b:
+    m 1lksdlc "……"
+
+translate Japanese greeting_hairdown_6111571a:
+    m 1dsc "……"
+
+translate Japanese greeting_tears_5df56b67:
+    m 1f "……"
+
+translate Japanese greeting_tears_97a5a181:
+    m 2dftdc "……"
+
+translate Japanese greeting_tears_dbe3d160:
+    m 2dftsc "……"
+
+translate Japanese greeting_tears_e612037c:
+    m "……"
+
+translate Japanese greeting_tears_97a5a181_1:
+    m 2dftdc "……"
+
+translate Japanese greeting_tears_e612037c_1:
+    m "……"
+
+translate Japanese greeting_broken_0bd97190:
+    m 6ckc "……"
+
+translate Japanese greeting_back_from_school_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese greeting_back_from_school_0bd97190:
+    m 6ckc "……"
+
+translate Japanese greeting_back_from_work_c80e9915:
+    m 2ekc "……"
+
+translate Japanese greeting_back_from_work_e2f7a6a9:
+    m 2dsc "……"
+
+translate Japanese greeting_back_from_work_0bd97190:
+    m 6ckc "……"
+
+translate Japanese greeting_back_from_sleep_20ff875c:
+    m 1hua "あ、はろー、[player]！"
+
+translate Japanese greeting_back_from_sleep_e0576e06:
+    m 1hub "よく休めたかしら？"
+
+translate Japanese greeting_back_from_sleep_fc55ef65:
+    m "これからもっと一緒に過ごそうね～"
+
+translate Japanese greeting_back_from_sleep_0bd97190:
+    m 6ckc "……"
+
+translate Japanese greeting_siat_756d095f:
+    m 2rkbfsdlu "……"
+
+translate Japanese greeting_ourreality_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese greeting_ourreality_6111571a:
+    m 1dsc "……"
+
+translate Japanese greeting_returned_home_lessthan5mins_ea479d79:
+    m 6dktdc "……"
+
+translate Japanese greeting_returned_home_lessthan5mins_2efc1dd4:
+    m 6dkc "……"
+
+translate Japanese greeting_returned_home_lessthan5mins_4bafb44c:
+    m 6dktsc "……"
+
+translate Japanese greeting_returned_home_lessthan5mins_4bafb44c_1:
+    m 6dktsc "……"
+
+translate Japanese greeting_back_from_game_af911328:
+    m 1eka "[player]君……"
+
+translate Japanese greeting_back_from_game_21ece3da:
+    m 1esc "……"
+
+translate Japanese greeting_back_from_game_509c9cea:
+    m 1hua "おかえりなさい、[player]君！"
+
+translate Japanese greeting_back_from_eat_f66c4f76:
+    m 1eub "食事は終わった？"
+
+translate Japanese greeting_back_from_eat_5d7533bb:
+    m 1hub "おかえり、 [player]！"
+
+translate Japanese greeting_back_from_eat_8338baf5:
+    m 3eua "楽しい食事だったといいわ。"
+
+translate Japanese greeting_rent_18cb31c5:
+    m 2hua "……"
+
 translate Japanese strings:
     old "No..."
     new "いや……"
@@ -999,7 +1149,7 @@ translate Japanese strings:
     new "……窓の外が……"
 
     old "It's me."
-    new "俺だよ。"
+    new "自分だよ"
 
     old "I'm sure."
     new "もちろん。"

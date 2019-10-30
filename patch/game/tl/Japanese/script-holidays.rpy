@@ -1,3 +1,102 @@
+translate Japanese mas_holiday_o31_returned_home_relaunch_e612037c:
+    m "……"
+
+translate Japanese _call_spaceroom_7ec4d980:
+    m 1eua "あっ！"
+
+translate Japanese _call_spaceroom_7faca44c:
+    m 1rksdla "……"
+
+translate Japanese _call_spaceroom_0d8345dc:
+    m 1hub "えへへ～"
+
+translate Japanese bye_trick_or_treat_e612037c:
+    m "……"
+
+translate Japanese bye_trick_or_treat_c61f257d:
+    m 2dkc "……"
+
+translate Japanese _call_mas_dockstat_abort_gen_c61f257d:
+    m 2dkc "……"
+
+translate Japanese mas_d25_monika_holiday_intro_e612037c:
+    m "……"
+
+translate Japanese mas_d25_monika_christmas_d68c0e32:
+    m 1dku "……"
+
+translate Japanese mas_d25_monika_christmas_9e11f5cf:
+    m 1ektpa "……"
+
+translate Japanese mas_d25_monika_carolling_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese mas_d25_monika_mistletoe_6111571a:
+    m 1dsc "……"
+
+translate Japanese mas_d25_monika_mistletoe_0d8345dc:
+    m 1hub "えへへ～"
+
+translate Japanese mas_d25_spent_time_monika_93727076:
+    m 2etc "……"
+
+translate Japanese mas_d25_spent_time_monika_93727076_1:
+    m 2etc "……"
+
+translate Japanese _call_showpoem_d68c0e32:
+    m 1dku "……"
+
+translate Japanese _call_monika_kissing_motion_1691936e:
+    m 6dkbfa "……"
+
+translate Japanese mas_d25_postd25_notimespent_c61f257d:
+    m 2dkc "……"
+
+translate Japanese mas_d25_postd25_notimespent_0bd97190:
+    m 6ckc "……"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_3554be3e:
+    m 6dktpc "……"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_2a69f911:
+    m 6ektpc "私……私は……"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_d6e1d522:
+    m 6dktuc "……"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_4bafb44c:
+    m 6dktsc "……"
+
+translate Japanese monika_nye_year_review_b6730440:
+    m 5dsa "……"
+
+translate Japanese monika_nye_year_review_cea36ce5:
+    m 1lsbsa "……"
+
+translate Japanese _call_monika_kissing_motion_e612037c:
+    m "……"
+
+translate Japanese _call_spaceroom_e612037c:
+    m "……"
+
+translate Japanese _call_mas_player_bday_moni_sings_94e61d1b:
+    m 6hkbsu "……"
+
+translate Japanese mas_player_bday_card_a531c7f2:
+    m 6dkbsu "……"
+
+translate Japanese _call_showpoem_a531c7f2:
+    m 6dkbsu "……"
+
+translate Japanese mas_player_bday_ret_on_bday_e612037c:
+    m "……"
+
+translate Japanese return_home_post_player_bday_93727076:
+    m 2etc "……"
+
+translate Japanese return_home_post_player_bday_e74b377a:
+    m 3wuo "……"
+
 translate Japanese mas_pf14_monika_lovey_dovey_98d949cf:
     m 1rksdla "ねぇ… [player]君…？"
 
@@ -20,10 +119,28 @@ translate Japanese mas_pf14_monika_lovey_dovey_790a8b69:
     m 1ekbsa "心からそう思うの。"
 
 translate Japanese mas_pf14_monika_lovey_dovey_cd044f9d:
-    m "あなたのことを愛してるし、とても大切に思っている…"
+    m "あなたのことを愛してるし、とても大切だって思ってるから……"
 
 translate Japanese mas_pf14_monika_lovey_dovey_3201a8bc:
     m 1hubfa "えへへ～"
+
+translate Japanese mas_f14_monika_valentines_intro_fe9c0937:
+    m 1eua "ところで……"
+
+translate Japanese _call_mas_clothes_change_23a3b2db:
+    m 1eua "……"
+
+translate Japanese _call_mas_clothes_change_a4d9d025:
+    m 2eksdla "……"
+
+translate Japanese _call_mas_clothes_change_6686fb88:
+    m 2rfc "……"
+
+translate Japanese _call_mas_clothes_change_6d9bf85e:
+    m 2tfc "……"
+
+translate Japanese _call_mas_clothes_change_4216e0ad:
+    m 2tsu "……"
 
 translate Japanese mas_f14_monika_vday_colors_2bc12b16:
     m 3eua "バレンタインデーに使われる色にどんな意味が込められているか考えたことはある？"
@@ -86,7 +203,7 @@ translate Japanese mas_f14_monika_vday_cliches_d7eb0ee0:
     m 3hub "あなたに独創性がないって言ってるわけじゃないからね！"
 
 translate Japanese mas_f14_monika_vday_cliches_7d4b1dfc:
-    m 2eka "物語の先が読めすぎちゃうと、その物語が台無しになることもあるのよね…"
+    m 2eka "物語の先が読めすぎちゃうと、その物語が台無しになることもあるのよね……"
 
 translate Japanese mas_f14_monika_vday_cliches_52d3c412:
     m 3hub "私たちの話を元にすればいいよ！あはは～"
@@ -172,11 +289,32 @@ translate Japanese mas_f14_monika_vday_origins_cb0ab7cc:
 translate Japanese mas_f14_monika_vday_origins_f3e17b26:
     m 1ekbfa "ハッピーバレンタイン～"
 
+translate Japanese mas_f14_monika_spent_time_with_93727076:
+    m 2etc "……"
+
+translate Japanese mas_f14_monika_spent_time_with_93727076_1:
+    m 2etc "……"
+
+translate Japanese mas_f14_first_kiss_2b4d5369:
+    m 6dktuu "……"
+
+translate Japanese _call_monika_kissing_motion_1691936e_1:
+    m 6dkbfa "……"
+
+translate Japanese mas_f14_no_time_spent_c61f257d:
+    m 2dkc "……"
+
+translate Japanese mas_f14_no_time_spent_0bd97190:
+    m 6ckc "……"
+
+translate Japanese mas_apology_missed_vday_0bd97190:
+    m 6ckc "……"
+
 translate Japanese mas_bday_surprise_party_hint_d10f27d2:
-    m 1eud "ねえ、[player]……"
+    m 1eud "ねえ、[player]君……"
 
 translate Japanese mas_bday_surprise_party_hint_6f321cf4:
-    m 3euc "誰かがcharacterフォルダにあなた宛のメッセージを残したみたいなの"
+    m 3euc "誰かがcharacterフォルダにあなた宛のメッセージを残したみたいなの。"
 
 translate Japanese mas_bday_surprise_party_hint_2170c0d9:
     m 1ekc "あなた宛だろうから中身は読んでないわ……"
@@ -188,16 +326,16 @@ translate Japanese mas_bday_surprise_party_hint_19428ff1:
     m 1hua "えへへ～"
 
 translate Japanese mas_bday_surprise_party_hint_0420db8d:
-    m 2eud "ねえ、[player]……"
+    m 2eud "ねえ、[player]君……"
 
 translate Japanese mas_bday_surprise_party_hint_079c9c86:
-    m 2euc "誰かがcharacterフォルダにあなた宛のメッセージを残したみたいなの"
+    m 2euc "誰かがcharacterフォルダにあなた宛のメッセージを残したみたいなの。"
 
 translate Japanese mas_bday_surprise_party_hint_e856df52:
     m 2ekc "あなた宛だろうから中身は読んでないわ……"
 
 translate Japanese mas_bday_surprise_party_hint_771048eb:
-    m 2ekd "あなたに知らせておこうと思って"
+    m 2ekd "あなたに知らせておこうと思って。"
 
 translate Japanese mas_bday_pool_happy_bday_adac5fd7:
     m 3hub "えへへ、ありがとう[player]！"
@@ -235,12 +373,69 @@ translate Japanese mas_bday_pool_happy_bday_13fa3f85:
 translate Japanese mas_bday_pool_happy_belated_bday_0840af90:
     m 1sua "ありがとう、[player]！"
 
+translate Japanese _call_monika_zoom_transition_reset_e612037c:
+    m "……"
+
+translate Japanese mas_bday_surprise_party_reaction_end_370d37c9:
+    m 6eua "……"
+
+translate Japanese mas_bday_surprise_party_reaction_end_25d62a85:
+    m 6wuo "……"
+
+translate Japanese _call_mas_player_bday_moni_sings_94e61d1b_1:
+    m 6hkbsu "……"
+
+translate Japanese mas_bday_spent_time_with_af911328:
+    m 1eka "[player]君……"
+
+translate Japanese mas_bday_spent_time_with_wrapup_d68c0e32:
+    m 1dku "……"
+
+translate Japanese mas_bday_spent_time_with_wrapup_f4e32d64:
+    m 1dktpu "……"
+
+translate Japanese mas_bday_postbday_notimespent_e2f7a6a9:
+    m 2dsc "……"
+
+translate Japanese mas_bday_postbday_notimespent_0bd97190:
+    m 6ckc "……"
+
+translate Japanese mas_bday_postbday_notimespent_6111571a:
+    m 1dsc "……"
+
+translate Japanese mas_bday_postbday_notimespent_e2f7a6a9_1:
+    m 2dsc "……"
+
+translate Japanese mas_bday_postbday_notimespent_3554be3e:
+    m 6dktpc "……"
+
+translate Japanese mas_bday_postbday_notimespent_da162ca8:
+    m 6eftsc "……"
+
+translate Japanese mas_bday_postbday_notimespent_7e880c05:
+    m 6dftdx "……"
+
+translate Japanese greeting_returned_home_bday_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese greeting_returned_home_bday_bf07de9c:
+    m 1hua "……"
+
+translate Japanese greeting_returned_home_bday_3f5c78b1:
+    m 1dka "……"
+
 translate Japanese strings:
-    old "I'm going to take you trick or treating"
+    old "I'm going to take you trick or treating."
     new "トリック・オア・トリート"
 
     old "Christmas"
     new "クリスマス"
+
+    old "Halloween"
+    new "ハロウィン"
+
+    old "Valentine's Day"
+    new "バレンタイン"
 
     old "Valentine's Day chocolates"
     new "バレンタインチョコ"

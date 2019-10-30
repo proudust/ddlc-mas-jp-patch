@@ -183,16 +183,16 @@ translate Japanese strings:
     new "いいえ"
 
     old "An update is now avalable!"
-    new "新しい更新データがあります！"
+    new "アップデートがあります！"
 
     old "Checking for updates..."
-    new "ゲームの更新を確認中……"
+    new "アップデートのチェック中……"
 
     old "No update available."
-    new "新しい更新データはありません。"
+    new "アップデートはありません。"
 
     old "Timeout occured while checking for updates. Try again later."
-    new "更新の確認中にタイムアウトが発生しました。後でもう一度お試しください。"
+    new "アップデートの確認中にタイムアウトが発生しました。後でもう一度お試しください。"
 
     old "Install"
     new "インストール"
@@ -204,10 +204,10 @@ translate Japanese strings:
     new "新しいバージョン [u.version] があります。インストールしますか？"
 
     old "Downloading the updates. (Progress bar may not advance during download)"
-    new "更新データをダウンロード中です。"
+    new "アップデートをダウンロード中です。"
 
     old "The updates have been installed. Please reopen Monika After Story."
-    new "更新データがインストールされました。モニカアフターストーリーを再起動してください。"
+    new "アップデートがインストールされました。モニカアフターストーリーを再起動してください。"
 
     old "Skipping"
     new "スキップ中"

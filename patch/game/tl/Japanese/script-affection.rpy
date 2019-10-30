@@ -1,12 +1,42 @@
 translate Japanese monika_affection_nickname_74472d51:
     m 1euc "考えてたんだけど、[player]君……"
 
+translate Japanese monika_affection_nickname_yes_d3fa797f:
+    m 1euc "ああ、わかったわ。"
+
+translate Japanese monika_affection_nickname_yes_bc96da2a:
+    m 1lksdla "……"
+
+translate Japanese monika_affection_nickname_yes_394ece4d:
+    m 1euc "……"
+
+translate Japanese monika_affection_nickname_yes_0d8345dc:
+    m 1hub "えへへ～"
+
+translate Japanese monika_affection_nickname_yes_01a93df6:
+    m 2dfc "……"
+
+translate Japanese monika_affection_nickname_yes_97a5a181:
+    m 2dftdc "……"
+
+translate Japanese mas_affection_apology_4a7ea962:
+    m 2dfc "[player]君……"
+
+translate Japanese mas_affection_apologydeleted_149152b7:
+    m 1wud "……"
+
+translate Japanese mas_affection_apologydeleted_01a93df6:
+    m 2dfc "……"
+
 translate Japanese strings:
     old "What would you like to talk about?"
     new "何について話したいの？"
 
     old "What would you like to talk about, [player]?"
     new "何について話したいの、[player]君？"
+
+    old "<3"
+    new "<3"
 
     old "...Which game?"
     new "……どのゲーム？"

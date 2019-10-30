@@ -17,10 +17,10 @@ translate Japanese _zzpk_ssll_9cc4d00d:
     m 1eua "[player]君、私のために弾いてね～"
 
 translate Japanese _zzpk_ppel_52b51855:
-    m 1eua "もう一回弾いてみる？{nw}"
+    m 1eua "もう一度やりたい？{nw}"
 
 translate Japanese _zzpk_ppel_32d0248c:
-    m "もう一回弾いてみる？{fast}"
+    m "もう一度やりたい？{fast}"
 
 translate Japanese mas_piano_result_default_c9afedae:
     m 1eua "[player]君、これでいい？"
@@ -53,7 +53,7 @@ translate Japanese mas_piano_def_fc_4c999446:
     m 1eua "よくやったわ！"
 
 translate Japanese mas_piano_def_fc_8341ba60:
-    m 1hub "もう少し一緒に練習すると更に良くなるかもね！"
+    m 1hub "今度は私と一緒に弾いてみてもいいかもね！"
 
 translate Japanese mas_piano_def_prac_64c605d0:
     m 1eua "うん！良かったわ、[player]君！"
