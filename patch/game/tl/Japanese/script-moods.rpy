@@ -115,6 +115,9 @@ translate Japanese mas_mood_happy_6c165735:
 translate Japanese mas_mood_happy_267e67d3:
     m "いつでも私はここであなたを待っている、大好きだよ〜"
 
+translate Japanese mas_mood_happy_549beabf:
+    m "いつでも会いに来て、私が[player]君を元気づけてあげる。"
+
 translate Japanese mas_mood_sick_87257c45:
     m 1ekc "うぅ、それは残念、大変だね、[player]君。"
 
@@ -223,10 +226,13 @@ translate Japanese mas_mood_angry_708ca48b:
 translate Japanese mas_mood_angry_fd3bdfdb:
     m 1hua "覚えておいて！[player]君の幸せは私の幸せでもあるってね〜"
 
+translate Japanese mas_mood_inadequate_f15775ec:
+    m 1ekc "……"
+
 translate Japanese mas_mood_lucky_0d7d7ac3:
     m 2tfc "自問自答しなきゃダメだよ。"
 
-translate Japanese mas_mood_lucky_3ff65422:
+translate Japanese mas_mood_lucky_b9b000bb:
     m 2tfu "{i}私は幸運ですか？{/i}"
 
 translate Japanese mas_mood_lucky_d3107ef6:
@@ -351,10 +357,10 @@ translate Japanese strings:
     new "終わった。"
 
     old "Yeah I do."
-    new "良くなった。"
+    new "良くなった"
 
     old "Not really."
-    new "あまり。"
+    new "あんまり"
 
     old "YES!"
     new "そうだよ！"

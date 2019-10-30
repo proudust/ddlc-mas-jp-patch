@@ -20,7 +20,7 @@ translate Japanese mas_hangman_game_loop_ec08e45d:
     m "{cps=*2}[hm_glitch_word]{/cps}{w=0.2}{nw}"
 
 translate Japanese mas_hangman_game_loop_af911328:
-    m 1eka "[player]君、……"
+    m 1eka "[player]君……"
 
 translate Japanese mas_hangman_game_loop_3b6e1424:
     m "自分の名前も当てられなかったの？"
@@ -80,7 +80,7 @@ translate Japanese mas_hangman_game_loop_17be01df:
     m 1eka "[player]君、次は最後まで私につきあってくれるよね？"
 
 translate Japanese mas_hangman_game_loop_c7891309:
-    m 1hua "わっ、正解！"
+    m 1hua "わっ、ちゃんと[the_word]を当てられたね！"
 
 translate Japanese mas_hangman_game_loop_c7891309:
     m 1hua "わっ、ちゃんと[the_word]を当てられたね！"
@@ -89,10 +89,10 @@ translate Japanese mas_hangman_game_loop_73956dbf:
     m "すごいね、[player]君！"
 
 translate Japanese mas_hangman_game_loop_ae7c5a73:
-    m "もう一度やる？{nw}"
+    m "もう一度やりたい？{nw}"
 
 translate Japanese mas_hangman_game_loop_32d0248c:
-    m "もう一度やる？{fast}"
+    m "もう一度やりたい？{fast}"
 
 translate Japanese mas_hangman_dlg_game_end_long_a3194e1a:
     m 1euc "[store.mas_hangman.game_name!t]は実際すごく難しいゲームなんだよね。"

@@ -24,7 +24,7 @@ translate Japanese strings:
     new "リトライ"
 
     old "New update available!"
-    new "新しいアップデートが利用可能です！"
+    new "アップデートがあります！"
 
     old "No update found."
     new "アップデートはありません。"

@@ -132,3 +132,21 @@ translate Japanese monika_ptod_tip003_db08669d:
 
 translate Japanese monika_ptod_tip003_999bd9b2:
     m 1eua "ただ計算に使うだけじゃなくてもっと色々なことができるけど、それは追々教えていくからね。"
+
+translate Japanese monika_ptod_tip003_f7af61a6:
+    m 1hua "とっても素敵でしょ、ね？"
+
+translate Japanese monika_ptod_tip003_b43554c2:
+    m 1hua "ご清聴、ありがとうございました！"
+
+translate Japanese monika_ptod_tip005_b43554c2:
+    m 1hua "ご清聴、ありがとうございました！"
+
+translate Japanese monika_ptod_tip006_b43554c2:
+    m 1hua "ご清聴、ありがとうございました！"
+
+translate Japanese monika_ptod_tip008_b43554c2:
+    m 1hua "ご清聴、ありがとうございました！"
+
+translate Japanese monika_ptod_tip009_b43554c2:
+    m 1hua "ご清聴、ありがとうございました！"

@@ -62,7 +62,7 @@ translate Japanese mas_chess_save_multi_dlg_c739d190:
     m 1eua "どれにするか決まったら、また遊ぼうね。"
 
 translate Japanese mas_chess_save_multi_dlg_0f026494:
-    m 1eua "おっけ〜"
+    m 1eua "おっけ～"
 
 translate Japanese mas_chess_savegame_36a6422e:
     m 1eka "「[save_name]」というファイル名のセーブデータがもうあるけど、"
@@ -416,7 +416,7 @@ translate Japanese _mas_chess_dlggmw3esl_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_chess_dlg_game_monika_win_rekt_e6f89ce6:
-    m 1hub "あはは〜"
+    m 1hub "あはは～"
 
 translate Japanese mas_chess_dlg_game_monika_win_rekt_1c6cf732:
     m 1tku "たぶん、あなたはチェッカーだけやってた方がいいんじゃないかなって。"
@@ -549,7 +549,7 @@ translate Japanese strings:
     new "黒"
 
     old "Let's draw lots!"
-    new "どちらでもいい"
+    new "くじ引きで！"
 
     old "Yes."
     new "はい"
@@ -597,7 +597,7 @@ translate Japanese strings:
     new "……今日はただツイてないだけ。"
 
     old "Ah, so you {i}are{/i} capable of winning..."
-    new "ああ、だからあなたは勝てたんだね…"
+    new "ああ、だからあなたは勝てたんだね……"
 
     old "I guess you're not {i}entirely{/i} terrible."
     new "あなたがそんなに下手だなんて思わないな。"
