@@ -1,8 +1,17 @@
 define config.default_language = "Japanese"
 
+init -1 python in jpfonts:
+    VLGothic = "gui/font/VL-Gothic-Regular.ttf"
+    Mikachan = "gui/font/Mikachan.ttf"
+    HolidayMDJP = "gui/font/HolidayMDJP.otf"
+    TegakiZatsu = "gui/font/851tegaki_zatsu_normal.ttf"
+    GataSosyo = "gui/font/gatasosyo.ttf"
+    SanaFon = "gui/font/SNsanafonP.ttf"
+    Ruriiro = "gui/font/Ruriiro_font.ttf"
+
 # フォント設定
 translate Japanese python:
-    gui.default_font = "gui/font/VL-Gothic-Regular.ttf"
+    gui.default_font = jpfonts.VLGothic
     gui.name_font = gui.default_font
     gui.interface_font = gui.default_font
     gui.choice_button_borders = Borders(10, 5, 10, 5)
@@ -11,10 +20,10 @@ translate Japanese style normal:
     outlines [(2, "#444", 0, 0), (1, "#444", 2, 2)]
 
 translate Japanese style check_button_text:
-    font "gui/font/Mikachan.ttf"
+    font jpfonts.Mikachan
 
 translate Japanese style check_dark_button_text:
-    font "gui/font/Mikachan.ttf"
+    font jpfonts.Mikachan
 
 translate Japanese style choice_button_text:
     font gui.default_font
@@ -26,13 +35,13 @@ translate Japanese style gui_label_text:
     font gui.default_font
 
 translate Japanese style edited:
-    font "gui/font/VL-Gothic-Regular.ttf"
+    font gui.default_font
 
 translate Japanese style edited_def:
-    font "gui/font/VL-Gothic-Regular.ttf"
+    font gui.default_font
 
 translate Japanese style edited_dark:
-    font "gui/font/VL-Gothic-Regular.ttf"
+    font gui.default_font
 
 translate Japanese style game_menu_label_text:
     font gui.name_font
@@ -50,25 +59,25 @@ translate Japanese style navigation_button_text_dark:
     font gui.name_font
 
 translate Japanese style poemgame_text:
-    font "gui/font/Mikachan.ttf"
+    font jpfonts.Mikachan
 
 translate Japanese style poemgame_text_def:
-    font "gui/font/Mikachan.ttf"
+    font jpfonts.Mikachan
 
 translate Japanese style poemgame_text_dark:
-    font "gui/font/Mikachan.ttf"
+    font jpfonts.Mikachan
 
 translate Japanese style pref_label_text:
     font gui.default_font
 
 translate Japanese style radio_button_text:
-    font "gui/font/Mikachan.ttf"
+    font jpfonts.Mikachan
 
 translate Japanese style radio_dark_button_text:
-    font "gui/font/Mikachan.ttf"
+    font jpfonts.Mikachan
 
 translate Japanese style radio_dark_button_text:
-    font "gui/font/Mikachan.ttf"
+    font jpfonts.Mikachan
 
 translate Japanese style scrollable_menu_button_text:
    font gui.default_font
@@ -96,6 +105,33 @@ translate Japanese style island_button_dark_text:
 
 translate Japanese style quick_dark_button_text:
    font gui.default_font
+
+# 詩
+translate Japanese style yuri_text:
+    font jpfonts.TegakiZatsu
+    size 28
+
+translate Japanese style yuri_text_2:
+    font jpfonts.GataSosyo
+    size 36
+
+translate Japanese style yuri_text_3:
+    font jpfonts.GataSosyo
+    size 27
+    kerning -12
+    language "western"
+
+translate Japanese style natsuki_text:
+    font jpfonts.SanaFon
+    size 30
+
+translate Japanese style sayori_text:
+    font jpfonts.HolidayMDJP
+    size 30
+
+translate Japanese style monika_text:
+    font jpfonts.Ruriiro
+    size 30
 
 translate Japanese python:
     # 接頭詞・接尾詞の設定
