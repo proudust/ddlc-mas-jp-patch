@@ -225,7 +225,13 @@ init python:
     #build.archive(build.name, "all")
 
     #Add the pictures necessary for the scrollable menu
-    build.classify("game/gui/font/*.*", build.name)
+    build.classify("game/" + jpfonts.VLGothic, build.name)
+    build.classify("game/" + jpfonts.Mikachan, build.name)
+    build.classify("game/" + jpfonts.HolidayMDJP, build.name)
+    build.classify("game/" + jpfonts.TegakiZatsu, build.name)
+    build.classify("game/" + jpfonts.GataSosyo, build.name)
+    build.classify("game/" + jpfonts.SanaFon, build.name)
+    build.classify("game/" + jpfonts.Ruriiro, build.name)
     build.classify("game/tl/**.rpyc", build.name)
     build.classify("game/zz_calendar.rpyc", build.name)
 
