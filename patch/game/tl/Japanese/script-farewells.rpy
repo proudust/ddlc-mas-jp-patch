@@ -278,7 +278,7 @@ translate Japanese bye_prompt_eat_0290594e:
     m 2euc "……"
 
 translate Japanese bye_dinner_noon_to_mn_c272910b:
-    m 1eua "夕食の時間かしら、[player]？"
+    m 1eua "夕食の時間かしら？[player]"
 
 translate Japanese bye_dinner_noon_to_mn_f162f7cc:
     m 1eka "たとえそれが特別な食事じゃなくても、あなたと一緒に食事ができたらいいのにって思うわ。"

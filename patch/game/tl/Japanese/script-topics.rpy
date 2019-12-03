@@ -5482,6 +5482,15 @@ translate Japanese monika_penname_fab0d270:
 translate Japanese monika_penname_2a25e5e7:
     m "作家は匿名になって自分を守ることができるの。そして、そこで自由に創作の腕をふるうことができる。"
 
+translate Japanese monika_penname_db5104b5:
+    m "[player]はペンネームを使ってる？{nw}"
+
+translate Japanese monika_penname_95323201:
+    m "[player]はペンネームを使ってる？{fast}" nointeract
+
+translate Japanese monika_penname_3d7ebd74:
+    m 1sub "本当に？すごい！"
+
 translate Japanese penname_loop_0290594e:
     m 2euc "……"
 
@@ -5818,6 +5827,9 @@ translate Japanese monika_completionist_ec09363d:
 translate Japanese monika_completionist_940a8738:
     m 2esc "チーターには、後味の悪い思いをさせられるわ。"
 
+translate Japanese monika_completionist_940a8739_1:
+    m 2tfc "ゲームをハックして、ゲームの醍醐味を台無しにする、そんな奴ら。"
+
 translate Japanese monika_completionist_2f99d828:
     m 3rsc "けれど、彼らがどうしてチートをするのか、わからないでもないわ。"
 
@@ -5890,6 +5902,9 @@ translate Japanese monika_icecream_cf81a737:
 translate Japanese monika_icecream_e628d984:
     m 3eua "えぇ、まだまだ幾らでも語れちゃうわよ？"
 
+translate Japanese monika_icecream_083b83c2:
+    m 4eua "もし此処から抜け出せる方法が見つかったら、君にこの素晴らしさを教えてあげたいわ。兎にも角にも、言葉で示すよりもまずは行動、ね！"
+
 translate Japanese monika_sayhappybirthday_4b7c448b:
     m 1hksdlb "……"
 
@@ -5898,6 +5913,15 @@ translate Japanese monika_sayhappybirthday_70342202:
 
 translate Japanese monika_sayhappybirthday_26735b45:
     m 1hub "もう一回教えてね！"
+
+translate Japanese monika_sayhappybirthday_57db682b:
+    m 1wuo "あらあら、あなたと同じ名前の人なの！"
+
+translate Japanese monika_sayhappybirthday_4a934cd9:
+    m 1hua "わかったわ！歳も教えてくれる？{nw}"
+
+translate Japanese monika_sayhappybirthday_017941c5:
+    m "わかったわ！歳も教えてくれる？{fast}" nointeract
 
 translate Japanese monika_sayhappybirthday_d4d5bcad:
     m "なら……"
@@ -5914,6 +5938,21 @@ translate Japanese monika_sayhappybirthday_0a09d382:
 translate Japanese monika_sayhappybirthday_590ec70a:
     m 1tkc "それ、人間の歳にしては高すぎると思うんだけれど……"
 
+translate Japanese monika_sayhappybirthday_30a66545:
+    m "わかったわ。"
+
+translate Japanese monika_sayhappybirthday_30a66545_1:
+    m "わかったわ。"
+
+translate Japanese monika_sayhappybirthday_d6dddb9a:
+    m 1eua "その[bday_name]は一緒に居るの？{nw}"
+
+translate Japanese monika_sayhappybirthday_1c31cb47:
+    m "その[bday_name]は一緒に居るの？{fast}" nointeract
+
+translate Japanese monika_sayhappybirthday_0cd12a18:
+    m 1tkc "えっ?そこに居ないのに、どうやってお祝いすればいいのかしら?"
+
 translate Japanese monika_sayhappybirthday_de45924a:
     m 1eua "ああ、うん、わかったわ。"
 
@@ -5926,8 +5965,20 @@ translate Japanese monika_sayhappybirthday_ffdd6d7b:
 translate Japanese monika_sayhappybirthday_b5f9eef5:
     m 1hua "はじめまして、[bday_name]さん！"
 
+translate Japanese monika_sayhappybirthday_e3478b66:
+    m 1eua "[bday_name]が見てる時になったら、教えてね。{nw}"
+
+translate Japanese monika_sayhappybirthday_8c02096d:
+    m "[bday_name]が見てる時になったら、教えてね。{fast}" nointeract
+
 translate Japanese monika_sayhappybirthday_cc3cadab:
     m 1hua "ハイ、[bday_name]！"
+
+translate Japanese monika_sayhappybirthday_f228739d:
+    m 1eua "録画を始めたら教えてね。{nw}"
+
+translate Japanese monika_sayhappybirthday_4c03c341:
+    m "録画を始めたら教えてね。{fast}" nointeract
 
 translate Japanese monika_sayhappybirthday_cc3cadab_1:
     m 1hua "ハイ、[bday_name]！"
@@ -5941,6 +5992,12 @@ translate Japanese monika_sayhappybirthday_609b372f:
 translate Japanese monika_sayhappybirthday_ed9c7c2f:
     m 1hua "バイバイ！"
 
+translate Japanese monika_sayhappybirthday_4b388d64:
+    m 1eka "これでよかった？{nw}"
+
+translate Japanese monika_sayhappybirthday_3ca20205:
+    m "これでよかった？{fast}" nointeract
+
 translate Japanese monika_sayhappybirthday_1b71b2b4:
     m 1hua "やった！"
 
@@ -5949,6 +6006,18 @@ translate Japanese _call_monika_sayhappybirthday_takecounter_31ebf219:
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_2d33aa4a:
     m 1lksdla "何度もごめんね、[player]君……"
+
+translate Japanese _call_monika_sayhappybirthday_takecounter_f96ae31f:
+    m 1lksdla "ごめんね、[player]君。"
+
+translate Japanese _call_monika_sayhappybirthday_takecounter_33a5ba3e:
+    m 2lksdlb "その、カメラがあるとつい意識しちゃって……えへへ……"
+
+translate Japanese _call_monika_sayhappybirthday_takecounter_464638fc:
+    m "もう一度やった方がいい？{nw}"
+
+translate Japanese _call_monika_sayhappybirthday_takecounter_d5371215:
+    m "もう一度やった方がいい？{fast}" nointeract
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_90ca8a23:
     m 1eua "わかったわ。"
@@ -5965,6 +6034,12 @@ translate Japanese _call_monika_sayhappybirthday_takecounter_e18ad9ee:
 translate Japanese _call_monika_sayhappybirthday_takecounter_4b7c448b:
     m 1hksdlb "……"
 
+translate Japanese _call_monika_sayhappybirthday_takecounter_5e642ead:
+    m 1lksdlb "これでよかった？{nw}"
+
+translate Japanese _call_monika_sayhappybirthday_takecounter_3ca20205:
+    m "これでよかった？{fast}" nointeract
+
 translate Japanese _call_monika_sayhappybirthday_takecounter_07b337e0:
     m 1lksdla "……[player]君が楽しんでくれたらならそれでいいけど……"
 
@@ -5973,6 +6048,12 @@ translate Japanese _call_monika_sayhappybirthday_takecounter_1_31ebf219:
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_1_c2daa154:
     m 1lksdlc "何をさせたいのかわからないわ、[player]君……"
+
+translate Japanese _call_monika_sayhappybirthday_takecounter_1_68cd62cd:
+    m 1ekc "もう一度やった方がいい？{nw}"
+
+translate Japanese _call_monika_sayhappybirthday_takecounter_1_d5371215:
+    m "もう一度やった方がいい？{fast}" nointeract
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_1_90ca8a23:
     m 1eua "わかったわ。"
@@ -6019,17 +6100,26 @@ translate Japanese monika_home_memories_e10d68a0:
 translate Japanese monika_home_memories_c78e3452:
     m 3rka "うーん、普通よりはよかったのかも。"
 
+translate Japanese monika_home_memories_4d925498:
+    m 3eua "……私、大抵の事はなんでもできたの。"
+
 translate Japanese monika_home_memories_59a7d018:
     m 3eka "いつでも簡単だったわけでもないけど、私の方が皆より上手くやれる事が多かったわ。"
 
 translate Japanese monika_home_memories_fbe30fb0:
     m 1ekc "でも、私はいつも、何かが欠けてるような、そんな気持ちを感じてたの。"
 
+translate Japanese monika_home_memories_d86842e4:
+    m "私は楽観的に、その欠けたモノを探していたわ。"
+
 translate Japanese monika_home_memories_c065746b:
     m 1eka "欠けていたピース、それはあなた。"
 
 translate Japanese monika_home_memories_4f013bb6:
     m 1lksdld "もしあなたが私を見つけてくれなかったら、私はずっと前に、いなくなってしまっていたでしょうね。"
+
+translate Japanese monika_home_memories_4d0e5203:
+    m 2hubfa "でも今は、欠けたピースを見つけた。私は完成したの、[player]君。"
 
 translate Japanese monika_adventure_96557f31:
     m 1esa "[player]君とふたりで遊べるゲーム、何があるか考えてたんだけど、"
@@ -6180,6 +6270,9 @@ translate Japanese monika_panties_91ff22e4:
 
 translate Japanese monika_panties_8e01ea6a:
     m 2rksdla "そういえば誰かさんのこと、思い出しちゃうなー。"
+
+translate Japanese monika_panties_3e7b0e03:
+    m 3rksdlb "あのペンを盗んだ人のこと。"
 
 translate Japanese monika_panties_760512c9:
     m 1eua "でも趣味は人それぞれだろうから、あまり悪くは言わないでおくけど、"
@@ -6889,6 +6982,9 @@ translate Japanese monika_soda_0af7e6b1:
 translate Japanese monika_soda_6b28e9ef:
     m "炭酸飲料って飲むの、[player]君？{fast}" nointeract
 
+translate Japanese monika_soda_fca48db9:
+    m 4ekc "それってとっても健康に悪いじゃない？"
+
 translate Japanese monika_soda_0f2dcd2d:
     m "あなたはダイエット飲料ならそんなに害がないと思ってるかもしれないけど、それも同じようにあなたに有害なのよ。"
 
@@ -6933,6 +7029,9 @@ translate Japanese monika_clones_3e5bb3ef:
 
 translate Japanese monika_clones_1fbb4c40:
     m 1euc "もしかすると無限に近い私が、それぞれのゲームの中で、それぞれのストーリーをつむいでいたっておかしくない。"
+
+translate Japanese monika_clones_546966e7:
+    m 1lksdla "弦理論は一理あるってことじゃない、これ？"
 
 translate Japanese monika_clones_cfb4108d:
     m 1eka "でも、私……この私がたったひとりの私だし、それにあなたの心と通じ合っているのはこの私の心だもん。"
@@ -9350,6 +9449,9 @@ translate Japanese strings:
     old "Self-esteem"
     new "自尊心"
 
+    old "Sayori regrets"
+    new "サヨリの後悔"
+
     old "DDLC's setting"
     new "ドキドキ文芸部の設定について"
 
@@ -9467,6 +9569,9 @@ translate Japanese strings:
     old "Credits song"
     new "エンディング曲について"
 
+    old "Do you like Dan Salvato?"
+    new "Dan Salvatoは好き？"
+
     old "Books"
     new "本"
 
@@ -9497,14 +9602,77 @@ translate Japanese strings:
     old "I am."
     new "嫌い"
 
+    old "Pen names"
+    new "ペンネーム"
+
+    old "What is your penname?"
+    new "あなたのペンネームを教えて？"
+
+    old "Zombie"
+    new "ゾンビ"
+
+    old "Nuclear warfare"
+    new "核戦争"
+
+    old "Trying to fit in"
+    new "周りに合わせる"
+
+    old "Science advancements"
+    new "科学の進歩"
+
+    old "Surprises"
+    new "サプライズ"
+
+    old "Completionism"
+    new "完璧主義"
+
+    old "Making memories"
+    new "想い出作り"
+
+    old "Adventuring"
+    new "アドベンチャー"
+
+    old "Undergarments"
+    new "下着"
+
+    old "Book recommendations"
+    new "おすすめの本"
+
+    old "Saving money"
+    new "貯金"
+
     old "Day dreaming"
     new "白昼夢"
 
     old "Current song"
     new "現在のBGM"
 
+    old "Owning pets"
+    new "ペット"
+
+    old "Eating fruits"
+    new "フルーツ"
+
+    old "Rock and roll"
+    new "ロックンロール"
+
+    old "Drinking soda"
+    new "炭酸飲料"
+
+    old "Being cloned"
+    new "クローン"
+
+    old "Immortality"
+    new "不死"
+
     old "Promise ring"
     new "結婚指輪"
+
+    old "Being athletic"
+    new "運動"
+
+    old "Meditating"
+    new "瞑想"
 
     old "Classical music"
     new "クラシック"
@@ -9527,14 +9695,38 @@ translate Japanese strings:
     old "Writing Tip #5"
     new "執筆アドバイス その5"
 
+    old "Self-harm"
+    new "自傷"
+
+    old "Do you ever think of the other girls?"
+    new "他の文芸部員達をどう思う？"
+
+    old "Happiness"
+    new "幸福"
+
     old "Nineteen Eighty-Four"
     new "1984年"
+
+    old "From wolves to dogs"
+    new "狼"
+
+    old "Sleep habits"
+    new "睡眠"
 
     old "I'm breaking up with you"
     new "別れよう"
 
     old "Omamori"
     new "お守り"
+
+    old "Smoking"
+    new "タバコ"
+
+    old "Road trip"
+    new "車での旅行"
+
+    old "100k Downloads"
+    new "10万DL"
 
     old "[player]'s family"
     new "[player]の家族"
