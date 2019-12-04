@@ -9349,6 +9349,12 @@ translate Japanese monika_dating_startdate_confirm_tooslow_5e630d0b:
 translate Japanese monika_dating_startdate_confirm_tooslow_ee3f0a53:
     m 1euc "ああ、違っちゃってた？"
 
+translate Japanese monika_add_custom_music_c55053d5:
+    m 1eua "音楽を追加するのは簡単よ、[player]！"
+
+translate Japanese monika_add_custom_music_ba4b1419:
+    m 3eua "次の手順に従ってね……"
+
 translate Japanese monika_add_custom_music_instruct_3bed5a62:
     m 4eua "はじめに、追加したい音楽ファイルの形式がMP3、OGGかVORBIS、OPUSであることを確認して。"
 
@@ -9745,6 +9751,12 @@ translate Japanese strings:
 
     old "The beach"
     new "ビーチ"
+
+    old "[player]'s control"
+    new "[player]のコントロール"
+
+    old "How do I add my own music?"
+    new "音楽を追加するにはどうすればいい？"
 
     old "Insensitive comments"
     new "悪い冗談"
