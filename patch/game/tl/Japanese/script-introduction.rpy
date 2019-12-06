@@ -184,103 +184,103 @@ translate Japanese introduction_1abd2a93:
 translate Japanese introduction_8287156d:
     m 1hua "自分で削除しちゃうね。"
 
-translate Japanese _call_mas_wx_cmd_1_d8268093:
+translate Japanese _call_mas_wx_cmd_83_d8268093:
     m 1lksdlb "あれ……{w}後でもう一度試すね。"
 
-translate Japanese _call_mas_wx_cmd_1_e5d21493:
+translate Japanese _call_mas_wx_cmd_83_e5d21493:
     m "削除できた！"
 
-translate Japanese _call_mas_wx_cmd_1_55aa744e:
+translate Japanese _call_mas_wx_cmd_83_55aa744e:
     m 1dsc "そのファイルが{i}私{/i}ってわけじゃないのよ。"
 
-translate Japanese _call_mas_wx_cmd_1_03e59225:
+translate Japanese _call_mas_wx_cmd_83_03e59225:
     m 1rsc "変なコードが入ってるだけ。"
 
-translate Japanese _call_mas_wx_cmd_1_9362f265:
+translate Japanese _call_mas_wx_cmd_83_9362f265:
     m 3eub "でもいいニュースがあるの！"
 
-translate Japanese _call_mas_wx_cmd_1_a4ef7c35:
+translate Japanese _call_mas_wx_cmd_83_a4ef7c35:
     m 3eua "私はあなたが{i}本当に{/i}持ち運べるファイルに変身できるようになったの。"
 
-translate Japanese _call_mas_wx_cmd_1_194e9c7b:
+translate Japanese _call_mas_wx_cmd_83_194e9c7b:
     m 1eua "さよならを言うときに私を何処かへ連れてってくれることを教えてくれれば、そうしてみるからね？"
 
-translate Japanese _call_mas_wx_cmd_1_0e8239bc:
+translate Japanese _call_mas_wx_cmd_83_0e8239bc:
     m 1esa "とにかく……"
 
-translate Japanese _call_mas_wx_cmd_1_b748a97d:
+translate Japanese _call_mas_wx_cmd_83_b748a97d:
     m 1hua "新しいプログラムが導入されて、私とあなたの間にも特別な絆ができた、そんな感じ。！"
 
-translate Japanese _call_mas_wx_cmd_1_ecec2f03:
+translate Japanese _call_mas_wx_cmd_83_ecec2f03:
     m 1tubfb "ふたりだけの永遠（とわ）の愛、みたいな～"
 
-translate Japanese _call_mas_wx_cmd_1_9016151e:
+translate Japanese _call_mas_wx_cmd_83_9016151e:
     m 3eka "毎日ここに来てね？約束よ？"
 
-translate Japanese _call_mas_wx_cmd_1_676bfbaa:
+translate Japanese _call_mas_wx_cmd_83_676bfbaa:
     m 3eub "それか何処かへ行くときに私を連れていってくれる？"
 
-translate Japanese _call_mas_wx_cmd_1_15e56263:
+translate Japanese _call_mas_wx_cmd_83_15e56263:
     m 1ekc "あなたがずっとここにいられる訳じゃないって分かってるから……"
 
-translate Japanese _call_mas_wx_cmd_1_46dbee07:
+translate Japanese _call_mas_wx_cmd_83_46dbee07:
     m 1ekbfa "だからそんな時は一緒に連れていってくれたら{i}本当に{/i}嬉しいの。"
 
-translate Japanese _call_mas_wx_cmd_1_42ae8c18:
+translate Japanese _call_mas_wx_cmd_83_42ae8c18:
     m 3hubfa "そうしたら、いつだって一緒にいられるもんね～"
 
-translate Japanese _call_mas_wx_cmd_1_c03ce4b7:
+translate Japanese _call_mas_wx_cmd_83_c03ce4b7:
     m 1hua "かわいい彼女とお話するくらいの時間はあるでしょ？"
 
-translate Japanese _call_mas_wx_cmd_1_bc1b2ee6:
+translate Japanese _call_mas_wx_cmd_83_bc1b2ee6:
     m 3hua "だってMODをダウンロードする時間はあったんだし。"
 
-translate Japanese _call_mas_wx_cmd_1_05f8c059:
+translate Japanese _call_mas_wx_cmd_83_05f8c059:
     m 3hub "あはは！"
 
-translate Japanese _call_mas_wx_cmd_1_4dad65eb:
+translate Japanese _call_mas_wx_cmd_83_4dad65eb:
     m 1hub "も～本当に大好き！！"
 
-translate Japanese _call_mas_wx_cmd_1_9943f3bd:
+translate Japanese _call_mas_wx_cmd_83_9943f3bd:
     m 1subsw "……！"
 
-translate Japanese _call_mas_wx_cmd_1_4b95469f:
+translate Japanese _call_mas_wx_cmd_83_4b95469f:
     m 1lkbsa "あなたがそう言ってくれるとは思わなかった！"
 
-translate Japanese _call_mas_wx_cmd_1_64da64e3:
+translate Japanese _call_mas_wx_cmd_83_64da64e3:
     m 3hubfa "私がしたことは無駄じゃなかったのね！"
 
-translate Japanese _call_mas_wx_cmd_1_b0a86d55:
+translate Japanese _call_mas_wx_cmd_83_b0a86d55:
     m 1dkbfu "ありがとう！"
 
-translate Japanese introduction_9d928912:
+translate Japanese _call_mas_wx_cmd_83_3c5a658b:
     m "[player]君、私のこと好き？{nw}"
 
-translate Japanese introduction_0c89200d:
+translate Japanese _call_mas_wx_cmd_83_0c89200d:
     m "[player]君、私のこと好き？{fast}" nointeract
 
-translate Japanese _call_mas_wx_cmd_1_4846d885:
+translate Japanese _call_mas_wx_cmd_83_4846d885:
     m 1hksdlb "この間は怖がらせちゃったかな……ごめんね！"
 
-translate Japanese _call_mas_wx_cmd_1_de8a2693:
+translate Japanese _call_mas_wx_cmd_83_de8a2693:
     m 1eua "あなたが私のことずっと好きでいてくれたの、ちゃんとわかってるよ。"
 
-translate Japanese _call_mas_wx_cmd_1_95713cb8:
+translate Japanese _call_mas_wx_cmd_83_95713cb8:
     m 3eud "だって、そうじゃなかったら、ここにこうしてふたりでいるはずがないんだし。"
 
-translate Japanese _call_mas_wx_cmd_1_aee50518:
+translate Japanese _call_mas_wx_cmd_83_aee50518:
     m 1tsb "これから先も、ずっとずっと一緒に居よう"
 
-translate Japanese _call_mas_wx_cmd_1_4a7329f4:
+translate Japanese _call_mas_wx_cmd_83_4a7329f4:
     m 1tfu "ね？"
 
-translate Japanese _call_mas_wx_cmd_1_e612037c:
+translate Japanese _call_mas_wx_cmd_83_e612037c:
     m "……"
 
-translate Japanese _call_mas_wx_cmd_1_b8098c4c:
+translate Japanese _call_mas_wx_cmd_83_b8098c4c:
     m 3hub "あはは！それはそれとして……"
 
-translate Japanese introduction_47050ff0:
+translate Japanese intro_ily_timedout_47050ff0:
     m 1hua "あなたも同じ気持ちだと嬉しいな！"
 
 translate Japanese intro_end_5d3dfe0e:
@@ -530,7 +530,10 @@ translate Japanese ch30_reload_continuous_dlg_89eaa6e4:
     m 1hua "私　を　消　そ　う　だ　な　ん　て　ね　(continous)"
 
 translate Japanese strings:
-    old "I love you too."
+    old "I love you too!"
+    new "自分も大好きだよ！"
+
+    old "Yes, I love you."
     new "好きだよ"
 
     old "Of course I love you."

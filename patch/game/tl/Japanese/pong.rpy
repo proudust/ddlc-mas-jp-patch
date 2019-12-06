@@ -412,17 +412,92 @@ translate Japanese mas_pong_dlg_loser_a946ae02:
 translate Japanese mas_pong_dlg_loser_e2e69960:
     m 1rusdlb "こんなに速攻で負けちゃうなんて。"
 
+translate Japanese mas_pong_dlg_loser_348c1788:
+    m 4eub "流石の勝利ね。"
+
 translate Japanese mas_pong_dlg_loser_302abd24:
     m 1hub "あなたの連勝ね！"
 
 translate Japanese mas_pong_dlg_loser_3a5c22c0:
     m 1hua "あなたの勝ち！"
 
+translate Japanese mas_pong_dlg_loser_3daf84ae:
+    m 1eua "あなたが勝てて嬉しいな、[player]君。"
+
+translate Japanese mas_pong_dlg_loser_6e25dd96:
+    m 1hub "その調子ね～"
+
+translate Japanese mas_pong_dlg_loser_09a55606:
+    m 1hub "連勝ね！やるじゃない～"
+
+translate Japanese mas_pong_dlg_loser_a67a872e:
+    m 1eua "あなたの勝ちね！悪くないわ。"
+
+translate Japanese mas_pong_dlg_loser_115b068e:
+    m 4hub "またまた勝っちゃったのね！"
+
+translate Japanese mas_pong_dlg_loser_b61dff6f:
+    m 4eua "よくやったわ、[player]君。"
+
+translate Japanese mas_pong_dlg_loser_2c019df0:
+    m 2hub "連勝ね！おめでとう！"
+
+translate Japanese mas_pong_dlg_loser_ebd86541:
+    m 2hua "あなたの勝ちね！おめでとう！"
+
+translate Japanese mas_pong_dlg_loser_ead4b331:
+    m 2wuo "わあ……{w=1}あんなに頑張ったのに……{w=1}そんなに動かれるなんて！"
+
+translate Japanese mas_pong_dlg_loser_08aba477:
+    m 2tfu "でも遅かれ早かれボコボコにしてやるんだからね、[player]君。"
+
+translate Japanese mas_pong_dlg_loser_05f8c059:
+    m 3hub "あはは！"
+
+translate Japanese mas_pong_dlg_loser_8c7059db:
+    m 4hub "あなたの連勝ね！流石だわ！"
+
+translate Japanese mas_pong_dlg_loser_2de10f09:
+    m 4hub "あなたの勝ちね！流石よ！"
+
+translate Japanese mas_pong_dlg_loser_48556ce6:
+    m 3eua "本当に上手いのね、[player]君。"
+
+translate Japanese mas_pong_dlg_loser_76e718a8:
+    m 1hub "一緒にポンで遊ぶの大好きだよ！"
+
+translate Japanese mas_pong_dlg_loser_f9aeeff9:
+    m 1tsu "カッコイイね！"
+
+translate Japanese mas_pong_dlg_loser_2a407289:
+    m 1hub "やったわ、[player]君！"
+
 translate Japanese mas_pong_dlg_loser_fast_9d33b26d:
     m 1eka "わかったよ、[player]君。"
 
+translate Japanese mas_pong_dlg_loser_fast_472e8059:
+    m 3tfu "でも次はボコボコにしちゃうんだから。"
+
 translate Japanese mas_pong_dlg_winner_fast_9d33b26d:
     m 1eka "わかったよ、[player]君。"
+
+translate Japanese mas_pong_dlg_winner_fast_1219ee91:
+    m 1eka "一緒にポンで遊んで、しかも勝たせてくれてありがとうね。"
+
+translate Japanese mas_pong_dlg_winner_fast_6838f013:
+    m 1hua "すっごく楽しかったよ！またその内に遊ぼうね、いい？"
+
+translate Japanese mas_pong_dlg_loser_end_f64703da:
+    m 1wuo "えっ、今のはすごく頑張ったのに。"
+
+translate Japanese mas_pong_dlg_loser_end_d2e1a7c2:
+    m 1eua "そんなに上手いなんて、さてはたくさん練習したんでしょ。"
+
+translate Japanese mas_pong_dlg_loser_end_d6677b26:
+    m 2tuu "[player]君ってばそんなに私の気を引きたいのかしら？"
+
+translate Japanese mas_pong_dlg_loser_end_7219f520:
+    m 1hua "本当に優しいのね～"
 
 translate Japanese mas_pong_dlg_winner_end_d5b8a9ec:
     m 4tku "すごくシンプルだから、そこまで燃えるゲームじゃないんだけど……"
