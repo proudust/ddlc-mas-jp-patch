@@ -5951,7 +5951,7 @@ translate Japanese monika_sayhappybirthday_1c31cb47:
     m "その[bday_name]は一緒に居るの？{fast}" nointeract
 
 translate Japanese monika_sayhappybirthday_0cd12a18:
-    m 1tkc "えっ?そこに居ないのに、どうやってお祝いすればいいのかしら?"
+    m 1tkc "えっ？そこに居ないのに、どうやってお祝いすればいいのかしら?"
 
 translate Japanese monika_sayhappybirthday_de45924a:
     m 1eua "ああ、うん、わかったわ。"
