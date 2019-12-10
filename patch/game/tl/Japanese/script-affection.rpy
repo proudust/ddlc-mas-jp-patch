@@ -16,7 +16,7 @@ translate Japanese monika_affection_nickname_yes_0d8345dc:
 translate Japanese monika_affection_nickname_yes_01a93df6:
     m 2dfc "……"
 
-translate Japanese monika_affection_nickname_yes_97a5a181:
+translate Japanese _call_monika_affection_nickname_bad_lock_97a5a181:
     m 2dftdc "……"
 
 translate Japanese mas_affection_apology_4a7ea962:

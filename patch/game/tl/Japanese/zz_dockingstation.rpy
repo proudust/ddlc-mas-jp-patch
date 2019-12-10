@@ -1,4 +1,4 @@
-translate Japanese mas_dockstat_ready_to_go_0f026494:
+translate Japanese _call_mas_dockstat_first_time_goers_1_0f026494:
     m 1eua "おっけ～"
 
 translate Japanese mas_dockstat_first_time_goers_a2d4a9c4:

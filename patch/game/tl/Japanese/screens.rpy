@@ -80,10 +80,10 @@ translate Japanese strings:
     old "Change Renderer"
     new "ﾚﾝﾀﾞﾘﾝｸﾞ変更"
 
-    old "Dark UI"
-    new "ダークモード"
+    old "UI: Night Mode"
+    new "ナイトモード"
 
-    old "Day/Night UI"
+    old "UI: D/N Cycle"
     new "時間帯で切替"
 
     old "Gameplay"

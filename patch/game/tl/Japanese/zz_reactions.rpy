@@ -22,13 +22,13 @@ translate Japanese mas_reaction_candycorn_6d9bf85e:
 translate Japanese mas_reaction_hotchocolate_61aa82df:
     m 1dkbfa "……"
 
-translate Japanese mas_reaction_gift_roses_9e11f5cf:
-    m 1ektpa "……"
+translate Japanese mas_reaction_gift_roses_f4e32d64:
+    m 1dktpu "……"
 
-translate Japanese mas_reaction_gift_roses_0d8345dc:
+translate Japanese _call_monika_kissing_motion_short_3_0d8345dc:
     m 1hub "えへへ～"
 
-translate Japanese mas_reaction_gift_chocolates_6e92af18:
+translate Japanese _call_mas_remove_choc_3_6e92af18:
     m 1ekd "[player]君……"
 
 translate Japanese mas_remove_choc_bf07de9c:

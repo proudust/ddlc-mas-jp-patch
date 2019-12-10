@@ -4,7 +4,7 @@ translate Japanese mas_monika_islands_79d24fc1:
 translate Japanese mas_monika_islands_c7a5316f:
     m 1hub "気に入ってくれるといいな！"
 
-translate Japanese mas_monika_islands_77c5f182:
+translate Japanese _call_expression_5_77c5f182:
     m 1eua "気に入ってくれるといいな、[player]君～"
 
 translate Japanese mas_monika_upsidedownisland_a8b836db:
@@ -58,7 +58,7 @@ translate Japanese mas_monika_cherry_blossom1_83425a17:
 translate Japanese mas_monika_cherry_blossom1_a6c99ff7:
     m "愛らしくて、見ていて愉しくなれるからよ。"
 
-translate Japanese mas_monika_cherry_blossom1_c44db84b:
+translate Japanese mas_monika_cherry_blossom1_4e66d75f:
     m "舞い落ちる花びらを見つめていると厳かな気分になるでしょ。"
 
 translate Japanese mas_monika_cherry_blossom2_febc5d00:
@@ -91,7 +91,7 @@ translate Japanese mas_monika_cherry_blossom4_b9761ba0:
 translate Japanese mas_monika_cherry_blossom4_b8dae84a:
     m "お酒とか～"
 
-translate Japanese mas_monika_cherry_blossom4_f0bc1c50:
+translate Japanese mas_monika_cherry_blossom4_0051acc6:
     m "あはは！冗談よ。"
 
 translate Japanese mas_monika_cherry_blossom4_f43286c5:

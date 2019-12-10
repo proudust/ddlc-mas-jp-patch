@@ -70,193 +70,193 @@ translate Japanese mas_pong_dlg_winner_69419ad0:
 translate Japanese mas_pong_dlg_winner_47045433:
     m "ほんとなの？{fast}" nointeract
 
-translate Japanese mas_pong_dlg_winner_22b836a2:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_22b836a2:
     m 1rfu "[player]君！"
 
-translate Japanese mas_pong_dlg_winner_d2dee365:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_d2dee365:
     m 2hksdlb "からかうのはやめて！"
 
-translate Japanese mas_pong_dlg_winner_3b6c7c7a:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_3b6c7c7a:
     m 2tku "私に勝たせるのに飽きてきてない、[player]君？"
 
-translate Japanese mas_pong_dlg_winner_2393e208:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_2393e208:
     m 1rsc "……"
 
-translate Japanese mas_pong_dlg_winner_f73bb8ea:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_f73bb8ea:
     m 1eka "もう、[player]君！"
 
-translate Japanese mas_pong_dlg_winner_33318048:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_33318048:
     m 1hub "あなたなら出来るって、信じてるんだから！"
 
-translate Japanese mas_pong_dlg_winner_2c902797:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_2c902797:
     m 3hub "いい頑張りね、[player]君！"
 
-translate Japanese mas_pong_dlg_winner_e6416d5c:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_e6416d5c:
     m 3tsu "でもそのままじゃ、まだまだ勝てちゃうかな～"
 
-translate Japanese mas_pong_dlg_winner_05f8c059:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_05f8c059:
     m 3hub "あはは！"
 
-translate Japanese mas_pong_dlg_winner_19428ff1:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_19428ff1:
     m 1hua "えへへ～"
 
-translate Japanese mas_pong_dlg_winner_b7695e48:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_b7695e48:
     m 2tsb "今回は勝つって言ったよね？"
 
-translate Japanese mas_pong_dlg_winner_f211ae0e:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_f211ae0e:
     m 2ttu "覚えてる？、[player]君？"
 
-translate Japanese mas_pong_dlg_winner_bbc3748b:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_bbc3748b:
     m 2tfb "次は勝つって言ったでしょ。"
 
-translate Japanese mas_pong_dlg_winner_e7de9a60:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_e7de9a60:
     m 1rksdla "あらら。"
 
-translate Japanese mas_pong_dlg_winner_7b6b8f8c:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_7b6b8f8c:
     m 3hksdlb "もう一度、[player]君！"
 
-translate Japanese mas_pong_dlg_winner_99ca4d3e:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_99ca4d3e:
     m 2rksdlb "あはは……"
 
-translate Japanese mas_pong_dlg_winner_991f1800:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_991f1800:
     m 2eksdla "本当に勝ってほしかったんだけど。"
 
-translate Japanese mas_pong_dlg_winner_c06a6f07:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_c06a6f07:
     m 2hksdlb "ごめんね、[player]君！"
 
-translate Japanese mas_pong_dlg_winner_96bf9846:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_96bf9846:
     m 2eka "さあ来て、[player]君、あなたなら私をボコボコにできるわ……"
 
-translate Japanese mas_pong_dlg_winner_4d72b34e:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_4d72b34e:
     m 3hub "その調子！"
 
-translate Japanese mas_pong_dlg_winner_f5696606:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_f5696606:
     m 1eua "楽しんでね、[player]君。"
 
-translate Japanese mas_pong_dlg_winner_f5b163b1:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_f5b163b1:
     m 1eka "ゲームにそんなムキになっても欲しくないし。"
 
-translate Japanese mas_pong_dlg_winner_d8fb1dfb:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_d8fb1dfb:
     m 1hua "良かったらちょっと休憩して、また後で遊んでもいいからね。"
 
-translate Japanese mas_pong_dlg_winner_3772217d:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_3772217d:
     m 1hub "あはは！"
 
-translate Japanese mas_pong_dlg_winner_f07ae92d:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_f07ae92d:
     m 2tfu "ごめんね、[player]君。"
 
-translate Japanese mas_pong_dlg_winner_e33da962:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_e33da962:
     m 2tub "運が尽きてきたみたいね。"
 
-translate Japanese mas_pong_dlg_winner_da1d02b2:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_da1d02b2:
     m 2hub "私が輝く時間よ～"
 
-translate Japanese mas_pong_dlg_winner_13fa3f85_1:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_13fa3f85:
     m 1hua "えへへ！"
 
-translate Japanese mas_pong_dlg_winner_ec704c96:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_ec704c96:
     m 1tub "その調子、[player]君！"
 
-translate Japanese mas_pong_dlg_winner_141812f9:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_141812f9:
     m 2tfu "連勝は終わったみたいね！"
 
-translate Japanese mas_pong_dlg_winner_390096ac:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_390096ac:
     m 3eub "なかなかやるじゃん、[player]君。"
 
-translate Japanese mas_pong_dlg_winner_84278014:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_84278014:
     m 1hub "続けて、あなたならきっと勝てるわ！"
 
-translate Japanese mas_pong_dlg_winner_7f98eaa4:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_7f98eaa4:
     m 3hub "よくやったわ、[player]君。本当に上手いよ！"
 
-translate Japanese mas_pong_dlg_winner_754db7b3:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_754db7b3:
     m 1tfu "私もね、あはは！"
 
-translate Japanese mas_pong_dlg_winner_3d58073b:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_3d58073b:
     m 3hub "またまた速攻で勝っちゃった～"
 
-translate Japanese mas_pong_dlg_winner_f43a522a:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_f43a522a:
     m 4hub "えへへ、こんなものよ！"
 
-translate Japanese mas_pong_dlg_winner_dc220caa:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_dc220caa:
     m 2eksdld "あらら……"
 
-translate Japanese mas_pong_dlg_winner_70d8a5bc:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_70d8a5bc:
     m 2rksdlc "またやっちゃった。"
 
-translate Japanese mas_pong_dlg_winner_5fd8aa55:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_5fd8aa55:
     m 1hksdlb "ごめんね、[player]君！"
 
-translate Japanese mas_pong_dlg_winner_31b6ed88:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_31b6ed88:
     m 2rksdla "あはは、ごめんね、[player]君！"
 
-translate Japanese mas_pong_dlg_winner_6e997764:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_6e997764:
     m 3hksdlb "ここまでするつもりはなかったの……"
 
-translate Japanese mas_pong_dlg_winner_be5da436:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_be5da436:
     m 1eub "あなたならできるわ、[player]君！"
 
-translate Japanese mas_pong_dlg_winner_ad5ff691:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_ad5ff691:
     m 3hub "信じてるわ～"
 
-translate Japanese mas_pong_dlg_winner_314ed0b1:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_314ed0b1:
     m 2duu "集中して、[player]君。"
 
-translate Japanese mas_pong_dlg_winner_724d899d:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_724d899d:
     m 3hub "続けていればすぐにでも勝てるはずよ！"
 
-translate Japanese mas_pong_dlg_winner_748064b0:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_748064b0:
     m 1hub "もう一本取ったわ～"
 
-translate Japanese mas_pong_dlg_winner_120bb8da:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_120bb8da:
     m 3hub "また勝っちゃった～"
 
-translate Japanese mas_pong_dlg_winner_1d322a40:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_1d322a40:
     m 3hua "私の勝ち～"
 
-translate Japanese mas_pong_dlg_winner_3772217d_1:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_3772217d_1:
     m 1hub "あはは！"
 
-translate Japanese mas_pong_dlg_winner_7a7846ac:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_7a7846ac:
     m 2tsb "大人げなかったかしら？"
 
-translate Japanese mas_pong_dlg_winner_cf404618:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_cf404618:
     m 1tsu "冗談よ、[player]君。"
 
-translate Japanese mas_pong_dlg_winner_356d3e39:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_356d3e39:
     m 3hub "あなただって上手いもの！"
 
-translate Japanese mas_pong_dlg_winner_a6c4ff54:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_a6c4ff54:
     m 1hub "また勝っちゃった～"
 
-translate Japanese mas_pong_dlg_winner_6a98c99f:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_6a98c99f:
     m 1huu "私の勝ち～"
 
-translate Japanese mas_pong_dlg_winner_97a25852:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_97a25852:
     m 2tub "勝つのって気持ちいいわ！"
 
-translate Japanese mas_pong_dlg_winner_3019bdbc:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_3019bdbc:
     m 2hub "気にしないで、あなただってまたすぐに勝てるから。"
 
-translate Japanese mas_pong_dlg_winner_093ecc1e:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_093ecc1e:
     m 2eub "もう一本取ったわ！"
 
-translate Japanese mas_pong_dlg_winner_d17ac578:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_d17ac578:
     m 2eub "一本もらい！"
 
-translate Japanese mas_pong_dlg_winner_8ee1eb67:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_8ee1eb67:
     m 2duu "悪くないわ、[player]君。"
 
-translate Japanese mas_pong_dlg_winner_ddec24b4:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_ddec24b4:
     m 4eua "私も全力でやったし、時々負けちゃっても気落ちしないでね。"
 
-translate Japanese mas_pong_dlg_winner_650d5d8a:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_650d5d8a:
     m 4eub "このまま続けていれば私に勝てるから！"
 
-translate Japanese mas_pong_dlg_winner_65ac6f87:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_65ac6f87:
     m 2hub "軍配は私に上がったみたいね！"
 
-translate Japanese mas_pong_dlg_winner_c097d97f:
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_c097d97f:
     m 2efu "その調子、[player]君！"
 
 translate Japanese mas_pong_dlg_sorry_assuming_db4d1c9a:

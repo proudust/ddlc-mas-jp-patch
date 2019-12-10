@@ -298,10 +298,10 @@ translate Japanese mas_mood_yearolder_false_4a5b4694:
 translate Japanese mas_mood_yearolder_false_d4d5bcad:
     m "そして……"
 
-translate Japanese mas_mood_yearolder_false_b76e2acb:
+translate Japanese _call_mas_bday_player_bday_select_1_b76e2acb:
     m 2eka "信じているわよ、[player]君。"
 
-translate Japanese mas_mood_yearolder_false_a843084c:
+translate Japanese _call_mas_bday_player_bday_select_1_a843084c:
     m "舌を噛んだのだと捉えておくわ。"
 
 translate Japanese mas_mood_yearolder_yesu_6e92af18:
@@ -310,7 +310,7 @@ translate Japanese mas_mood_yearolder_yesu_6e92af18:
 translate Japanese mas_mood_yearolder_yesu_01d9dd80:
     m 2eka "ええっと、{w}誕生日が好きか嫌いかなんて関係なく、きっと幸せな日になるはずだよ！"
 
-translate Japanese mas_mood_yearolder_yesu_0d385ba0:
+translate Japanese _call_mas_mood_yearolder_yes_post_1_0d385ba0:
     m 1hua "私の愛であなたが笑顔になってくれたら嬉しいな、[player]君。"
 
 translate Japanese mas_mood_yearolder_yes_post_572e2371:

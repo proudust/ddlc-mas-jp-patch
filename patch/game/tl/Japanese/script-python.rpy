@@ -67,43 +67,43 @@ translate Japanese monika_ptod_tip002_21a32c2c:
 translate Japanese monika_ptod_tip002_9a27b9db:
     m 1eua "integer型は基本的に全ての整数を表すのに使われるわ。"
 
-translate Japanese monika_ptod_tip002_ade0b3e0:
+translate Japanese _call_mas_wx_cmd_8_ade0b3e0:
     m 1eub "float型は小数を表すのに使われるの。"
 
-translate Japanese monika_ptod_tip002_788688ee:
+translate Japanese _call_mas_wx_cmd_11_788688ee:
     m 1eua "そして文字は{i}string型{/i}で表すわ。"
 
-translate Japanese monika_ptod_tip002_8d18b752:
+translate Japanese _call_mas_wx_cmd_11_8d18b752:
     m "シングルクォーテーション(\')やダブルクォーテション(\")で囲まれたものがそうね。"
 
-translate Japanese monika_ptod_tip002_2be078fe:
+translate Japanese _call_mas_wx_cmd_11_2be078fe:
     m 3eub "例えば……"
 
-translate Japanese monika_ptod_tip002_c6fc84d9:
+translate Japanese _call_mas_wx_cmd_13_c6fc84d9:
     m 1eua "ダブルクォーテション三つ(\"\"\")でもstring型を作ることが出来るよ。"
 
-translate Japanese monika_ptod_tip002_4e3d9295:
+translate Japanese _call_mas_wx_cmd_13_4e3d9295:
     m "boolean型は特別な型で{b}真(True){/b}か{b}偽(False){/b}の値を表すの。"
 
-translate Japanese monika_ptod_tip002_204094a4:
+translate Japanese _call_mas_wx_cmd_15_204094a4:
     m 1eua "boolean型の意味や使い方については他のレッスンでより詳しく扱うからね。"
 
-translate Japanese monika_ptod_tip002_c4ed79cc:
+translate Japanese _call_mas_wx_cmd_15_c4ed79cc:
     m 3eub "Pythonは{/b}NoneType{/b}という特別なデータ型もあって、これはデータがないということを意味するの。"
 
-translate Japanese monika_ptod_tip002_f24d9a26:
+translate Japanese _call_mas_wx_cmd_15_f24d9a26:
     m "もしあなたが他のプログラミング言語に詳しかったら、これは{i}null型{/i}や{i}undefined型{/i}のようなものね。"
 
-translate Japanese monika_ptod_tip002_014ce110:
+translate Japanese _call_mas_wx_cmd_15_014ce110:
     m "{i}None{/i}というキーワードがPythonではNoneType型を表すの。"
 
-translate Japanese monika_ptod_tip002_caae874a:
+translate Japanese _call_mas_wx_cmd_16_caae874a:
     m 1eua "ここで教えた全ての型は{i}プリミティブ型{/i}として知られているわ。"
 
-translate Japanese monika_ptod_tip002_797d95d0:
+translate Japanese _call_mas_wx_cmd_16_797d95d0:
     m "他の色々な型もPythonでは使われているけど、今日の所はここまでにするね。"
 
-translate Japanese monika_ptod_tip002_b43554c2:
+translate Japanese _call_mas_wx_cmd_16_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
 translate Japanese monika_ptod_tip003_e9115318:
@@ -130,23 +130,23 @@ translate Japanese monika_ptod_tip003_8c59179f:
 translate Japanese monika_ptod_tip003_db08669d:
     m "Pythonのコードを直に打って実行することができるの。例えば……"
 
-translate Japanese monika_ptod_tip003_999bd9b2:
+translate Japanese _call_mas_wx_cmd_19_999bd9b2:
     m 1eua "ただ計算に使うだけじゃなくてもっと色々なことができるけど、それは追々教えていくからね。"
 
-translate Japanese monika_ptod_tip003_f7af61a6:
+translate Japanese _call_mas_wx_cmd_19_f7af61a6:
     m 1hua "とっても素敵でしょ、ね？"
 
-translate Japanese monika_ptod_tip003_b43554c2:
+translate Japanese _call_mas_wx_cmd_19_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
-translate Japanese monika_ptod_tip005_b43554c2:
+translate Japanese _call_mas_wx_cmd_44_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
-translate Japanese monika_ptod_tip006_b43554c2:
+translate Japanese _call_mas_wx_cmd_49_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
-translate Japanese monika_ptod_tip008_b43554c2:
+translate Japanese _call_mas_wx_cmd_65_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
-translate Japanese monika_ptod_tip009_b43554c2:
+translate Japanese _call_mas_wx_cmd_85_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"

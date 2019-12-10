@@ -10,7 +10,7 @@ translate Japanese monika_clothes_select_8c52f959:
 translate Japanese monika_event_clothes_select_74680220:
     m 1hua "もちろん！"
 
-translate Japanese _call_mas_selector_sidebar_select_clothes_bd2a5f73_1:
+translate Japanese _call_mas_selector_sidebar_select_clothes_3_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
 translate Japanese monika_hair_ponytail_76e4c021:
@@ -40,40 +40,40 @@ translate Japanese monika_hair_down_0eaee1ff:
 translate Japanese monika_hair_select_74680220:
     m 1hua "もちろん！"
 
-translate Japanese monika_hair_select_bd2a5f73:
+translate Japanese _call_mas_selector_sidebar_select_hair_1_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
-translate Japanese monika_hair_select_531c477b:
+translate Japanese _call_mas_selector_sidebar_select_hair_1_531c477b:
     m 1eub "違う髪型にして欲しくなったら聞いてね、OK？"
 
 translate Japanese monika_ribbon_select_13d1eccf:
     m 1eua "もちろんだよ、[player]君！"
 
-translate Japanese _call_mas_selector_sidebar_select_acs_bd2a5f73:
+translate Japanese _call_mas_selector_sidebar_select_acs_1_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
 translate Japanese monika_hairclip_select_13d1eccf:
     m 1eua "もちろんだよ、[player]君！"
 
-translate Japanese monika_hairclip_select_bd2a5f73:
+translate Japanese _call_mas_selector_sidebar_select_acs_2_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
-translate Japanese monika_hairclip_select_69db0276:
+translate Japanese _call_mas_selector_sidebar_select_acs_2_69db0276:
     m 1eka "髪留めを変えて欲しくなったら聞いてね、OK？"
 
-translate Japanese monika_hairclip_select_d15566fb:
+translate Japanese _call_mas_selector_sidebar_select_acs_2_d15566fb:
     m 1eka "また髪留めをして欲しくなったら聞いてね、OK？"
 
 translate Japanese monika_hairflower_select_13d1eccf:
     m 1eua "もちろんだよ、[player]君！"
 
-translate Japanese _call_mas_selector_sidebar_select_acs_bd2a5f73_2:
+translate Japanese _call_mas_selector_sidebar_select_acs_3_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
 translate Japanese monika_choker_select_d0b0048f:
     m 6eua "もちろんだよ、[player]君！"
 
-translate Japanese _call_mas_selector_sidebar_select_acs_bd2a5f73_3:
+translate Japanese _call_mas_selector_sidebar_select_acs_4_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
 translate Japanese strings:
