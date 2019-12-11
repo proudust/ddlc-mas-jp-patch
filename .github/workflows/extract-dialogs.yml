@@ -1,0 +1,87 @@
+name: Extract Dialogue
+
+on:
+  push:
+    branches-ignore:
+      - master
+    tags-ignore:
+      - "**"
+    paths:
+      - MonikaModDev
+
+jobs:
+  dialogue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          submodules: true
+
+      - uses: actions/setup-python@v1
+        with:
+          python-version: "2.x"
+          architecture: "x64"
+
+      - uses: proudust/setup-renpy@v1
+        id: renpy
+        with:
+          renpy-version: "6.99.12.4"
+
+      - name: Apply Extract Dialogue patch to Ren'Py
+        run: |
+          wget https://raw.githubusercontent.com/proudust/renpy/dialogue-patch/renpy/translation/dialogue.py \
+               -O ${{ steps.renpy.outputs.launcher }}/../renpy/translation/dialogue.py
+
+      - name: Download Doki Doki Literature Club! v1.1.1
+        run: |
+          wget -qO ddlc.zip `curl -qsX POST https://teamsalvato.itch.io/ddlc/file/594897 | jq -r .url`
+          unzip -q ddlc.zip
+          mv DDLC-1.1.1-pc/ ddlc/
+
+      - name: Download Monika After Story new version
+        run: |
+          NEW_VERSION=$(git -C MonikaModDev describe --tags)
+          echo ::set-env name=NEW_VERSION::$NEW_VERSION
+          cp -fpr ddlc/ mas-new/
+          NEW_ASSET_ID=$(curl -sL https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/tags/$NEW_VERSION | jq '.assets[0] | .id')
+          wget -qO mas-new.zip --header='Accept: application/octet-stream' \
+               https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/assets/$NEW_ASSET_ID
+          unzip -oq mas-new.zip -d mas-new/game/
+          python2 MonikaModDev/unrpyc/unrpyc.py mas-new/game/*
+
+      - name: Extract Dialogue in new version
+        run: |
+          renpy.sh mas-new dialogue --strings --escape
+          mkdir artifact
+          mv mas-new/dialogue.tab artifact/${{ env.NEW_VERSION }}_dialogue.tab
+
+      - name: Download Monika After Story old version
+        run: |
+          git reset --hard HEAD^
+          git submodule update
+          OLD_VERSION=$(git -C MonikaModDev describe --tags)
+          echo ::set-env name=OLD_VERSION::$OLD_VERSION
+          cp -fpr ddlc/ mas-old/
+          OLD_ASSET_ID=$(curl -sL https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/tags/$OLD_VERSION | jq '.assets[0] | .id')
+          wget -qO mas-old.zip --header='Accept: application/octet-stream' \
+                   https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/assets/$OLD_ASSET_ID
+          unzip -oq mas-old.zip -d mas-old/game/
+          python2 MonikaModDev/unrpyc/unrpyc.py mas-old/game/*
+
+      - name: Extract Dialogue in old version
+        run: |
+          renpy.sh mas-old dialogue --strings --escape
+          mv mas-old/dialogue.tab artifact/${{ env.OLD_VERSION }}_dialogue.tab
+
+      - name: diff
+        continue-on-error: true
+        run: |
+          diff -u <(cut artifact/${{ env.OLD_VERSION }}_dialogue.tab -f 1,2,3,4) --label ${{ env.OLD_VERSION }} \
+                  <(cut artifact/${{ env.NEW_VERSION }}_dialogue.tab -f 1,2,3,4) --label ${{ env.NEW_VERSION }} > artifact/dialogue.diff
+
+      - name: Upload dialogue.tab
+        uses: actions/upload-artifact@v1
+        with:
+          name: dialogue.tab
+          path: artifact
