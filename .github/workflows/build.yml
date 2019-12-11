@@ -7,7 +7,7 @@ env:
   # ARTIFACT_NAME: ${{ env.FOLDER_NAME }}_$(git describe --tags)
   # PATCH_VERSION: $(git describe --tags)
   DDLC_VERSION: "v1.1.1"
-  MAS_VERSION: "0.10.3"
+  MAS_VERSION: "0.10.4"
 
 jobs:
   build:
