@@ -1,4 +1,7 @@
 translate Japanese strings:
+    old "Music Menu"
+    new "音楽"
+
     old "<<<< Prev"
     new "<<<< 前"
 

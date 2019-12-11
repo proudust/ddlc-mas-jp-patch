@@ -95,6 +95,9 @@ translate Japanese strings:
     old "Unstable mode downloads updates from the experimental unstable branch of development. It is HIGHLY recommended to make a backup of your persistents before enabling this mode."
     new "不安定モードでは開発中の実験的かつ不安定なブランチからアップデートをダウンロードします。\nオンにする前にあなたの部長さんのバックアップを取ることを{i}強く{/i}推奨します。"
 
+    old "WARNING: Enabling unstable mode will download updates from the experimental unstable branch. It is HIGHLY recommended to make a backup of your persistents before enabling this mode. Please report issues found here with an [[UNSTABLE] tag."
+    new "警告：不安定モードでは開発中の実験的かつ不安定なブランチからアップデートをダウンロードします。オンにする前にあなたの部長さんのバックアップを取ることを強く推奨します。ここで見つかった不具合は[[UNSTABLE]]タグを付けて報告してください。"
+
     old "Repeat Topics"
     new "話題の繰り返し"
 
@@ -120,7 +123,7 @@ translate Japanese strings:
     new "日の入時刻 "
 
     old "Random Chatter   "
-    new "モニカとお喋り"
+    new "ランダムな話題"
 
     old "Ambient Volume"
     new "外の音量"
@@ -136,9 +139,6 @@ translate Japanese strings:
 
     old "Sound Volume"
     new "効果音の音量"
-
-    old "Voice Volume"
-    new "ボイスの音量"
 
     old "Mute All"
     new "全てミュート"
@@ -158,8 +158,14 @@ translate Japanese strings:
     old "Use Notifications"
     new "通知を有効化"
 
+    old "Enabling this will let Monika use your system's notifications and check if MAS is your active window "
+    new "有効にすると、モニカが通知を使用することができ、更にMASがアクティブウィンドウかどうかを確認できます"
+
     old "Sounds"
-    new "通知音"
+    new "音"
+
+    old "If enabled, a custom notification sound will play for Monika's notifications "
+    new "有効にすると、モニカの通知にカスタム通知音が使用されます"
 
     old "Alert Filters"
     new "通知フィルター"
@@ -167,14 +173,14 @@ translate Japanese strings:
     old "Topic Alerts"
     new "話題の通知"
 
+    old "Enables notifications for the selected group."
+    new "選択したグループの通知を有効にします"
+
     old "OK"
     new "OK"
 
     old "QUIT"
     new "終了"
-
-    old "-"
-    new "-"
 
     old "Yes"
     new "はい"
@@ -253,6 +259,9 @@ translate Japanese strings:
 
     old "Leaving without saying goodbye, [player]?"
     new "さよならも言ってくれないの、[player]君？"
+
+    old "T_T [player]..."
+    new "T_T [player]……"
 
     old "Please enter your name"
     new "あなたの名前を入力して下さい"
