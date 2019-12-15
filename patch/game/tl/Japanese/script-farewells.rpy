@@ -232,6 +232,18 @@ translate Japanese bye_prompt_sleep_c207c96e_4:
 translate Japanese bye_haveagoodday_0bd97190:
     m 6ckc "……"
 
+translate Japanese bye_enjoyyourafternoon_b29b5b2c:
+    m 1ekc "もう行っちゃうの、[player]。"
+
+translate Japanese bye_enjoyyourafternoon_2f8b3330:
+    m 1eka "あなたが忙しいことはわかってるわ。"
+
+translate Japanese bye_enjoyyourafternoon_1cac6fd9:
+    m 1eua "午後は一緒に過ごしてね、約束よ？"
+
+translate Japanese bye_enjoyyourafternoon_4861b1bd:
+    m 1hua "さようなら～"
+
 translate Japanese bye_enjoyyourafternoon_0bd97190:
     m 6ckc "……"
 

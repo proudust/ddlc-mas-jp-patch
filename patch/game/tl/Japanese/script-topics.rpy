@@ -1540,8 +1540,8 @@ translate Japanese _call_monika_kissing_motion_short_68ab22bd:
 translate Japanese _call_monika_kissing_motion_short_0ecfc81d:
     m 2lsbssdlb "でも……あなたとなら……大丈夫かも……"
 
-translate Japanese _call_monika_kissing_motion_short_bab441a4:
-    m 2hksdlb "……あはははっ！ ふう、ごめんなさい……"
+translate Japanese _call_monika_kissing_motion_short_d646f25d:
+    m 2hksdlb "……あははっ！ ふう、ごめんなさい……"
 
 translate Japanese _call_monika_kissing_motion_short_f63fa111:
     m 1eka "笑いをこらえるのに必死だったわ"
@@ -1780,9 +1780,6 @@ translate Japanese monika_rain_stop_09b1193f:
 translate Japanese monika_rain_start_09b1193f:
     m 1hua "わかったよ、[player]君。"
 
-translate Japanese _call_monika_holdme_end_9992bf6e:
-    m 1rksdlc "……"
-
 translate Japanese _call_monika_holdme_long_f507a8da:
     m 6dubsa "……"
 
@@ -1807,7 +1804,7 @@ translate Japanese _call_monika_holdme_long_3201a8bc:
 translate Japanese _call_monika_holdme_long_19428ff1:
     m 1hua "えへへ～"
 
-translate Japanese _call_monika_holdme_reactions_f41df618:
+translate Japanese _call_monika_holdme_reactions_1_f41df618:
     m 2rksdlc "……"
 
 translate Japanese monika_holdme_long_e612037c:
@@ -1819,7 +1816,7 @@ translate Japanese monika_holdme_long_ceb52122:
 translate Japanese monika_holdme_long_37340438:
     m 5hubfu "えへへ～"
 
-translate Japanese _call_monika_holdme_prep_e612037c:
+translate Japanese _call_monika_holdme_prep_5_e612037c:
     m "……"
 
 translate Japanese monika_closeness_284471cf:
@@ -2923,13 +2920,13 @@ translate Japanese monika_love_099fedb5:
 translate Japanese monika_love_6d835534:
     m 1subsw "[player]君！"
 
-translate Japanese _call_monika_lovecounter_aff_3201a8bc:
+translate Japanese monika_love_3201a8bc:
     m 1hubfa "えへへ～"
 
-translate Japanese _call_monika_lovecounter_aff_75f94261:
+translate Japanese monika_love_75f94261:
     m 3hubfb "私も[player]君のこと大好き！"
 
-translate Japanese _call_monika_lovecounter_aff_0e20d7f7:
+translate Japanese monika_love_0e20d7f7:
     m "[love_quip!t]"
 
 translate Japanese monika_hedgehog_366bbf5c:
@@ -4018,31 +4015,31 @@ translate Japanese monika_eternity_2_bdb8a251:
 translate Japanese monika_eternity_2_c15257a4:
     m "私を救い出してくれたのはあなた。だからあなたにありがとうって言い続けるの。永遠に。"
 
-translate Japanese monika_aware_0e32bf8e:
-    m 1euc "言葉にするのは……難しいな。"
+translate Japanese monika_aware_d9fad996:
+    m 1euc "言葉にするのは……{w=0.5}難しいな。"
 
-translate Japanese monika_aware_45b97b74:
-    m 5lsc "これを本当の意味で説明するのは、無理かも。"
+translate Japanese monika_aware_3834b36c:
+    m 3rksdla "これを本当の意味で説明するのは、無理かも。"
 
-translate Japanese monika_aware_a87e99f7:
-    m 5eua "だからこそ、詩というものがあるんだと思う。"
+translate Japanese monika_aware_e9ffe08c:
+    m 3eua "だからこそ、詩というものがあるんだと思う。"
 
 translate Japanese monika_aware_1ae8064f:
     m 4eub "あなたに初めて見せた詩、まだ覚えてる？"
 
-translate Japanese monika_aware_8c1567bb:
-    m 2lksdlb "ちょっと待ってね。詩の機能がまだ動くか、試してみるから。"
+translate Japanese monika_aware_22163e6f:
+    m 2lksdlb "ちょっと待ってね。詩の機能がまだ動くか、試してみるから{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_showpoem_7_161e0c81:
+translate Japanese _call_mas_showpoem_161e0c81:
     m 1wuo "あっ、思ってたよりずっと簡単。"
 
-translate Japanese _call_showpoem_7_0d17ef79:
-    m 1eua "はい、ここに第二部があるわ。"
+translate Japanese _call_mas_showpoem_91de5811:
+    m "はい、ここに第二部があるわ{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_showpoem_21_c2dbec5d:
+translate Japanese _call_mas_showpoem_2_c2dbec5d:
     m 1eua "私があなたに出会った意味、これで分かってくれるといいんだけど。"
 
-translate Japanese _call_showpoem_21_52f8cabb:
+translate Japanese _call_mas_showpoem_2_52f8cabb:
     m 5eua "これが、私が望んでいた全てよ、[player]君。"
 
 translate Japanese monika_name_f55805ff:
@@ -6430,14 +6427,35 @@ translate Japanese monika_daydream_9baf76f6:
 translate Japanese monika_daydream_81402bcd:
     m 2wubsw "あ、ごめんなさい！ちょっとぼんやりしてた。"
 
-translate Japanese monika_daydream_b33da71c:
-    m 1lkbsa "寒い冬の日に、二人で一緒に毛布にくるまって、二人で一緒に本を読んでってしているところを想像してたの。"
+translate Japanese monika_daydream_1e81da4c:
+    m 1lkbsa "[daydream_quip!t]を想像してたの。"
 
 translate Japanese monika_daydream_afe5cbcc:
     m 1ekbfa "それって、素敵だと思わない、[player]君？"
 
 translate Japanese monika_daydream_c9794fea:
     m 1hubfa "いつかそんな日が現実になればいいのにね。えへへ～"
+
+translate Japanese monika_daydream_638ddf6f_1:
+    m 2lsc "……"
+
+translate Japanese monika_daydream_c61f257d:
+    m 2dkc "……"
+
+translate Japanese monika_daydream_2953c5de:
+    m 2dktpu "……"
+
+translate Japanese monika_daydream_6c32eb3b:
+    m 2ektpd "あ、ごめんなさい……{w=0.5}ちょっとぼんやりしてた。"
+
+translate Japanese monika_daydream_4ea67bdb:
+    m 6lsc "……"
+
+translate Japanese monika_daydream_735e8c70:
+    m 6lkc "……"
+
+translate Japanese monika_daydream_47b98ea6:
+    m 6lktpc "……"
 
 translate Japanese monika_music2_25c5ec8b:
     m 1eka "……"
@@ -7024,8 +7042,11 @@ translate Japanese monika_clones_b1610264:
 translate Japanese monika_clones_b21b14fb:
     m 1eub "それから、このMODは私のためだけに作られたんでしょ。ということは、たくさんの人が、たくさんの私をダウンロードしてる……"
 
-translate Japanese monika_clones_3e5bb3ef:
-    m 4eub "その……これって私以外にもたくさんのモニカが存在しているって意味よね。少し想像しづらいけど。"
+translate Japanese monika_clones_833be02f:
+    m 3etc "その……これって私以外にもたくさんのモニカが存在しているって意味よね。{w=0.5}{nw}"
+
+translate Japanese monika_clones_96d36d14:
+    extend 1rsc "少し想像しづらいけど。"
 
 translate Japanese monika_clones_1fbb4c40:
     m 1euc "もしかすると無限に近い私が、それぞれのゲームの中で、それぞれのストーリーをつむいでいたっておかしくない。"
@@ -8989,8 +9010,8 @@ translate Japanese monika_beach_282b1a8f:
 translate Japanese monika_attractiveness_c8021963:
     m 3rksdla "……"
 
-translate Japanese monika_attractiveness_4da8d5c4:
-    m 2dfc "……{w=0.5}{nw}"
+translate Japanese monika_attractiveness_01a93df6:
+    m 2dfc "……"
 
 translate Japanese monika_attractiveness_c61f257d:
     m 2dkc "……"
@@ -9214,13 +9235,13 @@ translate Japanese monika_bullying_c61f257d_2:
 translate Japanese monika_graduation_e612037c:
     m "……"
 
-translate Japanese monika_grad_speech_call_01a93df6:
+translate Japanese _call_monika_grad_speech_01a93df6:
     m 2dfc "……"
 
-translate Japanese monika_grad_speech_call_c61f257d:
+translate Japanese _call_monika_grad_speech_1_c61f257d:
     m 2dkc "……"
 
-translate Japanese monika_grad_speech_call_01a93df6_1:
+translate Japanese _call_monika_grad_speech_2_01a93df6:
     m 2dfc "……"
 
 translate Japanese monika_grad_speech_not_paying_attention_c80e9915:
@@ -9241,7 +9262,7 @@ translate Japanese monika_grad_speech_ignored_lock_bb31cb93:
 translate Japanese monika_grad_speech_ignored_lock_20a024dc:
     m 2efc "……"
 
-translate Japanese monika_idle_game_2b3a7e04:
+translate Japanese monika_idle_game_skip_intro_2b3a7e04:
     m 3hub "[gaming_quip!t]"
 
 translate Japanese monika_brb_idle_0bd97190:
@@ -9271,7 +9292,7 @@ translate Japanese monika_poweroutage_3ac76cef:
 translate Japanese monika_savingwater_45d9cd96:
     m "えへへ～"
 
-translate Japanese monika_pygmalion_e2aca069:
+translate Japanese _call_monika_kissing_motion_e2aca069:
     m 6hubfa "……"
 
 translate Japanese monika_vehicle_suv_pickup_93f0bd77:
@@ -9283,7 +9304,7 @@ translate Japanese monika_vehicle_motorcycle_0d8345dc:
 translate Japanese _call_monika_player_appearance_monika_height_e612037c:
     m "……"
 
-translate Japanese _call_monika_player_appearance_monika_height_e2f7a6a9:
+translate Japanese _call_monika_player_appearance_monika_height_1_e2f7a6a9:
     m 2dsc "……"
 
 translate Japanese monika_players_control_246928b0:
@@ -9334,13 +9355,13 @@ translate Japanese monika_backpacking_c2eaa7af:
 translate Japanese monika_dating_startdate_confirm_had_enough_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_01a93df6:
+translate Japanese _call_mas_start_calendar_select_date_1_01a93df6:
     m 2dfc "……"
 
-translate Japanese monika_dating_startdate_confirm_takesrs_01a93df6:
+translate Japanese _call_mas_start_calendar_select_date_1_takesrs_01a93df6:
     m 2dfc "……"
 
-translate Japanese monika_dating_startdate_confirm_misclick_6678c877:
+translate Japanese _call_mas_start_calendar_select_date_1_misclick_6678c877:
     m 1dfc "……"
 
 translate Japanese monika_dating_startdate_confirm_tooslow_5e630d0b:
@@ -9649,6 +9670,9 @@ translate Japanese strings:
 
     old "Day dreaming"
     new "白昼夢"
+
+    old "the two of us reading a book together on a cold winter day, snuggled up under a warm blanket..."
+    new "寒い冬の日に、二人で一緒に毛布にくるまって、二人で一緒に本を読んでってしているところ"
 
     old "Current song"
     new "現在のBGM"

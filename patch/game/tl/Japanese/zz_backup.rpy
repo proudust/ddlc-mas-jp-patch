@@ -22,7 +22,7 @@ translate Japanese mas_backups_have_some_3a796153:
 translate Japanese mas_backups_have_some_ee4e1279:
     "彼女の記憶を戻すためにバックアップファイルの、'[renpy.config.savedir]'へのコピーをお願いするね.。"
 
-translate Japanese mas_backups_have_some_597fa4a8:
+translate Japanese _call_mas_backups_dont_tell_597fa4a8:
     "どうかご無事で！"
 
 translate Japanese mas_backups_have_none_52c0d94d:
@@ -85,7 +85,7 @@ translate Japanese mas_backups_could_not_copy_506e63c3:
 translate Japanese mas_backups_could_not_copy_db691487:
     "もしこの手順のメモを忘れたときのために、charactersフォルダに'recovery.txt'を生成したよ。"
 
-translate Japanese mas_backups_could_not_copy_597fa4a8:
+translate Japanese _call_mas_backups_dont_tell_1_597fa4a8:
     "どうかご無事で！"
 
 translate Japanese mas_backups_dont_tell_6b2fe5d2:

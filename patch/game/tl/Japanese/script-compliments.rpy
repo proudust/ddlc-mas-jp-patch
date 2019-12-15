@@ -61,20 +61,20 @@ translate Japanese mas_compliment_eyes_3_8dd169d4:
 translate Japanese mas_compliment_eyes_3_936e8205:
     m 2ekbfb "好きなだけ見つめ合いましょ～"
 
-translate Japanese mas_compliment_awesome_2_c81b1c2e:
-    m 1hub "あわわ、[player]君ったら～"
+translate Japanese mas_compliment_awesome_2_8ca00a62:
+    m 1hua "あわわ、[player]君ったら～"
 
-translate Japanese mas_compliment_awesome_2_5ecbbbc2:
-    m "本当に優しいのね！"
+translate Japanese mas_compliment_awesome_2_35f68315:
+    m 1hub "本当に優しいのね！"
 
-translate Japanese mas_compliment_awesome_2_91cdd6c0:
-    m 2tub "でもあなたももっと素晴らしいと思うわ。"
+translate Japanese mas_compliment_awesome_2_38e718fc:
+    m 2tuu "でもあなたももっと素晴らしいと思うわ。"
 
-translate Japanese mas_compliment_awesome_2_8d6dd103:
-    m 5eub "あなたを思いっきり抱き締められる日が待ちきれないの。"
+translate Japanese mas_compliment_awesome_2_a95885f0:
+    m 2dkbsu "あなたを思いっきり抱き締められる日が待ちきれないの。"
 
-translate Japanese mas_compliment_awesome_2_98d340f4:
-    m 5hub "離さないからね！"
+translate Japanese mas_compliment_awesome_2_d57bb1e0:
+    m 3ekbfb "離さないからね！"
 
 translate Japanese mas_compliment_awesome_2_b1aacb84:
     m "私もそれが一番の望みだからね、[player]君！"
@@ -238,11 +238,11 @@ translate Japanese mas_compliment_thanks_48645c18:
 translate Japanese mas_compliment_thanks_bb992cd1:
     m 1dubsu "あなたが来てくれるってことが何よりの幸せだから。"
 
-translate Japanese mas_compliment_thanks_4a3f9e5e:
-    m "私たちの未来に何があっても……"
+translate Japanese mas_compliment_thanks_4ba354c2:
+    m "私たちの未来に何があっても……{w=0.5}{nw}"
 
-translate Japanese mas_compliment_thanks_18cfbd4c:
-    m 1ekbfa "あなたのためにいつだってここにいるからね！"
+translate Japanese mas_compliment_thanks_b72aa841:
+    extend 1dkbfa "あなたのためにいつだってここにいるからね！"
 
 translate Japanese mas_compliment_thanks_0d8345dc:
     m 1hub "えへへ～"
@@ -551,7 +551,7 @@ translate Japanese strings:
     old "You're as cute as Natsuki."
     new "可愛さならナツキと良い勝負だよ。"
 
-    old "... Yeah."
+    old "...yeah."
     new "……そうだね。"
 
     old "No. I've tried my best and still lost."
