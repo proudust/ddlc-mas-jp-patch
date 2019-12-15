@@ -665,7 +665,7 @@ translate Japanese mas_notification_windowreact_cb196f4c:
     m 3eub "試しに通知を出してみる？{nw}"
 
 translate Japanese mas_notification_windowreact_428f6cbf:
-    m "試しに通知を出してみる？{fast}"
+    m "試しに通知を出してみる？{fast}" nointeract
 
 translate Japanese mas_notification_windowreact_6d1901f4:
     m 3rksdla "あと、Windows を使ってるみたいだから……アクティブなウィンドウが何か確認する方法がわかったの……"
