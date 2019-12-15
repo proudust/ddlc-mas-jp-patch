@@ -400,7 +400,7 @@ translate Japanese unlock_hangman_3f28d1b0:
 translate Japanese unlock_hangman_cff179dc:
     m "これってかなり残酷なゲームだよね。"
 
-translate Japanese unlock_hangman_8a810c1d:
+translate Japanese unlock_hangman_2001f49a:
     m 3rssdlc "隠された単語の文字を当てて、誰かの命を救うんだけど、"
 
 translate Japanese unlock_hangman_cf28eb6f:
@@ -412,7 +412,7 @@ translate Japanese unlock_hangman_3e44ed1e:
 translate Japanese unlock_hangman_9663b149:
     m "その人は死んじゃう。正しい文字を当てられなかったから。"
 
-translate Japanese unlock_hangman_7cdd08b8:
+translate Japanese unlock_hangman_61735e65:
     m 1eksdlc "暗いゲームだよね～"
 
 translate Japanese unlock_hangman_6645c4f3:
