@@ -25,6 +25,12 @@ translate Japanese monika_change_weather_loop_7ba12229:
 translate Japanese monika_change_weather_loop_321f071e:
     m "また試してみてね～"
 
+translate Japanese monika_change_weather_loop_7ba12229_1:
+    m 1hua "それって今と同じじゃない、もう。"
+
+translate Japanese monika_change_weather_loop_321f071e_1:
+    m "また試してみてね～"
+
 translate Japanese monika_change_weather_loop_b6849ce6:
     m 1eka "あなたって雨が嫌いなのかな"
 
@@ -37,9 +43,18 @@ translate Japanese monika_change_weather_loop_6111571a:
 translate Japanese monika_change_weather_loop_3d8a873d:
     m 1eua "よし！"
 
-translate Japanese monika_change_weather_loop_3577b30a:
+translate Japanese monika_change_weather_loop_3576c811_1:
+    m 1dsc "ちょっと待っててね{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese _call_mas_change_weather_2_c889c235:
+    m 1eua "これでよし！"
+
+translate Japanese _call_mas_change_weather_2_3577b30a:
     m "また天気を変えて欲しくなったら聞いてね、OK？"
 
 translate Japanese strings:
+    old "Can you change the weather?"
+    new "天気を変えられる？"
+
     old "What kind of weather would you like?"
     new "どんな天気がいいかな？"

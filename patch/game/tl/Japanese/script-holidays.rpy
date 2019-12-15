@@ -22,6 +22,9 @@ translate Japanese _call_mas_dockstat_abort_gen_1_c61f257d:
 translate Japanese mas_d25_monika_holiday_intro_e612037c:
     m "……"
 
+translate Japanese _call_mas_d25_monika_holiday_intro_deco_30fbdc00:
+    m 1eub "ハッピーホリデーズ, [player]！"
+
 translate Japanese mas_d25_monika_christmas_d68c0e32:
     m 1dku "……"
 

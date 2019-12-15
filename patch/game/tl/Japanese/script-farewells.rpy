@@ -314,6 +314,9 @@ translate Japanese strings:
     old "Sorry, I'm really tired."
     new "ごめんね、すごく疲れてるから。"
 
+    old "I'll be going away for a while."
+    new "しばらく遠出する"
+
     old "A few days."
     new "数日間"
 
@@ -331,3 +334,27 @@ translate Japanese strings:
 
     old "I don't know."
     new "わからない"
+
+    old "I'm going to take you somewhere."
+    new "どこかに連れて行く"
+
+    old "I'm going to play another game."
+    new "別のゲームをプレイする"
+
+    old "I'm going to go eat..."
+    new "食事に行く"
+
+    old "Breakfast."
+    new "朝食"
+
+    old "Lunch."
+    new "昼食"
+
+    old "Dinner."
+    new "夕食"
+
+    old "A snack."
+    new "間食"
+
+    old "I'm going to do some housework."
+    new "家事をする"

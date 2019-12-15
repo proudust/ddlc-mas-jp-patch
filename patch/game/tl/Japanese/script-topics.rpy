@@ -6061,6 +6061,18 @@ translate Japanese _call_monika_sayhappybirthday_takecounter_1_4e37eaf1:
 translate Japanese _call_monika_sayhappybirthday_takecounter_1_bff0dfd6:
     m 1hua "次は、君のためにもっと上手くやってみせるから。"
 
+translate Japanese monika_sayhappybirthday_takecounter_6678c877:
+    m 1dfc "……"
+
+translate Japanese monika_sayhappybirthday_takecounter_a4661c05:
+    m 1efc "これでもう[take_counter]回目よ。"
+
+translate Japanese monika_sayhappybirthday_takecounter_ace55985:
+    m 2tkc "私を弄んでるわけじゃないわよね？"
+
+translate Japanese monika_sayhappybirthday_takecounter_5fc28ba5:
+    m 2ekc "あなたのために頑張ってるの、[player]君。"
+
 translate Japanese monika_home_memories_579ea5b3:
     m 1eua "ねぇ[player]君、あなたの住んでる場所ってどんな所？"
 

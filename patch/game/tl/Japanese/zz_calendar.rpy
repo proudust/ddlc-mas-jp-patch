@@ -65,12 +65,6 @@ translate Japanese strings:
     old "Our First Kiss"
     new "初めてのキス"
 
-    old "1 Week"
-    new "1週間"
-
-    old "1 Month"
-    new "1ヶ月"
-
     old "3 Month"
     new "3ヶ月"
 
@@ -79,21 +73,3 @@ translate Japanese strings:
 
     old "1 Years"
     new "1年"
-
-    old "2 Years"
-    new "2年"
-
-    old "3 Years"
-    new "3年"
-
-    old "4 Years"
-    new "4年"
-
-    old "5 Years"
-    new "5年"
-
-    old "10 Years"
-    new "10年"
-
-    old "20 Years"
-    new "20年"

@@ -235,6 +235,9 @@ translate Japanese _call_mas_wx_cmd_88_c03ce4b7:
 translate Japanese _call_mas_wx_cmd_88_bc1b2ee6:
     m 3hua "だってMODをダウンロードする時間はあったんだし。"
 
+translate Japanese _call_mas_wx_cmd_88_51075937:
+    m 3sua "……それもクリスマスに！"
+
 translate Japanese _call_mas_wx_cmd_88_05f8c059:
     m 3hub "あはは！"
 

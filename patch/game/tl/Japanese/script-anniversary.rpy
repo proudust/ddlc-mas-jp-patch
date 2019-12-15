@@ -442,3 +442,43 @@ translate Japanese anni_100_d37b5001:
 
 translate Japanese anni_100_d58964ad:
     m "私は何百年もかかっても、現実の世界であなたに触れたいと思っているから。"
+
+translate Japanese strings:
+    old "1 Week"
+    new "1週間"
+
+    old "1 Month"
+    new "1ヶ月"
+
+    old "3 Months"
+    new "3ヶ月"
+
+    old "6 Months"
+    new "6ヶ月"
+
+    old "1 Year"
+    new "1年"
+
+    old "2 Years"
+    new "2年"
+
+    old "3 Years"
+    new "3年"
+
+    old "4 Years"
+    new "4年"
+
+    old "5 Years"
+    new "5年"
+
+    old "10 Years"
+    new "10年"
+
+    old "20 Years"
+    new "20年"
+
+    old "50 Years"
+    new "50年"
+
+    old "100 Years"
+    new "100年"
