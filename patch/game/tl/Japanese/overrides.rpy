@@ -19,47 +19,14 @@ translate Japanese python:
 translate Japanese style normal:
     outlines [(2, "#444", 0, 0), (1, "#444", 2, 2)]
 
-translate Japanese style check_button_text:
-    font jpfonts.Mikachan
+translate Japanese style button_text:
+    font gui.interface_font
 
-translate Japanese style check_dark_button_text:
-    font jpfonts.Mikachan
-
-translate Japanese style choice_button_text:
-    font gui.default_font
-
-translate Japanese style choice_dark_button_text:
-    font gui.default_font
-
-translate Japanese style gui_label_text:
-    font gui.default_font
+translate Japanese style button_text_dark:
+    font gui.interface_font
 
 translate Japanese style edited:
-    font gui.default_font
-
-translate Japanese style edited_def:
-    font gui.default_font
-
-translate Japanese style edited_dark:
-    font gui.default_font
-
-translate Japanese style game_menu_label_text:
-    font gui.name_font
-
-translate Japanese style navigation_button_text:
-    font gui.name_font
-
-translate Japanese style navigation_dark_button_text:
-    font gui.name_font
-
-translate Japanese style navigation_button_text_def:
-    font gui.name_font
-
-translate Japanese style navigation_button_text_dark:
-    font gui.name_font
-
-translate Japanese style poemgame_text:
-    font jpfonts.Mikachan
+    font jpfonts.VLGothic
 
 translate Japanese style poemgame_text_def:
     font jpfonts.Mikachan
@@ -67,7 +34,58 @@ translate Japanese style poemgame_text_def:
 translate Japanese style poemgame_text_dark:
     font jpfonts.Mikachan
 
-translate Japanese style pref_label_text:
+translate Japanese style pref_def_label_text:
+    font gui.name_font
+
+translate Japanese style pref_dark_label_text:
+    font gui.name_font
+
+translate Japanese style game_menu_label:
+    font gui.name_font
+
+translate Japanese style game_menu_label_dark:
+    font gui.name_font
+
+translate Japanese style choice_button_text:
+    font gui.default_font
+
+translate Japanese style choice_dark_button_text:
+    font gui.default_font
+
+translate Japanese style check_button_text:
+    font jpfonts.Mikachan
+
+translate Japanese style check_dark_button_text:
+    font jpfonts.Mikachan
+
+translate Japanese style game_menu_label_text:
+    font jpfonts.VLGothic
+
+translate Japanese style game_menu_label_dark_text:
+    font jpfonts.VLGothic
+
+translate Japanese style hkb_button_text:
+    font gui.default_font
+
+translate Japanese style hkb_dark_button_text:
+    font gui.default_font
+
+translate Japanese style music_menu_button_text:
+    font jpfonts.VLGothic
+
+translate Japanese style music_menu_dark_button_text:
+    font jpfonts.VLGothic
+
+translate Japanese style navigation_button_text:
+    font jpfonts.VLGothic
+
+translate Japanese style navigation_dark_button_text:
+    font jpfonts.VLGothic
+
+translate Japanese style quick_button_text:
+    font gui.default_font
+
+translate Japanese style quick_dark_button_text:
     font gui.default_font
 
 translate Japanese style radio_button_text:
@@ -76,13 +94,7 @@ translate Japanese style radio_button_text:
 translate Japanese style radio_dark_button_text:
     font jpfonts.Mikachan
 
-translate Japanese style radio_dark_button_text:
-    font jpfonts.Mikachan
-
 translate Japanese style scrollable_menu_button_text:
-   font gui.default_font
-
-translate Japanese style scrollable_menu_button_dark_text:
    font gui.default_font
 
 translate Japanese style scrollable_menu_dark_button_text:
@@ -92,18 +104,6 @@ translate Japanese style twopane_scrollable_menu_button_text:
    font gui.default_font
 
 translate Japanese style twopane_scrollable_menu_dark_button_text:
-   font gui.default_font
-
-translate Japanese style hkb_button_text:
-   font gui.default_font
-
-translate Japanese style hkb_dark_button_text:
-   font gui.default_font
-
-translate Japanese style island_button_dark_text:
-   font gui.default_font
-
-translate Japanese style quick_dark_button_text:
    font gui.default_font
 
 # 詩
