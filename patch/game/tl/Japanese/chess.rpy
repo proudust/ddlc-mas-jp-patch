@@ -452,7 +452,7 @@ translate Japanese mas_chess_dlg_game_monika_win_surr_resolve_b7e5751f:
     m 1tfc "降参するのって決意の弱さの表れだよね……"
 
 translate Japanese mas_chess_dlg_game_monika_win_surr_resolve_8284f336:
-    m 1lfc "決断力が乏しい恋人は、私はいらないかな。"
+    m 1lfc "決断力が乏しい[bf!t]は、私はいらないかな。"
 
 translate Japanese mas_chess_dlg_game_monika_win_surr_trying_0dd69d4e:
     m 1tku "{i}本当に努力する{/i}ってこと、よく考えてみたことある？"

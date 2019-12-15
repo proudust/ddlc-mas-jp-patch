@@ -153,3 +153,10 @@ translate Japanese mas_apology_bad_nickname_1b9d7ceb:
 
 translate Japanese mas_apology_bad_nickname_b374927a:
     m 2rfc "謝ったのは分かったけど、本気で言ってるとは思えないわ。"
+
+translate Japanese strings:
+    old "I want to apologize..."
+    new "謝りたい"
+
+    old "...for something else."
+    new "……他の何かのために"

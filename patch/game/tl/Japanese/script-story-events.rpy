@@ -202,11 +202,11 @@ translate Japanese _call_sayori_name_scare_5ee4f30f:
 translate Japanese _call_sayori_name_scare_155043c7:
     m 3eub "それでは今から、あなたのことを{i}「[player]」{i}君と呼びます！えへへ～"
 
-translate Japanese _call_sayori_name_scare_3599c43a:
-    m 1ekc "えっ……あなたがそう言うなら、別にいいけど。"
+translate Japanese _call_sayori_name_scare_48ef2008:
+    m 1eka "えっ……あなたがそう言うなら、別にいいけど。"
 
-translate Japanese _call_sayori_name_scare_9fa9e08d:
-    m 1eka "[player]君の気持ちが変わったらいつでも言ってね。"
+translate Japanese _call_sayori_name_scare_74a44b31:
+    m 3eka "気が変わったらいつでも言ってね、[player]君。"
 
 translate Japanese monika_changename_987e4abd:
     m 1eua "名前を変えたいの？{nw}"
@@ -601,11 +601,26 @@ translate Japanese _call_mas_start_calendar_select_date_2_d2ea348f_1:
 translate Japanese _call_mas_start_calendar_select_date_2_c4bf3866:
     m "あなたが未来に生まれるわけないでしょう！"
 
+translate Japanese _call_mas_start_calendar_select_date_2_43832bdf_1:
+    m 1hua "もう一度！"
+
+translate Japanese _call_mas_start_calendar_select_date_2_d2ea348f_2:
+    m 2efc "[player]君！"
+
 translate Japanese _call_mas_start_calendar_select_date_2_5cc7f3db:
     m "あなたが今日生まれたわけがないでしょう！"
 
+translate Japanese _call_mas_start_calendar_select_date_2_43832bdf_2:
+    m 1hua "もう一度！"
+
+translate Japanese _call_mas_start_calendar_select_date_2_d2ea348f_3:
+    m 2efc "[player]君！"
+
 translate Japanese _call_mas_start_calendar_select_date_2_cd48f428:
     m "あなたがそんな子供なわけがないでしょう！"
+
+translate Japanese _call_mas_start_calendar_select_date_2_43832bdf_3:
+    m 1hua "もう一度！"
 
 translate Japanese _call_mas_start_calendar_select_date_2_4775a645:
     m 2eksdlc "[player]君……"
@@ -639,6 +654,27 @@ translate Japanese _call_mas_start_calendar_select_date_2_ee3f0a53:
 
 translate Japanese _call_mas_start_calendar_select_date_2_62bd758c:
     m 1eua "もう一度教えてくれる？"
+
+translate Japanese mas_notification_windowreact_9784ab94:
+    m 3eua "私、プログラミングを勉強しているのだけれど、コンピューターに通知を出せるようになったの！"
+
+translate Japanese mas_notification_windowreact_4734609b:
+    m "あなたさえ良ければ、私が話したいことがある時にこれでお知らせしたいと思うの。"
+
+translate Japanese mas_notification_windowreact_cb196f4c:
+    m 3eub "試しに通知を出してみる？{nw}"
+
+translate Japanese mas_notification_windowreact_428f6cbf:
+    m "試しに通知を出してみる？{fast}" nointeract
+
+translate Japanese mas_notification_windowreact_6d1901f4:
+    m 3rksdla "あと、Windows を使ってるみたいだから……アクティブなウィンドウが何か確認する方法がわかったの……"
+
+translate Japanese mas_notification_windowreact_b9b5d845:
+    m 3eub "だから、私がバックグラウンドにいる間、話したいことがあればあなたに知らせることができるの！"
+
+translate Japanese mas_notification_windowreact_3205d830:
+    m 3hksdlb "心配しないで。あなたのプライバシーは尊重するから。"
 
 translate Japanese strings:
     old "So, are you male or female?{fast}"
@@ -691,3 +727,9 @@ translate Japanese strings:
 
     old "Actually..."
     new "やっぱり……"
+
+    old "Sure!"
+    new "もちろん！"
+
+    old "No thanks."
+    new "要らない"

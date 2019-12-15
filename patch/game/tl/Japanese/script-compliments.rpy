@@ -476,6 +476,30 @@ translate Japanese mas_compliment_bestgirl_3fc15209:
     m 5hubfa "……そうしてくれて、感謝してもしきれないわ～"
 
 translate Japanese strings:
+    old "You're so sweet, [player]."
+    new "本当に優しいのね、[player]君。"
+
+    old "I love it when you compliment me, [player]."
+    new "あなたに褒められるのが大好きなの、[player]君。"
+
+    old "Thanks for saying that again, [player]!"
+    new "またそう言ってくれるなんてありがと、[player]君！"
+
+    old "Thanks for telling me that again, my love!"
+    new "何度も言ってくれるなんてありがと、あなた！"
+
+    old "You always make me feel special, [player]."
+    new "あなたっていつも愛しい気分にさせてくれるね、[player]君。"
+
+    old "Aww, [player]~"
+    new "あわわ、[player]君ったら～"
+
+    old "Thanks, [player]!"
+    new "ありがと、[player]君！"
+
+    old "You always flatter me, [player]."
+    new "いつもドキドキさせられちゃうよ、[player]君！"
+
     old "You're the most beautiful person to me, too."
     new "自分にとっても君が一番美しい人だよ。"
 
@@ -556,27 +580,3 @@ translate Japanese strings:
 
     old "No. I've tried my best and still lost."
     new "いや、頑張ってるけど上手くいかないんだ。"
-
-    old "You're so sweet, [player]."
-    new "本当に優しいのね、[player]君。"
-
-    old "I love it when you compliment me, [player]."
-    new "あなたに褒められるのが大好きなの、[player]君。"
-
-    old "Thanks for saying that again, [player]!"
-    new "またそう言ってくれるなんてありがと、[player]君！"
-
-    old "Thanks for telling me that again, my love!"
-    new "何度も言ってくれるなんてありがと、あなた！"
-
-    old "You always make me feel special, [player]."
-    new "あなたっていつも愛しい気分にさせてくれるね、[player]君。"
-
-    old "Aww, [player]~"
-    new "あわわ、[player]君ったら～"
-
-    old "Thanks, [player]!"
-    new "ありがと、[player]君！"
-
-    old "You always flatter me, [player]."
-    new "いつもドキドキさせられちゃうよ、[player]君！"

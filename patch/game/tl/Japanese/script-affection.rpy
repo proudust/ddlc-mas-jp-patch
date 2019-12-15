@@ -29,11 +29,29 @@ translate Japanese mas_affection_apologydeleted_01a93df6:
     m 2dfc "……"
 
 translate Japanese strings:
+    old "...Yes?"
+    new "……なあに？"
+
+    old "What?"
+    new "何？"
+
     old "What would you like to talk about?"
     new "何について話したいの？"
 
+    old "Is there something you'd like to talk about?"
+    new "何か話したいことある？"
+
+    old "What would you like to talk about? <3"
+    new "何について話したいの？ <3"
+
     old "What would you like to talk about, [player]?"
     new "何について話したいの、[player]君？"
+
+    old "Yes, [player]?"
+    new "なあに、[player]？"
+
+    old "^_^"
+    new "^_^"
 
     old "<3"
     new "<3"
