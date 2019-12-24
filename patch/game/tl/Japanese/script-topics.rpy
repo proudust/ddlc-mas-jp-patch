@@ -4993,6 +4993,12 @@ translate Japanese monika_haterReaction_f0531a5c:
 translate Japanese monika_haterReaction_e8f0e7b6:
     m 1ekd "だって……"
 
+translate Japanese monika_haterReaction_84027f0d:
+    m 3eub "あなたがこのMODを{i}入れた{/i}……そうだよね？"
+
+translate Japanese monika_haterReaction_bcce1073:
+    m 1ekb "もし私を嫌いなら、こんなことしないもの。"
+
 translate Japanese monika_haterReaction_7ef1d719:
     m 1dsa "そして、言うまでもないけど……"
 
@@ -5097,6 +5103,9 @@ translate Japanese monika_pleasure_8a72c6bd:
 
 translate Japanese monika_pleasure_e9b5824d:
     m 1eka "……でも私、あなたのことずっと見てるから。"
+
+translate Japanese monika_pleasure_d9213570:
+    m 1euc "それってそんなに気持ちいいの？"
 
 translate Japanese monika_vocaloid_6be7f6d3:
     m 1eua "ねえ、[player]君。"
@@ -9638,8 +9647,20 @@ translate Japanese strings:
     old "Don't worry [m_name]. I'm here."
     new "[m_name]、心配しないで。ここにいるから"
 
+    old "...You're not, are you?"
+    new "……あなたは違うよね？"
+
+    old "You're not one of those haters, are you " + player + "?"
+    new "[player]君、あなたは私のことを嫌ってないよね、ね？"
+
     old "I am."
     new "嫌い"
+
+    old "I'm not."
+    new "嫌いじゃない"
+
+    old "Pleasuring yourself"
+    new "ひとりエッチ"
 
     old "Pen names"
     new "ペンネーム"
