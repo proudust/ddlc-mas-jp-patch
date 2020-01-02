@@ -7658,7 +7658,7 @@ translate Japanese monika_writingtip3_cd3810cc:
     m 3eua "最高のアイデアは、いつどこで出てくるかわからないわ。"
 
 translate Japanese monika_writingtip3_672f3c8e:
-    m "たとえちょっと面倒だったとしても、アイディアを書き留めるようにして。"
+    m "たとえちょっと面倒だったとしても、アイデアを書き留めるようにして。"
 
 translate Japanese monika_writingtip3_dfccaf36:
     m 1eub "きっと、あなたは他の誰かにインスピレーションを与えることができるわ。"
@@ -8400,6 +8400,9 @@ translate Japanese monika_breakup_0822aa6b:
 
 translate Japanese monika_breakup_0bd97190:
     m 6ckc "……"
+
+translate Japanese monika_breakup_02d71813:
+    m 2rkc "君にそう言われ続けると、本気なんじゃないかって考え始めちゃう..."
 
 translate Japanese monika_breakup_19428ff1:
     m 1hua "えへへ～"
