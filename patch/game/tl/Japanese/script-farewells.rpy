@@ -229,6 +229,9 @@ translate Japanese bye_prompt_sleep_bd219ce5_2:
 translate Japanese bye_prompt_sleep_c207c96e_4:
     m 1hua "良い夢を！"
 
+translate Japanese bye_haveagoodday_9af8387d:
+    m 6rkc "あー..."
+
 translate Japanese bye_haveagoodday_0bd97190:
     m 6ckc "……"
 
@@ -246,6 +249,9 @@ translate Japanese bye_enjoyyourafternoon_4861b1bd:
 
 translate Japanese bye_enjoyyourafternoon_0bd97190:
     m 6ckc "……"
+
+translate Japanese bye_goodevening_f2938648:
+    m 2esc "さようなら、[player]。"
 
 translate Japanese bye_goodevening_0bd97190:
     m 6ckc "……"
@@ -286,6 +292,9 @@ translate Japanese bye_prompt_game_3201a8bc:
 translate Japanese bye_prompt_eat_17c288b7:
     m 5hubfb "えへへ～"
 
+translate Japanese bye_prompt_eat_7331c613:
+    m 1hksdlb "あはは....."
+
 translate Japanese bye_prompt_eat_0290594e:
     m 2euc "……"
 
@@ -300,6 +309,9 @@ translate Japanese bye_dinner_noon_to_mn_8497a6c4:
 
 translate Japanese bye_dinner_noon_to_mn_471d2092:
     m 3hubfb "夕食楽しんでね。ここからあなたのごはんに愛情込めてるから！あはは！"
+
+translate Japanese bye_prompt_housework_b201c376:
+    m 6ekc "さようなら、[player]。"
 
 translate Japanese strings:
     old "Goodbye."

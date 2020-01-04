@@ -159,4 +159,7 @@ translate Japanese strings:
     new "謝りたい"
 
     old "...for something else."
-    new "……他の何かのために"
+    new "……あんなことをしてしまって"
+
+    old "...for calling you a bad name."
+    new "……酷い名前で呼んでしまったことを"
