@@ -32,5 +32,4 @@ jobs:
             毎朝 6 時に翻訳所から最新の翻訳が反映されます。
           assignees: proudust
           reviewers: proudust
-          base: master
           branch: translate
