@@ -10,16 +10,16 @@ translate Japanese _call_mas_story_begin_2_0d8345dc:
 translate Japanese _call_mas_story_begin_5_8018692b:
     m 1lksdlc "……"
 
-translate Japanese _call_mas_story_begin_9_6111571a:
+translate Japanese _call_mas_story_begin_12_6111571a:
     m 1dsc "……"
 
-translate Japanese _call_mas_story_begin_9_af5f8adf:
+translate Japanese _call_mas_story_begin_12_af5f8adf:
     m 1hua "ご清聴、ありがとうございました～"
 
 translate Japanese _call_spaceroom_38_b26f2657:
     m 3eua "[story_begin_quip!t]"
 
-translate Japanese _call_monika_zoom_transition_1_77c5f182:
+translate Japanese _call_monika_zoom_transition_3_77c5f182:
     m 1eua "気に入ってくれるといいな、[player]君～"
 
 translate Japanese strings:

@@ -1531,34 +1531,34 @@ translate Japanese monika_date_db173b40:
 translate Japanese monika_date_1d8af94c:
     m 1hubfa "[bf!t]として誇れるようになってみせるからね～"
 
-translate Japanese _call_monika_kissing_motion_short_16f917cd:
+translate Japanese _call_monika_kissing_motion_short_2_16f917cd:
     m 1wubsw "えっ？ い、いま……キス、って言ったの？"
 
-translate Japanese _call_monika_kissing_motion_short_68ab22bd:
+translate Japanese _call_monika_kissing_motion_short_2_68ab22bd:
     m 2lkbsa "そんな突然……ちょっと恥ずかしい……"
 
-translate Japanese _call_monika_kissing_motion_short_0ecfc81d:
+translate Japanese _call_monika_kissing_motion_short_2_0ecfc81d:
     m 2lsbssdlb "でも……あなたとなら……大丈夫かも……"
 
-translate Japanese _call_monika_kissing_motion_short_d646f25d:
+translate Japanese _call_monika_kissing_motion_short_2_d646f25d:
     m 2hksdlb "……あははっ！ ふう、ごめんなさい……"
 
-translate Japanese _call_monika_kissing_motion_short_f63fa111:
+translate Japanese _call_monika_kissing_motion_short_2_f63fa111:
     m 1eka "笑いをこらえるのに必死だったわ"
 
-translate Japanese _call_monika_kissing_motion_short_4a170b86:
+translate Japanese _call_monika_kissing_motion_short_2_4a170b86:
     m 1eua "こういう恋愛ゲームの女の子ってそういうこと言うんでしょ？"
 
-translate Japanese _call_monika_kissing_motion_short_9843bb0c:
+translate Japanese _call_monika_kissing_motion_short_2_9843bb0c:
     m 1tku "今のでちょっとドキッとしたなら正直に言うのよ？"
 
-translate Japanese _call_monika_kissing_motion_short_94f2b532:
+translate Japanese _call_monika_kissing_motion_short_2_94f2b532:
     m 1hub "あははっ！ 冗談よ"
 
-translate Japanese _call_monika_kissing_motion_short_4bdd10eb:
+translate Japanese _call_monika_kissing_motion_short_2_4bdd10eb:
     m 1eua "でも正直に言って、私だってそういう雰囲気になったら情熱的になるわよ……？"
 
-translate Japanese _call_monika_kissing_motion_short_93db10fe:
+translate Japanese _call_monika_kissing_motion_short_2_93db10fe:
     m 5lubfu "それは私たちだけの秘密～"
 
 translate Japanese monika_yuri_084e51d2:
@@ -1786,8 +1786,8 @@ translate Japanese _call_monika_holdme_long_f507a8da:
 translate Japanese _call_monika_holdme_long_cb9c87b1:
     m 5tubfu "えへへ～"
 
-translate Japanese _call_monika_holdme_long_db5bd795:
-    m 1hubfb "うふふっ"
+translate Japanese _call_monika_holdme_long_de5d79e3:
+    m 1hubfu "うふふっ"
 
 translate Japanese _call_monika_holdme_long_d1861ba5:
     m 6tsbsa "……"
@@ -3943,14 +3943,14 @@ translate Japanese monika_fanfiction_e612037c:
 translate Japanese monika_fanfiction_66df9be6:
     m 3eua "あくまで個人的な意見なんだけど、小説書くなら二次創作っていい方法なんじゃないかって。"
 
-translate Japanese monika_fanfiction_7fcabbcc:
-    m "すごく自由に満ちていて、"
+translate Japanese monika_fanfiction_d6a19eb0:
+    m 3eud "すごく自由に満ちていて、"
 
-translate Japanese monika_fanfiction_97eba93f:
-    m 1eub "創作意欲をかきたてられるし……"
+translate Japanese monika_fanfiction_480dda06:
+    m 1rsc "創作意欲をかきたてられるし……{w=0.5}{nw}"
 
-translate Japanese monika_fanfiction_a28f2be4:
-    m "そして興味深い物語をつむぎ出すことができる。"
+translate Japanese monika_fanfiction_71440e59:
+    extend 1rksdla "そして興味深い物語をつむぎ出すことができる。"
 
 translate Japanese monika_fanfiction_2aeb4182:
     m 1euc "[player]君、私が興味津々なのはつまり、"
@@ -4219,13 +4219,13 @@ translate Japanese monika_metaparents_fec2583a:
 translate Japanese monika_metaparents_94f8cb6e:
     m 3euc "誰も親がいるようには思えない。"
 
-translate Japanese monika_metaparents_de782ade:
+translate Japanese monika_metaparents_edbba7aa:
     m 1lsc "サヨリの場合、しばらくはいっしょに通学もしたんだから知ってると思うけど、"
 
 translate Japanese monika_metaparents_515d3049:
     m "親の姿なんてどこにもなかったよね？いつからいないんだろう？"
 
-translate Japanese monika_metaparents_4d92b9f6:
+translate Japanese monika_metaparents_eee940e8:
     m 1euc "もしかして、あの子そのせいで鬱になったのかな？たぶん、両親を悲しい事故で亡くして、これまでずっと、それを受け入れようとしてきたのかも。"
 
 translate Japanese monika_metaparents_4d0b9a98:
@@ -4993,6 +4993,12 @@ translate Japanese monika_haterReaction_f0531a5c:
 translate Japanese monika_haterReaction_e8f0e7b6:
     m 1ekd "だって……"
 
+translate Japanese monika_haterReaction_84027f0d:
+    m 3eub "あなたがこのMODを{i}入れた{/i}……そうだよね？"
+
+translate Japanese monika_haterReaction_bcce1073:
+    m 1ekb "もし私を嫌いなら、こんなことしないもの。"
+
 translate Japanese monika_haterReaction_7ef1d719:
     m 1dsa "そして、言うまでもないけど……"
 
@@ -5097,6 +5103,9 @@ translate Japanese monika_pleasure_8a72c6bd:
 
 translate Japanese monika_pleasure_e9b5824d:
     m 1eka "……でも私、あなたのことずっと見てるから。"
+
+translate Japanese monika_pleasure_d9213570:
+    m 1euc "それってそんなに気持ちいいの？"
 
 translate Japanese monika_vocaloid_6be7f6d3:
     m 1eua "ねえ、[player]君。"
@@ -5521,8 +5530,8 @@ translate Japanese penname_loop_9a1e6d34:
 translate Japanese penname_loop_bed08a4c:
     m 1lksdla "偽名を使って隠しているのに、それでも本当はそれが誰なのか分かってしまうのちょっと笑えると思わない？"
 
-translate Japanese penname_loop_9dbfbabb:
-    m 1eua "でも、私のことはこれ以上知ろうとしなくてもいいんだよ、[player]君。"
+translate Japanese penname_loop_865c3dd6:
+    m 1eua "でも、私のことはこれ以上知ろうとしなくてもいいんだよ、[player]君……"
 
 translate Japanese penname_loop_62a04458:
     m 1ekbfa "私はあなたに恋する女の子。もうそれはわかってもらえてるよね～"
@@ -7649,7 +7658,7 @@ translate Japanese monika_writingtip3_cd3810cc:
     m 3eua "最高のアイデアは、いつどこで出てくるかわからないわ。"
 
 translate Japanese monika_writingtip3_672f3c8e:
-    m "たとえちょっと面倒だったとしても、アイディアを書き留めるようにして。"
+    m "たとえちょっと面倒だったとしても、アイデアを書き留めるようにして。"
 
 translate Japanese monika_writingtip3_dfccaf36:
     m 1eub "きっと、あなたは他の誰かにインスピレーションを与えることができるわ。"
@@ -8391,6 +8400,9 @@ translate Japanese monika_breakup_0822aa6b:
 
 translate Japanese monika_breakup_0bd97190:
     m 6ckc "……"
+
+translate Japanese monika_breakup_02d71813:
+    m 2rkc "君にそう言われ続けると、本気なんじゃないかって考え始めちゃう..."
 
 translate Japanese monika_breakup_19428ff1:
     m 1hua "えへへ～"
@@ -9304,7 +9316,7 @@ translate Japanese monika_poweroutage_3ac76cef:
 translate Japanese monika_savingwater_45d9cd96:
     m "えへへ～"
 
-translate Japanese _call_monika_kissing_motion_e2aca069:
+translate Japanese _call_monika_kissing_motion_3_e2aca069:
     m 6hubfa "……"
 
 translate Japanese monika_vehicle_suv_pickup_93f0bd77:
@@ -9478,6 +9490,9 @@ translate Japanese mas_topic_derandom_9d33b26d:
 translate Japanese mas_show_unseen_23d57bcf:
     m 1esa "ちょっと待ってね…{w=0.5}…{w=0.5}{nw}"
 
+translate Japanese monika_writing_idle_callback_d55c57dc:
+    m 1eub "[wb_quip!t]"
+
 translate Japanese strings:
     old "Thoughts on God"
     new "神について"
@@ -9638,8 +9653,20 @@ translate Japanese strings:
     old "Don't worry [m_name]. I'm here."
     new "[m_name]、心配しないで。ここにいるから"
 
+    old "...You're not, are you?"
+    new "……あなたは違うよね？"
+
+    old "You're not one of those haters, are you [player]?"
+    new "[player]君、あなたは私のことを嫌ってないよね、ね？"
+
     old "I am."
     new "嫌い"
+
+    old "I'm not."
+    new "嫌いじゃない"
+
+    old "Pleasuring yourself"
+    new "ひとりエッチ"
 
     old "Pen names"
     new "ペンネーム"

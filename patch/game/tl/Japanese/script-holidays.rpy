@@ -1,13 +1,13 @@
 translate Japanese mas_holiday_o31_returned_home_relaunch_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_4_7ec4d980:
+translate Japanese _call_spaceroom_16_7ec4d980:
     m 1eua "あっ！"
 
-translate Japanese _call_spaceroom_4_7faca44c:
+translate Japanese _call_spaceroom_16_7faca44c:
     m 1rksdla "……"
 
-translate Japanese _call_spaceroom_4_0d8345dc:
+translate Japanese _call_spaceroom_16_0d8345dc:
     m 1hub "えへへ～"
 
 translate Japanese bye_trick_or_treat_e612037c:
@@ -16,7 +16,7 @@ translate Japanese bye_trick_or_treat_e612037c:
 translate Japanese bye_trick_or_treat_c61f257d:
     m 2dkc "……"
 
-translate Japanese _call_mas_dockstat_abort_gen_1_c61f257d:
+translate Japanese _call_mas_dockstat_abort_gen_2_c61f257d:
     m 2dkc "……"
 
 translate Japanese mas_d25_monika_holiday_intro_e612037c:
@@ -49,7 +49,7 @@ translate Japanese mas_d25_spent_time_monika_93727076_1:
 translate Japanese _call_mas_showpoem_3_d68c0e32:
     m 1dku "……"
 
-translate Japanese _call_monika_kissing_motion_1_1691936e:
+translate Japanese _call_monika_kissing_motion_4_1691936e:
     m 6dkbfa "……"
 
 translate Japanese mas_d25_postd25_notimespent_c61f257d:
@@ -76,10 +76,10 @@ translate Japanese monika_nye_year_review_b6730440:
 translate Japanese monika_nye_year_review_cea36ce5:
     m 1lsbsa "……"
 
-translate Japanese _call_monika_kissing_motion_2_e612037c:
+translate Japanese _call_monika_kissing_motion_5_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_12_e612037c:
+translate Japanese _call_spaceroom_24_e612037c:
     m "……"
 
 translate Japanese _call_mas_player_bday_moni_sings_94e61d1b:
@@ -130,19 +130,19 @@ translate Japanese mas_pf14_monika_lovey_dovey_3201a8bc:
 translate Japanese mas_f14_monika_valentines_intro_fe9c0937:
     m 1eua "ところで……"
 
-translate Japanese _call_mas_clothes_change_2_23a3b2db:
+translate Japanese _call_mas_clothes_change_10_23a3b2db:
     m 1eua "……"
 
-translate Japanese _call_mas_clothes_change_2_a4d9d025:
+translate Japanese _call_mas_clothes_change_10_a4d9d025:
     m 2eksdla "……"
 
-translate Japanese _call_mas_clothes_change_2_6686fb88:
+translate Japanese _call_mas_clothes_change_10_6686fb88:
     m 2rfc "……"
 
-translate Japanese _call_mas_clothes_change_2_6d9bf85e:
+translate Japanese _call_mas_clothes_change_10_6d9bf85e:
     m 2tfc "……"
 
-translate Japanese _call_mas_clothes_change_2_4216e0ad:
+translate Japanese _call_mas_clothes_change_10_4216e0ad:
     m 2tsu "……"
 
 translate Japanese mas_f14_monika_vday_colors_2bc12b16:
@@ -301,7 +301,7 @@ translate Japanese mas_f14_monika_spent_time_with_93727076_1:
 translate Japanese mas_f14_first_kiss_2b4d5369:
     m 6dktuu "……"
 
-translate Japanese _call_monika_kissing_motion_7_1691936e:
+translate Japanese _call_monika_kissing_motion_10_1691936e:
     m 6dkbfa "……"
 
 translate Japanese mas_f14_no_time_spent_c61f257d:
@@ -376,7 +376,7 @@ translate Japanese mas_bday_pool_happy_bday_13fa3f85:
 translate Japanese mas_bday_pool_happy_belated_bday_0840af90:
     m 1sua "ありがとう、[player]！"
 
-translate Japanese _call_monika_zoom_transition_reset_2_e612037c:
+translate Japanese _call_monika_zoom_transition_reset_5_e612037c:
     m "……"
 
 translate Japanese mas_bday_surprise_party_reaction_end_370d37c9:

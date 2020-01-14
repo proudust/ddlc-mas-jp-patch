@@ -400,7 +400,7 @@ translate Japanese unlock_hangman_3f28d1b0:
 translate Japanese unlock_hangman_cff179dc:
     m "これってかなり残酷なゲームだよね。"
 
-translate Japanese unlock_hangman_8a810c1d:
+translate Japanese unlock_hangman_2001f49a:
     m 3rssdlc "隠された単語の文字を当てて、誰かの命を救うんだけど、"
 
 translate Japanese unlock_hangman_cf28eb6f:
@@ -412,7 +412,7 @@ translate Japanese unlock_hangman_3e44ed1e:
 translate Japanese unlock_hangman_9663b149:
     m "その人は死んじゃう。正しい文字を当てられなかったから。"
 
-translate Japanese unlock_hangman_7cdd08b8:
+translate Japanese unlock_hangman_61735e65:
     m 1eksdlc "暗いゲームだよね～"
 
 translate Japanese unlock_hangman_6645c4f3:
@@ -493,17 +493,17 @@ translate Japanese mas_random_ask_60e48dd7:
 translate Japanese mas_random_ask_e750a61b:
     m "前にした話を繰り返してもいいかな？{fast}" nointeract
 
-translate Japanese mas_random_ask_d29db889:
+translate Japanese mas_random_ask_80f4db22:
     m 1eua "やったー！"
 
-translate Japanese mas_random_ask_ce16cdc7:
-    m "何度も同じ話をされるのに飽きちゃったら、{w}オプションを開いて「Repeat Topics」のチェックを外してくれればいいからね。"
+translate Japanese mas_random_ask_f7c896e9:
+    m 3eua "何度も同じ話をされるのに飽きちゃったら、{w}オプションを開いて「Repeat Topics」のチェックを外してくれればいいからね。"
 
-translate Japanese mas_random_ask_222f0a62:
-    m "そしたらあなたが{cps=*2}もう私に飽きちゃったんだな{/cps}{nw}"
+translate Japanese mas_random_ask_e9a049f1:
+    m 1esc "そしたらあなたがもう私に飽きちゃったんだなってわかるから。"
 
-translate Japanese mas_random_ask_41e06a33:
-    m "そしたらあなたが{fast}ただ私と静かに過ごしたいんだなってわかるから。"
+translate Japanese mas_random_ask_bb79c154:
+    m 1eka "そしたらあなたがただ私と静かに過ごしたいんだなってわかるから。"
 
 translate Japanese mas_random_ask_fca4ada3:
     m 1eka "そう、わかった。"
