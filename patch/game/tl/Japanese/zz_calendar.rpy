@@ -1,3 +1,9 @@
+translate Japanese _first_time_calendar_use_9c5ff161:
+    m 1eub "あっ、また可愛いカレンダーを見たいのかな、[player]君？"
+
+translate Japanese _first_time_calendar_use_6b069f8b:
+    m 3hua "あなたの誕生日とか大事なイベントを覚えておくのに助かってるんだよね、えへへ～"
+
 translate Japanese _first_time_calendar_use_72782367:
     m 1eub "あっ、壁の可愛いカレンダーに気づいたみたいだね、[player]君。"
 

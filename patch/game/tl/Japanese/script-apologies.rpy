@@ -28,17 +28,11 @@ translate Japanese monika_playerapologizes_14f172d2:
 translate Japanese monika_playerapologizes_0bd97190:
     m 6ckc "……"
 
-translate Japanese monika_playerapologizes_1512c6f3:
-    m 1hua "えへへ、そんな謝ることなんて何もないよ～"
-
-translate Japanese monika_playerapologizes_eb3361c1:
-    m 1eka "あなたが何を謝りたかったかはよくわからないけど……でも、気に病むものじゃないってことはわかったから。"
-
-translate Japanese monika_playerapologizes_34279513:
-    m 1rkc "何か言いたいことがあったの、[player]君？"
-
-translate Japanese monika_playerapologizes_e612037c:
+translate Japanese monika_playerapologizes_0bd97190_1:
     m "……"
+
+translate Japanese monika_playerapologizes_2b59356a:
+    m 1rkc "何か言いたいことがあったの、[player]君？"
 
 translate Japanese mas_apology_generic_b17560b9:
     m 1ekc "……{w=1}あっ。"
@@ -159,4 +153,7 @@ translate Japanese strings:
     new "謝りたい"
 
     old "...for something else."
-    new "……他の何かのために"
+    new "……あんなことをしてしまって"
+
+    old "...for calling you a bad name."
+    new "……酷い名前で呼んでしまったことを"

@@ -142,8 +142,8 @@ translate Japanese mas_mood_tired_f4523d7c:
 translate Japanese mas_mood_tired_4f0d5124:
     m 3euc "睡眠不足がもたらす健康障害に関する研究を耳にした事があるわ。"
 
-translate Japanese mas_mood_tired_b8ed641f:
-    m 3hua "とても酷い影響が出るかもしれないのよ、[player]君。"
+translate Japanese mas_mood_tired_6d05182f:
+    m 3ekd "とても酷い影響が出るかもしれないのよ、[player]君。"
 
 translate Japanese mas_mood_tired_aecec0f1:
     m 1eka "だから、お願いだからちゃんと休息を取るのよ？ 私を安心させるためだと思って！"
@@ -190,7 +190,7 @@ translate Japanese mas_mood_angry_26d756d1:
 translate Japanese mas_mood_angry_2114d5ca:
     m 3eua "自分を落ち着かせる為に私やっている事を試してみましょう、[player]君。"
 
-translate Japanese mas_mood_angry_7a34958a:
+translate Japanese mas_mood_angry_0ec31fc6:
     m 3eub "あなたにも効くと良いのだけど。"
 
 translate Japanese mas_mood_angry_e41f812c:
