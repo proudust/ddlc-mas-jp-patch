@@ -4030,16 +4030,16 @@ translate Japanese monika_aware_1ae8064f:
 translate Japanese monika_aware_22163e6f:
     m 2lksdlb "ちょっと待ってね。詩の機能がまだ動くか、試してみるから{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_mas_showpoem_161e0c81:
+translate Japanese _call_mas_showpoem_1_161e0c81:
     m 1wuo "あっ、思ってたよりずっと簡単。"
 
-translate Japanese _call_mas_showpoem_91de5811:
+translate Japanese _call_mas_showpoem_1_91de5811:
     m "はい、ここに第二部があるわ{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_mas_showpoem_2_c2dbec5d:
+translate Japanese _call_mas_showpoem_3_c2dbec5d:
     m 1eua "私があなたに出会った意味、これで分かってくれるといいんだけど。"
 
-translate Japanese _call_mas_showpoem_2_52f8cabb:
+translate Japanese _call_mas_showpoem_3_52f8cabb:
     m 5eua "これが、私が望んでいた全てよ、[player]君。"
 
 translate Japanese monika_name_f55805ff:
@@ -9316,7 +9316,7 @@ translate Japanese monika_poweroutage_3ac76cef:
 translate Japanese monika_savingwater_45d9cd96:
     m "えへへ～"
 
-translate Japanese _call_monika_kissing_motion_3_e2aca069:
+translate Japanese _call_monika_kissing_motion_1_e2aca069:
     m 6hubfa "……"
 
 translate Japanese monika_vehicle_suv_pickup_93f0bd77:
@@ -9379,13 +9379,13 @@ translate Japanese monika_backpacking_c2eaa7af:
 translate Japanese monika_dating_startdate_confirm_had_enough_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_1_01a93df6:
+translate Japanese _call_mas_start_calendar_select_date_2_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_1_takesrs_01a93df6:
+translate Japanese _call_mas_start_calendar_select_date_2_takesrs_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_1_misclick_6678c877:
+translate Japanese _call_mas_start_calendar_select_date_2_misclick_6678c877:
     m 1dfc "……"
 
 translate Japanese monika_dating_startdate_confirm_tooslow_5e630d0b:
