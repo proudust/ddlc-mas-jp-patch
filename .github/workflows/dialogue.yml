@@ -1,0 +1,48 @@
+name: Extract Dialogue
+
+on:
+  push:
+    branches-ignore:
+      - master
+    tags-ignore:
+      - "**"
+    paths:
+      - MonikaModDev
+
+jobs:
+  dialogue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get versions
+        run: |
+          CURRENT_VERSION=v`grep -oP '(?<=define config.version = ").+(?=")' ./patch/game/options.rpy`
+          echo ::set-env name=CURRENT_VERSION::$CURRENT_VERSION
+          NEWEST_VERSION=`curl -sL https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/latest -s | jq .tag_name -r`
+          echo ::set-env name=NEWEST_VERSION::$NEWEST_VERSION
+
+      - name: Extract Dialogue in current version
+        run: |
+          chmod -R +x ./tools/*.sh
+          ./tools/dialogue.sh {{ env.CURRENT_VERSION }}
+          mkdir artifact
+          mv ./dialogue.tab ./artifact/${{ env.CURRENT_VERSION }}_dialogue.tab
+
+      - name: Extract Dialogue in newest version
+        run: |
+          ./tools/dialogue.sh {{ env.NEWEST_VERSION }}
+          mv ./dialogue.tab ./artifact/${{ env.NEWEST_VERSION }}_dialogue.tab
+
+      - name: diff
+        continue-on-error: true
+        run: |
+          diff -u <(cut artifact/${{ env.CURRENT_VERSION }}_dialogue.tab -f 1,2,3,4) --label ${{ env.CURRENT_VERSION }} \
+                  <(cut artifact/${{ env.NEWEST_VERSION }}_dialogue.tab -f 1,2,3,4) --label ${{ env.NEWEST_VERSION }} > artifact/dialogue.diff
+
+      - name: Upload dialogue.tab
+        uses: actions/upload-artifact@v1
+        with:
+          name: dialogue.tab
+          path: artifact
