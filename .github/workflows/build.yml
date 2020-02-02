@@ -49,3 +49,12 @@ jobs:
           asset_path: ./${{ env.ARTIFACT_NAME }}.zip
           asset_name: ${{ env.ARTIFACT_NAME }}.zip
           asset_content_type: application/zip
+
+  check-unused-translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Check unused translates
+        run: chmod -R +x ./tools/*.sh && ./tools/check-unused-translate.sh
