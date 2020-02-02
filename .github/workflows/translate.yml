@@ -22,9 +22,10 @@ jobs:
           rm scripts.zip
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v2
+        uses: proudust/create-pull-request@using-ssh
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           commit-message: ":sparkles: 翻訳の更新"
           title: 翻訳の更新
           body: |
