@@ -1,13 +1,6 @@
-name: Build by Ren'Py 6.99.12.4
+name: Build
 
 on: [push, pull_request]
-
-env:
-  FOLDER_NAME: "DDLC_MAS_JP"
-  # ARTIFACT_NAME: ${{ env.FOLDER_NAME }}_$(git describe --tags)
-  # PATCH_VERSION: $(git describe --tags)
-  DDLC_VERSION: "v1.1.1"
-  MAS_VERSION: "0.10.6"
 
 jobs:
   build:
@@ -19,50 +12,21 @@ jobs:
       - name: Get Git describe version and set to env
         run: |
           git fetch --prune --unshallow
-          echo ::set-env name=PATCH_VERSION::$(git describe --tags)
-          echo ::set-env name=ARTIFACT_NAME::${{ env.FOLDER_NAME }}_$(git describe --tags)
-
-      - name: Checkout submodules
-        run: |
-          auth_header="$(git config --local --get http.https://github.com/.extraheader)"
-          git submodule sync --recursive
-          git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
-
-      - name: Download Monika After Story v0.7.2
-        run: |
-          wget -qO mas.zip https://s3-us-west-2.amazonaws.com/monika-after-story/ddlc/mas.zip
-          unzip -q mas.zip -d mas
-          rm mas.zip
-
-      - name: Marge newest MAS and JP patch
-        run: |
-          cp -fpr MonikaModDev/Monika\ After\ Story/* mas/
-          cp -fpr patch/* mas/
+          PATCH_VERSION=`git describe --tags`
+          MAS_VERSION=`grep -oP '(?<=define config.version = ").+(?=")' ./patch/game/options.rpy`
+          ARTIFACT_NAME=DDLC_MAS_JP_$PATCH_VERSION
+          echo ::set-env name=PATCH_VERSION::$PATCH_VERSION
+          echo ::set-env name=MAS_VERSION::$MAS_VERSION
+          echo ::set-env name=ARTIFACT_NAME::$ARTIFACT_NAME
 
       - name: Build by Ren'Py 6.99.12.4
-        id: build
-        uses: ProjectAliceDev/renpy-build-action@master
-        with:
-          sdk-version: "6.99.12.4"
-          project-dir: "mas"
-        env:
-          SDL_AUDIODRIVER: dummy
-          SDL_VIDEODRIVER: dummy
-
-      - name: Repackage
-        run: |
-          unzip -q $(ls -d ${{ steps.build.outputs.dir }}/*-Mod.zip) -d temp
-          mv temp/$(ls temp | head -n1)/ ${{ env.ARTIFACT_NAME }}/
+        run: chmod -R +x ./tools/*.sh && ./tools/distribute.sh
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v1
         with:
           name: ${{ env.ARTIFACT_NAME }}
           path: ${{ env.ARTIFACT_NAME }}
-
-      - name: Release preparation
-        if: startsWith(github.ref, 'refs/tags/')
-        run: zip -q -r ${{ env.ARTIFACT_NAME }}.zip ${{ env.ARTIFACT_NAME }}/
 
       - name: Create Release
         if: startsWith(github.ref, 'refs/tags/')
