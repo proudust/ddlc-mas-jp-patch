@@ -7,8 +7,8 @@ translate Japanese mas_hangman_game_select_diff_0176af25:
 translate Japanese mas_hangman_game_select_diff_9f2bfa77:
     m "難易度を選んでね。{fast}"
 
-translate Japanese mas_hangman_game_loop_c01c61c2:
-    m 1eua "まずは単語を考えるね……"
+translate Japanese mas_hangman_game_loop_6a1c52fe:
+    m 1eua "まずは単語を考えるね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_hangman_game_loop_a447b1ab:
     m "よし、考えたよ！"

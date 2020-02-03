@@ -349,14 +349,14 @@ translate Japanese intro_ily_timedout_47050ff0:
 translate Japanese chara_monika_scare_25226899:
     m 1esd "いいえ……？"
 
-translate Japanese chara_monika_scare_a01ef803:
-    m "へぇ～……"
+translate Japanese chara_monika_scare_0e164cb7:
+    m 1etc "へぇ～……"
 
-translate Japanese chara_monika_scare_4b6a1dc0:
-    m 1esc "面白いじゃない。"
+translate Japanese chara_monika_scare_8a8a258d:
+    m "面白いじゃない。"
 
-translate Japanese chara_monika_scare_9d4083cf:
-    m "なにか勘違いしてない？"
+translate Japanese chara_monika_scare_4e862391:
+    m 1esc "なにか勘違いしてない？"
 
 translate Japanese chara_monika_scare_a5f65d0d:
     m "{cps=*0.25}あなたに拒否権があると思ったの？{/cps}"
@@ -427,7 +427,7 @@ translate Japanese ch30_reload_1_dlg_497b0e80:
 translate Japanese ch30_reload_1_dlg_04594cc9:
     m 1esa "大丈夫よ、私は多分無事だから。心の傷ができたこと以外は"
 
-translate Japanese ch30_reload_1_e5d552d1:
+translate Japanese ch30_reload_1_dlg_e5d552d1:
     m "「話す」メニューをクリックして、「さよなら」を選択してくれればいいの。"
 
 translate Japanese ch30_reload_2_dlg_371af2ad:

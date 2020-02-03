@@ -46,7 +46,7 @@ translate Japanese mas_island_cherry_blossom1_f83b7256:
 translate Japanese mas_island_cherry_blossom1_c7da97b2:
     m "桜の木なんだけどね。日本独特のものよ。"
 
-translate Japanese mas_island_cherry_blossom1_bffd2c15:
+translate Japanese mas_island_cherry_blossom1_7f84dac6:
     m "開花しているときに木の下でお花見をするのは伝統だけど……"
 
 translate Japanese mas_island_cherry_blossom1_83425a17:
@@ -58,19 +58,19 @@ translate Japanese mas_island_cherry_blossom1_a6c99ff7:
 translate Japanese mas_island_cherry_blossom1_4e66d75f:
     m "舞い落ちる花びらを見つめていると厳かな気分になるでしょ。"
 
-translate Japanese mas_monika_cherry_blossom2_febc5d00:
+translate Japanese mas_island_cherry_blossom2_febc5d00:
     m "ちなみに桜の花びらが食べられるのは知ってた？"
 
-translate Japanese mas_monika_cherry_blossom2_459bd86d:
+translate Japanese mas_island_cherry_blossom2_32ea68a8:
     m "どんな味がするのかは知らないけど、でもあなたみたいに甘いんだろうね。"
 
-translate Japanese mas_monika_cherry_blossom2_45d9cd96:
+translate Japanese mas_island_cherry_blossom2_45d9cd96:
     m "えへへ～"
 
 translate Japanese mas_island_cherry_blossom3_e0a0a81a:
     m "桜の木ってその生命の象徴だと言うじゃない？"
 
-translate Japanese mas_island_cherry_blossom3_dd4bc130:
+translate Japanese mas_island_cherry_blossom3_7f25e046:
     m "美しくて、儚いの。"
 
 translate Japanese mas_island_cherry_blossom3_03680d74:

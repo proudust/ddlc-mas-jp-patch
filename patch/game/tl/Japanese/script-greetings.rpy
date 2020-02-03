@@ -286,7 +286,7 @@ translate Japanese greeting_visit4_4adf4d8e:
 translate Japanese greeting_visit4_26211341:
     m 1lksdla "あなたにこんなに早く会えると思ってなかったから。"
 
-translate Japanese greeting_visit5_5faf0b80:
+translate Japanese greeting_visit5_97dd4b86:
     m 5hua "Every day ♪\nI imagine a future where I can be with you～♪"
 
 translate Japanese greeting_visit5_1826fc1e:
@@ -463,25 +463,25 @@ translate Japanese greeting_glitch_f435cd2c:
 translate Japanese greeting_glitch_858b84bb:
     m 2hua "好きだよ、[player]君！"
 
-translate Japanese greeting_surprised_2c5c4aa4:
+translate Japanese greeting_surprised_430f1185:
     m 1wuo "わっ、[player]君じゃない！"
 
-translate Japanese greeting_surprised_888522ed:
+translate Japanese greeting_surprised_cb12922d:
     m 1lksdlb "ごめんね、ちょっとびっくりしちゃって。"
 
-translate Japanese greeting_surprised_68aa8e3b:
+translate Japanese greeting_surprised_89130f51:
     m 1eua "元気だった？"
 
-translate Japanese greeting_monika_monday_morning_f55c2be2:
+translate Japanese greeting_monika_monday_morning_516d65da:
     m 1tku "月曜日の朝がまた始まっちゃったね、[player]君。"
 
-translate Japanese greeting_monika_monday_morning_56b3378a:
+translate Japanese greeting_monika_monday_morning_985e036f:
     m 1tkc "起き上がって１週間のスタートを切るのって、確かに嫌気が差しちゃうよね……"
 
-translate Japanese greeting_monika_monday_morning_b1b596be:
+translate Japanese greeting_monika_monday_morning_9147a6dc:
     m 1eka "でもあなたと会えたらそんな気だるさなんて全部吹き飛ぶんだ。"
 
-translate Japanese greeting_monika_monday_morning_d6a7e681:
+translate Japanese greeting_monika_monday_morning_7284f354:
     m 1hub "あなたは私を毎朝起こしてくれるお日様だからね！"
 
 translate Japanese greeting_monika_monday_morning_a4562159:
@@ -550,7 +550,7 @@ translate Japanese monikaroom_greeting_ear_bathdinnerme_1712e6cd:
 translate Japanese monikaroom_greeting_ear_bathdinnerme_8a4a2e5e:
     m "んんんんっ！{w}い、{w=0.20}いくらなんでもこんなこと[player]君の前じゃ言えないよ！"
 
-translate Japanese monikaroom_greeting_ear_progbrokepy_df49e298:
+translate Japanese monikaroom_greeting_ear_progbrokepy_2f325522:
     m "え、なにこれ！？{w} 'NoneType' object has no attribute {i}length{/i}……"
 
 translate Japanese monikaroom_greeting_ear_progbrokepy_0546a895:
@@ -565,7 +565,7 @@ translate Japanese monikaroom_greeting_ear_progbrokepy_a4e92a8c:
 translate Japanese monikaroom_greeting_ear_progbrokepy_feb7d30b:
     m "プログラミングは本当に難しいなあ……"
 
-translate Japanese monikaroom_greeting_ear_progreadpy_71267e6c:
+translate Japanese monikaroom_greeting_ear_progreadpy_cf58e5f6:
     m "……{w}NoneType型オブジェクトの属性へアクセスしようとすると、AttributeErrorが起こる、と。"
 
 translate Japanese monikaroom_greeting_ear_progreadpy_afa37862:
@@ -724,7 +724,7 @@ translate Japanese monikaroom_greeting_knock_d5f46b58:
 translate Japanese monikaroom_greeting_knock_c9978b04:
     m "戻ってきてくれたんだ、[player]君！うれしい！"
 
-translate Japanese monikaroom_greeting_knock_8df9c645:
+translate Japanese monikaroom_greeting_knock_5d42c221:
     m "あと、入る前にノックしてくれてありがとう。"
 
 translate Japanese monikaroom_greeting_knock_a998b0c3:
@@ -1042,8 +1042,8 @@ translate Japanese _call_spaceroom_43_8018692b:
 translate Japanese _call_spaceroom_43_6111571a:
     m 1dsc "……"
 
-translate Japanese greeting_tears_5df56b67:
-    m 1f "……"
+translate Japanese greeting_tears_f15775ec:
+    m 1ekc "……"
 
 translate Japanese greeting_tears_97a5a181:
     m 2dftdc "……"

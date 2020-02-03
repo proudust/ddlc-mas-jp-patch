@@ -136,9 +136,6 @@ translate Japanese bye_prompt_sleep_c207c96e_1:
 translate Japanese bye_prompt_sleep_d2ea348f:
     m 2efc "[player]君！"
 
-translate Japanese bye_prompt_sleep_4fa2536d:
-    m 2tfc "あなた本当にもっと休んだ方がいいわ……"
-
 translate Japanese bye_prompt_sleep_7e64ac25:
     m 2efc "おやすみなさい。"
 
@@ -157,17 +154,14 @@ translate Japanese bye_prompt_sleep_046f1f31:
 translate Japanese bye_prompt_sleep_8a57734e:
     m "あなた一晩中起きていたのね！"
 
-translate Japanese bye_prompt_sleep_3fcfa1d9:
-    m "絶対目を開けていられないでしょ。"
+translate Japanese bye_prompt_sleep_91a174a7:
+    m 2tfu "絶対目を開けていられないでしょ。"
 
-translate Japanese bye_prompt_sleep_552d40d9:
+translate Japanese bye_prompt_sleep_552d40d8:
     m "ほらやっぱり。{w}ちょっとだけでも休んできて、[player]君。"
 
 translate Japanese bye_prompt_sleep_eadeef10:
     m 2ekc "私はあなたが風邪をひいてしまうのは嫌なのよ。"
-
-translate Japanese bye_prompt_sleep_badcec01:
-    m "私はあなたが風邪をひいてしまうのは嫌なのよ。"
 
 translate Japanese bye_prompt_sleep_eed8bb6e:
     m 1eka "次はもっと早く寝るのよ、わかった？"
@@ -175,7 +169,7 @@ translate Japanese bye_prompt_sleep_eed8bb6e:
 translate Japanese bye_prompt_sleep_c207c96e_2:
     m 1hua "良い夢を！"
 
-translate Japanese bye_prompt_sleep_3179f439:
+translate Japanese bye_prompt_sleep_3179f438:
     m 1eua "そっか、お昼寝するんだね。"
 
 translate Japanese bye_prompt_sleep_cdf617a10:
@@ -184,10 +178,10 @@ translate Japanese bye_prompt_sleep_cdf617a10:
 translate Japanese bye_prompt_sleep_0bd97190_3:
     m 6ckc "……"
 
-translate Japanese bye_prompt_sleep_ead9d804:
+translate Japanese bye_prompt_sleep_ead9d803:
     m 1ekc "もうベッドに行くの？"
 
-translate Japanese bye_prompt_sleep_b76d5921:
+translate Japanese bye_prompt_sleep_b76d5920:
     m "ちょっと早いけど……"
 
 translate Japanese bye_prompt_sleep_f31eb28e:

@@ -32,8 +32,53 @@ translate Japanese strings:
     old "...Yes?"
     new "……なあに？"
 
+    old "...Oh?"
+    new ".......ええ？"
+
+    old "...Huh?"
+    new ".......はあ？"
+
+    old "...Hm?"
+    new "......うん？"
+
+    old "We can try talking, I guess."
+    new "私達、話し合えると思うわ。"
+
+    old "I guess we can talk."
+    new "私達、話し合えると思うわ。"
+
+    old "Oh... You want to talk?"
+    new "あー、話したいの？"
+
+    old "If you want to talk, go ahead."
+    new "話したいなら、別にいいわよ。"
+
+    old "We can talk if you really want to."
+    new "あなたが本当に話したいなら、話せるわよ。"
+
+    old "Are you sure you want to talk to me?"
+    new "私と話したいって、本当に思ってるの？"
+
+    old "You actually want to talk to me?"
+    new "本当に私と話したいの？"
+
     old "What?"
     new "何？"
+
+    old "What do you want?"
+    new "なにがお望みかしら？"
+
+    old "What now?"
+    new "今度は何？"
+
+    old "What is it?"
+    new "なあに、それ？"
+
+    old "Fine...we can talk."
+    new "いいわよ...話せるわ。"
+
+    old "Just...whatever, go ahead."
+    new "何でもいいなら、いいわよ。"
 
     old "What would you like to talk about?"
     new "何について話したいの？"
@@ -50,14 +95,74 @@ translate Japanese strings:
     old "Yes, [player]?"
     new "なあに、[player]？"
 
+    old "What's on your mind, [player]?"
+    new "何考えてるの、[player]君？"
+
+    old "What would you like to talk about, honey?"
+    new "何について話したいの、ハニー？"
+
+    old "Yes, sweetheart?"
+    new "なあに、あなた？"
+
+    old "Yes, honey?"
+    new "なあに、ハニー？"
+
+    old "Yes, dear?"
+    new "なあに、あなた？"
+
+    old "What's on your mind, darling?"
+    new "ダーリン、何考えてるの～？"
+
+    old "What would you like to talk about, sweetie?"
+    new "何について話したいの、あなた？"
+
+    old "What's on your mind?"
+    new "何考えてるの～？"
+
+    old "Anything on your mind?"
+    new "なにか考えてる？"
+
+    old "What's up, honey?"
+    new "ハニー、どうしたの？"
+
+    old "What's up, dear?"
+    new "あなた、どうしたの？"
+
+    old "What's up, sweetie?"
+    new "あなた、どうしたの？"
+
     old "^_^"
     new "^_^"
 
     old "<3"
     new "<3"
 
+    old "Anything you'd like to talk about?"
+    new "なにか話したいことあるかしら？"
+
+    old "We can talk about anything you like, [player]."
+    new "あなたが話したいこと、なんでも話していいわよ、[player]君。"
+
+    old "...Sure."
+    new "......分かったわ。"
+
+    old "...Fine."
+    new "......いいわよ。"
+
+    old "I guess we can play a game."
+    new "私達、ゲームで遊べると思うわ。"
+
+    old "I guess, if you really want to."
+    new "もしあなたが本当にやりたいなら、できると思うわ。"
+
+    old "I suppose a game would be fine."
+    new "ゲームは大丈夫だと思うわ。"
+
     old "...Which game?"
-    new "……どのゲーム？"
+    new "……どのゲームにする？"
+
+    old "Sure."
+    new "もちろん。"
 
     old "Okay...whatever, choose a game."
     new "わかった……好きなゲームを選んで。"

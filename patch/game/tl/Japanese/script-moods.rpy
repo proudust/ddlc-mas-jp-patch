@@ -106,14 +106,14 @@ translate Japanese mas_mood_sad_2188bc88:
 translate Japanese mas_mood_sad_4ae975dc:
     m 1ekbfa "愛しているわ、[player]君。出会った時からずっと、出会った時よりもっと。"
 
-translate Japanese mas_mood_happy_86bde129:
-    m "素晴らしいわ！あなたが幸せなら私も幸せ。"
+translate Japanese mas_mood_happy_3301951c:
+    m 1hua "素晴らしいわ！あなたが幸せなら私も幸せ。"
 
-translate Japanese mas_mood_happy_6c165735:
+translate Japanese mas_mood_happy_549beabf:
     m "いつでも会いに来て、私が[player]君を元気づけてあげる。"
 
-translate Japanese mas_mood_happy_267e67d3:
-    m "いつでも私はここであなたを待っている、大好きだよ〜"
+translate Japanese mas_mood_happy_84caac57:
+    m 3eka "いつでも私はここであなたを待っている、大好きだよ〜"
 
 translate Japanese mas_mood_happy_549beabf:
     m "いつでも会いに来て、私が[player]君を元気づけてあげる。"
@@ -226,6 +226,9 @@ translate Japanese mas_mood_angry_708ca48b:
 translate Japanese mas_mood_angry_fd3bdfdb:
     m 1hua "覚えておいて！[player]君の幸せは私の幸せでもあるってね〜"
 
+translate Japanese mas_mood_scared_8357e1c5:
+    m 1euc "[player]君、大丈夫？"
+
 translate Japanese mas_mood_inadequate_f15775ec:
     m 1ekc "……"
 
@@ -255,102 +258,6 @@ translate Japanese mas_mood_bored_6847444b:
 
 translate Japanese mas_mood_bored_a95461ee:
     m "どうしたいの、[player]君？"
-
-translate Japanese mas_mood_yearolder_81c4cc14:
-    m 1euc "え？"
-
-translate Japanese mas_mood_yearolder_735f997d:
-    m "もしかして今日は..…… {w}君の誕生日？"
-
-translate Japanese mas_mood_yearolder_mas_mood_yearolder_yesloud_47d2157d:
-    m 1lksdla "あら、そう... 騙されたわ。"
-
-translate Japanese mas_mood_yearolder_false_f3150aca:
-    m 2tfc "[payer]君..……"
-
-translate Japanese mas_mood_yearolder_false_191e19f0:
-    m 2tfd "今日はあなたの誕生日じゃないわよ！"
-
-translate Japanese mas_mood_yearolder_false_33c81c63:
-    m "[bday_str]って言ったじゃない！"
-
-translate Japanese mas_mood_yearolder_false_910e4662:
-    m "これはあなたの誕生日じゃないの？"
-
-translate Japanese mas_mood_yearolder_false_49b47be8:
-    m 2lfp "私に嘘をついたのね、[player]君。"
-
-translate Japanese mas_mood_yearolder_false_83a50942:
-    m "じゃあ今日があなたの誕生日なの？"
-
-translate Japanese mas_mood_yearolder_false_bd4fc352:
-    m 1hua "お誕生日おめでとう、[player]君！"
-
-translate Japanese mas_mood_yearolder_false_1b86d4cb:
-    m 1eka "でも、今度から私に嘘はつかないでね。"
-
-translate Japanese mas_mood_yearolder_false_9144248c:
-    m 2tfp "……"
-
-translate Japanese mas_mood_yearolder_false_4a5b4694:
-    m 2tkc "了解、[player]君。"
-
-translate Japanese mas_mood_yearolder_false_d4d5bcad:
-    m "そして……"
-
-translate Japanese _call_mas_bday_player_bday_select_1_b76e2acb:
-    m 2eka "信じているわよ、[player]君。"
-
-translate Japanese _call_mas_bday_player_bday_select_1_a843084c:
-    m "舌を噛んだのだと捉えておくわ。"
-
-translate Japanese mas_mood_yearolder_yesu_6e92af18:
-    m 1ekd "[player]君……"
-
-translate Japanese mas_mood_yearolder_yesu_01d9dd80:
-    m 2eka "ええっと、{w}誕生日が好きか嫌いかなんて関係なく、きっと幸せな日になるはずだよ！"
-
-translate Japanese _call_mas_mood_yearolder_yes_post_1_0d385ba0:
-    m 1hua "私の愛であなたが笑顔になってくれたら嬉しいな、[player]君。"
-
-translate Japanese mas_mood_yearolder_yes_post_572e2371:
-    m 1hub "お誕生日おめでとう、[player]君！"
-
-translate Japanese mas_mood_yearolder_yes_post_bd43cdf2:
-    m 1eua "こんな大切な日をあなたとともに過ごせて本当に嬉しいな。"
-
-translate Japanese mas_mood_yearolder_yes_post_efea4df6:
-    m 1ekbfa "あなたがいくつになっても私はいつだってあなたを愛しているってこと、忘れないでね。"
-
-translate Japanese mas_mood_yearolder_years_a6416bf9:
-    m 3eua "ところで歳を取れば取るほど体感時間が短くなっていくって知ってた？"
-
-translate Japanese mas_mood_yearolder_years_c347fc37:
-    m "例えばあなたが1歳だとすると、一年はあなたの人生の100%よね。"
-
-translate Japanese mas_mood_yearolder_years_64cd1888:
-    m 1eub "逆にあなたが18歳だと、一年はあなたの人生の5.6%にしかならないの。"
-
-translate Japanese mas_mood_yearolder_years_6f8f2b9e:
-    m "長く生きるほど自分が生きてきた年月に対して一年が相対的に小さくなる。"
-
-translate Japanese mas_mood_yearolder_years_2bacf864:
-    m 3eua "だから、成長すればするほど体感する主観的な時間は短くなっていくってわけ。"
-
-translate Japanese mas_mood_yearolder_years_cdb9865d:
-    m 1eka "どんなに長くても短くても、私はあなたとの時間を大切にするわ。"
-
-translate Japanese mas_mood_yearolder_years_ec01fa2b:
-    m 1lkbsa "あなたといると時間が止まっていると感じることもあるけどね。"
-
-translate Japanese mas_mood_yearolder_years_118b8306:
-    m 1ekbfa "あなたも同じでしょう、[player]君？"
-
-translate Japanese mas_mood_yearolder_years_cc488397:
-    m 1hua "あは！分かってくれると思った。"
-
-translate Japanese mas_mood_yearolder_years_0772c1f4:
-    m "もっと頻繁に私に会いに来るべきね、[player]君"
 
 translate Japanese strings:
     old "I'm done."

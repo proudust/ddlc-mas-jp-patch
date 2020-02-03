@@ -64,7 +64,7 @@ translate Japanese mas_chess_save_multi_dlg_c739d190:
 translate Japanese mas_chess_save_multi_dlg_0f026494:
     m 1eua "おっけ～"
 
-translate Japanese mas_chess_savegame_36a6422e:
+translate Japanese mas_chess_savegame_8375815b:
     m 1eka "「[save_name]」というファイル名のセーブデータがもうあるけど、"
 
 translate Japanese mas_chess_savegame_c70564be:
@@ -97,11 +97,8 @@ translate Japanese mas_chess_pgn_explain_a013343e:
 translate Japanese mas_chess_pgn_explain_c46167fd:
     m 1hua "いぇ～い！"
 
-translate Japanese mas_chess_dlg_qs_lost_start_c6f8801a:
-    m 2lksdlb "えぇっと、[player]君……{w}どうやら前回セーブするときに失敗しちゃったみたいで、"
-
-translate Japanese mas_chess_dlg_qs_lost_start_602556fb:
-    m "だから前回のデータはもう開けないの。"
+translate Japanese mas_chess_dlg_qs_lost_start_710d3dce:
+    m 2lksdlb "えぇっと、[player]君……{w}どうやら前回セーブするときに失敗しちゃったみたいで、だから前回のデータはもう開けないの。"
 
 translate Japanese mas_chess_dlg_qs_lost_gen_a7509a9c:
     m 1lksdlc "ごめんなさい……"
@@ -424,9 +421,6 @@ translate Japanese mas_chess_dlg_game_monika_win_rekt_1c6cf732:
 translate Japanese mas_chess_dlg_game_monika_win_rekt_05c8cc4a:
     m 1tfu "私を負かすなんて絶対に無理だと思うから。"
 
-translate Japanese mas_chess_dlg_game_monika_win_2_68f27052:
-    m "かなり手を抜いたつもりだったんだけどな～！"
-
 translate Japanese mas_chess_dlg_game_monika_win_2_c3dc3c16:
     m 1hub "本当に楽しいね、[player]君！"
 
@@ -445,8 +439,8 @@ translate Japanese mas_chess_dlg_game_monika_win_20_f394de67:
 translate Japanese mas_chess_dlg_game_monika_win_surr_pre_dbefc636:
     m 1eka "もう、すぐに降参しないでよ～"
 
-translate Japanese _mas_chess_dlggmws3esl_b0e20340:
-    m "[v_quip!t]"
+translate Japanese _mas_chess_dlggmws3esl_977643eb:
+    m 1hub "[v_quip!t]"
 
 translate Japanese mas_chess_dlg_game_monika_win_surr_resolve_b7e5751f:
     m 1tfc "降参するのって決意の弱さの表れだよね……"
@@ -463,8 +457,8 @@ translate Japanese mas_chess_dlg_game_monika_win_surr_trying_b7971a44:
 translate Japanese mas_chess_dlg_game_monika_lose_pre_2463f14c:
     m 2hua "あなたの勝ち！おめでとう。"
 
-translate Japanese _mas_chess_dlggml3esl_c787ef28:
-    m "[v_quip!t]"
+translate Japanese _mas_chess_dlggmw3esl_977643eb:
+    m 1hub "[v_quip!t]"
 
 translate Japanese mas_chess_dlg_game_monika_lose_silly_ee13a19e:
     m 1tku "特にあなたみたいな小細工のできる人がチートなしで勝つだなんて全く信じてないから。まさか信じてほしいとか思ってないよね？"
