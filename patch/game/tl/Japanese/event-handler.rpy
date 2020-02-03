@@ -1,3 +1,18 @@
+translate Japanese mas_bookmarks_unbookmark_loop_3e221f08:
+    m 1eua "分かったわ、[player]君..."
+
+translate Japanese mas_bookmarks_unbookmark_loop_a1ad00d6:
+    m 1eka "他に消したいブックマークはありますか？{nw}"
+
+translate Japanese mas_bookmarks_unbookmark_loop_14ea8b80:
+    m "他に消したいブックマークはありますか？{fast}" nointeract
+
+translate Japanese mas_bookmarks_unbookmark_loop_860d32e6:
+    m 3eua "分かったわ。"
+
+translate Japanese mas_bookmarks_unbookmark_loop_73747bba:
+    m 3hua "すべて完了しました。"
+
 translate Japanese strings:
     old "{b}Unseen{/b}"
     new "{b}未読{/b}"

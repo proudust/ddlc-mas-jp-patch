@@ -1,3 +1,6 @@
+translate Japanese monika_change_background_74680220:
+    m 1hua "もちろん！"
+
 translate Japanese monika_change_background_loop_321f071e:
     m "やってみよう〜"
 

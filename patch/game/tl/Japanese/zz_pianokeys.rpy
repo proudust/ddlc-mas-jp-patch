@@ -4,8 +4,8 @@ translate Japanese mas_piano_start_6251b7f0:
 translate Japanese mas_piano_songchoice_1b611ea5:
     m 1eua "[player]君、こちらで用意した曲にする？それとも自由に弾いてみる？{nw}"
 
-translate Japanese mas_piano_songchoice_1e04847c:
-    m "[player]君、こちらで用意した曲にする？それとも自由に弾いてみる？{fast}"
+translate Japanese mas_piano_songchoice_7f0f2a55:
+    m "[player]君、こちらで用意した曲にする？それとも自由に弾いてみる？{fast}" nointeract
 
 translate Japanese mas_piano_songchoice_e9c7965e:
     m "どの曲にする？"

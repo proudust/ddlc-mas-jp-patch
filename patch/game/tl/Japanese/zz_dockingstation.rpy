@@ -4,7 +4,7 @@ translate Japanese _call_mas_dockstat_first_time_goers_1_0f026494:
 translate Japanese mas_dockstat_first_time_goers_a2d4a9c4:
     m 3eua "monika"
 
-translate Japanese mas_dockstat_first_time_goers_97aec9b9:
+translate Japanese mas_dockstat_first_time_goers_f4796900:
     m "私がゲームを閉じた後なら、どこへでも私を連れていけるわ。"
 
 translate Japanese mas_dockstat_first_time_goers_55e3e275:

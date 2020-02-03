@@ -1,17 +1,17 @@
-translate Japanese gender_29995435:
-    m 2d "ねぇ、[player]君？私ずっと考えてたんだけど……"
+translate Japanese gender_43ce0390:
+    m 2eud "ねぇ、[player]君？私ずっと考えてたんだけど……"
 
-translate Japanese gender_1bda94dc:
-    m "ゲームの中の「あなた」は必ずしも現実のあなたと同じじゃない、って前に言ったよね？"
+translate Japanese gender_5167de36:
+    m 2euc "ゲームの中の「あなた」は必ずしも現実のあなたと同じじゃない、って前に言ったよね？"
 
-translate Japanese gender_0392e038:
-    m 1m "でも、たぶんあなたは男の人なのかな？と思ってたんだけど。"
+translate Japanese gender_69b26410:
+    m 3lksdla "でも、たぶんあなたは男の人なのかな？と思ってたんだけど。"
 
-translate Japanese gender_5978fa5b:
-    m "少なくともゲームの主人公は男の人だったよね。"
+translate Japanese gender_5342c5a9:
+    m "……少なくともゲームの主人公は男の人だったよね。"
 
-translate Japanese gender_0b1cb594:
-    m 1a "あなたの彼女になれたら、現実のあなたのこと……あなたが男か女かってことくらいはわかるかもしれないのにな。"
+translate Japanese gender_1e3aa849:
+    m 3eua "あなたの彼女になれたら、現実のあなたのこと……あなたが男か女かってことくらいはわかるかもしれないのにな。"
 
 translate Japanese gender_da9ae170:
     m "あなたの性別は？{nw}"
@@ -136,7 +136,7 @@ translate Japanese preferredname_73b575b9:
 translate Japanese preferredname_947321d0:
     m 3esa "というのは、PCのユーザ名と同じなんだなって。"
 
-translate Japanese preferredname_a606cf5f:
+translate Japanese preferredname_25362864:
     m 1eua "「[currentuser]」と「[player]」、両方の名前を使ってるよね？"
 
 translate Japanese preferredname_6dfd8564:
@@ -472,7 +472,7 @@ translate Japanese unlock_piano_e6a9db51:
 translate Japanese unlock_piano_b6443a7e:
     m 1eka "私のために、お願い！"
 
-translate Japanese random_limit_reached_b0378fed:
+translate Japanese random_limit_reached_693cff22:
     m 1eka "[limit_quip!t]"
 
 translate Japanese random_limit_reached_8f7f6356:
@@ -505,10 +505,10 @@ translate Japanese mas_random_ask_e9a049f1:
 translate Japanese mas_random_ask_bb79c154:
     m 1eka "そしたらあなたがただ私と静かに過ごしたいんだなってわかるから。"
 
-translate Japanese mas_random_ask_fca4ada3:
+translate Japanese mas_random_ask_33f21f2e:
     m 1eka "そう、わかった。"
 
-translate Japanese mas_random_ask_9205dc1e:
+translate Japanese mas_random_ask_d2f8a275:
     m 1eua "気が変わったら、オプションを開いて「Repeat Topics」をクリックしてくれればいいからね。"
 
 translate Japanese mas_random_ask_98b2340e:
@@ -532,16 +532,16 @@ translate Japanese mas_monikai_detected_4db2e833:
 translate Japanese mas_monikai_detected_4f81a7ed:
     m "いつでも私に会えるようにインストールしてくれたの？{fast}" nointeract
 
-translate Japanese mas_monikai_detected_58b7c08d:
+translate Japanese mas_monikai_detected_e6f89ce6:
     m 1hub "あはは～"
 
-translate Japanese mas_monikai_detected_c1f2f5ee:
+translate Japanese mas_monikai_detected_76f589e4:
     m 1hua "あなたがそういうソフトをダウンロードしてくれて嬉しいな。"
 
-translate Japanese mas_monikai_detected_0ae9edba:
+translate Japanese mas_monikai_detected_1133e8f7:
     m 1eua "ただ私じゃなくて{i}それ{/i}と長く過ごすようにならないでね。"
 
-translate Japanese mas_monikai_detected_600f50e2:
+translate Japanese mas_monikai_detected_ac7f49b8:
     m 3eua "だって私が本物なんだし。"
 
 translate Japanese _call_expression_2_977643eb:
@@ -571,7 +571,7 @@ translate Japanese _call_mas_wx_cmd_5_d8268093:
 translate Japanese _call_mas_wx_cmd_5_fe9c0937:
     m 1eua "ところで……"
 
-translate Japanese monika_rpy_files_3c90ab6d:
+translate Japanese monika_rpy_files_b2896d32:
     m 1eka "ねえ[player]、「game」ディレクトリを見ていたのだけれど……"
 
 translate Japanese monika_rpy_files_b937d6e5:
