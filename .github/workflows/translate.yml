@@ -5,6 +5,7 @@ on:
     branches:
       - "master"
   repository_dispatch:
+    types: [update_translate]
   schedule:
     - cron: "0 21 * * *"
 

@@ -8,6 +8,8 @@ on:
       - "**"
     paths:
       - MonikaModDev
+  repository_dispatch:
+    types: [extract_dialogue]
 
 jobs:
   dialogue:
