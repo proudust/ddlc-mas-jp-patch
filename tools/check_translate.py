@@ -15,11 +15,11 @@ def exec_extract_dialogues(mas_version):
     return True if return_code == 0 else False
 
 def get_dialogues():
-    result = list()
+    result = {}
     with open('dialogue.tab', mode='r') as dialogue_tab:
         for line in dialogue_tab:
             id, attrs, *_ = line.split('\t')
-            result.append((id, attrs))
+            result[id] = attrs
     return result
 
 def get_translate_scripts():
@@ -44,13 +44,13 @@ def finditer_translate_dialogues(string):
 def check_translate(dialogues, translates):
     errors = list()
     for id, attrs in translates:
-        match = [dialogue for dialogue in dialogues if dialogue[0] == id]
+        find_attrs = dialogues.get(id)
 
-        if len(match) == 0:
+        if find_attrs is None:
             errors.append(('id not found', id))
             print('id not found: ' + id)
 
-        elif match[0][1] != attrs:
+        elif find_attrs != attrs:
             errors.append(('attrs unmatch', id, attrs))
             print('attrs unmatch: ' + id + ' ' + attrs)
     return errors
