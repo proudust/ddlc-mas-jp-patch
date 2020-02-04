@@ -20,7 +20,7 @@ translate Japanese _zzpk_ppel_52b51855:
     m 1eua "もう一度やりたい？{nw}"
 
 translate Japanese _zzpk_ppel_32d0248c:
-    m "もう一度やりたい？{fast}"
+    m "もう一度やりたい？{fast}" nointeract
 
 translate Japanese mas_piano_result_default_c9afedae:
     m 1eua "[player]君、これでいい？"

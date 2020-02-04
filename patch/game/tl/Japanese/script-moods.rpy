@@ -44,7 +44,7 @@ translate Japanese mas_mood_sad_d526cd2a:
     m "何かあったの、[player]君？{nw}"
 
 translate Japanese mas_mood_sad_f90a2c33:
-    m "何かあったの、[player]君？{fast}"
+    m "何かあったの、[player]君？{fast}" nointeract
 
 translate Japanese mas_mood_sad_f3338ee6:
     m 1duu "私は悲しい時はいつもこう思うの、太陽は明日も昇るって。"
@@ -74,13 +74,13 @@ translate Japanese mas_mood_sad_74bd46d0:
     m 1eua "あなたが喋っている間は邪魔をしたくないから、終わったら教えてね。{nw}"
 
 translate Japanese mas_mood_sad_a6fe61bd:
-    m "あなたが喋っている間は邪魔をしたくないから、終わったら教えてね。{fast}"
+    m "あなたが喋っている間は邪魔をしたくないから、終わったら教えてね。{fast}" nointeract
 
 translate Japanese mas_mood_sad_9dcfa700:
     m "少しでも気分は良くなった？{nw}"
 
 translate Japanese mas_mood_sad_cf6fdad3:
-    m "少しでも気分は良くなった？{fast}"
+    m "少しでも気分は良くなった？{fast}" nointeract
 
 translate Japanese mas_mood_sad_c7a8700f:
     m 1hua "それは良かった、[player]君! あなたの気が楽になったのなら嬉しいわ。"
@@ -257,7 +257,7 @@ translate Japanese mas_mood_bored_6847444b:
     m "どうしたいの、[player]君？"
 
 translate Japanese mas_mood_bored_a95461ee:
-    m "どうしたいの、[player]君？"
+    m "どうしたいの、[player]君？" nointeract
 
 translate Japanese strings:
     old "I'm done."

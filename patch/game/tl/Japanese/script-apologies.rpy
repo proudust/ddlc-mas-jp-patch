@@ -32,7 +32,7 @@ translate Japanese monika_playerapologizes_0bd97190_1:
     m "……"
 
 translate Japanese monika_playerapologizes_2b59356a:
-    m 1rkc "何か言いたいことがあったの、[player]君？"
+    m 6rkc "何か言いたいことがあったの、[player]君？"
 
 translate Japanese mas_apology_generic_b17560b9:
     m 1ekc "……{w=1}あっ。"

@@ -341,7 +341,7 @@ translate Japanese intro_ily_timedout_5451a915:
     m "[player]君、私のこと好き……{w=0.5}だよね？{nw}"
 
 translate Japanese intro_ily_timedout_820a683c:
-    m "[player]君、私のこと好き……だよね？{fast}"
+    m "[player]君、私のこと好き……だよね？{fast}" nointeract
 
 translate Japanese intro_ily_timedout_47050ff0:
     m 1hua "あなたも私と同じ気持ちで、すごくうれしい！"
