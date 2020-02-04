@@ -50,11 +50,18 @@ jobs:
           asset_name: ${{ env.ARTIFACT_NAME }}.zip
           asset_content_type: application/zip
 
-  check-unused-translate:
+  check-translate:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
 
-      - name: Check unused translates
-        run: chmod -R +x ./tools/*.sh && ./tools/check-unused-translate.sh
+      - name: Check translates
+        run: chmod -R +x ./tools/*.sh && python3 -c 'from tools.check_translate import main; main()'
+
+      - if: failure()
+        name: Upload build artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: Check translates error report
+          path: ./error_report.tab
