@@ -146,7 +146,7 @@ translate Japanese preferredname_dd04b984:
     m "それとも他の名前で呼んだほうがいい？{nw}"
 
 translate Japanese preferredname_a49be36a:
-    m "それとも他の名前で呼んだほうがいい？{fast}"
+    m "それとも他の名前で呼んだほうがいい？{fast}" nointeract
 
 translate Japanese preferredname_574f5cfc:
     m 1hua "OK、でも[player]君の気持ちが変わったら 「なんでもない」を選択してね。"
@@ -212,7 +212,7 @@ translate Japanese monika_changename_987e4abd:
     m 1eua "名前を変えたいの？{nw}"
 
 translate Japanese monika_changename_a2a18f86:
-    m "名前を変えたいの？{fast}"
+    m "名前を変えたいの？{fast}" nointeract
 
 translate Japanese monika_changename_aab85b1d:
     m 1eua "気が変わったら「なんでもない」を選んでね。"

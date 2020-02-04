@@ -269,7 +269,7 @@ translate Japanese mas_pong_dlg_sorry_assuming_ddf84284:
     m 3eka "少し休憩したいの、[player]君？{nw}"
 
 translate Japanese mas_pong_dlg_sorry_assuming_d8384ddb:
-    m "少し休憩したいの、[player]君？{fast}"
+    m "少し休憩したいの、[player]君？{fast}" nointeract
 
 translate Japanese mas_pong_dlg_sorry_assuming_9d33b26d:
     m 1eka "わかったよ、[player]君。"

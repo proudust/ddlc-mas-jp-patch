@@ -5,7 +5,7 @@ translate Japanese mas_hangman_game_select_diff_0176af25:
     m "難易度を選んでね。{nw}"
 
 translate Japanese mas_hangman_game_select_diff_9f2bfa77:
-    m "難易度を選んでね。{fast}"
+    m "難易度を選んでね。{fast}" nointeract
 
 translate Japanese mas_hangman_game_loop_6a1c52fe:
     m 1eua "まずは単語を考えるね…{w=0.5}…{w=0.5}{nw}"
@@ -92,7 +92,7 @@ translate Japanese mas_hangman_game_loop_ae7c5a73:
     m "もう一度やりたい？{nw}"
 
 translate Japanese mas_hangman_game_loop_32d0248c:
-    m "もう一度やりたい？{fast}"
+    m "もう一度やりたい？{fast}" nointeract
 
 translate Japanese mas_hangman_dlg_game_end_long_a3194e1a:
     m 1euc "[store.mas_hangman.game_name!t]は実際すごく難しいゲームなんだよね。"
