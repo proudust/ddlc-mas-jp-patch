@@ -38,6 +38,7 @@ if [ ! -d /tmp/mas-$MAS_VERSION ]; then
   fi
   wget -qO /tmp/mas-$MAS_VERSION.zip --header='Accept: application/octet-stream' https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/assets/$ASSET_ID
   cp -fpr /tmp/ddlc/ /tmp/mas-$MAS_VERSION/
+  rm -f /tmp/mas-$MAS_VERSION/game/*.rpy /tmp/mas-$MAS_VERSION/game/*.rpyc
   unzip -oq /tmp/mas-$MAS_VERSION.zip -d /tmp/mas-$MAS_VERSION/game/
   rm /tmp/mas-$MAS_VERSION.zip
 
