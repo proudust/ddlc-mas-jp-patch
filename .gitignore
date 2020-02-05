@@ -4,17 +4,22 @@ renpy/
 *.rpa
 *.rpy[bc]
 *.save
+*.tab
 log.txt
 errors.txt
 traceback.txt
 persistent
 screenshot*.png
 
+# Python
+__pycache__/
+
 # VSCode
 .history/
 .vscode/
 
 # ddlc-mas-jp-patch
+/DDLC_MAS_JP_*
 /ddlc/
 /game/
 /log/
