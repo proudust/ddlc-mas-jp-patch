@@ -649,6 +649,15 @@ translate Japanese _call_mas_start_calendar_select_date_e0d838f4:
 translate Japanese _call_mas_start_calendar_select_date_b969541f:
     m "[new_bday_str]ね？この日付は絶対に忘れないわ{fast}" nointeract
 
+translate Japanese _call_mas_start_calendar_select_date_0503f9cb:
+    m 1hua "それじゃ、決まりね！"
+
+translate Japanese _call_mas_start_calendar_select_date_5516d7fb:
+    m 1hksdrb "あは、そうだと思った。"
+
+translate Japanese _call_mas_start_calendar_select_date_1643033e:
+    m 1eka "もう一度～"
+
 translate Japanese _call_mas_start_calendar_select_date_ee3f0a53:
     m 1euc "ああ、違っちゃってた？"
 

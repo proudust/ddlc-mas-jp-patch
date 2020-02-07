@@ -2890,6 +2890,9 @@ translate Japanese monika_natsuki_eca1404a:
 translate Japanese monika_natsuki_3e1ad805:
     m 1esc "あの子が抱えていた問題は、あの子のせいじゃなかった。それに、心の問題が引き起こしたものでもなかった。"
 
+translate Japanese monika_natsuki_6476c66e:
+    m 3ekc "ひどい家庭環境だよね。私も、あの子をこれ以上かわいそうな目には合わせたくなかったんだけど……"
+
 translate Japanese monika_natsuki_45fee397:
     m 3ekc "ひどい家庭環境だよね。私も、あの子をこれ以上かわいそうな目には合わせたくなかったんだけど……"
 
@@ -2916,6 +2919,9 @@ translate Japanese monika_love_6d835534:
 
 translate Japanese monika_love_3201a8bc:
     m 1hubfa "えへへ～"
+
+translate Japanese monika_love_cf07ff3d:
+    m 1hubfb "私も大好き！"
 
 translate Japanese monika_love_75f94261:
     m 3hubfb "私も[player]君のこと大好き！"
@@ -9638,14 +9644,29 @@ translate Japanese strings:
     old "Books"
     new "本"
 
+    old "What's your favorite poem?"
+    new "好きな詩は何？"
+
+    old "What's your favorite book?"
+    new "好きな小説は何？"
+
     old "Natsuki's death"
     new "ナツキの最期"
 
     old "We'll be together forever!"
     new "ずっと、ずーっと一緒だよ！"
 
+    old "Your happiness is my happiness!"
+    new "あなたの幸せが私の幸せ！"
+
     old "It makes me so happy to hear you say that!"
     new "そう言ってくれるととても嬉しいわ！"
+
+    old "I don't think words can do justice to how deeply I love you..."
+    new "どれくらい好きか、ちゃんと伝えられる言葉を思いつかない……"
+
+    old "Hedgehog dilemma"
+    new "ヤマアラシのジレンマ"
 
     old "When is your birthday?"
     new "誕生日はいつ？"
