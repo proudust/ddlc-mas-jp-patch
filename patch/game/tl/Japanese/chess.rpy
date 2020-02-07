@@ -578,6 +578,9 @@ translate Japanese strings:
     old "It was an accident!"
     new "わざとじゃなかったんだ！"
 
+    old "I'll wait a minute..."
+    new "ちょっと待つね……"
+
     old "I'm sorry"
     new "ごめんなさい"
 
