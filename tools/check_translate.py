@@ -5,7 +5,7 @@ import sys
 
 def get_mas_version():
     with open('./patch/game/options.rpy', mode='r') as options:
-        match = re.search(r'define config.version = "(0.10.6)"', options.read())
+        match = re.search(r'define config.version = "(.+)"', options.read())
         return 'v' + match.group(1) if match else None
 
 def exec_extract_dialogues(mas_version):
