@@ -157,8 +157,8 @@ translate Japanese bye_prompt_sleep_8a57734e:
 translate Japanese bye_prompt_sleep_91a174a7:
     m 2tfu "絶対目を開けていられないでしょ。"
 
-translate Japanese bye_prompt_sleep_552d40d8:
-    m "ほらやっぱり。{w}ちょっとだけでも休んできて、[player]君。"
+translate Japanese bye_prompt_sleep_128ed5eb:
+    m "ほらやっぱり。{w=0.2}ちょっとだけでも休んできて、[player]君。"
 
 translate Japanese bye_prompt_sleep_eadeef10:
     m 2ekc "私はあなたが風邪をひいてしまうのは嫌なのよ。"
@@ -174,6 +174,9 @@ translate Japanese bye_prompt_sleep_3179f438:
 
 translate Japanese bye_prompt_sleep_cdf617a10:
     m 1hua "あはは〜　良いお昼寝を、[player]君。"
+
+translate Japanese bye_prompt_sleep_4a34d2be:
+    m 2esc "仮眠を取るの、[player]？"
 
 translate Japanese bye_prompt_sleep_0bd97190_3:
     m 6ckc "……"
@@ -250,6 +253,24 @@ translate Japanese bye_goodevening_f2938648:
 translate Japanese bye_goodevening_0bd97190:
     m 6ckc "……"
 
+translate Japanese bye_goodnight_9164a55f:
+    m 1eua "おやすみ、[player]。"
+
+translate Japanese bye_goodnight_bc018cc2:
+    m 1eka "また明日会いましょう、いいでしょ？"
+
+translate Japanese bye_goodnight_435d44e4:
+    m 3eka "『しっかり寝て、トコジラミに噛まれないように』ね。えへへ。"
+
+translate Japanese bye_goodnight_429f6db6:
+    m 1ekbfa "愛してるよ～"
+
+translate Japanese bye_goodnight_bf2719e3:
+    m 2esc "おやすみ。"
+
+translate Japanese bye_goodnight_e81787e4:
+    m 6lkc "……おやすみ。"
+
 translate Japanese bye_goodnight_0bd97190:
     m 6ckc "……"
 
@@ -311,8 +332,14 @@ translate Japanese strings:
     old "Goodbye."
     new "さようなら"
 
+    old "I'm going to class."
+    new "学校に行く"
+
     old "I'm going to work."
     new "仕事に行く"
+
+    old "I'm going to sleep."
+    new "寝る"
 
     old "Of course!"
     new "もちろん！"

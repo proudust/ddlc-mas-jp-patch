@@ -115,9 +115,6 @@ translate Japanese mas_mood_happy_549beabf:
 translate Japanese mas_mood_happy_84caac57:
     m 3eka "いつでも私はここであなたを待っている、大好きだよ〜"
 
-translate Japanese mas_mood_happy_549beabf:
-    m "いつでも会いに来て、私が[player]君を元気づけてあげる。"
-
 translate Japanese mas_mood_sick_87257c45:
     m 1ekc "うぅ、それは残念、大変だね、[player]君。"
 
@@ -260,6 +257,15 @@ translate Japanese mas_mood_bored_a95461ee:
     m "どうしたいの、[player]君？" nointeract
 
 translate Japanese strings:
+    old "...like talking about something else."
+    new "……他のことに付いて話したい"
+
+    old "...hungry."
+    new "……お腹が減った"
+
+    old "...sad."
+    new "……悲しい"
+
     old "I'm done."
     new "終わった。"
 
@@ -268,6 +274,18 @@ translate Japanese strings:
 
     old "Not really."
     new "あんまり"
+
+    old "...happy."
+    new "……幸せ"
+
+    old "...sick."
+    new "……病気"
+
+    old "...lonely."
+    new "……寂しい"
+
+    old "...angry."
+    new "……怒り"
 
     old "YES!"
     new "そうだよ！"

@@ -100,8 +100,8 @@ translate Japanese mas_compliment_awesome_3_44df7e09:
 translate Japanese mas_compliment_awesome_3_801adb63:
     m 1eub "あなたはいつだって素晴らしいんだから！"
 
-translate Japanese mas_compliment_intelligent_2_87401658:
-    m 1wub "わあ……{w}ありがとう、[player]君。"
+translate Japanese mas_compliment_intelligent_2_ef8d60ea:
+    m 1wub "わあ……{w=0.3}ありがとう、[player]君。"
 
 translate Japanese mas_compliment_intelligent_2_f420221e:
     m 3eua "読書の経験が豊富なのは私の誇れる点だけど、あなたがそれに気づいてくれたのも大事なことだよ。"
@@ -509,6 +509,9 @@ translate Japanese strings:
     old "Thanks."
     new "ありがと。"
 
+    old "I love your eyes!"
+    new "目が好き！"
+
     old "I can't help it; your eyes are too beautiful."
     new "言い足りないよ……君の瞳は凄く綺麗だ。"
 
@@ -518,6 +521,9 @@ translate Japanese strings:
     old "They are the color of grass!"
     new "ガラスのような色だね！"
 
+    old "You're awesome!"
+    new "すごい！"
+
     old "I wish you were here right now!"
     new "今ここに君がいたらって思うよ！"
 
@@ -526,6 +532,9 @@ translate Japanese strings:
 
     old "... I don't like hugs."
     new "……ハグは好きじゃないんだ。"
+
+    old "You're really intelligent!"
+    new "頭が良い！"
 
     old "You make me want to better myself too, [m_name]."
     new "もっと自分磨きをしなきゃって思えるよ、[m_name]。"

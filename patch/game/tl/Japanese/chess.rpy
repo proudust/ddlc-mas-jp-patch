@@ -49,8 +49,8 @@ translate Japanese mas_chess_save_multi_dlg_c323a5b1:
 translate Japanese mas_chess_save_multi_dlg_4f20d695:
     m 1p "それでね、今は中断データが[game_count]個あるから……"
 
-translate Japanese mas_chess_save_multi_dlg_f354dc34:
-    m 1g "このうち残したいものを一つだけ選んでもらわなきゃいけないんだよね。{w}ごめんね、[player]君。"
+translate Japanese mas_chess_save_multi_dlg_451f983a:
+    m 1g "このうち残したいものを一つだけ選んでもらわなきゃいけないんだよね。{w=0.2}ごめんね、[player]君。"
 
 translate Japanese mas_chess_save_multi_dlg_6be9d23e:
     m 2dsc "そっか。"
@@ -85,11 +85,14 @@ translate Japanese mas_chess_pgn_explain_48c7b5b1:
 translate Japanese mas_chess_pgn_explain_615a2443:
     m "PGNビューワーで開けるわ。"
 
-translate Japanese mas_chess_pgn_explain_efb87304:
-    m 1lksdlb "PGNファイルをエディットして、勝負の行方を操作することもできるけど、{w}でも、そんなことしないでしょ？"
+translate Japanese mas_chess_pgn_explain_e49b6220:
+    m 1lksdlb "PGNファイルをエディットして、勝負の行方を操作することもできるけど……{w=0.5} {nw}"
 
-translate Japanese mas_chess_pgn_explain_20b4abb8:
-    m 1eka "チートなんてしないよね、[player]君？{nw}"
+translate Japanese mas_chess_pgn_explain_0c85f20b:
+    extend 1tsu "でも、そんなことしないでしょ？"
+
+translate Japanese mas_chess_pgn_explain_e897b6e6:
+    m 1tku "チートなんてしないよね、[player]君？{nw}"
 
 translate Japanese mas_chess_pgn_explain_a013343e:
     m "チートなんてしないよね、[player]君？{fast}" nointeract
@@ -97,8 +100,8 @@ translate Japanese mas_chess_pgn_explain_a013343e:
 translate Japanese mas_chess_pgn_explain_c46167fd:
     m 1hua "いぇ～い！"
 
-translate Japanese mas_chess_dlg_qs_lost_start_710d3dce:
-    m 2lksdlb "えぇっと、[player]君……{w}どうやら前回セーブするときに失敗しちゃったみたいで、だから前回のデータはもう開けないの。"
+translate Japanese mas_chess_dlg_qs_lost_start_3f528791:
+    m 2lksdlb "えぇっと、[player]君……{w=0.5}どうやら前回セーブするときに失敗しちゃったみたいで、だから前回のデータはもう開けないの。"
 
 translate Japanese mas_chess_dlg_qs_lost_gen_a7509a9c:
     m 1lksdlc "ごめんなさい……"
@@ -118,8 +121,8 @@ translate Japanese mas_chess_dlg_qs_lost_2_712d3162:
 translate Japanese mas_chess_dlg_qs_lost_2_65b1e722:
     m 3eua "最初からチェスをやり直すことでね！"
 
-translate Japanese mas_chess_dlg_qs_lost_3_03e3df4a:
-    m 1lksdlc "私って本当にドジだね、[player]君……{w}ごめんなさい。"
+translate Japanese mas_chess_dlg_qs_lost_3_297eb97f:
+    m 1lksdlc "私って本当にドジだね、[player]君……{w=0.3}ごめんなさい。"
 
 translate Japanese mas_chess_dlg_qs_lost_3_cefb8c08:
     m 3eksdla "改めて最初からやろっか。"
@@ -142,8 +145,8 @@ translate Japanese _mas_chess_dqfls_7a926295:
 translate Japanese _mas_chess_dqfls_f27f6469:
     m "あなたがセーブデータを弄ったの、[player]君？{fast}" nointeract
 
-translate Japanese mas_chess_dlg_qf_lost_start_a0183a50:
-    m 2lksdla "えぇっと、これは恥ずかしいな。"
+translate Japanese mas_chess_dlg_qf_lost_start_1054888c:
+    m 2lksdla "えぇっと、{w=0.3}これは恥ずかしいな。"
 
 translate Japanese mas_chess_dlg_qf_lost_start_e2e126c3:
     m "中断データがあるって断言したのに、セーブデータを見つけられないなんて。"
@@ -166,8 +169,8 @@ translate Japanese mas_chess_dlg_qf_lost_ofcn_gen_b441ed12:
 translate Japanese mas_chess_dlg_qf_lost_ofcn_3_5b0ed382:
     m 2esc "……"
 
-translate Japanese mas_chess_dlg_qf_lost_ofcn_3_610790b6:
-    m "[player]君、{w}これあなたが……"
+translate Japanese mas_chess_dlg_qf_lost_ofcn_3_575df7d4:
+    m "[player]君、{w=0.2}これあなたが……"
 
 translate Japanese mas_chess_dlg_qf_lost_ofcn_3_87a07ff4:
     m 2dsc "なんでもない、忘れて。"
@@ -178,8 +181,8 @@ translate Japanese mas_chess_dlg_qf_lost_ofcn_3_16a2e1d9:
 translate Japanese mas_chess_dlg_qf_lost_ofcn_5_5b0ed382:
     m 2esc "……"
 
-translate Japanese mas_chess_dlg_qf_lost_ofcn_5_6a64e99c:
-    m "[player]君、{w}いくらなんでもこれは起こりすぎ！"
+translate Japanese mas_chess_dlg_qf_lost_ofcn_5_8d90c5b3:
+    m "[player]君、{w=0.2}いくらなんでもこれは起こりすぎ！"
 
 translate Japanese mas_chess_dlg_qf_lost_ofcn_5_89fbc396:
     m 2dsc "今回は全く信じられない。"
@@ -190,14 +193,14 @@ translate Japanese mas_chess_dlg_qf_lost_ofcn_5_a13f8ce2:
 translate Japanese mas_chess_dlg_qf_lost_ofcn_5_e612037c:
     m "……"
 
-translate Japanese mas_chess_dlg_qf_lost_ofcn_5_f31900ee:
-    m 1esc "どうでもいいや。{w}とにかく始めるね。"
+translate Japanese mas_chess_dlg_qf_lost_ofcn_5_f4e089fa:
+    m 1esc "どうでもいいや。{w=0.5}とにかく始めるね。"
 
 translate Japanese mas_chess_dlg_qf_lost_ofcn_6_01a93df6:
     m 2dfc "……"
 
-translate Japanese mas_chess_dlg_qf_lost_ofcn_6_678d9f50:
-    m 2efc "[player]君、{w}信じられない。"
+translate Japanese mas_chess_dlg_qf_lost_ofcn_6_68ab2144:
+    m 2efc "[player]君、{w=0.3}信じられない。"
 
 translate Japanese mas_chess_dlg_qf_lost_ofcn_6_746a9094:
     m 2efd "こんな風に試合放棄するだけのつもりなら、"
@@ -205,26 +208,26 @@ translate Japanese mas_chess_dlg_qf_lost_ofcn_6_746a9094:
 translate Japanese mas_chess_dlg_qf_lost_ofcn_6_5551b89f:
     m 6wfw "だったら私はもうあなたとはチェスをしたくない。"
 
-translate Japanese mas_chess_dlg_qf_lost_may_gen_bd05efb1:
-    m 2ekd "[player]君！{w}ただ私をからかっていただけだったのね！"
+translate Japanese mas_chess_dlg_qf_lost_may_gen_1cfb3648:
+    m 2ekd "[player]君！{w=0.2}ただ私をからかっていただけだったのね！"
 
 translate Japanese mas_chess_dlg_qf_lost_may_gen_found_9da041f8:
     m 2eua "あっ！"
 
-translate Japanese mas_chess_dlg_qf_lost_may_gen_found_e6d0aa5f:
-    m 1hua "セーブデータが見つかったよ。元に戻してくれてありがとう、[player]君。"
+translate Japanese mas_chess_dlg_qf_lost_may_gen_found_b226c195:
+    m 1hua "セーブデータが見つかったよ。{w=0.2}元に戻してくれてありがとう、[player]君。"
 
 translate Japanese mas_chess_dlg_qf_lost_may_gen_found_231a42ed:
     m 1eua "これで続きからできるね。"
 
-translate Japanese mas_chess_dlg_qf_lost_may_2_67bfda85:
-    m 2ekd "[player]君！{w}からかうのはやめてよ！"
+translate Japanese mas_chess_dlg_qf_lost_may_2_8d0003be:
+    m 2ekd "[player]君！{w=0.2}からかうのはやめてよ！"
 
 translate Japanese mas_chess_dlg_qf_lost_may_filechecker_88cfc3f2:
     m 1eka "続きを遊べるようにセーブデータを元に戻してくれないかな？"
 
-translate Japanese mas_chess_dlg_qf_lost_may_filechecker_c4aa7570:
-    m 1hua "いぇい！{w}戻してくれてありがとう、[player]君。"
+translate Japanese mas_chess_dlg_qf_lost_may_filechecker_57741063:
+    m 1hua "いぇい！{w=0.2}戻してくれてありがとう、[player]君。"
 
 translate Japanese mas_chess_dlg_qf_lost_may_filechecker_0fb32012:
     m "これで続きからできるね。"
@@ -268,8 +271,8 @@ translate Japanese mas_chess_dlg_qf_lost_may_removed_8bc6286c:
 translate Japanese mas_chess_dlg_qf_lost_acdnt_gen_af911328:
     m 1eka "[player]君……"
 
-translate Japanese mas_chess_dlg_qf_lost_acdnt_gen_4901b60d:
-    m "大丈夫。{w}間違いはよくあるものだし。"
+translate Japanese mas_chess_dlg_qf_lost_acdnt_gen_2fe1109c:
+    m "大丈夫。{w=0.3}間違いはよくあるものだし。"
 
 translate Japanese mas_chess_dlg_qf_lost_acdnt_gen_2897c47d:
     m 1eua "改めて最初からやろっか。"
@@ -355,8 +358,8 @@ translate Japanese mas_chess_dlg_qf_edit_n_2_402d6f88:
 translate Japanese mas_chess_dlg_qf_edit_n_3_4a7ea962:
     m 2dfc "[player]君……"
 
-translate Japanese mas_chess_dlg_qf_edit_n_3_5de372dc:
-    m 2dftdc "バックアップを取っておいたんだよね。{w}だからセーブデータを書き換えたことはわかってるんだよ。"
+translate Japanese mas_chess_dlg_qf_edit_n_3_f1020305:
+    m 2dftdc "バックアップを取っておいたんだよね。{w=0.5}だからセーブデータを書き換えたことはわかってるんだよ。"
 
 translate Japanese mas_chess_dlg_qf_edit_n_3_11d90610:
     m 2dftsc "私は本当に――"
@@ -530,6 +533,12 @@ translate Japanese mas_chess_dlg_game_in_progress_end_quick_f64fbd3c:
     m 1eua "じゃあ、[player]君、またすぐにこの続きをやろうね。"
 
 translate Japanese strings:
+    old "Save"
+    new "セーブ"
+
+    old "Give Up"
+    new "ギブアップ"
+
     old "It's your turn, [player]!"
     new "[player]君の番だよ！"
 

@@ -14,9 +14,6 @@ translate Japanese strings:
     old "Auto"
     new "オート"
 
-    old "Save"
-    new "セーブ"
-
     old "Load"
     new "ロード"
 
@@ -37,6 +34,9 @@ translate Japanese strings:
 
     old "Main Menu"
     new "メインメニュー"
+
+    old "Submods"
+    new "サブMOD"
 
     old "Help"
     new "ヘルプ"
@@ -162,7 +162,7 @@ translate Japanese strings:
     new "有効にすると、モニカが通知を使用することができ、更にMASがアクティブウィンドウかどうかを確認できます"
 
     old "Sounds"
-    new "通知音"
+    new "音"
 
     old "If enabled, a custom notification sound will play for Monika's notifications "
     new "有効にすると、モニカの通知にカスタム通知音が使用されます"
