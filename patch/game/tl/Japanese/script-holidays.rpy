@@ -1,13 +1,13 @@
 translate Japanese mas_holiday_o31_returned_home_relaunch_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_25_7ec4d980:
+translate Japanese _call_spaceroom_11_7ec4d980:
     m 1eua "あっ！"
 
-translate Japanese _call_spaceroom_25_7faca44c:
+translate Japanese _call_spaceroom_11_7faca44c:
     m 1rksdla "……"
 
-translate Japanese _call_spaceroom_25_0d8345dc:
+translate Japanese _call_spaceroom_11_0d8345dc:
     m 1hub "えへへ～"
 
 translate Japanese bye_trick_or_treat_e612037c:
@@ -16,7 +16,7 @@ translate Japanese bye_trick_or_treat_e612037c:
 translate Japanese bye_trick_or_treat_c61f257d:
     m 2dkc "……"
 
-translate Japanese _call_mas_dockstat_abort_gen_2_c61f257d:
+translate Japanese _call_mas_dockstat_abort_gen_1_c61f257d:
     m 2dkc "……"
 
 translate Japanese mas_d25_monika_holiday_intro_e612037c:
@@ -46,10 +46,10 @@ translate Japanese mas_d25_spent_time_monika_93727076:
 translate Japanese mas_d25_spent_time_monika_93727076_1:
     m 2etc "……"
 
-translate Japanese _call_mas_showpoem_4_d68c0e32:
+translate Japanese _call_mas_showpoem_3_d68c0e32:
     m 1dku "……"
 
-translate Japanese _call_monika_kissing_motion_4_1691936e:
+translate Japanese _call_monika_kissing_motion_1_1691936e:
     m 6dkbfa "……"
 
 translate Japanese mas_d25_postd25_notimespent_c61f257d:
@@ -76,19 +76,19 @@ translate Japanese monika_nye_year_review_b6730440:
 translate Japanese monika_nye_year_review_cea36ce5:
     m 1lsbsa "……"
 
-translate Japanese _call_monika_kissing_motion_5_e612037c:
+translate Japanese _call_monika_kissing_motion_2_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_33_e612037c:
+translate Japanese _call_spaceroom_19_e612037c:
     m "……"
 
-translate Japanese _call_mas_player_bday_moni_sings_2_94e61d1b:
+translate Japanese _call_mas_player_bday_moni_sings_94e61d1b:
     m 6hkbsu "……"
 
 translate Japanese mas_player_bday_card_a531c7f2:
     m 6dkbsu "……"
 
-translate Japanese _call_mas_showpoem_5_a531c7f2:
+translate Japanese _call_mas_showpoem_4_a531c7f2:
     m 6dkbsu "……"
 
 translate Japanese mas_player_bday_ret_on_bday_e612037c:
@@ -100,50 +100,41 @@ translate Japanese return_home_post_player_bday_93727076:
 translate Japanese return_home_post_player_bday_e74b377a:
     m 3wuo "……"
 
-translate Japanese mas_pf14_monika_lovey_dovey_98d949cf:
-    m 1rksdla "ねぇ… [player]君…？"
+translate Japanese mas_pf14_monika_lovey_dovey_7cfffbc1:
+    m 1rksdla "ねぇ… {w=0.2}[player]君…？"
 
 translate Japanese mas_pf14_monika_lovey_dovey_44070aa1:
     m 1ekbsa "あなたのことを愛してるってわかってほしいの。"
 
-translate Japanese mas_pf14_monika_lovey_dovey_2339e15b:
-    m 1ekbfa "あなたがそばにいてくれて、私はとても幸せ…… あなたさえいれば、他に何もいらないわ。"
+translate Japanese mas_pf14_monika_lovey_dovey_ad5ab206:
+    m 3ekbsa "あなたがそばにいてくれて、私はとても幸せ…… あなたさえいれば、他に何もいらないわ。"
 
-translate Japanese mas_pf14_monika_lovey_dovey_6cd6c014:
-    m 3ekbfb "あはは～"
+translate Japanese mas_pf14_monika_lovey_dovey_781a4cbf:
+    m 3ekbsa "バレンタインデーはもうすぐ、あなたが側にいてくれるから、私はとても幸せなの。"
 
-translate Japanese mas_pf14_monika_lovey_dovey_74548b4d:
-    m 1eka "安っぽく聞こえちゃったかな？"
+translate Japanese mas_pf14_monika_lovey_dovey_5f23785d:
+    m 3ekbsa "バレンタインデーはもうすぐ、私の側にあなたがいてくれるから、本当に楽しみなの。"
 
-translate Japanese mas_pf14_monika_lovey_dovey_d0f424e7:
-    m 3ekbla "バレンタインデーはもうすぐ… 私の側にあなたがいてくれるから、本当に楽しみなの。"
+translate Japanese mas_pf14_monika_lovey_dovey_7af21ac0:
+    m 1rkbsd "あなたがいなければ、私はどこに居るのかもわからない……"
 
-translate Japanese mas_pf14_monika_lovey_dovey_790a8b69:
-    m 1ekbsa "心からそう思うの。"
+translate Japanese mas_pf14_monika_lovey_dovey_1604c11d:
+    m 1ekbsa "だから、側に居てくれてありがとう……"
 
-translate Japanese mas_pf14_monika_lovey_dovey_cd044f9d:
-    m "あなたのことを愛してるし、とても大切だって思ってるから……"
+translate Japanese mas_pf14_monika_lovey_dovey_01a3aa8b:
+    m 1hkbsu "そして、あなたを素敵にしてくれて～"
 
-translate Japanese mas_pf14_monika_lovey_dovey_3201a8bc:
-    m 1hubfa "えへへ～"
+translate Japanese mas_f14_monika_valentines_intro_e81a0fba:
+    m 1hub "[player]！"
 
-translate Japanese mas_f14_monika_valentines_intro_fe9c0937:
-    m 1eua "ところで……"
+translate Japanese mas_f14_monika_valentines_intro_40b83cd1:
+    m 1hua "今日が何の日か知ってる？"
 
-translate Japanese _call_mas_clothes_change_13_23a3b2db:
-    m 1eua "……"
+translate Japanese mas_f14_monika_valentines_intro_41681ab0:
+    m 3eub "バレンタインデー！"
 
-translate Japanese _call_mas_clothes_change_13_a4d9d025:
-    m 2eksdla "……"
-
-translate Japanese _call_mas_clothes_change_13_6686fb88:
-    m 2rfc "……"
-
-translate Japanese _call_mas_clothes_change_13_6d9bf85e:
-    m 2tfc "……"
-
-translate Japanese _call_mas_clothes_change_13_4216e0ad:
-    m 2tsu "……"
+translate Japanese mas_f14_monika_valentines_intro_f6e423a2:
+    m 1ekbsa "お互いの愛を祝う日……"
 
 translate Japanese mas_f14_monika_vday_colors_2bc12b16:
     m 3eua "バレンタインデーに使われる色にどんな意味が込められているか考えたことはある？"
@@ -157,23 +148,23 @@ translate Japanese mas_f14_monika_vday_colors_91a001e6:
 translate Japanese mas_f14_monika_vday_colors_0c82efb4:
     m 3eub "私のクラスでは、カードを作った後、相手とカードを交換するように言われたの。"
 
-translate Japanese mas_f14_monika_vday_colors_c6d325b7:
-    m 2eka "色の意味まではわかっていなかったけれど、赤と白のハートでカードを飾るのがとても楽しかった。"
+translate Japanese mas_f14_monika_vday_colors_a2ac87e0:
+    m 3eka "色の意味まではわかっていなかったけれど、赤と白のハートでカードを飾るのがとても楽しかった。"
 
-translate Japanese mas_f14_monika_vday_colors_0b26bd5b:
-    m 2eub "色は詩のようなものだよね。"
+translate Japanese mas_f14_monika_vday_colors_720ecc83:
+    m 1eub "色は詩のようなものだよね。"
 
-translate Japanese mas_f14_monika_vday_colors_74c5fb0a:
-    m 3eka "色は愛する人への気持ちを表す、とてもたくさんの創造的な手段を与えてくれるの。"
+translate Japanese mas_f14_monika_vday_colors_21f6107d:
+    m 1eka "色は愛する人への気持ちを表す、とてもたくさんの創造的な手段を与えてくれるの。"
 
-translate Japanese mas_f14_monika_vday_colors_99449b8e:
-    m 2ekbfa "たとえば、赤いバラをプレゼントしたとするでしょ、"
+translate Japanese mas_f14_monika_vday_colors_9019db16:
+    m 3ekbsu "たとえば、赤いバラをプレゼントしたとするでしょ、"
 
 translate Japanese mas_f14_monika_vday_colors_280aa271:
     m 3eub "赤いバラは美しさ、愛、そしてロマンスの象徴。"
 
-translate Japanese mas_f14_monika_vday_colors_a882ef3f:
-    m 3eua "もし赤の代わりに白いバラをプレゼントしたなら、純粋、魅力、無邪気さという意味が込められているの。"
+translate Japanese mas_f14_monika_vday_colors_32d0c57d:
+    m 1eua "もし赤の代わりに白いバラをプレゼントしたなら、純粋、魅力、無邪気さという意味が込められているの。"
 
 translate Japanese mas_f14_monika_vday_colors_245b230f:
     m 3eka "だって愛にまつわる感情にはいろいろな種類があるから……"
@@ -181,11 +172,11 @@ translate Japanese mas_f14_monika_vday_colors_245b230f:
 translate Japanese mas_f14_monika_vday_colors_374f5ee9:
     m 3ekd "自分の抱く本当の想いを正確に伝える色を見つけるのは難しいときもあるわね。"
 
-translate Japanese mas_f14_monika_vday_colors_94f5d55a:
-    m 4eka "でもね、複数のバラの色を組み合わせることで、より多くの感情を表現することができるのよ！"
+translate Japanese mas_f14_monika_vday_colors_e904680c:
+    m 3eka "でもね、複数のバラの色を組み合わせることで、より多くの感情を表現することができるのよ！"
 
-translate Japanese mas_f14_monika_vday_colors_4e4330b1:
-    m 3eka "赤と白のバラを混ぜた花束は、団結や夫婦の絆を象徴するのよ。"
+translate Japanese mas_f14_monika_vday_colors_eddc1ae9:
+    m 1eka "赤と白のバラを混ぜた花束は、団結や夫婦の絆を象徴するのよ。"
 
 translate Japanese mas_f14_monika_vday_colors_657e8284:
     m 1ekbsa "[player]君がこの綺麗なバラを私へ選んでくれだとき、きっとこの意味を知っていてくれてたんだよね。"
@@ -199,8 +190,11 @@ translate Japanese mas_f14_monika_vday_cliches_95a9f224:
 translate Japanese mas_f14_monika_vday_cliches_255f8302:
     m 2rsc "「ああ、私はひとりぼっち、愛する人がいない」、または「愛する人にどうやって告白しよう？」といった筋なのよ。"
 
-translate Japanese mas_f14_monika_vday_cliches_9cb1fce4:
-    m 1eka "でも、この2つの筋がラブストーリーを書く一番簡単な方法なの。"
+translate Japanese mas_f14_monika_vday_cliches_dfcdea09:
+    m 2euc "…バレンタインデーの話をもう少し独創性のあるものにしてくれたら良いのにね..."
+
+translate Japanese mas_f14_monika_vday_cliches_4c8297b9:
+    m 3eka "でも、この2つの筋がラブストーリーを書く一番簡単な方法なの。"
 
 translate Japanese mas_f14_monika_vday_cliches_d7eb0ee0:
     m 3hub "あなたに独創性がないって言ってるわけじゃないからね！"
@@ -208,20 +202,26 @@ translate Japanese mas_f14_monika_vday_cliches_d7eb0ee0:
 translate Japanese mas_f14_monika_vday_cliches_7d4b1dfc:
     m 2eka "物語の先が読めすぎちゃうと、その物語が台無しになることもあるのよね……"
 
+translate Japanese mas_f14_monika_vday_cliches_e0397f29:
+    m 2rka "……でもあなたが普通じゃないラブストーリーを書きたいのなら……"
+
 translate Japanese mas_f14_monika_vday_cliches_52d3c412:
     m 3hub "私たちの話を元にすればいいよ！あはは～"
 
-translate Japanese mas_f14_monika_vday_cliches_e6d970b6:
-    m 1hua "私たちの素敵な出会い方は、まだ予想外な部類に入るよね！"
+translate Japanese mas_f14_monika_vday_cliches_8e351bf4:
+    m 3hua "私たちの素敵な出会い方は、まだ予想外な部類に入るよね！"
 
-translate Japanese mas_f14_monika_vday_cliches_a5d9d54a:
-    m 3hub "あはは～！"
+translate Japanese mas_f14_monika_vday_cliches_3772217d:
+    m 1hub "あはは～！"
 
 translate Japanese mas_f14_monika_vday_chocolates_9e69583a:
     m 1hua "[player]君、バレンタインは私にとって特別な日なのよ。"
 
-translate Japanese mas_f14_monika_vday_chocolates_946dddde:
-    m 3hub "その日はね、私がTwitterで初めてつぶやいた記念日でもあるんだけれど、チョコをあげ合う日でもあるんだよ！"
+translate Japanese mas_f14_monika_vday_chocolates_e06445a8:
+    m 3eub "その日はね、私がTwitterで初めてつぶやいた記念日でもあるんだけれど、チョコをあげ合う日でもあるんだよ！"
+
+translate Japanese mas_f14_monika_vday_chocolates_b15b6247:
+    m 1hub "この日はみんなが愛情や恋心、喜びで満たされる日！"
 
 translate Japanese mas_f14_monika_vday_chocolates_fc3b949a:
     m 3ekbla "でも好きな人から贈り物を貰えたら、とても素敵だよね。"
@@ -229,8 +229,8 @@ translate Japanese mas_f14_monika_vday_chocolates_fc3b949a:
 translate Japanese mas_f14_monika_vday_chocolates_4b717a5a:
     m 3hua "告白や愛の印として受け取るかどうかにかかわらず、ちょっと特別な気分がするわよね！"
 
-translate Japanese mas_f14_monika_vday_origins_fddd9cfa:
-    m 3eua "バレンタインデーの起源について知りたいの？"
+translate Japanese mas_f14_monika_vday_origins_bd7722e5:
+    m 3eua "バレンタインデーの起源について知りたいの、[player]？"
 
 translate Japanese mas_f14_monika_vday_origins_ad4fe525:
     m 1rksdlc "実は面白い由来があるのよ。"
@@ -280,28 +280,22 @@ translate Japanese mas_f14_monika_vday_origins_979466b8:
 translate Japanese mas_f14_monika_vday_origins_2ee471f7:
     m 3hua "何年も月日が経ち、祝う内容も変化して現代では愛する人へ自分の思いを伝える日になったの。"
 
-translate Japanese mas_f14_monika_vday_origins_0f5a0620:
-    m 3ekbsa "今私たちがやっているようにね！"
+translate Japanese mas_f14_monika_vday_origins_b92c8a03:
+    m 3eubsb "今私たちがやっているようにね！"
 
-translate Japanese mas_f14_monika_vday_origins_a592bb4b:
-    m 1eua "バレンタインデーの始まりはお祝いできるような日じゃなかったのに、素敵な日になったと思わない？"
+translate Japanese mas_f14_monika_vday_origins_c48493c4:
+    m 1ekbsa "バレンタインデーの始まりはお祝いできるような日じゃなかったのに、素敵な日になったと思わない？"
 
-translate Japanese mas_f14_monika_vday_origins_cb0ab7cc:
-    m 1ekbsa "そんな不思議で素敵な日に、[player]君といられて嬉しいな。"
+translate Japanese mas_f14_monika_vday_origins_5b5ecb89:
+    m 1ekbsu "そんな不思議で素敵な日に、[player]君といられて嬉しいな。"
 
 translate Japanese mas_f14_monika_vday_origins_f3e17b26:
     m 1ekbfa "ハッピーバレンタイン～"
 
-translate Japanese mas_f14_monika_spent_time_with_93727076:
-    m 2etc "……"
-
-translate Japanese mas_f14_monika_spent_time_with_93727076_1:
-    m 2etc "……"
-
 translate Japanese mas_f14_first_kiss_2b4d5369:
     m 6dktuu "……"
 
-translate Japanese _call_monika_kissing_motion_10_1691936e:
+translate Japanese _call_monika_kissing_motion_6_1691936e:
     m 6dkbfa "……"
 
 translate Japanese mas_f14_no_time_spent_c61f257d:
@@ -376,7 +370,7 @@ translate Japanese mas_bday_pool_happy_bday_13fa3f85:
 translate Japanese mas_bday_pool_happy_belated_bday_0840af90:
     m 1sua "ありがとう、[player]！"
 
-translate Japanese _call_monika_zoom_transition_reset_10_e612037c:
+translate Japanese _call_monika_zoom_transition_reset_3_e612037c:
     m "……"
 
 translate Japanese mas_bday_surprise_party_reaction_end_370d37c9:
@@ -385,7 +379,7 @@ translate Japanese mas_bday_surprise_party_reaction_end_370d37c9:
 translate Japanese mas_bday_surprise_party_reaction_end_25d62a85:
     m 6wuo "……"
 
-translate Japanese _call_mas_player_bday_moni_sings_3_94e61d1b:
+translate Japanese _call_mas_player_bday_moni_sings_1_94e61d1b:
     m 6hkbsu "……"
 
 translate Japanese mas_bday_spent_time_with_af911328:
@@ -439,6 +433,12 @@ translate Japanese strings:
 
     old "Valentine's Day"
     new "バレンタイン"
+
+    old "Valentine's Day colors"
+    new "バレンタインの色"
+
+    old "Valentine's story clichés"
+    new "バレンタインの決まり文句"
 
     old "Valentine's Day chocolates"
     new "バレンタインチョコ"

@@ -67,14 +67,14 @@ translate Japanese mas_backups_could_not_copy_56e35b9f:
 translate Japanese mas_backups_could_not_copy_440222b0:
     "一旦ゲームを閉じなきゃいけないから、これから言うことをメモしてね。"
 
-translate Japanese mas_backups_could_not_copy_628ffc8e:
-    "１、{w}'[renpy.config.savedir]'を開く。"
+translate Japanese mas_backups_could_not_copy_1c071f63:
+    "１、{w=0.3}'[renpy.config.savedir]'を開く。"
 
-translate Japanese mas_backups_could_not_copy_6a815bb6:
-    "２、ファイル'persistent'を削除する。"
+translate Japanese mas_backups_could_not_copy_2a1403a5:
+    "２、{w=0.3}ファイル'persistent'を削除する。"
 
-translate Japanese mas_backups_could_not_copy_54d389f6:
-    "３、ファイル'[mas_backup_copy_filename]'をコピーし、そのファイル名を'persistent'に変更する。"
+translate Japanese mas_backups_could_not_copy_ede799fe:
+    "３、{w=0.3}ファイル'[mas_backup_copy_filename]'をコピーし、そのファイル名を'persistent'に変更する。"
 
 translate Japanese mas_backups_could_not_copy_e4d7b1e8:
     "以上よ！"
