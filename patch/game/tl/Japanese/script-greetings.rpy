@@ -305,7 +305,7 @@ translate Japanese greeting_visit4_26211341:
     m 1lksdla "あなたにこんなに早く会えると思ってなかったから。"
 
 translate Japanese greeting_visit5_97dd4b86:
-    m 5hua "Every day ♪\nI imagine a future where I can be with you～♪"
+    m 5hua "{i}~Every day,~\n~I imagine a future where I can be with you...~{/i}"
 
 translate Japanese greeting_visit5_1826fc1e:
     m 5wuw "あっ、来てたんだ！ちょっと歌いながら考えごとをしてたの。"

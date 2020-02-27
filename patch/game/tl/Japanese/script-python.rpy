@@ -62,7 +62,7 @@ translate Japanese monika_ptod_tip002_e76a0c88:
     m "Pythonにはたくさん型があるんだけど、でも今日は基本的だったりプリミティブなものについて教えるから。"
 
 translate Japanese monika_ptod_tip002_44fe1950:
-    m 1eua "Pythonには数字を表す型が二つあって、{w=0.3}{i}integer型{/i}または{i}int型{/i}、そして{i}float型{/i}ね。"
+    m 1eua "Pythonには数字を表す型が二つあって、{w=0.3}{i}integer型{/i}または{b}int型{/b}、そして{i}float型{/i}ね。"
 
 translate Japanese monika_ptod_tip002_9a27b9db:
     m 1eua "integer型は基本的に全ての整数を表すのに使われるわ。"
@@ -89,7 +89,7 @@ translate Japanese _call_mas_wx_cmd_24_204094a4:
     m 1eua "boolean型の意味や使い方については他のレッスンでより詳しく扱うからね。"
 
 translate Japanese _call_mas_wx_cmd_24_9718b39c:
-    m 3eub "Pythonは{/b}NoneType{/b}という特別なデータ型もあって、これはデータがないということを意味するの。"
+    m 3eub "Pythonは{b}NoneType{/b}という特別なデータ型もあって、これはデータがないということを意味するの。"
 
 translate Japanese _call_mas_wx_cmd_24_f24d9a26:
     m "もしあなたが他のプログラミング言語に詳しかったら、これは{i}null型{/i}や{i}undefined型{/i}のようなものね。"

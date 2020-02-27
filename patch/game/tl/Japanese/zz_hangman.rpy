@@ -130,3 +130,9 @@ translate Japanese strings:
 
     old "{0} would like this word the most."
     new "{0}が大好きなことばだよ。"
+
+    old "your name"
+    new "自分の名前"
+
+    old "the word"
+    new "単語"
