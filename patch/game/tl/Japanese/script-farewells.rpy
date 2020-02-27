@@ -143,7 +143,7 @@ translate Japanese bye_prompt_sleep_028f7818:
     m 6ekc "[player]君……"
 
 translate Japanese bye_prompt_sleep_9d9f388b:
-    6 ckc "……"
+    6ckc "……"
 
 translate Japanese bye_prompt_sleep_0bd97190_2:
     m 6ckc "……"
@@ -172,7 +172,7 @@ translate Japanese bye_prompt_sleep_c207c96e_2:
 translate Japanese bye_prompt_sleep_3179f438:
     m 1eua "そっか、お昼寝するんだね。"
 
-translate Japanese bye_prompt_sleep_cdf617a10:
+translate Japanese bye_prompt_sleep_cdf617a9:
     m 1hua "あはは〜　良いお昼寝を、[player]君。"
 
 translate Japanese bye_prompt_sleep_4a34d2be:
@@ -340,6 +340,12 @@ translate Japanese strings:
 
     old "I'm going to sleep."
     new "寝る"
+
+    old "[_cantsee_a]"
+    new "[_cantsee_a]"
+
+    old "[_cantsee_b]"
+    new "[_cantsee_b]"
 
     old "Of course!"
     new "もちろん！"

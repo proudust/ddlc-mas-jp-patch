@@ -296,10 +296,10 @@ translate Japanese mas_chess_dlg_qf_lost_acdnt_3_231a42ed:
     m 1eua "これで続きからできるね。"
 
 translate Japanese _mas_chess_dlgqfeditstart_76684384:
-    m 2ekc "セーブデータを書き換えたの？"
+    m 2ekc "セーブデータを書き換えたの？{nw}"
 
 translate Japanese _mas_chess_dlgqfeditstart_d8d1b624:
-    m "セーブデータを書き換えたの？" nointeract
+    m "セーブデータを書き換えたの？{fast}" nointeract
 
 translate Japanese mas_chess_dlg_qf_edit_start_6f96a035:
     m 2lksdlc "[player]君……"

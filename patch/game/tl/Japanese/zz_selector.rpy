@@ -41,5 +41,11 @@ translate Japanese _call_mas_selector_sidebar_select_acs_4_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
 translate Japanese strings:
+    old "Can you tie your hair with something else?"
+    new "髪留めを変えてみない？"
+
     old "Confirm"
     new "確認"
+
+    old "Which hair tie would you like me to use?"
+    new "どの髪留めにしてほしい？"

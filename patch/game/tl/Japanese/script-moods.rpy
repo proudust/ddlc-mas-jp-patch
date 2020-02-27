@@ -251,10 +251,10 @@ translate Japanese mas_mood_bored_9d8e4821:
     m 4eka "[display_picked!t]で遊んで見る？"
 
 translate Japanese mas_mood_bored_6847444b:
-    m "どうしたいの、[player]君？"
+    m "どうしたいの、[player]君？{nw}"
 
 translate Japanese mas_mood_bored_a95461ee:
-    m "どうしたいの、[player]君？" nointeract
+    m "どうしたいの、[player]君？{fast}" nointeract
 
 translate Japanese strings:
     old "...like talking about something else."

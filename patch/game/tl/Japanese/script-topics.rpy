@@ -6002,7 +6002,10 @@ translate Japanese monika_sayhappybirthday_1c31cb47:
     m "その[bday_name]は一緒に居るの？{fast}" nointeract
 
 translate Japanese monika_sayhappybirthday_0cd12a18:
-    m 1tkc "えっ？そこに居ないのに、どうやってお祝いすればいいのかしら?"
+    m 1tkc "えっ？そこに居ないのに、どうやってお祝いすればいいのかしら？{nw}"
+
+translate Japanese monika_sayhappybirthday_eba305d2:
+    m "えっ？そこに居ないのに、どうやってお祝いすればいいのかしら？{fast}" nointeract
 
 translate Japanese monika_sayhappybirthday_de45924a:
     m 1eua "ああ、うん、わかったわ。"
@@ -9485,7 +9488,7 @@ translate Japanese monika_cares_about_dokis_5e42ff4b:
     m 4eub "……仮にそうだとしても大丈夫よ[player]！"
 
 translate Japanese monika_cares_about_dokis_082ab550:
-    m "[player]はあの子達について冗談を言って欲しくない？{ne}"
+    m "[player]はあの子達について冗談を言って欲しくない？{nw}"
 
 translate Japanese monika_cares_about_dokis_e0b61d7d:
     m "[player]はあの子達について冗談を言って欲しくない？{fast}" nointeract
