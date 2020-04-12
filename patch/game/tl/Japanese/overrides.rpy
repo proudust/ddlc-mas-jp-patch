@@ -95,16 +95,16 @@ translate Japanese style radio_dark_button_text:
     font jpfonts.Mikachan
 
 translate Japanese style scrollable_menu_button_text:
-   font gui.default_font
+    font gui.default_font
 
 translate Japanese style scrollable_menu_dark_button_text:
-   font gui.default_font
+    font gui.default_font
 
 translate Japanese style twopane_scrollable_menu_button_text:
-   font gui.default_font
+    font gui.default_font
 
 translate Japanese style twopane_scrollable_menu_dark_button_text:
-   font gui.default_font
+    font gui.default_font
 
 # 詩
 translate Japanese style yuri_text:
@@ -136,6 +136,8 @@ translate Japanese style monika_text:
 translate Japanese python:
     # 接頭詞・接尾詞の設定
     m = DynamicCharacter('m_name', image='monika', what_prefix='「', what_suffix='」', ctc="ctc", ctc_position="fixed")
+    # カレンダーの表示の設定
+    MASCalendar.DATE_DISPLAY_FORMAT = "                   {0}\n{1}\n{2}\n{3}"
 
 init python:
     # 日本語固定
