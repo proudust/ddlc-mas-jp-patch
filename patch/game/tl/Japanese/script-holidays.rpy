@@ -1,13 +1,13 @@
 translate Japanese mas_holiday_o31_returned_home_relaunch_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_11_7ec4d980:
+translate Japanese _call_spaceroom_31_7ec4d980:
     m 1eua "あっ！"
 
-translate Japanese _call_spaceroom_11_7faca44c:
+translate Japanese _call_spaceroom_31_7faca44c:
     m 1rksdla "……"
 
-translate Japanese _call_spaceroom_11_0d8345dc:
+translate Japanese _call_spaceroom_31_0d8345dc:
     m 1hub "えへへ～"
 
 translate Japanese bye_trick_or_treat_e612037c:
@@ -46,10 +46,10 @@ translate Japanese mas_d25_spent_time_monika_93727076:
 translate Japanese mas_d25_spent_time_monika_93727076_1:
     m 2etc "……"
 
-translate Japanese _call_mas_showpoem_3_d68c0e32:
+translate Japanese _call_mas_showpoem_7_d68c0e32:
     m 1dku "……"
 
-translate Japanese _call_monika_kissing_motion_1_1691936e:
+translate Japanese _call_monika_kissing_motion_4_1691936e:
     m 6dkbfa "……"
 
 translate Japanese mas_d25_postd25_notimespent_c61f257d:
@@ -76,19 +76,19 @@ translate Japanese monika_nye_year_review_b6730440:
 translate Japanese monika_nye_year_review_cea36ce5:
     m 1lsbsa "……"
 
-translate Japanese _call_monika_kissing_motion_2_e612037c:
+translate Japanese _call_monika_kissing_motion_5_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_19_e612037c:
+translate Japanese _call_spaceroom_39_e612037c:
     m "……"
 
-translate Japanese _call_mas_player_bday_moni_sings_94e61d1b:
+translate Japanese _call_mas_player_bday_moni_sings_2_94e61d1b:
     m 6hkbsu "……"
 
 translate Japanese mas_player_bday_card_a531c7f2:
     m 6dkbsu "……"
 
-translate Japanese _call_mas_showpoem_4_a531c7f2:
+translate Japanese _call_mas_showpoem_8_a531c7f2:
     m 6dkbsu "……"
 
 translate Japanese mas_player_bday_ret_on_bday_e612037c:
@@ -235,67 +235,28 @@ translate Japanese mas_f14_monika_vday_origins_bd7722e5:
 translate Japanese mas_f14_monika_vday_origins_ad4fe525:
     m 1rksdlc "実は面白い由来があるのよ。"
 
-translate Japanese mas_f14_monika_vday_origins_02c87e43:
-    m 1euc "その起源は、キリスト教が国教になっていたローマ帝国の時代にまでさかのぼるの。2世紀とか3世紀とかそういう時代ね。"
-
-translate Japanese mas_f14_monika_vday_origins_4d58ca7d:
-    m 3eud "そのころキリスト教の司祭だった聖バレンタインは、ローマ帝国皇帝・クラウディウス2世に逆らった活動をしていたの。"
-
-translate Japanese mas_f14_monika_vday_origins_58309ad1:
-    m 3rsc "皇帝は、「愛する人を故郷に残した兵士がいると士気が下がる」という理由で、兵士たちに結婚を禁止していたの。"
-
-translate Japanese mas_f14_monika_vday_origins_67d821ec:
-    m 3esc "聖バレンタインは、これが不公平だと思って愛するふたりのために内緒で結婚式をしてあげてたの。"
-
-translate Japanese mas_f14_monika_vday_origins_0af2952e:
-    m 1dsd "それが皇帝にバレてしまったわけ。彼は捕まると即刻死刑を言い渡されたわ。"
-
-translate Japanese mas_f14_monika_vday_origins_8cc430a6:
-    m 1euc "でも牢にとらわれている間に、聖バレンタインは看守の娘と恋に落ちたの。"
-
-translate Japanese mas_f14_monika_vday_origins_74baaaeb:
-    m 3euc "彼は死ぬ前に彼女へ恋文を書いたのよ、『君のバレンタインより』とサインをしてね。"
-
-translate Japanese mas_f14_monika_vday_origins_a5c40d04:
-    m 1dsc "彼の刑は西暦269年の2月14日に執行されたわ。"
-
-translate Japanese mas_f14_monika_vday_origins_a87e7b6d:
-    m 3eua "なんだか立派な由来だと思わない？"
-
 translate Japanese mas_f14_monika_vday_origins_d1c7d0b7:
     m 3eud "あ、待って！話はまだあるのよ！"
-
-translate Japanese mas_f14_monika_vday_origins_31888446:
-    m 4eud "2月14日を祝うのは、キリスト教徒は関係ないローマのルペルカーリア祭が元だと言われているのよ！"
-
-translate Japanese mas_f14_monika_vday_origins_cdc4aa07:
-    m 3eua "元の祭りは、名前を書いた札を桶の中にいれてくじ引きでカップルを作って男女の友好を深めるイベントだったの。"
-
-translate Japanese mas_f14_monika_vday_origins_7d040f8e:
-    m 3eub "そして二人は恋人同士としてルペルカーリア祭の間を過ごしたの。そのときに気があった二人は、そのまま結婚もしたみたいだよ。えへへ～"
-
-translate Japanese mas_f14_monika_vday_origins_979466b8:
-    m 1eua "でもキリスト教教会はその日をキリスト教のお祝いの日にしたかったの。だから、聖バレンタインのことを忘れない日として祝うようにしたのよ。"
 
 translate Japanese mas_f14_monika_vday_origins_2ee471f7:
     m 3hua "何年も月日が経ち、祝う内容も変化して現代では愛する人へ自分の思いを伝える日になったの。"
 
-translate Japanese mas_f14_monika_vday_origins_b92c8a03:
-    m 3eubsb "今私たちがやっているようにね！"
+translate Japanese mas_f14_monika_vday_origins_84f02b96:
+    m 3eubsb "……今私たちがやっているようにね！"
 
-translate Japanese mas_f14_monika_vday_origins_c48493c4:
+translate Japanese mas_f14_monika_vday_origins_966037dc:
     m 1ekbsa "バレンタインデーの始まりはお祝いできるような日じゃなかったのに、素敵な日になったと思わない？"
 
 translate Japanese mas_f14_monika_vday_origins_5b5ecb89:
     m 1ekbsu "そんな不思議で素敵な日に、[player]君といられて嬉しいな。"
 
-translate Japanese mas_f14_monika_vday_origins_f3e17b26:
-    m 1ekbfa "ハッピーバレンタイン～"
+translate Japanese mas_f14_monika_vday_origins_cde9d517:
+    m 1ekbfa "ハッピーバレンタイン、[player]君～"
 
 translate Japanese mas_f14_first_kiss_2b4d5369:
     m 6dktuu "……"
 
-translate Japanese _call_monika_kissing_motion_6_1691936e:
+translate Japanese _call_monika_kissing_motion_9_1691936e:
     m 6dkbfa "……"
 
 translate Japanese mas_f14_no_time_spent_c61f257d:
@@ -316,7 +277,7 @@ translate Japanese mas_bday_surprise_party_hint_6f321cf4:
 translate Japanese mas_bday_surprise_party_hint_2170c0d9:
     m 1ekc "あなた宛だろうから中身は読んでないわ……"
 
-translate Japanese mas_bday_surprise_party_hint_09b40100:
+translate Japanese mas_bday_surprise_party_hint_32dbaa74:
     m 1tuu "{cps=*2}これはどういうことなの……{/cps}{nw}"
 
 translate Japanese mas_bday_surprise_party_hint_19428ff1:
@@ -379,7 +340,7 @@ translate Japanese mas_bday_surprise_party_reaction_end_370d37c9:
 translate Japanese mas_bday_surprise_party_reaction_end_25d62a85:
     m 6wuo "……"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_94e61d1b:
+translate Japanese _call_mas_player_bday_moni_sings_3_94e61d1b:
     m 6hkbsu "……"
 
 translate Japanese mas_bday_spent_time_with_af911328:

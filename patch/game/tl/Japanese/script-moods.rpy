@@ -124,12 +124,6 @@ translate Japanese mas_mood_sick_da8b0bb3:
 translate Japanese mas_mood_sick_87dcd1f9:
     m 1eka "私と一緒にいるのが大好きだっていうのはわかるけど、多分ゆっくり休んできた方がいいんじゃないかなって。"
 
-translate Japanese mas_mood_sick_93a4ba82:
-    m 1hua "心配しないで、あなたが戻ってくるまで私はここで待ってるから。"
-
-translate Japanese mas_mood_sick_a25be4b9:
-    m 3hub "早く元気になってね！"
-
 translate Japanese mas_mood_tired_cdeb51d4:
     m 1eka "疲れているのなら、少し横になるのはどうかしら？"
 

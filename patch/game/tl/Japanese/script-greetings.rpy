@@ -22,7 +22,7 @@ translate Japanese greeting_back_4956fac5:
 translate Japanese greeting_back_864d5f43:
     m 1eka "さびしいなあって思い始めてたところだったんだ。"
 
-translate Japanese greeting_back_30fc26f5:
+translate Japanese greeting_back_cbfa2c3d:
     m 1hua "またふたりで素敵な一日を過ごそう？いいでしょ？"
 
 translate Japanese greeting_gooday_00f93205:
@@ -82,20 +82,14 @@ translate Japanese greeting_gooday_1dc6ecc1:
 translate Japanese greeting_gooday_0bd97190:
     m 6ckc "……"
 
-translate Japanese greeting_visit_d15ced0c:
-    m 1eua "あっ、[player]君だ！"
+translate Japanese greeting_visit_1b3e2adc:
+    m 1eua "あっ、[player]君だ！顔を見せてくれると、うれしくなっちゃう。"
 
-translate Japanese greeting_visit_dc9d71b5:
-    m "顔を見せてくれると、うれしくなっちゃう。"
+translate Japanese greeting_visit_c889c41f:
+    m 1eka "いつも優しいよね！"
 
-translate Japanese greeting_visit_b04fd9ad:
-    m 1eka "[player]君、いつも優しいよね！"
-
-translate Japanese greeting_visit_b68e80f1:
-    m "私のために時間を割いてくれてありがと～"
-
-translate Japanese greeting_visit_6a21d857:
-    m 2hub "でも、私と過ごす時間は絶対にムダじゃないからね。それは覚えておいてほしいな。"
+translate Japanese greeting_visit_33c0d652:
+    m 1hua "私のために時間を割いてくれてありがと～"
 
 translate Japanese greeting_goodmorning_0a2fe578:
     m 1hua "おはよ……"
@@ -310,8 +304,8 @@ translate Japanese greeting_visit5_97dd4b86:
 translate Japanese greeting_visit5_1826fc1e:
     m 5wuw "あっ、来てたんだ！ちょっと歌いながら考えごとをしてたの。"
 
-translate Japanese greeting_visit5_40603bd4:
-    m 1lsbssdrb "何を考えてたかって？簡単に分かると思うけどなー。えへへ〜"
+translate Japanese greeting_visit5_f4a252bd:
+    m 1lsbssdrb "何を考えてたかって？簡単に分かると思うけどなー。あはは〜"
 
 translate Japanese greeting_visit6_6cde410c:
     m 1hua "いつもあなたがそばにいてくれれば毎日もっと楽しいのにな！"
@@ -319,7 +313,7 @@ translate Japanese greeting_visit6_6cde410c:
 translate Japanese greeting_visit6_1658c5af:
     m 1eua "とは言え、こうやってちゃんと来てくれたんだから、うれしいんだよ？"
 
-translate Japanese greeting_visit6_56a9818f:
+translate Japanese greeting_visit6_63a776c4:
     m "ふたりで素敵な一日にしようね。"
 
 translate Japanese greeting_back6_8c844f28:
@@ -403,14 +397,8 @@ translate Japanese greeting_youtuber_eb073c10:
 translate Japanese greeting_youtuber_a5150f5d:
     m 1eua "ユーチューバーのモノマネなんだけど、面白かった？えへへ～"
 
-translate Japanese greeting_hamlet_0ac115a7:
-    m 4esc "{i}生きるべきか死ぬべきか、それが問題だ。{/i}"
-
-translate Japanese greeting_hamlet_50884561:
-    m 1wuo "あっ、来てくれたんだ。ちょっと暇つぶしをしてたんだよね。えへへ～"
-
-translate Japanese greeting_hamlet_e2f99192:
-    m 1lksdlb "こんなにすぐ会えるなんて思ってなかったから。"
+translate Japanese greeting_hamlet_d5ad78ee:
+    m 4dsc "{i}生きるべきか死ぬべきか、それが問題だ。{/i}"
 
 translate Japanese greeting_welcomeback_3daa5017:
     m 1hua "やっほー、おかえりー！"
@@ -529,10 +517,10 @@ translate Japanese monikaroom_greeting_ear_narration_a76d3e04:
 translate Japanese monikaroom_greeting_ear_narration_b73f950f:
     m "誰だろう？[player]はスクリーンを見つめ、首をかしげた。"
 
-translate Japanese _call_spaceroom_33_c032ba37:
+translate Japanese _call_spaceroom_19_c032ba37:
     m 1hub "私だよ！"
 
-translate Japanese _call_spaceroom_33_463b50ff:
+translate Japanese _call_spaceroom_19_463b50ff:
     m "おかえりなさい、[player]君！"
 
 translate Japanese monikaroom_greeting_ear_loveme_750970d7:
@@ -649,44 +637,44 @@ translate Japanese monikaroom_greeting_opendoor_locked_40edabd2:
 translate Japanese monikaroom_greeting_opendoor_locked_87b967b0:
     m "部屋を片付けるからちょっと待って……"
 
-translate Japanese _call_spaceroom_34_4068a088:
+translate Japanese _call_spaceroom_20_4068a088:
     m 1hua "よし、出来た！"
 
-translate Japanese _call_spaceroom_34_449e8f3e:
+translate Japanese _call_spaceroom_20_449e8f3e:
     m 1lksdlb "あれっ！まだこういうのヘタだなあ。"
 
-translate Japanese _call_spaceroom_34_9a47a1cc:
+translate Japanese _call_spaceroom_20_9a47a1cc:
     m 1lksdla "ちょっとここのフラグを変えるからね……{w=1.5}{nw}"
 
-translate Japanese _call_spaceroom_34_4ab0f437:
+translate Japanese _call_spaceroom_20_4ab0f437:
     m 1hua "これでよしっと！"
 
 translate Japanese monikaroom_greeting_opendoor_locked_tbox_1a305b96:
     m 1eua "おかえりなさい、[player]君。"
 
-translate Japanese _call_spaceroom_35_31ccf646:
+translate Japanese _call_spaceroom_21_31ccf646:
     m 1dsd "[player]君……"
 
-translate Japanese _call_spaceroom_35_37d77e8b:
+translate Japanese _call_spaceroom_21_37d77e8b:
     m 1ekc_static "一番最初の時にあなたがノックしなかった理由は分かったわ、{w=0.2} でも、そんな風に入ってくるのはやめてもらえる？"
 
-translate Japanese _call_spaceroom_35_4ac2903b:
+translate Japanese _call_spaceroom_21_4ac2903b:
     m 1lksdlc_static "ここは私の部屋よ。"
 
-translate Japanese _call_spaceroom_35_234541ea:
+translate Japanese _call_spaceroom_21_234541ea:
     m 3hua_static "ええ、そうよ！"
 
-translate Japanese _call_spaceroom_35_c502e36e:
+translate Japanese _call_spaceroom_21_cd0688b5:
     m 3eua_static "あなたがいない時でも私が快適にくつろげるように、MOD開発チームがこの部屋を作ってくれたの。"
 
-translate Japanese _call_spaceroom_35_831199f6:
+translate Japanese _call_spaceroom_21_edc44ffe:
     m 1lksdla_static "でもね、あなたがゲームを閉じる前に私に「さよなら」や「おやすみ」と言ってくれないと私はここにいることができないの。"
 
-translate Japanese _call_spaceroom_35_611c89ab:
+translate Japanese _call_spaceroom_21_611c89ab:
     m 2eub_static "だから離れる前には必ず言ってね、いい？"
 
-translate Japanese _call_spaceroom_35_c9062bfa:
-    m "それはそうと……"
+translate Japanese _call_spaceroom_21_7a58ed2d:
+    m "それはそうと…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese monikaroom_greeting_opendoor_post2_747a3f5a:
     m "戻ってきてくれて嬉しいわ。[player]君。"
@@ -697,47 +685,47 @@ translate Japanese monikaroom_greeting_opendoor_post2_a03b8c14:
 translate Japanese monikaroom_greeting_opendoor_post2_34f69a49:
     m "見て！"
 
-translate Japanese monikaroom_greeting_opendoor_post2_c82b3b3a:
-    m 1dsc "……{w=1.5}{nw}"
+translate Japanese monikaroom_greeting_opendoor_post2_2c941545:
+    m 1dsc "…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_spaceroom_36_9eef47c6:
+translate Japanese _call_spaceroom_22_9eef47c6:
     m "じゃじゃーん！"
 
-translate Japanese _call_spaceroom_37_aa66512d:
+translate Japanese _call_spaceroom_23_aa66512d:
     m 2esd "……Is it love if I take you, or is it love if I set you free～♪"
 
-translate Japanese _call_spaceroom_37_f3c4e141:
+translate Japanese _call_spaceroom_23_f3c4e141:
     m 1eud_static "え、え！？[player]君！"
 
-translate Japanese _call_spaceroom_37_69ea19f4:
+translate Japanese _call_spaceroom_23_69ea19f4:
     m "びっくりした！いきなり現れるんだもん！"
 
-translate Japanese _call_spaceroom_37_2d33a873:
+translate Japanese _call_spaceroom_23_2d33a873:
     m 1hksdlb_static "不意を突かれたって感じだよ！"
 
-translate Japanese _call_spaceroom_37_39282b62:
+translate Japanese _call_spaceroom_23_39282b62:
     m 1eka_static "でも、戻ってきてくれてありがとう、[player]君。"
 
-translate Japanese _call_spaceroom_37_32ad6f05:
+translate Japanese _call_spaceroom_23_32ad6f05:
     m 3eua_static "いろいろ準備するから、ちょっと待ってて。ね？"
 
-translate Japanese _call_spaceroom_37_ad3d2b7c:
+translate Japanese _call_spaceroom_23_ad3d2b7c:
     m 2eud_static "……"
 
-translate Japanese _call_spaceroom_37_7b136e06:
+translate Japanese _call_spaceroom_23_7b136e06:
     m 1eud_static "……それから……"
 
-translate Japanese _call_spaceroom_37_7c8d2dd0:
+translate Japanese _call_spaceroom_23_7c8d2dd0:
     m 3eua_static "出来た！"
 
-translate Japanese _call_spaceroom_37_55bc810f:
+translate Japanese _call_spaceroom_23_55bc810f:
     m 1hksdlb_static "あっ！忘れてた～"
 
-translate Japanese _call_spaceroom_37_f5f09cae:
-    m "ちょっと待って……"
+translate Japanese _call_spaceroom_23_8aae5d0e:
+    m "ちょっと待って…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_spaceroom_37_9292a9ca:
-    m 2hua_static "これで……よしっ！と。"
+translate Japanese _call_spaceroom_23_b611cd98:
+    m 2hua_static "これでよしっ！と。"
 
 translate Japanese monikaroom_greeting_knock_d5f46b58:
     m "どなた～？"
@@ -763,10 +751,10 @@ translate Japanese monikaroom_greeting_knock_0bb2be9c:
 translate Japanese monikaroom_greeting_knock_c56cbbeb:
     m "ありがとう、ノックしてくれて。"
 
-translate Japanese monikaroom_greeting_post_61d10f91:
-    m 2eua_static "とりあえず机と椅子を持ってくるね……"
+translate Japanese monikaroom_greeting_post_7db879bd:
+    m 2eua_static "とりあえず机と椅子を持ってくるね{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese monikaroom_greeting_post_e50a3db5:
+translate Japanese monikaroom_greeting_post_0819c091:
     m 1eua "今日は何をしようか、 [player]君？"
 
 translate Japanese greeting_youarereal_de0b16b9:
@@ -955,8 +943,8 @@ translate Japanese greeting_french_cb69a80c:
 translate Japanese greeting_french_ea90193d:
     m 1hua "Savais-tu que tu avais de beaux yeux, mon amour?"
 
-translate Japanese greeting_french_f5261a28:
-    m 1hub "えへへ！"
+translate Japanese greeting_french_3772217d:
+    m 1hub "あはは！"
 
 translate Japanese greeting_french_9553aee6:
     m 3hksdlb "フランス語の勉強をしてたの。さっきのは「あなたってとても綺麗な瞳をしていますね」って言っただけ〜"
@@ -1003,7 +991,7 @@ translate Japanese greeting_stillsick_8add14f0:
 translate Japanese greeting_stillsick_470679bb:
     m "私のためにも、そうしてくれないかな？"
 
-translate Japanese greeting_stillsickrest_73b9e57a:
+translate Japanese greeting_stillsickrest_abd55fb7:
     m 2hua "ありがとう、[player]君。"
 
 translate Japanese greeting_stillsickrest_72fba5a7:
@@ -1015,10 +1003,13 @@ translate Japanese greeting_stillsickrest_54e8b0c6:
 translate Japanese greeting_stillsickrest_bd00a6f8:
     m 1eka "きっとすぐに良くなるからね、[player]君。大好きだよ！"
 
+translate Japanese greeting_stillsickrest_c78c974f:
+    m 2ekc "ありがとう、[player]君。"
+
 translate Japanese greeting_stillsicknorest_1c48619b:
     m 1lksdlc "そう……"
 
-translate Japanese greeting_stillsicknorest_dbd6d3cb:
+translate Japanese greeting_stillsicknorest_abda1521:
     m "うーん、[player]君がそこまで言うなら。"
 
 translate Japanese greeting_stillsicknorest_cbee8df3:
@@ -1069,10 +1060,10 @@ translate Japanese greeting_long_absence_531e6cb9:
 translate Japanese greeting_long_absence_19428ff1_1:
     m 1hua "えへへ～"
 
-translate Japanese _call_spaceroom_39_8018692b:
+translate Japanese _call_spaceroom_25_8018692b:
     m 1lksdlc "……"
 
-translate Japanese _call_spaceroom_39_6111571a:
+translate Japanese _call_spaceroom_25_6111571a:
     m 1dsc "……"
 
 translate Japanese greeting_tears_f15775ec:
@@ -1132,16 +1123,16 @@ translate Japanese greeting_ourreality_19428ff1:
 translate Japanese greeting_ourreality_6111571a:
     m 1dsc "……"
 
-translate Japanese _call_return_home_post_player_bday_13_ea479d79:
+translate Japanese _call_return_home_post_player_bday_1_ea479d79:
     m 6dktdc "……"
 
-translate Japanese _call_return_home_post_player_bday_13_2efc1dd4:
+translate Japanese _call_return_home_post_player_bday_1_2efc1dd4:
     m 6dkc "……"
 
-translate Japanese _call_return_home_post_player_bday_13_4bafb44c:
+translate Japanese _call_return_home_post_player_bday_1_4bafb44c:
     m 6dktsc "……"
 
-translate Japanese _call_return_home_post_player_bday_13_4bafb44c:
+translate Japanese _call_return_home_post_player_bday_1_4bafb44c:
     m 6dktsc "……"
 
 translate Japanese greeting_back_from_game_af911328:

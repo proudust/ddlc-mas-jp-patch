@@ -1,3 +1,9 @@
+translate Japanese mas_selector_generic_sidebar_select_acs_3dd0f7cb:
+    m "もちろんだよ、[player]君！"
+
+translate Japanese _call_mas_selector_sidebar_select_acs_1_bd2a5f73:
+    m 1eka "あっ、分かったわ。"
+
 translate Japanese monika_clothes_select_74680220:
     m 1hua "もちろん！"
 
@@ -19,12 +25,6 @@ translate Japanese _call_mas_selector_sidebar_select_hair_2_bd2a5f73:
 translate Japanese monika_ribbon_select_13d1eccf:
     m 1eua "もちろんだよ、[player]君！"
 
-translate Japanese _call_mas_selector_sidebar_select_acs_1_bd2a5f73:
-    m 1eka "あっ、分かったわ。"
-
-translate Japanese monika_hairclip_select_13d1eccf:
-    m 1eua "もちろんだよ、[player]君！"
-
 translate Japanese _call_mas_selector_sidebar_select_acs_2_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
@@ -32,12 +32,6 @@ translate Japanese monika_hairflower_select_13d1eccf:
     m 1eua "もちろんだよ、[player]君！"
 
 translate Japanese _call_mas_selector_sidebar_select_acs_3_bd2a5f73:
-    m 1eka "あっ、分かったわ。"
-
-translate Japanese monika_choker_select_d0b0048f:
-    m 6eua "もちろんだよ、[player]君！"
-
-translate Japanese _call_mas_selector_sidebar_select_acs_4_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
 translate Japanese strings:

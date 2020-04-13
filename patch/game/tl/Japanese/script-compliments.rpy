@@ -25,8 +25,8 @@ translate Japanese mas_compliment_beautiful_2_f583d4e3:
 translate Japanese mas_compliment_beautiful_3_3201a8bc:
     m 1hubfa "えへへ～"
 
-translate Japanese mas_compliment_beautiful_3_6ad6325e:
-    m 1ekbfa "[thanks_quip!t]"
+translate Japanese mas_compliment_beautiful_3_75854caf:
+    m 1ekbfa "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_beautiful_3_e43d5158:
     m 5hubfb "私にとってはあなたが世界一美しいの。忘れないでね。"
@@ -55,8 +55,8 @@ translate Japanese mas_compliment_eyes_2_b72a1ed5:
 translate Japanese mas_compliment_eyes_2_ad4a4cef:
     m 2lksdrb "そういう例えは使ったことないわね……でもありがと！"
 
-translate Japanese mas_compliment_eyes_3_8dd169d4:
-    m 1hubfb "[thanks_quip!t]"
+translate Japanese mas_compliment_eyes_3_d54f7392:
+    m 1hubfb "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_eyes_3_936e8205:
     m 2ekbfb "好きなだけ見つめ合いましょ～"
@@ -94,8 +94,8 @@ translate Japanese mas_compliment_awesome_2_ef349082:
 translate Japanese mas_compliment_awesome_2_dcd0caec:
     m 1dkc "えっと、お互いそれぞれだとは思うけれど……でも時々はハグしてよね……"
 
-translate Japanese mas_compliment_awesome_3_44df7e09:
-    m 1hub "[thanks_quip!t]"
+translate Japanese mas_compliment_awesome_3_1dbd6298:
+    m 1hub "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_awesome_3_801adb63:
     m 1eub "あなたはいつだって素晴らしいんだから！"
@@ -124,8 +124,8 @@ translate Japanese mas_compliment_intelligent_2_cf4afe90:
 translate Japanese mas_compliment_intelligent_2_6ecd8f50:
     m 2lkbsc "ごめんなさい、そんなつもりじゃなかったの……"
 
-translate Japanese mas_compliment_intelligent_3_6ad6325e:
-    m 1ekbfa "[thanks_quip!t]"
+translate Japanese mas_compliment_intelligent_3_75854caf:
+    m 1ekbfa "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_intelligent_3_43f306cd:
     m 1hub "自分磨きの人生を一緒に過ごしていくのを忘れずにね！"
@@ -208,8 +208,8 @@ translate Japanese mas_compliment_fit_2_c9d14393:
 translate Japanese mas_compliment_fit_2_1ebe8de1:
     m 1lksdla "あなたが私の興味をシェアしてくれたら嬉しくなれるんだって、分かってくれてるよね？"
 
-translate Japanese mas_compliment_fit_3_5e1b514b:
-    m 2eka "[thanks_quip!t]"
+translate Japanese mas_compliment_fit_3_2f70ef16:
+    m 2eka "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_fit_3_f64287bc:
     m 1hub "あなたも私とフィットネスの旅に乗り込んでくれたらいいな！"
@@ -274,8 +274,8 @@ translate Japanese mas_compliment_smile_2_e6f89ce6:
 translate Japanese mas_compliment_smile_2_8b316747:
     m 3eub "だったらここにちゃんと戻ってくる他に無いね、[player]君！"
 
-translate Japanese mas_compliment_smile_3_88469b58:
-    m 1eub "[thanks_quip!t]"
+translate Japanese mas_compliment_smile_3_d5ec42a2:
+    m 1eub "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_smile_3_3cbad33a:
     m 1hua "あなただけのために笑顔でいるから！"
@@ -349,8 +349,8 @@ translate Japanese mas_compliment_cute_2_c0bcc4d4:
 translate Japanese mas_compliment_cute_2_857fcbb7:
     m 1rsc "でも私は私でちゃんと見てほしかったかな。"
 
-translate Japanese mas_compliment_cute_3_6ad6325e:
-    m 1ekbfa "[thanks_quip!t]"
+translate Japanese mas_compliment_cute_3_75854caf:
+    m 1ekbfa "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_cute_3_1fe74b3a:
     m 1hubfa "あなたもいつだって可愛いときがあるってこと分かってるくせに～"
@@ -474,6 +474,12 @@ translate Japanese mas_compliment_bestgirl_ed2829c0:
 
 translate Japanese mas_compliment_bestgirl_3fc15209:
     m 5hubfa "……そうしてくれて、感謝してもしきれないわ～"
+
+translate Japanese mas_compliment_lookuptoyou_3_d54f7392:
+    m 1hubfb "[mas_compliments.thanks_quip!t]"
+
+translate Japanese mas_compliment_thinking_of_you_3_754034d1:
+    m 1ekbsa "[mas_compliments.thanks_quip!t]"
 
 translate Japanese strings:
     old "You're so sweet, [player]."
