@@ -136,8 +136,15 @@ translate Japanese style monika_text:
 translate Japanese python:
     # 接頭詞・接尾詞の設定
     m = DynamicCharacter('m_name', image='monika', what_prefix='「', what_suffix='」', ctc="ctc", ctc_position="fixed")
-    # カレンダーの表示の設定
+    # カレンダーの表示微調整
     MASCalendar.DATE_DISPLAY_FORMAT = "                   {0}\n{1}\n{2}\n{3}"
+    # 日付のフォーマットを日本式に置き換え
+    def genFormalDispDate(_date):
+        return (
+            "".join([str(_date.year), "年", str(_date.month), "月", str(_date.day), "日"]),
+            datetime.date.today() - _date
+        )
+    store.mas_calendar.genFormalDispDate = genFormalDispDate
 
 init python:
     # 日本語固定
