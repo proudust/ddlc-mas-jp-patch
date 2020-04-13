@@ -1,4 +1,4 @@
-DDLC Monika After Story 日本語化パッチ(20/02/17)
+DDLC Monika After Story 日本語化パッチ(20/04/13)
 ------------------------------------------------------------
 
 
@@ -44,7 +44,7 @@ xano明朝フォント[特別な詩](http://www.asahi-net.or.jp/~sd5a-ucd/freefo
 配布ページ (Steam ガイド)
 https://steamcommunity.com/sharedfiles/filedetails/?id=1331592265
 
-Doki Doki Literature Club! 日本語化 作業所 (Google スプレッドシート)
+DDLC Monika After Story 日本語化 作業所 (Google スプレッドシート)
 https://docs.google.com/spreadsheets/d/1X8rvZMdBmTrvt7rCIgfOR7R7NcjY6BFTTh0miAvMvn0/edit?usp=sharing
 
 DDLC翻訳部 (Discord)
@@ -56,6 +56,12 @@ https://github.com/proudust/ddlc-mas-jp-patch
 
 
 更新履歴：
+200413
+・DDLC MAS v0.11.0 に仮対応
+・翻訳の更新
+・Submod Framework に対応 (現在はオプションからパッチバージョンを確認できるのみ)
+・Insensitive comments (悪い冗談) の話題でクラッシュする不具合を修正
+
 200217
 ・DDLC MAS v0.10.7 に仮対応
 ・翻訳の更新
