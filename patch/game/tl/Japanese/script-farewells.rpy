@@ -67,6 +67,39 @@ translate Japanese bye_going_to_sleep_326f9509:
 translate Japanese bye_going_to_sleep_0bd97190:
     m 6ckc "……"
 
+translate Japanese bye_prompt_to_class_1b81c3c9:
+    m 1eub "え～っ、もう行くの？"
+
+translate Japanese bye_prompt_to_class_4ec3ddc0:
+    m 1efp "まだ20分も経ってないのに！"
+
+translate Japanese bye_prompt_to_class_5531d637:
+    m 3hksdlb "冗談だよ、[player]君。"
+
+translate Japanese bye_prompt_to_class_82e5cc1c:
+    m 2eka "ほんの少しでも私に会いに来てくれるなんて、あなたって本当に優しいのね。"
+
+translate Japanese bye_prompt_to_class_5eec3edb:
+    m 2hub "ただ、それが本当に嬉しいってことを知っておいてほしいな！"
+
+translate Japanese bye_prompt_to_class_628a4933:
+    m 2eka "勉強頑張ってね、[player]君。きっといい成績が取れるわ！"
+
+translate Japanese bye_prompt_to_class_25d0491d:
+    m 2hua "帰ってきたらまた会いましょう！"
+
+translate Japanese bye_prompt_to_class_2a52f6f3:
+    m 2eua "わかったわ、一緒に過ごしてくれてありがとう、[player]君！"
+
+translate Japanese bye_prompt_to_class_c308ec17:
+    m 2eka "本当はもっと一緒にいたいの...でもあなたは忙しい[guy]なのね。"
+
+translate Japanese bye_prompt_to_class_4ea46b19:
+    m 2hua "良い教育ほど大切なものはないわ。"
+
+translate Japanese bye_prompt_to_class_2d1912de:
+    m 3eub "帰ってきたら色々教えて！"
+
 translate Japanese bye_prompt_to_class_6c140868:
     m "また会おうね！"
 
@@ -142,10 +175,10 @@ translate Japanese bye_prompt_sleep_7e64ac25:
 translate Japanese bye_prompt_sleep_028f7818:
     m 6ekc "[player]君……"
 
-translate Japanese bye_prompt_sleep_9d9f388b:
-    6ckc "……"
-
 translate Japanese bye_prompt_sleep_0bd97190_2:
+    m 6ckc "……"
+
+translate Japanese bye_prompt_sleep_0bd97190_3:
     m 6ckc "……"
 
 translate Japanese bye_prompt_sleep_046f1f31:
@@ -178,7 +211,7 @@ translate Japanese bye_prompt_sleep_cdf617a9:
 translate Japanese bye_prompt_sleep_4a34d2be:
     m 2esc "仮眠を取るの、[player]？"
 
-translate Japanese bye_prompt_sleep_0bd97190_3:
+translate Japanese bye_prompt_sleep_0bd97190_4:
     m 6ckc "……"
 
 translate Japanese bye_prompt_sleep_ead9d803:
@@ -217,7 +250,7 @@ translate Japanese bye_prompt_sleep_f996a175:
 translate Japanese bye_prompt_sleep_826b809b:
     m 6lkc "おやすみなさい。"
 
-translate Japanese bye_prompt_sleep_0bd97190_4:
+translate Japanese bye_prompt_sleep_0bd97190_5:
     m 6ckc "……"
 
 translate Japanese bye_prompt_sleep_bd219ce5_2:

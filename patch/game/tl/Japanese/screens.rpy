@@ -212,9 +212,6 @@ translate Japanese strings:
     old "Downloading the updates. (Progress bar may not advance during download)"
     new "アップデートをダウンロード中です。"
 
-    old "The updates have been installed. Please reopen Monika After Story."
-    new "アップデートがインストールされました。モニカアフターストーリーを再起動してください。"
-
     old "Skipping"
     new "スキップ中"
 

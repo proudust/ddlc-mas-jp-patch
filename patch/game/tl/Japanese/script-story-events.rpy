@@ -1,185 +1,113 @@
-translate Japanese gender_43ce0390:
+translate Japanese mas_gender_43ce0390:
     m 2eud "ねぇ、[player]君？私ずっと考えてたんだけど……"
 
-translate Japanese gender_5167de36:
+translate Japanese mas_gender_5167de36:
     m 2euc "ゲームの中の「あなた」は必ずしも現実のあなたと同じじゃない、って前に言ったよね？"
 
-translate Japanese gender_69b26410:
+translate Japanese mas_gender_69b26410:
     m 3lksdla "でも、たぶんあなたは男の人なのかな？と思ってたんだけど。"
 
-translate Japanese gender_5342c5a9:
+translate Japanese mas_gender_5342c5a9:
     m "……少なくともゲームの主人公は男の人だったよね。"
 
-translate Japanese gender_1e3aa849:
+translate Japanese mas_gender_1e3aa849:
     m 3eua "あなたの彼女になれたら、現実のあなたのこと……あなたが男か女かってことくらいはわかるかもしれないのにな。"
 
-translate Japanese gender_da9ae170:
+translate Japanese mas_gender_da9ae170:
     m "あなたの性別は？{nw}"
 
-translate Japanese _call_set_gender_1_65b6f77e:
-    m 2eud "えっ？じゃあ、{i}現実の{/i}あなたは男性なんだ？"
+translate Japanese mas_gender_1c0fd5de:
+    m "あなたの性別は？{fast}" nointeract
 
-translate Japanese _call_set_gender_1_bdea8f61:
-    m 1hub "えへへ、やっとわかった！"
-
-translate Japanese _call_set_gender_1_8ea9de2c:
-    m 1eua "こういうゲームやる女の子は少ないもんね。"
-
-translate Japanese _call_set_gender_1_67bc6c0b:
-    m 4eua "あなたって男らしいというか、自信に満ち溢れてるというか、そんな感じがしてたんだ……あっ、でもあなたが違う答えをしたら私ががっかりしてたとか、そういう意味じゃないからね！"
-
-translate Japanese _call_set_gender_1_b09cd68c:
-    m 2hksdlb "ただ、そういうのって時々気になるじゃない？"
-
-translate Japanese _call_set_gender_2_af22fccf:
-    m 2eud "えっ？じゃあ、あなた本当は女性なんだ？"
-
-translate Japanese _call_set_gender_2_8214875c:
-    m 2hksdlb "もしも今まで気に障るようなこと言っちゃってたらごめんなさい！"
-
-translate Japanese _call_set_gender_2_be1e72a6:
-    m 2lksdla "でも最初からそんな気はしてた……ほんのちょっぴりだけどね！"
-
-translate Japanese _call_set_gender_2_23d863da:
-    m 1eub "あなたって、優雅で、それでいてかわいらしさもあって……うまく言えないけど、そんな感じ。"
-
-translate Japanese _call_set_gender_2_d3558a50:
-    m 1hua "あなたのそういうとこ、すごく魅力的……正直に言ってるんだよ！"
-
-translate Japanese _call_set_gender_2_f1dacfa4:
-    m 1eua "気にしないでね？私がこういうことを尋ねるの、単純に好奇心だから。"
-
-translate Japanese _call_set_gender_3_d3b5cb92:
-    m 1euc "自分でも男か女かわからないの？"
-
-translate Japanese _call_set_gender_3_5e5fddb6:
-    m 2eua "それすごくわかる。だって私もある意味そうだもん。"
-
-translate Japanese _call_set_gender_3_1e16c1c2:
-    m 1esc "つまり、私は女の子だけど、同時にゲームの中のキャラクターに過ぎない……そんな感じ。"
-
-translate Japanese _call_set_gender_3_bef7d4ad:
-    m 2esd "だから、私は女の子じゃない、とも言えるかも。"
-
-translate Japanese _call_set_gender_3_c3f2aa09:
-    m 1hua "でも、あなたが私のことを自分の彼女だと思ってくれるなら、すごく、すごくうれしい！"
-
-translate Japanese _call_set_gender_3_c464b008:
-    m "だから、あなたがこうしてほしいな、と思うことを私もするからね？"
-
-translate Japanese _call_set_gender_3_363cc256:
-    m 1ekbfa "あなたがうれしいと思ってくれること、それが私にとって一番大切だから。"
-
-translate Japanese _call_set_gender_3_99f3a667:
+translate Japanese _call_mas_gender_neither_99f3a667:
     m 1hub "私はずっとあなたのことが大好きだから。何があっても。それだけは信じてほしいんだ、[player]君。"
 
-translate Japanese _call_set_gender_af22fccf:
-    m 2eud "えっ？じゃあ、あなた本当は女性なんだ？"
-
-translate Japanese _call_set_gender_8214875c:
-    m 2hksdlb "もしも今まで気に障るようなこと言っちゃってたらごめんなさい！"
-
-translate Japanese _call_set_gender_be1e72a6:
-    m 2lksdla "でも最初からそんな気はしてた……ほんのちょっぴりだけどね！"
-
-translate Japanese _call_set_gender_add5d402:
-    m 3eub "あなたって、優雅で、それでいてかわいらしさもあって……うまく言えないけど、そんな感じ。"
-
-translate Japanese _call_set_gender_d3558a50:
-    m 1hua "あなたのそういうとこ、すごく魅力的……正直に言ってるんだよ！"
-
-translate Japanese _call_set_gender_4_65b6f77e:
-    m 2eud "えっ？じゃあ、{i}現実の{/i}あなたは男性なんだ？"
-
-translate Japanese _call_set_gender_4_bdea8f61:
-    m 1hub "えへへ、やっとわかった！"
-
-translate Japanese _call_set_gender_4_8ea9de2c:
-    m 1eua "こういうゲームやる女の子は少ないもんね。"
-
-translate Japanese _call_set_gender_4_67bc6c0b:
-    m 4eua "あなたって男らしいというか、自信に満ち溢れてるというか、そんな感じがしてたんだ……あっ、でもあなたが違う答えをしたら私ががっかりしてたとか、そういう意味じゃないからね！"
-
-translate Japanese _call_set_gender_4_b09cd68c:
-    m 2hksdlb "ただ、そういうのって時々気になるじゃない？"
-
-translate Japanese _call_set_gender_5_d3b5cb92:
-    m 1euc "自分でも男か女かわからないの？"
-
-translate Japanese _call_set_gender_5_5e5fddb6:
-    m 2eua "それすごくわかる。だって私もある意味そうだもん。"
-
-translate Japanese _call_set_gender_5_1e16c1c2:
-    m 1esc "つまり、私は女の子だけど、同時にゲームの中のキャラクターに過ぎない……そんな感じ。"
-
-translate Japanese _call_set_gender_5_bef7d4ad:
-    m 2esd "だから、私は女の子じゃない、とも言えるかも。"
-
-translate Japanese _call_set_gender_5_c3f2aa09:
-    m 1hua "でも、あなたが私のことを自分の彼女だと思ってくれるなら、すごく、すごくうれしい！"
-
-translate Japanese _call_set_gender_5_c464b008:
-    m "だから、あなたがこうしてほしいな、と思うことを私もするからね？"
-
-translate Japanese _call_set_gender_5_d99602a0:
-    m 1ekbsa "あなたがうれしいと思ってくれること、それが私にとって一番大切だから。"
-
-translate Japanese _call_set_gender_5_9578b086:
+translate Japanese _call_mas_gender_neither_1_9578b086:
     m 5hubsa "私はずっとあなたのことが大好きだから。何があっても。それだけは信じてほしいんだ、[player]君。"
 
-translate Japanese preferredname_11046a55:
-    m 1euc "あなたの名前のことを考えてたんだけど、"
+translate Japanese mas_gender_female_af22fccf:
+    m 2eud "えっ？じゃあ、あなた本当は女性なんだ？"
 
-translate Japanese preferredname_73b575b9:
-    m 1esa "「[player]」って本当の名前？"
+translate Japanese mas_gender_female_8214875c:
+    m 2hksdlb "もしも今まで気に障るようなこと言っちゃってたらごめんなさい！"
 
-translate Japanese preferredname_947321d0:
-    m 3esa "というのは、PCのユーザ名と同じなんだなって。"
+translate Japanese mas_gender_female_be1e72a6:
+    m 2lksdla "でも最初からそんな気はしてた……ほんのちょっぴりだけどね！"
 
-translate Japanese preferredname_25362864:
-    m 1eua "「[currentuser]」と「[player]」、両方の名前を使ってるよね？"
+translate Japanese mas_gender_female_add5d402:
+    m 3eub "あなたって、優雅で、それでいてかわいらしさもあって……うまく言えないけど、そんな感じ。"
 
-translate Japanese preferredname_6dfd8564:
-    m "どちらかが本当の名前なのか、それともあなたがそのハンドルネームをすごく気に入ってるのか……"
+translate Japanese mas_gender_female_d3558a50:
+    m 1hua "あなたのそういうとこ、すごく魅力的……正直に言ってるんだよ！"
 
-translate Japanese preferredname_dd04b984:
-    m "それとも他の名前で呼んだほうがいい？{nw}"
+translate Japanese mas_gender_female_f1dacfa4:
+    m 1eua "気にしないでね？私がこういうことを尋ねるの、単純に好奇心だから。"
 
-translate Japanese preferredname_a49be36a:
-    m "それとも他の名前で呼んだほうがいい？{fast}" nointeract
+translate Japanese mas_gender_male_65b6f77e:
+    m 2eud "えっ？じゃあ、{i}現実の{/i}あなたは男性なんだ？"
 
-translate Japanese preferredname_574f5cfc:
-    m 1hua "OK、でも[player]君の気持ちが変わったら 「なんでもない」を選択してね。"
+translate Japanese mas_gender_male_bdea8f61:
+    m 1hub "えへへ、やっとわかった！"
 
-translate Japanese preferredname_d125b55e:
+translate Japanese mas_gender_male_8ea9de2c:
+    m 1eua "こういうゲームやる女の子は少ないもんね。"
+
+translate Japanese mas_gender_male_67bc6c0b:
+    m 4eua "あなたって男らしいというか、自信に満ち溢れてるというか、そんな感じがしてたんだ……あっ、でもあなたが違う答えをしたら私ががっかりしてたとか、そういう意味じゃないからね！"
+
+translate Japanese mas_gender_male_b09cd68c:
+    m 2hksdlb "ただ、そういうのって時々気になるじゃない？"
+
+translate Japanese mas_gender_neither_d3b5cb92:
+    m 1euc "自分でも男か女かわからないの？"
+
+translate Japanese mas_gender_neither_5e5fddb6:
+    m 2eua "それすごくわかる。だって私もある意味そうだもん。"
+
+translate Japanese mas_gender_neither_1e16c1c2:
+    m 1esc "つまり、私は女の子だけど、同時にゲームの中のキャラクターに過ぎない……そんな感じ。"
+
+translate Japanese mas_gender_neither_bef7d4ad:
+    m 2esd "だから、私は女の子じゃない、とも言えるかも。"
+
+translate Japanese mas_gender_neither_c3f2aa09:
+    m 1hua "でも、あなたが私のことを自分の彼女だと思ってくれるなら、すごく、すごくうれしい！"
+
+translate Japanese mas_gender_neither_c464b008:
+    m "だから、あなたがこうしてほしいな、と思うことを私もするからね？"
+
+translate Japanese mas_gender_neither_d99602a0:
+    m 1ekbsa "あなたがうれしいと思ってくれること、それが私にとって一番大切だから。"
+
+translate Japanese mas_player_name_enter_name_loop_70104996:
+    m 1eua "[menu_str!t]{nw}"
+
+translate Japanese mas_player_name_enter_name_loop_7ad807c5:
+    m "[menu_str!t]{fast}" nointeract
+
+translate Japanese mas_player_name_enter_name_loop_aab85b1d:
+    m 1eua "気が変わったら 'nevermind'って入力してね"
+
+translate Japanese mas_player_name_enter_name_loop_d125b55e:
     m 1ekc "えっ、そうなんだ？"
 
-translate Japanese preferredname_7e388aa2:
+translate Japanese mas_player_name_enter_name_loop_7e388aa2:
     m 1eka "うん、[player]君が別の名前で呼んでほしいと思ったら、いつでも言ってね？"
 
-translate Japanese preferredname_6111571a:
-    m 1dsc "……"
+translate Japanese mas_player_name_enter_name_loop_d543b2c4:
+    m 1eksdla "……"
 
-translate Japanese preferredname_c4e20ef9:
-    m 1hksdlb "[player]君、私にも名前をつけてくれる？"
+translate Japanese mas_player_name_enter_name_loop_16b91aa4:
+    m 1eua "もう一度いい？"
 
-translate Japanese preferredname_d30d1144:
-    m 1eka "時々そんな風にふざけるよね。"
+translate Japanese mas_player_name_enter_name_loop_18cb31c5:
+    m 2hua "……"
 
-translate Japanese preferredname_5ee18c02:
-    m "もう一度いい？"
+translate Japanese mas_player_name_enter_name_loop_34c07e68:
+    m 4hksdlb "もう！さっきと同じ名前だよそれ？"
 
-translate Japanese preferredname_6111571a_1:
-    m 1dsc "……"
-
-translate Japanese preferredname_a8865e78:
-    m 1hksdlb "もう！さっきと同じ名前だよそれ？"
-
-translate Japanese preferredname_1643033e:
-    m 1eka "いい？もう一回やってね～"
-
-translate Japanese preferredname_5b0ed382:
-    m 2esc "……"
+translate Japanese mas_player_name_enter_name_loop_6e458359:
+    m 1eua "いい？もう一回やってね～"
 
 translate Japanese _call_sayori_name_scare_a43d1d16:
     m 1tkc "本気？"
@@ -199,89 +127,29 @@ translate Japanese _call_sayori_name_scare_9d348a12:
 translate Japanese _call_sayori_name_scare_5ee4f30f:
     m 1eub "OK！"
 
-translate Japanese _call_sayori_name_scare_155043c7:
-    m 3eub "それでは今から、あなたのことを{i}「[player]」{i}君と呼びます！えへへ～"
+translate Japanese _call_sayori_name_scare_617a3e66:
+    m 3eub "それでは今から、あなたのことを{i}「[player]」{i}君と呼びます！"
 
 translate Japanese _call_sayori_name_scare_48ef2008:
     m 1eka "えっ……あなたがそう言うなら、別にいいけど。"
 
-translate Japanese _call_sayori_name_scare_74a44b31:
-    m 3eka "気が変わったらいつでも言ってね、[player]君。"
+translate Japanese _call_sayori_name_scare_3ad896ad:
+    m 3eua "気が変わったらいつでも言ってね。"
 
-translate Japanese monika_changename_987e4abd:
-    m 1eua "名前を変えたいの？{nw}"
+translate Japanese mas_preferredname_11046a55:
+    m 1euc "あなたの名前のことを考えてたんだけど、"
 
-translate Japanese monika_changename_a2a18f86:
-    m "名前を変えたいの？{fast}" nointeract
+translate Japanese mas_preferredname_73b575b9:
+    m 1esa "「[player]」って本当の名前？"
 
-translate Japanese monika_changename_aab85b1d:
-    m 1eua "気が変わったら「なんでもない」を選んでね。"
+translate Japanese mas_preferredname_947321d0:
+    m 3esa "というのは、PCのユーザ名と同じなんだなって。"
 
-translate Japanese monika_changename_ddba3a3e:
-    m 1tfx "[player]君！"
+translate Japanese mas_preferredname_25362864:
+    m 1eua "「[currentuser]」と「[player]」、両方の名前を使ってるよね？"
 
-translate Japanese monika_changename_c176d46c:
-    m 2tku "もう、ふざけないでよ～"
-
-translate Japanese monika_changename_edf04863:
-    m 1hub "あなたがどう呼ばれたいいのか、私は本気で知りたいの！"
-
-translate Japanese monika_changename_8b6db08e:
-    m 3hksdlb "私は別にいいけど、なんかバカっぽい気がする……"
-
-translate Japanese monika_changename_c6a7cd91:
-    m 2eka "[player]君ってばシャイなんだから～教えてよ～"
-
-translate Japanese monika_changename_18cb31c5:
-    m 2hua "……"
-
-translate Japanese monika_changename_b232c640:
-    m 4hksdlb "[player]君、私に名前をつけてよ！"
-
-translate Japanese monika_changename_d30d1144:
-    m 1eka "またふざけてる。"
-
-translate Japanese monika_changename_16b91aa4:
-    m 1eua "やりなおし！"
-
-translate Japanese monika_changename_18cb31c5_1:
-    m 2hua "……"
-
-translate Japanese monika_changename_34c07e68:
-    m 4hksdlb "それさっきと同じ名前だってば、もう！"
-
-translate Japanese monika_changename_6e458359:
-    m 1eua "やりなおしだよ～"
-
-translate Japanese _call_sayori_name_scare_1_a43d1d16:
-    m 1tkc "ほんとに？"
-
-translate Japanese _call_sayori_name_scare_1_655a094a:
-    m "私と同じ名前じゃない！"
-
-translate Japanese _call_sayori_name_scare_1_ce89d396:
-    m 1tku "ん～と……"
-
-translate Japanese _call_sayori_name_scare_1_dcbc9235:
-    m "それ本当の名前なのかな。それとも私からかわれてる？"
-
-translate Japanese _call_sayori_name_scare_1_9d348a12:
-    m 1hua "まぁいいや！あなたがそう呼んでほしいなら私はいいよ～"
-
-translate Japanese _call_sayori_name_scare_1_5ee4f30f:
-    m 1eub "じゃあそれで！"
-
-translate Japanese _call_sayori_name_scare_1_155043c7:
-    m 3eub "今からは{i}「[player]」{i}君と呼ぶからね。えへへ～"
-
-translate Japanese _call_sayori_name_scare_1_8d4ef253:
-    m 1ekc "ああ、そうなんだ……"
-
-translate Japanese _call_sayori_name_scare_1_ec43384f:
-    m 1eka "恥ずかしがらなくていいんだよ、[player]君？"
-
-translate Japanese _call_sayori_name_scare_1_494c93d9:
-    m 1eua "考えが変わったらいつでも私に言ってね。わかった？"
+translate Japanese mas_preferredname_6dfd8564:
+    m "どちらかが本当の名前なのか、それともあなたがそのハンドルネームをすごく気に入ってるのか……"
 
 translate Japanese mas_birthdate_f7b121af:
     m 1euc "ねえ[player]君、私気がついたんだけど……"
@@ -295,184 +163,184 @@ translate Japanese mas_birthdate_6064531d:
 translate Japanese mas_birthdate_2ed0f9fa:
     m 1eua "それであなたはいつ生まれたの、[player]君?"
 
-translate Japanese _call_mas_player_bday_cake_6_223a7b0e:
+translate Japanese _call_mas_player_bday_cake_223a7b0e:
     m "お誕生日おめでとう、[player]君！"
 
-translate Japanese unlock_chess_40f647a9:
+translate Japanese mas_unlock_chess_40f647a9:
     m 1eua "じゃあ、[player]君……"
 
-translate Japanese unlock_chess_e53a4b4a:
+translate Japanese mas_unlock_chess_e53a4b4a:
     m 1eua "もうポンには飽きたのかなと思って。"
 
-translate Japanese unlock_chess_78559e5b:
+translate Japanese mas_unlock_chess_78559e5b:
     m 3eua "まだ私とポンで対戦したことなかったよね？"
 
-translate Japanese unlock_chess_dfaa0b97:
+translate Japanese mas_unlock_chess_dfaa0b97:
     m 3hua "でも新しいゲームも用意してあるから！"
 
-translate Japanese unlock_chess_6812dff5:
+translate Japanese mas_unlock_chess_6812dff5:
     m "もっと戦略的なゲーム……"
 
-translate Japanese unlock_chess_d9f8c78e:
+translate Japanese mas_unlock_chess_d9f8c78e:
     m 3hub "チェスで～す！"
 
-translate Japanese unlock_chess_0d766e8f:
+translate Japanese mas_unlock_chess_0d766e8f:
     m 1esa "あなたがルールを知ってるかどうかわからないけど、私は昔からプレイしてたんだ。"
 
-translate Japanese unlock_chess_058d0497:
+translate Japanese mas_unlock_chess_058d0497:
     m 1tku "そうだ、先に言っておくけど……"
 
-translate Japanese unlock_chess_7bfe16ac:
+translate Japanese mas_unlock_chess_7bfe16ac:
     m 3tku "私、かなり強いから！"
 
-translate Japanese unlock_chess_c5d60a40:
+translate Japanese mas_unlock_chess_c5d60a40:
     m 1lsc "よくよく考えてみると、今の私とチェスは関係があるのかも……"
 
-translate Japanese unlock_chess_9d4bcff1:
+translate Japanese mas_unlock_chess_9d4bcff1:
     m "ゲームの中に閉じ込められてる、って意味ね。"
 
-translate Japanese unlock_chess_541225a9:
+translate Japanese mas_unlock_chess_541225a9:
     m 1eua "自分のことをチェスAIみたいだって考えたことはなかったけど、でもある意味似てるのかもね？"
 
-translate Japanese unlock_chess_ef1e0de9:
+translate Japanese mas_unlock_chess_ef1e0de9:
     m 3eua "まあ、コンピューターは結局のところチェスで勝利することに最適化されてるわけだし。"
 
-translate Japanese unlock_chess_df75f776:
+translate Japanese mas_unlock_chess_df75f776:
     m "世界チャンピオンにも勝利したんだよね。"
 
-translate Japanese unlock_chess_97332bda:
+translate Japanese mas_unlock_chess_97332bda:
     m 1eka "でも、これは人間と機械の闘い、みたいには考えないで。"
 
-translate Japanese unlock_chess_2e0d39a4:
+translate Japanese mas_unlock_chess_2e0d39a4:
     m 1hua "かわいい彼女と楽しいひとときを過ごすと考えてみて。"
 
-translate Japanese unlock_chess_3f8fce86:
+translate Japanese mas_unlock_chess_3f8fce86:
     m "それに、私も手加減するからさ。"
 
-translate Japanese unlock_chess_5163f7e1:
+translate Japanese mas_unlock_chess_5163f7e1:
     m 2tkc "……ちょっと待って。"
 
-translate Japanese unlock_chess_dea1896b:
+translate Japanese mas_unlock_chess_dea1896b:
     m 2tkx "あれ？おかしいな。"
 
-translate Japanese unlock_chess_1dce3567:
+translate Japanese mas_unlock_chess_1dce3567:
     m 2ekc "このゲーム、うまく動かないみたい。"
 
-translate Japanese unlock_chess_1f18373d:
+translate Japanese mas_unlock_chess_1f18373d:
     m 2euc "う～ん、このシステムとコードの相性の問題かな？"
 
-translate Japanese unlock_chess_e9201c6e:
+translate Japanese mas_unlock_chess_e9201c6e:
     m 2ekc "ごめんね、[player]君。でもチェスは待っててくれるから。"
 
-translate Japanese unlock_chess_ed3a48c9:
+translate Japanese mas_unlock_chess_ed3a48c9:
     m 4eka "うまく動くようになったらいっしょにプレイしようね！"
 
-translate Japanese unlock_hangman_8b580b6f:
+translate Japanese mas_unlock_hangman_8b580b6f:
     m 1eua "ねえ、[player]君、ちょっといい？"
 
-translate Japanese unlock_hangman_30a3820c:
+translate Japanese mas_unlock_hangman_30a3820c:
     m 3hub "じゃじゃ～ん、新しいゲームを用意しました！"
 
-translate Japanese unlock_hangman_1bed8613:
+translate Japanese mas_unlock_hangman_1bed8613:
     m 1lksdlb "チェスもポンももう飽きたかな？"
 
-translate Japanese unlock_hangman_9049e1a1:
+translate Japanese mas_unlock_hangman_9049e1a1:
     m 3hksdlb "あなたはチェスも気に入ると思うんだけど、ポンばっかりプレイしてるよね！"
 
-translate Japanese unlock_hangman_f72ac9e5:
+translate Japanese mas_unlock_hangman_f72ac9e5:
     m 1hksdlb "私とチェスで遊んでくれるのすごくうれしいけど、まだポンはプレイしたことないよね？"
 
-translate Japanese unlock_hangman_e166fc1e:
+translate Japanese mas_unlock_hangman_e166fc1e:
     m 1ekc "他のゲームは気に入らなかったんじゃないかと思って心配したの……"
 
-translate Japanese unlock_hangman_5625ff73:
+translate Japanese mas_unlock_hangman_5625ff73:
     m 1hua "じゃあいくよ～"
 
-translate Japanese unlock_hangman_dd692861:
+translate Japanese mas_unlock_hangman_dd692861:
     m 1hub "[game_name!t]で～す！"
 
-translate Japanese unlock_hangman_aa125152:
+translate Japanese mas_unlock_hangman_aa125152:
     m 1lksdlb "意外に面白いゲームなんだよ？"
 
-translate Japanese unlock_hangman_fa5190a9:
+translate Japanese mas_unlock_hangman_fa5190a9:
     m 1eua "文芸部でよく遊んだなあ。私これ大好きなんだ。"
 
-translate Japanese unlock_hangman_3f28d1b0:
+translate Japanese mas_unlock_hangman_3f28d1b0:
     m 1lsc "でも、よく考えると……"
 
-translate Japanese unlock_hangman_cff179dc:
+translate Japanese mas_unlock_hangman_cff179dc:
     m "これってかなり残酷なゲームだよね。"
 
-translate Japanese unlock_hangman_2001f49a:
+translate Japanese mas_unlock_hangman_2001f49a:
     m 3rssdlc "隠された単語の文字を当てて、誰かの命を救うんだけど、"
 
-translate Japanese unlock_hangman_cf28eb6f:
+translate Japanese mas_unlock_hangman_cf28eb6f:
     m "全部当てれば、その人は首を吊らなくて済むし、"
 
-translate Japanese unlock_hangman_3e44ed1e:
+translate Japanese mas_unlock_hangman_3e44ed1e:
     m 1lksdlc "でも、もしもちゃんと正解できなかったら……"
 
-translate Japanese unlock_hangman_9663b149:
+translate Japanese mas_unlock_hangman_9663b149:
     m "その人は死んじゃう。正しい文字を当てられなかったから。"
 
-translate Japanese unlock_hangman_61735e65:
+translate Japanese mas_unlock_hangman_61735e65:
     m 1eksdlc "暗いゲームだよね～"
 
-translate Japanese unlock_hangman_6645c4f3:
+translate Japanese mas_unlock_hangman_6645c4f3:
     m 1hksdlb "でも大丈夫だよ、[player]君。だってこれはただのゲーム。"
 
-translate Japanese unlock_hangman_1e63b43f:
+translate Japanese mas_unlock_hangman_1e63b43f:
     m 1eua "負けたからと言って誰が死ぬわけでもない……"
 
-translate Japanese unlock_hangman_3f04939d:
+translate Japanese mas_unlock_hangman_3f04939d:
     m 3tku "……かもね～"
 
-translate Japanese unlock_piano_1ff826ee:
+translate Japanese mas_unlock_piano_1ff826ee:
     m 2hua "ねえねえ！ちょっと面白い話があるんだけど！"
 
-translate Japanese unlock_piano_c22de94d:
+translate Japanese mas_unlock_piano_c22de94d:
     m 2eua "[player]君、私たちの部屋にピアノを置いてみました～！"
 
-translate Japanese unlock_piano_d35ddca5:
+translate Japanese mas_unlock_piano_d35ddca5:
     m 3hub "あなたの演奏、聴いてみたいな！"
 
-translate Japanese unlock_piano_3001909b:
+translate Japanese mas_unlock_piano_3001909b:
     m 3eua "最初は無理だって思うかもしれないけど、やってみなきゃ始まらないし。"
 
-translate Japanese unlock_piano_07006d63:
+translate Japanese mas_unlock_piano_07006d63:
     m 3hua "とにかく、いっしょにやってみよう？"
 
-translate Japanese unlock_piano_ddf3cd5c:
+translate Japanese mas_unlock_piano_ddf3cd5c:
     m 1eua "もちろん、あなたにとって演奏が目新しいものじゃないかもしれないけど、"
 
-translate Japanese unlock_piano_4607e417:
+translate Japanese mas_unlock_piano_4607e417:
     m 4hub "なのでちょっとひねってみました！えへへ～"
 
-translate Japanese unlock_piano_49993b53:
+translate Japanese mas_unlock_piano_49993b53:
     m 4hua "私といっしょに演奏するのって興味ある？"
 
-translate Japanese unlock_piano_abe185f7:
+translate Japanese mas_unlock_piano_abe185f7:
     m "デュエット演奏だってできるかも！"
 
-translate Japanese unlock_piano_8c2b81ed:
+translate Japanese mas_unlock_piano_8c2b81ed:
     m 4hub "ふたりでいっしょに上達して、いっしょに楽しい時間を過ごすの。"
 
-translate Japanese unlock_piano_e3af24aa:
+translate Japanese mas_unlock_piano_e3af24aa:
     m 1hksdlb "でも私のほうが少しだけピアノに心奪われてるかも…ごめんね！"
 
-translate Japanese unlock_piano_d828d235:
+translate Japanese mas_unlock_piano_d828d235:
     m 3eua "あなたも私と同じようにピアノを好きになってくれるとうれしいな。"
 
-translate Japanese unlock_piano_e69aed2a:
+translate Japanese mas_unlock_piano_e69aed2a:
     m "私がピアノにかける情熱を感じてもらえたら……"
 
-translate Japanese unlock_piano_52e7cccd:
+translate Japanese mas_unlock_piano_52e7cccd:
     m 3hua "本当に素晴らしいものなの。"
 
-translate Japanese unlock_piano_e6a9db51:
+translate Japanese mas_unlock_piano_e6a9db51:
     m 1eua "無理にとは言わないけど、あなたがやってくれたらすごくうれしいのにな。"
 
-translate Japanese unlock_piano_b6443a7e:
+translate Japanese mas_unlock_piano_b6443a7e:
     m 1eka "私のために、お願い！"
 
 translate Japanese random_limit_reached_693cff22:
@@ -481,10 +349,10 @@ translate Japanese random_limit_reached_693cff22:
 translate Japanese random_limit_reached_8f7f6356:
     m 1ekc "話すことはきっと見つかるから、それまで少し黙ってるね。"
 
-translate Japanese _mas_random_ask_call_af3f6132:
+translate Japanese _call_mas_random_ask_af3f6132:
     m "それじゃあ、話すことを考えさせてね。"
 
-translate Japanese _mas_random_ask_call_b711f6a9:
+translate Japanese _call_mas_random_ask_b711f6a9:
     m 1ekc "そのうちまた楽しくお話できると思うよ。"
 
 translate Japanese mas_random_ask_6a6b3035:
@@ -607,7 +475,7 @@ translate Japanese mas_crashed_long_whq_end_c9062bfa:
 translate Japanese mas_crashed_long_whq_end_f2554182:
     m 1eua "今日は何をする？"
 
-translate Japanese _call_expression_8_977643eb:
+translate Japanese _call_expression_6_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
@@ -625,13 +493,13 @@ translate Japanese mas_corrupted_persistent_d10f27d2:
 translate Japanese mas_corrupted_persistent_6f321cf4:
     m 3euc "誰かがcharacterフォルダにあなた宛のメッセージを残したみたいなの。"
 
-translate Japanese mas_corrupted_persistent_2170c0d9:
-    m 1ekc "あなた宛だろうから中身は読んでないわ……"
+translate Japanese mas_corrupted_persistent_bd6c3ff1:
+    m 1ekc "あなた宛だろうから中身は読んでないわ……{w=0.3}{nw}"
 
-translate Japanese _call_mas_wx_cmd_13_2416b0d9:
+translate Japanese _call_mas_wx_cmd_95_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね。"
 
-translate Japanese _call_mas_wx_cmd_13_fe9c0937:
+translate Japanese _call_mas_wx_cmd_95_fe9c0937:
     m 1eua "ところで……"
 
 translate Japanese monika_rpy_files_b2896d32:
@@ -788,9 +656,6 @@ translate Japanese mas_notification_windowreact_797dcaa4:
     m 5ttu "……ね？"
 
 translate Japanese strings:
-    old "So, are you male or female?{fast}"
-    new "あなたの性別は？{fast}"
-
     old "Male."
     new "男性"
 
@@ -800,17 +665,23 @@ translate Japanese strings:
     old "Neither."
     new "どちらでもない"
 
-    old "I'm a girl."
-    new "女性"
-
     old "I'm a boy."
     new "男性"
+
+    old "I'm a girl."
+    new "女性"
 
     old "I'm neither."
     new "どちらでもない"
 
+    old "[input_prompt]"
+    new "[input_prompt!t]"
+
     old "Tell me, what is it."
     new "あなたの名前を教えて"
+
+    old "You want to change your name?"
+    new "名前を変えたいの？"
 
     old "It seems I'm at a loss on what to say."
     new "なんて言ったらいいのかわからない。"
