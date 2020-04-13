@@ -10,7 +10,7 @@ init -990 python in mas_submod_utils:
         version = ".".join(version_split)
     Submod(
         author = "DDLC translate club (JP)",
-        name = "Japanese Language Submod" + " (Test)" if is_test else "",
+        name = "Japanese Language Submod" + (" (Test)" if is_test else ""),
         description = "This is a Submod that adds Japanese translation.",
         version = version,
         dependencies={},
