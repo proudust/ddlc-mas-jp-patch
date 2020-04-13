@@ -1,5 +1,39 @@
 define config.default_language = "Japanese"
 
+init -990 python in mas_submod_utils:
+    is_test = False
+    version = "${PATCH_VERSION}"
+    if "-" in version:
+        is_test = True
+        version_split = version.split('-')
+        version_split[2] = str(int(version[-7:], 16))
+        version = ".".join(version_split)
+    Submod(
+        author = "DDLC translate club (JP)",
+        name = "Japanese Language Submod" + " (Test)" if is_test else "",
+        description = "This is a Submod that adds Japanese translation.",
+        version = version,
+        dependencies={},
+        settings_pane="japanese_submod_screen",
+        version_updates={}
+    )
+
+screen japanese_submod_screen():
+    pass
+
+translate Japanese strings:
+    old "by DDLC translate club (JP)"
+    new "by DDLC翻訳部"
+
+    old "Japanese Language Submod"
+    new "日本語化パッチ"
+
+    old "Japanese Language Submod (Test)"
+    new "日本語化パッチ (テスト版)"
+
+    old "This is a Submod that adds Japanese translation."
+    new "日本語訳を追加するSubmodです。"
+
 init -1 python in jpfonts:
     VLGothic = "gui/font/VL-Gothic-Regular.ttf"
     Mikachan = "gui/font/Mikachan.ttf"

@@ -7,6 +7,9 @@ if [ ! "$result" = "0" ]; then
   exit 1
 fi
 
+echo "Inject JP patch version to override.rpy"
+sed -i -e "s/\${PATCH_VERSION}/$PATCH_VERSION/" $(dirname $0)/../patch/game/tl/Japanese/overrides.rpy
+
 echo "Build Monika After Story JP patch ver$PATCH_VERSION for $MAS_VERSION"
 rm -rf /tmp/mas-jp
 cp -fpr /tmp/mas-$MAS_VERSION /tmp/mas-jp
