@@ -1,16 +1,24 @@
 define config.default_language = "Japanese"
 
 init -990 python in mas_submod_utils:
-    is_test = False
+    name = "Japanese Language Submod"
+    description = "This is a Submod that adds Japanese translation."
     version = "${PATCH_VERSION}"
+
     if "-" in version:
-        is_test = True
+        name += " (Canary)"
+        description += " This version is unstable. Use the latest stable version if possible."
         version_split = version.split('-')
         version_split[2] = str(int(version[-7:], 16))
         version = ".".join(version_split)
+    elif "$" in version:
+        name += " (In Develop)"
+        description += " This version is unstable. Use the latest stable version if possible."
+        version = "0"
+
     Submod(
         author = "DDLC translate club (JP)",
-        name = "Japanese Language Submod" + (" (Test)" if is_test else ""),
+        name = name,
         description = "This is a Submod that adds Japanese translation.",
         version = version,
         dependencies={},
@@ -28,11 +36,17 @@ translate Japanese strings:
     old "Japanese Language Submod"
     new "日本語化パッチ"
 
-    old "Japanese Language Submod (Test)"
-    new "日本語化パッチ (テスト版)"
+    old "Japanese Language Submod (Canary)"
+    new "日本語化パッチ (カナリア版)"
+
+    old "Japanese Language Submod (In Develop)"
+    new "日本語化パッチ (開発中版)"
 
     old "This is a Submod that adds Japanese translation."
     new "日本語訳を追加するSubmodです。"
+
+    old "This is a Submod that adds Japanese translation. This version is unstable. Use the latest stable version if possible."
+    new "日本語訳を追加するSubmodです。このバージョンは不安定です。可能であれば最新の安定バージョンを使用して下さい。"
 
 init -1 python in jpfonts:
     VLGothic = "gui/font/VL-Gothic-Regular.ttf"
