@@ -16,7 +16,7 @@ cp -fpr "/tmp/mas-$MAS_VERSION" /tmp/mas-jp
 cp -fpr "$REPO_ROOT/patch/"* /tmp/mas-jp
 
 echo "Inject JP patch version to override.rpy"
-sed -i -e "s/\${PATCH_VERSION}/$PATCH_VERSION/" /tmp/mas-jp/game/tl/Japanese/overrides.rpy
+sed -i -e "s/\${PATCH_VERSION}/$PATCH_VERSION/" /tmp/mas-jp/game/tl/Japanese/overrides/submod.rpy
 
 echo "Build Monika After Story JP patch ver$PATCH_VERSION for $MAS_VERSION"
 result=0

@@ -1,0 +1,63 @@
+define config.default_language = "Japanese"
+define config.language = "Japanese"
+
+init -990 python in mas_submod_utils:
+    # ビルド時に git describe の文字列に置き換えられる
+    version = "${PATCH_VERSION}"
+
+    if version.isdecimal():
+        # リリースビルド (例: 200413)
+        name_suffix = ""
+        is_unstable = False
+
+    elif "-" in version:
+        # カナリアビルド (例: 200413-3-g98d0e7f)
+        name_suffix = " (Canary)"
+        is_unstable = True
+
+        # サブ MOD のバージョンは . 区切りの数値である必要がある
+        # コミットハッシュを 10 進数に変換し、- を . に置き換えてそれっぽくする
+        version_split = version.split('-')
+        version_split[2] = str(int(version[-7:], 16))
+        version = ".".join(version_split)
+
+    else:
+        # ビルドされていない
+        name_suffix = " (In Develop)"
+        is_unstable = True
+        version = "0"
+
+    Submod(
+        author = "DDLC translate club (JP)",
+        name = "Japanese Language Submod" + name_suffix,
+        description = (
+            "This is a Submod that adds Japanese translation."
+            + (" This version is unstable. Use the latest stable version if possible." if is_unstable else "")
+        ),
+        version = version,
+        dependencies={},
+        settings_pane="japanese_submod_screen",
+        version_updates={}
+    )
+
+screen japanese_submod_screen():
+    pass
+
+translate Japanese strings:
+    old "by DDLC translate club (JP)"
+    new "by DDLC翻訳部"
+
+    old "Japanese Language Submod"
+    new "日本語化パッチ"
+
+    old "Japanese Language Submod (Canary)"
+    new "日本語化パッチ (カナリア版)"
+
+    old "Japanese Language Submod (In Develop)"
+    new "日本語化パッチ (開発中版)"
+
+    old "This is a Submod that adds Japanese translation."
+    new "日本語訳を追加するSubmodです。"
+
+    old "This is a Submod that adds Japanese translation. This version is unstable. Use the latest stable version if possible."
+    new "日本語訳を追加するSubmodです。このバージョンは不安定です。可能であれば最新の安定バージョンを使用して下さい。"
