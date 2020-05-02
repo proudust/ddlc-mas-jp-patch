@@ -12,7 +12,7 @@ init -990 python in mas_submod_utils:
 
     elif "-" in version:
         # カナリアビルド (例: 200413-3-g98d0e7f)
-        name_suffix = " (Canary)"
+        name_suffix = " Canary Build"
         is_unstable = True
 
         # サブ MOD のバージョンは . 区切りの数値である必要がある
@@ -23,12 +23,12 @@ init -990 python in mas_submod_utils:
 
     else:
         # ビルドされていない
-        name_suffix = " (In Develop)"
+        name_suffix = " In Develop"
         is_unstable = True
         version = "0"
 
     Submod(
-        author = "DDLC translate club (JP)",
+        author = "DDLC translate club JP",
         name = "Japanese Language Submod" + name_suffix,
         description = (
             "This is a Submod that adds Japanese translation."
@@ -44,17 +44,17 @@ screen japanese_submod_screen():
     pass
 
 translate Japanese strings:
-    old "by DDLC translate club (JP)"
+    old "by DDLC translate club JP"
     new "by DDLC翻訳部"
 
     old "Japanese Language Submod"
     new "日本語化パッチ"
 
-    old "Japanese Language Submod (Canary)"
-    new "日本語化パッチ (カナリア版)"
+    old "Japanese Language Submod Canary Build"
+    new "日本語化パッチ カナリアビルド"
 
-    old "Japanese Language Submod (In Develop)"
-    new "日本語化パッチ (開発中版)"
+    old "Japanese Language Submod In Develop"
+    new "日本語化パッチ 開発中"
 
     old "This is a Submod that adds Japanese translation."
     new "日本語訳を追加するSubmodです。"
