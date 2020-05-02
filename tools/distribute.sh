@@ -10,14 +10,15 @@ if [ ! "$result" = "0" ]; then
   exit 1
 fi
 
-echo "Inject JP patch version to override.rpy"
-sed -i -e "s/\${PATCH_VERSION}/$PATCH_VERSION/" "$REPO_ROOT/patch/game/tl/Japanese/overrides.rpy"
-
-echo "Build Monika After Story JP patch ver$PATCH_VERSION for $MAS_VERSION"
+echo "Setup Monika After Story JP patch build"
 rm -rf /tmp/mas-jp
 cp -fpr "/tmp/mas-$MAS_VERSION" /tmp/mas-jp
 cp -fpr "$REPO_ROOT/patch/"* /tmp/mas-jp
 
+echo "Inject JP patch version to override.rpy"
+sed -i -e "s/\${PATCH_VERSION}/$PATCH_VERSION/" /tmp/mas-jp/game/tl/Japanese/overrides.rpy
+
+echo "Build Monika After Story JP patch ver$PATCH_VERSION for $MAS_VERSION"
 result=0
 /tmp/renpy/renpy.sh /tmp/renpy/launcher distribute /tmp/mas-jp --package Mod || result=$?
 if [ ! "$result" = "0" ]; then
