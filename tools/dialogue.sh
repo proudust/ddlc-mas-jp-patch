@@ -14,6 +14,10 @@ if [ ! "$result" = "0" ]; then
   exit 1
 fi
 
+echo "Fix ZeroDivisionError"
+# / float(mas_getTotalSessions())
+sed -i 's/float(mas_getTotalSessions())/float(1)/g' "/tmp/mas-$MAS_VERSION/game/updates.rpy"
+
 echo "Add mark translatable strings"
 # prompt="Thoughts on God"
 sed -i -r 's/prompt="([^"]+)"/prompt=_\("\1"\)/g' "/tmp/mas-$MAS_VERSION/game/**.rpy"
