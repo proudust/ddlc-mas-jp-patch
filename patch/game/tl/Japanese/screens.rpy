@@ -47,6 +47,9 @@ translate Japanese strings:
     old "Return"
     new "戻る"
 
+    old "Hotkeys"
+    new "ホットキー"
+
     old "About"
     new "バージョン情報"
 
@@ -149,9 +152,6 @@ translate Japanese strings:
     old "Import DDLC Save Data"
     new "DDLCセーブデータをインポートする"
 
-    old "The dialogue history is empty."
-    new "ヒストリーはありません。"
-
     old "Alerts"
     new "通知"
 
@@ -175,6 +175,9 @@ translate Japanese strings:
 
     old "Enables notifications for the selected group."
     new "選択したグループの通知を有効にします"
+
+    old "The dialogue history is empty."
+    new "ヒストリーはありません。"
 
     old "OK"
     new "OK"

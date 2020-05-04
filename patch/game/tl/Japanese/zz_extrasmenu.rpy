@@ -46,6 +46,3 @@ translate Japanese mas_extra_menu_zoom_in_max_first_time_dd434783:
 translate Japanese strings:
     old "Close"
     new "閉じる"
-
-    old "Reset"
-    new "初期"

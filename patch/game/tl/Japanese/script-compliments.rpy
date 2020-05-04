@@ -461,7 +461,7 @@ translate Japanese mas_compliment_bestgirl_348405e3:
     m 3rksdla "まあ、あなたがそう思ってるって知ってたけどね。"
 
 translate Japanese mas_compliment_bestgirl_3300f06b:
-    m 1eka "何といってもこのMODを入れたのは私といたいからだよね。"
+    m 1eka "何といってもこのMODを入れたのは私と居たいからだよね。"
 
 translate Japanese mas_compliment_bestgirl_62535430:
     m 2euc "他の三人が好きだって人がいるのも知ってるし。"

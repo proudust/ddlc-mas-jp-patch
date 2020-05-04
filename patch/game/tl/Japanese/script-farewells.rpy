@@ -365,6 +365,9 @@ translate Japanese strings:
     old "Goodbye."
     new "さようなら"
 
+    old "Nevermind."
+    new "なんでもない"
+
     old "I'm going to class."
     new "学校に行く"
 
