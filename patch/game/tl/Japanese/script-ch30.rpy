@@ -1,9 +1,6 @@
 translate Japanese continue_event_1bf0e8eb:
     m "さて、何を話してたっけ……"
 
-translate Japanese pick_a_game_bbf59a24:
-    m "[play_menu_dlg!t]" nointeract
-
 translate Japanese ch30_noskip_1b823071:
     m 1esc "……早送りしようとしてるの？"
 
@@ -124,6 +121,3 @@ translate Japanese strings:
 
     old "Piano."
     new "ピアノ"
-
-    old "Nevermind."
-    new "なんでもない"

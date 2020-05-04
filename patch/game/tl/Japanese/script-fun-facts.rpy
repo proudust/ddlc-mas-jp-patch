@@ -19,5 +19,5 @@ translate Japanese mas_fun_fact_getting_older_ec01fa2b:
 translate Japanese mas_fun_fact_getting_older_118b8306:
     m 1ekbfa "あなたも同じでしょう、[player]君？"
 
-translate Japanese mas_fun_fact_getting_older_0c767feb:
-    m 1hubfa "あは！分かってくれると思った。"
+translate Japanese mas_fun_fact_getting_older_94ec6c99:
+    m 1hubfa "あはは！分かってくれると思った。"

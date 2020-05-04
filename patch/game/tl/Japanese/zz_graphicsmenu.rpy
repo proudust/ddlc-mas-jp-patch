@@ -7,6 +7,3 @@ translate Japanese strings:
 
     old "Current Renderer:"
     new "現在のレンダラー"
-
-    old "Automatic"
-    new "自動で選択する"

@@ -10,11 +10,11 @@ translate Japanese monika_affection_nickname_yes_bc96da2a:
 translate Japanese monika_affection_nickname_yes_394ece4d:
     m 1euc "……"
 
-translate Japanese monika_affection_nickname_yes_0d8345dc:
-    m 1hub "えへへ～"
+translate Japanese monika_affection_nickname_yes_6d9bf85e:
+    m 2tfc "……"
 
-translate Japanese monika_affection_nickname_yes_01a93df6:
-    m 2dfc "……"
+translate Japanese monika_affection_nickname_yes_f27eea59:
+    m 1rkc "……"
 
 translate Japanese _call_monika_affection_nickname_bad_lock_97a5a181:
     m 2dftdc "……"

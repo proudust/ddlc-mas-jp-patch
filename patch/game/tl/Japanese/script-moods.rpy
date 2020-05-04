@@ -2,7 +2,7 @@ translate Japanese mas_mood_hungry_bdd630c1:
     m 3hub "もしお腹が減っているなら、何か食べて来るといいわね。"
 
 translate Japanese mas_mood_hungry_43a4268b:
-    m 1hksdlb "あの時のナツキみたいになって欲しくないもの。{NW}"
+    m 1hksdlb "あの時のナツキみたいになって欲しくないもの。{nw}"
 
 translate Japanese _mas_nnsh_e7a8a113:
     m 1hua "空腹でイライラするのは良くないわ。"
@@ -106,6 +106,9 @@ translate Japanese mas_mood_sad_2188bc88:
 translate Japanese mas_mood_sad_4ae975dc:
     m 1ekbfa "愛しているわ、[player]君。出会った時からずっと、出会った時よりもっと。"
 
+translate Japanese mas_mood_proud_08b94e45:
+    m 2sub "本当？それは素晴らしいわね！"
+
 translate Japanese mas_mood_happy_3301951c:
     m 1hua "素晴らしいわ！あなたが幸せなら私も幸せ。"
 
@@ -123,6 +126,12 @@ translate Japanese mas_mood_sick_da8b0bb3:
 
 translate Japanese mas_mood_sick_87dcd1f9:
     m 1eka "私と一緒にいるのが大好きだっていうのはわかるけど、多分ゆっくり休んできた方がいいんじゃないかなって。"
+
+translate Japanese mas_mood_tired_9304fdea:
+    m "まだここにいるの？"
+
+translate Japanese mas_mood_tired_0acd74cf:
+    m 4lksdlc "あなたはもう休んだほうがいいんじゃないかしら"
 
 translate Japanese mas_mood_tired_cdeb51d4:
     m 1eka "疲れているのなら、少し横になるのはどうかしら？"
@@ -238,6 +247,9 @@ translate Japanese mas_mood_lucky_53e0be80:
 translate Japanese mas_mood_lucky_3772217d:
     m 1hub "あはは！"
 
+translate Japanese mas_mood_bored_e41326ab:
+    m 1eka "あら…"
+
 translate Japanese mas_mood_bored_78c634c8:
     m 4eka "ピアノでも弾いてみる？"
 
@@ -269,17 +281,29 @@ translate Japanese strings:
     old "Not really."
     new "あんまり"
 
+    old "...proud of myself."
+    new "……誇らしい"
+
     old "...happy."
     new "……幸せ"
 
     old "...sick."
     new "……病気"
 
+    old "...tired."
+    new "……疲れた"
+
     old "...lonely."
     new "……寂しい"
 
     old "...angry."
     new "……怒り"
+
+    old "...lazy."
+    new "……怠い"
+
+    old "...bored."
+    new "……退屈"
 
     old "YES!"
     new "そうだよ！"

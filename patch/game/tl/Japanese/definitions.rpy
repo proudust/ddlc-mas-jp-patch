@@ -64,3 +64,15 @@ translate Japanese strings:
 
     old "Never"
     new "なし"
+
+    old "morning"
+    new "朝"
+
+    old "afternoon"
+    new "お昼"
+
+    old "evening"
+    new "夕方"
+
+    old "night"
+    new "夜"
