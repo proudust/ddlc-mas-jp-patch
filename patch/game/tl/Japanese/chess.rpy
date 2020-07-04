@@ -533,6 +533,15 @@ translate Japanese mas_chess_dlg_game_in_progress_end_quick_f64fbd3c:
     m 1eua "じゃあ、[player]君、またすぐにこの続きをやろうね。"
 
 translate Japanese strings:
+    old "Play New Game"
+    new "新しく始める"
+
+    old "Nevermind"
+    new "なんでもない"
+
+    old "I can't make this decision right now..."
+    new "今は決められない……"
+
     old "Save"
     new "セーブ"
 

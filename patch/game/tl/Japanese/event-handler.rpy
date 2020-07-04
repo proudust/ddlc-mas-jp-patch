@@ -38,9 +38,6 @@ translate Japanese strings:
     old "Goodbye"
     new "さようなら"
 
-    old "Nevermind"
-    new "なんでもない"
-
     old "Advice..."
     new "アドバイス……"
 

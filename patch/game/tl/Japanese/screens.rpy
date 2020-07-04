@@ -272,6 +272,9 @@ translate Japanese strings:
     old "T_T [player]..."
     new "T_T [player]……"
 
+    old "Good [boy]."
+    new "いい子ね。"
+
     old "Please enter your name"
     new "あなたの名前を入力して下さい"
 
