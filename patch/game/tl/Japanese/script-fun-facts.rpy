@@ -4,8 +4,8 @@ translate Japanese mas_fun_facts_end_1aefd06b:
 translate Japanese mas_fun_fact_librocubiculartist_2f80f7d8:
     m 1eub "ベッドで本を読むのが好きな人を表す言葉があるって知ってた？"
 
-translate Japanese mas_fun_fact_librocubiculartist_10d2e4c1:
-    m 3eub "「librocubiculartist」って言うんだけど､一見発音が難しそうよね｡"
+translate Japanese mas_fun_fact_librocubiculartist_a6201013:
+    m 3eub "「librocubicularist」って言うんだけど､一見発音が難しそうよね｡"
 
 translate Japanese mas_fun_fact_librocubiculartist_07b441f1:
     m 3rksdld "一般的に使われない言葉があるのは 本当に残念だわ"

@@ -7,8 +7,8 @@ translate Japanese monika_brb_idle_50022090:
 translate Japanese monika_brb_idle_fec6ff17:
     m 1hub "[player]君､早く戻ってきて！"
 
-translate Japanese monika_brb_idle_366c5ce7:
-    m 1rsc "あー、{w=1} いいわ。"
+translate Japanese monika_brb_idle_c154e67b:
+    m 2rsc "あー、{w=1} いいわ。"
 
 translate Japanese monika_brb_idle_0bd97190:
     m 6ckc "……"
@@ -25,8 +25,8 @@ translate Japanese monika_brb_idle_callback_5d7533bb:
 translate Japanese monika_brb_idle_callback_1a37a067_1:
     m 1eua "[wb_quip!t]"
 
-translate Japanese monika_brb_idle_callback_832e1d45:
-    m 1esc "えっ、もう戻ったの？"
+translate Japanese monika_brb_idle_callback_42c9f42f:
+    m 2esc "えっ、もう戻ったの？"
 
 translate Japanese monika_brb_idle_callback_0bd97190:
     m 6ckc "……"
@@ -43,8 +43,8 @@ translate Japanese monika_writing_idle_d8ea81cf:
 translate Japanese monika_writing_idle_f319a2c1:
     m 1hua "それはそれで嬉しいわね！"
 
-translate Japanese monika_writing_idle_23c245f0:
-    m 3eua "いつか私と共有してくれないかな、{nw}。"
+translate Japanese monika_writing_idle_7cd50a86:
+    m 3eua "いつか私と共有してくれないかな……{w=0.3}{nw}。"
 
 translate Japanese monika_writing_idle_83bac7e0:
     extend 3hua "私は[player]君の作品を読んでみたいわ！"
@@ -70,11 +70,11 @@ translate Japanese monika_idle_shower_5e216caf:
 translate Japanese monika_idle_shower_0bff80f5:
     m "私も一緒に行ってもいい？{fast}" nointeract
 
-translate Japanese monika_idle_shower_73c0f6af:
-    m 2wubfd "えっ、うーん……{w=1}ずいぶん返事が早かったわね。"
+translate Japanese monika_idle_shower_958b8e4e:
+    m 2wubfd "えっ、うーん……{w=0.5}ずいぶん返事が早かったわね。"
 
-translate Japanese monika_idle_shower_de503065:
-    m 2hkbfsdlb "あなたは……{w=1}私に付いてきてほしいって思ってるのね？"
+translate Japanese monika_idle_shower_b67d5526:
+    m 2hkbfsdlb "あなたは……{w=0.5}私に付いてきてほしいって思ってるのね？"
 
 translate Japanese monika_idle_shower_0b7694b6:
     m 2rkbfa "それは……"

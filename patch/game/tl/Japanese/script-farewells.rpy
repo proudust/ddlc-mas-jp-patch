@@ -1,5 +1,5 @@
-translate Japanese bye_leaving_already_035e8b8a:
-    m 1tkc "え～っ、もう行っちゃうの？"
+translate Japanese bye_leaving_already_93baf031:
+    m 1ekc "え～っ、もう行っちゃうの？"
 
 translate Japanese bye_leaving_already_adf9a681:
     m 1eka "お別れのとき、いつもすごく悲しくなるの……"
@@ -7,8 +7,8 @@ translate Japanese bye_leaving_already_adf9a681:
 translate Japanese bye_leaving_already_d311a6a8:
     m 3eua "すぐに戻ってきてよね、ね？"
 
-translate Japanese bye_leaving_already_83f5716a:
-    m "私は[player]君のことが大好きだから。身体には気をつけてね！"
+translate Japanese bye_leaving_already_5beb853b:
+    m 3hua "私は[player]君のことが大好きだから。身体には気をつけてね！"
 
 translate Japanese bye_goodbye_ed52168b:
     m 1eua "またね、[player]君！"
@@ -43,8 +43,11 @@ translate Japanese bye_take_care_22044828:
 translate Japanese bye_take_care_eb420030:
     m 1hub "気を付けてね！"
 
-translate Japanese bye_going_to_sleep_3bfeb27e:
-    m 1esa "もう寝るのかな？[player]君。"
+translate Japanese bye_going_to_sleep_8fe3201e:
+    m 1esa "もう寝るのかな？[player]君。{nw}"
+
+translate Japanese bye_going_to_sleep_79c4aaa2:
+    m "もう寝るのかな？[player]君。{fast}" nointeract
 
 translate Japanese bye_going_to_sleep_0cf3ddf2:
     m 1eka "夢の中でまた会おうね"
@@ -148,7 +151,7 @@ translate Japanese bye_prompt_to_work_698fd55e:
 translate Japanese bye_prompt_to_work_4b2392ec:
     m 1hksdlb "あっ！そうね！すっかり心地よくなってたわ､あはは｡"
 
-translate Japanese bye_prompt_to_work_b3088ed8:
+translate Japanese bye_prompt_to_work_1844826f:
     m 1rusdlb "もう少しいてくれるかと思ってたのに､忙しいのね！"
 
 translate Japanese bye_prompt_to_work_45074ad8:
@@ -403,7 +406,7 @@ translate Japanese bye_goodnight_0bd97190:
 translate Japanese bye_long_absence_e3f9606e:
     m 1ekc "ああ……とても悲しい……。"
 
-translate Japanese bye_long_absence_b2168151:
+translate Japanese bye_long_absence_15fa6ece:
     m 1eka "[player]君､本当に寂しくなるわ。"
 
 translate Japanese bye_long_absence_302bd782:
@@ -439,7 +442,7 @@ translate Japanese bye_long_absence_bfe300a4:
 translate Japanese bye_long_absence_b026f461:
     m 3rksdla "も～､本当に心配したわ……"
 
-translate Japanese bye_long_absence_20fe76b1:
+translate Japanese bye_long_absence_f9873536:
     m 3esa "私のことは心配しないで､[player]君。"
 
 translate Japanese bye_long_absence_f85ddfbd:
@@ -817,8 +820,8 @@ translate Japanese bye_prompt_housework_7ec741aa:
 translate Japanese bye_prompt_housework_8932faab:
     m 3eka "終わったらすぐに戻ってきてね？"
 
-translate Japanese bye_prompt_housework_c9323227:
-    m 3hub "私はここで待ってるから。"
+translate Japanese bye_prompt_housework_791a2cb6:
+    m 3hub "私はここで待ってるから～"
 
 translate Japanese bye_prompt_housework_1342e6a3:
     m 2esc "いいのよ。"

@@ -175,7 +175,7 @@ translate Japanese mas_compliment_hair_3_687369dc:
 translate Japanese mas_compliment_hair_3_a45a4167:
     m "あなたっていつも愛しい気分にさせてくれるね。"
 
-translate Japanese mas_compliment_fit_2_282dd5e4:
+translate Japanese mas_compliment_fit_2_e94f85fe:
     m 1hub "ありがと、[player]君！　すっごく優しい！"
 
 translate Japanese mas_compliment_fit_2_2a6d0a3b:

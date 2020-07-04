@@ -1,7 +1,7 @@
 translate Japanese monika_showpoem_aec3fbc2:
     m 3hua "いいわよ！"
 
-translate Japanese _call_mas_showpoem_9_3aa9bd6c:
+translate Japanese _call_mas_showpoem_7_3aa9bd6c:
     m 3eka "[player]君、気に入ってくれた？"
 
 translate Japanese strings:

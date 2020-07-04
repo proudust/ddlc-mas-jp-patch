@@ -23,20 +23,14 @@ translate Japanese strings:
     old "Just Monika"
     new "モニカだけ"
 
-    old "Save Game"
-    new "セーブゲーム"
-
     old "Load Game"
     new "ロードゲーム"
 
-    old "End Replay"
-    new "リプレイ終了"
-
-    old "Main Menu"
-    new "メインメニュー"
-
     old "Submods"
     new "サブMOD"
+
+    old "Hotkeys"
+    new "ホットキー"
 
     old "Help"
     new "ヘルプ"
@@ -44,11 +38,20 @@ translate Japanese strings:
     old "Quit"
     new "終了"
 
+    old "Save Game"
+    new "セーブゲーム"
+
+    old "End Replay"
+    new "リプレイ終了"
+
+    old "Main Menu"
+    new "メインメニュー"
+
+    old "Alerts"
+    new "通知"
+
     old "Return"
     new "戻る"
-
-    old "Hotkeys"
-    new "ホットキー"
 
     old "About"
     new "バージョン情報"
@@ -151,9 +154,6 @@ translate Japanese strings:
 
     old "Import DDLC Save Data"
     new "DDLCセーブデータをインポートする"
-
-    old "Alerts"
-    new "通知"
 
     old "Use Notifications"
     new "通知を有効化"
