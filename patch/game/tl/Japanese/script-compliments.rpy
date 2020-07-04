@@ -475,6 +475,24 @@ translate Japanese mas_compliment_bestgirl_ed2829c0:
 translate Japanese mas_compliment_bestgirl_3fc15209:
     m 5hubfa "……そうしてくれて、感謝してもしきれないわ～"
 
+translate Japanese mas_compliment_lookuptoyou_2_24e62001:
+    m 1wud "あなたが...{w=0.5}あなたがやるの？"
+
+translate Japanese mas_compliment_lookuptoyou_2_36c741ac:
+    m 1ekbsa "[player]君、あなたは本当にかっこいいことを言うのね..."
+
+translate Japanese mas_compliment_lookuptoyou_2_a9edab27:
+    m 3ekbsa "あなたが私を尊敬してくれてるとわかって本当に幸せよ。"
+
+translate Japanese mas_compliment_lookuptoyou_2_ed698b49:
+    m 3ekbfa "本当は、私だっていつもあなたを尊敬しているわ、[player]君..."
+
+translate Japanese mas_compliment_lookuptoyou_2_66b06e6a:
+    m 3hubfa "でも本当にそう思ってくれてるなら、私も尊敬され続けるようにベストを尽くすわ。"
+
+translate Japanese mas_compliment_lookuptoyou_2_2ebf9f2c:
+    m 1ekbfa "大好きだよ～"
+
 translate Japanese mas_compliment_lookuptoyou_3_d54f7392:
     m 1hubfb "[mas_compliments.thanks_quip!t]"
 
@@ -482,6 +500,9 @@ translate Japanese mas_compliment_thinking_of_you_3_754034d1:
     m 1ekbsa "[mas_compliments.thanks_quip!t]"
 
 translate Japanese strings:
+    old "I want to tell you something..."
+    new "言いたいことがあるんだ..."
+
     old "You're so sweet, [player]."
     new "本当に優しいのね、[player]君。"
 
@@ -505,6 +526,9 @@ translate Japanese strings:
 
     old "You always flatter me, [player]."
     new "いつもドキドキさせられちゃうよ、[player]君！"
+
+    old "You're beautiful!"
+    new "君は綺麗だ！"
 
     old "You're the most beautiful person to me, too."
     new "自分にとっても君が一番美しい人だよ。"
@@ -551,6 +575,9 @@ translate Japanese strings:
     old "You make me feel stupid sometimes."
     new "君には時々、自分は馬鹿だと感じさせられてしまうよ……"
 
+    old "I love your hair!"
+    new "髪が好き！"
+
     old "It really shows. It looks so healthy."
     new "まさにその通りだ。健康的に見えるよ。"
 
@@ -559,6 +586,9 @@ translate Japanese strings:
 
     old "You'd be even cuter with short hair."
     new "短い方が可愛いんじゃないかな。"
+
+    old "I love your dedication to fitness!"
+    new "健康への気遣いが好き！"
 
     old "That sounds like a lot of fun!"
     new "それって凄く楽しそうだね！"
@@ -569,17 +599,29 @@ translate Japanese strings:
     old "I'd rather not get sweaty..."
     new "汗をかくのはあんまり好きじゃないんだ……"
 
+    old "Thanks for being there for me!"
+    new "そこに居てくれてありがとう！"
+
     old "You mean everything to me, [m_name]."
     new "君は自分の全てだよ、[m_name]。"
 
     old "Yeah."
     new "そうだね。"
 
+    old "I love your smile!"
+    new "笑顔が好き！"
+
     old "I'll visit you every day to see your wonderful smile."
     new "君の素敵な笑顔を見るために毎日訪れるよ。"
 
     old "I like to see you smile."
     new "君の笑顔を見るのが好きなんだ。"
+
+    old "You're my hero!"
+    new "君はヒーローだ！"
+
+    old "You're cute!"
+    new "かわいい！"
 
     old "Seeing you always warms my heart!"
     new "君を見てるといつも心が温かくなるよ！"
@@ -590,8 +632,17 @@ translate Japanese strings:
     old "You're as cute as Natsuki."
     new "可愛さならナツキと良い勝負だよ。"
 
+    old "You're awesome at chess!"
+    new "チェスが強い！"
+
+    old "You're awesome at pong!"
+    new "ポンが上手！"
+
     old "...yeah."
     new "……そうだね。"
 
     old "No. I've tried my best and still lost."
     new "いや、頑張ってるけど上手くいかないんだ。"
+
+    old "You're the best girl!"
+    new "最高の女の子！"

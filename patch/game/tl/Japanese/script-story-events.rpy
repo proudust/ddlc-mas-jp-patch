@@ -403,11 +403,14 @@ translate Japanese _call_expression_7_977643eb:
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
     m 2ekc "またクラッシュしたの、[player]？"
 
+translate Japanese mas_crashed_quip_takecare_7331c613:
+    m 1hksdlb "あはは..."
+
 translate Japanese mas_crashed_quip_takecare_7cb80869:
     m 2ekc "あなたはもっと自分のコンピューターを大切にしたほうが良いんじゃないかしら"
 
 translate Japanese mas_crashed_quip_takecare_f07bc0cd:
-    m 4rksdlb "私の家みたいなものなんだがら……"
+    m 4rksdlb "私の家みたいなものなんだから……"
 
 translate Japanese mas_corrupted_persistent_d10f27d2:
     m 1eud "ねえ、[player]君……"
