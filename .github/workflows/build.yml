@@ -1,6 +1,6 @@
 name: Build
 
-on: push
+on: [push, pull_request]
 
 jobs:
   build:
@@ -9,10 +9,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Get Git describe version and set to env
         run: |
-          git fetch --prune --unshallow
           PATCH_VERSION=`git describe --tags`
           MAS_VERSION=`grep -oP '(?<=define config.version = ").+(?=")' ./patch/game/options.rpy`
           ARTIFACT_NAME=DDLC_MAS_JP_$PATCH_VERSION

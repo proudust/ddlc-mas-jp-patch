@@ -8,18 +8,17 @@ on:
     types: [update_translate]
   schedule:
     - cron: "0 21 * * *"
+  workflow_dispatch:
 
 jobs:
   translate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: webfactory/ssh-agent@v0.2.0
-        with:
-          ssh-private-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-
       - name: Checkout via SSH
-        run: git clone git@github.com:${{ github.repository }}.git .
+        uses: actions/checkout@v2
+        with:
+          ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
       - name: Download translate file
         run: |

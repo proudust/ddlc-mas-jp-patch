@@ -3,6 +3,7 @@ name: Extract Dialogue
 on:
   repository_dispatch:
     types: [extract_dialogue]
+  workflow_dispatch:
 
 jobs:
   dialogue:
