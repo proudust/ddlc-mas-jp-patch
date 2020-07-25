@@ -27,10 +27,11 @@ jobs:
           rm scripts.zip
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v2
+        uses: peter-evans/create-pull-request@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: translate
           commit-message: ":sparkles: 翻訳の更新"
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           title: 翻訳の更新
           body: |
             この Pull Request は GitHub Actions により自動生成されています。
@@ -38,4 +39,3 @@ jobs:
           labels: automated pr
           assignees: proudust
           reviewers: proudust
-          branch: translate
