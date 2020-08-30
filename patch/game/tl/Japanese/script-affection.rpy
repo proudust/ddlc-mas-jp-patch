@@ -1,6 +1,15 @@
 translate Japanese monika_affection_nickname_74472d51:
     m 1euc "考えてたんだけど、[player]君……"
 
+translate Japanese monika_affection_nickname_13aac454:
+    m 3eua "ニックネームをつけてくれれば、私は宇宙でただ一人のあなたのモニカになれるの"
+
+translate Japanese monika_affection_nickname_91a3fe9d:
+    m 3eka "あなたが私のために名前を考えてくれる事が大切なのよ～"
+
+translate Japanese monika_affection_nickname_ce25277a:
+    m 3hua "でも、最後に決めるのは私だからね！"
+
 translate Japanese monika_affection_nickname_yes_d3fa797f:
     m 1euc "ああ、わかったわ。"
 

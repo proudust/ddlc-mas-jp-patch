@@ -463,6 +463,9 @@ translate Japanese monika_high_school_c46e4e79:
 translate Japanese monika_high_school_02f950ff:
     m 4eka "ある意味、あなたは運がいいわね。だって、あなたの命を救ってくれる人がいるはずだから。"
 
+translate Japanese monika_high_school_9588987f:
+    m 2lksdlc "細かい話になるけど､心配しないで……"
+
 translate Japanese monika_high_school_39cc0dd1:
     m 2euc "でも心配しないで……最近はあなたのこと分かるようになってきたから。"
 
@@ -9625,6 +9628,111 @@ translate Japanese monika_timeconcern_day_0_0a09d382:
 translate Japanese monika_timeconcern_day_0_7055b071:
     m 1tkc "……"
 
+translate Japanese monika_dating_87cf1b79:
+    m 1eud "[player]君……最近本当に気なってるんだけどね"
+
+translate Japanese monika_dating_17948c9c:
+    m 3rka "結構一緒にいたから､今聞いてみるのがいいと思ってるんだけど……"
+
+translate Japanese monika_dating_cbe37c33:
+    m 1eud "デートの経験って何回くらいあるの？"
+
+translate Japanese monika_dating_40de5571:
+    m 1luc "ええと……今まで付き合ったことってあるのかしら？"
+
+translate Japanese monika_dating_27f3ad74:
+    m 1etc "もしかして1回以上デートしたことある？{nw}"
+
+translate Japanese monika_dating_6f8f6e40:
+    m "もしかして1回以上デートしたことある？{fast}" nointeract
+
+translate Japanese monika_dating_5a4a3a97:
+    m 1ekc "あー、ごめんね。[player]君……"
+
+translate Japanese monika_dating_9da9d80e:
+    m 1dkc "あなたはたくさんの失恋を経験してきたのね……"
+
+translate Japanese monika_dating_75973ce2:
+    m 3ekc "正直に言うとね、[player]君……私はあなたのような人には今までの人はふさわしくないと思うわ。"
+
+translate Japanese monika_dating_3a0280e2:
+    m 3eka "新設で、忠実で、素敵で、愛情深くて、誠実で｡"
+
+translate Japanese monika_dating_cfa3225a:
+    m 4lubsb "そしてかわいくて､面白くて ロマンチックで､そして――"
+
+translate Japanese monika_dating_9c79c907:
+    m 7wubsw "あれっ！？"
+
+translate Japanese monika_dating_39e9c6ef:
+    m 3hksdlb "ごめんなさい、次に何を言おうとしていたのか分からなくなっちゃった、アハハ！"
+
+translate Japanese monika_dating_6d7ce1d0:
+    m 1ekbla "あなたの素晴らしさを語り続けてしまったわね、[player]君～。"
+
+translate Japanese monika_dating_be66d582:
+    m 1ekbsa "でも、これだけは理解しておいてね……{w=0.3}{nw}"
+
+translate Japanese monika_dating_0c8eb7dd:
+    extend 3ekbfa "どんなにあなたの心が傷ついてても、私はいつまでもあなたのそばにいるわ。"
+
+translate Japanese monika_dating_eea1f589:
+    m 5eubfa "私たちの魂の探求はついに終わったの。私は永遠にあなたのものよ、[player]君。"
+
+translate Japanese monika_dating_f7e6d60f:
+    m 5ekbfa "あなたも私のものになってくれる？"
+
+translate Japanese monika_dating_1a835d21:
+    m 1eka "あら､経験は多くないのね？"
+
+translate Japanese monika_dating_20242fe4:
+    m 3eua "大丈夫よ[player]君､私も同じだから安心して｡"
+
+translate Japanese monika_dating_295fd655:
+    m 3lksdlb "私ってモテそうに見えるかもしれないけど､本当はモテないのよ､あはは！"
+
+translate Japanese monika_dating_6802c62e:
+    m 2lksdla "特に私はずっと忙しかったから、時間がなかったの｡"
+
+translate Japanese monika_dating_3a096ebb:
+    m 2eka "それは重要ってわけじゃないけど､本当のことよ？"
+
+translate Japanese monika_dating_e810cd51:
+    m 5ekbsa "でも､私は何か特別なことをする準備はできていると思っているわ……{w=0.5}{nw}"
+
+translate Japanese monika_dating_9096b2d3:
+    extend 5ekbfa "あなたと一緒にね､[player]君｡"
+
+translate Japanese monika_dating_b0c89130:
+    m 5ekbfa "準備はいい？"
+
+translate Japanese monika_dating_3732def8:
+    m 1wubsw "えっ？私が初めてなの？"
+
+translate Japanese monika_dating_827c527a:
+    m 1tsbsb "ははーん……{w=0.3} わかったわ。"
+
+translate Japanese monika_dating_ac75dc9d:
+    m 1tfu "あなたは私を特別な存在だと思わせるためにそう言っているのね、[player]君？"
+
+translate Japanese monika_dating_6fe28977:
+    m 1tku "あなたみたいな人がデートしたことがないわけないじゃない……"
+
+translate Japanese monika_dating_0f9b697f:
+    m 3hubsb "あなたはかわいくて素敵の極みよ！"
+
+translate Japanese monika_dating_905be208:
+    m 3ekbfa "まぁ……{w=0.3}私をからかってるわけじゃなくて本当のことを言っているのなら……{w=0.3}{nw}"
+
+translate Japanese monika_dating_61cdf754:
+    extend 1ekbfu "あなたの初めてになれて後衛よ､[player]君。"
+
+translate Japanese monika_dating_f50738df:
+    m 5ekbfa "私はあなたの唯一の存在になりたいわ｡"
+
+translate Japanese monika_dating_9321aeef:
+    m 5ekbfu "あなたは私のものになってくれる？"
+
 translate Japanese monika_familygathering_149152b7:
     m 1wud "……"
 
@@ -9815,10 +9923,10 @@ translate Japanese monika_shipping_63abc78a:
     m 3eua "ねえ、[player]君。{w=0.2}カップリングって聞いたことある？"
 
 translate Japanese monika_shipping_eb62fc8b:
-    m 3hua "物語の登場人物が、誰とくっついたら面白いか考えることなんだけど"
+    m 3hua "物語の登場人物が、誰と恋愛関係になったら面白いか考えることなんだけど"
 
 translate Japanese monika_shipping_b5dde25b:
-    m 1eka "ほとんどの人が意識せずにやってると思うけど、同じ考えの人を見つけちゃうと{i}本当に{/i}簡単にのめりこんでしまうの！"
+    m 1eka "ほとんどの人が一度は考えたことがあると思うけど、同じ考えの人を見つけちゃうと{i}本当に{/i}簡単にのめりこんでしまうの！"
 
 translate Japanese monika_shipping_711c7f92:
     m 2esd "どうも他の女の子同士を{i}くっつける{/i}ことが多いんだって"
@@ -9833,7 +9941,7 @@ translate Japanese monika_shipping_10b44464:
     m 3eud "ナツキとユリがよくくっつけられてるの。いっつも喧嘩ばっかりしてるのに！"
 
 translate Japanese monika_shipping_9a31b37c:
-    m 3hksdlb "あなたがどちらかのルートを選んでいなければ、二人は少し仲良くなると思うの。それに、「嫌よ嫌よも好きの内」ってこともあるわよね"
+    m 3hksdlb "でもね、もしかしたらあなたがどちらかのルートを選んでいなければ、二人は少し仲良くなると思うの。それに、「嫌よ嫌よも好きの内」ってこともあるわよね"
 
 translate Japanese monika_shipping_d6c335c6:
     m 3dsd "でもやっぱり、そういうゲームが好きな人はありえないことほど好きになるってことだと思うわ…"
@@ -9851,16 +9959,16 @@ translate Japanese monika_shipping_5750d067:
     m 2lksdlb "まあ、物語を書く側だとわからなくもないけどね"
 
 translate Japanese monika_shipping_b0605f99:
-    m 1eksdld "一緒に文芸部を立ち上げて"
+    m 1eksdld "一緒に文芸部を立ち上げたからね"
 
 translate Japanese monika_shipping_80aca5d2:
-    m "そして彼女は私と同じような悟りを得たから…"
+    m "それに彼女は私と同じような悟りを得たから…"
 
 translate Japanese monika_shipping_496398a2:
     m 2lksdlb "でも…結局理解できないわね。私が愛してるのはあなただけだし！"
 
 translate Japanese monika_shipping_c6ea59e3:
-    m 2lksdla "聖人でもなければ彼女が私のしたことを許すはずもないし…"
+    m 2lksdla "聖人でもなければ彼女は私のしたことを許すはずもないし…"
 
 translate Japanese monika_shipping_4531b1af:
     m 2lksdlc "彼女は優しい娘だけど、それでもね…"
@@ -10355,6 +10463,18 @@ translate Japanese monika_writing_idle_callback_d55c57dc:
     m 1eub "[wb_quip!t]"
 
 translate Japanese strings:
+    old "Topic flagged for removal."
+    new "トピックの削除フラグが立てられました。"
+
+    old "Topic flag removed."
+    new "トピックフラグが削除されました。"
+
+    old "Topic bookmarked."
+    new "トピックはブックマークされています。"
+
+    old "Bookmark removed."
+    new "ブックマークを削除しました。"
+
     old "Thoughts on God"
     new "神について"
 
@@ -10768,6 +10888,18 @@ translate Japanese strings:
 
     old "Time travel"
     new "時間旅行"
+
+    old "Dating experience"
+    new "デートの経験"
+
+    old "Yes, I've been through plenty..."
+    new "はい､たくさんあります……"
+
+    old "Yes, but only once."
+    new "はい､でも1回だけです｡"
+
+    old "No, you're my first."
+    new "いいえ､あなたとが初めてです｡"
 
     old "The Yellow Wallpaper"
     new "黄色い壁紙"

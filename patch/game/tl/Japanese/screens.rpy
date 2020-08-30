@@ -269,11 +269,17 @@ translate Japanese strings:
     old "Leaving without saying goodbye, [player]?"
     new "さよならも言ってくれないの、[player]君？"
 
+    old "Why are you here?\n Click 'No' and use the 'Goodbye' button, silly!"
+    new "どうしてこれをクリックしちゃったの？\n ’いいえ’をクリックして、’さよなら’を選ぶのよ、おばかさん！"
+
     old "T_T [player]..."
     new "T_T [player]……"
 
     old "Good [boy]."
     new "いい子ね。"
+
+    old "Good. :)"
+    new "良かった :)"
 
     old "Please enter your name"
     new "あなたの名前を入力して下さい"

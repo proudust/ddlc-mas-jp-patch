@@ -22,6 +22,72 @@ translate Japanese mas_fun_fact_librocubiculartist_25dddae0:
 translate Japanese mas_fun_fact_librocubiculartist_f70fbc9e:
     m 2hksdlb "……えへへ、ごめんね[player]君。そんなつもりじゃなかったんだよ～。"
 
+translate Japanese mas_fun_fact_menu_currency_7cd0d760:
+    m 3euc "おそらくだけど､大体のレストランは意図的に通貨記号を表記していないわ｡"
+
+translate Japanese mas_fun_fact_menu_currency_d4bbc06b:
+    m 3eud "これは心理的操作で､お客様に必要以上のお金を使ってもらうように仕向けているの｡"
+
+translate Japanese mas_fun_fact_menu_currency_0226c8a6:
+    m 2euc "ドルなんかの通貨記号がコストを表すために使われることもあることから､そういう心理になるのね｡"
+
+translate Japanese mas_fun_fact_menu_currency_dc254457:
+    m "通貨記号を表記しないことで､客はコストについて意識を割かずにメニューの選択に専念できるわ｡"
+
+translate Japanese mas_fun_fact_menu_currency_6c6bdbb5:
+    m 4rksdld "この慣例は無理もないわ｡結局これってビジネスなのよね｡"
+
+translate Japanese mas_fun_fact_menu_currency_d8383959:
+    m 2dsc "どんなに美味しいお店でも､競争相手に負けてしまったらすぐに閉店しちゃうものね｡"
+
+translate Japanese mas_fun_fact_menu_currency_09a6d614:
+    m 3hksdlb "まぁ､どうしようもないわね？"
+
+translate Japanese mas_fun_fact_love_you_05c00182:
+    m 1dkc "うーん、{i}この{/i}事実をあなたに伝えるべきかどうか迷うわ。"
+
+translate Japanese mas_fun_fact_love_you_971fd7d2:
+    m 1ekc "結局これって気の弱い人向けの話じゃないのよね。"
+
+translate Japanese mas_fun_fact_love_you_3076ca25:
+    m 1rkc "あのね……"
+
+translate Japanese mas_fun_fact_love_you_4ef5e129:
+    m 1dkc "……"
+
+translate Japanese mas_fun_fact_love_you_bf88e617:
+    m 3hub "……愛してるよ、[player]君！。"
+
+translate Japanese mas_fun_fact_love_you_1368a01d:
+    m 1rksdlb "えへへ、ごめんね、我慢できなくて。"
+
+translate Japanese mas_fun_fact_love_you_0e7f0faa:
+    m 1hksdlb "次は素直に言うから、気にしないでね～。"
+
+translate Japanese mas_fun_fact_morpheus_cfcdcbbf:
+    m 3wub "はい！言語に関する話よ｡私はこういう話が好きなの｡"
+
+translate Japanese mas_fun_fact_morpheus_bb7c4b22:
+    m 1eua "｢モルヒネ｣という言葉は､ギリシャの神､モルフェウスが語源なの｡"
+
+translate Japanese mas_fun_fact_morpheus_7d55faa4:
+    m 1euc "モルフェウスは夢の神なので､彼を元にした言葉なのは妥当かしら｡"
+
+translate Japanese mas_fun_fact_morpheus_bf78424a:
+    m 3ekc "でもよく考えてみたら……彼の父のヒュプノスは眠りの神よね？"
+
+translate Japanese mas_fun_fact_morpheus_9dee0d72:
+    m 2dsc "モルヒネは人に夢を見{i}させる{/i}けど､実際には人を眠らせるためのものよね｡"
+
+translate Japanese mas_fun_fact_morpheus_d50bd659:
+    m 4ekc "……なら､ヒュプノスにちなんだ名前をつけたほうが良かったんじゃないかしら｡"
+
+translate Japanese mas_fun_fact_morpheus_9fd773f0:
+    m 4rksdlb "思いつくのがちょっと遅すぎたかな｡"
+
+translate Japanese mas_fun_fact_otter_hand_holding_72557764:
+    m 1eka "あぁ～､本当に愛らしいわ｡"
+
 translate Japanese mas_fun_fact_otter_hand_holding_e87614ec:
     m 3ekb "ラッコが寝るときに手をつないでいるのは、お互いに流されないようにするためだって知ってたかしら？"
 
@@ -62,7 +128,7 @@ translate Japanese mas_fun_fact_honey_12d30716:
     m 3eub "でも、結晶化したハチミツも食べてみたいと思わない？"
 
 translate Japanese mas_fun_fact_honey_b16d5ad8:
-    m 3hub "きっと噛むとお菓子みたいな感じになるわよね！"
+    m 3hub "きっと噛むと飴玉みたいな感じになるわよね！"
 
 translate Japanese mas_fun_fact_king_snakes_aee3d749:
     m 1dsc "ふーむ……"

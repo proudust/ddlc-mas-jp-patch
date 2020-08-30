@@ -232,6 +232,9 @@ translate Japanese mas_reaction_candycorn_45982774:
 translate Japanese mas_reaction_candycorn_cb1d53fc:
     m 2eka "……"
 
+translate Japanese mas_reaction_candycorn_8c25eb98:
+    m 2hksdlb "ごめん...アハハ...."
+
 translate Japanese mas_reaction_candycorn_3201a8bc:
     m 1hubfa "えへへ～"
 

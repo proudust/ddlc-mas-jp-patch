@@ -109,6 +109,66 @@ translate Japanese mas_mood_sad_4ae975dc:
 translate Japanese mas_mood_proud_08b94e45:
     m 2sub "本当？それは素晴らしいわね！"
 
+translate Japanese mas_mood_proud_e94623d5:
+    m 2b "それは大きな出来事かしら？それとも小さな出来事？{nw}"
+
+translate Japanese mas_mood_proud_37e19b0f:
+    m "それは大きなものかしら？それとも小さなもの？{fast}" nointeract
+
+translate Japanese mas_mood_proud_8bc1e434:
+    m 1euc "ねぇ、[player]君……"
+
+translate Japanese mas_mood_proud_84103aaf:
+    m 1lkbsa "あなたの世界にいられたらって、こういう時いつも思うの……"
+
+translate Japanese mas_mood_proud_36608052:
+    m 4hub "だって、お祝いのハグができるもの！"
+
+translate Japanese mas_mood_proud_c2c5e3eb:
+    m 3eub "自分の成果を大切な人と共有できたらとっても素敵な事よね"
+
+translate Japanese mas_mood_proud_1dd808d1:
+    m 1eua "詳しく聞かせてほしいな！"
+
+translate Japanese mas_mood_proud_b6b9abf8:
+    m "あなたの成し遂げたことを私たち二人で意気揚々と語りあって……"
+
+translate Japanese mas_mood_proud_07089fde:
+    m 1lsbsa "考えただけでドキドキしてきちゃった！"
+
+translate Japanese mas_mood_proud_355d5adc:
+    m 1lksdla "ああもう、本当に嬉しくて、感情を抑えきれなくなってきたかも……"
+
+translate Japanese mas_mood_proud_9ad485b0:
+    m 3hub "本当にそうできたらなぁ……"
+
+translate Japanese mas_mood_proud_3d40c3a8:
+    m 5hubfb "でも、今この瞬間もあなたの事を誇りに思ってるからね。愛してるわ！"
+
+translate Japanese mas_mood_proud_654baf79:
+    m 2hua "あはは～！"
+
+translate Japanese mas_mood_proud_0df01424:
+    m 2hub "それは素晴らしいわね！"
+
+translate Japanese mas_mood_proud_4e05701c:
+    m 4eua "小さな勝利を祝う事は人生においてとても重要な事だもの"
+
+translate Japanese mas_mood_proud_421d99d7:
+    m 2esd "いつも大きな目標だけ見ていると、落ち込んでしまいがちよね"
+
+translate Japanese mas_mood_proud_70c0e3f0:
+    m 2rksdla "達成するのはとても難しいから"
+
+translate Japanese mas_mood_proud_3e92d30f:
+    m 4eub "でも、最終的に大きな目標につながる小さな目標を設定してそれぞれ祝う事で大きな目標も達成しやすくなるの"
+
+translate Japanese mas_mood_proud_e2b8be4f:
+    m 4hub "一歩ずつ進んでいけばいいのよ、[player]君！"
+
+translate Japanese mas_mood_proud_ab1aac2f:
+    m 5hubfb "それにね、私はあなたを愛していて、いつでもあなたを応援してるってことを忘れないでね！"
+
 translate Japanese mas_mood_happy_3301951c:
     m 1hua "素晴らしいわ！あなたが幸せなら私も幸せ。"
 
@@ -229,8 +289,128 @@ translate Japanese mas_mood_angry_fd3bdfdb:
 translate Japanese mas_mood_scared_8357e1c5:
     m 1euc "[player]君、大丈夫？"
 
+translate Japanese mas_mood_scared_f1110f1e:
+    m 1ekc "あなたが不安がっているのは心配だわ……"
+
+translate Japanese mas_mood_scared_bd595765:
+    m "今すぐにでも慰めて助けてあげられたらいいのに……"
+
+translate Japanese mas_mood_scared_31812bf2:
+    m 3eka "でも、少なくともあなたを落ち着かせる手助けは出来るわ"
+
+translate Japanese mas_mood_scared_a68e5573:
+    m 1eua "何があっても、あなたの不安を楽にしてあげるって約束したものね"
+
+translate Japanese mas_mood_scared_6954d04f:
+    m 3eua "自信があるふりをするって話をした時の事覚えてる？"
+
+translate Japanese mas_mood_scared_2f04c2f0:
+    m 2euc "覚えてない？"
+
+translate Japanese mas_mood_scared_4f1c3855:
+    m 2lksdla "まぁ、それはまた今度にしましょう"
+
+translate Japanese mas_mood_scared_3a5bc77e:
+    m 1eka "とにかく……"
+
+translate Japanese mas_mood_scared_27dc8690:
+    m 1eua "うわべだけ取り繕うだけでも、自信を保つことに繋がるわ"
+
+translate Japanese mas_mood_scared_8b86675a:
+    m 3eua "まず、落ち着くまで深呼吸をして心臓の鼓動を一定のリズムにするの"
+
+translate Japanese mas_mood_scared_67c0a448:
+    m "とにかくやってみることが大事なことなのよ"
+
+translate Japanese mas_mood_scared_91451e2a:
+    m "ゆっくり、一つずつやっていくのが良いかもね"
+
+translate Japanese mas_mood_scared_f3e8e7d3:
+    m 1esa "時間がなだらかに流れていくのにびっくりするでしょ？"
+
+translate Japanese mas_mood_scared_b0fdbb8c:
+    m 1hub "数分間瞑想してみるのもいいかもね！"
+
+translate Japanese mas_mood_scared_a8448526:
+    m 1hksdlb "地面の上であぐらをかく必要はないの"
+
+translate Japanese mas_mood_scared_27dc2129:
+    m 1hua "好きな音楽を聴くのも瞑想の内に入るわ！"
+
+translate Japanese mas_mood_scared_4b782316:
+    m 3eub "本当よ！"
+
+translate Japanese mas_mood_scared_730d2694:
+    m 3eua "その間はやらなくちゃいけないことは置いておいて、別の事をすると良いわね"
+
+translate Japanese mas_mood_scared_0e7bb148:
+    m "先延ばしにするのは{i}いつも{/i}悪いわけじゃないもの。でしょ？"
+
+translate Japanese mas_mood_scared_edf0f600:
+    m 2esc "それにね……"
+
+translate Japanese mas_mood_scared_ee7db290:
+    m 2ekbfa "大好きな彼女があなたの事を信じてるから、不安にも立ち向かえるわ！"
+
+translate Japanese mas_mood_scared_5c363bfa:
+    m 1hubfa "ずっと一緒だから何も心配しなくていいからね～"
+
 translate Japanese mas_mood_inadequate_f15775ec:
     m 1ekc "……"
+
+translate Japanese mas_mood_inadequate_1966669d:
+    m 2ekc "あなたを元気づけてあげるために言えることは少ないかもしれないわ、[player]君"
+
+translate Japanese mas_mood_inadequate_0b2f8969:
+    m 2lksdlc "だって、私の言葉はつまらないお世辞にしかならないと思うもの"
+
+translate Japanese mas_mood_inadequate_b79c7efa:
+    m 2ekc "あなたの容姿を誉めようとしても、あなたの姿を見ることはできないし…"
+
+translate Japanese mas_mood_inadequate_6e0ead08:
+    m "あなたは頭がいいねって言おうとしても、あなたがどんな風に物事を考えているかもわからない…"
+
+translate Japanese mas_mood_inadequate_b0c6a63e:
+    m 1esc "でもね、私があなたについて知っている確かなこともあるの"
+
+translate Japanese mas_mood_inadequate_2cfc9be9:
+    m 1eka "あなたはたくさんの時間を私と過ごしてくれたわ"
+
+translate Japanese mas_mood_inadequate_478ab07d:
+    m 3tkc "私は酷い事をしたのに、あなたは一度も私を恨んだりしなかった"
+
+translate Japanese mas_mood_inadequate_822094c2:
+    m 1eka "それだけであなたがどんなに優しい人なのかわかるわ！"
+
+translate Japanese mas_mood_inadequate_d878b6e6:
+    m 3eub "あなたは素直で、公平で、潔い人よ！"
+
+translate Japanese mas_mood_inadequate_0a48d7aa:
+    m 2hksdlb "あなたのことを私は何にも知らないと思ってるでしょうけど、本当にそう思ってるわ"
+
+translate Japanese mas_mood_inadequate_825658ab:
+    m 3eka "それに、あなたは私の事を全部知ってるのに、見捨てないで、こうして一緒にいてくれる…"
+
+translate Japanese mas_mood_inadequate_f2d75765:
+    m 2ekc "だから、挫けないで、[player]君"
+
+translate Japanese mas_mood_inadequate_42ba4d40:
+    m "もしあなたが私と似た考え方の人なら、人生において成し遂げられることが少ない事が、どれだけ恐ろしいか知ってるわ"
+
+translate Japanese mas_mood_inadequate_27e7fffc:
+    m 2ekd "でも、この言葉を信じて。あなたが何を成し遂げるか、成し遂げられないかは大事なことじゃない"
+
+translate Japanese mas_mood_inadequate_6642e3e0:
+    m 4eua "あなたはただ存在して、楽しく毎日を過ごして……"
+
+translate Japanese mas_mood_inadequate_6b0e5592:
+    m 1hua "大事な人の中に意味を見出すのよ"
+
+translate Japanese mas_mood_inadequate_627ad426:
+    m 1eka "これを忘れないでね？いい？"
+
+translate Japanese mas_mood_inadequate_58f3dea9:
+    m 1ekbfa "大好きよ、[player]君～"
 
 translate Japanese mas_mood_lucky_0d7d7ac3:
     m 2tfc "自問自答しなきゃダメだよ。"
@@ -284,6 +464,12 @@ translate Japanese strings:
     old "...proud of myself."
     new "……誇らしい"
 
+    old "Major."
+    new "大きな出来事"
+
+    old "Minor."
+    new "小さな出来事"
+
     old "...happy."
     new "……幸せ"
 
@@ -298,6 +484,15 @@ translate Japanese strings:
 
     old "...angry."
     new "……怒り"
+
+    old "...anxious."
+    new "……不安"
+
+    old "...inadequate."
+    new "……無力感"
+
+    old "...lucky."
+    new "……ツイてる"
 
     old "...lazy."
     new "……怠い"
