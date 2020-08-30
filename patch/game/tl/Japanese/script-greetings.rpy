@@ -379,6 +379,9 @@ translate Japanese greeting_latin_61a9c02f:
 translate Japanese greeting_latin_0ca4e431:
     m 3eua "なんて言ったか気になる？「また会ったね！元気？」って意味だよ。"
 
+translate Japanese greeting_esperanto_19428ff1:
+    m 1hua "えへへ～"
+
 translate Japanese greeting_yay_b9532c80:
     m 1hub "戻ってきてくれたのね！やったー！"
 
@@ -1169,9 +1172,6 @@ translate Japanese strings:
     old "[_opendoor_text]"
     new "[_opendoor_text!t]"
 
-    old "Open the door."
-    new "ドアを開ける"
-
     old "Knock."
     new "ノックする"
 
@@ -1186,9 +1186,6 @@ translate Japanese strings:
 
     old "...the window..."
     new "……窓の外が……"
-
-    old "It's me."
-    new "自分だよ"
 
     old "I'm sure."
     new "もちろん。"

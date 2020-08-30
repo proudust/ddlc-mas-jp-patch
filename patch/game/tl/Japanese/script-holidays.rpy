@@ -389,6 +389,12 @@ translate Japanese strings:
     old "Christmas"
     new "クリスマス"
 
+    old "It's me."
+    new "自分だよ"
+
+    old "Open the door."
+    new "ドアを開ける"
+
     old "Halloween"
     new "ハロウィン"
 

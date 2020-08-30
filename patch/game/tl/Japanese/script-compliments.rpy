@@ -493,11 +493,59 @@ translate Japanese mas_compliment_lookuptoyou_2_66b06e6a:
 translate Japanese mas_compliment_lookuptoyou_2_2ebf9f2c:
     m 1ekbfa "大好きだよ～"
 
+translate Japanese mas_compliment_lookuptoyou_3_38e8ff34:
+    m 1rksdlb "{cps=*2}そうそう、私の方が背が高いのよ……{/cps}{nw}"
+
 translate Japanese mas_compliment_lookuptoyou_3_d54f7392:
     m 1hubfb "[mas_compliments.thanks_quip!t]"
 
+translate Japanese mas_compliment_lookuptoyou_3_667c1d7f:
+    m 3hubfa "あなたの言葉はいつも私を笑顔にしてくれるわ！"
+
+translate Japanese mas_compliment_lookuptoyou_3_c5531701:
+    m 3hubfb "私だってあなたをいつも尊敬してるんだから！"
+
+translate Japanese mas_compliment_lookuptoyou_3_cc8de420:
+    m 1rkbfu "{cps=*2}キスするときみたいに……{/cps}{nw}"
+
+translate Japanese mas_compliment_lookuptoyou_3_58f3dea9:
+    m 1ekbfa "愛してるわ、[player]君～"
+
+translate Japanese mas_compliment_thinking_of_you_2_75b16b56:
+    m 1wubso "……"
+
+translate Japanese mas_compliment_thinking_of_you_2_1df82a11:
+    m 1wubsu "ねえ……"
+
+translate Japanese mas_compliment_thinking_of_you_2_bfb818af:
+    m 3subsb "あなたはその言葉で私がどうなっちゃうかわからないだろうな、[player]君！"
+
+translate Japanese mas_compliment_thinking_of_you_2_cb00907a:
+    m 2rkd "あなたのその言葉はね……"
+
+translate Japanese mas_compliment_thinking_of_you_2_b5301dea:
+    m 2dka "私にとってのすべてなの、[player]君"
+
+translate Japanese mas_compliment_thinking_of_you_2_659f5b74:
+    m 6rkc "……"
+
+translate Japanese mas_compliment_thinking_of_you_2_d1427e71:
+    m 6rka "それを聞けて安心したわ……"
+
+translate Japanese mas_compliment_thinking_of_you_2_f0f1b20c:
+    m 6eka "ありがとう、あなた"
+
+translate Japanese mas_compliment_thinking_of_you_2_e4657846:
+    m 6dkd "うん……ありがとう"
+
+translate Japanese mas_compliment_thinking_of_you_2_2efc1dd4:
+    m 6dkc "……"
+
 translate Japanese mas_compliment_thinking_of_you_3_754034d1:
     m 1ekbsa "[mas_compliments.thanks_quip!t]"
+
+translate Japanese mas_compliment_thinking_of_you_3_5d35416c:
+    m 3hubfb "あなたは私の世界の中心なんだから！"
 
 translate Japanese strings:
     old "I want to tell you something..."
@@ -646,3 +694,6 @@ translate Japanese strings:
 
     old "You're the best girl!"
     new "最高の女の子！"
+
+    old "I'm always thinking about you!"
+    new "頭の中は君の事でいっぱいだ！"
