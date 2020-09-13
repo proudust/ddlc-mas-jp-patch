@@ -148,7 +148,7 @@ translate Japanese mas_reaction_hotchocolate_995c4839:
 translate Japanese mas_reaction_hotchocolate_1fd5a84a:
     m 3eua "実のところ、今いれようと思うの！"
 
-translate Japanese _call_mas_transition_from_emptydesk_16_cb1cad3f:
+translate Japanese _call_mas_transition_from_emptydesk_24_cb1cad3f:
     m 1hua "そうね、数分で準備出来るわ。"
 
 translate Japanese mas_thermos_mug_handler_ce02bbb4:
@@ -202,7 +202,7 @@ translate Japanese mas_reaction_cupcake_7a6c8003:
 translate Japanese mas_reaction_cupcake_fc677fa0:
     m 3hub "わあ、ありがと [player]！"
 
-translate Japanese mas_reaction_cupcake_53affe03:
+translate Japanese mas_reaction_cupcake_06b6d6e7:
     m 1rksdlb "だ！け！ど！まだキッチンは作ってない！"
 
 translate Japanese mas_reaction_candy_3772217d:
@@ -244,7 +244,7 @@ translate Japanese mas_reaction_candycorn_6d9bf85e:
 translate Japanese mas_reaction_gift_roses_f4e32d64:
     m 1dktpu "……"
 
-translate Japanese _call_monika_kissing_motion_short_1_0d8345dc:
+translate Japanese _call_monika_kissing_motion_short_3_0d8345dc:
     m 1hub "えへへ～"
 
 translate Japanese mas_reaction_gift_chocolates_6e92af18:

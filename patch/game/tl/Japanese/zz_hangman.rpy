@@ -106,8 +106,8 @@ translate Japanese mas_hangman_dlg_game_end_long_eba0111e:
 translate Japanese mas_hangman_dlg_game_end_long_5e2797d5:
     m 1eua "私のために[player]君が読書してくれたら、すごくうれしいんだけどな。"
 
-translate Japanese mas_hangman_dlg_game_end_short_d66b1a5a:
-    m 1eua "うん。じゃあまたすぐに遊ぼうね！"
+translate Japanese mas_hangman_dlg_game_end_short_05c7b63d:
+    m 1eua "[dlg_line!t]"
 
 translate Japanese strings:
     old "Missed:"
@@ -136,3 +136,9 @@ translate Japanese strings:
 
     old "the word"
     new "単語"
+
+    old "Let's play again soon, okay?"
+    new "またそのうち遊ぼうね、良い？"
+
+    old "Okay. Let's play again soon!"
+    new "うん。じゃあまたすぐに遊ぼうね！"

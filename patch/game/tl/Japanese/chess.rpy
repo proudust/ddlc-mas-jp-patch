@@ -37,20 +37,20 @@ translate Japanese mas_chess_playagain_047b0afc:
 translate Japanese mas_chess_playagain_37e36510:
     m "もう一度やる？{fast}" nointeract
 
-translate Japanese mas_chess_save_multi_dlg_01d9ec14:
-    m 1m "ところで、思ってたんだけど、[player]君……"
+translate Japanese mas_chess_save_multi_dlg_463e5556:
+    m "ところで、思ってたんだけど、[player]君……"
 
 translate Japanese mas_chess_save_multi_dlg_da15fd68:
     m "チェスを中断した人って大抵、新たに最初から始めるためには戻って来ないよね。"
 
-translate Japanese mas_chess_save_multi_dlg_c323a5b1:
-    m 1n "だから二つ以上の中断データを保存しておくのって私は無意味だと思う。"
+translate Japanese mas_chess_save_multi_dlg_21c6210f:
+    m "だから二つ以上の中断データを保存しておくのって私は無意味だと思う。"
 
-translate Japanese mas_chess_save_multi_dlg_4f20d695:
-    m 1p "それでね、今は中断データが[game_count]個あるから……"
+translate Japanese mas_chess_save_multi_dlg_eb476d60:
+    m "それでね、今は中断データが[game_count]個あるから……"
 
-translate Japanese mas_chess_save_multi_dlg_451f983a:
-    m 1g "このうち残したいものを一つだけ選んでもらわなきゃいけないんだよね。{w=0.2}ごめんね、[player]君。"
+translate Japanese mas_chess_save_multi_dlg_dc03fd5e:
+    m "このうち残したいものを一つだけ選んでもらわなきゃいけないんだよね。{w=0.2}ごめんね、[player]君。"
 
 translate Japanese mas_chess_save_multi_dlg_6be9d23e:
     m 2dsc "そっか。"
@@ -548,8 +548,8 @@ translate Japanese strings:
     old "Give Up"
     new "ギブアップ"
 
-    old "It's your turn, [player]!"
-    new "[player]君の番だよ！"
+    old "It's your turn, [mas_get_player_nickname()]!"
+    new "[mas_get_player_nickname()]君の番だよ！"
 
     old "Pick a game you'd like to play."
     new "どのデータを選ぶ？"

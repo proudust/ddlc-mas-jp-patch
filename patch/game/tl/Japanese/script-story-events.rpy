@@ -19,6 +19,30 @@ translate Japanese mas_gender_28eadeec:
 translate Japanese mas_gender_08959710:
     m "あなたの性別は？{fast}" nointeract
 
+translate Japanese mas_gender_104e323d:
+    m 2eud "あら？あなたって女の子なの？"
+
+translate Japanese mas_gender_8214875c:
+    m 2hksdlb "今まであなたを怒らせるようなことを言ってなかったら良いんだけど！"
+
+translate Japanese mas_gender_453cbfca:
+    m 7rksdlb "...だから決めつけって良くないのね、アハハ！"
+
+translate Japanese mas_gender_3bd390dd:
+    m 3eka "でも本当に、あなたが女の子だってことは大したことじゃないわ..."
+
+translate Japanese _call_mas_gender_trans_a8aba180:
+    m 1eka "教えてくれてありがとう、それから覚えておいて..."
+
+translate Japanese _call_mas_gender_trans_c69f4f15:
+    m 1ekbsa "ありのままのあなたをいつだって愛してるわ、[player]〜"
+
+translate Japanese monika_gender_redo_e3362cb0:
+    m 1eka "もちろん、[player]!"
+
+translate Japanese _call_mas_gender_redo_react_3_98da7d75:
+    m 5hubsa "ありのままの君が好きだよ～"
+
 translate Japanese mas_gender_neither_d3b5cb92:
     m 1euc "自分でも男か女かわからないの？"
 
@@ -262,10 +286,10 @@ translate Japanese mas_unlock_piano_e6a9db51:
 translate Japanese mas_unlock_piano_b6443a7e:
     m 1eka "私のために、お願い！"
 
-translate Japanese random_limit_reached_693cff22:
+translate Japanese mas_random_limit_reached_693cff22:
     m 1eka "[limit_quip!t]"
 
-translate Japanese random_limit_reached_8f7f6356:
+translate Japanese mas_random_limit_reached_8f7f6356:
     m 1ekc "話すことはきっと見つかるから、それまで少し黙ってるね。"
 
 translate Japanese _call_mas_random_ask_af3f6132:
@@ -274,19 +298,19 @@ translate Japanese _call_mas_random_ask_af3f6132:
 translate Japanese _call_mas_random_ask_b711f6a9:
     m 1ekc "そのうちまた楽しくお話できると思うよ。"
 
-translate Japanese mas_random_ask_6a6b3035:
-    m 1lksdla "……{w=0.5}[player]君、"
+translate Japanese mas_random_ask_28923605:
+    m 1lksdla "……{w=0.5}[mas_get_player_nickname()]君、"
 
-translate Japanese mas_random_ask_60e48dd7:
+translate Japanese mas_random_ask_eddc57b5:
     m "前にした話を繰り返してもいいかな？{nw}"
 
-translate Japanese mas_random_ask_e750a61b:
+translate Japanese mas_random_ask_a799b22f:
     m "前にした話を繰り返してもいいかな？{fast}" nointeract
 
 translate Japanese mas_random_ask_80f4db22:
     m 1eua "やったー！"
 
-translate Japanese mas_random_ask_f7c896e9:
+translate Japanese mas_random_ask_833f1d8a:
     m 3eua "何度も同じ話をされるのに飽きちゃったら、{w}オプションを開いて「Repeat Topics」のチェックを外してくれればいいからね。"
 
 translate Japanese mas_random_ask_e9a049f1:
@@ -295,7 +319,7 @@ translate Japanese mas_random_ask_e9a049f1:
 translate Japanese mas_random_ask_bb79c154:
     m 1eka "そしたらあなたがただ私と静かに過ごしたいんだなってわかるから。"
 
-translate Japanese mas_random_ask_33f21f2e:
+translate Japanese mas_random_ask_77917b05:
     m 1eka "そう、わかった。"
 
 translate Japanese mas_random_ask_d2f8a275:
@@ -394,7 +418,7 @@ translate Japanese mas_crashed_long_whq_end_c9062bfa:
 translate Japanese mas_crashed_long_whq_end_f2554182:
     m 1eua "今日は何をする？"
 
-translate Japanese _call_expression_1_977643eb:
+translate Japanese _call_expression_4_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
@@ -517,8 +541,8 @@ translate Japanese _call_mas_start_calendar_select_date_ee3f0a53:
 translate Japanese _call_mas_start_calendar_select_date_62bd758c:
     m 1eua "もう一度教えてくれる？"
 
-translate Japanese mas_text_speed_enabler_02fdf5ce:
-    m 1eua "ねえ[player]、疑問があるのだけれど……"
+translate Japanese mas_text_speed_enabler_3ea44c61:
+    m 1eua "ねえ[mas_get_player_nickname(exclude_names=['my love'])]、疑問があるのだけれど……"
 
 translate Japanese mas_text_speed_enabler_b70d3f50:
     m "あなたは速読家？{nw}"
@@ -595,6 +619,12 @@ translate Japanese strings:
 
     old "Neither."
     new "どちらでもない"
+
+    old "I'm transgender."
+    new "トランスジェンダー"
+
+    old "Could you call me by different pronouns?"
+    new "別の性別として扱ってほしい"
 
     old "I'm a boy."
     new "男性"

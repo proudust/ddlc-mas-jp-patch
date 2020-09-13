@@ -4,8 +4,8 @@ translate Japanese mas_monika_islands_79d24fc1:
 translate Japanese mas_monika_islands_c7a5316f:
     m 1hub "気に入ってくれるといいな！"
 
-translate Japanese _call_expression_6_77c5f182:
-    m 1eua "気に入ってくれるといいな、[player]君～"
+translate Japanese _call_expression_9_56293cf9:
+    m 1eua "気に入ってくれるといいな、[mas_get_player_nickname()]君～"
 
 translate Japanese mas_island_upsidedownisland_a8b836db:
     m "ああ、あれね。"
