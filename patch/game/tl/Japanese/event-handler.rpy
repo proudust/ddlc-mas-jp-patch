@@ -1,17 +1,8 @@
-translate Japanese mas_bookmarks_unbookmark_loop_3e221f08:
-    m 1eua "分かったわ、[player]君..."
+translate Japanese mas_bookmarks_unbookmark_c42f8f06:
+    m 1dsa "分かったわ、[player]君。{w=0.2}.{w=0.2}.{w=0.2}{nw}"
 
-translate Japanese mas_bookmarks_unbookmark_loop_a1ad00d6:
-    m 1eka "他に消したいブックマークはありますか？{nw}"
-
-translate Japanese mas_bookmarks_unbookmark_loop_14ea8b80:
-    m "他に消したいブックマークはありますか？{fast}" nointeract
-
-translate Japanese mas_bookmarks_unbookmark_loop_860d32e6:
-    m 3eua "分かったわ。"
-
-translate Japanese mas_bookmarks_unbookmark_loop_73747bba:
-    m 3hua "すべて完了しました。"
+translate Japanese mas_bookmarks_unbookmark_73747bba:
+    m 3hua "できたよ！"
 
 translate Japanese strings:
     old "{b}Unseen{/b}"
@@ -32,7 +23,7 @@ translate Japanese strings:
     old "I love you!"
     new "大好きだよ！"
 
-    old "I'm feeling..."
+    old "I feel..."
     new "今の気分は……"
 
     old "Goodbye"
@@ -109,3 +100,6 @@ translate Japanese strings:
 
     old "You..."
     new "自分……"
+
+    old "I'd like to remove a bookmark"
+    new "ブックマークを消したい"

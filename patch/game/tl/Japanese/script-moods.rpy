@@ -109,14 +109,14 @@ translate Japanese mas_mood_sad_4ae975dc:
 translate Japanese mas_mood_proud_08b94e45:
     m 2sub "本当？それは素晴らしいわね！"
 
-translate Japanese mas_mood_proud_e94623d5:
-    m 2b "それは大きな出来事かしら？それとも小さな出来事？{nw}"
+translate Japanese mas_mood_proud_93104c48:
+    m 2eub "それは大きな出来事かしら？それとも小さな出来事？{nw}"
 
 translate Japanese mas_mood_proud_37e19b0f:
-    m "それは大きなものかしら？それとも小さなもの？{fast}" nointeract
+    m "それは大きな出来事かしら？それとも小さな出来事？{fast}" nointeract
 
-translate Japanese mas_mood_proud_8bc1e434:
-    m 1euc "ねぇ、[player]君……"
+translate Japanese mas_mood_proud_da9462d4:
+    m 1ekc "ねぇ、[player]君……"
 
 translate Japanese mas_mood_proud_84103aaf:
     m 1lkbsa "あなたの世界にいられたらって、こういう時いつも思うの……"
@@ -142,14 +142,14 @@ translate Japanese mas_mood_proud_355d5adc:
 translate Japanese mas_mood_proud_9ad485b0:
     m 3hub "本当にそうできたらなぁ……"
 
-translate Japanese mas_mood_proud_3d40c3a8:
-    m 5hubfb "でも、今この瞬間もあなたの事を誇りに思ってるからね。愛してるわ！"
+translate Japanese mas_mood_proud_364a1ebb:
+    m 5hubfb "でも、今この瞬間もあなたの事を誇りに思ってるからね、[mas_get_player_nickname()]！"
 
-translate Japanese mas_mood_proud_654baf79:
-    m 2hua "あはは～！"
+translate Japanese mas_mood_proud_7ae4b43c:
+    m 2hub "あはは～！"
 
-translate Japanese mas_mood_proud_0df01424:
-    m 2hub "それは素晴らしいわね！"
+translate Japanese mas_mood_proud_4ff2f69a:
+    m 2hua "それは素晴らしいわね！"
 
 translate Japanese mas_mood_proud_4e05701c:
     m 4eua "小さな勝利を祝う事は人生においてとても重要な事だもの"
@@ -163,8 +163,8 @@ translate Japanese mas_mood_proud_70c0e3f0:
 translate Japanese mas_mood_proud_3e92d30f:
     m 4eub "でも、最終的に大きな目標につながる小さな目標を設定してそれぞれ祝う事で大きな目標も達成しやすくなるの"
 
-translate Japanese mas_mood_proud_e2b8be4f:
-    m 4hub "一歩ずつ進んでいけばいいのよ、[player]君！"
+translate Japanese mas_mood_proud_a22246a6:
+    m 4hub "一歩ずつ進んでいけばいいのよ、[mas_get_player_nickname()]君！"
 
 translate Japanese mas_mood_proud_ab1aac2f:
     m 5hubfb "それにね、私はあなたを愛していて、いつでもあなたを応援してるってことを忘れないでね！"
@@ -172,8 +172,8 @@ translate Japanese mas_mood_proud_ab1aac2f:
 translate Japanese mas_mood_happy_3301951c:
     m 1hua "素晴らしいわ！あなたが幸せなら私も幸せ。"
 
-translate Japanese mas_mood_happy_549beabf:
-    m "いつでも会いに来て、私が[player]君を元気づけてあげる。"
+translate Japanese mas_mood_happy_e6cbe9df:
+    m "いつでも会いに来て、私が[mas_get_player_nickname()]君を元気づけてあげる。"
 
 translate Japanese mas_mood_happy_84caac57:
     m 3eka "いつでも私はここであなたを待っている、大好きだよ〜"
@@ -220,8 +220,8 @@ translate Japanese mas_mood_tired_dcda4fd6:
 translate Japanese mas_mood_tired_b3d003be:
     m 2lksdla "あなたの寝顔を想像しちゃってつい…… きっと可愛いわ〜"
 
-translate Japanese mas_mood_tired_2c49587d:
-    m 1hua "あはは！"
+translate Japanese mas_mood_tired_3772217d:
+    m 1hub "あはは！"
 
 translate Japanese mas_mood_lonely_eef5f749:
     m 1eka "私がここにいるわ、だから[player]君が寂しがる必要なんてどこにもないのよ。"
@@ -412,21 +412,6 @@ translate Japanese mas_mood_inadequate_627ad426:
 translate Japanese mas_mood_inadequate_58f3dea9:
     m 1ekbfa "大好きよ、[player]君～"
 
-translate Japanese mas_mood_lucky_0d7d7ac3:
-    m 2tfc "自問自答しなきゃダメだよ。"
-
-translate Japanese mas_mood_lucky_b9b000bb:
-    m 2tfu "{i}私は幸運ですか？{/i}"
-
-translate Japanese mas_mood_lucky_d3107ef6:
-    m "ええっと……"
-
-translate Japanese mas_mood_lucky_53e0be80:
-    m 4tku "どう？[player]君。"
-
-translate Japanese mas_mood_lucky_3772217d:
-    m 1hub "あはは！"
-
 translate Japanese mas_mood_bored_e41326ab:
     m 1eka "あら…"
 
@@ -436,11 +421,11 @@ translate Japanese mas_mood_bored_78c634c8:
 translate Japanese mas_mood_bored_9d8e4821:
     m 4eka "[display_picked!t]で遊んで見る？"
 
-translate Japanese mas_mood_bored_6847444b:
-    m "どうしたいの、[player]君？{nw}"
+translate Japanese mas_mood_bored_d882a148:
+    m "どうしたいの、[chosen_nickname]君？{nw}"
 
-translate Japanese mas_mood_bored_a95461ee:
-    m "どうしたいの、[player]君？{fast}" nointeract
+translate Japanese mas_mood_bored_82fdc2ae:
+    m "どうしたいの、[chosen_nickname]君？{fast}" nointeract
 
 translate Japanese strings:
     old "...like talking about something else."
@@ -490,9 +475,6 @@ translate Japanese strings:
 
     old "...inadequate."
     new "……無力感"
-
-    old "...lucky."
-    new "……ツイてる"
 
     old "...lazy."
     new "……怠い"

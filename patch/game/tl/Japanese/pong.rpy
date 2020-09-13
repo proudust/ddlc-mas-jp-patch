@@ -364,12 +364,6 @@ translate Japanese mas_pong_dlg_loser_4dcc0335:
 translate Japanese mas_pong_dlg_loser_d374c1eb:
     m 4wuo "凄かったわ！"
 
-translate Japanese mas_pong_dlg_loser_478461fd:
-    m 2wuo "わぁ！"
-
-translate Japanese mas_pong_dlg_loser_12814ffe:
-    m 2wuw "全力出したのに三回も負けちゃうなんて！"
-
 translate Japanese mas_pong_dlg_loser_a6a1434c:
     m 2hub "よくやったわ、[player]君！"
 

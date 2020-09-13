@@ -98,32 +98,17 @@ translate Japanese strings:
     old "What would you like to talk about? <3"
     new "何について話したいの？ <3"
 
-    old "What would you like to talk about, [player]?"
-    new "何について話したいの、[player]君？"
+    old "What would you like to talk about, [mas_get_player_nickname()]?"
+    new "何について話したいの、[mas_get_player_nickname()]君？"
 
-    old "Yes, [player]?"
-    new "なあに、[player]？"
+    old "Yes, [mas_get_player_nickname()]?"
+    new "なあに、[mas_get_player_nickname()]？"
+
+    old "What's on your mind, [mas_get_player_nickname()]?"
+    new "何考えてるの、[mas_get_player_nickname()]君？"
 
     old "What's on your mind, [player]?"
-    new "何考えてるの、[player]君？"
-
-    old "What would you like to talk about, honey?"
-    new "何について話したいの、ハニー？"
-
-    old "Yes, sweetheart?"
-    new "なあに、あなた？"
-
-    old "Yes, honey?"
-    new "なあに、ハニー？"
-
-    old "Yes, dear?"
-    new "なあに、あなた？"
-
-    old "What's on your mind, darling?"
-    new "ダーリン、何考えてるの～？"
-
-    old "What would you like to talk about, sweetie?"
-    new "何について話したいの、あなた？"
+    new "何考えてるの、[mas_get_player_nickname()]君？"
 
     old "What's on your mind?"
     new "何考えてるの～？"
@@ -131,14 +116,11 @@ translate Japanese strings:
     old "Anything on your mind?"
     new "なにか考えてる？"
 
-    old "What's up, honey?"
-    new "ハニー、どうしたの？"
+    old "Anything on your mind, [mas_get_player_nickname()]?"
+    new "なにか考えてる、[mas_get_player_nickname()]？"
 
-    old "What's up, dear?"
-    new "あなた、どうしたの？"
-
-    old "What's up, sweetie?"
-    new "あなた、どうしたの？"
+    old "What's up, [mas_get_player_nickname()]?"
+    new "[mas_get_player_nickname()]、どうしたの？"
 
     old "^_^"
     new "^_^"
@@ -191,17 +173,11 @@ translate Japanese strings:
     old "What would you like to play? <3"
     new "どれで遊びたいのかな？<3"
 
-    old "Choose anything you like, [player]."
-    new "どれでも好きなのを選んでね、[player]君。"
+    old "Choose anything you like, [mas_get_player_nickname()]."
+    new "どれでも好きなのを選んでね、[mas_get_player_nickname()]君。"
 
-    old "Pick anything you like, [player]."
-    new "何でも好きなのを選んでね、[player]君。"
-
-    old "Choose anything you like, honey."
-    new "どれでも好きなのを選んでね、ハニー。"
-
-    old "Pick anything you like, sweetheart."
-    new "何でも好きなのを選んでね、あなた。"
+    old "Pick anything you like, [mas_get_player_nickname()]."
+    new "何でも好きなのを選んでね、[mas_get_player_nickname()]君。"
 
     old "Yay! Let's play together!"
     new "いぇい！一緒にあそぼうね！"
