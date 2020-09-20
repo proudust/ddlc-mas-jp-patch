@@ -39,16 +39,16 @@ translate Japanese strings:
     new "少し他のことを……"
 
     old "Club members..."
-    new "部員……"
+    new "文芸部員について"
 
     old "Ddlc..."
-    new "ドキドキ文芸部……"
+    new "ドキドキ文芸部のこと"
 
     old "Dev..."
     new "デバック……"
 
     old "Games..."
-    new "ゲーム……"
+    new "ゲームについて"
 
     old "Grammar tips..."
     new "文法のこと……"
@@ -69,7 +69,7 @@ translate Japanese strings:
     new "色々……"
 
     old "Mod..."
-    new "Mod……"
+    new "Modの設定"
 
     old "Monika..."
     new "モニカ……"

@@ -418,7 +418,7 @@ translate Japanese mas_crashed_long_whq_end_c9062bfa:
 translate Japanese mas_crashed_long_whq_end_f2554182:
     m 1eua "今日は何をする？"
 
-translate Japanese _call_expression_4_977643eb:
+translate Japanese _call_expression_2_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:

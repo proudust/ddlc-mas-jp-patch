@@ -388,8 +388,8 @@ translate Japanese bye_goodnight_bc018cc2:
 translate Japanese bye_goodnight_435d44e4:
     m 3eka "『しっかり寝て、トコジラミに噛まれないように』ね。えへへ。"
 
-translate Japanese bye_goodnight_429f6db6:
-    m 1ekbfa "愛してるよ～"
+translate Japanese bye_goodnight_366f0509:
+    m 1ekbsa "愛してるよ～"
 
 translate Japanese bye_goodnight_bf2719e3:
     m 2esc "おやすみ。"
@@ -775,8 +775,8 @@ translate Japanese _call_bye_dinner_noon_to_mn_1_e768f2ec:
 translate Japanese _call_bye_dinner_noon_to_mn_1_b9e935a2:
     m 1eua "夜におやつを食べるの？"
 
-translate Japanese _call_bye_dinner_noon_to_mn_1_bf8e2b48:
-    m 1tubfu "私の目はごちそうにならないかしら？"
+translate Japanese _call_bye_dinner_noon_to_mn_1_a1b7bd06:
+    m 1tubsu "私の目はごちそうにならないかしら？"
 
 translate Japanese _call_bye_dinner_noon_to_mn_1_e1f4019e:
     m 3hubfb "あはは、おやつ楽しんでね、[player]君。"

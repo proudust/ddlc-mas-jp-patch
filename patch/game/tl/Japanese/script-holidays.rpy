@@ -1,13 +1,13 @@
 translate Japanese mas_holiday_o31_returned_home_relaunch_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_22_7ec4d980:
+translate Japanese _call_spaceroom_9_7ec4d980:
     m 1eua "あっ！"
 
-translate Japanese _call_spaceroom_22_7faca44c:
+translate Japanese _call_spaceroom_9_7faca44c:
     m 1rksdla "……"
 
-translate Japanese _call_spaceroom_22_0d8345dc:
+translate Japanese _call_spaceroom_9_0d8345dc:
     m 1hub "えへへ～"
 
 translate Japanese bye_trick_or_treat_e612037c:
@@ -16,7 +16,7 @@ translate Japanese bye_trick_or_treat_e612037c:
 translate Japanese bye_trick_or_treat_c61f257d:
     m 2dkc "……"
 
-translate Japanese _call_mas_transition_from_emptydesk_16_c61f257d:
+translate Japanese _call_mas_transition_from_emptydesk_12_c61f257d:
     m 2dkc "……"
 
 translate Japanese mas_d25_monika_holiday_intro_e612037c:
@@ -46,10 +46,10 @@ translate Japanese mas_d25_spent_time_monika_93727076:
 translate Japanese mas_d25_spent_time_monika_93727076_1:
     m 2etc "……"
 
-translate Japanese _call_mas_showpoem_7_d68c0e32:
+translate Japanese _call_mas_showpoem_2_d68c0e32:
     m 1dku "……"
 
-translate Japanese _call_monika_kissing_motion_3_1691936e:
+translate Japanese _call_monika_kissing_motion_1_1691936e:
     m 6dkbfa "……"
 
 translate Japanese mas_d25_postd25_notimespent_c61f257d:
@@ -76,10 +76,10 @@ translate Japanese monika_nye_year_review_b6730440:
 translate Japanese monika_nye_year_review_cea36ce5:
     m 1lsbsa "……"
 
-translate Japanese _call_monika_kissing_motion_4_e612037c:
+translate Japanese _call_monika_kissing_motion_2_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_29_e612037c:
+translate Japanese _call_spaceroom_16_e612037c:
     m "……"
 
 translate Japanese _call_mas_player_bday_moni_sings_2_94e61d1b:
@@ -88,7 +88,7 @@ translate Japanese _call_mas_player_bday_moni_sings_2_94e61d1b:
 translate Japanese mas_player_bday_card_a531c7f2:
     m 6dkbsu "……"
 
-translate Japanese _call_mas_showpoem_8_a531c7f2:
+translate Japanese _call_mas_showpoem_3_a531c7f2:
     m 6dkbsu "……"
 
 translate Japanese mas_player_bday_ret_on_bday_e612037c:
@@ -256,7 +256,7 @@ translate Japanese mas_f14_monika_vday_origins_daebbbf4:
 translate Japanese mas_f14_first_kiss_2b4d5369:
     m 6dktuu "……"
 
-translate Japanese _call_monika_kissing_motion_8_1691936e:
+translate Japanese _call_monika_kissing_motion_6_1691936e:
     m 6dkbfa "……"
 
 translate Japanese mas_f14_no_time_spent_c61f257d:
@@ -313,8 +313,8 @@ translate Japanese mas_bday_pool_happy_bday_1fdfef3e:
 translate Japanese mas_bday_pool_happy_bday_c82ca3c3:
     m 1dktdu "今日は特別な日になりそうね～"
 
-translate Japanese mas_bday_pool_happy_bday_76dc2584:
-    m 1ekbfa "他に何を用意しているのかしら……"
+translate Japanese mas_bday_pool_happy_bday_b53d4e26:
+    m 1ekbsa "他に何を用意しているのかしら……"
 
 translate Japanese mas_bday_pool_happy_bday_3772217d:
     m 1hub "あはは！"

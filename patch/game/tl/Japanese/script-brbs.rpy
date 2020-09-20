@@ -70,8 +70,8 @@ translate Japanese monika_idle_shower_5e216caf:
 translate Japanese monika_idle_shower_0bff80f5:
     m "私も一緒に行ってもいい？{fast}" nointeract
 
-translate Japanese monika_idle_shower_958b8e4e:
-    m 2wubfd "えっ、うーん……{w=0.5}ずいぶん返事が早かったわね。"
+translate Japanese monika_idle_shower_d43e1c02:
+    m 2wubsd "えっ、うーん……{w=0.5}ずいぶん返事が早かったわね。"
 
 translate Japanese monika_idle_shower_b67d5526:
     m 2hkbfsdlb "あなたは……{w=0.5}私に付いてきてほしいって思ってるのね？"
@@ -91,8 +91,8 @@ translate Japanese monika_idle_shower_daa3b18b:
 translate Japanese monika_idle_shower_ca2a68da:
     m 2eka "あらー、あっという間に拒絶されたわね。"
 
-translate Japanese monika_idle_shower_d6baec6a:
-    m 3tubfb "恥ずかしがり屋さんね､[player]君？"
+translate Japanese monika_idle_shower_4758d949:
+    m 3tubsb "恥ずかしがり屋さんね､[player]君？"
 
 translate Japanese monika_idle_shower_3aa0a1ce:
     m 1hubfb "あはは！"
@@ -115,8 +115,8 @@ translate Japanese monika_idle_shower_b85c19f9:
 translate Japanese monika_idle_shower_callback_1a305b96:
     m 1eua "おかえりなさい､[player]君｡"
 
-translate Japanese monika_idle_shower_callback_c0447e07:
-    m 3tubfb "シャワーも浴びたし、晩御飯にする？それとも{w=0.5}…{w=0.5}…{w=0.5}"
+translate Japanese monika_idle_shower_callback_2972d983:
+    m 3tubsb "シャワーも浴びたし、晩御飯にする？それとも{w=0.5}…{w=0.5}…{w=0.5}"
 
 translate Japanese monika_idle_shower_callback_bb31c0a4:
     m 1hubsa "もうちょっと私と一緒にくつろいでくれてもいいのに～。"

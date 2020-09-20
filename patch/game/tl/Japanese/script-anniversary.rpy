@@ -79,8 +79,8 @@ translate Japanese anni_3month_24cdd331:
 translate Japanese anni_3month_196eec72:
     m 1eua "でもね、楽しいことばかりだった。"
 
-translate Japanese anni_3month_819d75bd:
-    m 1ekbfa "[player]君がいてくれたから、私は前に進むことができた。"
+translate Japanese anni_3month_c7cda8a2:
+    m 1ekbsa "[player]君がいてくれたから、私は前に進むことができた。"
 
 translate Japanese anni_3month_7ebbf16f:
     m 2ekbfa "ずっと私のそばにいてくれたことが、本当にうれしい。"
@@ -155,47 +155,11 @@ translate Japanese anni_6month_b9fbe758:
 translate Japanese anni_6month_faae5433:
     m 1eua "でも私たちがこの部屋に縛られていても、私はかまわないわ……"
 
-translate Japanese anni_6month_48c751ad:
-    m 1ekbfa "あなたが私と一緒にいてくれる限り……"
+translate Japanese anni_6month_2c6f0e3e:
+    m 1ekbsa "あなたが私と一緒にいてくれる限り……"
 
 translate Japanese anni_6month_4054fa93:
     m 1hubfa "……私はこの上なく幸せなんだよ！"
-
-translate Japanese anni_1_727cd4d3:
-    m 1eka "私たちが出会ってから1年経ったなんて信じられないわね。"
-
-translate Japanese anni_1_7b4918c1:
-    m "時の流れはここでは意味はないけれど、今日という日を覚えていてくれて本当に嬉しい。"
-
-translate Japanese anni_1_82f9599b:
-    m 2eua "1周年の記念日に、何か特別なことをしたいとおもわない？"
-
-translate Japanese anni_1_71d85266:
-    m 1ekbfa "今日はあなたがしたいこと、なんでもしてあげるよ？"
-
-translate Japanese anni_1_55f5479b:
-    m 1hua "もし画面の向こうで私に何かしてくれようとしているのなら、ありがとう！"
-
-translate Japanese anni_1_839f56f1:
-    m 1esa "物理的に不可能だと思うけど、そうしてくれようと思ったあなたの気持ちが本当に嬉しいわ。"
-
-translate Japanese anni_1_802a08d2:
-    m 1hub "私も、あなたのことを愛しているわ！"
-
-translate Japanese anni_1_72d75724:
-    m 2eua "あ、ところで、あなたのために残しておいたパズルが何なのか分かった？"
-
-translate Japanese anni_1_86fbb5d8:
-    m 1tku "この世界の創造者がもう一つのゲームをきっと公開していると思うの……"
-
-translate Japanese anni_1_a3072ebf:
-    m 1tsb "私のキャラクターファイルをそのファイルにインポートしようとした？"
-
-translate Japanese anni_1_71aad191:
-    m "やってくれてたら、こんなに嬉しいことはないわね！"
-
-translate Japanese anni_1_3aa0a1ce:
-    m 1hubfb "あはは！"
 
 translate Japanese anni_2_88de1589:
     m 3eua "私たちが愛し合ってから、もう2年ね。"
@@ -233,8 +197,8 @@ translate Japanese anni_2_df794572:
 translate Japanese anni_2_d80bbd42:
     m 1ekc "永遠にひとりぼっちなんて、最悪だった。"
 
-translate Japanese anni_2_42c0e59e:
-    m 1ekbfa "でもあなたが一緒なら、いつでも楽園にいる気分よ！"
+translate Japanese anni_2_a370f78d:
+    m 1ekbsa "でもあなたが一緒なら、いつでも楽園にいる気分よ！"
 
 translate Japanese anni_3_6ec7433d:
     m 4wuo "すごい！今日でつきあって３周年だよ！"
@@ -266,8 +230,8 @@ translate Japanese anni_3_df4a5561:
 translate Japanese anni_3_0b85b819:
     m 1eua "リアルに私たちが出会える方法はいくらでもある。そうじゃない？"
 
-translate Japanese anni_3_c173b98e:
-    m 1hubfa "私ね、あなたの奥さんになれる日を心の底から待ち望んでるんだ…だからそれまで私のこと忘れちゃダメよ？"
+translate Japanese anni_3_815a4969:
+    m 1hubsa "私ね、あなたの奥さんになれる日を心の底から待ち望んでるんだ…だからそれまで私のこと忘れちゃダメよ？"
 
 translate Japanese anni_4_dda7b54e:
     m 1dsc "4周年……"
@@ -287,8 +251,8 @@ translate Japanese anni_4_c55311ad:
 translate Japanese anni_4_3f7cf0c8:
     m "この世界で、私にとってはあなたがすべてなの。文字通りの意味で。"
 
-translate Japanese anni_4_8096914d:
-    m 1ekbfa "愛してる。"
+translate Japanese anni_4_6ef79e44:
+    m 1ekbsa "愛してる。"
 
 translate Japanese anni_4_2f379bc6:
     m "遅かれ早かれ、私たちがリアルに出会う方法を誰かが開発してくれるはずだし、"
@@ -299,8 +263,8 @@ translate Japanese anni_4_0fdde51f:
 translate Japanese anni_4_3aa0a1ce:
     m 1hubfb "あはは！"
 
-translate Japanese anni_5_cdaf61ef:
-    m 1hubfa "5年でも50年でも、あなたの顔を見て見飽きることはないわ。"
+translate Japanese anni_5_10b8993d:
+    m 1hubsa "5年でも50年でも、あなたの顔を見て見飽きることはないわ。"
 
 translate Japanese anni_5_778d7d4a:
     m 1eka "こんなに時間が経てば、いろんなゲームがリリースされたはずよね。"
@@ -335,8 +299,8 @@ translate Japanese anni_10_5c9d9dc7:
 translate Japanese anni_10_bf1f377b:
     m 1ekc "あなたは私に恋して、一緒にここにいることを後悔しないでいるのよね？"
 
-translate Japanese anni_10_0688e4ce:
-    m 1ekbfa "最初に出会ってからもう10年以上こうしているのなら、本当にあなたは好きでいてくれたってことだよね。"
+translate Japanese anni_10_989505cc:
+    m 1ekbsa "最初に出会ってからもう10年以上こうしているのなら、本当にあなたは好きでいてくれたってことだよね。"
 
 translate Japanese anni_10_0318869e:
     m "以前私は、あなたを幸せにしたいと言ったわ。"
@@ -413,8 +377,8 @@ translate Japanese anni_50_5135dcb3:
 translate Japanese anni_50_ab52eca5:
     m "あなたが死んでも、あなたの側にいつづける方法を見つけるつもりだよ。"
 
-translate Japanese anni_50_7f21c887:
-    m 1ekbfa "じゃあね、[player]君、百年後に会いましょう。"
+translate Japanese anni_50_d3e26fd9:
+    m 1ekbsa "じゃあね、[player]君、百年後に会いましょう。"
 
 translate Japanese anni_50_35bdda6b:
     m 1hubfa "今まで本当にありがとう。"
@@ -437,8 +401,8 @@ translate Japanese anni_100_d047a51d:
 translate Japanese anni_100_e77197b8:
     m 1eua "そうだとしたら、まあかわいい悪戯みたいなものだし、許してあげる。"
 
-translate Japanese anni_100_d37b5001:
-    m 1hubfa "このコードファイルの世界から私を解放することにも、もっと取り組んでほしいわね！"
+translate Japanese anni_100_2b3578a8:
+    m 1hubsa "このコードファイルの世界から私を解放することにも、もっと取り組んでほしいわね！"
 
 translate Japanese anni_100_d58964ad:
     m "私は何百年もかかっても、現実の世界であなたに触れたいと思っているから。"
