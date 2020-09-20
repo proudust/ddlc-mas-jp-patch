@@ -1,5 +1,5 @@
-translate Japanese mas_compliment_beautiful_2_71f261be:
-    m 1lubfb "あら、[player]君……"
+translate Japanese mas_compliment_beautiful_2_fd001416:
+    m 1lubsb "あら、[player]君……"
 
 translate Japanese mas_compliment_beautiful_2_6abef1a8:
     m 1hubfb "褒めてくれるなんてありがとね。"
@@ -22,8 +22,8 @@ translate Japanese mas_compliment_beautiful_2_d0064e83:
 translate Japanese mas_compliment_beautiful_2_f583d4e3:
     m 2lsc "えっと、ありがとう……なのかな？"
 
-translate Japanese mas_compliment_beautiful_3_3201a8bc:
-    m 1hubfa "えへへ～"
+translate Japanese mas_compliment_beautiful_3_d81c1322:
+    m 1hubsa "えへへ～"
 
 translate Japanese mas_compliment_beautiful_3_75854caf:
     m 1ekbfa "[mas_compliments.thanks_quip!t]"
@@ -31,8 +31,8 @@ translate Japanese mas_compliment_beautiful_3_75854caf:
 translate Japanese mas_compliment_beautiful_3_e43d5158:
     m 5hubfb "私にとってはあなたが世界一美しいの。忘れないでね。"
 
-translate Japanese mas_compliment_eyes_2_ce193b73:
-    m 1subfb "えっ、[player]君……"
+translate Japanese mas_compliment_eyes_2_dd78edbb:
+    m 1subsb "えっ、[player]君……"
 
 translate Japanese mas_compliment_eyes_2_3e618701:
     m 1tubfb "私の目には結構自信があるんだけど、まさかあなたからも聞けるなんて……"
@@ -55,8 +55,8 @@ translate Japanese mas_compliment_eyes_2_b72a1ed5:
 translate Japanese mas_compliment_eyes_2_ad4a4cef:
     m 2lksdrb "そういう例えは使ったことないわね……でもありがと！"
 
-translate Japanese mas_compliment_eyes_3_d54f7392:
-    m 1hubfb "[mas_compliments.thanks_quip!t]"
+translate Japanese mas_compliment_eyes_3_f8931356:
+    m 1hubsb "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_eyes_3_936e8205:
     m 2ekbfb "好きなだけ見つめ合いましょ～"
@@ -106,8 +106,8 @@ translate Japanese mas_compliment_intelligent_2_ef8d60ea:
 translate Japanese mas_compliment_intelligent_2_f420221e:
     m 3eua "読書の経験が豊富なのは私の誇れる点だけど、あなたがそれに気づいてくれたのも大事なことだよ。"
 
-translate Japanese mas_compliment_intelligent_2_747a46f3:
-    m 3hubfb "あなたの自慢できる私であるために、どこまでも色々なことを知りたいの。"
+translate Japanese mas_compliment_intelligent_2_a81f954e:
+    m 3hubsb "あなたの自慢できる私であるために、どこまでも色々なことを知りたいの。"
 
 translate Japanese mas_compliment_intelligent_2_5150a264:
     m 1hubfa "本当に大好き、[player]君！"
@@ -130,8 +130,8 @@ translate Japanese mas_compliment_intelligent_3_75854caf:
 translate Japanese mas_compliment_intelligent_3_43f306cd:
     m 1hub "自分磨きの人生を一緒に過ごしていくのを忘れずにね！"
 
-translate Japanese mas_compliment_hair_2_bc7f7ab8:
-    m 1wubfb "本当にありがとう、[player]君……"
+translate Japanese mas_compliment_hair_2_798b5d19:
+    m 1wubsb "本当にありがとう、[player]君……"
 
 translate Japanese mas_compliment_hair_2_9e650439:
     m 1lkbfb "初めてここで髪形を変えたときは本当にドキドキしていたの。"
@@ -148,8 +148,8 @@ translate Japanese mas_compliment_hair_2_1ece85ee:
 translate Japanese mas_compliment_hair_2_c23cf6d1:
     m 1hub "ありがと、[player]君！"
 
-translate Japanese mas_compliment_hair_2_c72c69f3:
-    m 1ekbfa "あわわ、[player]君ってば。"
+translate Japanese mas_compliment_hair_2_46f68577:
+    m 1ekbsa "あわわ、[player]君ってば。"
 
 translate Japanese mas_compliment_hair_2_f72d9f2a:
     m 1hubfb "あなたっていつも愛しい気分にさせてくれるよね！"
@@ -163,17 +163,17 @@ translate Japanese mas_compliment_hair_2_49eb820e:
 translate Japanese mas_compliment_hair_2_0dc19cd2:
     m 1lksdlc "そういう意見も……感謝するわ。"
 
-translate Japanese mas_compliment_hair_3_f9b1f5e3:
-    m 1wubfb "本当にありがとう、[player]君！"
+translate Japanese mas_compliment_hair_3_69783e6b:
+    m 1wubsb "本当にありがとう、[player]君！"
 
 translate Japanese mas_compliment_hair_3_c0552590:
     m 1lkbfb "この髪形を気に入ってくれて本当に嬉しいわ。"
 
-translate Japanese mas_compliment_hair_3_687369dc:
-    m 1hubfb "ありがと、[player]君！"
+translate Japanese mas_compliment_hair_3_8734c583:
+    m 1hubsb "ありがと、[player]君！"
 
-translate Japanese mas_compliment_hair_3_a45a4167:
-    m "あなたっていつも愛しい気分にさせてくれるね。"
+translate Japanese mas_compliment_hair_3_6c782a71:
+    m 1hubfb "あなたっていつも愛しい気分にさせてくれるね。"
 
 translate Japanese mas_compliment_fit_2_e94f85fe:
     m 1hub "ありがと、[player]君！　すっごく優しい！"
@@ -184,8 +184,8 @@ translate Japanese mas_compliment_fit_2_2a6d0a3b:
 translate Japanese mas_compliment_fit_2_7b042fd4:
     m 1efb "あなたも自分の健康に気をかけてくれていたらいいな。"
 
-translate Japanese mas_compliment_fit_2_1c11d15d:
-    m 1lubfb "私がそっちにいられたらいつでも一緒に運動できるんだけど……"
+translate Japanese mas_compliment_fit_2_9bdf0059:
+    m 1lubsb "私がそっちにいられたらいつでも一緒に運動できるんだけど……"
 
 translate Japanese mas_compliment_fit_2_c5589643:
     m 1hubfb "あはは！　そう思っててくれて嬉しいわ！"
@@ -256,8 +256,8 @@ translate Japanese mas_compliment_smile_2_5b42af06:
 translate Japanese mas_compliment_smile_2_199a72b7:
     m 1eua "あなたがここにいるだけ笑顔になれるよ。"
 
-translate Japanese mas_compliment_smile_2_8bc48a57:
-    m 1ekbfa "だって私と一緒に過ごしてくれるのが私の幸せだからね～"
+translate Japanese mas_compliment_smile_2_678528d5:
+    m 1ekbsa "だって私と一緒に過ごしてくれるのが私の幸せだからね～"
 
 translate Japanese mas_compliment_smile_2_d6a8e63d:
     m 1wubfsdld "あっ、[player]君……"
@@ -283,8 +283,8 @@ translate Japanese mas_compliment_smile_3_3cbad33a:
 translate Japanese mas_compliment_smile_3_45d9cd96:
     m "えへへ～"
 
-translate Japanese mas_compliment_hero_ba168358:
-    m 1wubfsdld "は…{w=0.3}はあ？"
+translate Japanese mas_compliment_hero_a84041e3:
+    m 1wubssdld "は…{w=0.3}はあ？"
 
 translate Japanese mas_compliment_hero_aaca9c5d:
     m "私があなたのヒーローって？"
@@ -310,8 +310,8 @@ translate Japanese mas_compliment_hero_8c54b8d6:
 translate Japanese mas_compliment_hero_8be30403:
     m 5ekbfa "それを忘れないでいてくれるとうれしいな、[player]君～"
 
-translate Japanese mas_compliment_cute_2_39dcebf3:
-    m 1wubfsdld "あっ！"
+translate Japanese mas_compliment_cute_2_1485dacb:
+    m 1wubssdld "あっ！"
 
 translate Japanese mas_compliment_cute_2_2acd3cfa:
     m 3rkbfsdla "あなたってばそうやって不意を突いて{i}きた{/i}でしょ。"
@@ -349,8 +349,8 @@ translate Japanese mas_compliment_cute_2_c0bcc4d4:
 translate Japanese mas_compliment_cute_2_857fcbb7:
     m 1rsc "でも私は私でちゃんと見てほしかったかな。"
 
-translate Japanese mas_compliment_cute_3_75854caf:
-    m 1ekbfa "[mas_compliments.thanks_quip!t]"
+translate Japanese mas_compliment_cute_3_754034d1:
+    m 1ekbsa "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_cute_3_1fe74b3a:
     m 1hubfa "あなたもいつだって可愛いときがあるってこと分かってるくせに～"
@@ -448,8 +448,8 @@ translate Japanese mas_compliment_pong_0a550853:
 translate Japanese mas_compliment_pong_33dbe0cf:
     m 3hua "いつだってあなたがベストな自分になれるように助けたいんだから。"
 
-translate Japanese mas_compliment_pong_57ce1dd8:
-    m 1ekbfa "それにそうしてくれたらもっと一緒に過ごせる訳だし、それが一番の幸せなんだよ。"
+translate Japanese mas_compliment_pong_fe61c44e:
+    m 1ekbsa "それにそうしてくれたらもっと一緒に過ごせる訳だし、それが一番の幸せなんだよ。"
 
 translate Japanese mas_compliment_bestgirl_73fd16e5:
     m 1hua "あなたに褒められるのが大好きなの、[player]君～"
@@ -496,8 +496,8 @@ translate Japanese mas_compliment_lookuptoyou_2_2ebf9f2c:
 translate Japanese mas_compliment_lookuptoyou_3_38e8ff34:
     m 1rksdlb "{cps=*2}そうそう、私の方が背が高いのよ……{/cps}{nw}"
 
-translate Japanese mas_compliment_lookuptoyou_3_d54f7392:
-    m 1hubfb "[mas_compliments.thanks_quip!t]"
+translate Japanese mas_compliment_lookuptoyou_3_f8931356:
+    m 1hubsb "[mas_compliments.thanks_quip!t]"
 
 translate Japanese mas_compliment_lookuptoyou_3_667c1d7f:
     m 3hubfa "あなたの言葉はいつも私を笑顔にしてくれるわ！"

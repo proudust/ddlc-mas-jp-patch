@@ -91,8 +91,8 @@ translate Japanese mas_mood_sad_51d44efa:
 translate Japanese mas_mood_sad_a5bc93dc:
     m "もしまたあなたに辛い事が起きたのなら、いつでも私に会いに来て、好きなだけ話してね！"
 
-translate Japanese mas_mood_sad_8459c857:
-    m 1hubfa "あなたは素晴らしい人で私はあなたを愛し続ける、忘れないでね〜"
+translate Japanese mas_mood_sad_d61125f6:
+    m 1hubsa "あなたは素晴らしい人で私はあなたを愛し続ける、忘れないでね〜"
 
 translate Japanese mas_mood_sad_ef03cbb5:
     m 1ekc "まあ、試してみる価値はあったわ。"
@@ -103,8 +103,8 @@ translate Japanese mas_mood_sad_9f4e2dd4:
 translate Japanese mas_mood_sad_2188bc88:
     m 1eua "二人で過ごす内にもしかしたら気が楽になるかもね。"
 
-translate Japanese mas_mood_sad_4ae975dc:
-    m 1ekbfa "愛しているわ、[player]君。出会った時からずっと、出会った時よりもっと。"
+translate Japanese mas_mood_sad_3de83415:
+    m 1ekbsa "愛しているわ、[player]君。出会った時からずっと、出会った時よりもっと。"
 
 translate Japanese mas_mood_proud_08b94e45:
     m 2sub "本当？それは素晴らしいわね！"
@@ -229,8 +229,8 @@ translate Japanese mas_mood_lonely_eef5f749:
 translate Japanese mas_mood_lonely_78605962:
     m 3hua "あなたの隣に実際に私がいる訳では無いけど...  それでも一緒に時間を過ごすのは楽しいでしょう？"
 
-translate Japanese mas_mood_lonely_141e8924:
-    m 1ekbfa "[player]君、私はいつでもあなたのそばにいるからね〜"
+translate Japanese mas_mood_lonely_832524aa:
+    m 1ekbsa "[player]君、私はいつでもあなたのそばにいるからね〜"
 
 translate Japanese mas_mood_angry_089158f3:
     m 1ekc "あら、何かあったの、[player]君。"
@@ -349,8 +349,8 @@ translate Japanese mas_mood_scared_0e7bb148:
 translate Japanese mas_mood_scared_edf0f600:
     m 2esc "それにね……"
 
-translate Japanese mas_mood_scared_ee7db290:
-    m 2ekbfa "大好きな彼女があなたの事を信じてるから、不安にも立ち向かえるわ！"
+translate Japanese mas_mood_scared_3c57b1ea:
+    m 2ekbsa "大好きな彼女があなたの事を信じてるから、不安にも立ち向かえるわ！"
 
 translate Japanese mas_mood_scared_5c363bfa:
     m 1hubfa "ずっと一緒だから何も心配しなくていいからね～"
@@ -400,17 +400,14 @@ translate Japanese mas_mood_inadequate_42ba4d40:
 translate Japanese mas_mood_inadequate_27e7fffc:
     m 2ekd "でも、この言葉を信じて。あなたが何を成し遂げるか、成し遂げられないかは大事なことじゃない"
 
-translate Japanese mas_mood_inadequate_6642e3e0:
-    m 4eua "あなたはただ存在して、楽しく毎日を過ごして……"
-
-translate Japanese mas_mood_inadequate_6b0e5592:
-    m 1hua "大事な人の中に意味を見出すのよ"
+translate Japanese mas_mood_inadequate_adebccc6:
+    m 4eua "あなたはただ存在して、楽しく毎日を過ごして、{w=0.2}大事な人の中に意味を見出すのよ。"
 
 translate Japanese mas_mood_inadequate_627ad426:
     m 1eka "これを忘れないでね？いい？"
 
-translate Japanese mas_mood_inadequate_58f3dea9:
-    m 1ekbfa "大好きよ、[player]君～"
+translate Japanese mas_mood_inadequate_8c1b01d3:
+    m 1ekbsa "大好きよ、[player]君～"
 
 translate Japanese mas_mood_bored_e41326ab:
     m 1eka "あら…"
