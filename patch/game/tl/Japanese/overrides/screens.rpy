@@ -49,6 +49,12 @@ translate Japanese style outfit_check_button_text:
 translate Japanese style outfit_check_button_text_dark:
     font jpfonts.Mikachan
 
+translate Japanese style twopane_scrollable_menu_button:
+    padding (20, 5, 20, 5)
+
+translate Japanese style twopane_scrollable_menu_button_dark:
+    padding (20, 5, 20, 5)
+
 # 名前入力の制限撤廃
 translate Japanese screen:
     screen name_input(message, ok_action):
