@@ -32,7 +32,7 @@ jobs:
               echo "::error::$(cat)"
             exit 1
           fi
-          unzip -oq translations.zip -d patch/game/tl/Japanese/
+          unzip -oq translations.zip -d game/tl/Japanese/
           rm translations.txt translations.zip
 
       - name: Create Pull Request

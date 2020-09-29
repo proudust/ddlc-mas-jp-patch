@@ -7,15 +7,15 @@ fi
 
 MAS_VERSION=$1
 
-if [ ! -f /tmp/renpy/renpy.sh ]; then
+if [ ! -f sdk/renpy.sh ]; then
   echo "Download Ren'Py SDK v6.99.12.4"
-  wget -q -O /tmp/renpy.tar.bz2 https://www.renpy.org/dl/6.99.12.4/renpy-6.99.12.4-sdk.tar.bz2
-  tar -xf /tmp/renpy.tar.bz2 -C /tmp
-  rm /tmp/renpy.tar.bz2
-  mv /tmp/renpy-6.99.12.4-sdk /tmp/renpy
+  wget -q -O renpy.tar.bz2 https://www.renpy.org/dl/6.99.12.4/renpy-6.99.12.4-sdk.tar.bz2
+  tar -xf renpy.tar.bz2
+  rm renpy.tar.bz2
+  mv renpy-6.99.12.4-sdk sdk
 
   echo "Apply Extract Dialogue patch to Ren'Py"
-  wget -q -O /tmp/renpy/renpy/translation/dialogue.py https://raw.githubusercontent.com/proudust/renpy/dialogue-patch/renpy/translation/dialogue.py
+  wget -q -O sdk/renpy/translation/dialogue.py https://raw.githubusercontent.com/proudust/renpy/dialogue-patch/renpy/translation/dialogue.py
 fi
 
 if [ ! -d "/tmp/mas-$MAS_VERSION" ]; then
@@ -27,9 +27,9 @@ if [ ! -d "/tmp/mas-$MAS_VERSION" ]; then
     mv /tmp/DDLC-1.1.1-pc/ /tmp/ddlc/
   fi
 
-  if [ ! -f /tmp/unrpyc/unrpyc.py ]; then
+  if [ ! -f unrpyc/unrpyc.py ]; then
     echo "Download unrpyc"
-    git clone https://github.com/CensoredUsername/unrpyc.git /tmp/unrpyc >/dev/null
+    git clone https://github.com/CensoredUsername/unrpyc.git unrpyc >/dev/null
   fi
 
   echo "Download Monika After Story $MAS_VERSION"
@@ -45,5 +45,5 @@ if [ ! -d "/tmp/mas-$MAS_VERSION" ]; then
   rm "/tmp/mas-$MAS_VERSION.zip"
 
   echo "Decompile Monika After Story $MAS_VERSION"
-  python2 /tmp/unrpyc/unrpyc.py "/tmp/mas-$MAS_VERSION/game/*.rpyc"
+  python2 unrpyc/unrpyc.py "/tmp/mas-$MAS_VERSION/game/*.rpyc"
 fi

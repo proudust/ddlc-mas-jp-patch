@@ -1,8 +1,8 @@
 #!/bin/sh
 
 if [ $# -ne 1 ]; then
-  echo "using: $0 [mas version]" 1>&2
-  exit 1
+    echo "using: $0 [mas version]" 1>&2
+    exit 1
 fi
 
 MAS_VERSION=$1
@@ -18,5 +18,5 @@ sed -i -r 's/prompt="([^"]+)"/prompt=_\("\1"\)/g' "/tmp/mas-$MAS_VERSION/game/**
 sed -i -r 's/(renpy.say\(\w+, )"([^"]+)"/\1_\("\2"\)/g' "/tmp/mas-$MAS_VERSION/game/**.rpy"
 
 echo "Extract dialogs Monika After Story $MAS_VERSION"
-/tmp/renpy/renpy.sh "/tmp/mas-$MAS_VERSION" dialogue --strings --escape
+sdk/renpy.sh "/tmp/mas-$MAS_VERSION" dialogue --strings --escape
 sed "s|$(pwd)|game|" "/tmp/mas-$MAS_VERSION/dialogue.tab" >./dialogue.tab

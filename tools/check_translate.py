@@ -12,7 +12,7 @@ def read_dialogue():
 
 
 def enumrable_tl_scripts():
-    base = 'patch/game/tl/Japanese/'
+    base = 'game/tl/Japanese/'
     return [base + p for p in os.listdir(base) if os.path.splitext(p)[1] == '.rpy']
 
 
