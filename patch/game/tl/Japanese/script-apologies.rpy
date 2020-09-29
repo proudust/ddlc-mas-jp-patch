@@ -29,7 +29,7 @@ translate Japanese monika_playerapologizes_0bd97190:
     m 6ckc "……"
 
 translate Japanese monika_playerapologizes_0bd97190_1:
-    m "……"
+    m 6ckc "……"
 
 translate Japanese monika_playerapologizes_2b59356a:
     m 6rkc "何か言いたいことがあったの、[player]君？"
