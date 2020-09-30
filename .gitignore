@@ -1,18 +1,36 @@
+# Python
+__pycache__/
+
 # Ren'Py
+game/python-packages/
 lib/
 renpy/
 *.rpa
-*.rpy[bc]
+*.rpyb
+*.rpyc
 *.save
 *.tab
 log.txt
 errors.txt
 traceback.txt
+project.json
 persistent
 screenshot*.png
 
-# Python
-__pycache__/
+# Monika After Story
+characters/
+chess_games/
+gui/
+log/
+mod_assets/
+update/
+*.icns
+*.ico
+DDLC.*
+COPYRIGHT.txt
+firstrun
+masrun
+README.html
 
 # VSCode
 .history/
@@ -20,6 +38,5 @@ __pycache__/
 
 # ddlc-mas-jp-patch
 /DDLC_MAS_JP_*
-/ddlc/
-/game/
-/log/
+sdk/
+unrpyc/
