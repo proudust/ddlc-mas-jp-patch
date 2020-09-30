@@ -4,19 +4,6 @@ import subprocess
 import sys
 
 
-def get_mas_version():
-    with open('./patch/game/options.rpy', mode='r') as options:
-        match = re.search(r'define config.version = "(.+)"', options.read())
-        return 'v' + match.group(1) if match else None
-
-
-def exec_extract_dialogues(mas_version):
-    tools_path = os.path.dirname(os.path.abspath(__file__))
-    shell_path = os.path.join(tools_path, 'dialogue.sh')
-    return_code = subprocess.call([shell_path + ' ' + mas_version], shell=True)
-    return True if return_code == 0 else False
-
-
 def read_dialogue():
     with open('dialogue.tab', mode='r') as dialogue:
         lines = (l.split('\t') for l in dialogue)
@@ -66,17 +53,7 @@ def check_translate(dialogues, translates):
 
 
 def main():
-    # Get MAS version
-    mas_version = get_mas_version()
-    if mas_version is None:
-        print('failed to get MAS version.')
-        sys.exit(1)
-
     # Extract Dialogue
-    isExtractSuccess = exec_extract_dialogues(mas_version)
-    if not isExtractSuccess:
-        print('extract dialogue failed.')
-        sys.exit(1)
     dialogues = read_dialogue()
 
     # Extract translates

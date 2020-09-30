@@ -13,25 +13,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Get versions
+      - name: Get newest versions
         run: |
-          CURRENT_VERSION=v`grep -oP '(?<=define config.version = ").+(?=")' ./patch/game/options.rpy`
-          echo "CURRENT_VERSION=$CURRENT_VERSION"
-          echo ::set-env name=CURRENT_VERSION::$CURRENT_VERSION
           NEWEST_VERSION=`curl -sL https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/latest -s | jq .tag_name -r`
           echo "NEWEST_VERSION=$NEWEST_VERSION"
           echo ::set-env name=NEWEST_VERSION::$NEWEST_VERSION
 
       - name: Extract Dialogue in current version
         run: |
-          chmod -R +x ./tools/*.sh
-          ./tools/dialogue.sh ${{ env.CURRENT_VERSION }}
+          make dialogue
           mkdir artifact
           mv ./dialogue.tab ./artifact/${{ env.CURRENT_VERSION }}_dialogue.tab
 
       - name: Extract Dialogue in newest version
         run: |
-          ./tools/dialogue.sh ${{ env.NEWEST_VERSION }}
+          make dialogue 'MAS_VERSION := ${{ env.NEWEST_VERSION }}'
           mv ./dialogue.tab ./artifact/${{ env.NEWEST_VERSION }}_dialogue.tab
 
       - name: diff

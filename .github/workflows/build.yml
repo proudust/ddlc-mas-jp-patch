@@ -15,23 +15,17 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Get Git describe version and set to env
-        run: |
-          PATCH_VERSION=`git describe --tags`
-          MAS_VERSION=`grep -oP '(?<=define config.version = ").+(?=")' ./patch/game/options.rpy`
-          ARTIFACT_NAME=DDLC_MAS_JP_$PATCH_VERSION
-          echo ::set-env name=PATCH_VERSION::$PATCH_VERSION
-          echo ::set-env name=MAS_VERSION::$MAS_VERSION
-          echo ::set-env name=ARTIFACT_NAME::$ARTIFACT_NAME
+      - name: Install dependencies
+        run: make install
 
-      - name: Build by Ren'Py 6.99.12.4
-        run: chmod -R +x ./tools/*.sh && ./tools/distribute.sh
+      - name: Build
+        run: make build
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.ARTIFACT_NAME }}
-          path: ${{ env.ARTIFACT_NAME }}
+          path: ${{ env.ARTIFACT_PATH }}
 
       - name: Create Release
         if: startsWith(github.ref, 'refs/tags/')
@@ -41,7 +35,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ env.PATCH_VERSION }}
-          release_name: ver${{ env.PATCH_VERSION }} for v${{ env.MAS_VERSION }}
+          release_name: ver${{ env.PATCH_VERSION }} for ${{ env.MAS_VERSION }}
           draft: true
 
       - name: Upload Release Asset
@@ -50,10 +44,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ env.ARTIFACT_NAME }}.zip
-          asset_name: ${{ env.ARTIFACT_NAME }}.zip
+          asset_name: ${{ env.ARTIFACT_NAME }}
+          asset_path: ${{ env.ARTIFACT_PATH }}
           asset_content_type: application/zip
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
 
   check-translate:
     runs-on: ubuntu-latest
@@ -65,8 +59,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Install dependencies
+        run: make install
+
       - name: Check translates
-        run: chmod -R +x ./tools/*.sh && python3 tools/check_translate.py
+        run: make check
 
       - if: failure()
         name: Upload build artifact

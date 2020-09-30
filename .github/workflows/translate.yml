@@ -3,7 +3,7 @@ name: Update translate files
 on:
   push:
     branches:
-      - "master"
+      - master
   repository_dispatch:
     types: [update_translate]
   schedule:
@@ -22,9 +22,18 @@ jobs:
 
       - name: Download translate file
         run: |
-          curl -s -L ${{ secrets.TRANSLATE_URL }} | base64 -d > scripts.zip
-          unzip -oq scripts.zip -d patch/game/tl/Japanese/
-          rm scripts.zip
+          curl -sL -o translations.txt ${{ secrets.TRANSLATE_URL }}
+          base64 -d <translations.txt >translations.zip || result=$?
+          if [ $result -gt 0 ]; then
+            sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/ /g' translations.txt |
+              grep -oP '<div style="[^"]+">.+</div>' |
+              sed -re 's|<[^>]+>||g' |
+              sed -e 's|&quot;|"|g' |
+              echo "::error::$(cat)"
+            exit 1
+          fi
+          unzip -oq translations.zip -d patch/game/tl/Japanese/
+          rm translations.txt translations.zip
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3

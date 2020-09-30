@@ -5,14 +5,7 @@ if [ $# -ne 1 ]; then
   exit 1
 fi
 
-REPO_ROOT=$(dirname "$0")/..
 MAS_VERSION=$1
-
-result=0
-"$REPO_ROOT/tools/dependencies.sh" "$MAS_VERSION" || result=$?
-if [ ! "$result" = "0" ]; then
-  exit 1
-fi
 
 echo "Fix ZeroDivisionError"
 # / float(mas_getTotalSessions())

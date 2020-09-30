@@ -4,12 +4,6 @@ REPO_ROOT=$(dirname "$0")/..
 PATCH_VERSION=$(git -C "$REPO_ROOT" describe --tags)
 MAS_VERSION=v$(grep -oP '(?<=define config.version = ").+(?=")' "$REPO_ROOT/patch/game/options.rpy")
 
-result=0
-"$REPO_ROOT/tools/dependencies.sh" "$MAS_VERSION" || result=$?
-if [ ! "$result" = "0" ]; then
-  exit 1
-fi
-
 echo "Setup Monika After Story JP patch build"
 rm -rf /tmp/mas-jp
 cp -fpr "/tmp/mas-$MAS_VERSION" /tmp/mas-jp
