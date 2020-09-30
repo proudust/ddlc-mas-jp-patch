@@ -46,7 +46,7 @@ translate Japanese _call_spaceroom_1_a0c0d356:
 translate Japanese _call_spaceroom_1_84d80794:
     m "バグならもう直したけど。"
 
-translate Japanese _call_spaceroom_1_e6d4acdf_1:
+translate Japanese _call_spaceroom_1_9e2178c8_1:
     m 1euc "……ねえ、キャラクターファイルに何をしてるの？"
 
 translate Japanese _call_spaceroom_1_e6d4acdf:

@@ -24,25 +24,25 @@ translate Japanese strings:
     new "大好きだよ！"
 
     old "I feel..."
-    new "今の気分は……"
+    new "自分の今の気分"
 
     old "Goodbye"
-    new "さようなら"
+    new "さようなら\n(ゲーム終了)"
 
     old "Advice..."
-    new "アドバイス……"
+    new "モニカの\nアドバイス"
 
     old "Appearance..."
-    new "見た目……"
+    new "着替えてみない？"
 
     old "Be right back..."
-    new "少し他のことを……"
+    new "少し他のことを\nしてくる"
 
     old "Club members..."
     new "文芸部員について"
 
     old "Ddlc..."
-    new "ドキドキ文芸部のこと"
+    new "ドキドキ文芸部\nについて"
 
     old "Dev..."
     new "デバック……"
@@ -51,55 +51,55 @@ translate Japanese strings:
     new "ゲームについて"
 
     old "Grammar tips..."
-    new "文法のこと……"
+    new "文法を教えて"
 
     old "Life..."
-    new "生活……"
+    new "日常について"
 
     old "Literature..."
-    new "文芸……"
+    new "文学について"
 
     old "Nature..."
-    new "自然……"
+    new "アウトドアのこと"
 
     old "Media..."
-    new "メディア……"
+    new "表現の方法\nについて"
 
     old "Misc..."
-    new "色々……"
+    new "あのね……"
 
     old "Mod..."
     new "Modの設定"
 
     old "Monika..."
-    new "モニカ……"
+    new "モニカのこと"
 
     old "Philosophy..."
-    new "哲学……"
+    new "哲学について"
 
     old "Python tips..."
-    new "Python……"
+    new "Pythonについて"
 
     old "Romance..."
-    new "ロマンス……"
+    new "ロマンティックな\n話題"
 
     old "School..."
-    new "学校……"
+    new "学校について"
 
     old "Society..."
-    new "社会……"
+    new "社会的な話"
 
     old "Songs..."
-    new "歌……"
+    new "歌について"
 
     old "Winter..."
-    new "冬……"
+    new "冬の話"
 
     old "Writing tips..."
-    new "執筆……"
+    new "執筆アドバイス"
 
     old "You..."
-    new "自分……"
+    new "自分のこと"
 
     old "I'd like to remove a bookmark"
     new "ブックマークを消したい"

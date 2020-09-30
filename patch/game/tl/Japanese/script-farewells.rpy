@@ -349,7 +349,7 @@ translate Japanese bye_prompt_sleep_0bd97190_5:
 translate Japanese bye_prompt_sleep_d414e264:
     m 1eua "わかったわ、[mas_get_player_nickname()]君。"
 
-translate Japanese bye_prompt_sleep_c207c96e_4:
+translate Japanese bye_prompt_sleep_c207c96e:
     m 1hua "良い夢を！"
 
 translate Japanese bye_haveagoodday_9af8387d:

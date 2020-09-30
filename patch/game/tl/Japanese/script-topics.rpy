@@ -6187,7 +6187,7 @@ translate Japanese monika_completionist_ec09363d:
 translate Japanese monika_completionist_940a8738:
     m 2esc "チーターには、後味の悪い思いをさせられるわ。"
 
-translate Japanese monika_completionist_940a8739_1:
+translate Japanese monika_completionist_e561e0c8:
     m 2tfc "ゲームをハックして、ゲームの醍醐味を台無しにする、そんな奴ら。"
 
 translate Japanese monika_completionist_2f99d828:
