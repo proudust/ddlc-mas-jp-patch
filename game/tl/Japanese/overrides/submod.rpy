@@ -1,7 +1,7 @@
 define config.default_language = "Japanese"
 define config.language = "Japanese"
 
-init -990 python in mas_submod_utils:
+init -990 python hide:
     # ビルド時に git describe の文字列に置き換えられる
     version = "${PATCH_VERSION}"
 
@@ -27,7 +27,7 @@ init -990 python in mas_submod_utils:
         is_unstable = True
         version = "0"
 
-    Submod(
+    jp_submod = store.mas_submod_utils.Submod(
         author = "DDLC translate club JP",
         name = "Japanese Language Submod" + name_suffix,
         description = (
@@ -39,6 +39,14 @@ init -990 python in mas_submod_utils:
         settings_pane="japanese_submod_screen",
         version_updates={}
     )
+
+    if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
+        store.sup_utils.SubmodUpdater(
+            submod=jp_submod,
+            user_name="proudust",
+            repository_name="ddlc-mas-jp-patch",
+            update_dir="" # Updates will be installed in the base directory.
+        )
 
 screen japanese_submod_screen():
     pass
