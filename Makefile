@@ -10,10 +10,12 @@ install: ## Install Ren'Py SDK
 
 build: install ## Build and package mods (Default)
 	./tools/distribute.sh
-	@echo '::set-env name=ARTIFACT_NAME::$(ARTIFACT_NAME)'
-	@echo '::set-env name=ARTIFACT_PATH::$(ARTIFACT_PATH)'
-	@echo '::set-env name=MAS_VERSION::$(MAS_VERSION)'
-	@echo '::set-env name=PATCH_VERSION::$(PATCH_VERSION)'
+ifdef GITHUB_ENV
+	@echo 'ARTIFACT_NAME=$(ARTIFACT_NAME)' >> $(GITHUB_ENV)
+	@echo 'ARTIFACT_PATH=$(ARTIFACT_PATH)' >> $(GITHUB_ENV)
+	@echo 'MAS_VERSION=$(MAS_VERSION)' >> $(GITHUB_ENV)
+	@echo 'PATCH_VERSION=$(PATCH_VERSION)' >> $(GITHUB_ENV)
+endif
 
 dialogue: dialogue.tab ## Extract dialogue
 dialogue.tab: install

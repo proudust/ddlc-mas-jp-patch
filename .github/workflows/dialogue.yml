@@ -17,7 +17,7 @@ jobs:
         run: |
           NEWEST_VERSION=`curl -sL https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/latest -s | jq .tag_name -r`
           echo "NEWEST_VERSION=$NEWEST_VERSION"
-          echo ::set-env name=NEWEST_VERSION::$NEWEST_VERSION
+          echo NEWEST_VERSION=$NEWEST_VERSION >> $GITHUB_ENV
 
       - name: Extract Dialogue in current version
         run: |
