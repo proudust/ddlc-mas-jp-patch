@@ -64,10 +64,25 @@ init -990 python hide:
 screen japanese_submod_screen():
     pass
 
+# Hide old jp patch file
+python early hide:
+    import os.path
+    def create_dummy_if_needs(path):
+        if os.path.isfile(path) or os.path.isfile(path + "c"):
+            with open(path, "w") as f:
+                pass
+
+    create_dummy_if_needs(renpy.config.gamedir + "/tl/Japanese/overrides/definitions.rpy")
+    create_dummy_if_needs(renpy.config.gamedir + "/tl/Japanese/overrides/gui.rpy")
+    create_dummy_if_needs(renpy.config.gamedir + "/tl/Japanese/overrides/poems.rpy")
+    create_dummy_if_needs(renpy.config.gamedir + "/tl/Japanese/overrides/screens.rpy")
+    create_dummy_if_needs(renpy.config.gamedir + "/tl/Japanese/overrides/submod.rpy")
+    create_dummy_if_needs(renpy.config.gamedir + "/tl/Japanese/overrides/zz_calendar.rpy")
+
 label ddlc_translate_club_jp_japanese_language_submod_v201023(version="v201023"):
     python hide:
-        import shutil
         def trydel(path):
+            import shutil
             try:
                 shutil.rmtree(path)
             except Exception as e:
