@@ -228,6 +228,7 @@ init python:
     build.classify("game/" + jpfonts.GataSosyo, build.name)
     build.classify("game/" + jpfonts.SanaFon, build.name)
     build.classify("game/" + jpfonts.Ruriiro, build.name)
+    build.classify("game/Submods/Japanese Language Submod/**.rpyc", build.name)
     build.classify("game/tl/**.rpyc", build.name)
 
     ## These files get put into your data file

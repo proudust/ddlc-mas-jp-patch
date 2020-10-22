@@ -1,3 +1,47 @@
+# definitions.rpy
+translate Japanese python:
+    # 接頭詞・接尾詞の設定
+    m = DynamicCharacter('m_name', image='monika', what_prefix='「', what_suffix='」', ctc="ctc", ctc_position="fixed")
+    s = DynamicCharacter('s_name', image='sayori', what_prefix='「', what_suffix='」', ctc="ctc", ctc_position="fixed")
+    n = DynamicCharacter('n_name', image='natsuki', what_prefix='「', what_suffix='」', ctc="ctc", ctc_position="fixed")
+    y = DynamicCharacter('y_name', image='yuri', what_prefix='「', what_suffix='」', ctc="ctc", ctc_position="fixed")
+    ny = Character('Nat & Yuri', what_prefix='「', what_suffix='」', ctc="ctc", ctc_position="fixed")
+
+# gui.rpy
+translate Japanese python:
+    gui.default_font = jpfonts.VLGothic
+    gui.name_font = gui.default_font
+    gui.interface_font = gui.default_font
+    gui.choice_button_borders = Borders(10, 5, 10, 5)
+
+# poems.rpy
+translate Japanese style yuri_text:
+    font jpfonts.TegakiZatsu
+    size 28
+
+translate Japanese style yuri_text_2:
+    font jpfonts.GataSosyo
+    size 36
+
+translate Japanese style yuri_text_3:
+    font jpfonts.GataSosyo
+    size 27
+    kerning -12
+    language "western"
+
+translate Japanese style natsuki_text:
+    font jpfonts.SanaFon
+    size 30
+
+translate Japanese style sayori_text:
+    font jpfonts.HolidayMDJP
+    size 30
+
+translate Japanese style monika_text:
+    font jpfonts.Ruriiro
+    size 30
+
+# screens.rpy
 translate Japanese style edited:
     font jpfonts.VLGothic
 
@@ -76,3 +120,16 @@ translate Japanese screen:
                 xalign 0.5
                 spacing 100
                 textbutton _("OK") action ok_action
+
+# zz_calender.rpy
+translate Japanese python:
+    # カレンダーの表示微調整
+    MASCalendar.DATE_DISPLAY_FORMAT = "                   {0}\n{1}\n{2}\n{3}"
+
+    # 日付のフォーマットを日本式に置き換え
+    def genFormalDispDate(_date):
+        return (
+            "".join([str(_date.year), "年", str(_date.month), "月", str(_date.day), "日"]),
+            datetime.date.today() - _date
+        )
+    store.mas_calendar.genFormalDispDate = genFormalDispDate

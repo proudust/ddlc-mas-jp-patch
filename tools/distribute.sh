@@ -10,13 +10,13 @@ cp -fpr "/tmp/mas-$MAS_VERSION" /tmp/mas-jp
 cp -fpr "$REPO_ROOT/"* /tmp/mas-jp
 
 echo "Inject JP patch version to override.rpy"
-sed -i -e "s/\${PATCH_VERSION}/$PATCH_VERSION/" /tmp/mas-jp/game/tl/Japanese/overrides/submod.rpy
+sed -i -e "s/\${PATCH_VERSION}/$PATCH_VERSION/" '/tmp/mas-jp/game/Submods/Japanese Language Submod/jp_main.rpy'
 
 echo "Build Monika After Story JP patch ver$PATCH_VERSION for $MAS_VERSION"
 result=0
 sdk/renpy.sh sdk/launcher distribute /tmp/mas-jp --package Mod || result=$?
 if [ ! "$result" = "0" ]; then
-  exit 1
+    exit 1
 fi
 
 rm -rf /tmp/mas-jp-dist "./DDLC_MAS_JP_$PATCH_VERSION" "./DDLC_MAS_JP_$PATCH_VERSION.zip"

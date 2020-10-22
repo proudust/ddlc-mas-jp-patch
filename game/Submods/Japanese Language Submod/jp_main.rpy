@@ -1,6 +1,14 @@
 define config.default_language = "Japanese"
 define config.language = "Japanese"
 
+define -2 jpfonts.VLGothic = "gui/font/VL-Gothic-Regular.ttf"
+define -2 jpfonts.Mikachan = "gui/font/Mikachan.ttf"
+define -2 jpfonts.HolidayMDJP = "gui/font/HolidayMDJP.otf"
+define -2 jpfonts.TegakiZatsu = "gui/font/851tegaki_zatsu_normal.ttf"
+define -2 jpfonts.GataSosyo = "gui/font/gatasosyo.ttf"
+define -2 jpfonts.SanaFon = "gui/font/SNsanafonP.ttf"
+define -2 jpfonts.Ruriiro = "gui/font/Ruriiro_font.ttf"
+
 init -990 python hide:
     # ビルド時に git describe の文字列に置き換えられる
     version = "${PATCH_VERSION}"
@@ -37,7 +45,12 @@ init -990 python hide:
         version = version,
         dependencies={},
         settings_pane="japanese_submod_screen",
-        version_updates={}
+        version_updates={
+            "ddlc_translate_club_jp_japanese_language_submod_v200413": "ddlc_translate_club_jp_japanese_language_submod_v201023",
+            "ddlc_translate_club_jp_japanese_language_submod_v200504": "ddlc_translate_club_jp_japanese_language_submod_v201023",
+            "ddlc_translate_club_jp_japanese_language_submod_v200704": "ddlc_translate_club_jp_japanese_language_submod_v201023",
+            "ddlc_translate_club_jp_japanese_language_submod_v200920": "ddlc_translate_club_jp_japanese_language_submod_v201023",
+        }
     )
 
     if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
@@ -51,21 +64,15 @@ init -990 python hide:
 screen japanese_submod_screen():
     pass
 
-translate Japanese strings:
-    old "by DDLC translate club JP"
-    new "by DDLC翻訳部"
+label ddlc_translate_club_jp_japanese_language_submod_v201023(version="v201023"):
+    python hide:
+        import shutil
+        def trydel(path):
+            try:
+                shutil.rmtree(path)
+            except Exception as e:
+                pass
 
-    old "Japanese Language Submod"
-    new "日本語化パッチ"
-
-    old "Japanese Language Submod Canary Build"
-    new "日本語化パッチ カナリアビルド"
-
-    old "Japanese Language Submod In Develop"
-    new "日本語化パッチ 開発中"
-
-    old "This is a Submod that adds Japanese translation."
-    new "日本語訳を追加するSubmodです。"
-
-    old "This is a Submod that adds Japanese translation. This version is unstable. Use the latest stable version if possible."
-    new "日本語訳を追加するSubmodです。このバージョンは不安定です。可能であれば最新の安定バージョンを使用して下さい。"
+        # Move /tl/Japanese/overrides/ to /Submods/Japanese Language Submod/
+        trydel(renpy.config.gamedir + "/tl/Japanese/overrides")
+    return
