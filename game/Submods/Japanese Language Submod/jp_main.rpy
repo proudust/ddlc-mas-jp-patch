@@ -1,13 +1,13 @@
 define config.default_language = "Japanese"
 define config.language = "Japanese"
 
-define -2 jpfonts.VLGothic = "gui/font/VL-Gothic-Regular.ttf"
-define -2 jpfonts.Mikachan = "gui/font/Mikachan.ttf"
-define -2 jpfonts.HolidayMDJP = "gui/font/HolidayMDJP.otf"
-define -2 jpfonts.TegakiZatsu = "gui/font/851tegaki_zatsu_normal.ttf"
-define -2 jpfonts.GataSosyo = "gui/font/gatasosyo.ttf"
-define -2 jpfonts.SanaFon = "gui/font/SNsanafonP.ttf"
-define -2 jpfonts.Ruriiro = "gui/font/Ruriiro_font.ttf"
+define -2 jpfonts.VLGothic = "mod_assets/font/VL-Gothic-Regular.ttf"
+define -2 jpfonts.Mikachan = "mod_assets/font/Mikachan.ttf"
+define -2 jpfonts.HolidayMDJP = "mod_assets/font/HolidayMDJP.otf"
+define -2 jpfonts.TegakiZatsu = "mod_assets/font/851tegaki_zatsu_normal.ttf"
+define -2 jpfonts.GataSosyo = "mod_assets/font/gatasosyo.ttf"
+define -2 jpfonts.SanaFon = "mod_assets/font/SNsanafonP.ttf"
+define -2 jpfonts.Ruriiro = "mod_assets/font/Ruriiro_font.ttf"
 
 init -990 python hide:
     # ビルド時に git describe の文字列に置き換えられる
@@ -75,4 +75,7 @@ label ddlc_translate_club_jp_japanese_language_submod_v201023(version="v201023")
 
         # Move /tl/Japanese/overrides/ to /Submods/Japanese Language Submod/
         trydel(renpy.config.gamedir + "/tl/Japanese/overrides")
+
+        # Move /gui/font/ to mod_assets/font/
+        trydel(renpy.config.gamedir + "/gui/font")
     return

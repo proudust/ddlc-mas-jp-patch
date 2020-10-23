@@ -221,18 +221,13 @@ init python:
     #build.archive(build.name, "all")
 
     #Add the pictures necessary for the scrollable menu
-    build.classify("game/" + jpfonts.VLGothic, build.name)
-    build.classify("game/" + jpfonts.Mikachan, build.name)
-    build.classify("game/" + jpfonts.HolidayMDJP, build.name)
-    build.classify("game/" + jpfonts.TegakiZatsu, build.name)
-    build.classify("game/" + jpfonts.GataSosyo, build.name)
-    build.classify("game/" + jpfonts.SanaFon, build.name)
-    build.classify("game/" + jpfonts.Ruriiro, build.name)
+    build.classify("game/mod_assets/font/**.otf", build.name)
+    build.classify("game/mod_assets/font/**.ttf", build.name)
     build.classify("game/Submods/Japanese Language Submod/**.rpyc", build.name)
     build.classify("game/tl/**.rpyc", build.name)
 
     ## These files get put into your data file
-    build.classify("game/mod_assets/**", None)
+    #build.classify("game/mod_assets/**", None)
     #build.classify("game/**.rpy",build.name) #Optional line to include plaintext scripts
     build.classify("game/*.rpyc", None) #Serialized scripts must be included
     build.classify("game/dev/*.*", None) #But not the dev folder

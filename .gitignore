@@ -22,7 +22,7 @@ characters/
 chess_games/
 gui/
 log/
-mod_assets/
+/game/mod_assets/*
 update/
 *.icns
 *.ico
@@ -37,6 +37,7 @@ README.html
 .vscode/
 
 # ddlc-mas-jp-patch
+!/game/mod_assets/font
 /DDLC_MAS_JP_*
 sdk/
 unrpyc/
