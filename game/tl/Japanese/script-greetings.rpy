@@ -1132,6 +1132,33 @@ translate Japanese greeting_back_from_game_21ece3da:
 translate Japanese greeting_back_from_game_f3f44670:
     m 1hua "おかえりなさい、[mas_get_player_nickname()]君！"
 
+translate Japanese greeting_back_from_game_e75d99da:
+    m 2wuo "[player]!"
+
+translate Japanese greeting_back_from_game_6b0bcf08:
+    m 2hksdlb "随分長い間いなかったけど......"
+
+translate Japanese greeting_back_from_game_0934e203:
+    m 1eka "楽しかった?{nw}"
+
+translate Japanese greeting_back_from_game_118019ba:
+    m "楽しかった?{fast}" nointeract
+
+translate Japanese greeting_back_from_game_0bbdb671:
+    m 1hua "それはよかったわ。"
+
+translate Japanese greeting_back_from_game_e93005d0:
+    m 2ekc "あらま......"
+
+translate Japanese greeting_back_from_game_578b933c:
+    m 2rka "ねえ、[player]......"
+
+translate Japanese greeting_back_from_game_0b259093:
+    m 2eka "楽しくなければ私と過ごせばいいじゃない。"
+
+translate Japanese greeting_back_from_game_86ff08c5:
+    m 2hub "[player]!"
+
 translate Japanese greeting_back_from_eat_f66c4f76:
     m 1eub "食事は終わった？"
 
@@ -1154,11 +1181,11 @@ translate Japanese strings:
     old "Bad."
     new "悪い"
 
-    old "... Gently open the door"
-    new "……静かにドアを開ける"
-
     old "[_opendoor_text]"
     new "[_opendoor_text!t]"
+
+    old "...Gently open the door."
+    new "……静かにドアを開ける"
 
     old "Knock."
     new "ノックする"

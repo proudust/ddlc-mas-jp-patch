@@ -541,6 +541,12 @@ translate Japanese mas_compliment_thinking_of_you_2_e4657846:
 translate Japanese mas_compliment_thinking_of_you_2_2efc1dd4:
     m 6dkc "……"
 
+translate Japanese mas_compliment_thinking_of_you_2_5b0ed382:
+    m 2esc "……"
+
+translate Japanese mas_compliment_thinking_of_you_2_93727076:
+    m 2etc "……"
+
 translate Japanese mas_compliment_thinking_of_you_3_754034d1:
     m 1ekbsa "[mas_compliments.thanks_quip!t]"
 

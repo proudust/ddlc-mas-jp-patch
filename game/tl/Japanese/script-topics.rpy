@@ -10300,6 +10300,9 @@ translate Japanese monika_add_custom_music_instruct_3a0bbc7f:
 translate Japanese monika_mystery_b1d8253c:
     m 2eua "……"
 
+translate Japanese monika_player_read_poetry_9aa49f6b:
+    m 1eud "ねぇ、[player]..."
+
 translate Japanese monika_trick_yuri_8226ec8e:
     m 2lksdlc "……"
 
@@ -10443,6 +10446,42 @@ translate Japanese monika_perspective_479209a3:
 
 translate Japanese monika_enjoyingspring_9225cdad:
     m 5hubfa "えへへ～"
+
+translate Japanese monika_boardgames_13c44ec8:
+    m 1eua "ねえ[player]、テレビゲーム好きでしょ？"
+
+translate Japanese monika_boardgames_2a3bfac0:
+    m 2rsc "そう、少なくとも......{w=0.2} {nw}"
+
+translate Japanese monika_boardgames_5d015892:
+    extend 2rksdla "テレビゲームが好きじゃないとこういうゲームはやらないんじゃないかな。"
+
+translate Japanese monika_boardgames_8b4de26f:
+    m 2etc "気になるんだけどボードゲームは好きかな、[player]君{nw}"
+
+translate Japanese monika_boardgames_ff2270b6:
+    m "気になるんだけどボードゲームは好きかな、[player]君{nw}{fast}" nointeract
+
+translate Japanese monika_boardgames_767d510e:
+    m 1eub "えっ、本当！？"
+
+translate Japanese monika_boardgames_7f08195f:
+    m 1hua "機会があれば一緒にあなたのお気に入りのゲームをやってみたいな。"
+
+translate Japanese monika_boardgames_cbb2b8ac:
+    m 3eka "ボードゲームはあまり詳しくないんだけど私も楽しめそうなものがあると思うわ。"
+
+translate Japanese monika_boardgames_16eb202b:
+    m 3hua "わからないけど、私もあなたみたいにボードゲームが好きになっちゃったりして、えへへ～。"
+
+translate Japanese monika_boardgames_69863141:
+    m 2eka "そうよね...{w=0.2}{nw}"
+
+translate Japanese monika_boardgames_6dfc067f:
+    extend 2rksdla "結局、ニッチな遊びなんだよね。"
+
+translate Japanese monika_boardgames_19c610c5:
+    m 3hua "もしあなたの気が向いたら一緒にボードゲームをやってみたいな。"
 
 translate Japanese monika_social_norms_36408d59:
     m 1ekb "だから、いつもあなたらしくいてね、[player]君。結局、他の誰かになんてなれないんだから"
