@@ -53,9 +53,10 @@ init -990 python hide:
         }
     )
 
+init -989 python hide:
     if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
         store.sup_utils.SubmodUpdater(
-            submod=jp_submod,
+            submod="Japanese Language Submod",
             user_name="proudust",
             repository_name="ddlc-mas-jp-patch",
             update_dir="" # Updates will be installed in the base directory.
