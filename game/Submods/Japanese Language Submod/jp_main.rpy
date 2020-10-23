@@ -73,6 +73,9 @@ label ddlc_translate_club_jp_japanese_language_submod_v201023(version="v201023")
             except Exception as e:
                 pass
 
+        # Remove /tl/Japanese/dev/
+        trydel(renpy.config.gamedir + "/tl/Japanese/dev")
+
         # Move /tl/Japanese/overrides/ to /Submods/Japanese Language Submod/
         trydel(renpy.config.gamedir + "/tl/Japanese/overrides")
 
