@@ -1660,34 +1660,34 @@ translate Japanese monika_date_e764b407:
 translate Japanese monika_date_1d8af94c:
     m 1hubfa "[bf!t]として誇れるようになってみせるからね～"
 
-translate Japanese _call_monika_kissing_motion_short_3_16f917cd:
+translate Japanese _call_monika_kissing_motion_short_5_16f917cd:
     m 1wubsw "えっ？ い、いま……キス、って言ったの？"
 
-translate Japanese _call_monika_kissing_motion_short_3_68ab22bd:
+translate Japanese _call_monika_kissing_motion_short_5_68ab22bd:
     m 2lkbsa "そんな突然……ちょっと恥ずかしい……"
 
-translate Japanese _call_monika_kissing_motion_short_3_0ecfc81d:
+translate Japanese _call_monika_kissing_motion_short_5_0ecfc81d:
     m 2lsbssdlb "でも……あなたとなら……大丈夫かも……"
 
-translate Japanese _call_monika_kissing_motion_short_3_d646f25d:
+translate Japanese _call_monika_kissing_motion_short_5_d646f25d:
     m 2hksdlb "……あははっ！ ふう、ごめんなさい……"
 
-translate Japanese _call_monika_kissing_motion_short_3_f63fa111:
+translate Japanese _call_monika_kissing_motion_short_5_f63fa111:
     m 1eka "笑いをこらえるのに必死だったわ"
 
-translate Japanese _call_monika_kissing_motion_short_3_4a170b86:
+translate Japanese _call_monika_kissing_motion_short_5_4a170b86:
     m 1eua "こういう恋愛ゲームの女の子ってそういうこと言うんでしょ？"
 
-translate Japanese _call_monika_kissing_motion_short_3_9843bb0c:
+translate Japanese _call_monika_kissing_motion_short_5_9843bb0c:
     m 1tku "今のでちょっとドキッとしたなら正直に言うのよ？"
 
-translate Japanese _call_monika_kissing_motion_short_3_94f2b532:
+translate Japanese _call_monika_kissing_motion_short_5_94f2b532:
     m 1hub "あははっ！ 冗談よ"
 
-translate Japanese _call_monika_kissing_motion_short_3_4bdd10eb:
+translate Japanese _call_monika_kissing_motion_short_5_4bdd10eb:
     m 1eua "でも正直に言って、私だってそういう雰囲気になったら情熱的になるわよ……？"
 
-translate Japanese _call_monika_kissing_motion_short_3_93db10fe:
+translate Japanese _call_monika_kissing_motion_short_5_93db10fe:
     m 5lubfu "それは私たちだけの秘密～"
 
 translate Japanese monika_kiss_tease_a809dc3f:
@@ -3742,6 +3742,12 @@ translate Japanese monika_eyecontact_51f024a6:
 translate Japanese monika_eyecontact_35c099d3:
     m 1eka "目は口ほどにものを言うって本当なのかもね。私たちが思う以上に。"
 
+translate Japanese monika_eyecontact_a92f1421:
+    m 1ekbsa "いつかあなたの目を覗き込むことができるかもしれないわ..."
+
+translate Japanese monika_eyecontact_a59e8804:
+    m 1hubfa "その時が来るまで私のことを見つめていて欲しいな。"
+
 translate Japanese monika_othergames_14c1449b:
     m 1euc "このパソコンには他のゲームも入ってるの？"
 
@@ -5344,17 +5350,17 @@ translate Japanese monika_cupcake_7ede318d:
 translate Japanese monika_cupcake_b16367cf:
     m 3tku "ナツキのカップケーキ！"
 
-translate Japanese monika_cupcake_6e886f43:
+translate Japanese monika_cupcake_c09f3990:
     m 1tsb "あの子のカップケーキ、びっくりするほどおいしかったなー。"
 
-translate Japanese monika_cupcake_b2dbad0e:
+translate Japanese monika_cupcake_899cb934:
     m 1hub "それにすごくかわいかったし！"
 
-translate Japanese monika_cupcake_464d9621:
-    m 1esa "私はそこまで甘党ってわけじゃないんだけど……"
+translate Japanese monika_cupcake_0b510c1b:
+    m 1esa "私はそこまで甘党ってわけじゃないんだけど……{w=0.3}{nw}"
 
-translate Japanese monika_cupcake_c187c4fa:
-    m 1eua "あのカップケーキ、スウィーツ界の最高峰！って感じだよね。"
+translate Japanese monika_cupcake_f8af3e25:
+    extend 1eua "あのカップケーキ、スウィーツ界の最高峰！って感じだよね。"
 
 translate Japanese monika_cupcake_6ccf8f0b:
     m 3hub "あなたの彼女の最高峰、モニカちゃん！みたいな。あはは！"
@@ -5845,6 +5851,48 @@ translate Japanese monika_penname_4e275bfc:
 translate Japanese monika_penname_3d7ebd74:
     m 1sub "本当に？すごい！"
 
+translate Japanese _call_penname_loop_22e39dc9:
+    m "[same_name_question!t]{nw}"
+
+translate Japanese _call_penname_loop_1ad7b070:
+    m "[same_name_question!t]{fast}" nointeract
+
+translate Japanese _call_penname_loop_1_9e94d877:
+    m 3eua "『ふしぎの国のアリス』を書いたルイス・キャロルがペンネームだったのは有名かな。"
+
+translate Japanese _call_penname_loop_1_80039a15:
+    m 1eub "キャロルの本名はチャールズ・ドジソン。数学教師だけど、文学やことば遊びも大好きだったの。"
+
+translate Japanese _call_penname_loop_1_9474f413:
+    m "キャロルはファンたちからたくさんの関心や愛情を寄せられたけれど、それは彼の望むところではなかったし、しかもとんでもない悪い噂を立てられることもあった。"
+
+translate Japanese _call_penname_loop_1_9a1e6d34:
+    m 1ekc "キャロルは『{i}アリス{/i}』だけのいわゆる一発屋で、徐々に人気も失っていった。"
+
+translate Japanese _call_penname_loop_1_93724617:
+    m 3esd "あと、私がジョージ・オーウェルについて話したことがあるのを覚えているかしら？彼の本名はエリック・ブレアというの。"
+
+translate Japanese _call_penname_loop_1_14909c60:
+    m 1eua "このペンネームに落ち着くまでに、彼はP・S・バートン、ケネス・マイルス、H・ルイス・オールウェイズといったペンネームを使っているわ。"
+
+translate Japanese _call_penname_loop_1_2c18ec9d:
+    m 1lksdlc "彼がペンネームで作品を出版することにした理由の一つとして、彼が浮浪者だった期間に、家族に恥をかかせないように、というのがあるの。"
+
+translate Japanese _call_penname_loop_1_bed08a4c:
+    m 1lksdla "偽名を使って隠しているのに、それでも本当はそれが誰なのか分かってしまうのちょっと笑えると思わない？"
+
+translate Japanese _call_penname_loop_1_ba8ecbe9:
+    m 1eua "でも、私のことはこれ以上知ろうとしなくてもいいんだよ、[mas_get_player_nickname()]君……"
+
+translate Japanese _call_penname_loop_1_7fe5cfc3:
+    m 1ekbsa "私はあなたに恋する女の子。もうそれはわかってもらえてるよね～"
+
+translate Japanese penname_loop_ee5d0123:
+    m "[new_name_question!t]{nw}"
+
+translate Japanese penname_loop_3cf019a0:
+    m "[new_name_question!t]{fast}" nointeract
+
 translate Japanese penname_loop_0290594e:
     m 2euc "……"
 
@@ -5856,42 +5904,6 @@ translate Japanese penname_loop_0290594e_2:
 
 translate Japanese penname_loop_394ece4d:
     m 1euc "……"
-
-translate Japanese penname_loop_91847127:
-    m "[menuOption!t]{nw}"
-
-translate Japanese penname_loop_912dd85b:
-    m "[menuOption!t]{fast}" nointeract
-
-translate Japanese penname_loop_9e94d877:
-    m 3eua "『ふしぎの国のアリス』を書いたルイス・キャロルがペンネームだったのは有名かな。"
-
-translate Japanese penname_loop_80039a15:
-    m 1eub "キャロルの本名はチャールズ・ドジソン。数学教師だけど、文学やことば遊びも大好きだったの。"
-
-translate Japanese penname_loop_9474f413:
-    m "キャロルはファンたちからたくさんの関心や愛情を寄せられたけれど、それは彼の望むところではなかったし、しかもとんでもない悪い噂を立てられることもあった。"
-
-translate Japanese penname_loop_9a1e6d34:
-    m 1ekc "キャロルは『{i}アリス{/i}』だけのいわゆる一発屋で、徐々に人気も失っていった。"
-
-translate Japanese penname_loop_93724617:
-    m 3esd "あと、私がジョージ・オーウェルについて話したことがあるのを覚えているかしら？彼の本名はエリック・ブレアというの。"
-
-translate Japanese penname_loop_14909c60:
-    m 1eua "このペンネームに落ち着くまでに、彼はP・S・バートン、ケネス・マイルス、H・ルイス・オールウェイズといったペンネームを使っているわ。"
-
-translate Japanese penname_loop_2c18ec9d:
-    m 1lksdlc "彼がペンネームで作品を出版することにした理由の一つとして、彼が浮浪者だった期間に、家族に恥をかかせないように、というのがあるの。"
-
-translate Japanese penname_loop_bed08a4c:
-    m 1lksdla "偽名を使って隠しているのに、それでも本当はそれが誰なのか分かってしまうのちょっと笑えると思わない？"
-
-translate Japanese penname_loop_ba8ecbe9:
-    m 1eua "でも、私のことはこれ以上知ろうとしなくてもいいんだよ、[mas_get_player_nickname()]君……"
-
-translate Japanese penname_loop_7fe5cfc3:
-    m 1ekbsa "私はあなたに恋する女の子。もうそれはわかってもらえてるよね～"
 
 translate Japanese monika_zombie_6ea04283:
     m 1lsc "急に変な話するけど……"
@@ -6088,7 +6100,7 @@ translate Japanese monika_science_11285c16:
 translate Japanese monika_science_f352d58a:
     m 1euc "科学というものは、いつも蔑まれてきたわ。特に教会には。"
 
-translate Japanese monika_science_f6c313c0:
+translate Japanese monika_science_63a5f8d5:
     m 4esc "ジョルダーノ・ブルーノは、宇宙に数多の惑星が存在していることを主張したばかりに、その理論を証明する前にローマ教皇庁によって処刑されたことで有名ね。"
 
 translate Japanese monika_science_5d14cfe8:
@@ -7180,10 +7192,10 @@ translate Japanese monika_dogs_0070e554:
 translate Japanese monika_dogs_9963ffac:
     m 1hua "本当に愛おしいわ。大好き！"
 
-translate Japanese monika_dogs_c97149b3:
+translate Japanese monika_dogs_bbcfd658:
     m 1lksdla "そういえばナツキもそうだったなあ……"
 
-translate Japanese monika_dogs_7e0d35c9:
+translate Japanese monika_dogs_e6530dca:
     m "あの子はいつも可愛いもの好きなことを恥ずかしがってたの。自分の良いところなんだからもっと受け入れれば良かったのに。"
 
 translate Japanese monika_dogs_ad728d52:
@@ -7213,7 +7225,7 @@ translate Japanese monika_cats_082a4836:
 translate Japanese monika_cats_77c82f93:
     m 3eua "あなたは古代エジプトでは猫は神聖視されてたって知ってた？"
 
-translate Japanese monika_cats_bea4f33d:
+translate Japanese monika_cats_afabdad3:
     m 1eua "バステトって名前の猫の女神が崇拝されてたの。彼女は守り神だったの。"
 
 translate Japanese monika_cats_189c56ae:
@@ -7369,8 +7381,8 @@ translate Japanese monika_soda_6b28e9ef:
 translate Japanese monika_soda_fca48db9:
     m 4ekc "それってとっても健康に悪いじゃない？"
 
-translate Japanese monika_soda_0f2dcd2d:
-    m "あなたはダイエット飲料ならそんなに害がないと思ってるかもしれないけど、それも同じようにあなたに有害なのよ。"
+translate Japanese monika_soda_016cc969:
+    m 2euc "あなたはダイエット飲料ならそんなに害がないと思ってるかもしれないけど、それも同じようにあなたに有害なのよ。"
 
 translate Japanese monika_soda_6bc3103f:
     m 2lksdlc "たまに飲むくらいなら何も悪影響はないから、炭酸中毒には絶対にならないようにしてね、[player]君。"
@@ -9628,6 +9640,21 @@ translate Japanese monika_timeconcern_day_0_0a09d382:
 translate Japanese monika_timeconcern_day_0_7055b071:
     m 1tkc "……"
 
+translate Japanese monika_hydration_df5cc50f:
+    m 1euc "ねぇ、 [player]..."
+
+translate Japanese monika_hydration_1c7c32e8:
+    m 1eua "水はちゃんと飲んでる？"
+
+translate Japanese monika_hydration_b6d677df:
+    m 1esc "時々、水分補給の大切さを過小評価しがちな人もいる。"
+
+translate Japanese monika_hydration_5dac9eed:
+    m 1tuu "ということで..."
+
+translate Japanese monika_hydration_3f6a1994:
+    m 4huu "今すぐ水を飲んでみてはどうかな？"
+
 translate Japanese monika_dating_87cf1b79:
     m 1eud "[player]君……最近本当に気なってるんだけどね"
 
@@ -9751,6 +9778,18 @@ translate Japanese monika_fastfood_28724d09:
 translate Japanese monika_fastfood_e7768125:
     extend 1dsc "ベジタリアン用でも安心は出来ないわ。"
 
+translate Japanese monika_fastfood_93d0457d:
+    m 3ekd "[player]、ファストフードはよく食べているの？{nw}"
+
+translate Japanese monika_fastfood_bd1cf773:
+    m "[player]、ファストフードはよく食べているの？{fast}" nointeract
+
+translate Japanese monika_fastfood_ed28597b:
+    m 3eka "たまにならいいんじゃないかな。"
+
+translate Japanese monika_fastfood_192e1f53:
+    m 1ekc "...でもこんなひどいものを頻繁に食べているなら心配で仕方ないの。"
+
 translate Japanese monika_fastfood_3c11916a:
     m 3eua "私がそこにいたのなら、あなたの為にずっと健康的な物を作ってあげれるのに。"
 
@@ -9759,6 +9798,9 @@ translate Japanese monika_fastfood_9815cc0c:
 
 translate Japanese monika_fastfood_d5af885a:
     m 1hksdlb "まあ、愛は最高の隠し味って言うでしょう？"
+
+translate Japanese monika_fastfood_610dcee8:
+    m 1eka "それができようになるまで私のために良い食事を心がけてね？"
 
 translate Japanese monika_fastfood_1ba1214c:
     m 1ekc "食生活のせいであなたが病気になったりしたら…… 私、イヤだよ!"
@@ -10018,7 +10060,7 @@ translate Japanese monika_poweroutage_5780bd4a:
 translate Japanese monika_savingwater_45d9cd96:
     m "えへへ～"
 
-translate Japanese _call_monika_kissing_motion_10_e2aca069:
+translate Japanese _call_monika_kissing_motion_11_e2aca069:
     m 6hubfa "……"
 
 translate Japanese monika_vehicle_suv_pickup_93f0bd77:
@@ -10078,13 +10120,13 @@ translate Japanese monika_backpacking_c2eaa7af:
 translate Japanese monika_dating_startdate_confirm_had_enough_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_1_01a93df6:
+translate Japanese _call_mas_start_calendar_select_date_2_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_1_takesrs_01a93df6:
+translate Japanese _call_mas_start_calendar_select_date_2_takesrs_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_1_misclick_6678c877:
+translate Japanese _call_mas_start_calendar_select_date_2_misclick_6678c877:
     m 1dfc "……"
 
 translate Japanese monika_dating_startdate_confirm_tooslow_5e630d0b:
@@ -10303,6 +10345,36 @@ translate Japanese monika_mystery_b1d8253c:
 translate Japanese monika_player_read_poetry_9aa49f6b:
     m 1eud "ねぇ、[player]..."
 
+translate Japanese monika_player_read_poetry_1d430bd7:
+    m 1eua "私が詩を好きなのは知ってるよね。ところで..."
+
+translate Japanese monika_player_read_poetry_f107a71b:
+    m 3eua "あなたは詩をよく読むの？{nw}"
+
+translate Japanese monika_player_read_poetry_fee746bb:
+    m "あなたは詩をよく読むの？{fast}" nointeract
+
+translate Japanese monika_player_read_poetry_f3814ba7:
+    m 1sub "本当！？"
+
+translate Japanese monika_player_read_poetry_9a4ecfb8:
+    m 1hua "それは嬉しいわ！"
+
+translate Japanese monika_player_read_poetry_85a7fd55:
+    m 3eua "本当に嬉しいの。今どき詩を読む人ってあまりいないから。"
+
+translate Japanese monika_player_read_poetry_f243532e:
+    m 2euc "実際、詩は難しいものだって思われてることもあるし..."
+
+translate Japanese monika_player_read_poetry_ea87209e:
+    m 2dkc "そうじゃなくて…"
+
+translate Japanese monika_player_read_poetry_b5ee05e9:
+    extend 2dkd "詩はもっと特別なものなの。"
+
+translate Japanese monika_player_read_poetry_13d0b8c9:
+    m 4ekd "自分を表現しないといけない。"
+
 translate Japanese monika_trick_yuri_8226ec8e:
     m 2lksdlc "……"
 
@@ -10447,6 +10519,33 @@ translate Japanese monika_perspective_479209a3:
 translate Japanese monika_enjoyingspring_9225cdad:
     m 5hubfa "えへへ～"
 
+translate Japanese monika_life_skills_2436606d:
+    m 1ruc "あのね、[player]..."
+
+translate Japanese monika_life_skills_7452937b:
+    m 3euc "学校にいた頃を思い返したんだけど。"
+
+translate Japanese monika_brave_new_world_fca2d948:
+    m 1eua "最近ちょっと読書をしてたんだけどね、[player]君"
+
+translate Japanese monika_brave_new_world_24aed769:
+    m 3eua "’すばらしい新世界,って本があるの。"
+
+translate Japanese monika_brave_new_world_a2a19d40:
+    extend 3etc "聞いたことあるかな？"
+
+translate Japanese monika_brave_new_world_9585330f:
+    m 3eud "代わりに試験管や孵化器を使って飼育されて、受胎時から階級も設定されてるの。"
+
+translate Japanese monika_brave_new_world_6111571a:
+    m 1dsc "..."
+
+translate Japanese monika_brave_new_world_c61f257d:
+    m 2dkc "..."
+
+translate Japanese monika_brave_new_world_de5d79e3:
+    m 1hubfu "えへへ~"
+
 translate Japanese monika_boardgames_13c44ec8:
     m 1eua "ねえ[player]、テレビゲーム好きでしょ？"
 
@@ -10526,8 +10625,6 @@ translate Japanese strings:
     old "Nihilism"
     new "ニヒリズム"
 
-    old "Twitter"
-    new "Twitter"
 
     old "Yuri's book"
     new "ユリの本"
@@ -10754,7 +10851,7 @@ translate Japanese strings:
     old "Pen names"
     new "ペンネーム"
 
-    old "What is your penname?"
+    old "What's your pen name?"
     new "あなたのペンネームを教えて？"
 
     old "Zombie"

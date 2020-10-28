@@ -41,8 +41,4 @@ translate Japanese strings:
     old "Player names do not match. Which would you like to keep?"
     new "プレイヤー名が一致しません。どちらのファイルを残しますか？"
 
-    old "[ddlc_persistent.playername]"
-    new "[ddlc_persistent.playername]"
 
-    old "[persistent.playername]"
-    new "[persistent.playername]"

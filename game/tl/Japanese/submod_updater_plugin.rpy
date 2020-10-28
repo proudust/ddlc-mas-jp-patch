@@ -1,15 +1,18 @@
 translate Japanese strings:
     old "Updating the submod   "
-    new "サブMODのアップデート中"
+    new "サブMODのアップデート中    "
 
     old "Updating the submod.  "
-    new "サブMODのアップデート中."
+    new "サブMODのアップデート中.   "
 
     old "Updating the submod.. "
-    new "サブMODのアップデート中.."
+    new "サブMODのアップデート中.. "
 
     old "Updating the submod..."
     new "サブMODのアップデート中..."
+
+    old "A util submod that adds an in-game updater for other submods. Check {a=https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin}{i}{u}here{/u}{/i}{/a} if you want your submod to use this."
+    new "サブMODのゲーム内アップデート機能を追加します。サブMODをこれに対応させたい場合は{a=https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin}{i}{u}こちら{/u}{/i}{/a}を確認してください。"
 
     old "{b}Adjust settings{/b}"
     new "{b}設定の変更{/b}"

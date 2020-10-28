@@ -121,6 +121,9 @@ translate Japanese mas_preferredname_b797bf2b:
 translate Japanese mas_preferredname_415e3125:
     m "それとも他の名前で呼んだほうがいい？{fast}" nointeract
 
+translate Japanese _call_mas_player_name_enter_name_loop_ee324183:
+    m 3eua "わかったわ、気が変わったら教えてね"
+
 translate Japanese mas_birthdate_f7b121af:
     m 1euc "ねえ[player]君、私気がついたんだけど……"
 
@@ -133,7 +136,7 @@ translate Japanese mas_birthdate_6064531d:
 translate Japanese mas_birthdate_2ed0f9fa:
     m 1eua "それであなたはいつ生まれたの、[player]君?"
 
-translate Japanese _call_mas_player_bday_cake_223a7b0e:
+translate Japanese _call_mas_player_bday_cake_6_223a7b0e:
     m "お誕生日おめでとう、[player]君！"
 
 translate Japanese mas_unlock_chess_40f647a9:
@@ -418,7 +421,7 @@ translate Japanese mas_crashed_long_whq_end_c9062bfa:
 translate Japanese mas_crashed_long_whq_end_f2554182:
     m 1eua "今日は何をする？"
 
-translate Japanese _call_expression_2_977643eb:
+translate Japanese _call_expression_5_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
@@ -442,10 +445,10 @@ translate Japanese mas_corrupted_persistent_6f321cf4:
 translate Japanese mas_corrupted_persistent_bd6c3ff1:
     m 1ekc "あなた宛だろうから中身は読んでないわ……{w=0.3}{nw}"
 
-translate Japanese _call_mas_wx_cmd_1_2416b0d9:
+translate Japanese _call_mas_wx_cmd_4_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね。"
 
-translate Japanese _call_mas_wx_cmd_1_fe9c0937:
+translate Japanese _call_mas_wx_cmd_4_fe9c0937:
     m 1eua "ところで……"
 
 translate Japanese monika_rpy_files_b2896d32:
@@ -609,6 +612,18 @@ translate Japanese mas_notification_windowreact_c43b80ea:
 
 translate Japanese mas_notification_windowreact_797dcaa4:
     m 5ttu "……ね？"
+
+translate Japanese mas_gift_giving_instructs_d10f27d2:
+    m 1eud "ねえ、 [player]..."
+
+translate Japanese mas_gift_giving_instructs_6f321cf4:
+    m 3euc "誰かがcharacterフォルダにあなた宛のメッセージを残したみたいなの。"
+
+translate Japanese mas_gift_giving_instructs_d8307341:
+    m 1ekc "あなた宛だから読んでないわ...{w=0.5}{nw}。"
+
+translate Japanese mas_gift_giving_instructs_13919c99:
+    extend 1eua "でも重要なことかもしれないからあなたに知らせておこうと思って。"
 
 translate Japanese strings:
     old "Male."

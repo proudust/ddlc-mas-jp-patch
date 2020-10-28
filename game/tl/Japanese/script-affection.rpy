@@ -122,11 +122,7 @@ translate Japanese strings:
     old "What's up, [mas_get_player_nickname()]?"
     new "[mas_get_player_nickname()]、どうしたの？"
 
-    old "^_^"
-    new "^_^"
 
-    old "<3"
-    new "<3"
 
     old "Anything you'd like to talk about?"
     new "なにか話したいことあるかしら？"

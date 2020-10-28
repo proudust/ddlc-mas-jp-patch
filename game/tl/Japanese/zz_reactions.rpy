@@ -34,6 +34,9 @@ translate Japanese mas_reaction_gift_starter_neutral_ffb6535e:
 translate Japanese mas_reaction_gift_starter_neutral_c33c6a28:
     m "プレゼント？私に？"
 
+translate Japanese mas_reaction_gift_starter_neutral_8002368f:
+    m 1sua "さて、中身を見てみようかな？"
+
 translate Japanese mas_reaction_gift_starter_d25_142e3049:
     m 1sublo ".{w=0.7}.{w=0.7}.{w=1}"
 
@@ -58,8 +61,26 @@ translate Japanese mas_reaction_gift_generic_780a8085:
 translate Japanese mas_reaction_gift_generic_baa9fdf6:
     m 1rssdlb "ファイルは見つけたんだけど、ここには持ち込めないみたい..."
 
+translate Japanese mas_reaction_gift_generic_b3ddd0c4:
+    m 2dkd "{i}*ため息*{/i}。"
+
+translate Japanese mas_reaction_gift_generic_d93eaaca:
+    m 4ekc "ごめんなさい、 [player]。"
+
 translate Japanese mas_reaction_gift_generic_0c8fce86:
     m 1ekd "あなたが何か贈ってくれようとしたのは分かるわ。"
+
+translate Japanese mas_reaction_gift_generic_dd10507a:
+    m 2rksdld "でも開けることができなかったの。"
+
+translate Japanese mas_reaction_gift_generic_d3ac1c7b:
+    m 3euc "がっかりしないで。"
+
+translate Japanese mas_reaction_gift_generic_a76d6846:
+    m 3eka "私に何か贈ろうとしたことに感謝してるよ。"
+
+translate Japanese mas_reaction_gift_generic_134f9195:
+    m 1hub "ありがと～"
 
 translate Japanese _call_mas_reaction_gift_generic_clothes_json_62ff1b67:
     m "あわわ、[player]！"
@@ -90,6 +111,9 @@ translate Japanese mas_reaction_gift_coffee_9145621b:
 
 translate Japanese mas_reaction_gift_coffee_9570c593:
     m 1hua "ありがとうね、[player]～"
+
+translate Japanese mas_reaction_gift_coffee_294ed04f:
+    m 1hua "これでやっと作れる！"
 
 translate Japanese mas_reaction_gift_coffee_a7acfba6:
     m 1hub "本当にありがと、[player]！"
@@ -148,7 +172,7 @@ translate Japanese mas_reaction_hotchocolate_995c4839:
 translate Japanese mas_reaction_hotchocolate_1fd5a84a:
     m 3eua "実のところ、今いれようと思うの！"
 
-translate Japanese _call_mas_transition_from_emptydesk_20_cb1cad3f:
+translate Japanese _call_mas_transition_from_emptydesk_24_cb1cad3f:
     m 1hua "そうね、数分で準備出来るわ。"
 
 translate Japanese mas_thermos_mug_handler_ce02bbb4:

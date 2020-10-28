@@ -56,11 +56,7 @@ translate Japanese strings:
     old "About"
     new "バージョン情報"
 
-    old "Version [config.version!t]\n"
-    new "Version [config.version!t]\n"
 
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%Y年%m月%d日(%a) %H時%M分"
@@ -179,8 +175,6 @@ translate Japanese strings:
     old "The dialogue history is empty."
     new "ヒストリーはありません。"
 
-    old "OK"
-    new "OK"
 
     old "QUIT"
     new "終了"

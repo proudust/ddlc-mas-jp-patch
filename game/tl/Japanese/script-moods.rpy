@@ -28,7 +28,7 @@ translate Japanese _mas_nnsh_43a924b1:
 translate Japanese _mas_nnsh_57be0ce0:
     m 2lksdla "[player]君はしつこいと思うかもしれないけど。"
 
-translate Japanese _mas_nnsh_491ae38e:
+translate Japanese _mas_nnsh_ed20dbad:
     m 2eka "私が[player]君の元へ行くまで健康でいて欲しいだけ。"
 
 translate Japanese _mas_nnsh_c6d83fc7:
