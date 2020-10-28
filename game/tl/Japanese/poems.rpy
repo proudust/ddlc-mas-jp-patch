@@ -193,8 +193,6 @@ Breathing human eyes. Breathing time. Breathing prayer. Breathing sky. Breathing
 息吹く船。息吹くポータル。息吹く蛇。息吹く神。息吹く血。息吹く聖なる杭。 \
 息吹く人間の目。息吹く時間。息吹く祈り。息吹く空。息吹く車輪。"""
 
-    old "mdpnfbo,jrfp"
-    new "mdpnfbo,jrfp"
 
     old """\
 ed,,zinger suivante,,tels handknits finish,,cagefuls basinlike bag octopodan,,imboss\
@@ -717,8 +715,6 @@ Inside my head."""
 ただ聞こえるのは残響、残響、残響、残響、残響
 わたしの頭の中で。"""
 
-    old "%"
-    new "%"
 
     old """\
 Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of

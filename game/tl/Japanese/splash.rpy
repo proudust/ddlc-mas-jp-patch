@@ -44,8 +44,6 @@ translate Japanese strings:
     old "sdfasdklfgsdfgsgoinrfoenlvbd"
     new "くぁwせdrftgyふじこlp"
 
-    old "null"
-    new "null"
 
     old "I have granted kids to hell"
     new "私は子供を地獄へと追いやった"

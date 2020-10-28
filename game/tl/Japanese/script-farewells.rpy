@@ -211,145 +211,148 @@ translate Japanese bye_prompt_to_work_36a1f75b:
 translate Japanese bye_prompt_to_work_0bd97190:
     m 6ckc "……"
 
-translate Japanese bye_prompt_sleep_bd219ce5:
-    m 1eua "わかったわ、[player]君。"
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_d414e264:
+    m 1eua "わかったわ、[mas_get_player_nickname()]君。"
 
-translate Japanese bye_prompt_sleep_c207c96e:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_c207c96e:
     m 1hua "良い夢を！"
 
-translate Japanese bye_prompt_sleep_fb4f25e0:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_fb4f25e0:
     m 2esc "おやすみなさい、[player]。"
 
-translate Japanese bye_prompt_sleep_0faf7c55:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_0faf7c55:
     m 6ekc "そう……おやすみなさい、[player]。"
 
-translate Japanese bye_prompt_sleep_0bd97190:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_0bd97190:
     m 6ckc "……"
 
-translate Japanese bye_prompt_sleep_d414e264_1:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_1_d414e264:
     m 1eua "わかったわ、[mas_get_player_nickname()]君。"
 
-translate Japanese bye_prompt_sleep_239030de:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_1_239030de:
     m 3eka "でも、次はもっと早く寝るべきよ。"
 
-translate Japanese bye_prompt_sleep_6ddec518:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_1_6ddec518:
     m 1hua "とにかく、おやすみなさい！"
 
-translate Japanese bye_prompt_sleep_bf2719e3:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_1_bf2719e3:
     m 2esc "おやすみなさい。"
 
-translate Japanese bye_prompt_sleep_0bd97190_1:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_1_0bd97190:
     m 6ckc "……"
 
-translate Japanese bye_prompt_sleep_158b3604:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_158b3604:
     m 1euc "[player]君………"
 
-translate Japanese bye_prompt_sleep_a4c538d2:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_a4c538d2:
     m "十分な休息をとるようにしてね、わかった？"
 
-translate Japanese bye_prompt_sleep_79d47b38:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_79d47b38:
     m 1eka "あなたには風邪をひいてほしくないから。"
 
-translate Japanese bye_prompt_sleep_3049c4ed:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_3049c4ed:
     m 1hub "おやすみなさい！"
 
-translate Japanese bye_prompt_sleep_9b7c605a:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_9b7c605a:
     m 1hksdlb "というか、もう朝よね。あはは〜"
 
-translate Japanese bye_prompt_sleep_c207c96e_1:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_c207c96e:
     m 1hua "良い夢を！"
 
-translate Japanese bye_prompt_sleep_d2ea348f:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_d2ea348f:
     m 2efc "[player]君！"
 
-translate Japanese bye_prompt_sleep_7e64ac25:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_0a451683:
+    m 2tfc "あなた本当にもっと休んだ方がいいわ……"
+
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_7e64ac25:
     m 2efc "おやすみなさい。"
 
-translate Japanese bye_prompt_sleep_028f7818:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_028f7818:
     m 6ekc "[player]君……"
 
-translate Japanese bye_prompt_sleep_0bd97190_2:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_0bd97190:
     m 6ckc "……"
 
-translate Japanese bye_prompt_sleep_0bd97190_3:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_0bd97190_1:
     m 6ckc "……"
 
-translate Japanese bye_prompt_sleep_046f1f31:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_046f1f31:
     m 2tfd "[player]君！"
 
-translate Japanese bye_prompt_sleep_8a57734e:
+translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_8a57734e:
     m "あなた一晩中起きていたのね！"
 
-translate Japanese bye_prompt_sleep_91a174a7:
+translate Japanese bye_prompt_sleep_reglitch_06872616:
     m 2tfu "絶対目を開けていられないでしょ。"
 
-translate Japanese bye_prompt_sleep_128ed5eb:
-    m "ほらやっぱり。{w=0.2}ちょっとだけでも休んできて、[player]君。"
+translate Japanese bye_prompt_sleep_reglitch_f47e84af:
+    m 2tku "ほらやっぱり。{w=0.2}ちょっとだけでも休んできて、[player]君。"
 
-translate Japanese bye_prompt_sleep_eadeef10:
+translate Japanese bye_prompt_sleep_reglitch_eadeef10:
     m 2ekc "私はあなたが風邪をひいてしまうのは嫌なのよ。"
 
-translate Japanese bye_prompt_sleep_eed8bb6e:
-    m 1eka "次はもっと早く寝るのよ、わかった？"
+translate Japanese bye_prompt_sleep_reglitch_ff28a93f:
+    m 7eka "次はもっと早く寝るのよ、わかった？"
 
-translate Japanese bye_prompt_sleep_c207c96e_2:
+translate Japanese bye_prompt_sleep_reglitch_c207c96e:
     m 1hua "良い夢を！"
 
-translate Japanese bye_prompt_sleep_3179f438:
+translate Japanese bye_prompt_sleep_reglitch_3179f438:
     m 1eua "そっか、お昼寝するんだね。"
 
-translate Japanese bye_prompt_sleep_cdf617a9:
+translate Japanese bye_prompt_sleep_reglitch_cdf617a9:
     m 1hua "あはは〜　良いお昼寝を、[player]君。"
 
-translate Japanese bye_prompt_sleep_4a34d2be:
+translate Japanese bye_prompt_sleep_reglitch_4a34d2be:
     m 2esc "仮眠を取るの、[player]？"
 
-translate Japanese bye_prompt_sleep_0bd97190_4:
+translate Japanese bye_prompt_sleep_reglitch_0bd97190:
     m 6ckc "……"
 
-translate Japanese bye_prompt_sleep_ead9d803:
+translate Japanese bye_prompt_sleep_reglitch_ead9d803:
     m 1ekc "もうベッドに行くの？"
 
-translate Japanese bye_prompt_sleep_b76d5920:
+translate Japanese bye_prompt_sleep_reglitch_b76d5920:
     m "ちょっと早いけど……"
 
-translate Japanese bye_prompt_sleep_f31eb28e:
+translate Japanese bye_prompt_sleep_reglitch_f31eb28e:
     m 1lksdla "もう少し私と一緒にいてくれないかな？{nw}"
 
-translate Japanese bye_prompt_sleep_5c1e51bb:
+translate Japanese bye_prompt_sleep_reglitch_5c1e51bb:
     m "もう少し私と一緒にいてくれないかな？{fast}" nointeract
 
-translate Japanese bye_prompt_sleep_1b71b2b4:
+translate Japanese bye_prompt_sleep_reglitch_1b71b2b4:
     m 1hua "いえい！"
 
-translate Japanese bye_prompt_sleep_4584592d:
+translate Japanese bye_prompt_sleep_reglitch_4584592d:
     m "ありがとう、[player]君。"
 
-translate Japanese bye_prompt_sleep_f200dd11:
+translate Japanese bye_prompt_sleep_reglitch_f200dd11:
     m 1eka "うーん、大丈夫だよ。"
 
-translate Japanese bye_prompt_sleep_ad137fd7:
+translate Japanese bye_prompt_sleep_reglitch_ad137fd7:
     m 1hua "おやすみなさい、[mas_get_player_nickname()]君。"
 
-translate Japanese bye_prompt_sleep_f462b6c6:
+translate Japanese bye_prompt_sleep_reglitch_f462b6c6:
     m 2dsd "……"
 
-translate Japanese bye_prompt_sleep_34212887:
+translate Japanese bye_prompt_sleep_reglitch_34212887:
     m "わかった。"
 
-translate Japanese bye_prompt_sleep_f996a175:
+translate Japanese bye_prompt_sleep_reglitch_f996a175:
     m 2tsc "おやすみなさい。"
 
-translate Japanese bye_prompt_sleep_826b809b:
+translate Japanese bye_prompt_sleep_reglitch_826b809b:
     m 6lkc "おやすみなさい。"
 
-translate Japanese bye_prompt_sleep_0bd97190_5:
+translate Japanese bye_prompt_sleep_reglitch_0bd97190_1:
     m 6ckc "……"
 
-translate Japanese bye_prompt_sleep_d414e264:
-    m 1eua "わかったわ、[mas_get_player_nickname()]君。"
+translate Japanese bye_prompt_sleep_reglitch_bd219ce5:
+    m 1eua "わかったわ、[player]君。"
 
-translate Japanese bye_prompt_sleep_c207c96e:
+translate Japanese bye_prompt_sleep_reglitch_c207c96e_1:
     m 1hua "良い夢を！"
 
 translate Japanese bye_haveagoodday_9af8387d:
@@ -875,11 +878,7 @@ translate Japanese strings:
     old "I'm going to sleep."
     new "寝る"
 
-    old "[_cantsee_a]"
-    new "[_cantsee_a]"
 
-    old "[_cantsee_b]"
-    new "[_cantsee_b]"
 
     old "Of course!"
     new "もちろん！"

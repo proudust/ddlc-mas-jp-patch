@@ -44,5 +44,11 @@ translate Japanese mas_extra_menu_zoom_in_max_first_time_dd434783:
     m 6hubfa "暖かいな……"
 
 translate Japanese strings:
+    old "Zoom"
+    new "ズーム"
+
+    old "Reset"
+    new "ﾘｾｯﾄ"
+
     old "Close"
     new "閉じる"
