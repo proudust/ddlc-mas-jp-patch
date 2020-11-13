@@ -289,6 +289,15 @@ translate Japanese greeting_back5_5e2346f7:
 translate Japanese greeting_back5_8ba8fc14:
     m "お願いだから、ちゃんとここに来て？私はいつでもあなたのこと、待ってるから。"
 
+translate Japanese greeting_visit4_605d3a57:
+    m 1wud "あら！[player]君！"
+
+translate Japanese greeting_visit4_1d12de0f:
+    m 3sub "戻ってきたのね！"
+
+translate Japanese greeting_visit4_69e412e5:
+    m 3hua "こんなにすぐ私に会いに戻って来てくれてすごく嬉しいわ～"
+
 translate Japanese greeting_visit4_7cb6e79e:
     m 1hub "だああああいすきだよおおお[player]君。えへへ～"
 
@@ -453,6 +462,9 @@ translate Japanese greeting_sweetpea_e8b31ebc:
 
 translate Japanese greeting_sweetpea_c3954141:
     m 2hub "わあ、私のスイートピーちゃんじゃない！"
+
+translate Japanese greeting_sweetpea_0c962fe8:
+    m 1lkbsa "うーん……ちょっと恥ずかしかったわ、えへへ～。"
 
 translate Japanese greeting_glitch_6d89a6ec:
     y "{cps=500}[player]君！？{nw}{/cps}"
@@ -889,6 +901,18 @@ translate Japanese greeting_japan_310d5370:
 translate Japanese greeting_japan_6bd70721:
     m 4ekbsa "{i}'私は永遠にあなたのもの'{/i}って意味よ。"
 
+translate Japanese greeting_japan_a18c76a2:
+    m 4hub "ワタシ　ワ　イツマデモ　アナタ　ノ　モノ　デス！"
+
+translate Japanese greeting_japan_490e18d6:
+    m 3eksdla "前に同じこと言った時に間違えてて……"
+
+translate Japanese greeting_japan_026306c7:
+    m 4eka "でも安心して、[player]。意味は変わらないからね。"
+
+translate Japanese greeting_japan_d357ebcd:
+    m 4ekbsa "私はいつまでもあなたのものよ～"
+
 translate Japanese greeting_sunshine_0ba661ca:
     m 1hua "{i}You are my sunshine, my only sunshine{i}♪"
 
@@ -1090,6 +1114,33 @@ translate Japanese greeting_back_from_school_19428ff1:
 translate Japanese greeting_back_from_school_sick_0bd97190:
     m 6ckc "……"
 
+translate Japanese greeting_back_from_work_ec403fd8:
+    m 1hua "あっ、おかえり～、[mas_get_player_nickname()]！"
+
+translate Japanese greeting_back_from_work_3b94fa18:
+    m 1eua "お仕事どうだった？{nw}"
+
+translate Japanese greeting_back_from_work_e6536357:
+    m "お仕事どうだった？{fast}" nointeract
+
+translate Japanese greeting_back_from_work_b9a4a89d:
+    m 1hub "それはよかったわ！"
+
+translate Japanese greeting_back_from_work_b74e8fb9:
+    m 1eua "でも、まず休息をとるのを忘れないでね？"
+
+translate Japanese greeting_back_from_work_b9665962:
+    m 3eua "休息をとれば他のことをする気力も湧いてくるわ。"
+
+translate Japanese greeting_back_from_work_c3c13aa3:
+    m 1hua "もしくは、私と一緒にくつろぐのもオススメよ！"
+
+translate Japanese greeting_back_from_work_b044fee6:
+    m 3tku "がんばった日にはベストな選択肢じゃない？"
+
+translate Japanese greeting_back_from_work_3772217d:
+    m 1hub "あはは！"
+
 translate Japanese greeting_back_from_work_c80e9915:
     m 2ekc "……"
 
@@ -1207,3 +1258,9 @@ translate Japanese strings:
 
     old "Maybe not..."
     new "違うかも……"
+
+    old "Amazing."
+    new "完璧"
+
+    old "Really bad..."
+    new "最悪……"
