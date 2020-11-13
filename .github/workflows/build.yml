@@ -35,7 +35,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ env.PATCH_VERSION }}
-          release_name: ver${{ env.PATCH_VERSION }} for ${{ env.MAS_VERSION }}
+          release_name: v${{ env.PATCH_VERSION }} for MAS ${{ env.MAS_VERSION }}
           draft: true
 
       - name: Upload Release Asset

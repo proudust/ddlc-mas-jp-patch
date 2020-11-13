@@ -1,4 +1,4 @@
-DDLC Monika After Story 日本語化パッチ(20/10/28)
+DDLC Monika After Story 日本語化サブMOD (20/11/13)
 ------------------------------------------------------------
 
 
@@ -30,9 +30,19 @@ https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin/releases/latest
 
 
 
-既知の不具合：
+よくある質問：
 ・翻訳が反映されない箇所がある
   翻訳所の該当する箇所を確認し、バグのタグが付いていなければ報告して下さい。
+
+・日本語化サブMODを導入したがバージョン表示がおかしい
+  古いバージョンのファイルが残っていることが原因かもしれません。
+  以下のフォルダが残っている場合は手動で削除をお願いします。
+  ・/game/gui/font
+  ・/game/tl/Japanese/dev
+  ・/game/tl/Japanese/overrides
+  あるいは間違えてソースコードをダウンロードしているかもしれません。
+  お手数ですが、再ダウンロードを試してみてください。
+  https://github.com/proudust/ddlc-mas-jp-patch/releases/latest
 
 
 
@@ -65,6 +75,9 @@ https://github.com/proudust/ddlc-mas-jp-patch
 
 
 更新履歴：
+201113
+・翻訳の更新 (2020/11/13 20:12 までの変更を反映)
+
 201028
 ・DDLC MAS v0.11.6 に仮対応
 ・翻訳の更新
