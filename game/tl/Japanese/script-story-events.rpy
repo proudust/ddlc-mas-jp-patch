@@ -142,11 +142,29 @@ translate Japanese _call_mas_player_bday_cake_6_223a7b0e:
 translate Japanese mas_unlock_chess_40f647a9:
     m 1eua "じゃあ、[player]君……"
 
+translate Japanese mas_unlock_chess_71892096:
+    m 1hub "あなたは本当に私との[games!t]を楽しんでくれてるよね！"
+
+translate Japanese mas_unlock_chess_1153d3b2:
+    m 1eub "あなたは私との[games!t]を楽しんでくれてるよね！"
+
+translate Japanese mas_unlock_chess_e8909046:
+    m 3eub "何だと思う？新しいゲームを用意したよ！"
+
+translate Japanese mas_unlock_chess_5822522d:
+    m 3rksdla "私の用意した他のゲームには[really!t]興味無いみたいだけれど……{w=0.2}全く違う種類のゲームならどうかなと思って……"
+
 translate Japanese mas_unlock_chess_255ad370:
     m 3tuu "もっと戦略的なゲーム……"
 
 translate Japanese mas_unlock_chess_d9f8c78e:
     m 3hub "チェスで～す！"
+
+translate Japanese mas_unlock_chess_fb93e188:
+    m 1eka "でも試しにやってみてくれたら嬉しいな。"
+
+translate Japanese mas_unlock_chess_fe9c0937:
+    m 1eua "とにかく……"
 
 translate Japanese mas_unlock_chess_0d766e8f:
     m 1esa "あなたがルールを知ってるかどうかわからないけど、私は昔からプレイしてたんだ。"
@@ -655,6 +673,12 @@ translate Japanese strings:
 
     old "Tell me, what is it."
     new "あなたの名前を教えて"
+
+    old "games"
+    new "ゲーム"
+
+    old "really "
+    new "全く"
 
     old "It seems I'm at a loss on what to say."
     new "なんて言ったらいいのかわからない。"

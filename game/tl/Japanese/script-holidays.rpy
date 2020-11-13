@@ -1,5 +1,32 @@
+translate Japanese mas_holiday_o31_returned_home_relaunch_29f4e729:
+    m 1eua "今日は……"
+
+translate Japanese mas_holiday_o31_returned_home_relaunch_12a87cd7:
+    m 1euc "……ちょっとまって。"
+
 translate Japanese mas_holiday_o31_returned_home_relaunch_e612037c:
     m "……"
+
+translate Japanese mas_holiday_o31_returned_home_relaunch_d537a9d6:
+    m 2wuo "あ！"
+
+translate Japanese mas_holiday_o31_returned_home_relaunch_e420fd3e:
+    m 2wuw "あああああああああっ！"
+
+translate Japanese mas_holiday_o31_returned_home_relaunch_ce7ddd2d:
+    m 2hub "もうハロウィンの日じゃない、[player]。"
+
+translate Japanese mas_holiday_o31_returned_home_relaunch_a145a8a1:
+    m 1eua "……{w=1}"
+
+translate Japanese mas_holiday_o31_returned_home_relaunch_60c22d98:
+    m 3eua "一旦ゲームを終わらせるね。"
+
+translate Japanese mas_holiday_o31_returned_home_relaunch_ce6cc638:
+    m 1eua "その後また起動してみて。"
+
+translate Japanese mas_holiday_o31_returned_home_relaunch_6ca411f1:
+    m 1hubsa "あなたに特別なものを用意してるの、えへへ～"
 
 translate Japanese _call_spaceroom_2_7ec4d980:
     m 1eua "あっ！"

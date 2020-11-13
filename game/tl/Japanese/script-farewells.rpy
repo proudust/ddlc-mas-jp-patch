@@ -376,6 +376,15 @@ translate Japanese bye_enjoyyourafternoon_4861b1bd:
 translate Japanese bye_enjoyyourafternoon_0bd97190:
     m 6ckc "……"
 
+translate Japanese bye_goodevening_8266c833:
+    m 1hua "今日は楽しかったわ。"
+
+translate Japanese bye_goodevening_13072766:
+    m 1eka "長い時間一緒に過ごしてくれてありがとう、[mas_get_player_nickname()]。"
+
+translate Japanese bye_goodevening_c013ee0c:
+    m 1eua "それじゃあ、またね。"
+
 translate Japanese bye_goodevening_f2938648:
     m 2esc "さようなら、[player]。"
 
@@ -585,6 +594,21 @@ translate Japanese bye_going_somewhere_4ef5e129:
 
 translate Japanese bye_going_somewhere_leavemenu_7055b071:
     m 1tkc "……"
+
+translate Japanese bye_prompt_game_72fb9d58:
+    m 2ekc "別のゲームをプレイするの？"
+
+translate Japanese bye_prompt_game_be48e08f:
+    m 3sub "本当？"
+
+translate Japanese bye_prompt_game_22048cc1:
+    m 1hubsb "やった！"
+
+translate Japanese bye_prompt_game_77c0c38d:
+    m 2eka "わかったわ……"
+
+translate Japanese bye_prompt_game_2ed3588d:
+    m 2ekc "うん……"
 
 translate Japanese bye_prompt_game_20a024dc:
     m 2efc "……"

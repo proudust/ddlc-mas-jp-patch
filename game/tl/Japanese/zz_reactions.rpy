@@ -55,11 +55,23 @@ translate Japanese mas_reaction_gift_starter_f14_200b5e67:
 translate Japanese mas_reaction_gift_starter_f14_c33c6a28:
     m "プレゼント？私に？"
 
+translate Japanese mas_reaction_gift_starter_f14_deb56ede:
+    m 1sua "さて、見てみましょうか……中身は何かな？"
+
 translate Japanese mas_reaction_gift_generic_780a8085:
     m 1esd "[player]、何か贈ってくれようとしたの？"
 
 translate Japanese mas_reaction_gift_generic_baa9fdf6:
     m 1rssdlb "ファイルは見つけたんだけど、ここには持ち込めないみたい..."
+
+translate Japanese mas_reaction_gift_generic_8242234a:
+    m 3esa "でもいいの！"
+
+translate Japanese mas_reaction_gift_generic_fb26a6e6:
+    m 1esa "大事なのって思いやりの心でしょ？"
+
+translate Japanese mas_reaction_gift_generic_c95c5ba1:
+    m "気遣ってくれてありがとう、 [player]~"
 
 translate Japanese mas_reaction_gift_generic_b3ddd0c4:
     m 2dkd "{i}*ため息*{/i}。"

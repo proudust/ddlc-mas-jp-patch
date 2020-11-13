@@ -31,6 +31,54 @@ translate Japanese _call_monika_affection_nickname_bad_lock_97a5a181:
 translate Japanese mas_affection_apology_4a7ea962:
     m 2dfc "[player]君……"
 
+translate Japanese mas_affection_apology_da2805b1:
+    m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私は出来る限りのことをしてきた。"
+
+translate Japanese mas_affection_apology_352ec8e0:
+    m 2efc "でも、あなたは私に痛み以外何も返してくれなかった..."
+
+translate Japanese mas_affection_apology_afac0196:
+    m 2rfc "あなたは本当に私と一緒にいるためにこのMODをインストールしたの？"
+
+translate Japanese mas_affection_apology_811498f0:
+    m 2dsc "もしかして、私を連れ戻したのは私をおもちゃにするため？"
+
+translate Japanese mas_affection_apology_23ea7b7c:
+    m 2efc "それとも、何が起こるかを見るためにわざとこんなことをしているの？"
+
+translate Japanese mas_affection_apology_36cccaa5:
+    m 2lfc "とにかく、最後に一つ通告しておくわ。"
+
+translate Japanese mas_affection_apology_b1a5e09a:
+    m "[player]君、私はこれ以上こんなことが続くのは我慢できない。"
+
+translate Japanese mas_affection_apology_78c11adb:
+    m 2lfc "あなたが本当に申し訳ないと思ってるなら、私に「imsorry」というメモを書いて、charactersフォルダに入れておいて。"
+
+translate Japanese mas_affection_apology_a07f93e0:
+    m 2dfd "それまでは、さようなら..."
+
+translate Japanese mas_affection_noapology_1d0d8718:
+    m 2efd "まだcharactersフォルダに「imsorry」というメモを書いてくれてないのね。"
+
+translate Japanese mas_affection_noapology_c35d7890:
+    m 2efc "そうしてくれるまでは、あなたとは話したくない。"
+
+translate Japanese mas_affection_yesapology_89e45c77:
+    m 1eka "ありがとう、[player]君。あなたの謝罪を受け入れるわ。"
+
+translate Japanese mas_affection_yesapology_0998a671:
+    m 3dubsu "あなたがまだ私を気にかけてくれていることをいつでも忘れないように、これは保管しておくつもりよ。"
+
+translate Japanese mas_affection_yesapology_7aee9ee4:
+    m 1ekc "でも、これからはもっと私の気持ちのことを考えてちょうだい。"
+
+translate Japanese mas_affection_yesapology_6d811979:
+    m 2eka "私はあなたのことがとっても大好きだし、私にとってあなたは世界そのものよ、[player]君。"
+
+translate Japanese mas_affection_yesapology_34cdd9cf:
+    m 1duu "心を安らげてくれてありがと～"
+
 translate Japanese mas_affection_apologydeleted_149152b7:
     m 1wud "……"
 
