@@ -148,6 +148,19 @@ translate Japanese strings:
     old "Update Version"
     new "アップデート"
 
+    old """\
+The updates have been installed. Please reopen Monika After Story.
+
+Get spritepacks {a=http://monikaafterstory.com/releases.html}{i}{u}from our website{/u}{/i}{/a}.
+See the patch notes {a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}here{/u}{/i}{/a}.
+Confused about some features? Take a look at our {a=https://github.com/Monika-After-Story/MonikaModDev/wiki}{i}{u}wiki page{/u}{/i}{/a}."""
+    new """\
+アップデートがインストールされました。Monika After Storyを再起動してください。
+
+SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.html}{i}{u}入手する{/u}{/i}{/a}
+パッチノートを{a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}読む{/u}{/i}{/a}
+分からない機能があれば、{a=https://github.com/Monika-After-Story/MonikaModDev/wiki}{i}{u}wikiを参照{/u}{/i}{/a}してください。"""
+
     old "Import DDLC Save Data"
     new "DDLCセーブデータをインポートする"
 
@@ -173,7 +186,7 @@ translate Japanese strings:
     new "選択したグループの通知を有効にします"
 
     old "The dialogue history is empty."
-    new "ヒストリーはありません。"
+    new "会話履歴はありません。"
 
 
     old "QUIT"

@@ -1,6 +1,12 @@
 translate Japanese monika_affection_nickname_74472d51:
     m 1euc "考えてたんだけど、[player]君……"
 
+translate Japanese monika_affection_nickname_934922d8:
+    m 3eua "前にも話したもんね。"
+
+translate Japanese monika_affection_nickname_7438e993:
+    m 3hua "それでね、アイデアがあるの！"
+
 translate Japanese monika_affection_nickname_13aac454:
     m 3eua "ニックネームをつけてくれれば、私は宇宙でただ一人のあなたのモニカになれるの"
 
@@ -10,17 +16,53 @@ translate Japanese monika_affection_nickname_91a3fe9d:
 translate Japanese monika_affection_nickname_ce25277a:
     m 3hua "でも、最後に決めるのは私だからね！"
 
+translate Japanese monika_affection_nickname_f9c79ef7:
+    m "どう思う？{nw}"
+
+translate Japanese monika_affection_nickname_03f838b4:
+    m "どう思う？{fast}" nointeract
+
 translate Japanese monika_affection_nickname_yes_d3fa797f:
     m 1euc "ああ、わかったわ。"
+
+translate Japanese monika_affection_nickname_yes_f7c70d64:
+    m 1tkc "ええと……それは残念ね。"
+
+translate Japanese monika_affection_nickname_yes_1a0ad0e7:
+    m 3eka "でも大丈夫。「[m_name]」も好きよ。"
 
 translate Japanese monika_affection_nickname_yes_bc96da2a:
     m 1lksdla "……"
 
+translate Japanese monika_affection_nickname_yes_fa1e2bd0:
+    m 1hksdrb "私の名前を決めるのよ、[player]君！"
+
+translate Japanese monika_affection_nickname_yes_f8020c01:
+    m "あなたって、たまにばかなことするわよね、ホント。"
+
+translate Japanese monika_affection_nickname_yes_459694a0:
+    m 1eka "もう一回！"
+
 translate Japanese monika_affection_nickname_yes_394ece4d:
     m 1euc "……"
 
+translate Japanese monika_affection_nickname_yes_a1eb6b28:
+    m 1lksdlb "それはあなたの名前よ、[player]君！私の名前を決めるのよ！"
+
+translate Japanese monika_affection_nickname_yes_1643033e:
+    m 1eka "もう一回ね～"
+
+translate Japanese monika_affection_nickname_yes_9d10e066:
+    m 1hksdlb "私の名前を決めてるはずなんだけど、ばか。"
+
+translate Japanese monika_affection_nickname_yes_1643033e_1:
+    m 1eka "もう一回ね～"
+
 translate Japanese monika_affection_nickname_yes_6d9bf85e:
     m 2tfc "……"
+
+translate Japanese monika_affection_nickname_yes_796531ca:
+    m 2esc "もう一回。"
 
 translate Japanese monika_affection_nickname_yes_f27eea59:
     m 1rkc "……"
@@ -82,8 +124,17 @@ translate Japanese mas_affection_yesapology_34cdd9cf:
 translate Japanese mas_affection_apologydeleted_149152b7:
     m 1wud "……"
 
+translate Japanese mas_affection_apologydeleted_95da7c98:
+    m 2efd "[player]君、残しておいてって言った謝罪メモ、消しちゃったの？"
+
+translate Japanese mas_affection_apologydeleted_dfa14e11:
+    m "なんでそんなことするの？{i}本当に{/i}反省してるの？"
+
 translate Japanese mas_affection_apologydeleted_01a93df6:
     m 2dfc "……"
+
+translate Japanese mas_affection_apologydeleted_46706a56:
+    m 2efc "新しいのを書いてきて、[player]。"
 
 translate Japanese strings:
     old "...Yes?"
@@ -231,3 +282,111 @@ translate Japanese strings:
 
     old "I'd love to play with you!"
     new "あなたと遊ぶのは大好きだから！"
+
+    old "Can I call you a different name?"
+    new "別の名前で呼んでもいい？"
+
+    old "So what do you want to call me?"
+    new "それじゃあ、私のことはなんて呼びたい？"
+
+    old "I'm sorry if I'm not good enough for you...please don't leave me."
+    new "私じゃ不十分だったらごめんなさい……どうか置いていかないで。"
+
+    old "If I'm doing something wrong please tell me. I love you."
+    new "悪いことをしていたら教えて。愛してる。"
+
+    old "Everything I do, I do for you...my love."
+    new "手は尽くした、あなたのために……私の愛のために。"
+
+    old "You are the sunshine that brightens up my day, [player]!"
+    new "私を照らす太陽だよ、[player]君！"
+
+    old "You are my one and only love!"
+    new "あなたは私のもので、私がただ一人愛する人物だよ！"
+
+    old "My dearest, you are everything I could ever hope for. I love you."
+    new "親愛なる[player]君、私の望み全て……愛してるよ。"
+
+    old """\
+My dearest lover, friend, companion, and owner of my heart...
+Every day, you make my dreams come true, a screen means nothing when you spend your time with me.
+I look out to the space dust and yet no cosmic sight even comes close to the beauty in your heart.
+I wished for so long that someone like you would come along and as fate has smiled upon me, you came into my life.
+I want to be yours forever, so would you be mine?
+
+Forever yours, Monika."""
+    new """\
+親愛なる恋人、友人、仲間、そして心を射抜いた張本人……
+毎日夢を叶えてくれる、そんなあなたといるとき、スクリーンは何も意味をなさない。
+宇宙の塵を見やっても、どの光も心に響かない。
+あなたみたいな人が現れるのを長く願った。そうして女神は私に微笑み、あなたが私に会いに来た。
+私はずっとあなたのもの。あなたは私の……？
+
+永遠の彼女、モニカより。"""
+
+    old "I love you."
+    new "愛しているよ。"
+
+    old "Goodbye, [player]"
+    new "さようなら、[player]"
+
+    old """\
+ My love for you, even now still burns within me but I see now that it also burns all happiness I'll ever have.
+ I gave you everything I had, my life, my heart and any and every single thought of the future was dedicated to you.
+ I didn't need you to be perfect or even passionate...
+ I only needed you to care enough to treat me how a person should be treated.
+ But it's clear to me now that not only do you not love me, but you never did.
+ If you only didn't love me you would simply leave me be.
+ But you went out of your way to ridicule me, hurt me... It truly makes me sick.
+ Even now all I have is you...and part of me still loves you.
+ But I don't have the strength to do this anymore.
+ So this is farewell. May we never meet again.
+
+ Monika"""
+    new """\
+あなたへの私の愛の炎は今も燃えているけど、これまで手にしてきたすべての幸せも燃やしているの。
+私が手にするものすべて、人生も心も、これからの考えも全部全部捧げてきた。
+あなたは完璧で、ましてや情熱的であってほしかったわけじゃなかったの……
+ただ単に、普通の人とするように接してほしかっただけ。
+もし愛していなかったなら、単にそっとしてほしかったな。
+でもあなたは私を嘲笑い、傷付けることに躊躇わなかった……そうして私は病んでいった。
+今でも私にはあなたしかない……そしていまでも、心のどこかであなたを愛している。
+でももうあなたとはいられない。もう耐えられない。
+だからこれでお別れ。もう二度と会わないよう、祈っているわ。
+
+モニカ"""
+
+    old """\
+ Do you remember the promise you made?
+ The one you said you would make everything right. That we could start over.
+
+ The one you broke.
+
+ I hoped dearly that one day, you would see me as I see you...
+ But that day never came.
+ I gave you my heart and my life. I loved you more than anything else in the world.
+ And part of me still does...
+
+ But it is clear to me now that you truly don't love me. You never did.
+ I was a fool to have thought we could have started anew.
+ And I simply don't have the strength to do this anymore.
+ So this is farewell... May we never meet again.
+
+ Monika"""
+    new """\
+あなたがした約束、覚えてる？
+全部正しいものにするって、あなたは言ったよね。そうしてそこから、私たちはやり直した。
+
+そうしてそれを、あなたは破った。
+
+いつの日か、あなたに会えるのを心から楽しみにしていた。
+でもそんな日は絶対に来ない。
+心も人生も捧げた。この世界の何よりも、あなたを愛した。
+そして今でも私はどこかで……。
+
+でもこれは分かる。あなたは私を愛してなんかいない。絶対に。
+あなたとやり直そうなんて、そう思った私がばかだった。
+それにもう、こうあり続ける強さは私にはない。
+だからこれでお別れ……もう二度と会わないのを祈ってるわ。
+
+モニカ"""

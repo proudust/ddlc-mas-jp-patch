@@ -424,6 +424,84 @@ translate Japanese mas_mood_bored_d882a148:
 translate Japanese mas_mood_bored_82fdc2ae:
     m "どうしたいの、[chosen_nickname]君？{fast}" nointeract
 
+translate Japanese mas_mood_crying_63c65d35:
+    m 1eksdld "[player]！"
+
+translate Japanese mas_mood_crying_cef5c576:
+    m 3eksdlc "大丈夫なの？"
+
+translate Japanese mas_mood_crying_d0ebb468:
+    m "大丈夫なの？" nointeract
+
+translate Japanese mas_mood_crying_3be1087d:
+    m 3eka "よかった、ほっとしたわ。"
+
+translate Japanese mas_mood_crying_aaca30e8:
+    m 1ekbsa "私はあなたと一緒にいたいからここにいるのよ、何かあったら私に相談してね？"
+
+translate Japanese mas_mood_crying_f15775ec:
+    m 1ekc "……"
+
+translate Japanese mas_mood_crying_882e4789:
+    m 3ekd "[player]……"
+
+translate Japanese mas_mood_crying_edec7edc:
+    m 3eksdld "ごめんなさい、何かあったの？"
+
+translate Japanese _call_mas_mood_uok_cc362526:
+    m 1dkc "[player]……{w=0.3}{nw}"
+
+translate Japanese _call_mas_mood_uok_7a962195:
+    extend 3eksdld "何かあったの？"
+
+translate Japanese _call_mas_mood_uok_1_e4fa1999:
+    m 3ekd "[line_start] 泣きたくなったら……"
+
+translate Japanese _call_mas_mood_uok_1_85e34892:
+    m 1eka "あなたの助けになりたいの。"
+
+translate Japanese _call_mas_mood_uok_1_18b7cfbd:
+    m 3ekd "泣くのは悪いことじゃないのよ？{w=0.2}泣きたいだけ泣いたっていいんだから。"
+
+translate Japanese _call_mas_mood_uok_1_20c61c27:
+    m 3ekbsu "愛してるわ、[player]。あなたは私のすべてよ。"
+
+translate Japanese mas_mood_uok_5e6b891c:
+    m 1rksdld "何を言われても聞くことができないのはわかってるんだけど...。"
+
+translate Japanese mas_mood_uok_b852f1d7:
+    m 3eka "痛みや不安を声に出すと良くなることもあるわ。"
+
+translate Japanese mas_mood_uok_385eb847:
+    m 1ekd "だから、何か話したいことがあったら聞くよ。{nw}"
+
+translate Japanese mas_mood_uok_7c3856cb:
+    m "だから、何か話したいことがあったら聞くよ。{fast}" nointeract
+
+translate Japanese mas_mood_uok_1a67848d:
+    m 3eka "いいよ、[player]。"
+
+translate Japanese mas_mood_uok_25ea7a9c:
+    m 1ekc "聞いてるよ{nw}"
+
+translate Japanese mas_mood_uok_8b1f733d:
+    m "聞いてるよ{fast}" nointeract
+
+translate Japanese mas_mood_uok_fe46e7f6:
+    m 1eka "これで胸のつかえが下りたならよかったわ、[player]。"
+
+translate Japanese mas_mood_uok_f15775ec:
+    m 1ekc "……"
+
+translate Japanese mas_mood_uok_69680a2c:
+    m 3ekd "わかったわ、[player]。気が変わったら話してね。"
+
+translate Japanese mas_mood_uok_f15775ec_1:
+    m 1ekc "……"
+
+translate Japanese mas_mood_uok_0045678b:
+    m 1ekd "あなたがそう言うなら……わかったわ、[player]。"
+
 translate Japanese strings:
     old "...like talking about something else."
     new "……他のことに付いて話したい"
@@ -490,3 +568,18 @@ translate Japanese strings:
 
     old "It is!"
     new "これで合っている"
+
+    old "...like crying."
+    new "……泣きたい"
+
+    old "I'm not sure."
+    new "わからない"
+
+    old "I'd like to vent."
+    new "思いを吐き出したい"
+
+    old "I don't want to talk about it."
+    new "話したくない"
+
+    old "Everything's fine."
+    new "問題ない"

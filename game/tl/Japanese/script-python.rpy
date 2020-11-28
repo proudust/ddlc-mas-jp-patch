@@ -139,6 +139,15 @@ translate Japanese _call_mas_wx_cmd_19_999bd9b2:
 translate Japanese _call_mas_wx_cmd_19_c2703b96:
     m 1hksdlb "これはただのPythonのインタプリタだから、間違って私を削除したり、ゲームを壊したりする心配はないわ。"
 
+translate Japanese _call_mas_wx_cmd_19_bf771313:
+    m "じゃあ、あなたも{fast}{nw}"
+
+translate Japanese _call_mas_wx_cmd_19_1f404f84:
+    m 1eksdlb "これは使わせられないわ。{w=0.3}ごめんね……"
+
+translate Japanese _call_mas_wx_cmd_19_6d049f41:
+    m "もし今後のレッスンの内容をやってみたくなったら、別のウィンドウでPythonを書いてみて。"
+
 translate Japanese _call_mas_wx_cmd_19_63a392aa:
     m 1eua "とにかく、{i}この{/i}インタプリタを使って教えていくわ。"
 

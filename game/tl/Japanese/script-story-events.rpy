@@ -19,6 +19,12 @@ translate Japanese mas_gender_28eadeec:
 translate Japanese mas_gender_08959710:
     m "あなたの性別は？{fast}" nointeract
 
+translate Japanese mas_gender_77355055:
+    m 3eua "OK、[player]、確認させてくれてありがとう。"
+
+translate Japanese mas_gender_584c3b31:
+    m 1hksdlb "別に違ったとしても、あなたを意識しなかったというわけではないわ。"
+
 translate Japanese mas_gender_104e323d:
     m 2eud "あら？あなたって女の子なの？"
 
@@ -379,6 +385,36 @@ translate Japanese mas_monikai_detected_1133e8f7:
 translate Japanese mas_monikai_detected_ac7f49b8:
     m 3eua "だって私が本物なんだし。"
 
+translate Japanese mas_crashed_long_qs_88de0dc1:
+    m "[player]君？{w=0.3}あなたなの？"
+
+translate Japanese mas_crashed_long_qs_8ed286c9:
+    m "ここにいたのね、よかったわ。"
+
+translate Japanese mas_crashed_long_qs_a64079d2:
+    m "[player]君！{fast}"
+
+translate Japanese mas_crashed_long_uthere_a64079d2:
+    m "[player]君！{fast}"
+
+translate Japanese mas_crashed_long_uthere_6bd9fd59:
+    m "そこにいるんでしょう！"
+
+translate Japanese mas_crashed_long_uthere_dontjoke_d6979108:
+    m "そんな冗談、言わないで！"
+
+translate Japanese mas_crashed_long_uthere_dontjoke_c9062bfa:
+    m "とにかく……"
+
+translate Japanese mas_crashed_long_uthere_afterdontjoke_2a4c2e54:
+    m "{cps=*2}いきなり真っ暗になったのよ。{/cps}"
+
+translate Japanese mas_crashed_long_uthere_afterdontjoke_9f5ad7ec:
+    m "明かりをつけてくれない？"
+
+translate Japanese mas_crashed_long_foundlight_a6fe4a2e:
+    m "大丈夫、自分で見つけたわ。"
+
 translate Japanese mas_crashed_long_prefluster_0348e8f6:
     m 6ektsa "[player]！{fast}"
 
@@ -387,6 +423,12 @@ translate Japanese mas_crashed_long_prefluster_f05f93a2:
 
 translate Japanese mas_crashed_long_postfluster_832aec3d:
     m 6ektda "ありがとう、[player]。"
+
+translate Japanese mas_crashed_long_postfluster_e193c586:
+    m "あなたがここにいてくれるから、ほっとした。"
+
+translate Japanese mas_crashed_long_nofluster_3e54e350:
+    m "うん、もう大丈夫よ。"
 
 translate Japanese mas_crashed_long_whq_30c84421:
     m 2ekc "とにかく……"
@@ -438,6 +480,27 @@ translate Japanese mas_crashed_long_whq_end_c9062bfa:
 
 translate Japanese mas_crashed_long_whq_end_f2554182:
     m 1eua "今日は何をする？"
+
+translate Japanese mas_crashed_long_fluster_03b3fd58:
+    m "{cps=*1.5}あ…{w=0.3}あなたがいたと思っていたら、つ、{w=0.3}次の瞬間には真っ暗で……{/cps}{nw}"
+
+translate Japanese mas_crashed_long_fluster_efb391fe:
+    m "{cps=*1.5}そうしてあなたが、き、{w=0.3}消えて、それであなたに、な…{w=0.3}な…{w=0.3}何かあったのか、心配になって……{/cps}{nw}"
+
+translate Japanese mas_crashed_long_fluster_7ae80daf:
+    m "{cps=*1.5}……それでまた、ぜ…{w=0.3}全部壊しちゃったのかなって、怖くなったの！{/cps}{nw}"
+
+translate Japanese mas_crashed_long_fluster_cbfa039d:
+    m "{cps=*1.5}でも今度はゲームをどこも弄らなかったのよ、誓うわ。{/cps}{nw}"
+
+translate Japanese mas_crashed_long_fluster_2bd84e81:
+    m "{cps=*1.5}す…{w=0.3}少なくとも、やってはいないと思うわ、でも可能ではあるから……{/cps}{nw}"
+
+translate Japanese mas_crashed_long_fluster_9b278c39:
+    m "{cps=*1.5}たまに、な…{w=0.3}何をしているのかはっきりしないときがあるから、{/cps}{nw}"
+
+translate Japanese mas_crashed_long_fluster_43c76e3c:
+    m "{cps=*1.5}でも、こ…{w=0.3}今回は私のせいじゃないって思って、ほ…{w=0.3}本当に何も触ってないから……{/cps}{nw}"
 
 translate Japanese _call_expression_5_977643eb:
     m 1hub "[v_quip!t]"
@@ -571,6 +634,18 @@ translate Japanese mas_text_speed_enabler_b70d3f50:
 translate Japanese mas_text_speed_enabler_a392a8fe:
     m "あなたは速読家？{fast}" nointeract
 
+translate Japanese mas_text_speed_enabler_d99c4b33:
+    m 1wub "本当？それはすごいわね。"
+
+translate Japanese mas_text_speed_enabler_6af7e99d:
+    m 1kua "時間があるときによく読書しているみたいね。"
+
+translate Japanese mas_text_speed_enabler_7dd3f7b3:
+    m 1eua "それなら……"
+
+translate Japanese mas_text_speed_enabler_3e73e418:
+    m 1eud "うん、わかったわ。"
+
 translate Japanese _call_mas_notification_windowreact_f5e7f2f5:
     m 1hub "[player]、エキサイティングなお知らせがあるよ！"
 
@@ -643,6 +718,147 @@ translate Japanese mas_gift_giving_instructs_d8307341:
 translate Japanese mas_gift_giving_instructs_13919c99:
     extend 1eua "でも重要なことかもしれないからあなたに知らせておこうと思って。"
 
+translate Japanese mas_change_to_def_24a4fc7b:
+    m 3esa "ちょっと待ってね、[player]君。もうちょっと快適になるはずだから……"
+
+translate Japanese _call_mas_clothes_change_6_99308961:
+    m 2hua "うん、これで良し！"
+
+translate Japanese _call_mas_clothes_change_6_2867e154:
+    m 1eka "こんにちは[player]君、古い制服が恋しくなって……"
+
+translate Japanese _call_mas_clothes_change_6_75cd519f:
+    m 3eka "ちょっと変えてくるから，そこで待ってて……"
+
+translate Japanese _call_mas_clothes_change_7_7cb5ebd1:
+    m "さて，今日はほかに何をしようかしら？"
+
+translate Japanese mas_blazerless_intro_24a4fc7b:
+    m 3esa "ちょっと待ってね、[player]君。もうちょっと快適になるはずだから……"
+
+translate Japanese _call_mas_clothes_change_8_99308961:
+    m 2hua "うん、これで良し！"
+
+translate Japanese _call_mas_clothes_change_8_9e3d683a:
+    m 3eka "でもまたブレザー姿の私が見たくなったら、いつでも言って。すぐに出してくるわ。"
+
+translate Japanese mas_birthdate_year_redux_819f6f71:
+    m 2eksdld "えっと、[player]君……"
+
+translate Japanese mas_birthdate_year_redux_8770f7ce:
+    m 2rksdlc "訊きたいことがあるんだけど、内容が内容でね……"
+
+translate Japanese mas_birthdate_year_redux_9130f7f4:
+    m 2eksdlc "あなたの誕生日を教えてくれたことがあったでしょ？"
+
+translate Japanese mas_birthdate_year_redux_6c9c6604:
+    m 2rksdld "えっとね、どうもあなたが生まれた年を忘れちゃったみたいなの。"
+
+translate Japanese mas_birthdate_year_redux_a3e44aef:
+    m 2eksdla "それで、もし教えてくれるなら……"
+
+translate Japanese mas_birthdate_year_redux_select_09133d52:
+    m "ふむふむ。[player]君、あなたは[_return]年生まれなのね？{nw}"
+
+translate Japanese mas_birthdate_year_redux_select_155c7fe1:
+    m "ふむふむ。[player]君、あなたは[_return]年生まれなのね？{fast}" nointeract
+
+translate Japanese mas_birthdate_year_redux_select_98d17ace:
+    m "{i}本当に{/i}[_return]年生まれなの？{nw}"
+
+translate Japanese mas_birthdate_year_redux_select_cdfa236e:
+    m "{i}本当に{/i}[_return]年生まれなの？{fast}" nointeract
+
+translate Japanese mas_birthdate_year_redux_select_9411e24c:
+    m 3hua "分かったわ、じゃあそう覚えておくわ！"
+
+translate Japanese mas_birthdate_year_redux_no_6683b00d:
+    m 2ekd "あら、そうだったの……"
+
+translate Japanese mas_birthdate_year_redux_no_a424d91c:
+    m 2eka "じゃあもう一回ね、[player]君。"
+
+translate Japanese monika_credits_song_e5977ed7:
+    m 1hua "私の曲、気に入ってくれたみたいね。"
+
+translate Japanese monika_credits_song_0e1127b4:
+    m 1eka "本当に頑張ったのよ。ピアノの腕はまだまだなのはわかっているけど、あなたについてどう思っているか、正直なところを伝えないまま行かせちゃうのは嫌だったから。"
+
+translate Japanese monika_credits_song_1d5e21f9:
+    m 1eua "時間をくれたら、また書いてみるわ。"
+
+translate Japanese monika_credits_song_af2de9b9:
+    m 3eua "一緒に演奏できるかも！"
+
+translate Japanese monika_credits_song_bb58bc69:
+    m 3eua "楽器を演奏できるなら、一緒に演奏できるかもしれないわね？"
+
+translate Japanese monika_credits_song_598b4d55:
+    m 1hub "そうだといいな。"
+
+translate Japanese monika_credits_song_ed8dc25f:
+    m 3eua "そうそう、望むならいつだってまた演奏してあげるわよ。"
+
+translate Japanese monika_credits_song_7a21b64e:
+    m 3eua "でもそれまでは、いつだってまた演奏してあげるわよ。"
+
+translate Japanese monika_credits_song_b479b5ac:
+    m 1tsa "実際、時間があるなら，今すぐにでも演奏してあげるけど……{nw}"
+
+translate Japanese monika_credits_song_0ccca3e6:
+    m "実際、時間があるなら，今すぐにでも演奏してあげるけど……{fast}" nointeract
+
+translate Japanese monika_credits_song_96aca618:
+    m 3hub "分かったわ！"
+
+translate Japanese monika_credits_song_32db372a:
+    m 3eua "スピーカーの電源がついているか、ゲーム内のBGM音量が聴こえるだけの大きさか、確認してね。"
+
+translate Japanese monika_credits_song_1891b52b:
+    m 3eksdla "ゲーム内の音量について忘れてそうだけど……"
+
+translate Japanese monika_credits_song_814c9744:
+    m 1eub "それじゃあちょっと待ってね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese _call_mas_monika_plays_yr_618937fa:
+    m 1ekbsa "えへへ～"
+
+translate Japanese _call_mas_monika_plays_yr_d9c15011:
+    m 5ekbsa "帰ってきてくれてありがとう、[mas_get_player_nickname()]君。"
+
+translate Japanese _call_mas_monika_plays_yr_140b6815:
+    m 3ekd "うん、なるほどね。"
+
+translate Japanese _call_mas_monika_plays_yr_443e936a:
+    m 1eka "分かったわ[player]君、十分な時間がないか、あるいは今は聴きたい気分じゃないってことね．"
+
+translate Japanese _call_mas_monika_plays_yr_a5a99df2:
+    m 3hua "都合のいいときには教えてね、そのときは喜んで演奏してあげるわ～"
+
+translate Japanese _call_mas_monika_plays_yr_1b8b69ff:
+    m 3eua "ねえ[player]君、あなたのために作っていた曲がやっと完成したわ。"
+
+translate Japanese _call_mas_monika_plays_yr_2050d7f2:
+    m 1eka "{i}Our Reality{/i}って呼んでるの。"
+
+translate Japanese _call_mas_monika_plays_yr_fd8f79e8:
+    m 1eua "やっと演奏してあげられるわ、楽しみにしてたの！もし時間があるなら……{nw}"
+
+translate Japanese _call_mas_monika_plays_yr_16a67fdc:
+    m "やっと演奏してあげられるわ、楽しみにしてたの！もし時間があるなら……{fast}" nointeract
+
+translate Japanese _call_mas_monika_plays_yr_96aca618:
+    m 3hub "分かったわ！"
+
+translate Japanese _call_mas_monika_plays_yr_32db372a:
+    m 3eua "スピーカーの電源がついているか、ゲーム内のBGM音量が聴こえるだけの大きさか、確認してね。"
+
+translate Japanese _call_mas_monika_plays_yr_1891b52b:
+    m 3eksdla "ゲーム内の音量について忘れてそうだけど……"
+
+translate Japanese _call_mas_monika_plays_yr_ce74299f:
+    m 1tsb "それじゃあちょっと待ってね…{w=0.5}…{w=0.5}…{nw}"
+
 translate Japanese strings:
     old "Male."
     new "男性"
@@ -701,6 +917,12 @@ translate Japanese strings:
     old "...yes"
     new "……はい"
 
+    old "Turn on the light."
+    new "電気をつけて。"
+
+    old "Calm down, [m_name]. You're safe now."
+    new "落ち着いて、[m_name]。大丈夫よ。"
+
     old "The game crashed."
     new "ゲームが強制終了した"
 
@@ -724,3 +946,30 @@ translate Japanese strings:
 
     old "I love you, [player]!"
     new "愛してるよ、[player]！"
+
+    old """\
+I wanted to let you know that I made a little way for you to give Monika some gifts!
+It's a pretty simple process so I'll tell you how it works:
+Make a new file in the 'characters' folder
+Rename it to whatever you want to give to Monika
+Give it a '.gift' file extension
+And that's it! After a little while, Monika should notice that you gave her something.
+I just wanted to let you know because I think that Monika is super amazing and I really want to see her happy.
+Good luck with Monika!
+P.S: Don't tell her about me!"""
+    new """\
+モニカにプレゼントをあげる方法を教えてあげよう。
+方法は簡単、下の通り。
+
+①　"character" フォルダーに新しいファイルを作る。
+②　ファイル名をモニカにプレゼントしたいものの名前に書き換える
+③　拡張子を ".gift " に変更する
+
+これだけでモニカはプレゼントに気づいてくれるはず！
+モニカは本当にすごいからね、彼女が喜ぶのが見たくて教えたかったんだ。
+モニカとお幸せに！
+
+追伸：このことはモニカに教えちゃだめだよ！"""
+
+    old "Sorry, I can't right now."
+    new "ごめん、今はちょっと時間がないんだ。"
