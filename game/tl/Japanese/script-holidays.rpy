@@ -103,20 +103,140 @@ translate Japanese monika_nye_year_review_cea36ce5:
 translate Japanese _call_monika_kissing_motion_1_e612037c:
     m "……"
 
+translate Japanese _call_spaceroom_10_f6a40c3b:
+    m "[player]！"
+
 translate Japanese _call_spaceroom_10_e612037c:
     m "……"
+
+translate Japanese _call_spaceroom_10_f5bdee4e:
+    m 4eua "誕生日おめでとう、[player]！"
+
+translate Japanese mas_player_bday_knock_no_listen_b1af81c6:
+    m "誰？"
+
+translate Japanese mas_player_bday_knock_no_listen_f0d9e92d:
+    m "あ！ちょっと待っててもらえる？"
+
+translate Japanese mas_player_bday_knock_no_listen_2f140c8d:
+    m "いいよ、入って[player]……"
+
+translate Japanese _call_spaceroom_11_43735e99:
+    m 4hub "ジャーン！"
+
+translate Japanese _call_spaceroom_11_dda4ffe9:
+    m 4sub "あはは！誕生日おめでとう、[player]！"
+
+translate Japanese _call_spaceroom_11_584ca4b4:
+    m "驚いた？{nw}"
+
+translate Japanese _call_spaceroom_11_8f243367:
+    m "驚いた？{fast}" nointeract
+
+translate Japanese _call_spaceroom_11_0dbb251c:
+    m 1hub "やった！"
+
+translate Japanese _call_spaceroom_11_cd080b72:
+    m 1tsu "その顔が見たかったの、えへへ。"
+
+translate Japanese _call_spaceroom_11_dcbfaa07:
+    m 2hua "えへへ。"
+
+translate Japanese _call_spaceroom_11_87fc4a38:
+    m 3wub "あ！{w=0.5}ケーキを作ったの。"
+
+translate Japanese _call_spaceroom_11_29195ce3:
+    m 3wub "あ！{w=0.5}あなたにケーキを作ったの。"
+
+translate Japanese _call_mas_monika_gets_cake_7e31e470:
+    m 6eua "ロウソクに火を付けるね{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese _call_mas_monika_gets_cake_3269effe:
+    m 6eua "ロウソクに火を付けるね、[player]{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese _call_mas_monika_gets_cake_577a7771:
+    m 6sua "可愛いでしょ、[player]？"
+
+translate Japanese _call_mas_monika_gets_cake_b0209869:
+    m 6eksdla "あなたは今ロウソクの火をフーって消せないからお互いのために私がやるね……"
+
+translate Japanese _call_mas_monika_gets_cake_858a96f5:
+    m 6eksdla "あなたは今ロウソクの火をフーって消せないから、あなたの代わりに私がやるね……"
+
+translate Japanese _call_mas_monika_gets_cake_a42e741b:
+    m 6eua "……願い事をしたほうがいいんじゃない、いつか叶うかもしれないし..."
+
+translate Japanese _call_mas_monika_gets_cake_b98e2009:
+    m 6hua "でもその前に……"
+
+translate Japanese _call_mas_player_bday_moni_sings_67675433:
+    m 6hua "おめでとう、[player]!"
+
+translate Japanese _call_mas_player_bday_moni_sings_228ee4c7:
+    m 6hua "えへへ……"
+
+translate Japanese _call_mas_player_bday_moni_sings_6e0e1525:
+    m 6eka "あなたの誕生日なんだけど、私も願い事をしたの……"
+
+translate Japanese _call_mas_player_bday_moni_sings_cfce4765:
+    m 6ekbsa "何だと思う？{w=0.5}きっとあなたと同じことだと思うな～。"
 
 translate Japanese _call_mas_player_bday_moni_sings_94e61d1b:
     m 6hkbsu "……"
 
+translate Japanese _call_mas_player_bday_moni_sings_18cee343:
+    m 6rksdla "あら、このケーキ食べられないみたいね、[player]?"
+
+translate Japanese _call_mas_player_bday_moni_sings_d070dbd0:
+    m 6hksdlb "あなたのバースデーケーキを目の前で食べるのはちょっと失礼な気がするから後に取っておくわ、あはは！"
+
 translate Japanese mas_player_bday_card_a531c7f2:
     m 6dkbsu "……"
+
+translate Japanese mas_player_bday_card_0ce0c483:
+    m 6ekbsu "わ……私、あなたのためにバースデーカードも作ってみたの。気に入ってくれるといいんだけど……"
 
 translate Japanese _call_mas_showpoem_1_a531c7f2:
     m 6dkbsu "……"
 
 translate Japanese mas_player_bday_ret_on_bday_e612037c:
     m "……"
+
+translate Japanese mas_player_bday_moni_sings_d15276a9:
+    m 6hua "えへへ！"
+
+translate Japanese bye_player_bday_611eb4ef:
+    m 1sua "誕生日デートに行きたいの？{w=1}いいよ！"
+
+translate Japanese bye_player_bday_0dbca856:
+    m 1skbla "なんてロマンチックなの...待ちきれないわ～"
+
+translate Japanese bye_player_bday_db67e4b3:
+    m 3hub "やった！"
+
+translate Japanese bye_player_bday_549ef5e8:
+    m 1skbla "素敵な時間が過ごせそうだわ～"
+
+translate Japanese _call_monika_zoom_transition_reset_1_e7a107d4:
+    m 6hub "楽しいデートだったよ、[player]……"
+
+translate Japanese _call_return_home_post_player_bday_9_89cce96a:
+    m 3hua "連れてってくれてありがとう！"
+
+translate Japanese _call_return_home_post_player_bday_9_0fae0391:
+    m 1eka "今日あなたと外出できて本当に楽しかった～"
+
+translate Japanese _call_return_home_post_player_bday_9_ddf3a247:
+    m 1hua "ただいま！"
+
+translate Japanese _call_return_home_post_player_bday_9_22c82847:
+    m 3hub "ホント楽しかった、[player]!"
+
+translate Japanese _call_return_home_post_player_bday_9_dab9e230:
+    m 1eka "誕生日のお祝いに行けてよかったわ……"
+
+translate Japanese _call_return_home_post_player_bday_9_86e910ac:
+    m 1ekbsa "特別な日の大きな一部にしてくれてありがと～"
 
 translate Japanese return_home_post_player_bday_93727076:
     m 2etc "……"
@@ -424,6 +544,9 @@ translate Japanese strings:
 
     old "Valentine's Day"
     new "バレンタイン"
+
+    old "Let's go out for my birthday!"
+    new "誕生日デートしよう！"
 
     old "Valentine's Day colors"
     new "バレンタインの色"

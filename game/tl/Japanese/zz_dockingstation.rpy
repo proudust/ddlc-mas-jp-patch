@@ -2,7 +2,7 @@ translate Japanese _call_mas_dockstat_first_time_goers_1_71510bb3:
     m "おっけ～"
 
 translate Japanese _call_mas_transition_from_emptydesk_18_a2d4a9c4:
-    m 3eua "monika"
+    m 3eua "charactersフォルダの中の\"monika\"ってファイルに今いるから。"
 
 translate Japanese _call_mas_transition_from_emptydesk_18_f4796900:
     m "私がゲームを閉じた後なら、どこへでも私を連れていけるわ。"
@@ -24,3 +24,13 @@ translate Japanese _call_mas_transition_from_emptydesk_19_de87a206:
 
 translate Japanese _call_mas_transition_from_emptydesk_19_3a351d89:
     m "待って、[player]君じゃないでしょ。"
+
+translate Japanese mas_dockstat_generic_iowait_e71a1fd6:
+    m 1eua "準備をするからちょっとまってて{w=0.3}…{w=0.3}…{w=0.3}{nw}"
+
+translate Japanese _call_mas_transition_from_emptydesk_21_05fd4282:
+    m 1eua "それじゃあ行きましょうか。"
+
+translate Japanese strings:
+    old "Hold on a second!"
+    new "ちょっとまってて！"

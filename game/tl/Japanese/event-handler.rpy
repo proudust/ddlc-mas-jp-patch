@@ -101,5 +101,8 @@ translate Japanese strings:
     old "You..."
     new "自分のこと"
 
+    old "I don't want to see this menu anymore"
+    new "このメニューを表示しない"
+
     old "I'd like to remove a bookmark"
     new "ブックマークを消したい"
