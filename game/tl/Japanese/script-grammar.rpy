@@ -11,7 +11,7 @@ translate Japanese monika_gtod_tip000_d9d80217:
     m 1rksdla "正直に言うと……{w=0.5}文法みたいな具体的な話をするのって，ちょっと不思議な感じがするのよね。"
 
 translate Japanese monika_gtod_tip000_e17ef418:
-    m 1rksdlc "心に浮かべるが面白くないのは分かってるわ。"
+    m 1rksdlc "思い浮かべた光景が面白くないものなのは分かってるわ。"
 
 translate Japanese monika_gtod_tip000_f86044a6:
     m 3eksdld "……ひょっとしたら厳しい先生とか、しつこい編集者なんかをイメージするかもしれないけど……"
@@ -71,7 +71,7 @@ translate Japanese monika_gtod_tip002_57fc77c7:
     m 3wud "台無しになっちゃう！"
 
 translate Japanese monika_gtod_tip002_07a5b69f:
-    m 1esd " \"{b}}I visited the park, I looked at the sky, I saw many stars, I saw some constellations, one of them looked like a crab（公園に行って、空を見上げて、星がたくさん見えて、星座を見つけて、一つはカニに見えて、）{/b}\" ……{w=0.5}もっと続くかも。"
+    m 1esd " \"{b}I visited the park, I looked at the sky, I saw many stars, I saw some constellations, one of them looked like a crab...（公園に行って、空を見上げて、星がたくさん見えて、星座を見つけて、一つはカニに見えて……）{/b}\" {w=0.5}もっと続くかも。"
 
 translate Japanese monika_gtod_tip002_409448ae:
     m 1eua "このミスを防ぐ一番の方法は、コンマや接続詞、セミコロンなんかも使って、主節同士を区切ることよ。"
@@ -86,7 +86,7 @@ translate Japanese monika_gtod_tip002_744c1fef:
     m 3eud "とにかく、さっきの文を例に、接続詞やコンマを付けて、文章をすっきりさせてみましょうか……"
 
 translate Japanese monika_gtod_tip002_3f78e71a:
-    m 1eud " \"{b}I visited the park, and I looked at the sky. I saw many stars.（公園に行って、空を見上げた。星がたくさん見えた。）{/b}\" "
+    m 1eud " \"{b}I visited the park, and I looked at the sky. （公園に行って、空を見上げた。） I saw many stars.（星がたくさん見えた。）{/b}\" "
 
 translate Japanese monika_gtod_tip002_ccd93aa6:
     m 3hua "よくなったと思わない？"
@@ -110,7 +110,7 @@ translate Japanese monika_gtod_tip003_53406bf6:
     m 1euc "接続詞なしで話すと、どうなるかしら……"
 
 translate Japanese monika_gtod_tip003_556b6161:
-    m 1esc "\"{b}It would be dull.{w=0.3} You would sound choppy.{w=0.3} These ideas all relate.{w=0.3} We should connect them.（退屈だろう。途切れ途切れに聞こえる。これらの文はすべて関係している。つなげる必要がある。）{/b}\" "
+    m 1esc "\"{b}It would be dull. （退屈だろう。）{w=0.3} You would sound choppy. （途切れ途切れに聞こえる。）{w=0.3} These ideas all relate. （これらの文はすべて関係している。）{w=0.3} We should connect them. （つなげる必要がある。）{/b}\" "
 
 translate Japanese monika_gtod_tip003_3d85a4fa:
     m 3eua "これから見せるように、接続詞はアイデアを組み合わせるのにもってこいだし、使えば文章が話した文みたいに滑らかになるわ。"
@@ -119,7 +119,7 @@ translate Japanese monika_gtod_tip003_fbcbfc8b:
     m 1eua "じゃあ、今度はさっきの文に接続詞を使ってみましょうか……"
 
 translate Japanese monika_gtod_tip003_f358b883:
-    m 1eub " \"{b}It would be dull, and you would sound choppy. Since these ideas all relate, we should connect them.（退屈で、途切れ途切れに聞こえるだろう。これらの文はすべて関係しているので、つなげる必要がある。）{/b}\" "
+    m 1eub "\"{b}It would be dull, and you would sound choppy. （退屈で、途切れ途切れに聞こえるだろう。） Since these ideas all relate, we should connect them.（これらの文はすべて関係しているので、つなげる必要がある。）{/b}\" "
 
 translate Japanese monika_gtod_tip003_ccd93aa6:
     m 3hua "よくなったと思わない？"
@@ -131,7 +131,7 @@ translate Japanese monika_gtod_tip003_9702fc83:
     m 1hksdla "名前だけ見るとちょっと難しいかもしれないけど、ちょっとずつ理解できると思うわ。例も交えて説明するわね。"
 
 translate Japanese monika_gtod_tip003_6f3539a7:
-    m 1esd "等位接続詞は、同じ「位」の2つの語とか節とか、句とかをつなぎ合わせる言葉よ。つまり、語同士、節同士みたいな組み合わせじゃないといけないってわけ。"
+    m 1esd "等位接続詞は、同じ「ランク」の2つの語とか節とか、句とかをつなぎ合わせる言葉よ。つまり、語同士、節同士みたいな組み合わせじゃないといけないってわけ。"
 
 translate Japanese monika_gtod_tip003_9d9bcfb0:
     m 3euc "一般的なものだと、 \"{b}and（そして）{/b}\" 、\" {b}or（または）{/b}\" 、 \"{b}but（しかし）{/b}\" 、 \"{b}so（それで）{/b}\" 、あとは \"{b}yet（けれども）{/b}\" とかがあるわね。"
@@ -155,7 +155,7 @@ translate Japanese monika_gtod_tip003_f82c4aeb:
     m 3eub "思い浮かんだように、いろいろあるわ。"
 
 translate Japanese monika_gtod_tip003_b588f215:
-    m 3euc "例えば、こんな感じ。{w=0.5} \"{b}although（…ではあるけれど）{/b}\" 、\"{b}until（…まで）\" 、\" {b}since（…から）{/b}\" 、 \"{b}while（…する間）{/b}\" 、他には \"{b}as long as（…する限り）{/b}\" ね。"
+    m 3euc "例えば、こんな感じ。{w=0.5} \"{b}although（…ではあるけれど）{/b}\" 、\"{b}until（…まで）{/b}\" 、\" {b}since（…から）{/b}\" 、 \"{b}while（…する間）{/b}\" 、他には \"{b}as long as（…する限り）{/b}\" ね。"
 
 translate Japanese monika_gtod_tip003_426a0c7b:
     m 3eub "とてもたくさんある{i}から{/i}（{i}Since{/i} there are so many）、この接続詞のカテゴリーは一番広いの！"
@@ -191,7 +191,7 @@ translate Japanese monika_gtod_tip004_d52e791f:
     m 1esa "{i}...a place where you can expect to sit for a moment, catching your breath.（……息を整えるために、しばらく座っていそうなところを。）{/i}"
 
 translate Japanese monika_gtod_tip004_c3ec5b77:
-    m 1hua "句読点ほど単純なものをこれほど雄弁に説明してくれるとは……！"
+    m 1hua "句読点ほど単純なものをこれほど雄弁に説明してくれるとはね……！"
 
 translate Japanese monika_gtod_tip004_41a0edd1:
     m 1euc "セミコロンをコロンの代わりに使ってもいいと考える人もいれば、ピリオドとして扱う人もいるの……"
@@ -269,7 +269,7 @@ translate Japanese monika_gtod_tip005_f5b8d6cd:
     m 1tuu "……"
 
 translate Japanese monika_gtod_tip005_38f81bbf:
-    m 3hub "君を！"
+    m 3hub "あなたをね！"
 
 translate Japanese monika_gtod_tip006_a9233158:
     m 1eud "[player]君、文章中での『態』について知ってる？"
@@ -323,7 +323,7 @@ translate Japanese monika_gtod_tip007_bde71521:
     m 3eub "使い分け方は簡単よ！"
 
 translate Japanese monika_gtod_tip007_f12d9e50:
-    m 1euc "\"{b}eho{/b}\" は \"{b}he{/b}/{b}she{/b}/{b}they{/b}\" に対応し、 \"{b}whom{/b}\" は \"{b}him{/b}/{b}her{/b}/{b}them{/b}\" に対応するの。"
+    m 1euc "\"{b}who{/b}\" は \"{b}he{/b}/{b}she{/b}/{b}they{/b}\" に対応し、 \"{b}whom{/b}\" は \"{b}him{/b}/{b}her{/b}/{b}them{/b}\" に対応するの。"
 
 translate Japanese monika_gtod_tip007_c8a67776:
     m 3eud "\"{b}who{/b}\" と \"{b}whom{/b}\" はそれぞれ、 \"{b}he{/b}/{b}she{/b}/{b}they{/b}\" と \"{b}him{/b}/{b}her{/b}/{b}them{/b}\" に置き換えられるの。"
@@ -374,10 +374,10 @@ translate Japanese monika_gtod_tip008_a0fefe9d:
     m 3eub "幸いなことに、 \"{b}who{/b}\" と\"{b}whom{/b}\" について話したときと同じように、どちらが正解かを知る簡単な方法があるの！"
 
 translate Japanese monika_gtod_tip008_04617b10:
-    m 1euc "さっきの例だと、文の中から \"{b}[player] and{/b}\" を取り出しても，片方は意味が通じるはずよ。"
+    m 1euc "さっきの例だと、文の中から \"{b}[player] and{/b}\" を取り出しても、片方は意味が通じるはずよ。"
 
 translate Japanese monika_gtod_tip008_41948f3e:
-    m 1hua "やってみよましょうか！"
+    m 1hua "やってみましょうか！"
 
 translate Japanese monika_gtod_tip008_dc037b2d:
     m 3eud "結果はこうなるわ。{w=0.5} \"{b}I went on a date.{/b}\" と \"{b}Me went on a date.{/b}\" ね。"
@@ -395,7 +395,7 @@ translate Japanese monika_gtod_tip008_07f907be:
     m 3eub "さて、反対に、私、つまりは語り手が文の目的語だったときには、 \"{b}and me{/b}\" を使う必要があるの。"
 
 translate Japanese monika_gtod_tip008_1df1bf5e:
-    m 3eua "例えば、こんな感じにね。{w=0.5} \" \"{b}Natsuki asked [player] and me if we liked her cupcakes.（ナツキは[player]君と私に、自分のカップケーキが好きか尋ねた。）{/b}\"\""
+    m 3eua "例えば、こんな感じにね。{w=0.5} \"{b}Natsuki asked [player] and me if we liked her cupcakes.（ナツキは[player]君と私に、自分のカップケーキが好きか尋ねた。）{/b}\""
 
 translate Japanese monika_gtod_tip008_d6d11850:
     m 1eub "今度似た状況に出くわしたとき、[player]君のお役に立てたら嬉しいな。"
@@ -407,7 +407,7 @@ translate Japanese monika_gtod_tip009_84efe7ba:
     m 1eua "今日はアポストロフィーについて話すね。かなり簡単だよ、ね？"
 
 translate Japanese monika_gtod_tip009_395010cd:
-    m 3eua "名詞を『所有格』、つまり所有者を示す形にするために付け加えるの。 \"{b}Sayori's fork, Natsuki's spoon, Yuri's knife（サヨリのフォーク、ナツキのスプーン、ユリのナイフ）{/b}...\" みたいにね。"
+    m 3eua "名詞を『所有格』、つまり所有者を示す形にするために付け加えるの。 \"{b}Sayori's fork （サヨリのフォーク） , Natsuki's spoon （ナツキのスプーン） , Yuri's knife （ユリのナイフ）{/b} ...\" みたいにね。"
 
 translate Japanese monika_gtod_tip009_6f9b19a4:
     m 1esd "困るのは、 \"{b}s{/b}\" で終わる単語にアポストロフィーをつけなきゃいけないとき、じゃないかな。"
@@ -416,7 +416,7 @@ translate Japanese monika_gtod_tip009_0af44593:
     m 3eub "複数形の名詞につけるなら簡単。最後にアポストロフィーを付けるだけよ。{w=0.5} \"{b}monkeys'{/b}\" みたいにね。"
 
 translate Japanese monika_gtod_tip009_37dc1efb:
-    m 1hksdla "一匹のサルの所有物であることを示す \"{b}monkey's{/b}\" や、サルの複数形 \"{b}monkeys{/b}\" が間違いなのは分かりやすいよね。"
+    m 1hksdla "一匹のサルの所有物であることを示す \"{b}monkey's{/b}\" や、サルの複数形 \"{b}monkeys{/b}\" と同じ形にするのは間違い、っていうのは分かりやすいよね。"
 
 translate Japanese monika_gtod_tip009_1d0da10b:
     m 1eud "微妙になってくるのが、 \"{b}Sanders{/b}\" や \"{b}[tempname]{/b}\" みたいに、人名にアポストロフィーを付ける時。"
@@ -434,22 +434,22 @@ translate Japanese monika_gtod_tip009_4b444bee:
     m 1tuu "古代ギリシャ人に敬意を表するよりも重要かな、私には。"
 
 translate Japanese monika_gtod_tip009_484088d0:
-    m 3eud "面白いことに、 \"{b}tis{/b}\" と \"{b}it's{/b}\" は例外の一つなの。"
+    m 3eud "面白いことに、 \"{b}its{/b}\" と \"{b}it's{/b}\" は例外の一つなの。"
 
 translate Japanese monika_gtod_tip009_c35edfcf:
     m 3etc "\"{b}it{/b}\" の所有格には、アポストロフィーを付けた \"{b}it's{/b}\" を使うと思うわよね？"
 
 translate Japanese monika_gtod_tip009_2ac5875f:
-    m 3euc "普通はそれでいいのだけれど、今回は単に \"{b}its{/b}\" が正しい所有格になるの。"
+    m 3euc "普通はそれでいいのだけれど、今回は単に \"{b}its{/b}\" とすると正しい所有格になるの。"
 
 translate Japanese monika_gtod_tip009_41c5aee5:
-    m 1esd "これは、 \"{b}it's{/b}\" が\"{b}it is{/b}\" の短縮形として先に決められているからよ。"
+    m 1esd "これは、 \"{b}it's{/b}\" が \"{b}it is{/b}\" の短縮形として先に決められているからよ。"
 
 translate Japanese monika_gtod_tip009_a564d647:
-    m 1eua "不思議に思っているなら、こう考えてみたら？　短縮形は単に単語を縮めた形で、文字が短縮された部分にアポストロフィーが目印に残っている、って。"
+    m 1eua "不思議に思っているなら、こう考えてみたら？　短縮形は単に単語を縮めた形で、つづりが短縮された部分にアポストロフィーが目印に残っている、って。"
 
 translate Japanese monika_gtod_tip009_50e7b768:
-    m 1eub "さて[player]君、そろそろ終わりにしようかな（{i}it's{/i} about time to wrap it up）……{w=0.5}このレッスンももうすぐ終わるんじゃないかな（I think this lesson has run {i}its{/i} course）。"
+    m 1eub "さて[player]君、今回はそろそろ終わりにしようかな（{i}it's{/i} about time to wrap it up）……{w=0.5}このレッスンももうすぐ終わるんじゃないかな（I think this lesson has run {i}its{/i} course）。"
 
 translate Japanese monika_gtod_tip009_5ffdf762:
     m 3hub "エヘヘ。ご清聴、ありがとうございました！"
@@ -486,31 +486,31 @@ translate Japanese strings:
     new "英文法を教えてくれる？"
 
     old "Clauses"
-    new "節"
+    new "その1・節"
 
     old "Comma Splices and Run-ons"
-    new "コンマ・スプライスと追い込み"
+    new "その2・コンマ・スプライスと追い込み"
 
     old "Conjunctions"
-    new "接続詞"
+    new "その3・接続詞"
 
     old "Semicolons"
-    new "セミコロン"
+    new "その4・セミコロン"
 
     old "Subjects and Objects"
-    new "主語と目的語"
+    new "その5・主語と目的語"
 
     old "Active and Passive Voices"
-    new "能動態と受動態"
+    new "その6・能動態と受動態"
 
     old "Who vs. Whom"
-    new "\"Who\" と \"Whom\""
+    new "その7・\"Who\" と \"Whom\""
 
     old "And I vs. And me"
-    new "\"And I\" と \"And me\""
+    new "その8・\"And I\" と \"And me\""
 
     old "Apostrophes"
-    new "アポストロフィー（『’』）"
+    new "その9・アポストロフィー（『’』）"
 
     old "The Oxford Comma"
-    new "オックスフォード・コンマ"
+    new "その10・オックスフォード・コンマ"

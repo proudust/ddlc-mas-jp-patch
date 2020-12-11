@@ -51,7 +51,7 @@ translate Japanese strings:
     new "ゲームについて"
 
     old "Grammar tips..."
-    new "文法を教えて"
+    new "英文法について"
 
     old "Life..."
     new "日常について"

@@ -141,13 +141,13 @@ translate Japanese strings:
     new "……なあに？"
 
     old "...Oh?"
-    new ".......ええ？"
+    new "……ええ？"
 
     old "...Huh?"
-    new ".......はあ？"
+    new "……はあ？"
 
     old "...Hm?"
-    new "......うん？"
+    new "……うん？"
 
     old "We can try talking, I guess."
     new "私達、話し合えると思うわ。"
@@ -230,10 +230,10 @@ translate Japanese strings:
     new "あなたが話したいこと、なんでも話していいわよ、[player]君。"
 
     old "...Sure."
-    new "......分かったわ。"
+    new "……分かったわ。"
 
     old "...Fine."
-    new "......いいわよ。"
+    new "……いいわよ。"
 
     old "I guess we can play a game."
     new "私達、ゲームで遊べると思うわ。"
