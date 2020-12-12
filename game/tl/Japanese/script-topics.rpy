@@ -1666,34 +1666,34 @@ translate Japanese monika_date_e764b407:
 translate Japanese monika_date_1d8af94c:
     m 1hubfa "[bf!t]として誇れるようになってみせるからね～"
 
-translate Japanese _call_monika_kissing_motion_short_5_16f917cd:
+translate Japanese _call_monika_kissing_motion_short_3_16f917cd:
     m 1wubsw "えっ？ い、いま……キス、って言ったの？"
 
-translate Japanese _call_monika_kissing_motion_short_5_68ab22bd:
+translate Japanese _call_monika_kissing_motion_short_3_68ab22bd:
     m 2lkbsa "そんな突然……ちょっと恥ずかしい……"
 
-translate Japanese _call_monika_kissing_motion_short_5_0ecfc81d:
+translate Japanese _call_monika_kissing_motion_short_3_0ecfc81d:
     m 2lsbssdlb "でも……あなたとなら……大丈夫かも……"
 
-translate Japanese _call_monika_kissing_motion_short_5_d646f25d:
+translate Japanese _call_monika_kissing_motion_short_3_d646f25d:
     m 2hksdlb "……あははっ！ ふう、ごめんなさい……"
 
-translate Japanese _call_monika_kissing_motion_short_5_f63fa111:
+translate Japanese _call_monika_kissing_motion_short_3_f63fa111:
     m 1eka "笑いをこらえるのに必死だったわ"
 
-translate Japanese _call_monika_kissing_motion_short_5_4a170b86:
+translate Japanese _call_monika_kissing_motion_short_3_4a170b86:
     m 1eua "こういう恋愛ゲームの女の子ってそういうこと言うんでしょ？"
 
-translate Japanese _call_monika_kissing_motion_short_5_9843bb0c:
+translate Japanese _call_monika_kissing_motion_short_3_9843bb0c:
     m 1tku "今のでちょっとドキッとしたなら正直に言うのよ？"
 
-translate Japanese _call_monika_kissing_motion_short_5_94f2b532:
+translate Japanese _call_monika_kissing_motion_short_3_94f2b532:
     m 1hub "あははっ！ 冗談よ"
 
-translate Japanese _call_monika_kissing_motion_short_5_4bdd10eb:
+translate Japanese _call_monika_kissing_motion_short_3_4bdd10eb:
     m 1eua "でも正直に言って、私だってそういう雰囲気になったら情熱的になるわよ……？"
 
-translate Japanese _call_monika_kissing_motion_short_5_93db10fe:
+translate Japanese _call_monika_kissing_motion_short_3_93db10fe:
     m 5lubfu "それは私たちだけの秘密～"
 
 translate Japanese monika_kiss_tease_a809dc3f:
@@ -2032,19 +2032,19 @@ translate Japanese _call_monika_holdme_end_fc3f09b6:
 translate Japanese _call_monika_holdme_end_4428e25e:
     m 2tkc "あら、それは残念。"
 
-translate Japanese _call_mas_change_weather_3_264ed02e:
+translate Japanese _call_mas_change_weather_2_264ed02e:
     m 2eka "でも、分からなくもないわ。"
 
-translate Japanese _call_mas_change_weather_3_c6912aee:
+translate Japanese _call_mas_change_weather_2_c6912aee:
     m 1eua "雨の日って憂鬱になるわよね。"
 
-translate Japanese _call_mas_change_weather_3_56541421:
+translate Japanese _call_mas_change_weather_2_56541421:
     m 3rksdlb "とっても寒くなるし！"
 
-translate Japanese _call_mas_change_weather_3_360afd7e:
+translate Japanese _call_mas_change_weather_2_360afd7e:
     m 1eua "でも、打ち付ける雨粒の音に集中すれば…"
 
-translate Japanese _call_mas_change_weather_3_57107fae:
+translate Japanese _call_mas_change_weather_2_57107fae:
     m 1hua "きっと楽しめると思うわ。"
 
 translate Japanese _call_monika_holdme_prep_1_d26ce502:
@@ -11089,8 +11089,8 @@ translate Japanese monika_add_custom_music_instruct_3a0bbc7f:
 translate Japanese monika_load_custom_music_74680220:
     m 1hua "もちろんよ！"
 
-translate Japanese monika_load_custom_music_8469ec80:
-    m 1dsc "フォルダを確認するからちょっと待っててね……"
+translate Japanese monika_load_custom_music_0393afc6:
+    m 1dsc "フォルダを確認するからちょっと待っててね{w=0.2}…{w=0.2}…{w=0.2}{nw}"
 
 translate Japanese monika_load_custom_music_3d8a873d:
     m 1eua "OK！"
@@ -11115,9 +11115,6 @@ translate Japanese monika_load_custom_music_4d0ff0bf:
 
 translate Japanese monika_load_custom_music_01a610fe:
     m "音楽を追加する方法は覚えてる？{fast}" nointeract
-
-translate Japanese monika_load_custom_music_c7c70df7:
-    m "そっか、でも新しい曲を追加したいときには手順を間違えないようにね。"
 
 translate Japanese monika_mystery_b1d8253c:
     m 2eua "……"
