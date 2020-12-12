@@ -1187,7 +1187,7 @@ translate Japanese greeting_back_from_game_e75d99da:
     m 2wuo "[player]!"
 
 translate Japanese greeting_back_from_game_6b0bcf08:
-    m 2hksdlb "随分長い間いなかったけど......"
+    m 2hksdlb "随分長い間いなかったけど……"
 
 translate Japanese greeting_back_from_game_0934e203:
     m 1eka "楽しかった?{nw}"
@@ -1199,10 +1199,10 @@ translate Japanese greeting_back_from_game_0bbdb671:
     m 1hua "それはよかったわ。"
 
 translate Japanese greeting_back_from_game_e93005d0:
-    m 2ekc "あらま......"
+    m 2ekc "あらま……"
 
 translate Japanese greeting_back_from_game_578b933c:
-    m 2rka "ねえ、[player]......"
+    m 2rka "ねえ、[player]……"
 
 translate Japanese greeting_back_from_game_0b259093:
     m 2eka "楽しくなければ私と過ごせばいいじゃない。"

@@ -163,6 +163,9 @@ translate Japanese monika_ptod_tip005_aafe4e6c:
 translate Japanese monika_ptod_tip005_e37b6ca7:
     m 1eub "今日はboolean値とそれが値の比較とどう関係するかについて説明するわ。"
 
+translate Japanese monika_ptod_tip005_ff64d147:
+    m 1eua "boolean値は、実行するコードを決定したり、出来事を記録するフラグを設定したりするのに使われるわ。"
+
 translate Japanese _call_mas_wx_cmd_44_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 

@@ -1,3 +1,60 @@
+translate Japanese mas_lingerie_intro_aebae8b5:
+    m 1ekbfa "……"
+
+translate Japanese mas_lingerie_intro_0d5c13c7:
+    m "それでね、[player]君……"
+
+translate Japanese mas_lingerie_intro_0f0c390b:
+    m 3ekbfsdla "あの……{w=1}み、見せたいものがあるの。"
+
+translate Japanese mas_lingerie_intro_e53b5040:
+    m 2rkbfsdla "ずっと機会をうかがってたんだけど……{w=1}その、ちょっと恥ずかしくて……"
+
+translate Japanese mas_lingerie_intro_e612037c:
+    m "……"
+
+translate Japanese mas_lingerie_intro_672e867d:
+    m 2hkbfsdlb "あら、すっごい緊張してるみたいね、アハハ！"
+
+translate Japanese mas_lingerie_intro_444cfb57:
+    m 2rkbfsdlc "決して……{nw}"
+
+translate Japanese mas_lingerie_intro_925994fa:
+    m 2dkbfsdlc "えっと、まあ、そろそろ続けましょうか。"
+
+translate Japanese mas_lingerie_intro_7efbacfc:
+    m 2ekbfsdla "ちょっと待っててね、[player]君。"
+
+translate Japanese _call_mas_clothes_change_12b3a271:
+    m 2ekbfsdlb "アハハ、[player]君……{w=1}そんなに見つめて……"
+
+translate Japanese _call_mas_clothes_change_2fbff6ed:
+    m 2ekbfu "その……{w=1}こういうの、好き？"
+
+translate Japanese _call_mas_clothes_change_cbc9dc17:
+    m 1lkbfa "本当に……こういうのは着たことがなかったから。"
+
+translate Japanese _call_mas_clothes_change_712e56ff:
+    m "……少なくとも、誰かに見せたことは無いわ。"
+
+translate Japanese _call_mas_clothes_change_57055f11:
+    m 3hkbfb "アハハ、前にビキニ姿を見せた時も、同じようなことを言ってたわね、私……"
+
+translate Japanese _call_mas_clothes_change_0ab1f043:
+    m 2rkbfa "……どういうわけか、あのときとは{i}違う{/i}感覚なのだけど。"
+
+translate Japanese _call_mas_clothes_change_e069aefc:
+    m 2ekbfa "とにかく、[holiday_str]を一緒に過ごすのって、本当にロマンチックよね？"
+
+translate Japanese _call_mas_clothes_change_0bbbc6bc:
+    m "私たちの関係を一つ進展させるにはもってこいだと思うの。"
+
+translate Japanese _call_mas_clothes_change_eb7c5459:
+    m 2rkbfsdlu "私たち、本当に……{nw}"
+
+translate Japanese _call_mas_clothes_change_b82c5de2:
+    m 3hubfb "あっ！気にしないで、アハハ！"
+
 translate Japanese mas_holiday_o31_returned_home_relaunch_29f4e729:
     m 1eua "今日は……"
 
@@ -28,8 +85,17 @@ translate Japanese mas_holiday_o31_returned_home_relaunch_ce6cc638:
 translate Japanese mas_holiday_o31_returned_home_relaunch_6ca411f1:
     m 1hubsa "あなたに特別なものを用意してるの、えへへ～"
 
+translate Japanese mas_o31_cleanup_571c9161:
+    m 1eua "じゃあ[player]君、飾りを片付けるわね…{w=0.3}…{w=0.3}…{nw}"
+
+translate Japanese _call_mas_transition_from_emptydesk_01601d89:
+    m 3hua "終わったわ～"
+
 translate Japanese _call_spaceroom_2_7ec4d980:
     m 1eua "あっ！"
+
+translate Japanese _call_spaceroom_2_6e01eb01:
+    m 1hua "呪文はうまくいったみたいね。"
 
 translate Japanese _call_spaceroom_2_7faca44c:
     m 1rksdla "……"

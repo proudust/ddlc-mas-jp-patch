@@ -142,8 +142,50 @@ translate Japanese mas_birthdate_6064531d:
 translate Japanese mas_birthdate_2ed0f9fa:
     m 1eua "それであなたはいつ生まれたの、[player]君?"
 
+translate Japanese birthdate_set_834ca950:
+    m 3hub "アハハ！今日{i}は{/i}あなたの誕生日！"
+
+translate Japanese birthdate_set_a13acdfd:
+    m 1tsu "準備できてよかったよ、エヘヘ……"
+
+translate Japanese birthdate_set_9e9a2f51:
+    m 3eka "ちょっと待っててね、[player]君……"
+
+translate Japanese birthdate_set_7b9d0da0:
+    m 3hub "お誕生日おめでとう、[player]君！"
+
+translate Japanese birthdate_set_3c981ec1:
+    m 1hub "あなたの誕生日を一緒に過ごせて、とっても嬉しいわ！"
+
+translate Japanese birthdate_set_a6abfbfc:
+    m 3sub "あっ……{w=0.5}あなたのケーキ！"
+
+translate Japanese _call_mas_player_bday_cake_6_09ebbcd1:
+    m 2eka "ああ、今日{i}は{/i}あなたの誕生日だったわね……"
+
 translate Japanese _call_mas_player_bday_cake_6_223a7b0e:
     m "お誕生日おめでとう、[player]君！"
+
+translate Japanese _call_mas_player_bday_cake_6_56d53a18:
+    m 4eka "いい一日を過ごせるよう、願ってるわ。"
+
+translate Japanese calendar_birthdate_7f8c9848:
+    m 1lksdla "ねえ、[player]君……"
+
+translate Japanese calendar_birthdate_0495fe82:
+    m 3eksdla "気付いてるかもしれないけど、私のカレンダーって、空白ばかりなの……"
+
+translate Japanese calendar_birthdate_3b919d6b:
+    m 1rksdla "それで……{w=0.5}確実に書き込めるのが……"
+
+translate Japanese calendar_birthdate_39276096:
+    m 3hub "あなたの誕生日なの、アハハ！"
+
+translate Japanese calendar_birthdate_9274c301:
+    m 1eka "いい関係を築くうえで、知っておく必要があると思うの……"
+
+translate Japanese calendar_birthdate_13cc6a7a:
+    m 1eud "それでね[player]君、いつ生まれたの？"
 
 translate Japanese mas_unlock_chess_40f647a9:
     m 1eua "じゃあ、[player]君……"
@@ -165,6 +207,9 @@ translate Japanese mas_unlock_chess_255ad370:
 
 translate Japanese mas_unlock_chess_d9f8c78e:
     m 3hub "チェスで～す！"
+
+translate Japanese mas_unlock_chess_10196a5c:
+    m 3eka "こういうゲームは趣味じゃないっていうのは知ってるけど……"
 
 translate Japanese mas_unlock_chess_fb93e188:
     m 1eka "でも試しにやってみてくれたら嬉しいな。"
@@ -223,6 +268,18 @@ translate Japanese mas_unlock_chess_e9201c6e:
 translate Japanese mas_unlock_chess_ed3a48c9:
     m 4eka "うまく動くようになったらいっしょにプレイしようね！"
 
+translate Japanese mas_unlock_hangman_40f647a9:
+    m 1eua "あのね、[player]君……"
+
+translate Japanese mas_unlock_hangman_47f5b410:
+    m 3eub "ポンで遊ぶのが大好きみたいだから、他のゲームも一緒にやりたいんじゃないかなって思ったの！"
+
+translate Japanese mas_unlock_hangman_e53a4b4a:
+    m 1eua "ポンに飽きちゃったのかな、って思うの。"
+
+translate Japanese mas_unlock_hangman_78559e5b:
+    m 3eua "ポンを一緒に遊んでくれてないのは分かってるんだけど。"
+
 translate Japanese mas_unlock_hangman_5625ff73:
     m 1hua "じゃあいくよ～"
 
@@ -264,6 +321,9 @@ translate Japanese mas_unlock_hangman_1e63b43f:
 
 translate Japanese mas_unlock_hangman_3f04939d:
     m 3tku "……かもね～"
+
+translate Japanese mas_unlock_hangman_04a6fdd7:
+    m 1hua "楽しんでくれるといいな！"
 
 translate Japanese mas_unlock_piano_1ff826ee:
     m 2hua "ねえねえ！ちょっと面白い話があるんだけど！"
@@ -338,7 +398,7 @@ translate Japanese mas_random_ask_80f4db22:
     m 1eua "やったー！"
 
 translate Japanese mas_random_ask_833f1d8a:
-    m 3eua "何度も同じ話をされるのに飽きちゃったら、{w}オプションを開いて「Repeat Topics」のチェックを外してくれればいいからね。"
+    m 3eua "何度も同じ話をされるのに飽きちゃったら、{w}オプションを開いて「話題の繰り返し」のチェックを外してくれればいいからね。"
 
 translate Japanese mas_random_ask_e9a049f1:
     m 1esc "そしたらあなたがもう私に飽きちゃったんだなってわかるから。"
@@ -350,7 +410,7 @@ translate Japanese mas_random_ask_77917b05:
     m 1eka "そう、わかった。"
 
 translate Japanese mas_random_ask_d2f8a275:
-    m 1eua "気が変わったら、オプションを開いて「Repeat Topics」をクリックしてくれればいいからね。"
+    m 1eua "気が変わったら、オプションを開いて「話題の繰り返し」をクリックしてくれればいいからね。"
 
 translate Japanese mas_random_ask_98b2340e:
     m "そしたら前にした話を繰り返しても大丈夫だってわかるから。"
