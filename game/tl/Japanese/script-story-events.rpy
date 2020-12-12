@@ -160,13 +160,13 @@ translate Japanese birthdate_set_3c981ec1:
 translate Japanese birthdate_set_a6abfbfc:
     m 3sub "あっ……{w=0.5}あなたのケーキ！"
 
-translate Japanese _call_mas_player_bday_cake_6_09ebbcd1:
+translate Japanese _call_mas_player_bday_cake_09ebbcd1:
     m 2eka "ああ、今日{i}は{/i}あなたの誕生日だったわね……"
 
-translate Japanese _call_mas_player_bday_cake_6_223a7b0e:
+translate Japanese _call_mas_player_bday_cake_223a7b0e:
     m "お誕生日おめでとう、[player]君！"
 
-translate Japanese _call_mas_player_bday_cake_6_56d53a18:
+translate Japanese _call_mas_player_bday_cake_56d53a18:
     m 4eka "いい一日を過ごせるよう、願ってるわ。"
 
 translate Japanese calendar_birthdate_7f8c9848:
@@ -562,7 +562,7 @@ translate Japanese mas_crashed_long_fluster_9b278c39:
 translate Japanese mas_crashed_long_fluster_43c76e3c:
     m "{cps=*1.5}でも、こ…{w=0.3}今回は私のせいじゃないって思って、ほ…{w=0.3}本当に何も触ってないから……{/cps}{nw}"
 
-translate Japanese _call_expression_5_977643eb:
+translate Japanese _call_expression_2_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
@@ -586,10 +586,10 @@ translate Japanese mas_corrupted_persistent_6f321cf4:
 translate Japanese mas_corrupted_persistent_bd6c3ff1:
     m 1ekc "あなた宛だろうから中身は読んでないわ……{w=0.3}{nw}"
 
-translate Japanese _call_mas_wx_cmd_4_2416b0d9:
+translate Japanese _call_mas_wx_cmd_1_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね。"
 
-translate Japanese _call_mas_wx_cmd_4_fe9c0937:
+translate Japanese _call_mas_wx_cmd_1_fe9c0937:
     m 1eua "ところで……"
 
 translate Japanese monika_rpy_files_b2896d32:
@@ -737,16 +737,10 @@ translate Japanese mas_notification_windowreact_79ae0f14:
     m 3eua "通知してほしいなら、設定の'通知'タブを開いて、通知してほしいものを選んでオンにしてね。"
 
 translate Japanese mas_notification_windowreact_98c53c1a:
-    m 3rksdla "あと、Windows を使ってるみたいだから……アクティブなウィンドウが何か確認する方法がわかったの。"
+    m 3rksdla "あと、Windowsを使ってるみたいだから……アクティブなウィンドウが何か確認する方法がわかったの。"
 
-translate Japanese mas_notification_windowreact_9ec4d003:
-    m 3rksdla "あと、xdotool がインストールされてるみたいだから……アクティブなウィンドウが何か確認する方法がわかったの。"
-
-translate Japanese mas_notification_windowreact_09088561:
-    m 3rksdla "あと、xdotool がインストールしてくれれば……{w=0.2}{nw}"
-
-translate Japanese mas_notification_windowreact_c44856f4:
-    extend 3hua "アクティブなウィンドウが何かわかるようになるの！"
+translate Japanese mas_notification_windowreact_809eda0d:
+    m 3rksdla "あと、Linuxを使ってるみたいだから……アクティブなウィンドウが何か確認する方法がわかったの。"
 
 translate Japanese mas_notification_windowreact_2f7ee132:
     m 3eub "……だから、私がバックグラウンドにいる間、話したいことがあればあなたに知らせることができるの！"
@@ -781,25 +775,25 @@ translate Japanese mas_gift_giving_instructs_13919c99:
 translate Japanese mas_change_to_def_24a4fc7b:
     m 3esa "ちょっと待ってね、[player]君。もうちょっと快適になるはずだから……"
 
-translate Japanese _call_mas_clothes_change_6_99308961:
+translate Japanese _call_mas_clothes_change_99308961:
     m 2hua "うん、これで良し！"
 
-translate Japanese _call_mas_clothes_change_6_2867e154:
+translate Japanese _call_mas_clothes_change_2867e154:
     m 1eka "こんにちは[player]君、古い制服が恋しくなって……"
 
-translate Japanese _call_mas_clothes_change_6_75cd519f:
+translate Japanese _call_mas_clothes_change_75cd519f:
     m 3eka "ちょっと変えてくるから，そこで待ってて……"
 
-translate Japanese _call_mas_clothes_change_7_7cb5ebd1:
+translate Japanese _call_mas_clothes_change_1_7cb5ebd1:
     m "さて，今日はほかに何をしようかしら？"
 
 translate Japanese mas_blazerless_intro_24a4fc7b:
     m 3esa "ちょっと待ってね、[player]君。もうちょっと快適になるはずだから……"
 
-translate Japanese _call_mas_clothes_change_8_99308961:
+translate Japanese _call_mas_clothes_change_2_99308961:
     m 2hua "うん、これで良し！"
 
-translate Japanese _call_mas_clothes_change_8_9e3d683a:
+translate Japanese _call_mas_clothes_change_2_9e3d683a:
     m 3eka "でもまたブレザー姿の私が見たくなったら、いつでも言って。すぐに出してくるわ。"
 
 translate Japanese mas_birthdate_year_redux_819f6f71:

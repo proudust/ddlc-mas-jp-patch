@@ -13,10 +13,10 @@ translate Japanese mas_background_change_3d8a873d:
 translate Japanese mas_background_change_f04503eb:
     m 1hua "行こう、[player]君！"
 
-translate Japanese _call_spaceroom_13_e162a061:
+translate Japanese _call_spaceroom_34_e162a061:
     m 1eua "ほら！"
 
-translate Japanese _call_spaceroom_13_e43af2ef:
+translate Japanese _call_spaceroom_34_e43af2ef:
     m "どこかに行きたいなら私に教えてね？"
 
 translate Japanese strings:
