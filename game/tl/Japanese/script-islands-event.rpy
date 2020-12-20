@@ -61,6 +61,9 @@ translate Japanese mas_island_cherry_blossom1_a6c99ff7:
 translate Japanese mas_island_cherry_blossom1_4e66d75f:
     m "舞い落ちる花びらを見つめていると厳かな気分になるでしょ。"
 
+translate Japanese mas_island_cherry_blossom1_707eab57:
+    m "正確には、桜が満開の特"
+
 translate Japanese mas_island_cherry_blossom1_92e2ef95:
     m "その時が来るまで待てないよ、[player]君。"
 

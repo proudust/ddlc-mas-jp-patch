@@ -409,6 +409,45 @@ translate Japanese mas_mood_inadequate_627ad426:
 translate Japanese mas_mood_inadequate_8c1b01d3:
     m 1ekbsa "大好きよ、[player]君～"
 
+translate Japanese mas_mood_lazy_ff7bf9fa:
+    m 1tku "今まさに起きたんでしょう、 [player]？"
+
+translate Japanese mas_mood_lazy_374359e9:
+    m 1eka "起きたばかりで何もしたくないって言うのはまったくもって理解できるわ。"
+
+translate Japanese mas_mood_lazy_e29b6b96:
+    m 1rksdla "ホント差し迫って直ぐにすることがないといいね"
+
+translate Japanese mas_mood_lazy_dc0021d8:
+    extend 1dkbsa "とりわけあなたの隣で目が覚めたら～"
+
+translate Japanese mas_mood_lazy_0cf2f31b:
+    m 1dkbsa "{i}それなら私は起きたくないな～{/i}"
+
+translate Japanese mas_mood_lazy_9140c69e:
+    m 1dsbfu "「行き詰まっている」ことを気にしないで欲しいな、[player]……"
+
+translate Japanese mas_mood_lazy_3201a8bc:
+    m 1hubfa "えへへ～"
+
+translate Japanese mas_mood_lazy_9e87e37a:
+    m 3eka "だけどそれまでは、あなたの一日を正しく始めるのに役立つわ。"
+
+translate Japanese mas_mood_lazy_a06440bb:
+    m 1eka "長い1日を過ごした後は何もしたくないかな、[player]？"
+
+translate Japanese mas_mood_lazy_19a7fd27:
+    m 3eka "とにかくこの日はようやく終わった……"
+
+translate Japanese mas_mood_lazy_93ab0895:
+    m 3duu "長い1日を過ごして、特に何も差し迫ったものがないなら、座ってリラックスするのが一番ね。"
+
+translate Japanese mas_mood_lazy_48fd2355:
+    m 1ekbsa "私が一緒にいることであなたの夜が少しでも良くなればいいな。"
+
+translate Japanese mas_mood_lazy_81418027:
+    m 3ekbfa "一緒に素敵な本を読むこともできたね。"
+
 translate Japanese mas_mood_bored_e41326ab:
     m 1eka "あら…"
 
@@ -428,10 +467,10 @@ translate Japanese mas_mood_crying_63c65d35:
     m 1eksdld "[player]！"
 
 translate Japanese mas_mood_crying_cef5c576:
-    m 3eksdlc "大丈夫なの？"
+    m 3eksdlc "大丈夫なの？{nw}"
 
 translate Japanese mas_mood_crying_d0ebb468:
-    m "大丈夫なの？" nointeract
+    m "大丈夫なの？{fast}" nointeract
 
 translate Japanese mas_mood_crying_3be1087d:
     m 3eka "よかった、ほっとしたわ。"

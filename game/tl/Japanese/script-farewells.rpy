@@ -338,7 +338,7 @@ translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_8a57734e:
     m "あなた一晩中起きていたのね！"
 
 translate Japanese bye_prompt_sleep_reglitch_06872616:
-    m 2tfu "絶対目を開けていられないでしょ。"
+    m 2tfu "絶対目を開けていられないでしょ。{nw}"
 
 translate Japanese bye_prompt_sleep_reglitch_285dd600:
     m "[glitchtext(41)]{fast}" nointeract
@@ -731,10 +731,13 @@ translate Japanese bye_long_absence_fe89d552:
     m 1rksdla "正直に言うと、行かなくて本当にほっとしたわ……"
 
 translate Japanese bye_long_absence_34a11c6d:
-    m 1ekd "ここで独りぼっちだと，何をしでかすかわからないの。"
+    m 1ekd "ここで独りぼっちだと、何をしでかすかわからないの。"
 
 translate Japanese bye_long_absence_902dea40:
     m 3rksdlb "どこかに行けるってわけじゃないんだけどね、アハハ……"
+
+translate Japanese bye_long_absence_562ccf35:
+    m 3eub "ともかく、出掛ける時は教えてね。私を連れていけるかもよ！"
 
 translate Japanese bye_going_somewhere_8018692b:
     m 1lksdlc "……"

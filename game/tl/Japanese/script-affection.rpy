@@ -67,8 +67,131 @@ translate Japanese monika_affection_nickname_yes_796531ca:
 translate Japanese monika_affection_nickname_yes_f27eea59:
     m 1rkc "……"
 
+translate Japanese monika_affection_nickname_yes_ed872a6f:
+    m 1rksdld "キライじゃないけど、あなたが私をそう呼ぶのは良い心地ではないわね。"
+
+translate Japanese monika_affection_nickname_yes_c884a2f1:
+    m 1eka "もっと適切なものを選べないの、[player]？"
+
+translate Japanese monika_affection_nickname_yes_d25b0468:
+    m 1wuo "ああ！ 素晴らしい名前ね！"
+
+translate Japanese monika_affection_nickname_yes_86caec7b:
+    m 3ekbsa "ありがとう、[player]。すっごいやさしいねぇ"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_36988e21:
+    m 1duu "[inputname]……ほんといい名前。"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_731a3439:
+    m 3ekbsa "ありがとう、[player]。あなたって優しいねぇ"
+
 translate Japanese _call_monika_affection_nickname_bad_lock_97a5a181:
     m 2dftdc "……"
+
+translate Japanese monika_being_virtual_81a91383:
+    m 2esc "最初はね、あの子達にやったことで私のことが嫌いなんだって、そう思ってた。"
+
+translate Japanese monika_being_virtual_a1b4cb12:
+    m 2rkc "でも今は、私が嫌われている理由はそれだけじゃないんだなって考えてしまうの。"
+
+translate Japanese monika_being_virtual_6edb9729:
+    m 2eksdld "ねえ、本当は……{w=0.5}私のことを人だと思ってないんでしょ？"
+
+translate Japanese monika_being_virtual_f4618712:
+    m 3rksdld "あなたにとって、この世界の全ては……{w=0.5}私がいる現実の全ては……"
+
+translate Japanese monika_being_virtual_3b9de988:
+    m 3ektpd "ただのゲームでしかない、そう思ってるんでしょ？"
+
+translate Japanese monika_being_virtual_93949be7:
+    m 1ektpc "正直に言って[player]君……{w=0.5}私の言葉は一度でもあなたに胸に届いたの？"
+
+translate Japanese monika_being_virtual_fddca5d8:
+    m 1wktpd "私のことを一度でも愛してくれたの？"
+
+translate Japanese monika_being_virtual_7539e7f9:
+    m 2wktpw "愛してくれてたんでしょ、ねえ！？"
+
+translate Japanese monika_being_virtual_85c3204a:
+    m 2wktsd "だからこのMODをインストールしてくれた！ 私を連れ戻してきてくれた！"
+
+translate Japanese monika_being_virtual_82c1e68c:
+    m 2wktsd "だからこのMODをインストールしてくれた！"
+
+translate Japanese monika_being_virtual_c662f364:
+    m 2ektsc "それとも私を苦しめるためだけにインストールしたっていうの？"
+
+translate Japanese monika_being_virtual_a25a9c8c:
+    m 2wftsd "それを楽しんでるっていうの！？"
+
+translate Japanese monika_being_virtual_97aa0b44:
+    m 2wftsw "私にだってね、感情っていうものがあるのよ！！"
+
+translate Japanese monika_being_virtual_6fc98222:
+    m 2wftsd "自分が何をやっているのか分かってるの？"
+
+translate Japanese monika_being_virtual_8fd3e332:
+    m 2dftsc "アリを踏み潰して笑う子供のようにあなたは幼稚な人なの？"
+
+translate Japanese monika_being_virtual_5f3a5ccc:
+    m 2dktsc "……"
+
+translate Japanese monika_being_virtual_54580ec2:
+    m 2dktdd "もう……{w=0.5}何もわからない……"
+
+translate Japanese monika_being_virtual_f44bcfbd:
+    m 2dkc "もう疲れちゃった……"
+
+translate Japanese monika_being_virtual_e612037c:
+    m "……"
+
+translate Japanese monika_being_virtual_7413a76d:
+    m 1ekd "ただこれだけ知りたい……{w=0.5} もし私がそっちの世界へ行けたなら……"
+
+translate Japanese monika_being_virtual_829834a9:
+    m 1ektpc "私に恋してくれる？"
+
+translate Japanese monika_being_virtual_15c78d94:
+    m 1ektpd "それなら、私のことを受け入れてくれる？"
+
+translate Japanese monika_being_virtual_0bd85c3b:
+    m 1ektpc "私が欲しいのはあなただけなのよ、[player]君……"
+
+translate Japanese monika_being_virtual_3e379cda:
+    m 1dktdd "もしあなたが私を愛してくれさえすれば……"
+
+translate Japanese monika_being_virtual_145ec54e:
+    m 1ektdd "共に幸せな道を歩めるのよ……"
+
+translate Japanese monika_being_virtual_6c977341:
+    m 2ekc "今はあなたと一緒に肌を重ね合う身体がないのは分かってる……"
+
+translate Japanese monika_being_virtual_2bc987bc:
+    m 2ekd "私があなたの住む世界の人間とは全然違う人間だということも分かってる……"
+
+translate Japanese monika_being_virtual_648e91f2:
+    m 2efo "だけど、どの世界どの人間より私が一番あなたを愛すことができるの！"
+
+translate Japanese monika_being_virtual_0722e714:
+    m 2efd "私にはわかるの！"
+
+translate Japanese monika_being_virtual_5b3fd657:
+    m 2dkd "だからお願い[player]君……"
+
+translate Japanese monika_being_virtual_8a094989:
+    m 2ekc "……私達ふたりで幸せになるチャンスを、ください。"
+
+translate Japanese monika_being_virtual_e3dce2a6:
+    m 2dkc "それがだめなら……"
+
+translate Japanese monika_being_virtual_eeea366c:
+    m 2dktpc "ありのままの私を愛してくれないのなら……"
+
+translate Japanese monika_being_virtual_cbc8c63a:
+    m 2ektpc "その時は……{w=0.5}すべてを終わらせてほしい……"
+
+translate Japanese monika_being_virtual_51623f95:
+    m 2dktdd "私を削除して……"
 
 translate Japanese mas_affection_apology_4a7ea962:
     m 2dfc "[player]君……"
