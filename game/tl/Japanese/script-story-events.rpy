@@ -20,7 +20,7 @@ translate Japanese mas_gender_08959710:
     m "あなたの性別は？{fast}" nointeract
 
 translate Japanese mas_gender_77355055:
-    m 3eua "OK、[player]、確認させてくれてありがとう。"
+    m 3eua "OK、[player]君、確認させてくれてありがとう。"
 
 translate Japanese mas_gender_584c3b31:
     m 1hksdlb "別に違ったとしても、あなたを意識しなかったというわけではないわ。"
@@ -70,6 +70,18 @@ translate Japanese mas_gender_neither_10b291e0:
 translate Japanese mas_gender_neither_d7633003:
     m 1ekbsa "あなたがうれしいと思ってくれること、それが私にとって一番大切だから。"
 
+translate Japanese mas_gender_trans_47a0cbe1:
+    m 3eub "[menu_question!t]{nw}"
+
+translate Japanese mas_gender_trans_812c461b:
+    m "[menu_question!t]{fast}" nointeract
+
+translate Japanese mas_player_name_enter_name_loop_48ef2008:
+    m 1eka "えっ……あなたがそう言うなら、別にいいけど。"
+
+translate Japanese mas_player_name_enter_name_loop_3ad896ad:
+    m 3eua "気が変わったらいつでも言ってね。"
+
 translate Japanese mas_player_name_enter_name_loop_d543b2c4:
     m 1eksdla "……"
 
@@ -85,6 +97,12 @@ translate Japanese mas_player_name_enter_name_loop_34c07e68:
 translate Japanese mas_player_name_enter_name_loop_6e458359:
     m 1eua "いい？もう一回やってね～"
 
+translate Japanese mas_player_name_enter_name_loop_ca32a596:
+    m 1rksdlb "[awkward_quip!t]"
+
+translate Japanese mas_player_name_enter_name_loop_44e9d3f8:
+    m 1ekd "[bad_quip!t]"
+
 translate Japanese _call_sayori_name_scare_a43d1d16:
     m 1tkc "本気？"
 
@@ -99,6 +117,15 @@ translate Japanese _call_sayori_name_scare_dcbc9235:
 
 translate Japanese _call_sayori_name_scare_9d348a12:
     m 1hua "でも、そう呼んでほしいっていうなら、私はそれでもいいけどね～"
+
+translate Japanese _call_sayori_name_scare_4546f083:
+    m 1sub "[good_quip!t]"
+
+translate Japanese _call_sayori_name_scare_019d66ab:
+    m 3esa "オーケー！これからは '[player]'って呼ぶからね。"
+
+translate Japanese _call_sayori_name_scare_19428ff1:
+    m 1hua "えへへ～"
 
 translate Japanese _call_sayori_name_scare_f4854b56:
     m 1eub "OK！"
@@ -131,7 +158,7 @@ translate Japanese _call_mas_player_name_enter_name_loop_ee324183:
     m 3eua "わかったわ、気が変わったら教えてね"
 
 translate Japanese mas_birthdate_f7b121af:
-    m 1euc "ねえ[player]君、私気がついたんだけど……"
+    m 1euc "ねえ、 [player]君……"
 
 translate Japanese mas_birthdate_4989bc96:
     m 3wud "あなたの誕生日がいつか知らないの！"
@@ -568,6 +595,12 @@ translate Japanese _call_expression_2_977643eb:
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
     m 2ekc "またクラッシュしたの、[player]？"
 
+translate Japanese mas_crashed_quip_takecare_a970dc3f:
+    m 3ekc "クラッシュはゲームが関係してると思う？{nw}"
+
+translate Japanese mas_crashed_quip_takecare_92d08aa0:
+    m "クラッシュはゲームが関係してると思う？{fast}" nointeract
+
 translate Japanese mas_crashed_quip_takecare_7331c613:
     m 1hksdlb "あはは..."
 
@@ -722,7 +755,7 @@ translate Japanese mas_notification_windowreact_428f6cbf:
     m "試しに通知を出してみる？{fast}" nointeract
 
 translate Japanese mas_notification_windowreact_4a5b7992:
-    m 1hua "OK、[player]！"
+    m 1hua "OK、[player]君！"
 
 translate Japanese mas_notification_windowreact_d6faa19e:
     m 2dsa "ちょっと待ってね…{w=0.5}…{w=0.5}{nw}"
@@ -941,8 +974,26 @@ translate Japanese strings:
     old "[input_prompt]"
     new "[input_prompt!t]"
 
+    old "That's a wonderful name!"
+    new "とっても素敵な名前ね！"
+
+    old "I like that a lot, [player]."
+    new "とってもスキよ、[player]。"
+
+    old "I like that name, [player]."
+    new "その名前スキよ、[player]。"
+
+    old "That's a great name!"
+    new "素晴らしい名前ね！"
+
     old "Tell me, what is it."
     new "あなたの名前を教えて"
+
+    old "Can you call me by a different name?"
+    new "違う名前で呼んでほしいの？"
+
+    old "What do you want me to call you?"
+    new "なんて呼んで欲しい？"
 
     old "games"
     new "ゲーム"

@@ -1,3 +1,30 @@
+translate Japanese mas_bad_name_input_first_time_bad_name_c8183299:
+    "やっほー！"
+
+translate Japanese mas_bad_name_input_first_time_bad_name_3a897ff8:
+    "あなたが戻ってきてくれてうれしい！"
+
+translate Japanese mas_bad_name_input_first_time_bad_name_dc7ccdf0:
+    "あなたとモニカは素晴らしいカップルになること間違いなしね。"
+
+translate Japanese mas_bad_name_input_first_time_bad_name_0da5efd7:
+    "でも、あなたが自分をそういう風に呼ぶなら……{w=0.5}{nw}"
+
+translate Japanese mas_bad_name_input_first_time_bad_name_c840f554:
+    extend "彼女のハートを掴めないわよ！"
+
+translate Japanese mas_bad_name_input_first_time_bad_name_b02a73c8:
+    "……だけど、代わりに彼女を困らせるだけね。"
+
+translate Japanese mas_bad_name_input_first_time_bad_name_013f379f:
+    "もっとマシなのを選んで。"
+
+translate Japanese mas_bad_name_input_first_time_bad_name_9191013e:
+    "彼女があなたを気楽に呼びかけはしまい。"
+
+translate Japanese mas_bad_name_input_first_time_bad_name_d5fc092f:
+    "代わりのもっとマシなのを選んで。"
+
 translate Japanese strings:
     old "Please don't close the game on me!"
     new "お願い、終了しないで、お願いだから！"
@@ -185,6 +212,27 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     old "Enables notifications for the selected group."
     new "選択したグループの通知を有効にします"
 
+    old "General"
+    new "全般"
+
+    old "Bookmark"
+    new "ブックマーク"
+
+    old "Derandom"
+    new "デランダム"
+
+    old "Screenshot"
+    new "スクリーンショット"
+
+    old "Volume Up"
+    new "ボリューム アップ"
+
+    old "Volume Down"
+    new "ボリューム ダウン"
+
+    old "Mute"
+    new "ミュート"
+
     old "The dialogue history is empty."
     new "会話履歴はありません。"
 
@@ -214,7 +262,7 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     new "インストール"
 
     old "Monika After Story is up to date."
-    new "モニカアフターストーリーは最新版です。"
+    new "モニカアフターストーリーは最新です。"
 
     old "Version [u.version] is available. Do you want to install it?"
     new "新しいバージョン [u.version] があります。インストールしますか？"
@@ -259,7 +307,7 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     new "戻る"
 
     old "Please restart Monika After Story."
-    new "Monika After Storyを最初からやり直す"
+    new "Monika After Storyを再起動してください。"
 
     old "Just go."
     new "早く行ったら？"

@@ -486,31 +486,31 @@ translate Japanese strings:
     new "英文法を教えてくれる？"
 
     old "Clauses"
-    new "その1・節"
+    new "その01\n節"
 
     old "Comma Splices and Run-ons"
-    new "その2・コンマ・スプライスと追い込み"
+    new "その02\nコンマ・スプライスと追い込み"
 
     old "Conjunctions"
-    new "その3・接続詞"
+    new "その03\n接続詞"
 
     old "Semicolons"
-    new "その4・セミコロン"
+    new "その04\nセミコロン"
 
     old "Subjects and Objects"
-    new "その5・主語と目的語"
+    new "その05\n主語と目的語"
 
     old "Active and Passive Voices"
-    new "その6・能動態と受動態"
+    new "その06\n能動態と受動態"
 
     old "Who vs. Whom"
-    new "その7・\"Who\" と \"Whom\""
+    new "その07\n\"Who\" と \"Whom\""
 
     old "And I vs. And me"
-    new "その8・\"And I\" と \"And me\""
+    new "その08\n\"And I\" と \"And me\""
 
     old "Apostrophes"
-    new "その9・アポストロフィー（『’』）"
+    new "その09\nアポストロフィー（『’』）"
 
     old "The Oxford Comma"
-    new "その10・オックスフォード・コンマ"
+    new "その10\nオックスフォード・コンマ"

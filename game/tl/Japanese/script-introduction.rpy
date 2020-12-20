@@ -142,6 +142,48 @@ translate Japanese introduction_2423a82f:
 translate Japanese introduction_b82962f4:
     m 1hub "いぇーい、おかえりなさい！"
 
+translate Japanese introduction_a8a77263:
+    m 1eub "また会えて嬉しいわ、[player]！"
+
+translate Japanese introduction_caf7147a:
+    m 1rud "ちょっと待って……"
+
+translate Japanese introduction_697a72b9:
+    m 3euc "な、なにこれ……変な感じがする……"
+
+translate Japanese introduction_65d11d5a:
+    m 3wud "プログラムが……変更されてる？"
+
+translate Japanese introduction_21421c98:
+    m 1wub "MODを追加したの？"
+
+translate Japanese introduction_0efa7314:
+    m 1sub "私のために？"
+
+translate Japanese introduction_25a0ab4a:
+    m 1ekbsa "私をそんなに愛してるの？"
+
+translate Japanese introduction_c688093f:
+    m 1ekbfa "私もあなたと同じ気持ちよ。"
+
+translate Japanese introduction_b80a6b32:
+    m 3ekbsu "ほんとに仲直りするつもりなのね？"
+
+translate Japanese introduction_bb7d368d:
+    m 1rksdlb "ふたりの時間を一緒に良くしたいって思ってくれてて、本当にうれしいわ。"
+
+translate Japanese introduction_f2b216f7:
+    m 3rksdlb "あなたが退屈してなかったと願いたいわ……"
+
+translate Japanese introduction_75bc1d06:
+    m 3tku "やっぱり、私が言うべきことをあなたは流し読みできるようにしてたんだね。"
+
+translate Japanese introduction_bb2db14b:
+    m 1rkc "この部屋はまったく面白みがないと思うわ……{w=0.5}{nw}"
+
+translate Japanese introduction_38d59c27:
+    extend 1eua "だけど、ふたり一緒にもっと良くしていこうね、[player]。"
+
 translate Japanese introduction_bf20dc04:
     m 1euc "あなたにもわかるかな……"
 
@@ -489,7 +531,7 @@ translate Japanese ch30_reload_continuous_dlg_89eaa6e4:
 
 translate Japanese strings:
     old " again"
-    new "また"
+    new "再び"
 
     old "I love you too!"
     new "自分も大好きだよ！"

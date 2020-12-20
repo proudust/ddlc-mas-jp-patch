@@ -1,11 +1,11 @@
 translate Japanese monika_brb_idle_bd219ce5:
-    m 1eua "その通りよ､[player]君｡"
+    m 1eua "その通りよ、[player]君｡"
 
 translate Japanese monika_brb_idle_50022090:
     m 1hub "早く帰ってきてね～ ここで待ってるからね～。"
 
 translate Japanese monika_brb_idle_fec6ff17:
-    m 1hub "[player]君､早く戻ってきて！"
+    m 1hub "[player]君、早く戻ってきて！"
 
 translate Japanese monika_brb_idle_c154e67b:
     m 2rsc "あー、{w=1} いいわ。"
