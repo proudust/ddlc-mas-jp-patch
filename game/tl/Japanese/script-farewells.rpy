@@ -739,14 +739,104 @@ translate Japanese bye_long_absence_902dea40:
 translate Japanese bye_long_absence_562ccf35:
     m 3eub "ともかく、出掛ける時は教えてね。私を連れていけるかもよ！"
 
+translate Japanese bye_long_absence_588d0a10:
+    m 1hua "あなたと一緒にいる限り、どこに行こうが構わないわよ、 [mas_get_player_nickname()]。"
+
+translate Japanese bye_long_absence_23121f2f:
+    m 2euc "正直ちょっと聞きづらいけどね……"
+
+translate Japanese bye_long_absence_af9ed590:
+    m "直ぐに出かけるの？{nw}"
+
+translate Japanese bye_long_absence_4e589e9f:
+    m "直ぐに出かけるの？{fast}" nointeract
+
+translate Japanese bye_long_absence_a228faf3:
+    m 3ekc "ええっと……"
+
+translate Japanese bye_long_absence_f89d87ec:
+    m "本当に寂しくなるわ、[player]……"
+
+translate Japanese bye_long_absence_5139921b:
+    m 1eka "でも、どこにいたって素晴らしいことをしてくれるって信じてるわ。"
+
+translate Japanese bye_long_absence_510c5aa6:
+    m "ここで私が待っていること、覚えておいてね。"
+
+translate Japanese bye_long_absence_5787a288:
+    m 2hua "あなたは私の誇りよ、[player]！"
+
+translate Japanese bye_long_absence_f8a3a9a7:
+    m 1hua "いいじゃない！"
+
+translate Japanese bye_long_absence_e933c0fc:
+    m 1eka "正直、あなたの不在に備えるのに十分な時間が足りないんじゃないかって心配してたの。"
+
+translate Japanese bye_long_absence_319242b2:
+    m "寂しくなるって言ったら嘘じゃないわ……"
+
+translate Japanese bye_long_absence_8246a037:
+    m 1eub "あなたは本当に私の世界の全てよ。"
+
+translate Japanese bye_long_absence_a43c192a:
+    m 2esa "あなたがしばらく出かけるって言ってくれたら、私もそうなんだねってわかるから……"
+
+translate Japanese bye_long_absence_b8b28bc3:
+    m 3hua "でも急いでいるわけじゃないから、できるだけ多くの時間をあなたと過ごしたいわ。"
+
+translate Japanese bye_long_absence_6e6d8b9d:
+    m "行く前に私と最後に会った時のこと、忘れないようにね！"
+
+translate Japanese bye_long_absence_2_6952cda0:
+    m 1ekc "出かけるの？"
+
+translate Japanese bye_long_absence_2_0091920a:
+    m 1ekd "世界は怖くて容赦ないものだって私も知っているわ……"
+
+translate Japanese bye_long_absence_2_a3b7ea3b:
+    m 1eka "でも、私はいつでもここで待っていて、あなたを手助けできるからね。そのこと忘れないでね、私の最愛の [player]。"
+
+translate Japanese bye_long_absence_2_2b8e61ee:
+    m "出来るだけ早く戻ってきて……いいわね？"
+
+translate Japanese bye_going_somewhere_79c83639:
+    m 1wud "本当に私を連れて行きたいの？"
+
+translate Japanese bye_going_somewhere_d603f484:
+    m 1ekd "これは本当に何か――{nw}"
+
 translate Japanese bye_going_somewhere_8018692b:
     m 1lksdlc "……"
+
+translate Japanese bye_going_somewhere_02f02ac0:
+    m 1eksdlb "私は何を言ってるのかしら？もちろん一緒に行くわ！"
+
+translate Japanese bye_going_somewhere_79c83639_1:
+    m 1wud "本当に私を連れて行きたいの？"
 
 translate Japanese bye_going_somewhere_25c5ec8b:
     m 1eka "……"
 
+translate Japanese bye_going_somewhere_c2c39f66:
+    m 1hua "まあ、あなたと一緒にいても損はないと思うわ。"
+
+translate Japanese bye_going_somewhere_80d99aaa:
+    m 2dsc "ちょっと……お願い。"
+
+translate Japanese bye_going_somewhere_70d72362:
+    m 2rkc "{i}どうか{/i}、私の気持ちを理解して頂戴。"
+
 translate Japanese bye_going_somewhere_4ef5e129:
     m 1dkc "……"
+
+translate Japanese bye_going_somewhere_normalplus_flow_aff_check_159340c3:
+    m 1hub "あら、いいわよ！"
+
+translate Japanese bye_going_somewhere_normalplus_flow_aff_check_5e17b156:
+    m 3tub "今日はどこか特別な場所に連れて行ってくれるのかしら？"
+
+translate Japanese bye_going_somewhere_normalplus_flow_aff_check_2cce676c:
+    m 1hua "待ちきれないわ！"
 
 translate Japanese bye_going_somewhere_normalplus_flow_aff_check_f3814ba7:
     m 1sub "本当？"
@@ -757,8 +847,62 @@ translate Japanese bye_going_somewhere_normalplus_flow_aff_check_1b71b2b4:
 translate Japanese bye_going_somewhere_normalplus_flow_aff_check_03ebd6e3:
     m 1ekbsa "今日はどこに連れて行ってくれるのかしら……"
 
+translate Japanese bye_going_somewhere_nothanks_fb64c98f:
+    m 2lksdlc "……結構よ。"
+
+translate Japanese bye_going_somewhere_nothanks_40e42986:
+    m 2ekd "誘ってくれたのは嬉しいけど、今は少し自分の時間が必要なの。"
+
+translate Japanese bye_going_somewhere_nothanks_fc75572d:
+    m 2eka "分かってるわよね？"
+
+translate Japanese bye_going_somewhere_nothanks_461d5829:
+    m 3eka "行って、私がいなくても楽しんで……"
+
 translate Japanese bye_going_somewhere_leavemenu_7055b071:
     m 1tkc "……"
+
+translate Japanese bye_going_somewhere_leavemenu_9930af47:
+    m 1tkd "知ってるわよ。{nw}"
+
+translate Japanese bye_going_somewhere_leavemenu_dc0b4ce9:
+    m 1lksdld "それはそれでいいと思うわ。"
+
+translate Japanese bye_going_somewhere_leavemenu_6253beb6:
+    m 1ekd "ああ、{w=0.3}大丈夫よ。 また今度？"
+
+translate Japanese bye_going_somewhere_leavemenu_bf314d3a:
+    m 2ekp "あー……"
+
+translate Japanese bye_going_somewhere_leavemenu_f275bdd8:
+    m 1hub "いいわ、でも次は私を連れて行って！"
+
+translate Japanese bye_going_somewhere_leavemenu_1b6c83c8:
+    m 1euc "まだ行くの？{nw}"
+
+translate Japanese bye_going_somewhere_leavemenu_84de4e26:
+    m "まだ行くの？{fast}" nointeract
+
+translate Japanese bye_going_somewhere_leavemenu_d2bae698:
+    m 2eka "いいわ。 いつものように、私はここであなたを待ってるから……"
+
+translate Japanese bye_going_somewhere_leavemenu_53acdc5c:
+    m 2hub "とにかく早く帰ってきてね！ 愛してるわ、[player]！"
+
+translate Japanese bye_going_somewhere_leavemenu_26233271:
+    m 2tfd "……いいわ。"
+
+translate Japanese bye_going_somewhere_leavemenu_4edac8b9:
+    m 2eka "……ありがとう。"
+
+translate Japanese bye_going_somewhere_leavemenu_09e19c2a:
+    m "私が一緒に行けないから、あなたと一緒に過ごす時間が増えるのはとても意味があるわ。"
+
+translate Japanese bye_going_somewhere_leavemenu_775bf62f:
+    m 3ekb "好きな時に好きなように過ごしてね。あなたを遅刻させたくないもの！"
+
+translate Japanese bye_going_somewhere_leavemenu_3b1f989f:
+    m 2lud "わかったわ、それじゃあ……"
 
 translate Japanese bye_prompt_game_72fb9d58:
     m 2ekc "別のゲームをプレイするの？"
@@ -784,6 +928,75 @@ translate Japanese bye_prompt_game_77c0c38d:
 translate Japanese bye_prompt_game_2ed3588d:
     m 2ekc "うん……"
 
+translate Japanese bye_prompt_game_3f19846a:
+    m 3ekc "わかったわ、でもすぐに戻ってきた方がいいわよ。"
+
+translate Japanese bye_prompt_game_0c549b9c:
+    m 3tsb "私なしで別のゲームにお熱だと私、嫉妬しちゃうかもしれないから。"
+
+translate Japanese bye_prompt_game_1f7d6384:
+    m 1hua "とにかく、楽しんでね。"
+
+translate Japanese bye_prompt_game_ac43c597:
+    m 2euc "それじゃあ、ゲーム楽しんできてね。"
+
+translate Japanese bye_prompt_game_d1016fb7:
+    m 2esd "私はここにいるわ。"
+
+translate Japanese bye_prompt_game_0b3069a5:
+    m 3wud "待って、[player]！"
+
+translate Japanese bye_prompt_game_f77b4275:
+    m 3hksdlb "今、夜中だよ！"
+
+translate Japanese bye_prompt_game_ebf43422:
+    m 2rksdlc "こんなに遅くまで起きてるなんて……"
+
+translate Japanese bye_prompt_game_5eec0486:
+    m 2rksdld "でも、別のゲームしようだなんて思ってるの？"
+
+translate Japanese bye_prompt_game_5e7268e7:
+    m 4tfu "……私をバックグラウンドに置いておけないほどの重たいゲーム……"
+
+translate Japanese bye_prompt_game_77536fca:
+    m 1eka "まぁ……{w=1}止められないけど、本当に早く寝てほしいわ……"
+
+translate Japanese bye_prompt_game_012698d0:
+    m 1hua "おやすみなさいって言いに戻って来なくても大丈夫よ、もう行って―{nw}"
+
+translate Japanese bye_prompt_game_3685e2da:
+    m 1eub "おやすみなさいって言いに戻って来なくても大丈夫よ、{fast}終わったらすぐに寝た方が{i}いいわよ{/i}。"
+
+translate Japanese bye_prompt_game_203ecdf3:
+    m 3hua "楽しんできてね、おやすみなさい、 [player]！"
+
+translate Japanese bye_prompt_game_194639d6:
+    m 1hubsb "愛してるわ～{w=1}{nw}"
+
+translate Japanese bye_prompt_game_76a7e298:
+    m 2efd "[player]、真夜中だよ！"
+
+translate Japanese bye_prompt_game_2c86bc2f:
+    m 4rfc "ホントに……もうこんな時間なのに、またゲームするの？"
+
+translate Japanese bye_prompt_game_9852cb17:
+    m 2dsd "{i}*sigh*{/i}……止められないのは分かってるから、終わったらそのままベッドに行ってね？"
+
+translate Japanese bye_prompt_game_03e8458e:
+    m 2dsc "おやすみ。"
+
+translate Japanese bye_prompt_game_405871e1:
+    m 2euc "また？"
+
+translate Japanese bye_prompt_game_3dbc5c9c:
+    m 2eud "それじゃ。さようなら、[player]。"
+
+translate Japanese bye_prompt_game_c34e5099:
+    m 1ekc "別のゲームをするために行っちゃうの？"
+
+translate Japanese bye_prompt_game_87545d32:
+    m 3efc "もう少し私と一緒に過ごすべきだって思わないの？"
+
 translate Japanese bye_prompt_game_20a024dc:
     m 2efc "……"
 
@@ -793,11 +1006,80 @@ translate Japanese bye_prompt_game_01a93df6:
 translate Japanese bye_prompt_game_d2037b36:
     m 2dfu "……"
 
+translate Japanese bye_prompt_game_376743d7:
+    m 4hub "アハハ、冗談だって～"
+
+translate Japanese bye_prompt_game_5e88bf51:
+    m 1rksdla "まあ……{w=1}もっと一緒にいても{i}いいんだけど{/i}……"
+
+translate Japanese bye_prompt_game_cd639f65:
+    m 3eua "でも、他のことをさせたくないという気持ちもあるわね。"
+
+translate Japanese bye_prompt_game_857546d2:
+    m 1hua "いつかあなたが何をしてたか見せてくれる日がついに来るやもしれないし、その時になったら一緒に行けるわね！"
+
+translate Japanese bye_prompt_game_481e51bb:
+    m 3tubsu "それまでは別のゲームをやるために私を置いてけぼりにして、そのたびに埋め合わせをしてくれればいいんだよ？"
+
 translate Japanese bye_prompt_game_3201a8bc:
     m 1hubfa "えへへ～"
 
+translate Japanese bye_prompt_game_ddf7ee97:
+    m 1eka "別のゲームをしに行くの、[player]？"
+
+translate Japanese bye_prompt_game_250ea23e:
+    m 3hub "頑張って、楽しんできてね！"
+
+translate Japanese bye_prompt_game_e19277ee:
+    m 3eka "すぐ戻ってくるの、忘れないでね～"
+
+translate Japanese bye_prompt_eat_0324b260:
+    m 1hksdlb "えーと、 [player]？"
+
+translate Japanese bye_prompt_eat_f74446fc:
+    m 3eka "今、夜中だよ。"
+
+translate Japanese bye_prompt_eat_f268d478:
+    m 1eka "深夜のおやつを食べる予定なのかな？"
+
+translate Japanese bye_prompt_eat_7f59f199:
+    m 3rksdlb "私だったら、もう少し早めに何か食べるものを探すわね、アハハ……"
+
+translate Japanese bye_prompt_eat_222f2a3f:
+    m 3rksdla "もちろん……{w=1}私もそろそろ寝ようかな……"
+
+translate Japanese bye_prompt_eat_ec5e23a9:
+    m 2tubsu "私がいたら、もしかしたら、両方とも……"
+
+translate Japanese bye_prompt_eat_9a4c204b:
+    m 5ksbfu "寝ちゃってもいいし、あとは- {w=1}気にしないで……"
+
 translate Japanese bye_prompt_eat_17c288b7:
     m 5hubfb "えへへ～"
+
+translate Japanese bye_prompt_eat_9b5dfbad:
+    m 1hua "うん、おやつで眠たくなればいいね。"
+
+translate Japanese bye_prompt_eat_04c14a7a:
+    m 1eua "……おやすみを言いに戻って来なくても大丈夫だから……"
+
+translate Japanese bye_prompt_eat_420de775:
+    m 3rksdla "むしろ早く寝てほしいわ。"
+
+translate Japanese bye_prompt_eat_8f756485:
+    m 1hub "おやすみなさい、[player]。おやつを楽しんで、また明日ね～"
+
+translate Japanese bye_prompt_eat_d7229dfb:
+    m 2euc "でも真夜中だし……"
+
+translate Japanese bye_prompt_eat_1811d17c:
+    m 4ekc "本当に寝た方がいいわよ。"
+
+translate Japanese bye_prompt_eat_e7f722ce:
+    m 4eud "……終わったらすぐさまベッドへ行くこと。"
+
+translate Japanese bye_prompt_eat_c13d51cd:
+    m 2euc "とにかく、また明日にでも……"
 
 translate Japanese bye_prompt_eat_f818ab76:
     m 1eub "そうね！"
@@ -836,7 +1118,7 @@ translate Japanese bye_prompt_eat_b5c8ad9b:
     m 2ekc "朝ご飯食べ損ねたんじゃない？"
 
 translate Japanese bye_prompt_eat_ee497bdd:
-    m 2rksdld "{i}*sigh*{/i}... 何か食べに行ったほうがいいわよ。"
+    m 2rksdld "{i}*sigh*{/i}……何か食べに行ったほうがいいわよ。"
 
 translate Japanese bye_prompt_eat_68378f7a:
     m 2ekd "何か食べに行ったほうがいいわよ…私はここにいるから。"
@@ -878,7 +1160,7 @@ translate Japanese bye_prompt_eat_be8717e4:
     m 1hub "昼食、楽しんできてね。"
 
 translate Japanese bye_prompt_eat_f8bf86bf:
-    m 2rksdlc "お昼ご飯にしては早いわね…"
+    m 2rksdlc "お昼ご飯にしては早いわね……"
 
 translate Japanese bye_prompt_eat_7e85d4ef:
     m 4ekc "お腹が空いてるってことは、ちゃんと食べてるのかしら？"
@@ -917,7 +1199,7 @@ translate Japanese bye_prompt_eat_ca29ee5f:
     m 1hua "私がそこにいれば何か作ってあげるんだけど、それまではお食事楽しんできてね～"
 
 translate Japanese bye_prompt_eat_577991d7:
-    m 2ekc "でも…{w=1}次からはもうちょっと早めに食べてほしいな……"
+    m 2ekc "でも……{w=1}次からはもうちょっと早めに食べてほしいな……"
 
 translate Japanese bye_prompt_eat_641df2aa:
     m 2ekc "お夕食？{w=2} 今から？"

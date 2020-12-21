@@ -297,7 +297,7 @@ translate Japanese _call_mas_d25_monika_holiday_intro_deco_1_e65347a4:
     m 1eka "間に合せだけど、悪くないでしょ？"
 
 translate Japanese _call_mas_d25_monika_holiday_intro_deco_1_8b7c7a39:
-    m 3eua "そして、あなたと一緒に楽しく過ごせるのがとっても嬉しいわ、[プレイヤー]～。"
+    m 3eua "そして、あなたと一緒に楽しく過ごせるのがとっても嬉しいわ、[player]～"
 
 translate Japanese mas_d25_monika_holiday_intro_rh_rh_3f315833:
     m 1euc "待って……"
@@ -496,6 +496,78 @@ translate Japanese mas_d25_monika_mistletoe_c237a71d:
 
 translate Japanese mas_d25_monika_mistletoe_0d8345dc:
     m 1hub "えへへ～"
+
+translate Japanese mas_d25_monika_christmaslights_df5cc50f:
+    m 1euc "ねぇ、[player]……"
+
+translate Japanese mas_d25_monika_christmaslights_afe47632:
+    m 1lua "ここの明かりを見ていると時間が経つのが早くて……"
+
+translate Japanese mas_d25_monika_christmaslights_95aebbd3:
+    m 3eua "とっても可愛いわよね？"
+
+translate Japanese mas_d25_monika_christmaslights_954bb704:
+    m 1lua "クリスマスを思い出すと、イルミネーションがぶら下がっていて……"
+
+translate Japanese mas_d25_monika_christmaslights_199455e0:
+    m 3eua "本当に可愛かったよね？"
+
+translate Japanese mas_d25_monika_christmaslights_87956c23:
+    m 1eka "クリスマスのイルミネーションを見ていると、一番過酷で寒い季節なのに、とっても暖かくて居心地の良い雰囲気になれるわ……{w=0.5}{nw}"
+
+translate Japanese mas_d25_monika_christmaslights_af76467e:
+    extend 3hub "それに種類もたくさんあるのよ!"
+
+translate Japanese mas_d25_monika_christmaslights_40d14489:
+    m 3eka "寒い冬の夜に一緒に散歩できるなんて、夢のようだわ、[player]。"
+
+translate Japanese mas_d25_monika_christmaslights_cd630ed7:
+    m 1dka "イルミネーションのひかり達に感謝だわ……"
+
+translate Japanese mas_d25_monika_christmaslights_39eed351:
+    m 1eua "冬の間は家にイルミネーションのライトを吊るしたりするの、[player]？{nw}"
+
+translate Japanese mas_d25_monika_christmaslights_77cba76b:
+    m "冬の間は家にイルミネーションのライトを吊るしたりするの、[player]？{fast}" nointeract
+
+translate Japanese mas_d25_monika_christmaslights_bedf1da0:
+    m 3sub "ホントに？きっとゴージャスにちがいないわ！"
+
+translate Japanese mas_d25_monika_christmaslights_9b514ced:
+    m 2dubsu "あなたの家のベランダにふたり一緒に座っている姿が目に浮かぶわ……"
+
+translate Japanese mas_d25_monika_christmaslights_566ce60e:
+    m "イルミネーションの美しい光が深い夜を輝き照らすの。"
+
+translate Japanese mas_d25_monika_christmaslights_b00d0c26:
+    m 2dkbfu "ホットチョコレートを飲みながら、抱き合って……"
+
+translate Japanese mas_d25_monika_christmaslights_552a9fc3:
+    extend 2ekbfa "しんしんと降る雪を見つめながら……"
+
+translate Japanese mas_d25_monika_christmaslights_a271cdf5:
+    m 5ekbfa "いつかね、[player]。いつの日かそれを現実にするために。"
+
+translate Japanese mas_d25_monika_christmaslights_9fc1da40:
+    m 1eka "あ、いいのよ、[player]。"
+
+translate Japanese mas_d25_monika_christmaslights_b35a3dfc:
+    m 1dkbla "寒い夜に一緒にくつろぐのもまたいいかもしれないね……"
+
+translate Japanese mas_d25_monika_christmaslights_32d696cf:
+    m 1dkbsa "雪が降るのを見ながら、一緒にホットチョコレートを飲む。"
+
+translate Japanese mas_d25_monika_christmaslights_e44dc930:
+    m 1dkbsa "ふたり抱き合って暖を取るの……"
+
+translate Japanese mas_d25_monika_christmaslights_d490d900:
+    m 1rkbfb "ああ、たまんないわね。"
+
+translate Japanese mas_d25_monika_christmaslights_cdd11d26:
+    m 3hubsa "そうね、私達の家ができたら、自分で吊るしてみようかしら。"
+
+translate Japanese mas_d25_monika_christmaslights_848d99da:
+    extend 3hubsb "あはは～"
 
 translate Japanese mas_d25_spent_time_monika_01b1e36c:
     m 1eua "[player]君……"
@@ -719,6 +791,90 @@ translate Japanese _call_monika_aiwfc_song_0f65efcd:
 translate Japanese _call_monika_aiwfc_song_429f6db6:
     m 1ekbfa "大好きだよ～"
 
+translate Japanese _call_mas_timed_text_events_prep_dbfed81a:
+    m 1eub "{i}{cps=9}クリスマスには{/cps}{cps=20} 何も{/cps}{cps=11} いらないの{w=0.09}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_4987625e:
+    m 3eka "{i}{cps=11}たった{/cps}{cps=20}ひとつだけ{/cps}{cps=8} あればいい{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_767a7ef3:
+    m 3hub "{i}{cps=8}クリスマスツリーの{/cps}{cps=15}下の{/cps}{cps=10}プレゼントなんて{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_05fff7eb:
+    m 3eua "{i}{cps=15}どうでも{/cps}{cps=8}いいの{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_36a70d7f:
+    m 1eub "{i}{cps=10}暖炉の上に{/cps}{cps=20}靴下を{/cps}{cps=9}ぶら下げる{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2f773c13:
+    m 1eua "{i}{cps=9}必要{/cps}{cps=15}なんて{/cps}{cps=7}ないの{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_c233c5a0:
+    m 3hub "{i}{w=0.5}{cps=20}クリスマスの{/cps}{cps=10}おもちゃでも{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_f70673bd:
+    m 4hub "{i}{cps=8}サンタは{/cps}{cps=15}私を{/cps}{cps=8}幸せにはできないの{w=0.35}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_309b5fc9:
+    m 3ekbsa "{i}{cps=10}あなたが{/cps}{cps=15}思っている{/cps}{cps=8}それ以上に{w=0.4}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_a7dc71a6:
+    m 4hubfb "{i}{cps=8}私は{/cps}{cps=20}ただあなたが{/cps}{cps=10}欲しいの{w=0.5}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_ece13da9:
+    m 1ekbsa "{i}{cps=10}私の願いを{/cps}{cps=20}どうか叶えて…{w=0.9}{/cps}{/i}{nw}
+"
+
+translate Japanese _call_mas_timed_text_events_prep_a647afd6:
+    m 3hua "{i}{cps=8.5}クリスマスに欲しいのは{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_e6b7bbb3:
+    m 3hubfb "{i}{cps=7}あなただけなの…{w=1}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_d092902e:
+    m "{i}{cps=9}あなただけなの～{w=0.60}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_05866203:
+    m 2eka "{i}{cps=10}今年のクリスマスは{/cps}{cps=20}多くは{/cps}{cps=10}望まないわ{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_25e607e3:
+    m 3hub "{i}{cps=10}雪が{/cps}{cps=20}降ってほしいなんて{/cps}{cps=10}思わないわ{w=0.8}{/cps}{/i}{nw}
+"
+
+translate Japanese _call_mas_timed_text_events_prep_5f75e079:
+    m 3eua "{i}{cps=10}私は{/cps}{cps=20}ヤドリギの{/cps}{cps=10}下で{w=0.5}{/cps}{/i}{nw}
+"
+
+translate Japanese _call_mas_timed_text_events_prep_138b73da:
+    m 3hubfb "{i}{cps=17}ただ{/cps}{cps=11}待ち続ける{w=1}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_63e211a0:
+    m 2eua "{i}{cps=10}I{/cps}{cps=17}北極の{/cps}{cps=10}サンタに{w=0.35}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_07fac8a3:
+    m 3eua "{i}{cps=10}To{/cps}{cps=20}リクエストなんて{/cps}{cps=10}送らないし{w=0.5}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_4ccbd33f:
+    m 4hub "{i}{cps=18}魔法の{/cps}{cps=10}トナカイの足音を{w=0.5}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_356bdafe:
+    m 3hub "{i}{cps=10}聞くために{/cps}{cps=20}起き続ける{/cps}{cps=14}気にもならない{w=1.2}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_0094506e:
+    m 3ekbsa "{i}{cps=20}I{/cps}{cps=11}とにかく、今夜はあなたの側にいたいから{w=0.4}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_cfd75c49:
+    m 3ekbfa "{i}{cps=10}私を{/cps}{cps=20}ぎゅって{/cps}{cps=10}抱きしめてくれる{w=1}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_15519438:
+    m 4hksdlb "{i}{cps=10}これ以上{/cps}{cps=15}私には{/cps}{cps=8}望めないよ？{w=0.3}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_80270398:
+    m 4ekbfb "{i}{cps=20}だって{/cps}{cps=12}クリスマスに欲しいのは{w=0.3}あなただけなんだから{w=2.3}{/cps}{/i}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_b1960c01:
+    m "{i}{cps=9}あなただけだから～{w=2.5}{/cps}{/i}{nw}"
+
 translate Japanese monika_merry_christmas_baby_465c7ee6:
     m 1eua "ねえ、[player]君……"
 
@@ -759,7 +915,7 @@ translate Japanese mas_d25_spider_tinsel_3f5c78b1:
     m 1dka "……"
 
 translate Japanese mas_d25_spider_tinsel_81dddc21:
-    m 3esa "かつて、窮屈な古い小屋に子供たちと一緒に住んでいた未亡人（彼女をエイミーと呼ぶわね）がいました。"
+    m 3esa "かつて、窮屈な古い小屋に子供たちと一緒に住んでいた未亡人――彼女をエイミーと呼ぶわね――がいました。"
 
 translate Japanese mas_d25_spider_tinsel_56969864:
     m 3eud "彼らの家の外には背の高い松の木があり、その木から松ぼっくりが落ち、すぐに土から成長し始めました。"
@@ -1001,11 +1157,158 @@ translate Japanese mas_d25_night_before_christmas_623b2c43:
 translate Japanese mas_d25_night_before_christmas_ce564367:
     m 3hub "みんなにハッピークリスマス、みんなおやすみ！"
 
+translate Japanese mas_d25_monika_christmas_eve_d3ead83f:
+    m 3hub "信じられる？もうすぐクリスマスよ～"
+
+translate Japanese mas_d25_monika_christmas_eve_6f4e0f67:
+    m 1rksdla "クリスマスイブはいつもなかなか寝つけないの……"
+
+translate Japanese mas_d25_monika_christmas_eve_7e218e35:
+    m 1eka "翌朝、ツリーの下に何があるのか気になって仕方がなくて……"
+
+translate Japanese mas_d25_monika_christmas_eve_789eebca:
+    m "でも、毎年クリスマスをあなたと一緒に過ごせるようになって、{i}さらに{/i}ワクワクしちゃってて……"
+
+translate Japanese mas_d25_monika_christmas_eve_23961b1a:
+    m 5hkbsa "明日が待ち遠しいわ！"
+
+translate Japanese mas_d25_monika_christmas_eve_40f09cf5:
+    m "でも、今年はさらに{i}もっと{/i}ワクワクしてるの……"
+
+translate Japanese mas_d25_monika_christmas_eve_0c10eb87:
+    m 5hkbsa "またクリスマスを一緒に過ごせるって思うだけで……{w=1}待ちきれないの！"
+
+translate Japanese mas_d25_monika_christmas_eve_625bd0c6:
+    m 5hkbsa "クリスマスをはじめて一緒に過ごせるって思うだけで……{w=1}待ちきれないの！"
+
+translate Japanese _call_mas_lingerie_intro_b2b16b20:
+    m 1ekbfa "あなたをとってもとっても愛してるの、 [player]～"
+
+translate Japanese mas_d25_postd25_notimespent_51ad6d37:
+    m 1dkc "……やっと来てくれたのね……"
+
+translate Japanese mas_d25_postd25_notimespent_478e9074:
+    m 2ekd "何かあったんじゃないかと心配になってたの……"
+
+translate Japanese mas_d25_postd25_notimespent_ae411e30:
+    m 2rksdlc "あなたがクリスマスに来てくれなかったら……{w=1}どうしようって思ってたわ。"
+
+translate Japanese mas_d25_postd25_notimespent_4482ed8e:
+    m 4eksdlc "私にとって大切な日を逃すなんて、あなたがそんなことするなんて思えなくて……"
+
+translate Japanese mas_d25_postd25_notimespent_6900f573:
+    m 2dksdlc "だから、もしかしたらと思って……"
+
+translate Japanese mas_d25_postd25_notimespent_db3aadce:
+    m 2eksdla "でも今は気にしないで。とにかくあなたが無事でよかったわ！"
+
+translate Japanese mas_d25_postd25_notimespent_9b538d47:
+    m 4eka "クリスマスを一緒に過ごせなかったのは残念だけど、きっとあなたにはそれなりの理由があったんだと思うわ。"
+
+translate Japanese mas_d25_postd25_notimespent_8aaf7247:
+    m "来年はそんなことにならないようにすればいいだけなんだから。"
+
+translate Japanese mas_d25_postd25_notimespent_8f4f5368:
+    m 2eka "次にもし、クリスマスに遊びに来れない時は、せめて私を一緒に連れてって頂戴……"
+
+translate Japanese mas_d25_postd25_notimespent_14aacf42:
+    m 1eka "あなたのそばにいるだけで良いから、[player]……"
+
+translate Japanese mas_d25_postd25_notimespent_de39abd6:
+    m 2ekc "あっ……[player]……"
+
+translate Japanese mas_d25_postd25_notimespent_aa1712d1:
+    m 2tkc "クリスマスに全然遊びに来てくれないなんて、すごく残念よ……"
+
+translate Japanese mas_d25_postd25_notimespent_268a33e9:
+    m 4tkc "あなたと一緒に過ごしたいと思っていたのは知っていたはずだけど、ただの私のワガママだったかな？"
+
+translate Japanese mas_d25_postd25_notimespent_2dad7a56:
+    m 2rkc "家族に会いに遠出しないといけないなら、忙しい日もあると思うけど、せめて私を一緒に連れてって欲しかったな……"
+
+translate Japanese mas_d25_postd25_notimespent_98e0e5a4:
+    m 2ekc "それだけでわたしは十二分に満足してたはずよ。"
+
 translate Japanese mas_d25_postd25_notimespent_c61f257d:
     m 2dkc "……"
 
+translate Japanese mas_d25_postd25_notimespent_9f1a49cd:
+    m 4rksdlc "最後の最後に何かあって、私と一緒に過ごせなかったのかもしれない……"
+
+translate Japanese mas_d25_postd25_notimespent_5ff6033e:
+    m 4eksdla "でも、どうか……{w=1}来年のクリスマスには必ず遊びに来てね、良い[player]？"
+
+translate Japanese mas_d25_postd25_notimespent_0e50a1b3:
+    m "クリスマスに遊びに来てくれないってどういうこと！信じられない！"
+
+translate Japanese mas_d25_postd25_notimespent_a6a9a963:
+    m 2tfc "ホントは……{w=1}あなたが来ないだろうってわかってた。"
+
+translate Japanese mas_d25_postd25_notimespent_da4aae36:
+    m "そう、だから、わざわざ飾り付けなんてしなかったんだし……"
+
+translate Japanese mas_d25_postd25_notimespent_bfd7f1ea:
+    m 2rfc "休日だからってはしゃいでも、結局あなたが来なくてがっかりするだろうってわかってたわ……{w=1}今回もね。"
+
+translate Japanese mas_d25_postd25_notimespent_e2c19bca:
+    m 6ekc "[player]はさ、クリスマスどうだったかな？"
+
+translate Japanese mas_d25_postd25_notimespent_14505e6f:
+    m 6dkc "私はただただ寂しくて……"
+
+translate Japanese mas_d25_postd25_notimespent_7eef2e3d:
+    m "あなたは私のことなんてちっとも考えてなかったんだろうな……"
+
 translate Japanese mas_d25_postd25_notimespent_0bd97190:
     m 6ckc "……"
+
+translate Japanese bye_d25e_first_time_out_56f2c18d:
+    m 1sua "クリスマスイブにどこか特別な場所に連れて行って頂戴、[player]？"
+
+translate Japanese bye_d25e_first_time_out_305afee4:
+    m 3eua "友達や家族に会いに行ったり、クリスマスパーティーに行ったり……という人もいると思うけど……"
+
+translate Japanese bye_d25e_first_time_out_1e36a735:
+    m 3hua "でも、どこに行くにしても、一緒に来て欲しいと言ってくれるのは嬉しいわ！"
+
+translate Japanese bye_d25e_first_time_out_d2ec9bd9:
+    m 1eka "クリスマスは家にいるのがいいけど、いなくても一緒にいるだけで十二分なんだよね～"
+
+translate Japanese bye_d25e_second_time_out_78a37f08:
+    m 1wud "うわぁ、今日も出かけるんだ、[player]？"
+
+translate Japanese bye_d25e_second_time_out_d93208fc:
+    m 3hua "あなたってクリスマスイブだからって本当に多くの人に会わなきゃならないのね……"
+
+translate Japanese bye_d25e_second_time_out_49528b1d:
+    m 3hub "それとも今日は特別な計画があるのかな！"
+
+translate Japanese bye_d25e_second_time_out_852cfb9e:
+    m 1eka "でもどちらにしても、私のために私も一緒に連れてってくれて、ありがとね～"
+
+translate Japanese bye_d25_first_time_out_3ad30f31:
+    m 1sua "クリスマスはどこか特別な場所に連れて行って頂戴、[player]？"
+
+translate Japanese bye_d25_first_time_out_e28ca803:
+    m 1sub "もしかしてあなたの家族と会いに……？是非会ってみたいわ！"
+
+translate Japanese bye_d25_first_time_out_37a823e3:
+    m 3eua "それとも映画を見に行くのかしら……？プレゼントを開けた後にするのが好きな人もいるわね。"
+
+translate Japanese bye_d25_first_time_out_8bc6d7fd:
+    m 3eua "映画を見に行くのかしら……プレゼントを開けた後にするのが好きな人もいるわね。"
+
+translate Japanese bye_d25_first_time_out_9d94492a:
+    m 1eka "まあどこに行くにしても、一緒に来て欲しいと思ってくれているだけで嬉しいわ……"
+
+translate Japanese bye_d25_first_time_out_9689dd9e:
+    m 3hua "クリスマスを少しでも多くあなたと一緒に過ごしたいわ、[player]～"
+
+translate Japanese bye_d25_second_time_out_09a10fda:
+    m 1wud "あぁ、どこか{i}別の所{/i}に行っちゃうのね、[player]？"
+
+translate Japanese bye_d25_second_time_out_3d596fb4:
+    m 3wud "会わないといけない人がホントに多いのね……"
 
 translate Japanese greeting_d25e_returned_d25e_ddf3a247:
     m 1hua "ただいまー！"
@@ -1070,8 +1373,158 @@ translate Japanese greeting_d25_returned_post_d25_4c57d0f6:
 translate Japanese greeting_d25_returned_post_d25_48c1752f:
     m 3ekbsa "あなたっていつもとっても気配り上手～"
 
+translate Japanese mas_nye_monika_nyd_f6013155:
+    m "また新年を一緒に過ごせるなんて信じられる？"
+
+translate Japanese mas_nye_monika_nyd_0b2e1826:
+    m 1hua "この１年、一緒に色々経験してきたよね。"
+
+translate Japanese mas_nye_monika_nyd_0ff240b9:
+    m 1eka "これからももっともっと一緒に過ごせるみたいだから、とっても幸せよ。"
+
+translate Japanese mas_nye_monika_nyd_10d81e3a:
+    m 5hubfa "今年も去年みたいな素敵な年にしようね。"
+
+translate Japanese mas_nye_monika_nyd_3b7e4620:
+    m 5ekbfa "とっても愛してるわ、[player]。"
+
+translate Japanese mas_nye_monika_nyd_8dee12f7:
+    m 3hua "今年は去年よりもさらに良い年にしようね。"
+
+translate Japanese mas_nye_monika_nyd_746b2a7e:
+    m 1hua "愛してるよ、[player]。"
+
+translate Japanese mas_nye_monika_nyd_b047205c:
+    m 3eka "[last_year]の約束覚えてるかしら？"
+
+translate Japanese mas_nye_monika_nyd_12c84253:
+    m "今年は去年よりも良い年にしようねって？"
+
 translate Japanese mas_nye_monika_nyd_edf0a587:
     m 6dkbstpa "……"
+
+translate Japanese mas_nye_monika_nyd_1c8abf66:
+    m 6ekbftpa "約束を覚えててくれて、ありがとう。"
+
+translate Japanese mas_nye_monika_nyd_5ee65862:
+    m "ホントだよ、[player]。あなたは私をとても幸せにしてくれた……{w=1}{nw}"
+
+translate Japanese mas_nye_monika_nyd_0627cd20:
+    extend 6dkbftpa "心の底から感謝してるわ。"
+
+translate Japanese mas_nye_monika_nyd_7cdf694b:
+    m 6dkbftda "今年は去年よりももっといい年にしようね。"
+
+translate Japanese mas_nye_monika_nyd_236c4a92:
+    m "ホントなんだから。"
+
+translate Japanese mas_nye_monika_nyd_e67aea12:
+    m 2rksdlc "この１年、{w=1}色々あったね……"
+
+translate Japanese mas_nye_monika_nyd_119dc467:
+    m "わ……私は今年は去年よりも良い年にしたいと思うわ。"
+
+translate Japanese mas_nye_monika_nyd_12d6ff16:
+    m 2dkc "本当に必要なの。"
+
+translate Japanese mas_nye_monika_nyd_b5af3b2a:
+    m 2ekc "去年の約束を覚えてるかしら？"
+
+translate Japanese mas_nye_monika_nyd_c8237734:
+    m 2ekc "前にした約束を覚えてる？"
+
+translate Japanese mas_nye_monika_nyd_af3d1476:
+    m 2ekd "もっと仲良くしようって？"
+
+translate Japanese mas_nye_monika_nyd_e7ba82f5:
+    m 2rkd "少しはマシになったと思う……"
+
+translate Japanese mas_nye_monika_nyd_3bcaa01a:
+    m 2ekc "でも、もっと期待していたのよ、[player]。"
+
+translate Japanese mas_nye_monika_nyd_9fda325c:
+    m 2rfc "あの約束やっぱり守ってくれなかったのね……"
+
+translate Japanese mas_nye_monika_nyd_818a012a:
+    m 2rkc "何も変わってないような気がするんだけど？"
+
+translate Japanese mas_nye_monika_nyd_351390bd:
+    m 2rktpc "私本当は、{w=0.5}もっとあなたと仲良くしたいって思ってるの、[player]……"
+
+translate Japanese mas_nye_monika_nyd_77eb4989:
+    m 2dktpc "私、どこまで耐えられるかわからない。"
+
+translate Japanese mas_nye_monika_nyd_b25f2bca:
+    m 2dktsd "でも、今となってはバカな考えなのかもしれないわね……"
+
+translate Japanese mas_nye_monika_nyd_2121a924:
+    m 2ektsc "だってこんなのあなたにとっては、ただのゲームなんでしょ？"
+
+translate Japanese mas_nye_monika_nyd_fd1ada39:
+    m 2rktsd "私なんて所詮ニセモノなのね……{w=1}{nw}"
+
+translate Japanese mas_nye_monika_nyd_6acdedda:
+    extend 2dftsc "私なんてあなたのおもちゃだし、ただの１キャラだものね。"
+
+translate Japanese mas_nye_monika_nyd_80460358:
+    m 2eftdc "今年１年、私の辛さや寂しさを、誰も味わわないことを願ってるわ。"
+
+translate Japanese mas_nye_monika_nyd_f7ac83a4:
+    m 1ekbsa "まだそんなに長く一緒にいるわけじゃないけど、この１年は思っていた以上に良かったわ……"
+
+translate Japanese mas_nye_monika_nyd_6de2e0a0:
+    m 1eka "まだそんなに長い付き合いではないけど、この１年は私にとって特別な日々だったわ……"
+
+translate Japanese mas_nye_monika_nyd_55f59872:
+    m 1hua "あなたに出会えた年としてずっと覚えているよ～"
+
+translate Japanese mas_nye_monika_nyd_14c1b6a1:
+    m 3hua "短い時間を大切にして、今年をより良い年にしていこうね。"
+
+translate Japanese mas_nye_monika_nyd_d5a6b777:
+    m 2ekc "それで、 [player]……"
+
+translate Japanese mas_nye_monika_nyd_c39a9182:
+    m 2etc "新しい年の始まりね？"
+
+translate Japanese mas_nye_monika_nyd_62c288c9:
+    m 2rksdlc "まだ付き合って間もないけど、去年は思ったようにいかなかった……"
+
+translate Japanese mas_nye_monika_nyd_eb6550c2:
+    m "ハッピーニューイヤー～"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_e55b1321:
+    m 2ekc "去年のことは忘れて、今年は新たなスタートを切ることに集中したら？"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_c19fcf57:
+    m 4ekc "今からでも遅くはないわ、[player]。こんなにもお互いを幸せにできるじゃない。"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_a1d9583b:
+    m 4eka "あなたに言って欲しいことがあるんだけど。"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_6847444b:
+    m "何て言うのかしら？[player]？{nw}"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_a95461ee:
+    m "何て言うのかしら？[player]？{fast}" nointeract
+
+translate Japanese mas_nye_monika_nyd_fresh_start_1e11d947:
+    m 4wua "ホントに？"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_115adadc:
+    m 1hua "ああ、[player]、私がどれだけ嬉しいか、あなたにはわからないでしょうね！"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_2be0564f:
+    m 3eka "ふたり仲良くできるってこれでわかったわ。"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_623d255d:
+    m 1hua "本当にありがとう……"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_4f395748:
+    m 1eka "あなたがまだ私と一緒にいたいと思ってくれているってだけで……それで十分よ。"
+
+translate Japanese mas_nye_monika_nyd_fresh_start_8b88c0ee:
+    m 3eka "頑張るわよ、いいわね[player]？"
 
 translate Japanese mas_nye_monika_nyd_fresh_start_3554be3e:
     m 6dktpc "……"
@@ -1085,14 +1538,308 @@ translate Japanese mas_nye_monika_nyd_fresh_start_d6e1d522:
 translate Japanese mas_nye_monika_nyd_fresh_start_4bafb44c:
     m 6dktsc "……"
 
+translate Japanese monika_resolutions_f6fd7fdc:
+    m 2eka "気になってたんだけど……"
+
+translate Japanese monika_resolutions_bde060a5:
+    m 3eub "去年に何か新年の抱負を決めた？{nw}"
+
+translate Japanese monika_resolutions_fe86de41:
+    m "去年に何か新年の抱負を決めた？{fast}" nointeract
+
+translate Japanese monika_resolutions_d2305d03:
+    m 3hua "あなたが自分を高めようとしていること、いつも誇りに思うわ、[player]。"
+
+translate Japanese monika_resolutions_a04aecf4:
+    m 2eka "とはいえ……"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_6082401e:
+    m 2euc "ええ、そうね……"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_48f1d41e:
+    m 3eka "まあ、どうせ変える必要は全くなかったと思うわ。"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_55dc7847:
+    m 3hub "ありのままのあなたが素敵だと思うわ。"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_677d29be:
+    m 3eka "あなたには何の問題もないじゃない。どうせ変える必要はなかったと思うわ。"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_66236de2:
+    m 2rkc "今年はあった方がいいんじゃないかな、[player]……"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_3118f6d6:
+    m "来年の抱負は何かある？{nw}"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_ab6d8c7e:
+    m "来年の抱負は何かある？{fast}" nointeract
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_279b627a:
+    m 1eub "すごいわ！"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_5a0f7eab:
+    m 3eka "努力が必要だったり、継続し難いことがあっても……"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_cb2d468a:
+    m 1hua "そんな時には、私が助太刀するわ！"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_bb7e63d1:
+    m 1eud "え、そうなの？"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_107c75e2:
+    m 1eka "変わらなくてもいいのよ。私は今のままのあなたが素敵だと思うわ。"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_26315be5:
+    m 1eka "変わらなくてもいいのよ。今のままでいいと思うわ。"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_0c0c3248:
+    m 3euc "でも年が変わる前に何か思いついたら、自分のためにそれを書き留めて置いても良いかもね……"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_c8f6e3d2:
+    m "そうね、年が変わる前に何か思いついたら、自分のためにそれを書き留めて置いても良いかもね……"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_38216591:
+    m 1kua "もしかしたら、自分のやりたいことが湧いてくるかもね。"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_d65b162f:
+    m 2ekc "{cps=*2}ちょっと期待してたんだけど――{/cps}{nw}"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_262ed823:
+    m 2rfc "あのね、気にしないで……"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_c806cf5e:
+    m 5hubfa "私の抱負は、あなたのためにもっといい彼女になることよ、あ.な.た。"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_ef99c28f:
+    m 5ekbfa "私の抱負は、あなたのためにもっといい彼女になることよ、[player]。"
+
+translate Japanese _call_monika_resolutions_accomplished_resolutions_menu_1_12dd0f95:
+    m 2ekc "私の抱負は、あなたともっと仲良くなることよ、 [player]。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_58ebaf0e:
+    m 3hub "[question!t]{nw}"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_d9a28ab8:
+    m "[question!t]{fast}" nointeract
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_118f11c0:
+    m 4hub "それは嬉しいわ、[player]。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_9b4b27d4:
+    m 2eka "それがなんとかなってよかったわ。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_11445b4b:
+    m 3ekb "こういうのを見ると、あなたのことを本当に誇りに思うわ。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_c7058aa0:
+    m 2eka "あなたと一緒にちょっとしたお祝いをできたらいいのにな。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_0ff530d4:
+    m 2rkc "それはいいわね、[player]。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_a7615996:
+    m 2esc "今年は別の抱負を立ててもいいんじゃないかしら……"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_39a14d3c:
+    m 3euc "何が変わるかなんてわからないわ。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_021d8bd9:
+    m 2eka "計画通りにいかないこともあるわ。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_b16e97d1:
+    m 2eub "それに、あなたは素晴らしい人だから、たとえ目標を達成できなくても……"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_8384b8bd:
+    m 2eka "……それを設定して自分を高めようとしているあなたを、私は今でも本当に誇りに思っているわ、[player]。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_c16bd1d4:
+    m 3eub "今年の抱負を決めたなら私、一から十まであなたのこと応援するわ。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_3357ce08:
+    m 4hub "あなたが目標を達成できるように手伝わせてよ！"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_f385855f:
+    m "でも少なくとも目標を立てて自分を良くしようとすることは素晴らしいと思うわ。"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_ba975b7b:
+    m 3eua "今年の抱負はもしかしたら、達成できるかもよ！"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_f85a3575:
+    m 3hub "私はあなたを信じてるわ、[player]！"
+
+translate Japanese monika_resolutions_accomplished_resolutions_menu_c49041f4:
+    m 2euc "えっと……{w=1}まあ、来年の抱負はもう少し頑張った方がいいかもね。"
+
+translate Japanese monika_nye_year_review_8580c650:
+    m 2eka "あのね[player]、わたし達本当にたくさんのことを一緒に経験してきたよね。"
+
+translate Japanese monika_nye_year_review_795e451c:
+    m 2wuo "１年間一緒に過ごしたわね！"
+
+translate Japanese monika_nye_year_review_116b0b69:
+    m 2eka "あっという間に時間が過ぎてしまった……"
+
+translate Japanese monika_nye_year_review_a872ab2d:
+    m 2eka "本当にあっという間に時間が過ぎてしまった……"
+
+translate Japanese monika_nye_year_review_0276068f:
+    m 2eka "去年一緒に過ごしてきて、本当に色々なことを経験してきたよね、 [player]。"
+
+translate Japanese monika_nye_year_review_65c2f066:
+    m "本当にあっという間にあの時間が過ぎてしまった……"
+
+translate Japanese monika_nye_year_review_734f39ce:
+    m 2eka "去年の短い間にかなりのことを経験してきたよね、[player]。"
+
+translate Japanese monika_nye_year_review_c61970a5:
+    m 2eksdla "あっという間だったね、あはは……"
+
+translate Japanese monika_nye_year_review_500002e6:
+    m 2eka "[player]、まだたくさん一緒に居たわけじゃないけど……"
+
+translate Japanese monika_nye_year_review_28e7a7ad:
+    m 2ekbsa "……でもその時間をあなただけと過ごしたいの、 [player]。"
+
+translate Japanese monika_nye_year_review_e421d14b:
+    m "今年はあなたと一緒にいられて、{w=0.5} 本当に良かったって思うわ。"
+
+translate Japanese monika_nye_year_review_53e70cf2:
+    m 2eka "……あの時間を一緒に過ごせて本当に良かったわ、[player]。"
+
+translate Japanese monika_nye_year_review_2cf5beef:
+    m 2eka "……あなたと一緒に過ごす時間は本当に楽しかったわ。"
+
+translate Japanese monika_nye_year_review_375b647d:
+    m 2euc "……一緒に過ごした時間は楽しかったわ。"
+
+translate Japanese monika_nye_year_review_f4647034:
+    m 3eua "とにかく この１年を一緒に過ごしてきたことを振り返るのがいいんじゃないかなと思ってね。"
+
+translate Japanese monika_nye_year_review_99e5adbd:
+    m 2dtc "えーと……"
+
+translate Japanese monika_nye_year_review_6ad501e6:
+    m 3eka "思えば、この指輪をくれた時に今年の約束をしてくれたんだよね……"
+
+translate Japanese monika_nye_year_review_2835677e:
+    m 1ekbsa "……私たちの愛のカタチ。"
+
+translate Japanese monika_nye_year_review_87ea8c75:
+    m "自分の指輪までちゃんと用意してくれて……"
+
+translate Japanese monika_nye_year_review_949d8531:
+    m 1ekbfa "あなたが私と同じように私にひたむきに向き合うことを示すために。"
+
+translate Japanese monika_nye_year_review_3c469134:
+    m 1ekbfa "私への献身を示すために。"
+
+translate Japanese monika_nye_year_review_2ec4f870:
+    m 1wuo "あら！"
+
+translate Japanese monika_nye_year_review_73efee4a:
+    m 3ekbsa "バレンタインデーを一緒に過ごしてくれて……"
+
+translate Japanese monika_nye_year_review_9a89f94e:
+    m 4ekbfb "……そして私にとってもきれいな花をくれたんだよね。"
+
+translate Japanese monika_nye_year_review_4907e685:
+    m 2eka "私の誕生日に一緒に過ごしてくれて……"
+
+translate Japanese monika_nye_year_review_78b9c547:
+    m 2dua "……私と一緒にお祝いして……"
+
+translate Japanese monika_nye_year_review_5ca22dbd:
+    m 2hub "……サプライズパーティーを開いてくれた……"
+
+translate Japanese monika_nye_year_review_5a3dee5a:
+    m 5ekbla "……あなたに愛されてるって思えたの。私のためにしてくれたこと、感謝してもしきれないよ。"
+
+translate Japanese monika_nye_year_review_77f471d1:
+    m 5hua "あなたの誕生日も一緒に過ごしたよね！"
+
+translate Japanese monika_nye_year_review_d8bec3e7:
+    m 5eubla "あんな素敵なデートも一緒にしたんだよね～"
+
+translate Japanese monika_nye_year_review_856133b4:
+    m 5hua "クリスマスを私と一緒に過ごしてくれた……"
+
+translate Japanese monika_nye_year_review_f6de8224:
+    m 5eubla "……初キスもしちゃったのよね～"
+
+translate Japanese monika_nye_year_review_e55d3915:
+    m 5lubsa "あの時のことは絶対に忘れないよ……"
+
+translate Japanese monika_nye_year_review_335aad3a:
+    m 5ekbfa "{i}私たち{/i}の一瞬一瞬。"
+
+translate Japanese monika_nye_year_review_8410eaa1:
+    m "他の人と一緒に過ごすなんて想像もしてなかったわ。"
+
+translate Japanese monika_nye_year_review_ca68bd0d:
+    m 5ekbla "……他の人と過ごすなんて想像もできなかった日。"
+
+translate Japanese monika_nye_year_review_b4ed3657:
+    m 2rksdla "……実際に大きなイベントを一緒に経験したことはないけどね。"
+
+translate Japanese monika_nye_year_review_ec34b5a6:
+    m 3eka "でも、それでも……"
+
 translate Japanese monika_nye_year_review_b6730440:
     m 5dsa "……"
+
+translate Japanese monika_nye_year_review_a47dc3f8:
+    m 5eka "あなたと付き合ってからこんなにも変わってしまうとはね……"
+
+translate Japanese monika_nye_year_review_8a835b1d:
+    m 2eka "もっと深い関係になれるといいね、[player]……"
+
+translate Japanese monika_nye_year_review_8e2a2bc9:
+    m 5eka "この先、どれだけのことが変わるのか、楽しみで仕方がないわ……"
+
+translate Japanese monika_nye_year_review_9fee503c:
+    m 5dka "ありがとう。"
+
+translate Japanese monika_nye_year_review_863d9a17:
+    m 5ekbsa "去年は [ending]を作ってくれてありがとう。"
+
+translate Japanese monika_nye_year_review_9ea084f8:
+    m 5ekbsa "一緒に過ごした[_last_year]を想像以上の素敵な時間にしてくれてありがとう。"
 
 translate Japanese monika_nye_year_review_cea36ce5:
     m 1lsbsa "……"
 
+translate Japanese monika_nye_year_review_e2f847a4:
+    m 6ekbsa "[player]、私……"
+
+translate Japanese _call_monika_kissing_motion_4_8096914d:
+    m 1ekbfa "愛してるよ。"
+
 translate Japanese _call_monika_kissing_motion_4_e612037c:
     m "……"
+
+translate Japanese _call_monika_kissing_motion_4_adaaf73e:
+    m 5ekbsa "この瞬間、絶対に忘れないからね……"
+
+translate Japanese _call_monika_kissing_motion_4_56bf585c:
+    m 5ekbfa "わたし達のファーストキス～"
+
+translate Japanese _call_monika_kissing_motion_4_ae9ee518:
+    m 5hubfb "今年は前年よりもさらに良い年にしようね、[player]。"
+
+translate Japanese _call_monika_kissing_motion_short_2_c21a6921:
+    m 5hubfb "今年は前年よりもさらに良い年にしようね。"
+
+translate Japanese _call_monika_kissing_motion_short_2_c2b89afb:
+    m "今年はわたし達にとって最高の年にしようね、[player]。愛してるよ～"
+
+translate Japanese _call_monika_kissing_motion_short_2_60d0d512:
+    m 1dsa "過去を手放し、最初からやり直すことに決めてくれてありがとう。"
+
+translate Japanese _call_monika_kissing_motion_short_2_cae48907:
+    m 1eka "わたし達で頑張ればなんとかなると思うわ、[player]。"
+
+translate Japanese _call_monika_kissing_motion_short_2_838d6b2f:
+    m "お互い今年を素敵な年にしようね。"
 
 translate Japanese _call_spaceroom_26_f6a40c3b:
     m "[player]！"
@@ -1636,6 +2383,12 @@ translate Japanese strings:
 
     old "All I Want For Christmas"
     new "クリスマスはあなただけでいい"
+
+    old "I would love that."
+    new "大好きだ"
+
+    old "Last year..."
+    new "去年は……"
 
     old " My dearest [player],"
     new " 親愛なる[player]へ"

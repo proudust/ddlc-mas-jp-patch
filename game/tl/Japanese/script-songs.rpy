@@ -2,7 +2,7 @@ translate Japanese monika_sing_song_pool_menu_7ad23832:
     m 3hub "分かったわ！"
 
 translate Japanese mas_song_aiwfc_98827522:
-    m 3eua "ゲーム内の音量を上げることを忘れないでね、 [mas_get_player_nickname()]。"
+    m 3eua "ゲーム内の音量を上げるのを忘れないでね、 [mas_get_player_nickname()]。"
 
 translate Japanese mas_song_god_knows_51c44db9:
     m 1eua "{i}だから{w=0.2}{/i}{nw}"
@@ -38,7 +38,7 @@ translate Japanese mas_song_god_knows_8374c099:
     m 3rud "神様が本当に存在するのか、私は怪しいと思ってる……"
 
 translate Japanese mas_song_god_knows_714be355:
-    m 5hubsu "でもね、今あなたがここにいるということ。それは本当に天から与えられた祝福のように思っているわ。"
+    m 5hubsu "でもね、今あなたがここにいること。それは本当に天から与えられた祝福のように思っているわ。"
 
 translate Japanese strings:
     old "Can you sing me a song?"

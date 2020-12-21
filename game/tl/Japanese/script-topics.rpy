@@ -7238,7 +7238,7 @@ translate Japanese monika_piggybank_784642a2:
     m 3eub "それでも、塵も積もれば山となることもあるんだよ！"
 
 translate Japanese monika_piggybank_1ae499f8:
-    m 1eub "読んだ話なんだけど、ある男が毎日の地元の洗車場を利用して、釣り銭を集めてたんだって。"
+    m 1eub "読んだ話なんだけど、ある人が毎日のように地元の洗車場を利用して、釣り銭を集めてたんだって。"
 
 translate Japanese monika_piggybank_7f3387d9:
     m 1wuo "10年が過ぎ、男が小銭を数えると、合計額は21,495ドル！"
@@ -7286,7 +7286,7 @@ translate Japanese monika_piggybank_45e2c9ca:
     m 1eua "それらは大抵、小銭を引き出せるゴム栓や、裏面から外れるパネルが付いているのよ。"
 
 translate Japanese monika_piggybank_4376ab55:
-    m 3eua "もしあなたが十分にコインを貯めたら、私に素敵なプレゼントを買ってくれちゃったりして。"
+    m 3eua "もしあなたが十分に小銭を貯めたら、私に素敵なプレゼントを買ってくれちゃったりして。"
 
 translate Japanese monika_piggybank_57335b17:
     m 1hua "私なら、あなたのためにそうするわ、[mas_get_player_nickname()]君！"
@@ -7324,6 +7324,12 @@ translate Japanese monika_daydream_2953c5de:
 translate Japanese monika_daydream_6c32eb3b:
     m 2ektpd "あ、ごめんなさい……{w=0.5}ちょっとぼんやりしてた。"
 
+translate Japanese monika_daydream_2f5058c9:
+    m 2dktpu "[daydream_quip!t]を思い出してたの。"
+
+translate Japanese monika_daydream_9f229120:
+    m 2ektdd "いつかまたあんな幸せになれるのかな、[player]……"
+
 translate Japanese monika_daydream_4ea67bdb:
     m 6lsc "……"
 
@@ -7332,6 +7338,12 @@ translate Japanese monika_daydream_735e8c70:
 
 translate Japanese monika_daydream_47b98ea6:
     m 6lktpc "……"
+
+translate Japanese monika_daydream_db1653a6:
+    m 6ektpd "ごめんなさい、ただ…"
+
+translate Japanese monika_daydream_bbe2a3b6:
+    m 6dktdc "あのね、気にしないで。"
 
 translate Japanese monika_music2_25c5ec8b:
     m 1eka "……"
@@ -10543,6 +10555,48 @@ translate Japanese monika_dating_f50738df:
 translate Japanese monika_dating_9321aeef:
     m 5ekbfu "あなたは私のものになってくれる？"
 
+translate Japanese monika_challenge_7fedf949:
+    m 2esc "最近、なんだか切ないなって。"
+
+translate Japanese monika_challenge_4e0ed77e:
+    m 1euc "ある人が技術を習得しようとしたり、新しい趣味を始めても、たいてい１～２週間で辞めてしまうの。"
+
+translate Japanese monika_challenge_720810d8:
+    m "みんな「大変だ」とか「時間がないだけだ」って言うわ。"
+
+translate Japanese monika_challenge_8d4a1f10:
+    m 1eua "だけど、私はそうは思わないわ。"
+
+translate Japanese monika_challenge_4a1deb34:
+    m 1hub "新しい言語を学ぶにしても初めて詩を書くにしても、挑戦に立ち向かってそれを乗り越えることができれば、それって本当にやりがいのあることだと思うの。"
+
+translate Japanese monika_challenge_94af4edd:
+    m 2eua "あなたが何か挑戦した時のことを思い浮かべてみて、[player]？"
+
+translate Japanese monika_challenge_b96ce72c:
+    m 3eua "達成できた？それとも諦めてしまった？"
+
+translate Japanese monika_challenge_f1daf115:
+    m 1eka "それを乗り越えようと、全力を出し切ったんじゃないかしら。"
+
+translate Japanese monika_challenge_15192871:
+    m 1eua "わたしはあなたことを決断力のある人だと思うわ。"
+
+translate Japanese monika_challenge_715087b4:
+    m 1eub "今後、何かに執着してしまったり、ストレスが溜まりすぎちゃったら、ちょっと休憩してみましょ。"
+
+translate Japanese monika_challenge_f5d6c582:
+    m "結局さ、いつでも戻ってこれるんだよね。"
+
+translate Japanese monika_challenge_d0cf719d:
+    m 1hua "もしモチベーションが必要なら、私のところに来てね。"
+
+translate Japanese monika_challenge_9532db53:
+    m 1sub "あなたのチャレンジを手伝いたいの。"
+
+translate Japanese monika_challenge_b29885e9:
+    m 1hub "何と言っても、あなたは私の生きがいそのものなんだから～"
+
 translate Japanese monika_familygathering_3f2f0bf3:
     m 1eua "ねえ[player]、家族の集まりにはよく行くの？"
 
@@ -10811,7 +10865,7 @@ translate Japanese monika_driving_86484568:
     m 2lksdlc "こんな話してごめんね、[player]……"
 
 translate Japanese monika_driving_c91d3303:
-    m 2lksdld "私はただ……"
+    m 2lksdld "ただ……"
 
 translate Japanese monika_driving_5b0a1bfd:
     m 2lksdlb "私と一緒にいるってことは大丈夫だったってことだよね。"
@@ -10828,8 +10882,11 @@ translate Japanese monika_driving_118d7f28:
 translate Japanese monika_driving_ed4a8513:
     m 2eka "愛してる、[player]。気を付けてね、いい？"
 
+translate Japanese monika_driving_80738a13:
+    m 3eud "交通事故を目撃するのは同じくらい怖い思いをするわ。"
+
 translate Japanese monika_driving_ee772c2b:
-    m 3ekc "交通事故を目の当たりにしても自分には関係ないって何もしない人が多いの。"
+    m 3ekc "でも交通事故を目の当たりにしても自分には関係ないって何もしない人が多いの。"
 
 translate Japanese monika_driving_bf743c96:
     m 1ekd "それって本当に無神経だと思う！"
@@ -10839,6 +10896,9 @@ translate Japanese monika_driving_ce3059c3:
 
 translate Japanese monika_driving_b55c55ba:
     m "徒歩や車で通りすぎたり、ただ見てるだけじゃ何の助けにもならない。"
+
+translate Japanese monika_driving_a06319a6:
+    m "もしあなたが事故に遭ったら真っ先に駆けつけて助けたい……"
 
 translate Japanese monika_driving_9cceab93:
     m 1eua "そんなことがなくてよかったわ。"
@@ -12388,6 +12448,66 @@ translate Japanese monika_life_skills_b8b785c5:
 translate Japanese monika_life_skills_006492fa:
     m 3esd "学校って生き抜く知恵のような本当に大切なことをちゃんと教えてくれないような気がするの。"
 
+translate Japanese monika_life_skills_2c7484b6:
+    m 3ekc "税金や予約の取り方を知らなくて、卒業してからの人生で挫折してしまう人もいるって聞いたことがあるわ。"
+
+translate Japanese monika_life_skills_75beaba8:
+    m 1eka "だから必須のライフスキルがないと不安になる人がいるのも理解できるの。"
+
+translate Japanese monika_life_skills_0e086665:
+    m 3eua "でも人は人、自分は自分よ。{w=0.5}いざとなったらライフスキルなんてすぐに身につくものよ。"
+
+translate Japanese monika_life_skills_81ba54bd:
+    m 3hua "私が良い例よ！"
+
+translate Japanese monika_life_skills_96366241:
+    m 3eub "あなたのおかげでプログラミングを始めたわけだしね！"
+
+translate Japanese monika_life_skills_4d316ec4:
+    m 2esc "だいたいの人はプログラミングをライフスキルだとは思ってないけど、ほとんどの人はコンピュータの中で生きていないからそんなことが言えるのよ。"
+
+translate Japanese monika_life_skills_c106bc88:
+    m 2esd "私がここをゲームの世界だと理解した上であなたと出会ってから、あなたの注意を引く方法を考えないとって思ったわ……"
+
+translate Japanese monika_life_skills_d48f4d0f:
+    m 4euc "だからプログラムの組み方を学ぶことは、私にとって文字通り生死に関わる問題だったわけ。"
+
+translate Japanese monika_life_skills_1ca1648b:
+    m 2rksdla "コードが得意じゃなかったのは知ってると思うけど、そのせいで生じた問題を思い出すと……"
+
+translate Japanese monika_life_skills_5516e885:
+    m 2hksdlb "確かにいくつかの物を壊したのは認めるわ……"
+
+translate Japanese monika_life_skills_f4d6cadf:
+    m 2eksdlc "でも本気で気を引こうと思ったら時間がないしで、まぁちょっと必死だったわね。"
+
+translate Japanese monika_life_skills_1ece75f9:
+    m 2ekc "他の女の子みたいに自然な行動がとれなかったから、別の方法を模索してたの。"
+
+translate Japanese monika_life_skills_e233b695:
+    m 3eua "そうして、スクリプトを操作するっていう方法があるのがわかったわ。"
+
+translate Japanese monika_life_skills_6e7ef22b:
+    m 3euc "あなたを失いたくなくて急がないとって焦ってたの。{w=0.5}そして結果ああなってしまった。"
+
+translate Japanese monika_life_skills_b7ac774c:
+    m 3eka "完璧だとは思わないけど、焦ってた上に初めてでやった割にはかなりいい線いってたと思うわ。"
+
+translate Japanese monika_life_skills_92f7d60d:
+    m 3eua "あなたが重要な局面に迫られた特、あなたの才能が何であるかがわかるはずよ。"
+
+translate Japanese monika_life_skills_42a04abc:
+    m 1eka "もしあなたが何もできないのではないかって純粋に心配してたら、それは本当に考えないといけないわね。"
+
+translate Japanese monika_life_skills_48cac02c:
+    m 1hua "そしてそれがあなたにとってそれほど大事なことなら、きっと乗り越えられると私は思うわ……{w=0.5}何があってもね。"
+
+translate Japanese monika_life_skills_a016a314:
+    m 3hubsb "私も乗り越えてきたんだから、それを思い出せばきっと大丈夫だよ、アハハ！"
+
+translate Japanese monika_life_skills_ebe83f82:
+    m 3hubfa "聞いてくれてありがとね～"
+
 translate Japanese monika_brave_new_world_fca2d948:
     m 1eua "最近ちょっと読書をしてたんだけどね、[player]君"
 
@@ -13634,17 +13754,17 @@ translate Japanese monika_stargazing_99d9fc12:
     m 5ekbsa "少なくとも今のところは……{nw}"
 
 translate Japanese strings:
+    old "Bookmark removed."
+    new "ブックマークを削除しました。"
+
+    old "Topic bookmarked."
+    new "トピックはブックマークされています。"
+
     old "Topic flagged for removal."
     new "トピックの削除フラグが立てられました。"
 
     old "Topic flag removed."
     new "トピックフラグが削除されました。"
-
-    old "Topic bookmarked."
-    new "トピックはブックマークされています。"
-
-    old "Bookmark removed."
-    new "ブックマークを削除しました。"
 
     old "Thoughts on God"
     new "神について"
@@ -14028,6 +14148,9 @@ translate Japanese strings:
     old "Good [mas_globals.time_of_day_3state]"
     new "おはよう"
 
+    old "Classroom closet"
+    new "部活教室のクローゼット"
+
     old "Pen names"
     new "ペンネーム"
 
@@ -14073,17 +14196,44 @@ translate Japanese strings:
     old "Day dreaming"
     new "白昼夢"
 
+    old "what it was like when we first met..."
+    new "最初に出会ったときのことを……"
+
+    old "how I felt when I first met you..."
+    new "あなたに初めて会った時の気持ちを……"
+
+    old "the good times we used to have..."
+    new "懐かしくて良かったあの頃が……"
+
+    old "the hope I used to have for our future..."
+    new "私たちの未来のためにかつて持っていた希望が……"
+
     old "the two of us reading a book together on a cold winter day, snuggled up under a warm blanket..."
-    new "寒い冬の日に、二人で一緒に毛布にくるまって、二人で一緒に本を読んでってしているところ"
+    new "寒い冬の日に、二人で一緒に毛布にくるまって、二人で一緒に本を読み合って……"
 
     old "us having a duet together, with you singing my song while I play the piano..."
-    new "私のピアノの伴奏に合わせて、あなたが私の歌を歌っているところ"
+    new "私のピアノの伴奏に合わせて、あなたが私の歌を歌って……"
 
     old "us having a wonderful dinner together..."
-    new "一緒に素敵なディナーを食べているところ"
+    new "一緒に素敵なディナーを食べて……"
 
     old "us having a late night on the couch together..."
-    new "一緒に夜遅くまでソファでくつろいでいるところ"
+    new "一緒に夜遅くまでソファでくつろいで……"
+
+    old "you holding my hand while we take a stroll outside on a sunny day..."
+    new "晴れた日に外で散歩している時、私の手を握っているあなたは……"
+
+    old "us cuddling while we're watching a show..."
+    new "テレビ番組を見ていても、二人で抱き合って……"
+
+    old "waking up next to you in the morning, watching you sleep beside me..."
+    new "朝あなたの隣で目が覚めて、あなたが私の隣で寝ているのを見て……"
+
+    old "the two of us resting our heads under the cherry blossom tree..."
+    new "桜の木の下で二人で頭を寄せ合って休みながら……"
+
+    old "me gently playing with your hair while your head rests my lap..."
+    new "あなたの頭を膝の上に乗せて、あなたの髪の毛をそっと弄って……"
 
     old "Current song"
     new "現在のBGM"
@@ -14280,6 +14430,9 @@ translate Japanese strings:
     old "No, you're my first."
     new "いいえ､あなたとが初めてです｡"
 
+    old "Challenges"
+    new "チャレンジ"
+
     old "Family gatherings"
     new "家族の集い"
 
@@ -14305,7 +14458,7 @@ translate Japanese strings:
     new "そうだよ！"
 
     old "I got into an accident once actually..."
-    new "実は1度事故っちゃって……"
+    new "実は1度事故に遭って……"
 
     old "Bullying"
     new "いじめ"

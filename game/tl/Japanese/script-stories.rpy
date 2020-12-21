@@ -540,13 +540,13 @@ translate Japanese _call_mas_story_begin_13_a2dc5c40:
     extend 1eua "息子がその場を去ったあとも、母親は木へまた話しかけていました。"
 
 translate Japanese _call_mas_story_begin_13_d5706662:
-    m 2ekc "それから時が過ぎ、息子は成長して家から出て一人で暮らすことになりました。"
+    m 2ekc "それから時が過ぎ、息子は成長して独り立ちし、家から出て暮らすことになりました。"
 
 translate Japanese _call_mas_story_begin_13_4bed8df7:
     m 2eka "母親は息子に『自分のことは心配しなくていいからね、私にはこの木たちが一緒にいるからね』と言いました。"
 
 translate Japanese _call_mas_story_begin_13_c43151cf:
-    m 2eua "それから息子は自立して自分の人生を忙しく過ごしていましたが、ときには時間を作り、母親のところへ会いに行っていました。"
+    m 2eua "それから息子は自分の人生を忙しく過ごしていましたが、ときには時間を作り、母親のところへ会いに行っていました。"
 
 translate Japanese _call_mas_story_begin_13_85fd1344:
     m 2ekc "そう、あの日……{w=0.5}{nw}"
@@ -564,7 +564,7 @@ translate Japanese _call_mas_story_begin_13_179a5c87:
     m 1eka "息子は遺言どおりに木の面倒をよくみました。ですが、木に話しかけることは一度もできませんでした。"
 
 translate Japanese _call_mas_story_begin_13_00a8be1e:
-    m 3euc "その後、息子が母の遺品を整理していると、遺品の中にひとつの封筒を見つけました。"
+    m 3euc "しばらくして、息子が母の遺品を整理していると、遺品の中にひとつの封筒を見つけました。"
 
 translate Japanese _call_mas_story_begin_13_22103f81:
     m 1eud "封筒を開いて中に入っていたものを見て、息子は驚きました。"
@@ -675,10 +675,97 @@ translate Japanese _call_mas_story_begin_14_66b14b42:
     m 3ekbfa "自分自身を愛せなくなりかけた、そんなときは絶対に私のところへ来てね。あなたがとても素敵な人だってこと、私が思い出させてあげるからね〜"
 
 translate Japanese _call_mas_story_begin_15_48696919:
-    m 1eua "昔あるところに、医学を学んでいた健児という名の男がいました。"
+    m 1eua "昔あるところに、医学を学んでいた長尾長生という名の男がいました。"
 
 translate Japanese _call_mas_story_begin_15_73ffe107:
-    m 3eub "男はともえと言う許嫁がおり、健児が医学を修めたら祝言をあげようと話していました。"
+    m 3eub "男はお貞（おてい）と言う許嫁がおり、長生が医学を修めたら結婚しようとふたりで話していました。"
+
+translate Japanese _call_mas_story_begin_15_01448652:
+    m 1esc "ですが、その望みは叶いませんでした。お貞は重い病気にかかっていたのです。"
+
+translate Japanese _call_mas_story_begin_15_6658ed1f:
+    m 2dsd "お貞が寝たきりになってから、そう長くは保ちませんでした。"
+
+translate Japanese _call_mas_story_begin_15_09f3203f:
+    m 2esd "長生を枕元にひざまずかせてお貞は言いました。『子供の頃から誓い合った約束…』"
+
+translate Japanese _call_mas_story_begin_15_34795269:
+    m 3ekc "『この病んだ身体ではもう約束は守れそうにありません。あなたの妻になる前に、私の命は尽きてしまう……』"
+
+translate Japanese _call_mas_story_begin_15_511ffb27:
+    m "『ですが、どうか悲しまないでください。私達はまた出会えます。』"
+
+translate Japanese _call_mas_story_begin_15_5349db27:
+    m 3eud "長生はお貞に『お前が死んでしまったら、どうやって会えばいいというのだ』と問いました。"
+
+translate Japanese _call_mas_story_begin_15_152354ea:
+    m 2dsc "残念ながら、その答えを言う前にお貞は死んでしまったのでした。"
+
+translate Japanese _call_mas_story_begin_15_dafe4097:
+    m "若くして亡くなったお貞を想い、長生は深く悲しみました。"
+
+translate Japanese _call_mas_story_begin_15_85f18899:
+    m 2esc "長生はそれからお貞のことをずっと忘れずにいました。お貞以外を愛するつもりはありませんでしたが、長尾家の跡継ぎを残すために妻を娶らねばなりませんでした。"
+
+translate Japanese _call_mas_story_begin_15_a0f2f0b4:
+    m "長生はそれからまもなく結婚をしましたが、長生の心が新しい妻に向けられることはありませんでした。"
+
+translate Japanese _call_mas_story_begin_15_d62248d8:
+    m 2esd "それから不幸が重なって、長生の家族は父母も妻も子も亡くなっていき、長生は孤独の身となってしまいました。"
+
+translate Japanese _call_mas_story_begin_15_a4ee2ef2:
+    m 4eud "それから長生はこれまでの辛い人生を忘れるために、家を捨て、長い旅に出ようと決心したのでした。"
+
+translate Japanese _call_mas_story_begin_15_c14dfcc0:
+    m 1esc "心を癒やす何かを求めて、長生は国中を旅して回りました。"
+
+translate Japanese _call_mas_story_begin_15_9619d5d9:
+    m 1euc "ある旅先で日も暮れた頃、長生は見つけた宿に泊まることにしました。"
+
+translate Japanese _call_mas_story_begin_15_0453c64f:
+    m "部屋へ案内されると、宿の仲居が長生を出迎えました。"
+
+translate Japanese _call_mas_story_begin_15_c62487e2:
+    m 3euc "そのとき、長生の心はドクンと大きく脈打ちました。"
+
+translate Japanese _call_mas_story_begin_15_a8c0f616:
+    m 3wud "長生を出迎えた少女は、お貞の生き写しだったのです。"
+
+translate Japanese _call_mas_story_begin_15_df5ea876:
+    m "どこを見ても、すべてあの頃のお貞のままでした。"
+
+translate Japanese _call_mas_story_begin_15_ead73c8d:
+    m 1esc "長生はお貞が最後に残した言葉を思い出していました。私達はまた出会える…"
+
+translate Japanese _call_mas_story_begin_15_45e6b64d:
+    m 1esc "長生は仲居の少女を引き止めて言いました。『こんなことを言われても困るだろうが、お前は私の愛した人と瓜二つなのだ…』"
+
+translate Japanese _call_mas_story_begin_15_04dc08c7:
+    m 3euc "『もし良ければだが、名前を教えてくれないか？』"
+
+translate Japanese _call_mas_story_begin_15_96e964fd:
+    m 3wud "すると少女は、ひとときも忘れられなかった愛する人の声で答えたのです。『私の名前はお貞。そしてあなたは長生、私が一緒になろうと約束したひと。』"
+
+translate Japanese _call_mas_story_begin_15_536b4246:
+    m 1wud "『契りを結ぶ前に、不幸にも私は命を落としてしまった……』"
+
+translate Japanese _call_mas_story_begin_15_6aa2d28c:
+    m "『でも私は帰ってきました。長生、私の夫となるあなたのところへ……』"
+
+translate Japanese _call_mas_story_begin_15_cafd0d52:
+    m 1dsc "言い終えた途端、少女は意識を失って床へ倒れ込みました。"
+
+translate Japanese _call_mas_story_begin_15_c8fde2ce:
+    m 1esa "長生は少女を抱き、涙を流して少女へ語りかけます。"
+
+translate Japanese _call_mas_story_begin_15_e3682b37:
+    m 1dsa "『おかえり、お貞……』"
+
+translate Japanese _call_mas_story_begin_15_c703d608:
+    m 3esa "少女が意識を取り戻しましたが、先程の出来事は何一つ覚えていませんでした。"
+
+translate Japanese _call_mas_story_begin_15_ba796e80:
+    m 1hua "それからほどなくして長生は少女と結婚し、残りの人生をふたりで幸せに暮らしました。"
 
 translate Japanese _call_mas_story_begin_16_115f017c:
     m 2ekd "ひどい干ばつが起こり、空を飛ぶ鳥たちでさえ水場が見つからないくらいに辺りはカラカラに乾いていました。"
@@ -910,7 +997,7 @@ translate Japanese _call_mas_scary_story_setup_1_6a1208f7:
     m "それから何百年も経ったいまも、女の霊は夜中になるとハサミを手にしてさまよい歩いているそうです。"
 
 translate Japanese _call_mas_scary_story_setup_1_72fcab42:
-    m 1dsd "そしてマスクをして口を隠し、不運にも女と出会った人にこう聞いてくるそうです……"
+    m 1dsd "マスクをして口を隠し、不運にも女と出会った人にこう聞いてくるそうです……"
 
 translate Japanese _call_mas_scary_story_setup_1_b4e920f0:
     m 1cua "{b}{i}私、きれい？{/i}{/b}"
@@ -931,7 +1018,7 @@ translate Japanese mas_scary_story_kuchisake_onna_end_d4ec9ee4:
     m "もし不用意に口裂け女の質問に答えてしまったなら…"
 
 translate Japanese mas_scary_story_kuchisake_onna_end_0977410d:
-    m 3tku "命は取られなくとも、あなたも切り裂かれてしまうかもしれません。彼女の口のように。"
+    m 3tku "命は取られなくとも、彼女のように口を切り裂かれてしまうでしょう。"
 
 translate Japanese _call_mas_scary_story_setup_4_774960ad:
     m 3esd "とある軍の大佐が列車に乗って任務から帰るときのお話です。"
@@ -1027,7 +1114,7 @@ translate Japanese _call_mas_scary_story_setup_5_ebdefc90:
     m 3eud "メアリーは車のドアを開けるとルイスへもたれかかり、ルイスの耳元でささやきました。『ごめんなさい、ここでお別れしなきゃ。絶対に後を追ったりしないでね。』"
 
 translate Japanese _call_mas_scary_story_setup_5_e1628ae9:
-    m 1euc "メアリーは車から降り、門の向こう側へと消えていきました。"
+    m 1euc "メアリーは車から降りると、門の向こう側へと消えていきました。"
 
 translate Japanese _call_mas_scary_story_setup_5_2c45aba1:
     m "ルイスは何が起きたかわからず、車の中で呆然としてしました。"
