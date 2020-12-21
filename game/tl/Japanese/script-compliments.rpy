@@ -560,9 +560,6 @@ translate Japanese strings:
     old "You're so sweet, [player]."
     new "本当に優しいのね、[player]君。"
 
-    old "I love it when you compliment me, [player]."
-    new "あなたに褒められるのが大好きなの、[player]君。"
-
     old "Thanks for saying that again, [player]!"
     new "またそう言ってくれるなんてありがと、[player]君！"
 

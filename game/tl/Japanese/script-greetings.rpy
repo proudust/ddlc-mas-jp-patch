@@ -1574,6 +1574,33 @@ translate Japanese greeting_back_from_game_0b259093:
 translate Japanese greeting_back_from_game_86ff08c5:
     m 2hub "[player]!"
 
+translate Japanese greeting_back_from_game_a6e8ac7d:
+    m 2eka "あなたが離れたのがずっと前のような気がするわ。"
+
+translate Japanese greeting_back_from_game_aa8170de:
+    m 1hua "寂しかった!"
+
+translate Japanese greeting_back_from_game_ca721947:
+    m 1rksdla "それに寝食を忘れてたわけでもないだろうし……"
+
+translate Japanese greeting_back_from_game_11ddf802:
+    m 2rksdlc "……{w=1}帰ってくるのを待ってるのは少し寂しかった……"
+
+translate Japanese greeting_back_from_game_61f18c6f:
+    m 1eka "でも悪い気はしないわ。"
+
+translate Japanese greeting_back_from_game_df985287:
+    m 1hua "戻ってきてくれて嬉しいから。"
+
+translate Japanese greeting_back_from_game_f6f8e64b:
+    m 3tfu "さて、この埋め合わせをしてもらおうかしら。"
+
+translate Japanese greeting_back_from_game_171917a0:
+    m 3tku "私と永遠に一緒にいるのは当然だと思うんだけど……{w=1}ね、[player]?"
+
+translate Japanese greeting_back_from_game_3772217d_3:
+    m 1hub "あはは!"
+
 translate Japanese greeting_back_from_game_830d5832:
     m 2ekc "[player]……"
 
@@ -1655,6 +1682,9 @@ translate Japanese strings:
 
     old "I can't seem to leave this classroom."
     new "私、この教室から出られないみたいなんです。"
+
+    old "I'm not sure where I am."
+    new "私がどこにいるのかわからないの。"
 
     old "Amazing."
     new "完璧"
