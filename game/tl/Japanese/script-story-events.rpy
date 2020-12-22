@@ -100,6 +100,9 @@ translate Japanese mas_player_name_enter_name_loop_6e458359:
 translate Japanese mas_player_name_enter_name_loop_ca32a596:
     m 1rksdlb "[awkward_quip!t]"
 
+translate Japanese mas_player_name_enter_name_loop_6e7dce4d:
+    m 3rksdla "もっと……{w=0.2}{i}適切な名前{i/}にしてくれないかしら？"
+
 translate Japanese mas_player_name_enter_name_loop_44e9d3f8:
     m 1ekd "[bad_quip!t]"
 
@@ -159,6 +162,39 @@ translate Japanese _call_mas_player_name_enter_name_loop_ee324183:
 
 translate Japanese mas_birthdate_f7b121af:
     m 1euc "ねえ、 [player]君……"
+
+translate Japanese mas_birthdate_b43e54ed:
+    m 3eksdlc "私、前にもあなたの誕生日を教えてもらったことはあるけど、{i}生年月日{/i}を聞いたのか、{i}誕生日{/i}だけ聞いたのかはっきりしてなくて……"
+
+translate Japanese mas_birthdate_1a2361d4:
+    m "念のために聞きたいんだけど、あなたの生年月日は [bday_str]であってる？{nw}"
+
+translate Japanese mas_birthdate_5cefc5e3:
+    m "念のために聞きたいんだけど、あなたの生年月日は [bday_str]であってる？{fast}" nointeract
+
+translate Japanese mas_birthdate_0800bc93:
+    m 2rksdla "本当にそうなの、[player]？"
+
+translate Japanese mas_birthdate_7b1588b6:
+    m 2eksdlc "それだとあなたとても若いことになるわね……"
+
+translate Japanese mas_birthdate_c105bab4:
+    m 3ekc "誕生日だけじゃなくて、{b}生年月日{/b}を聞いてるのを忘れないでね。"
+
+translate Japanese mas_birthdate_b93f5725:
+    m 1eka "それで、あなたはいつ生まれたのかしら、[player]？"
+
+translate Japanese mas_birthdate_be2478d8:
+    m 1hua "うん、素晴らしいわ[player]、ありがとう。"
+
+translate Japanese mas_birthdate_0b8a9fdf:
+    m 3hksdlb "念のために言っておくと、いつ生まれたかっていう大事な情報を間違って覚えていたくないからね、アハハ！"
+
+translate Japanese mas_birthdate_6bd27b46:
+    m 3rksdlc "ああ！それじゃあ……"
+
+translate Japanese mas_birthdate_794ec2fd:
+    m 1eksdld "あなたの生年月日はいつなの{i}かしら{/i}、[player]？"
 
 translate Japanese mas_birthdate_4989bc96:
     m 3wud "あなたの誕生日がいつか知らないの！"
@@ -589,7 +625,7 @@ translate Japanese mas_crashed_long_fluster_9b278c39:
 translate Japanese mas_crashed_long_fluster_43c76e3c:
     m "{cps=*1.5}でも、こ…{w=0.3}今回は私のせいじゃないって思って、ほ…{w=0.3}本当に何も触ってないから……{/cps}{nw}"
 
-translate Japanese _call_expression_2_977643eb:
+translate Japanese _call_expression_5_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
@@ -619,10 +655,10 @@ translate Japanese mas_corrupted_persistent_6f321cf4:
 translate Japanese mas_corrupted_persistent_bd6c3ff1:
     m 1ekc "あなた宛だろうから中身は読んでないわ……{w=0.3}{nw}"
 
-translate Japanese _call_mas_wx_cmd_1_2416b0d9:
+translate Japanese _call_mas_wx_cmd_87_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね。"
 
-translate Japanese _call_mas_wx_cmd_1_fe9c0937:
+translate Japanese _call_mas_wx_cmd_87_fe9c0937:
     m 1eua "ところで……"
 
 translate Japanese monika_rpy_files_b2896d32:
@@ -640,82 +676,82 @@ translate Japanese monika_rpy_files_b03c4be4:
 translate Japanese mas_bday_player_bday_select_6860cc61:
     m 1eua "あなたの誕生日は？"
 
-translate Japanese _call_mas_start_calendar_select_date_d2ea348f:
+translate Japanese _call_mas_start_calendar_select_date_1_d2ea348f:
     m 2efc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_c759d169:
+translate Japanese _call_mas_start_calendar_select_date_1_c759d169:
     m "日付を選んで！"
 
-translate Japanese _call_mas_start_calendar_select_date_43832bdf:
+translate Japanese _call_mas_start_calendar_select_date_1_43832bdf:
     m 1hua "もう一度！"
 
-translate Japanese _call_mas_start_calendar_select_date_d2ea348f_1:
+translate Japanese _call_mas_start_calendar_select_date_1_d2ea348f_1:
     m 2efc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_c4bf3866:
+translate Japanese _call_mas_start_calendar_select_date_1_c4bf3866:
     m "あなたが未来に生まれるわけないでしょう！"
 
-translate Japanese _call_mas_start_calendar_select_date_43832bdf_1:
+translate Japanese _call_mas_start_calendar_select_date_1_43832bdf_1:
     m 1hua "もう一度！"
 
-translate Japanese _call_mas_start_calendar_select_date_d2ea348f_2:
+translate Japanese _call_mas_start_calendar_select_date_1_d2ea348f_2:
     m 2efc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_5cc7f3db:
+translate Japanese _call_mas_start_calendar_select_date_1_5cc7f3db:
     m "あなたが今日生まれたわけがないでしょう！"
 
-translate Japanese _call_mas_start_calendar_select_date_43832bdf_2:
+translate Japanese _call_mas_start_calendar_select_date_1_43832bdf_2:
     m 1hua "もう一度！"
 
-translate Japanese _call_mas_start_calendar_select_date_d2ea348f_3:
+translate Japanese _call_mas_start_calendar_select_date_1_d2ea348f_3:
     m 2efc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_cd48f428:
+translate Japanese _call_mas_start_calendar_select_date_1_cd48f428:
     m "あなたがそんな子供なわけがないでしょう！"
 
-translate Japanese _call_mas_start_calendar_select_date_43832bdf_3:
+translate Japanese _call_mas_start_calendar_select_date_1_43832bdf_3:
     m 1hua "もう一度！"
 
-translate Japanese _call_mas_start_calendar_select_date_4775a645:
+translate Japanese _call_mas_start_calendar_select_date_1_4775a645:
     m 2eksdlc "[player]君……"
 
-translate Japanese _call_mas_start_calendar_select_date_5bbcdd88:
+translate Japanese _call_mas_start_calendar_select_date_1_5bbcdd88:
     m 2rksdlc "正確な生年月日を聞いているのはわかっているよね？"
 
-translate Japanese _call_mas_start_calendar_select_date_ed3fda28:
+translate Japanese _call_mas_start_calendar_select_date_1_ed3fda28:
     m 2hksdlb "あなたがそんなに子供だとは思えないわ"
 
-translate Japanese _call_mas_start_calendar_select_date_bd219ce5:
+translate Japanese _call_mas_start_calendar_select_date_1_bd219ce5:
     m 1eua "よし、[player]君"
 
-translate Japanese _call_mas_start_calendar_select_date_7dacbf91:
+translate Japanese _call_mas_start_calendar_select_date_1_7dacbf91:
     m 1eua "確認するけど……"
 
-translate Japanese _call_mas_start_calendar_select_date_528cde61:
+translate Japanese _call_mas_start_calendar_select_date_1_528cde61:
     m "あなたの誕生日は[new_bday_str]でいいのね？{nw}"
 
-translate Japanese _call_mas_start_calendar_select_date_beb28d18:
+translate Japanese _call_mas_start_calendar_select_date_1_beb28d18:
     m "あなたの誕生日は[new_bday_str]でいいのね？{fast}" nointeract
 
-translate Japanese _call_mas_start_calendar_select_date_e0d838f4:
+translate Japanese _call_mas_start_calendar_select_date_1_e0d838f4:
     m 1eka "[new_bday_str]ね？この日付は絶対に忘れないわ{nw}"
 
-translate Japanese _call_mas_start_calendar_select_date_b969541f:
+translate Japanese _call_mas_start_calendar_select_date_1_b969541f:
     m "[new_bday_str]ね？この日付は絶対に忘れないわ{fast}" nointeract
 
-translate Japanese _call_mas_start_calendar_select_date_0503f9cb:
+translate Japanese _call_mas_start_calendar_select_date_1_0503f9cb:
     m 1hua "それじゃ、決まりね！"
 
-translate Japanese _call_mas_start_calendar_select_date_5516d7fb:
+translate Japanese _call_mas_start_calendar_select_date_1_5516d7fb:
     m 1hksdrb "あは、そうだと思った。"
 
-translate Japanese _call_mas_start_calendar_select_date_1643033e:
+translate Japanese _call_mas_start_calendar_select_date_1_1643033e:
     m 1eka "もう一度～"
 
-translate Japanese _call_mas_start_calendar_select_date_ee3f0a53:
+translate Japanese _call_mas_start_calendar_select_date_1_ee3f0a53:
     m 1euc "ああ、違っちゃってた？"
 
-translate Japanese _call_mas_start_calendar_select_date_62bd758c:
+translate Japanese _call_mas_start_calendar_select_date_1_62bd758c:
     m 1eua "もう一度教えてくれる？"
 
 translate Japanese mas_text_speed_enabler_3ea44c61:
@@ -738,6 +774,36 @@ translate Japanese mas_text_speed_enabler_7dd3f7b3:
 
 translate Japanese mas_text_speed_enabler_3e73e418:
     m 1eud "うん、わかったわ。"
+
+translate Japanese mas_text_speed_enabler_a71c9718:
+    m 2dsa "関係ないね。"
+
+translate Japanese mas_text_speed_enabler_a93912f2:
+    m 4eua "どうだ！"
+
+translate Japanese mas_text_speed_enabler_05a6b488:
+    m 4eua "テキストスピードの設定を有効にしてみたわ。"
+
+translate Japanese mas_text_speed_enabler_70661cf3:
+    m 1hka "前はわざとゆっくりにしてたから、私がなんて言っているかちゃんとわかってたでしょ。"
+
+translate Japanese mas_text_speed_enabler_25c4bca0:
+    m 1eka "でもあなたと少し付き合ってれば、私の文章を読まずに飛ばし読みしてしまうようなことはないって信じられるわ。"
+
+translate Japanese mas_text_speed_enabler_51982c8c:
+    m 1tuu "だけど、{w=0.3}このスピードに追いつけるかしら？"
+
+translate Japanese mas_text_speed_enabler_212f1e8d:
+    m 3tuu "{cps=*2}早口で話せるのよ……{/cps}{nw}"
+
+translate Japanese mas_text_speed_enabler_0fb41a85:
+    m 3hub "あはは～"
+
+translate Japanese mas_text_speed_enabler_ac206356:
+    m 3hua "それに、一緒にいる時間が長くなれば長いほど読むのがきっと早くなると思うわ。"
+
+translate Japanese mas_text_speed_enabler_e30c6fc9:
+    m "だから気が向いたときに気軽に文字速度を変えてみてね。"
 
 translate Japanese _call_mas_notification_windowreact_f5e7f2f5:
     m 1hub "[player]、エキサイティングなお知らせがあるよ！"
@@ -808,25 +874,25 @@ translate Japanese mas_gift_giving_instructs_13919c99:
 translate Japanese mas_change_to_def_24a4fc7b:
     m 3esa "ちょっと待ってね、[player]君。もうちょっと快適になるはずだから……"
 
-translate Japanese _call_mas_clothes_change_99308961:
+translate Japanese _call_mas_clothes_change_9_99308961:
     m 2hua "うん、これで良し！"
 
-translate Japanese _call_mas_clothes_change_2867e154:
+translate Japanese _call_mas_clothes_change_9_2867e154:
     m 1eka "こんにちは[player]君、古い制服が恋しくなって……"
 
-translate Japanese _call_mas_clothes_change_75cd519f:
+translate Japanese _call_mas_clothes_change_9_75cd519f:
     m 3eka "ちょっと変えてくるから，そこで待ってて……"
 
-translate Japanese _call_mas_clothes_change_1_7cb5ebd1:
+translate Japanese _call_mas_clothes_change_10_7cb5ebd1:
     m "さて，今日はほかに何をしようかしら？"
 
 translate Japanese mas_blazerless_intro_24a4fc7b:
     m 3esa "ちょっと待ってね、[player]君。もうちょっと快適になるはずだから……"
 
-translate Japanese _call_mas_clothes_change_2_99308961:
+translate Japanese _call_mas_clothes_change_11_99308961:
     m 2hua "うん、これで良し！"
 
-translate Japanese _call_mas_clothes_change_2_9e3d683a:
+translate Japanese _call_mas_clothes_change_11_9e3d683a:
     m 3eka "でもまたブレザー姿の私が見たくなったら、いつでも言って。すぐに出してくるわ。"
 
 translate Japanese mas_birthdate_year_redux_819f6f71:
@@ -973,6 +1039,21 @@ translate Japanese strings:
 
     old "[input_prompt]"
     new "[input_prompt!t]"
+
+    old "I don't really feel...{w=0.5}comfortable calling you that all the time."
+    new "私は……{w=0.5}あなたをいつもそう呼んでいることに違和感は感じてないわ。"
+
+    old "That's...{w=0.5}not something I would like to call you, [player]."
+    new "それは……{w = 0.5}私があなたをそう呼びたくないわ、[player]。"
+
+    old "That is...{w=0.5}not something I would like to call you, [player]."
+    new "それは……{w = 0.5}私があなたをそう呼びたくないわ、[player]。"
+
+    old "Not that it's bad but..."
+    new "悪くはないけど……"
+
+    old "Are you trying to embarrass me, [player]?"
+    new "私を困らせたいのかしら、[player]？"
 
     old "That's a wonderful name!"
     new "とっても素敵な名前ね！"

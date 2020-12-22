@@ -157,13 +157,13 @@ translate Japanese mas_reaction_gift_generic_clothes_json_c3d263b2:
 translate Japanese mas_reaction_gift_generic_clothes_json_dccef013:
     m 1hub "ありがとう、 [player]！{w=0.5}早速着てみるね！"
 
-translate Japanese _call_mas_clothes_change_3_52925ef2:
+translate Japanese _call_mas_clothes_change_52925ef2:
     m 2eka "えっと……{w=0.5} どうかな？"
 
-translate Japanese _call_mas_clothes_change_3_e700f64e:
+translate Japanese _call_mas_clothes_change_e700f64e:
     m 2eksdla "似合う？"
 
-translate Japanese _call_mas_clothes_change_3_155b4010:
+translate Japanese _call_mas_clothes_change_155b4010:
     m 1eua "改めてありがとうね"
 
 translate Japanese mas_reaction_gift_hairclip_99cd7451:
@@ -232,16 +232,16 @@ translate Japanese mas_reaction_gift_coffee_17df1737:
 translate Japanese mas_reaction_gift_coffee_5034c871:
     m 1eua "だってこの初体験あなたと分かち合いたいもの。"
 
-translate Japanese _call_mas_transition_to_emptydesk_1_47df51b9:
+translate Japanese _call_mas_transition_to_emptydesk_6_47df51b9:
     m "このあたりにコーヒーマシンがあったはず……{w=2}{nw}"
 
-translate Japanese _call_mas_transition_to_emptydesk_1_01d81027:
+translate Japanese _call_mas_transition_to_emptydesk_6_01d81027:
     m "ああ、あった！{w=2}{nw}"
 
-translate Japanese _call_mas_transition_to_emptydesk_1_26b7cf02:
+translate Japanese _call_mas_transition_to_emptydesk_6_26b7cf02:
     m "さあ、始めるわよ！{w=2}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_1_e44bf370:
+translate Japanese _call_mas_transition_from_emptydesk_10_e44bf370:
     m 1eua "コーヒーを入れるのに数分かかるわね。"
 
 translate Japanese mas_reaction_hotchocolate_e915dde0:
@@ -259,8 +259,8 @@ translate Japanese mas_reaction_hotchocolate_894e0386:
 translate Japanese mas_reaction_hotchocolate_41002722:
     m "本当にありがとう、[player]！"
 
-translate Japanese mas_reaction_hotchocolate_085f315f:
-    m 3rksdla "実はホットチョコレートを切らしちゃってて、あはは...{w=0.5} {nw}"
+translate Japanese mas_reaction_hotchocolate_867a350f:
+    m 3rksdlu "実はホットチョコレートを切らしちゃってて、あはは……{w=0.5}{nw}"
 
 translate Japanese mas_reaction_hotchocolate_43080da4:
     extend 3eub "だから今あなたからもらったのは素晴らしいよ！　"
@@ -295,7 +295,7 @@ translate Japanese mas_reaction_hotchocolate_995c4839:
 translate Japanese mas_reaction_hotchocolate_1fd5a84a:
     m 3eua "実のところ、今いれようと思うの！"
 
-translate Japanese _call_mas_transition_from_emptydesk_2_cb1cad3f:
+translate Japanese _call_mas_transition_from_emptydesk_11_cb1cad3f:
     m 1hua "そうね、数分で準備出来るわ。"
 
 translate Japanese mas_thermos_mug_handler_ce02bbb4:

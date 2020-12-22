@@ -358,8 +358,11 @@ translate Japanese bye_prompt_sleep_reglitch_c207c96e:
 translate Japanese bye_prompt_sleep_reglitch_3179f438:
     m 1eua "そっか、お昼寝するんだね。"
 
-translate Japanese bye_prompt_sleep_reglitch_cdf617a9:
-    m 1hua "あはは〜　良いお昼寝を、[player]君。"
+translate Japanese bye_prompt_sleep_reglitch_bc76fab9:
+    m 1hub "あはは〜{w=0.1}{nw}"
+
+translate Japanese bye_prompt_sleep_reglitch_7cfe49f0:
+    extend 1hua "良いお昼寝を、[player]君。"
 
 translate Japanese bye_prompt_sleep_reglitch_4a34d2be:
     m 2esc "仮眠を取るの、[player]？"

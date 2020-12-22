@@ -19,8 +19,8 @@ translate Japanese _mas_pong_inst_dialogue_896ad903:
 translate Japanese _mas_pong_inst_dialogue_32d0248c:
     m "もう一度遊びたい？{fast}" nointeract
 
-translate Japanese mas_pong_dlg_winner_d9cdf1a0:
-    m 1rksdla "あはは……"
+translate Japanese mas_pong_dlg_winner_5687489f:
+    m 1rksdlb "あはは……"
 
 translate Japanese mas_pong_dlg_winner_a46ee899:
     m 1hksdla "お手柔らかにとは言ったけど……ここまでとは思ってないよ、[player]君。"
@@ -169,14 +169,20 @@ translate Japanese _call_mas_pong_dlg_sorry_assuming_1_84278014:
 translate Japanese _call_mas_pong_dlg_sorry_assuming_1_7f98eaa4:
     m 3hub "よくやったわ、[player]君。本当に上手いよ！"
 
-translate Japanese _call_mas_pong_dlg_sorry_assuming_1_754db7b3:
-    m 1tfu "私もね、あはは！"
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_0fc07073:
+    m 1tfu "私もね、{w=0.1}{nw}"
+
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_fc1094f0:
+    extend 1hub "あはは！"
 
 translate Japanese _call_mas_pong_dlg_sorry_assuming_1_3d58073b:
     m 3hub "またまた速攻で勝っちゃった～"
 
-translate Japanese _call_mas_pong_dlg_sorry_assuming_1_f43a522a:
-    m 4hub "えへへ、こんなものよ！"
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_1e8c368f:
+    m 4huu "えへへ、{w=0.1}{nw}"
+
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_c538a87f:
+    extend 4hub "こんなものよ！"
 
 translate Japanese _call_mas_pong_dlg_sorry_assuming_1_dc220caa:
     m 2eksdld "あらら……"
@@ -187,8 +193,8 @@ translate Japanese _call_mas_pong_dlg_sorry_assuming_1_70d8a5bc:
 translate Japanese _call_mas_pong_dlg_sorry_assuming_1_5fd8aa55:
     m 1hksdlb "ごめんね、[player]君！"
 
-translate Japanese _call_mas_pong_dlg_sorry_assuming_1_31b6ed88:
-    m 2rksdla "あはは、ごめんね、[player]君！"
+translate Japanese _call_mas_pong_dlg_sorry_assuming_1_b1f73823:
+    m 2rksdlb "あはは、ごめんね、[player]君！"
 
 translate Japanese _call_mas_pong_dlg_sorry_assuming_1_6e997764:
     m 3hksdlb "ここまでするつもりはなかったの……"
