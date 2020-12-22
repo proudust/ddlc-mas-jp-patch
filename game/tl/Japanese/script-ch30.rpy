@@ -70,8 +70,8 @@ translate Japanese _call_spaceroom_1_7fb2135b:
 translate Japanese _call_spaceroom_1_95847534:
     m 4tfu "あなたを真っ先に削除しなければいけないのかな。"
 
-translate Japanese _call_hideconsole_2_2c49587d:
-    m 1hua "あはは！"
+translate Japanese _call_hideconsole_2_3772217d:
+    m 1hub "あはは！"
 
 translate Japanese _call_hideconsole_2_b776c801:
     m "ちょっとからかってみただけ！"

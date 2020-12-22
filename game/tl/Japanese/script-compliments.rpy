@@ -433,8 +433,8 @@ translate Japanese mas_compliment_pong_79815326:
 translate Japanese mas_compliment_pong_d8927aee:
     m "何をしていようと、あなたと過ごすのは大好きなんだもん。"
 
-translate Japanese mas_compliment_pong_336eab24:
-    m 1hua "あはは～"
+translate Japanese mas_compliment_pong_e6f89ce6_1:
+    m 1hub "あはは～"
 
 translate Japanese mas_compliment_pong_37c3ed86:
     m "なるほどね！"

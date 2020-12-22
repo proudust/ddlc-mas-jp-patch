@@ -4,10 +4,10 @@ translate Japanese monika_showpoem_ccc4d9a5:
 translate Japanese monika_showpoem_aec3fbc2:
     m 3hua "いいわよ！"
 
-translate Japanese _call_mas_showpoem_2_3aa9bd6c:
+translate Japanese _call_mas_showpoem_3_3aa9bd6c:
     m 3eka "[player]君、気に入ってくれた？"
 
-translate Japanese _call_mas_showpoem_2_bd219ce5:
+translate Japanese _call_mas_showpoem_3_bd219ce5:
     m 1eua "OK、[player]君。"
 
 translate Japanese strings:

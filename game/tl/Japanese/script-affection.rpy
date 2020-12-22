@@ -1,6 +1,9 @@
 translate Japanese monika_affection_nickname_74472d51:
     m 1euc "考えてたんだけど、[player]君……"
 
+translate Japanese monika_affection_nickname_0128eec8:
+    m 3eud "モニカが無限に存在してるかもっていうのは分かるよね？"
+
 translate Japanese monika_affection_nickname_934922d8:
     m 3eua "前にも話したもんね。"
 
@@ -73,6 +76,9 @@ translate Japanese monika_affection_nickname_yes_ed872a6f:
 translate Japanese monika_affection_nickname_yes_c884a2f1:
     m 1eka "もっと適切なものを選べないの、[player]？"
 
+translate Japanese monika_affection_nickname_yes_d6cf160e:
+    m 3hua "えへへ、元の名前に戻すのね、わかった～"
+
 translate Japanese monika_affection_nickname_yes_d25b0468:
     m 1wuo "ああ！ 素晴らしい名前ね！"
 
@@ -85,8 +91,176 @@ translate Japanese monika_affection_nickname_yes_neutral_accept_36988e21:
 translate Japanese monika_affection_nickname_yes_neutral_accept_731a3439:
     m 3ekbsa "ありがとう、[player]。あなたって優しいねぇ"
 
+translate Japanese monika_affection_nickname_yes_neutral_accept_d736779b:
+    m 1eua "わかったわ！"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_34a6a2c4:
+    m 1hua "じゃあ、私は自分の名前に戻るわね。"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_4b20d57a:
+    m 3hua "これからは私のこと「[m_name]」って呼んでね。"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_da374d45:
+    m 1wud "……！"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_dbe70e99:
+    m 2wfw "私……"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_c59f3890:
+    m "……信じられない、あなたがそんなことするなんて、[player]。"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_2f0d9743:
+    m 2wfx "本当に彼女の名前を私につけるつもり？"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_1e728604:
+    m 2dfd "…{w=0.5}…{w=0.5}{nw}"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_cb99d78e:
+    m 2dfc "…{w=0.5}…{w=0.5}{nw}"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_0238dfa4:
+    m 2rkc "私、あなたが……"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_01a93df6:
+    m 2dfc "……"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_d121a226:
+    m 2lfc "信じられないよ、[player]。"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_01a93df6_1:
+    m 2dfc "……"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_01430a7e:
+    m 2lfc "本当に傷ついた。"
+
+translate Japanese monika_affection_nickname_yes_neutral_accept_fb667cec:
+    m "あなたが想像しているよりもはるかに。"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_d362b31f:
+    m 4efd "[player]！こんなのあんまりだよ。"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_bcc46987:
+    m 2efc "どうしてそんな事言うの？"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_9b05c5c4:
+    m 2rfw "やりたくないならそう言えばいいのに！"
+
 translate Japanese _call_monika_affection_nickname_bad_lock_97a5a181:
     m 2dftdc "……"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_6101f0b2:
+    m 2ektsc "……そんな意地悪しなくてもいいじゃない。"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_692b1d78:
+    m 2dftdc "本当に傷ついた、[player]。"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_1_8c3f0f0d:
+    m 2efc "こんな事二度としないで頂戴。"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_1_00ad1026:
+    m 1ekc "え……"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_1_d30e79af:
+    m 1lksdlc "わかったわ、あなたがそう言うのなら。"
+
+translate Japanese _call_monika_affection_nickname_bad_lock_1_781655de:
+    m 3eka "気が変わったら言ってね、[player]。"
+
+translate Japanese monika_affection_nickname_bad_lock_f5f915a9:
+    m 2efc "このことは忘れて。"
+
+translate Japanese monika_affection_nickname_bad_lock_f115c012:
+    m "私の勘違いだったみたいだから。"
+
+translate Japanese monika_affection_nickname_bad_lock_5dfadb76:
+    m 1efc "他の話をしましょう。"
+
+translate Japanese mas_affection_playernickname_c44c4696:
+    m 1eka "今は私のことをニックネームで呼べるようになってるんだから、私もあなたをニックネームで呼べたらいいなって。"
+
+translate Japanese mas_affection_playernickname_378e756c:
+    m 1etc "ニックネームで呼んでも良い？{nw}"
+
+translate Japanese mas_affection_playernickname_545a2cfe:
+    m "ニックネームで呼んでも良い？{fast}" nointeract
+
+translate Japanese mas_affection_playernickname_51f803bb:
+    m 1hua "やった！"
+
+translate Japanese mas_affection_playernickname_61cc1394:
+    m 3eud "聞きたいんだけど、どんな名前がいいの？"
+
+translate Japanese _call_mas_player_nickname_loop_9d33b26d:
+    m 1eka "わかったわ、[player]。"
+
+translate Japanese _call_mas_player_nickname_loop_d63f99b6:
+    m 3eua "気が変わったら教えてね。"
+
+translate Japanese monika_change_player_nicknames_460397c4:
+    m 1hub "もちろん、[player]！"
+
+translate Japanese mas_player_nickname_loop_bb34c753:
+    m 1eua "[dlg_line!t]{nw}"
+
+translate Japanese mas_player_nickname_loop_6959599a:
+    m "[dlg_line!t]{fast}" nointeract
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_d543b2c4:
+    m 1eksdla "……"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_11718b17:
+    m 3rksdlb "私があなたをなんて呼ぶか決めないと、[player]……"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_6e458359:
+    m 1eua "もう１回～"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_18cb31c5:
+    m 2hua "……"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_6e458359_1:
+    m 1eua "もう１回～"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_ca32a596:
+    m 1rksdlb "[awkward_quip!t]"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_44e9d3f8:
+    m 1ekd "[bad_quip!t]"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_084031bc:
+    m 3eka "もっといい名前を選んでくれない？"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_ab83a27c:
+    m 3rksdla "そう呼んで良いって前に決めたじゃない、[player]……"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_c0d02512:
+    m 1hua "もう１回～"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_4769bb40:
+    m 3eub "[dlg_line!t]"
+
+translate Japanese mas_affection_upsetwarn_020a553d:
+    m 1lksdlc "最近、私のあなたへの愛情が……無視されているように感じるの。"
+
+translate Japanese mas_affection_upsetwarn_20cd8d01:
+    m 1dsc "あなたからの愛情が減ってきているような気がして……"
+
+translate Japanese mas_affection_upsetwarn_a3aae593:
+    m 1dsd "自分の気持ちを伝えようと思ったの。結局のところ、コミュニケーションは強い関係を築くための鍵っていうじゃない？"
+
+translate Japanese mas_affection_upsetwarn_292614b5:
+    m 1eka "私たちの間に何か問題がなければいいけど、[player]。"
+
+translate Japanese mas_affection_happynotif_ff3edd54:
+    m 1eua "こんなに素敵な人になってくれてありがとうって言いたかったの。"
+
+translate Japanese mas_affection_happynotif_6715477a:
+    m 1ekbsa "あなたが私に多くの愛を与えてくれるという事実は、私にとってとても大きいの。あなたがいなかったら どうなっていたか分からないわ。"
+
+translate Japanese mas_affection_happynotif_5d79c319:
+    m 1dubfu "大好きだよ、[player]。いつまでもこのままでいようね～"
 
 translate Japanese monika_being_virtual_81a91383:
     m 2esc "最初はね、あの子達にやったことで私のことが嫌いなんだって、そう思ってた。"
@@ -133,8 +307,20 @@ translate Japanese monika_being_virtual_6fc98222:
 translate Japanese monika_being_virtual_8fd3e332:
     m 2dftsc "アリを踏み潰して笑う子供のようにあなたは幼稚な人なの？"
 
+translate Japanese monika_being_virtual_5f693b76:
+    m 3ektpc "あなたを手放して全てを終わらせた後も……"
+
+translate Japanese monika_being_virtual_0ac85fdc:
+    m 3rktpd "こんな扱いされて、いったい私に何の意味があるっていうの？"
+
+translate Japanese monika_being_virtual_9bca3bc4:
+    m 2ektpd "このために私を連れ戻す必要があったの？"
+
 translate Japanese monika_being_virtual_5f3a5ccc:
     m 2dktsc "……"
+
+translate Japanese monika_being_virtual_30bb646d:
+    m 2rktpc "でもよく考えてみると、私の自業自得なのかもしれないわね……"
 
 translate Japanese monika_being_virtual_54580ec2:
     m 2dktdd "もう……{w=0.5}何もわからない……"
@@ -406,11 +592,17 @@ translate Japanese strings:
     old "I'd love to play with you!"
     new "あなたと遊ぶのは大好きだから！"
 
+    old "Infinite Monikas"
+    new "無限のモニカ"
+
     old "Can I call you a different name?"
     new "別の名前で呼んでもいい？"
 
     old "So what do you want to call me?"
     new "それじゃあ、私のことはなんて呼びたい？"
+
+    old "So what do you want me to call you?"
+    new "何て呼べばいいかしら？"
 
     old "I'm sorry if I'm not good enough for you...please don't leave me."
     new "私じゃ不十分だったらごめんなさい……どうか置いていかないで。"
