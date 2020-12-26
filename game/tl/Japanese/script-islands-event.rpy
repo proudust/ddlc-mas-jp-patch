@@ -194,7 +194,7 @@ translate Japanese mas_island_day2_43ec7f75:
     m "互いの目を見つめあうの。"
 
 translate Japanese mas_island_day2_3bb1ddd1:
-    m "そうしてだんだん近づいていって、それでもうちょっとで…"
+    m "そうしてだんだん近づいていって、それでもうちょっとで……"
 
 translate Japanese mas_island_day2_d92a1ddf:
     m "あとはご想像にお任せするわ、[player]君～"

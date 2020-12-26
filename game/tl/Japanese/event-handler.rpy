@@ -1,5 +1,5 @@
 translate Japanese mas_bookmarks_unbookmark_c42f8f06:
-    m 1dsa "分かったわ、[player]君。{w=0.2}.{w=0.2}.{w=0.2}{nw}"
+    m 1dsa "分かったわ、[player]君{w=0.2}…{w=0.2}…{w=0.2}{nw}"
 
 translate Japanese mas_bookmarks_unbookmark_73747bba:
     m 3hua "できたよ！"

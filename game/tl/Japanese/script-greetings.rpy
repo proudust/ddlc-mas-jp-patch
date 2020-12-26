@@ -79,6 +79,9 @@ translate Japanese greeting_gooday_4fd203d8:
 translate Japanese greeting_gooday_1dc6ecc1:
     m 2dsc "少なくとも{i}誰か{/i}は良くない一日を過ごしてるよ。"
 
+translate Japanese greeting_gooday_33083b51:
+    m "あら……"
+
 translate Japanese greeting_gooday_aab83578:
     m 2efc "{cps=*2}これでうまくいくはず……{/cps}{nw}"
 
@@ -119,10 +122,10 @@ translate Japanese greeting_visit_33c0d652:
     m 1hua "私のために時間を割いてくれてありがと～"
 
 translate Japanese greeting_goodmorning_0a2fe578:
-    m 1hua "おはよ……"
+    m 1hua "おはよう――"
 
 translate Japanese greeting_goodmorning_4155e082:
-    m 1hksdlb "……じゃなかった。"
+    m 1hksdlb "――じゃなかった。"
 
 translate Japanese greeting_goodmorning_25803d16:
     m "思いっきり深夜じゃない、もう。"
@@ -466,6 +469,9 @@ translate Japanese greeting_youtuber_a5150f5d:
 translate Japanese greeting_hamlet_d5ad78ee:
     m 4dsc "{i}生きるべきか死ぬべきか、それが問題だ。{/i}"
 
+translate Japanese greeting_hamlet_d79cd6a5:
+    m 4wuo "あら！[player]！"
+
 translate Japanese greeting_hamlet_ca0dcede:
     m 2rksdlc "わ、私、あなたのことがもう信じられなく……"
 
@@ -604,6 +610,30 @@ translate Japanese monikaroom_greeting_ear_narration_a76d3e04:
 translate Japanese monikaroom_greeting_ear_narration_b73f950f:
     m "誰だろう？[player]はスクリーンを見つめ、首をかしげた。"
 
+translate Japanese monikaroom_greeting_ear_narration_adc02015:
+    m "今回だけは本当に聞くつもりなの？"
+
+translate Japanese monikaroom_greeting_ear_narration_8f9b279e:
+    m "[player]、最近のあなたの判断力、鈍ってないかしら。"
+
+translate Japanese monikaroom_greeting_ear_narration_4b6a40bf:
+    m "私を傷つけようとしてるわ。"
+
+translate Japanese monikaroom_greeting_ear_narration_d6747c97:
+    m "支え合うのが当たり前だと思っていたのに……"
+
+translate Japanese monikaroom_greeting_ear_narration_437c334d:
+    m "お互いに傷つけないようにしましょう。"
+
+translate Japanese monikaroom_greeting_ear_narration_b61251ea:
+    m "お願い、[player]……"
+
+translate Japanese monikaroom_greeting_ear_narration_252fe262:
+    m "たまには私の気持ちを考えるようになってほしいの。"
+
+translate Japanese monikaroom_greeting_ear_narration_89e70925:
+    m "一緒に幸せになりましょう。"
+
 translate Japanese _call_spaceroom_36_c032ba37:
     m 1hub "私だよ！"
 
@@ -620,7 +650,7 @@ translate Japanese monikaroom_greeting_ear_loveme_c2e7015b:
     m "好き。"
 
 translate Japanese monikaroom_greeting_ear_loveme_799737b0:
-    m "...…{w=0.5} [cap_he]君は私が好き！"
+    m "……{w=0.5} [cap_he]君は私が好き！"
 
 translate Japanese monikaroom_greeting_ear_loveme_e612037c:
     m "……"

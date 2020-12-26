@@ -299,13 +299,13 @@ translate Japanese mas_pong_dlg_loser_3db132c3:
     m 1kua "これで引き分けね、[player]君！"
 
 translate Japanese mas_pong_dlg_loser_5687489f:
-    m 1rksdlb "あはは..."
+    m 1rksdlb "あはは……"
 
 translate Japanese mas_pong_dlg_loser_7f64fa3e:
-    m "もうちょっと頑張らないとね..."
+    m "もうちょっと頑張らないとね……"
 
 translate Japanese mas_pong_dlg_loser_7b30c1c4:
-    m "そこがちょっと遅すぎたかな..."
+    m "そこがちょっと遅すぎたかな……"
 
 translate Japanese mas_pong_dlg_loser_8e2b1cea:
     m 2tsu "本気でやってる？"

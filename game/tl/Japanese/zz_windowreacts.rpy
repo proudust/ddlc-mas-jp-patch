@@ -21,4 +21,4 @@ translate Japanese strings:
     new "[player]君、話したいことがあるんだ！"
 
     old "Hey [player], I want to tell you something.,"
-    new "ねぇ、話があるんだけど..."
+    new "ねぇ、話があるんだけど……"
