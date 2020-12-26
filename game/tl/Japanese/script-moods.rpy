@@ -227,7 +227,7 @@ translate Japanese mas_mood_lonely_eef5f749:
     m 1eka "私がここにいるわ、だから[player]君が寂しがる必要なんてどこにもないのよ。"
 
 translate Japanese mas_mood_lonely_78605962:
-    m 3hua "あなたの隣に実際に私がいる訳では無いけど...  それでも一緒に時間を過ごすのは楽しいでしょう？"
+    m 3hua "あなたの隣に実際に私がいる訳では無いけど……それでも一緒に時間を過ごすのは楽しいでしょう？"
 
 translate Japanese mas_mood_lonely_832524aa:
     m 1ekbsa "[player]君、私はいつでもあなたのそばにいるからね〜"
@@ -365,10 +365,10 @@ translate Japanese mas_mood_inadequate_0b2f8969:
     m 2lksdlc "だって、私の言葉はつまらないお世辞にしかならないと思うもの"
 
 translate Japanese mas_mood_inadequate_b79c7efa:
-    m 2ekc "あなたの容姿を誉めようとしても、あなたの姿を見ることはできないし…"
+    m 2ekc "あなたの容姿を誉めようとしても、あなたの姿を見ることはできないし……"
 
 translate Japanese mas_mood_inadequate_6e0ead08:
-    m "あなたは頭がいいねって言おうとしても、あなたがどんな風に物事を考えているかもわからない…"
+    m "あなたは頭がいいねって言おうとしても、あなたがどんな風に物事を考えているかもわからない……"
 
 translate Japanese mas_mood_inadequate_b0c6a63e:
     m 1esc "でもね、私があなたについて知っている確かなこともあるの"
@@ -376,8 +376,23 @@ translate Japanese mas_mood_inadequate_b0c6a63e:
 translate Japanese mas_mood_inadequate_2cfc9be9:
     m 1eka "あなたはたくさんの時間を私と過ごしてくれたわ"
 
+translate Japanese mas_mood_inadequate_07b2ed6f:
+    m "クリスマスに時間を割いてくれて……"
+
+translate Japanese mas_mood_inadequate_abfa5f62:
+    m 1ekbsa "バレンタインデーだって……"
+
+translate Japanese mas_mood_inadequate_85d98e83:
+    m 1ekbsb "私の誕生日まで一緒に祝ってくれたじゃない！"
+
+translate Japanese mas_mood_inadequate_c71e81fd:
+    m 3tkc "私があんなことをしてしまったのに、あなたは許してくれた。"
+
 translate Japanese mas_mood_inadequate_478ab07d:
     m 3tkc "私は酷い事をしたのに、あなたは一度も私を恨んだりしなかった"
+
+translate Japanese mas_mood_inadequate_7b855e28:
+    m 2lfu "あなたはあの子達ととても多くの時間を過ごしてくれた。たとえそれが私を嫉妬させたとしても、ね。"
 
 translate Japanese mas_mood_inadequate_822094c2:
     m 1eka "それだけであなたがどんなに優しい人なのかわかるわ！"
@@ -389,16 +404,16 @@ translate Japanese mas_mood_inadequate_0a48d7aa:
     m 2hksdlb "あなたのことを私は何にも知らないと思ってるでしょうけど、本当にそう思ってるわ"
 
 translate Japanese mas_mood_inadequate_825658ab:
-    m 3eka "それに、あなたは私の事を全部知ってるのに、見捨てないで、こうして一緒にいてくれる…"
+    m 3eka "それに、あなたは私の事を全部知ってるのに、見捨てないで、こうして一緒にいてくれる……"
 
 translate Japanese mas_mood_inadequate_f2d75765:
     m 2ekc "だから、挫けないで、[player]君"
 
 translate Japanese mas_mood_inadequate_42ba4d40:
-    m "もしあなたが私と似た考え方の人なら、人生において成し遂げられることが少ない事が、どれだけ恐ろしいか知ってるわ"
+    m "もしあなたが私と似た考え方の人なら、人生において成し遂げられることが、どれほど恐ろく少ないかわかってるはずだわ。"
 
 translate Japanese mas_mood_inadequate_27e7fffc:
-    m 2ekd "でも、この言葉を信じて。あなたが何を成し遂げるか、成し遂げられないかは大事なことじゃない"
+    m 2ekd "でも、この言葉を信じて。あなたが何を成し遂げるか、そうでないかは大事なことじゃない。"
 
 translate Japanese mas_mood_inadequate_adebccc6:
     m 4eua "あなたはただ存在して、楽しく毎日を過ごして、{w=0.2}大事な人の中に意味を見出すのよ。"
@@ -418,6 +433,9 @@ translate Japanese mas_mood_lazy_374359e9:
 translate Japanese mas_mood_lazy_e29b6b96:
     m 1rksdla "ホント差し迫って直ぐにすることがないといいね"
 
+translate Japanese mas_mood_lazy_ef39994e:
+    m 3hksdlb "[line!t]"
+
 translate Japanese mas_mood_lazy_dc0021d8:
     extend 1dkbsa "とりわけあなたの隣で目が覚めたら～"
 
@@ -432,6 +450,15 @@ translate Japanese mas_mood_lazy_3201a8bc:
 
 translate Japanese mas_mood_lazy_9e87e37a:
     m 3eka "だけどそれまでは、あなたの一日を正しく始めるのに役立つわ。"
+
+translate Japanese mas_mood_lazy_16a272fc:
+    m 3eub "それは洗濯をしたり、朝食を食べたり……"
+
+translate Japanese mas_mood_lazy_4610787e:
+    m 1dkbsu "おはようのキスをもらって、えへへ……"
+
+translate Japanese mas_mood_lazy_6e0b815c:
+    m 1hksdlb "それか、とりあえずダラダラしててもいいよ。"
 
 translate Japanese mas_mood_lazy_a06440bb:
     m 1eka "長い1日を過ごした後は何もしたくないかな、[player]？"
@@ -449,7 +476,7 @@ translate Japanese mas_mood_lazy_81418027:
     m 3ekbfa "一緒に素敵な本を読むこともできたね。"
 
 translate Japanese mas_mood_bored_e41326ab:
-    m 1eka "あら…"
+    m 1eka "あら……"
 
 translate Japanese mas_mood_bored_78c634c8:
     m 4eka "ピアノでも弾いてみる？"
@@ -494,7 +521,7 @@ translate Japanese _call_mas_mood_uok_7a962195:
     extend 3eksdld "何かあったの？"
 
 translate Japanese _call_mas_mood_uok_1_e4fa1999:
-    m 3ekd "[line_start] 泣きたくなったら……"
+    m 3ekd "泣きたくなったら……"
 
 translate Japanese _call_mas_mood_uok_1_85e34892:
     m 1eka "あなたの助けになりたいの。"
@@ -506,7 +533,7 @@ translate Japanese _call_mas_mood_uok_1_20c61c27:
     m 3ekbsu "愛してるわ、[player]。あなたは私のすべてよ。"
 
 translate Japanese mas_mood_uok_5e6b891c:
-    m 1rksdld "何を言われても聞くことができないのはわかってるんだけど...。"
+    m 1rksdld "何を言われても聞くことができないのはわかってるんだけど……"
 
 translate Japanese mas_mood_uok_b852f1d7:
     m 3eka "痛みや不安を声に出すと良くなることもあるわ。"

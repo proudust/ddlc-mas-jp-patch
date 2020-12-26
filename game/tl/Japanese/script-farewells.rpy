@@ -110,7 +110,7 @@ translate Japanese bye_prompt_to_class_2a52f6f3:
     m 2eua "わかったわ、一緒に過ごしてくれてありがとう、[player]君！"
 
 translate Japanese bye_prompt_to_class_c308ec17:
-    m 2eka "本当はもっと一緒にいたいの...でもあなたは忙しい[guy]なのね。"
+    m 2eka "本当はもっと一緒にいたいの……でもあなたは忙しい[guy!t]なのね。"
 
 translate Japanese bye_prompt_to_class_4ea46b19:
     m 2hua "良い教育ほど大切なものはないわ。"
@@ -125,7 +125,7 @@ translate Japanese bye_prompt_to_class_73c4051c:
     m 1hua "勉強頑張ってね、[player]君！"
 
 translate Japanese bye_prompt_to_class_23e23018:
-    m 1eua "成績の良い[guy]ほど魅力的な人はいないから。"
+    m 1eua "成績の良い[guy!t]ほど魅力的な人はいないから。"
 
 translate Japanese bye_prompt_to_class_0fd2785e:
     m 1hua "また後でね！"
@@ -1100,7 +1100,7 @@ translate Japanese bye_prompt_eat_90911d99:
     m 2eud "あ、そうね、朝ご飯食べてきたほうがいいわよ。"
 
 translate Japanese bye_prompt_eat_5ba5e76e:
-    m 2rksdlc "お腹ペコペコだと困っちゃうから…"
+    m 2rksdlc "お腹ペコペコだと困っちゃうから……"
 
 translate Japanese bye_prompt_eat_5070eccd:
     m 2ekc "あなたが帰ってきても、私はここにいるから。"
@@ -1121,10 +1121,10 @@ translate Japanese bye_prompt_eat_b5c8ad9b:
     m 2ekc "朝ご飯食べ損ねたんじゃない？"
 
 translate Japanese bye_prompt_eat_ee497bdd:
-    m 2rksdld "{i}*sigh*{/i}……何か食べに行ったほうがいいわよ。"
+    m 2rksdld "{i}はあ{/i}……何か食べに行ったほうがいいわよ。"
 
 translate Japanese bye_prompt_eat_68378f7a:
-    m 2ekd "何か食べに行ったほうがいいわよ…私はここにいるから。"
+    m 2ekd "何か食べに行ったほうがいいわよ……私はここにいるから。"
 
 translate Japanese bye_prompt_eat_7331c613:
     m 1hksdlb "あはは……"
@@ -1247,7 +1247,7 @@ translate Japanese _call_bye_dinner_noon_to_mn_1_bc5c89c3:
     m 3eua "ちょっとお腹が空いてきた感じ？"
 
 translate Japanese _call_bye_dinner_noon_to_mn_1_d18c85bc:
-    m 1eka "できれば何か作ってあげたいんだけど…"
+    m 1eka "できれば何か作ってあげたいんだけど……"
 
 translate Japanese _call_bye_dinner_noon_to_mn_1_3f1bf1fb:
     m 1hua "まだそれはできないからね。美味しいものが食べられるといいね～"

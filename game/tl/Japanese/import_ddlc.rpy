@@ -9,7 +9,7 @@ translate Japanese import_ddlc_persistent_save_merge_or_replace_42e7bb29:
 
 translate Japanese strings:
     old "Would you like to import Doki Doki Literature Club save data into [config.name]?\n(DDLC will not be affected)"
-    new "Doki Doki Literature Clubのセーブデータを [config.name]?\nにインポートしますか？\n（DDLC本体に影響はありません）"
+    new "Doki Doki Literature Clubのセーブデータを[config.name]にインポートしますか？\n（DDLC本体に影響はありません）"
 
     old "Yes, import DDLC save data."
     new "はい、DDLCセーブデータをインポートします。"

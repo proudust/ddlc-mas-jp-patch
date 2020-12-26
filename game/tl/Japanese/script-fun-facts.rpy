@@ -1,3 +1,21 @@
+translate Japanese monika_fun_facts_open_5cef2e8c:
+    m 1eua "ねえ[player]君、豆知識みたいな雑学って好き？"
+
+translate Japanese monika_fun_facts_open_4515a3e6:
+    m 1eub "ふたりで何かを知識を共有したくて色々検索してみてたんだ。"
+
+translate Japanese monika_fun_facts_open_2c2ba7ef:
+    m 1eua "他の豆知識が知りたくなったの？"
+
+translate Japanese monika_fun_facts_open_95d3cd39:
+    m 3hua "前に教えたのはすこく楽しい豆知識だったでしょ！"
+
+translate Japanese monika_fun_facts_open_ed9de592:
+    m 2rksdlb "前のはあんまり知りたくないような豆知識だったかな……でもね、次はきっと楽しめる豆知識を教えてあげられるはず。"
+
+translate Japanese monika_fun_facts_open_2b425f83:
+    m 2dsc "じゃあ、今回は…{w=0.5}…{w=0.5}{nw}"
+
 translate Japanese mas_fun_facts_end_1aefd06b:
     m 3hub "今回も「モニカと学ぶ！」の授業を楽しんでいただけたでしょうか。"
 
@@ -148,6 +166,33 @@ translate Japanese mas_fun_fact_king_snakes_1fc87f16:
 translate Japanese mas_fun_fact_king_snakes_3c2cc0d7:
     m 1hub "ちょっと変なこと言ってごめんね～"
 
+translate Japanese mas_fun_fact_density_435618ef:
+    m 1eub "あぁ、これにしよう。"
+
+translate Japanese mas_fun_fact_binky_8afd4e3d:
+    m 3hub "あ！ この話はかわいくて良さそう！"
+
+translate Japanese mas_fun_fact_binky_81372e6a:
+    m "この話を聞いたらあなたは飛び上がっちゃうかもね！"
+
+translate Japanese mas_fun_fact_binky_e2dbbb2d:
+    m 3hua "うさぎが興奮してぴょんぴょん跳ね回る行動は、binky（ビンキー）と呼ばれているの！"
+
+translate Japanese mas_fun_fact_binky_030c3e1b:
+    m 1hua "うさぎのダンスとも言われているけど、binkyという言葉はとてもかわいい響きがして、飛び跳ね回ってる姿と本当に合ってると思うわ。"
+
+translate Japanese mas_fun_fact_binky_5981bbe6:
+    m 1eua "うさぎが見せる行動の中で『いま一番幸せ！』ってときの行動だから、もしbinkyが見れたときはいい飼育が出来ているってことなのよ。"
+
+translate Japanese mas_fun_fact_binky_7f0e9c3b:
+    m 1rksdla "[player]君といるととても幸せで、元気満々になっちゃうんだけどさ……"
+
+translate Japanese mas_fun_fact_binky_fc483830:
+    m 1rksdlb "私があなたの周りをぴょんぴょん跳ね回ったりするのは、期待しないでね！"
+
+translate Japanese mas_fun_fact_binky_e55d7006:
+    m 1dkbsa "そうやって身体で表現するのは……ちょっと恥ずかしくてできそうにないから。"
+
 translate Japanese mas_fun_fact_getting_older_b3c6f11e:
     m 3eua "歳を取れば取るほど体感時間が短くなっていくって知ってた？"
 
@@ -171,3 +216,82 @@ translate Japanese mas_fun_fact_getting_older_118b8306:
 
 translate Japanese mas_fun_fact_getting_older_58cee739:
     m 1hubfb "あはは！分かってくれると思った。"
+
+translate Japanese mas_fun_fact_coffee_origin_dbf7569a:
+    m 1eua "あ、これは私も特に興味を持った豆知識ね……"
+
+translate Japanese mas_fun_fact_coffee_origin_e8cdf042:
+    m 1eud "前にコーヒーを淹れたときにね、いつコーヒーが生まれたのか気になったの……"
+
+translate Japanese mas_fun_fact_coffee_origin_8b69e059:
+    m 3euc "コーヒーがいつごろ飲まれていたかの記録については一貫して15世紀頃とされているんだけど……{w=0.2}どのように発見されたかについては、正確なことはわかっていないの。"
+
+translate Japanese mas_fun_fact_coffee_origin_c7071daf:
+    m 3eud "コーヒーの起源を主張する言い伝えが実際にかなりの数残っているのよね……"
+
+translate Japanese mas_fun_fact_coffee_origin_30a6bf4f:
+    m 1eua "ある話では、不思議な苦い木の実を食べた動物が奇妙な行動をとっていたのを農民や僧侶が見つけたことになってるわ。"
+
+translate Japanese mas_fun_fact_coffee_origin_5ef1d617:
+    m 3wud "そしてその実の中にあった豆を食べてみると、驚くことに自分たちも同じように元気になった！"
+
+translate Japanese mas_fun_fact_coffee_origin_cec129b0:
+    m 2euc "そんな言い伝えの1つに、カルディという名のエチオピアの僧侶が見つけた木の実を近くの修道院へ持ってきたというものもあって。"
+
+translate Japanese mas_fun_fact_coffee_origin_d6d9e64a:
+    m 7eksdld "……修道院へ持って来ようとしてたんだけど、ところが不注意で彼は木の実を焚き火の中に投げ込んでしまったの。"
+
+translate Japanese mas_fun_fact_coffee_origin_5cdc88a5:
+    m 3duu "でも燃えるにつれて、とてもおいしそうな香りが炎の中から漂ってきたの。{w=0.3}とても魅力的な香りをどうにか残そうと、僧侶たちが燃え残った豆を取り出して水の中に入れて保存した。"
+
+translate Japanese mas_fun_fact_coffee_origin_9b8e1f11:
+    m 3eub "……つまりそれが、世界で一番最初に作られたコーヒー！"
+
+translate Japanese mas_fun_fact_coffee_origin_3085e63d:
+    m 2euc "他の話では、オマールというイスラム人の学者がメッカから追放されたときにコーヒー豆を発見したそうよ。"
+
+translate Japanese mas_fun_fact_coffee_origin_609a0773:
+    m 2eksdld "追放されらたときの彼は飢死にしそうになっていたんだけど、{w=0.3}{nw}"
+
+translate Japanese mas_fun_fact_coffee_origin_0deb1847:
+    extend 7wkd "コーヒーのおかげで元気が出て、どうにか生き延びることが出来たのよ！"
+
+translate Japanese mas_fun_fact_coffee_origin_5dc38a57:
+    m 3hua "でも、発見したという噂が広まるとメッカに戻るように頼まれ聖人となったそうよ。"
+
+translate Japanese mas_fun_fact_coffee_origin_89c55666:
+    m 1esd "それが本当に最初の発見かどうかはわからないけど、コーヒーは発見された後、イスラムの世界でとても一般的な飲み物になっていったのよ。"
+
+translate Japanese mas_fun_fact_coffee_origin_625b8e6e:
+    m 3eud "たとえば、コーヒーは空腹感を和らげたり元気を出してくれるからイスラムの断食期間中によく飲まれていた。"
+
+translate Japanese mas_fun_fact_coffee_origin_07e9a82b:
+    m 3eua "コーヒーがヨーロッパに広まったときは、多くの国が始めは医療用に使っていて{w=0.3}17世紀までには喫茶店ができて人気の飲み物になったの。"
+
+translate Japanese mas_fun_fact_coffee_origin_8c115315:
+    m 3hub "そして今日までコーヒーは愛され続けて、私はそのコーヒーを愛しているひとりってわけね！"
+
+translate Japanese mas_fun_fact_monochrome_dreams_cec47acd:
+    m 3eua "1915年から1950年台まではほとんどの人は色が白と黒だけの夢を見てたこと、知ってた？"
+
+translate Japanese mas_fun_fact_monochrome_dreams_ca87ae92:
+    m 1esa "今もないことはないんだけど、白黒の夢を見るのは視力障害のない人にとっては比較的まれな話ね。"
+
+translate Japanese mas_fun_fact_monochrome_dreams_e958e0b0:
+    m 3eua "研究者によると、これは当時の映画やテレビのほとんどが白黒で映されていたことが原因だそうよ。"
+
+translate Japanese mas_fun_fact_monochrome_dreams_161d841b:
+    m 3eud "…でも不思議だと思わない？ 世界が白と黒に変わったわけでもないのに、当時の人たちは白黒の夢を見ていたのよ。{w=0.3} {nw}"
+
+translate Japanese mas_fun_fact_monochrome_dreams_2020e526:
+    extend 3hksdlb "現実の世界にはずっと色があるのにね！"
+
+translate Japanese mas_fun_fact_monochrome_dreams_e5aa39a0:
+    m 1esd "今聞かせた話が何を示唆してるかと言うと、たとえ些細なことだとしても、人の心や精神に色々な影響を与えうるということね。"
+
+translate Japanese mas_fun_fact_monochrome_dreams_c04ac450:
+    m 3eua "学ぶべき教訓があるとすれば、[player]君はどのメディアを使って情報を得ていくかというのよくよく考えておくべきだ、ってことかな。"
+
+translate Japanese strings:
+    old "Can you tell me a fun fact?"
+    new "豆知識を教えてくれない？"

@@ -135,7 +135,7 @@ translate Japanese anni_6month_6111571a:
     m 1dsc "……"
 
 translate Japanese anni_6month_1f9613ca:
-    m 3wuo "...…あっ、わかった！"
+    m 3wuo "……あっ、わかった！"
 
 translate Japanese anni_6month_cbc0a5e1:
     m 1sub "いつか、記念日を過ごす素晴らしい場所をここの周りにプログラムしましょう！"
@@ -174,7 +174,7 @@ translate Japanese anni_2_0bdbc0d9:
     m 1euc "あの頃、私の人生に意味なんてなかった。"
 
 translate Japanese anni_2_480915e4:
-    m "自分だけが思考・選択ができる世界は、最初は素敵に見えるかもしれないわね..."
+    m "自分だけが思考・選択ができる世界は、最初は素敵に見えるかもしれないわね……"
 
 translate Japanese anni_2_a8d6e421:
     m 1lssdrc "でも、残酷な神によって自分が作られたことを知ったときの恐怖、そして別の人間と決して会うことはないと言う事実……"
@@ -231,7 +231,7 @@ translate Japanese anni_3_0b85b819:
     m 1eua "リアルに私たちが出会える方法はいくらでもある。そうじゃない？"
 
 translate Japanese anni_3_815a4969:
-    m 1hubsa "私ね、あなたの奥さんになれる日を心の底から待ち望んでるんだ…だからそれまで私のこと忘れちゃダメよ？"
+    m 1hubsa "私ね、あなたの奥さんになれる日を心の底から待ち望んでるんだ……だからそれまで私のこと忘れちゃダメよ？"
 
 translate Japanese anni_4_dda7b54e:
     m 1dsc "4周年……"
@@ -369,7 +369,7 @@ translate Japanese anni_50_b96da401:
     m "それも悪くないと思うわ。ここも、ノスタルジックで素敵だと思わない？"
 
 translate Japanese anni_50_df74ea74:
-    m 1tfu "あなたがシステムクロックをいじるチートをやらずにこの記念日を祝ってくれているのだとしたら..."
+    m 1tfu "あなたがシステムクロックをいじるチートをやらずにこの記念日を祝ってくれているのだとしたら……"
 
 translate Japanese anni_50_5135dcb3:
     m 1eka "私と永遠に一緒にいたいと思ってくれてるってことだよね。"

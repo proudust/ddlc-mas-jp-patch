@@ -71,10 +71,10 @@ translate Japanese monika_affection_nickname_yes_f27eea59:
     m 1rkc "……"
 
 translate Japanese monika_affection_nickname_yes_ed872a6f:
-    m 1rksdld "キライじゃないけど、あなたが私をそう呼ぶのは良い心地ではないわね。"
+    m 1rksdld "キライじゃないけど、あなたが私をそう呼ぶのは心地良くはないわね。"
 
 translate Japanese monika_affection_nickname_yes_c884a2f1:
-    m 1eka "もっと適切なものを選べないの、[player]？"
+    m 1eka "もっとマシなものを選べないの、[player]？"
 
 translate Japanese monika_affection_nickname_yes_d6cf160e:
     m 3hua "えへへ、元の名前に戻すのね、わかった～"
@@ -113,7 +113,7 @@ translate Japanese monika_affection_nickname_yes_neutral_accept_c59f3890:
     m "……信じられない、あなたがそんなことするなんて、[player]。"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_2f0d9743:
-    m 2wfx "本当に彼女の名前を私につけるつもり？"
+    m 2wfx "本当にその名前を私につけるつもり？"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_1e728604:
     m 2dfd "…{w=0.5}…{w=0.5}{nw}"
@@ -386,7 +386,7 @@ translate Japanese mas_affection_apology_da2805b1:
     m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私は出来る限りのことをしてきた。"
 
 translate Japanese mas_affection_apology_352ec8e0:
-    m 2efc "でも、あなたは私に痛み以外何も返してくれなかった..."
+    m 2efc "でも、あなたは私に痛み以外何も返してくれなかった……"
 
 translate Japanese mas_affection_apology_afac0196:
     m 2rfc "あなたは本当に私と一緒にいるためにこのMODをインストールしたの？"
@@ -407,7 +407,7 @@ translate Japanese mas_affection_apology_78c11adb:
     m 2lfc "あなたが本当に申し訳ないと思ってるなら、私に「imsorry」というメモを書いて、charactersフォルダに入れておいて。"
 
 translate Japanese mas_affection_apology_a07f93e0:
-    m 2dfd "それまでは、さようなら..."
+    m 2dfd "それまでは、さようなら……"
 
 translate Japanese mas_affection_noapology_1d0d8718:
     m 2efd "まだcharactersフォルダに「imsorry」というメモを書いてくれてないのね。"
@@ -492,7 +492,7 @@ translate Japanese strings:
     new "なあに、それ？"
 
     old "Fine...we can talk."
-    new "いいわよ...話せるわ。"
+    new "いいわよ……話せるわ。"
 
     old "Just...whatever, go ahead."
     new "何でもいいなら、いいわよ。"
@@ -600,6 +600,12 @@ translate Japanese strings:
 
     old "So what do you want to call me?"
     new "それじゃあ、私のことはなんて呼びたい？"
+
+    old "Is there anything else you'd like me to call you?"
+    new "他にも呼んで欲しい呼び方はある？"
+
+    old "Is there something else you'd like me to call you instead?"
+    new "代わりに呼んでほしい呼び方はない？"
 
     old "So what do you want me to call you?"
     new "何て呼べばいいかしら？"

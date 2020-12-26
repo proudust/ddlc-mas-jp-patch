@@ -74,7 +74,7 @@ translate Japanese mas_chess_savegame_527218b8:
     m "上書きしてもいい？{fast}" nointeract
 
 translate Japanese mas_chess_savegame_2c941545:
-    m 1dsc ".{w=0.5}.{w=0.5}.{nw}"
+    m 1dsc "…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_chess_savegame_3cffd949:
     m 1hua "「[display_file_path]」にセーブしたよ！"

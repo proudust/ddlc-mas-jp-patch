@@ -284,7 +284,7 @@ translate Japanese mas_compliment_smile_3_45d9cd96:
     m "えへへ～"
 
 translate Japanese mas_compliment_hero_a84041e3:
-    m 1wubssdld "は…{w=0.3}はあ？"
+    m 1wubssdld "は……{w=0.3}はあ？"
 
 translate Japanese mas_compliment_hero_aaca9c5d:
     m "私があなたのヒーローって？"
@@ -476,16 +476,16 @@ translate Japanese mas_compliment_bestgirl_3fc15209:
     m 5hubfa "……そうしてくれて、感謝してもしきれないわ～"
 
 translate Japanese mas_compliment_lookuptoyou_2_24e62001:
-    m 1wud "あなたが...{w=0.5}あなたがやるの？"
+    m 1wud "あなたが……{w=0.5}あなたがやるの？"
 
 translate Japanese mas_compliment_lookuptoyou_2_36c741ac:
-    m 1ekbsa "[player]君、あなたは本当にかっこいいことを言うのね..."
+    m 1ekbsa "[player]君、あなたは本当にかっこいいことを言うのね……"
 
 translate Japanese mas_compliment_lookuptoyou_2_a9edab27:
     m 3ekbsa "あなたが私を尊敬してくれてるとわかって本当に幸せよ。"
 
 translate Japanese mas_compliment_lookuptoyou_2_ed698b49:
-    m 3ekbfa "本当は、私だっていつもあなたを尊敬しているわ、[player]君..."
+    m 3ekbfa "本当は、私だっていつもあなたを尊敬しているわ、[player]君……"
 
 translate Japanese mas_compliment_lookuptoyou_2_66b06e6a:
     m 3hubfa "でも本当にそう思ってくれてるなら、私も尊敬され続けるようにベストを尽くすわ。"
@@ -555,7 +555,7 @@ translate Japanese mas_compliment_thinking_of_you_3_5d35416c:
 
 translate Japanese strings:
     old "I want to tell you something..."
-    new "言いたいことがあるんだ..."
+    new "言いたいことがあるんだ……"
 
     old "You're so sweet, [player]."
     new "本当に優しいのね、[player]君。"

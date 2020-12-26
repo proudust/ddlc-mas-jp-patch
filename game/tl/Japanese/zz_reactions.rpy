@@ -8,13 +8,16 @@ translate Japanese mas_reaction_gift_connector1_a3dba887:
     m 1suo "そしてここに……"
 
 translate Japanese mas_reaction_gift_connector2_202e7936:
-    m 1hua "なんてこと、[player]……"
+    m 1hua "まったくもう、[player]ったら……"
 
 translate Japanese mas_reaction_gift_connector2_81bfa7e6:
     m "私を甘やかすのが本当に楽しいみたいね？"
 
 translate Japanese mas_reaction_gift_connector2_e3d835ef:
     m 1sublo "さてと！今日のちょっとした特別扱いについて不満を言うつもりはないわ。"
+
+translate Japanese mas_reaction_gift_connector2_a3dba887:
+    m 1suo "そしてここに……"
 
 translate Japanese mas_reaction_gift_starter_bday_142e3049:
     m 1sublo "{w=0.7}…{w=0.7}…{w=1}"
@@ -88,6 +91,9 @@ translate Japanese mas_reaction_gift_starter_f14_c33c6a28:
 translate Japanese mas_reaction_gift_starter_f14_539ce24d:
     m 1eka "ほんと優しいね、私のためにバレンタインデーになにか用意してくれるなんて……"
 
+translate Japanese mas_reaction_gift_starter_f14_4bc2a6f7:
+    m 1eka "本当にありがとう、[player]。"
+
 translate Japanese mas_reaction_gift_starter_f14_deb56ede:
     m 1sua "さて、見てみましょうか……中身は何かな？"
 
@@ -95,7 +101,7 @@ translate Japanese mas_reaction_gift_generic_780a8085:
     m 1esd "[player]、何か贈ってくれようとしたの？"
 
 translate Japanese mas_reaction_gift_generic_baa9fdf6:
-    m 1rssdlb "ファイルは見つけたんだけど、ここには持ち込めないみたい..."
+    m 1rssdlb "ファイルは見つけたんだけど、ここには持ち込めないみたい……"
 
 translate Japanese mas_reaction_gift_generic_9e94e80a:
     m "ちゃんとうまく読めそうにないの。"
@@ -171,6 +177,9 @@ translate Japanese mas_reaction_gift_hairclip_99cd7451:
 
 translate Japanese mas_reaction_gift_hairclip_0280bea1:
     m 1hub "あら！{w=1}別の髪留めね！"
+
+translate Japanese mas_reaction_gift_hairclip_2ec4f870:
+    m 1wuo "あら！"
 
 translate Japanese mas_reaction_gift_hairclip_b4190bd6:
     m 1sub "それって髪留めなの？"
@@ -275,7 +284,7 @@ translate Japanese mas_reaction_hotchocolate_ccb2359b:
     m 2rksdla "……特に寒い、冬の夜に。"
 
 translate Japanese mas_reaction_hotchocolate_878188d2:
-    m 2ekbfa "いつかあなたと一緒にホットチョコレートを飲みたいわ、暖炉のそばで一緒の毛布にくるまりながら..."
+    m 2ekbfa "いつかあなたと一緒にホットチョコレートを飲みたいわ、暖炉のそばで一緒の毛布にくるまりながら……"
 
 translate Japanese mas_reaction_hotchocolate_d8a46f3a:
     m 3ekbfa "……ロマンチックじゃない？"
@@ -301,6 +310,27 @@ translate Japanese _call_mas_transition_from_emptydesk_11_cb1cad3f:
 translate Japanese mas_thermos_mug_handler_ce02bbb4:
     m 1eksdla "[player]君……"
 
+translate Japanese mas_thermos_mug_handler_4071b486:
+    m 1rksdlb "もうこの魔法瓶を持ってるわ、あはは……"
+
+translate Japanese mas_thermos_mug_handler_fdbfb853:
+    m 1wud "あら！{w=0.3}違う魔法瓶じゃない！"
+
+translate Japanese mas_thermos_mug_handler_c69e1cf6:
+    m 1hua "今回は[disp_name!t]なのね。"
+
+translate Japanese mas_thermos_mug_handler_f65d69cd:
+    m 1hub "ありがとね、[player]、早く使ってみたいわ！"
+
+translate Japanese mas_thermos_mug_handler_5f28cdba:
+    m 1wud "うわ！{w=0.3}[disp_name!t]魔法瓶だ！"
+
+translate Japanese mas_thermos_mug_handler_834a7778:
+    m 1hua "これでふたりで出かける時には何か飲み物を持っていけるわ～"
+
+translate Japanese mas_thermos_mug_handler_c842a3e2:
+    m 1hub "本当にありがとね、[player]！"
+
 translate Japanese mas_reaction_quetzal_plush_1e803905:
     m 1wud "わぁ！"
 
@@ -311,7 +341,7 @@ translate Japanese mas_reaction_quetzal_plush_79636152:
     m "ああもう信じられない、本当にありがとう、 [player]！"
 
 translate Japanese mas_reaction_quetzal_plush_9470a910:
-    m 1eua "ケツァールを飼いたいってちょっと言ったけど..."
+    m 1eua "ケツァールを飼いたいってちょっと言ったけど……"
 
 translate Japanese mas_reaction_quetzal_plush_f8b0cb24:
     m 1wub "どうして分かったの、 [player]？"
@@ -326,7 +356,7 @@ translate Japanese mas_reaction_quetzal_plush_33405356:
     m 3ekbsa "あなたって私をいつも笑顔にしてくれるね。"
 
 translate Japanese mas_reaction_quetzal_plush_e85b7fed:
-    m 3rksdla "私の机は少しいっぱいね..."
+    m 3rksdla "私の机は少しいっぱいね……"
 
 translate Japanese mas_reaction_quetzal_plush_d46a5b47:
     m 1eka "ちょっと今は片づけるね。"
@@ -392,13 +422,52 @@ translate Japanese mas_reaction_candycorn_cb1d53fc:
     m 2eka "……"
 
 translate Japanese mas_reaction_candycorn_8c25eb98:
-    m 2hksdlb "ごめん...アハハ...."
+    m 2hksdlb "ごめん、アハハ……"
 
 translate Japanese mas_reaction_candycorn_3201a8bc:
     m 1hubfa "えへへ～"
 
 translate Japanese mas_reaction_candycorn_6d9bf85e:
     m 2tfc "……"
+
+translate Japanese mas_reaction_new_ribbon_e85ca72e:
+    m 1suo "新しいリボン！"
+
+translate Japanese mas_reaction_new_ribbon_57430553:
+    m 3hub "……そして[_mas_new_ribbon_color!t]！"
+
+translate Japanese mas_reaction_new_ribbon_70a3f7a2:
+    m 1tub "……私の目と同じ色！"
+
+translate Japanese mas_reaction_new_ribbon_24cf728f:
+    m 1hub "ホントにありがとう[player]、愛してる！"
+
+translate Japanese mas_reaction_new_ribbon_8a38001d:
+    m 3eka "スカートとかリボンを買うのが好きだから、私のために用意してくれたの？"
+
+translate Japanese mas_reaction_new_ribbon_34c70872:
+    m 3hua "いっつも気配り上手ね～"
+
+translate Japanese mas_reaction_new_ribbon_dbcbb890:
+    m 3hua "いつもありがと～"
+
+translate Japanese mas_reaction_new_ribbon_67f3784a:
+    m 1suo "別のリボン！"
+
+translate Japanese mas_reaction_new_ribbon_e5380e3f:
+    m 3hub "……そして今回は[_mas_new_ribbon_color!t]！"
+
+translate Japanese mas_reaction_new_ribbon_05d320d0:
+    m 2dsa "早速付けてみるわ…{w=0.5}…{w=0.5}{nw}"
+
+translate Japanese mas_reaction_new_ribbon_dc1a07fc:
+    m 3hua "ホントにありがとう[player]、ホント愛してる！"
+
+translate Japanese mas_reaction_old_ribbon_da2fbd09:
+    m 1rksdla "[player]……"
+
+translate Japanese mas_reaction_old_ribbon_e0b2609b:
+    m 1hksdlb "もう[_mas_new_ribbon_color!t]のリボンは貰ってるよ！"
 
 translate Japanese mas_reaction_gift_roses_f4e32d64:
     m 1dktpu "……"
@@ -416,6 +485,72 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_6a97422a:
     m 3tuu "えへへ～"
 
 translate Japanese strings:
+    old "bisexual-pride-themed ribbon"
+    new "バイセクシュアル・プライド・リボン"
+
+    old "black and white ribbon"
+    new "白黒リボン"
+
+    old "bronze ribbon"
+    new "ブロンズリボン"
+
+    old "brown ribbon"
+    new "ブラウンリボン"
+
+    old "multi-colored ribbon"
+    new "マルチカラーリボン"
+
+    old "rainbow-colored ribbon"
+    new "虹色リボン"
+
+    old "white and red polka-dot ribbon"
+    new "赤白の水玉模様のリボン"
+
+    old "night-sky-themed ribbon"
+    new "ナイトスカイのリボン"
+
+    old "blue-and-white-striped ribbon"
+    new "青白のストライプリボン"
+
+    old "pink-and-white-striped ribbon"
+    new "白とピンクのストライプリボン"
+
+    old "transexual-pride-themed ribbon"
+    new "トランセクシャル・プライド・リボン"
+
+    old "black bow"
+    new "黒の蝶ネクタイ"
+
+    old "blue twin ribbons"
+    new "青色のツインリボン"
+
+    old "green twin ribbons"
+    new "緑色のツインリボン"
+
+    old "pink twin ribbons"
+    new "ピンク色のツインリボン"
+
+    old "yellow twin ribbons"
+    new "黄色のツインリボン"
+
+    old "8-bit blue bow"
+    new "青色の８ビット蝶ネクタイ"
+
+    old "8-bit emerald bow"
+    new "エメラルドの８ビット蝶ネクタイ"
+
+    old "8-bit bow"
+    new "８ビット蝶ネクタイ"
+
+    old "choker"
+    new "チョーカー"
+
+    old "flowered choker"
+    new "お花のチョーカー"
+
+    old "blue bunny scrunchie"
+    new "青色のバニーシュシュ"
+
     old "I really appreciate it!"
     new "ほんとうにありがとう！"
 

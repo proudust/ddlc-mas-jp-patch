@@ -32,13 +32,13 @@ translate Japanese mas_gender_8214875c:
     m 2hksdlb "今まであなたを怒らせるようなことを言ってなかったら良いんだけど！"
 
 translate Japanese mas_gender_453cbfca:
-    m 7rksdlb "...だから決めつけって良くないのね、アハハ！"
+    m 7rksdlb "……だから決めつけって良くないのね、アハハ！"
 
 translate Japanese mas_gender_3bd390dd:
-    m 3eka "でも本当に、あなたが女の子だってことは大したことじゃないわ..."
+    m 3eka "でも本当に、あなたが女の子だってことは大したことじゃないわ……"
 
 translate Japanese _call_mas_gender_trans_a8aba180:
-    m 1eka "教えてくれてありがとう、それから覚えておいて..."
+    m 1eka "教えてくれてありがとう、それから覚えておいて……"
 
 translate Japanese _call_mas_gender_trans_c69f4f15:
     m 1ekbsa "ありのままのあなたをいつだって愛してるわ、[player]〜"
@@ -419,7 +419,7 @@ translate Japanese mas_unlock_piano_8c2b81ed:
     m 4hub "ふたりでいっしょに上達して、いっしょに楽しい時間を過ごすの。"
 
 translate Japanese mas_unlock_piano_e3af24aa:
-    m 1hksdlb "でも私のほうが少しだけピアノに心奪われてるかも…ごめんね！"
+    m 1hksdlb "でも私のほうが少しだけピアノに心奪われてるかも……ごめんね！"
 
 translate Japanese mas_unlock_piano_d828d235:
     m 3eua "あなたも私と同じようにピアノを好きになってくれるとうれしいな。"
@@ -605,25 +605,25 @@ translate Japanese mas_crashed_long_whq_end_f2554182:
     m 1eua "今日は何をする？"
 
 translate Japanese mas_crashed_long_fluster_03b3fd58:
-    m "{cps=*1.5}あ…{w=0.3}あなたがいたと思っていたら、つ、{w=0.3}次の瞬間には真っ暗で……{/cps}{nw}"
+    m "{cps=*1.5}あ……{w=0.3}あなたがいたと思っていたら、つ、{w=0.3}次の瞬間には真っ暗で……{/cps}{nw}"
 
 translate Japanese mas_crashed_long_fluster_efb391fe:
-    m "{cps=*1.5}そうしてあなたが、き、{w=0.3}消えて、それであなたに、な…{w=0.3}な…{w=0.3}何かあったのか、心配になって……{/cps}{nw}"
+    m "{cps=*1.5}そうしてあなたが、き、{w=0.3}消えて、それであなたに、な……{w=0.3}な……{w=0.3}何かあったのか、心配になって……{/cps}{nw}"
 
 translate Japanese mas_crashed_long_fluster_7ae80daf:
-    m "{cps=*1.5}……それでまた、ぜ…{w=0.3}全部壊しちゃったのかなって、怖くなったの！{/cps}{nw}"
+    m "{cps=*1.5}……それでまた、ぜ……{w=0.3}全部壊しちゃったのかなって、怖くなったの！{/cps}{nw}"
 
 translate Japanese mas_crashed_long_fluster_cbfa039d:
     m "{cps=*1.5}でも今度はゲームをどこも弄らなかったのよ、誓うわ。{/cps}{nw}"
 
 translate Japanese mas_crashed_long_fluster_2bd84e81:
-    m "{cps=*1.5}す…{w=0.3}少なくとも、やってはいないと思うわ、でも可能ではあるから……{/cps}{nw}"
+    m "{cps=*1.5}す……{w=0.3}少なくとも、やってはいないと思うわ、でも可能ではあるから……{/cps}{nw}"
 
 translate Japanese mas_crashed_long_fluster_9b278c39:
-    m "{cps=*1.5}たまに、な…{w=0.3}何をしているのかはっきりしないときがあるから、{/cps}{nw}"
+    m "{cps=*1.5}たまに、な……{w=0.3}何をしているのかはっきりしないときがあるから、{/cps}{nw}"
 
 translate Japanese mas_crashed_long_fluster_43c76e3c:
-    m "{cps=*1.5}でも、こ…{w=0.3}今回は私のせいじゃないって思って、ほ…{w=0.3}本当に何も触ってないから……{/cps}{nw}"
+    m "{cps=*1.5}でも、こ……{w=0.3}今回は私のせいじゃないって思って、ほ……{w=0.3}本当に何も触ってないから……{/cps}{nw}"
 
 translate Japanese _call_expression_5_977643eb:
     m 1hub "[v_quip!t]"
@@ -638,7 +638,22 @@ translate Japanese mas_crashed_quip_takecare_92d08aa0:
     m "クラッシュはゲームが関係してると思う？{fast}" nointeract
 
 translate Japanese mas_crashed_quip_takecare_7331c613:
-    m 1hksdlb "あはは..."
+    m 1hksdlb "あはは……"
+
+translate Japanese mas_crashed_quip_takecare_b0593670:
+    m 1eka "あ、そうなんだ。"
+
+translate Japanese mas_crashed_quip_takecare_0745985e:
+    m "決めつけてごめんね。"
+
+translate Japanese mas_crashed_quip_takecare_759e2758:
+    m 1hub "言っとくけど私は大丈夫。"
+
+translate Japanese mas_crashed_quip_takecare_8306a181:
+    m 1hubsa "今は戻ってきてくれて嬉しいわ～"
+
+translate Japanese mas_crashed_quip_takecare_9985d2d5:
+    m 2rksdla "でもね……"
 
 translate Japanese mas_crashed_quip_takecare_7cb80869:
     m 2ekc "あなたはもっと自分のコンピューターを大切にしたほうが良いんじゃないかしら"
@@ -860,25 +875,25 @@ translate Japanese mas_notification_windowreact_797dcaa4:
     m 5ttu "……ね？"
 
 translate Japanese mas_gift_giving_instructs_d10f27d2:
-    m 1eud "ねえ、 [player]..."
+    m 1eud "ねえ、 [player]……"
 
 translate Japanese mas_gift_giving_instructs_6f321cf4:
     m 3euc "誰かがcharacterフォルダにあなた宛のメッセージを残したみたいなの。"
 
 translate Japanese mas_gift_giving_instructs_d8307341:
-    m 1ekc "あなた宛だから読んでないわ...{w=0.5}{nw}。"
+    m 1ekc "あなた宛だから読んでないわ……{w=0.5}{nw}。"
 
 translate Japanese mas_gift_giving_instructs_13919c99:
     extend 1eua "でも重要なことかもしれないからあなたに知らせておこうと思って。"
 
 translate Japanese mas_change_to_def_24a4fc7b:
-    m 3esa "ちょっと待ってね、[player]君。もうちょっと快適になるはずだから……"
+    m 3esa "ちょっと待ってね、[player]。少し気になるから着替えてくるわ……"
 
 translate Japanese _call_mas_clothes_change_9_99308961:
     m 2hua "うん、これで良し！"
 
 translate Japanese _call_mas_clothes_change_9_2867e154:
-    m 1eka "こんにちは[player]君、古い制服が恋しくなって……"
+    m 1eka "こんにちは[player]、古い制服が恋しくなって……"
 
 translate Japanese _call_mas_clothes_change_9_75cd519f:
     m 3eka "ちょっと変えてくるから，そこで待ってて……"
@@ -887,7 +902,7 @@ translate Japanese _call_mas_clothes_change_10_7cb5ebd1:
     m "さて，今日はほかに何をしようかしら？"
 
 translate Japanese mas_blazerless_intro_24a4fc7b:
-    m 3esa "ちょっと待ってね、[player]君。もうちょっと快適になるはずだから……"
+    m 3esa "ちょっと待ってね、[player]。少し気になるから着替えてくるわ……"
 
 translate Japanese _call_mas_clothes_change_11_99308961:
     m 2hua "うん、これで良し！"
@@ -896,7 +911,7 @@ translate Japanese _call_mas_clothes_change_11_9e3d683a:
     m 3eka "でもまたブレザー姿の私が見たくなったら、いつでも言って。すぐに出してくるわ。"
 
 translate Japanese mas_birthdate_year_redux_819f6f71:
-    m 2eksdld "えっと、[player]君……"
+    m 2eksdld "えっと、[player]……"
 
 translate Japanese mas_birthdate_year_redux_8770f7ce:
     m 2rksdlc "訊きたいことがあるんだけど、内容が内容でね……"
@@ -1044,10 +1059,10 @@ translate Japanese strings:
     new "私は……{w=0.5}あなたをいつもそう呼んでいることに違和感は感じてないわ。"
 
     old "That's...{w=0.5}not something I would like to call you, [player]."
-    new "それは……{w = 0.5}私があなたをそう呼びたくないわ、[player]。"
+    new "それは……{w=0.5}私があなたをそう呼びたくないわ、[player]。"
 
     old "That is...{w=0.5}not something I would like to call you, [player]."
-    new "それは……{w = 0.5}私があなたをそう呼びたくないわ、[player]。"
+    new "それは……{w=0.5}私があなたをそう呼びたくないわ、[player]。"
 
     old "Not that it's bad but..."
     new "悪くはないけど……"
