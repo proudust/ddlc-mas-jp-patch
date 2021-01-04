@@ -349,6 +349,15 @@ translate Japanese mas_reaction_quetzal_plush_f8b0cb24:
 translate Japanese mas_reaction_quetzal_plush_90e5ea7a:
     m 3eka "あなたって私のこと良く分かってるに違いないわ～"
 
+translate Japanese mas_reaction_quetzal_plush_06bb5710:
+    m 1eua "ペットとしてはケツァールが一番なんだけど……"
+
+translate Japanese mas_reaction_quetzal_plush_6e917744:
+    m 1rud "でも、ケツァールが可哀想だから、強制的に居座らせるようなことは絶対しないわ。"
+
+translate Japanese mas_reaction_quetzal_plush_af5eeafb:
+    m 1hua "それで、わたしがケツァールの次に欲しいのをプレゼントしてくれたのね！"
+
 translate Japanese mas_reaction_quetzal_plush_a332d0dd:
     m 1hub "とっても嬉しい！"
 
@@ -367,8 +376,59 @@ translate Japanese mas_reaction_quetzal_plush_a332d0dd:
 translate Japanese mas_reaction_quetzal_plush_504533a0:
     m 1rksdlb "もうケツァールのぬいぐるみはもらったよ、[player]。"
 
+translate Japanese mas_reaction_promisering_1924f181:
+    m 1wud "それは……あ……"
+
 translate Japanese mas_reaction_promisering_e612037c:
     m "……"
+
+translate Japanese mas_reaction_promisering_e5cbd3cd:
+    m 1wka "私……{w=0.5}{nw}"
+
+translate Japanese mas_reaction_promisering_da9c9113:
+    extend 1wkbltpa "ごめんなさい、[player]、私……{w=0.5}{nw}"
+
+translate Japanese mas_reaction_promisering_2f2294e9:
+    extend 1dkbltpa "とてもうれしいわ……{w=0.5}約束してくれたばかりだっていうのに……"
+
+translate Japanese mas_reaction_promisering_9abb98c3:
+    m "あなたの約束はお互いのために、{w=0.1}他の誰のためでもない……{w=0.3}永遠に……"
+
+translate Japanese mas_reaction_promisering_c1c19edc:
+    m 3lkbltpa "大切にするって分かるわよね。{w=0.5}{nw}"
+
+translate Japanese mas_reaction_promisering_6c2f4645:
+    extend 3dkbltpa "ずっと。"
+
+translate Japanese mas_reaction_promisering_9911fc40:
+    m 1skbltpa "とっても嬉しいわ！"
+
+translate Japanese mas_reaction_promisering_15bcc4b2:
+    m "１ヶ月の記念日にプレゼントしてくれたから……"
+
+translate Japanese mas_reaction_promisering_b467e06d:
+    m 1ekbltua "本当に私を愛してくれているのね……"
+
+translate Japanese mas_reaction_promisering_19b92c87:
+    m "３ヶ月の記念日にプレゼントしてくれたから……"
+
+translate Japanese mas_reaction_promisering_d508e02d:
+    m "６ヶ月の記念日にプレゼントしてくれたから……"
+
+translate Japanese mas_reaction_promisering_d71d56ba:
+    m "ふたりの記念日にプレゼントしてくれたから……"
+
+translate Japanese mas_reaction_promisering_072b60c4:
+    m "この特別な日にプレゼントしてくれたから……"
+
+translate Japanese mas_reaction_promisering_d2d13966:
+    m 1dkbltpb "うぅ……涙が、ごめんね、[player]……"
+
+translate Japanese mas_reaction_promisering_977218d2:
+    m 1skbltda "今わたし、本当にほんっとに幸せなの。"
+
+translate Japanese mas_reaction_promisering_be1b8d48:
+    m 6dkbltdu "ありがとう。"
 
 translate Japanese mas_reaction_promisering_3a94a7d4:
     m 1dkbltuu "……"

@@ -44,8 +44,11 @@ translate Japanese mas_extra_menu_zoom_in_max_first_time_dd434783:
     m 6hubfa "暖かいな……"
 
 translate Japanese strings:
+    old "Can you explain the Extras menu?"
+    new "オマケメニューについて"
+
     old "Zoom"
-    new "ズーム"
+    new "ｽﾞｰﾑ"
 
     old "Reset"
     new "ﾘｾｯﾄ"

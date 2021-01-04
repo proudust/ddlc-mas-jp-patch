@@ -1416,3 +1416,6 @@ translate Japanese strings:
 
     old "I'm going to do some housework."
     new "家事をする"
+
+    old "I'm going to restart."
+    new "再起動"
