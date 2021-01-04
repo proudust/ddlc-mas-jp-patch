@@ -373,3 +373,8 @@ translate Japanese python:
                     self.day_button_texts.append((text_container, button_pos))
     if config.version == '0.11.9': # 0.11.9 の次バージョンでもう少し簡単に調整できるようにする予定
         MASCalendar._setupDayButtons = _setupDayButtons
+
+# zz_poems.rpy
+translate Japanese style mas_monika_poem_text:
+    font jpfonts.Ruriiro
+    size 30
