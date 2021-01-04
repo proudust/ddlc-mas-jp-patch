@@ -680,13 +680,64 @@ translate Japanese monika_rpy_files_b2896d32:
     m 1eka "ねえ[player]、「game」ディレクトリを見ていたのだけれど……"
 
 translate Japanese monika_rpy_files_b937d6e5:
-    m 1ekc "いくつか「.rpy」ファイルがあるみたいなの。"
+    m 1ekc "いくつか「.rpy」ファイルがあるみたいなの"
 
 translate Japanese monika_rpy_files_5fae93c5:
     m 3rksdlc "このファイルがあると更新したときの不具合の原因になったり……"
 
 translate Japanese monika_rpy_files_b03c4be4:
     m 3wud "あなたが私に会いに来れなくなるかもしれないの！"
+
+translate Japanese monika_rpy_files_7c1149e3:
+    m 2etc "もしかして……"
+
+translate Japanese monika_rpy_files_f86e0459:
+    m 4eua "私が少しでもあなたの世界に近づけるように、わざとソースコードを含むバージョンをインストールしたとか！"
+
+translate Japanese monika_rpy_files_4aef2c4b:
+    m 2eka "でも一応聞いておくよ……"
+
+translate Japanese monika_rpy_files_b04edbd3:
+    m "インストールしたバージョンは合ってる、[player]？{nw}"
+
+translate Japanese monika_rpy_files_c55d3808:
+    m "インストールしたバージョンは合ってる、[player]？{fast}" nointeract
+
+translate Japanese monika_rpy_files_24f031cb:
+    m 1sua "本当？あなたの世界に近づくのを手伝ってくれてありがとう！"
+
+translate Japanese monika_rpy_files_c7d1ccea:
+    m 1hua "愛してるわ、[player]～"
+
+translate Japanese monika_rpy_files_ef6dfa9c:
+    m "あらそう"
+
+translate Japanese monika_rpy_files_1d868665:
+    m 2rksdla "なら削除してしまった方が安全だと思うわ"
+
+translate Japanese monika_rpy_files_3d51ba20:
+    m 4eua "良ければ私の方で削除しちゃうけど"
+
+translate Japanese monika_rpy_files_ce9dc0a5:
+    m "削除していい、[player]？{nw}"
+
+translate Japanese monika_rpy_files_c74b28cb:
+    m "削除していい、[player]？{fast}" nointeract
+
+translate Japanese monika_rpy_files_be7a1c29:
+    m "わかったわ、[player]"
+
+translate Japanese _call_mas_rpy_file_delete_432f07f6:
+    m 2hua "いくよ！"
+
+translate Japanese _call_mas_rpy_file_delete_2bd4fd47:
+    m 2esa "次からはちゃんとソースコードを含まないバージョンをインストールしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
+
+translate Japanese _call_mas_rpy_file_delete_2f740c57:
+    m 2rksdlc "わかったわ、[player]。あなたがちゃんと理解してると信じるわ"
+
+translate Japanese _call_mas_rpy_file_delete_ce4ed721:
+    m 2eka "くれぐれも気をつけてね"
 
 translate Japanese mas_bday_player_bday_select_6860cc61:
     m 1eua "あなたの誕生日は？"
@@ -1085,6 +1136,9 @@ translate Japanese strings:
     old "Tell me, what is it."
     new "あなたの名前を教えて"
 
+    old "I changed my name"
+    new "違う名前で呼んで"
+
     old "Can you call me by a different name?"
     new "違う名前で呼んでほしいの？"
 
@@ -1132,6 +1186,12 @@ translate Japanese strings:
 
     old "It just happens."
     new "起きるときは起きる"
+
+    old "Yes please"
+    new "お願い"
+
+    old "No thanks"
+    new "結構"
 
     old "Yes, I'm sure!"
     new "うん、合ってるよ！"

@@ -4,6 +4,12 @@ translate Japanese monika_fun_facts_open_5cef2e8c:
 translate Japanese monika_fun_facts_open_4515a3e6:
     m 1eub "ふたりで何かを知識を共有したくて色々検索してみてたんだ。"
 
+translate Japanese monika_fun_facts_open_d414fd38:
+    m 3hub "毎日新しいことを学ぶといいってよく言うし、こうやって二人で学んじゃおうってわけ。"
+
+translate Japanese monika_fun_facts_open_563919c2:
+    m 1rksdla "ただこれネット検索で出てきたことがほとんどだから、絶対に正しい情報ってわけじゃないから注意してね……"
+
 translate Japanese monika_fun_facts_open_2c2ba7ef:
     m 1eua "他の豆知識が知りたくなったの？"
 
@@ -11,13 +17,19 @@ translate Japanese monika_fun_facts_open_95d3cd39:
     m 3hua "前に教えたのはすこく楽しい豆知識だったでしょ！"
 
 translate Japanese monika_fun_facts_open_ed9de592:
-    m 2rksdlb "前のはあんまり知りたくないような豆知識だったかな……でもね、次はきっと楽しめる豆知識を教えてあげられるはず。"
+    m 2rksdlb "前はうまく調べられなかったからね……でもね、次はきっと楽しめる豆知識を教えてあげられるはず。"
 
 translate Japanese monika_fun_facts_open_2b425f83:
     m 2dsc "じゃあ、今回は…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_fun_facts_end_1aefd06b:
     m 3hub "今回も「モニカと学ぶ！」の授業を楽しんでいただけたでしょうか。"
+
+translate Japanese mas_bad_facts_end_6372fe94:
+    m 1rkc "面白そうなのが見つからなかったわ……"
+
+translate Japanese mas_bad_facts_end_83678cfd:
+    m 4dkc "次はもう少し面白そうなのを見つけるからね"
 
 translate Japanese mas_fun_fact_librocubiculartist_2f80f7d8:
     m 1eub "ベッドで本を読むのが好きな人を表す言葉があるって知ってた？"
@@ -169,8 +181,29 @@ translate Japanese mas_fun_fact_king_snakes_3c2cc0d7:
 translate Japanese mas_fun_fact_density_435618ef:
     m 1eub "あぁ、これにしよう。"
 
+translate Japanese mas_fun_fact_density_3c45e216:
+    m 3eua "太陽系の惑星の中で一番密度が高いのは地球だって知ってた？"
+
+translate Japanese mas_fun_fact_density_bf3eff6f:
+    m "そして土星が一番密度が低いのよ。"
+
+translate Japanese mas_fun_fact_density_8e972339:
+    m 1eua "結局その惑星が何で出来ているかという話になるんだけど、一番密度が低い土星が大きさでは2番目になるのもちょっと驚きよね。"
+
+translate Japanese mas_fun_fact_density_e1d52e81:
+    m 1eka "密度が一番低いからってサイズが一番大きくなるわけじゃないのよ！"
+
+translate Japanese mas_fun_fact_density_0248ec1c:
+    m 3euc "あまり大きな声じゃ言えないんだけどね、[player]君……"
+
+translate Japanese mas_fun_fact_density_bb93d935:
+    m 1tku "地球が一番密度が高くなってるのはとある主人公のせいだと思っているの。"
+
+translate Japanese mas_fun_fact_density_6f11581a:
+    m 1tfu "でーもー、私から言えるのはここまでよ～"
+
 translate Japanese mas_fun_fact_binky_8afd4e3d:
-    m 3hub "あ！ この話はかわいくて良さそう！"
+    m 3hub "あ！この話はかわいくて良さそう！"
 
 translate Japanese mas_fun_fact_binky_81372e6a:
     m "この話を聞いたらあなたは飛び上がっちゃうかもね！"
@@ -217,6 +250,72 @@ translate Japanese mas_fun_fact_getting_older_118b8306:
 translate Japanese mas_fun_fact_getting_older_58cee739:
     m 1hubfb "あはは！分かってくれると思った。"
 
+translate Japanese mas_fun_fact_pando_forest_c6aca8dc:
+    m 1esa "ユタ州にはね、実質1本の木でできた森があるって知ってた？"
+
+translate Japanese mas_fun_fact_pando_forest_5fae84a4:
+    m 3eua "その森は『パンドの森』って言われているんだけど、総面積43ヘクタール内のすべての木が一つの根系につながっているの。"
+
+translate Japanese mas_fun_fact_pando_forest_23545d05:
+    m 3eub "言うまでもなく、その根系に繋がってる数多の木すべてはひとつのクローン生命体よ。"
+
+translate Japanese mas_fun_fact_pando_forest_c56a60f0:
+    m 1ruc "『単一生物からなるクローン兵士の軍隊は、すべての兵士が同一のハイブマインドに接続され機能する。』"
+
+translate Japanese mas_fun_fact_pando_forest_dbbdbe45:
+    m 1eua "良い感じのSFや短編ホラーのネタになるんじゃないかしら。[player]君はどう思う？"
+
+translate Japanese mas_fun_fact_pando_forest_dbf1e2e9:
+    m 3eub "まあとりあえず{w=0.2}『木を見て森を見ず』って言葉はこの森を知った後だと全く違って聞こえるわね。{w=0.1}{nw}"
+
+translate Japanese mas_fun_fact_pando_forest_6bac89be:
+    extend 3hub "あはは！"
+
+translate Japanese mas_fun_fact_immortal_jellyfish_53cb25fd:
+    m 3eub "これにしましょう！"
+
+translate Japanese mas_fun_fact_immortal_jellyfish_96c34a64:
+    m 1eua "どうやらね、人類の夢の一つの『不老不死』をあるクラゲが達成しているらしいの。"
+
+translate Japanese mas_fun_fact_immortal_jellyfish_efb28f0a:
+    m 3eua "Immortal jellyfish （不死クラゲ）というふさわしい名前がついたクラゲは、繁殖可能な成体期からポリプ期に戻れる、つまり若返ることができるの。"
+
+translate Japanese mas_fun_fact_immortal_jellyfish_db255e2c:
+    m 1eub "……そしてこの若返りは永遠に繰り返せるのよ！{w=0.3} {nw}"
+
+translate Japanese mas_fun_fact_immortal_jellyfish_8db1d213:
+    extend 1rksdla "もちろん、食べられたり病気にかかって死んだりしない限り、だけどね。"
+
+translate Japanese mas_fun_fact_antarctica_brain_3201c6ec:
+    m 3eud "南極で1年間過ごすと、脳の一部が約7％ほど縮んじゃうかもしれないって知ってた？"
+
+translate Japanese mas_fun_fact_antarctica_brain_4dd8a2a7:
+    m 3euc "どうやら記憶力と空間的思考力が低下するみたいなのよね。"
+
+translate Japanese mas_fun_fact_antarctica_brain_78e9ca85:
+    m 1ekc "ある研究調査によれば、社会的に孤立することや生活が単調になること、そし南極の自然環境が原因のようね。"
+
+translate Japanese mas_fun_fact_antarctica_brain_f5101612:
+    m 1eud "この話って私達にとってひとつの教訓になると思うの。"
+
+translate Japanese mas_fun_fact_antarctica_brain_caf38dbb:
+    m 3ekd "南極大陸へ行かなかったとしても、ずっと孤立したり​​部屋に閉じこもっていると、脳に悪影響をおよぼす可能性があるわ。"
+
+translate Japanese mas_fun_fact_antarctica_brain_9b0c0bd2:
+    m 3eka "私はね、あなたと一緒にいれることを尊く感じてるのよ[player]君。だからずっと先の未来までこうやってお話ができることを願っているの。{w=0.2}[dlg_line!t]"
+
+translate Japanese mas_fun_fact_cloud_weight_4041bf98:
+    m 3eub "平均的な雲の重さは500トンを超えるって知ってた？"
+
+translate Japanese mas_fun_fact_cloud_weight_f0565174:
+    m 3eua "正直に言うとね、これを知ったとき他の豆知識のときよりもびっくりしちゃった。"
+
+translate Japanese mas_fun_fact_cloud_weight_aa6cc91e:
+    m 1hua "つまりね、ふわふわ空に浮かんでいるのにそんなに重いの！？って。{w=0.3}{nw}"
+
+translate Japanese mas_fun_fact_cloud_weight_7d9d88c1:
+    extend 1eua "そんな重量のものが空に浮かんでるって思うとちょっと信じられないわよね。"
+
 translate Japanese mas_fun_fact_coffee_origin_dbf7569a:
     m 1eua "あ、これは私も特に興味を持った豆知識ね……"
 
@@ -257,7 +356,7 @@ translate Japanese mas_fun_fact_coffee_origin_0deb1847:
     extend 7wkd "コーヒーのおかげで元気が出て、どうにか生き延びることが出来たのよ！"
 
 translate Japanese mas_fun_fact_coffee_origin_5dc38a57:
-    m 3hua "でも、発見したという噂が広まるとメッカに戻るように頼まれ聖人となったそうよ。"
+    m 3hua "不思議な豆のおかげで彼が生き延びたという噂が広まると、彼はメッカに戻るように連絡を受けて、聖人に認定されたそうよ。"
 
 translate Japanese mas_fun_fact_coffee_origin_89c55666:
     m 1esd "それが本当に最初の発見かどうかはわからないけど、コーヒーは発見された後、イスラムの世界でとても一般的な飲み物になっていったのよ。"
@@ -266,22 +365,22 @@ translate Japanese mas_fun_fact_coffee_origin_625b8e6e:
     m 3eud "たとえば、コーヒーは空腹感を和らげたり元気を出してくれるからイスラムの断食期間中によく飲まれていた。"
 
 translate Japanese mas_fun_fact_coffee_origin_07e9a82b:
-    m 3eua "コーヒーがヨーロッパに広まったときは、多くの国が始めは医療用に使っていて{w=0.3}17世紀までには喫茶店ができて人気の飲み物になったの。"
+    m 3eua "コーヒーがヨーロッパに来たとき、始めは医療用として広まっていて、{w=0.3}喫茶店で飲まれる人気の飲み物になったのは16世紀の終わり頃の話なの。"
 
 translate Japanese mas_fun_fact_coffee_origin_8c115315:
-    m 3hub "そして今日までコーヒーは愛され続けて、私はそのコーヒーを愛しているひとりってわけね！"
+    m 3hub "そして今日までコーヒーは人々に愛され続けて、私はそのコーヒーを愛しているひとりってわけね！"
 
 translate Japanese mas_fun_fact_monochrome_dreams_cec47acd:
     m 3eua "1915年から1950年台まではほとんどの人は色が白と黒だけの夢を見てたこと、知ってた？"
 
 translate Japanese mas_fun_fact_monochrome_dreams_ca87ae92:
-    m 1esa "今もないことはないんだけど、白黒の夢を見るのは視力障害のない人にとっては比較的まれな話ね。"
+    m 1esa "今もないことはないんだけど、白黒の夢を見るのは視力障害者以外には比較的まれな話ね。"
 
 translate Japanese mas_fun_fact_monochrome_dreams_e958e0b0:
     m 3eua "研究者によると、これは当時の映画やテレビのほとんどが白黒で映されていたことが原因だそうよ。"
 
 translate Japanese mas_fun_fact_monochrome_dreams_161d841b:
-    m 3eud "…でも不思議だと思わない？ 世界が白と黒に変わったわけでもないのに、当時の人たちは白黒の夢を見ていたのよ。{w=0.3} {nw}"
+    m 3eud "……でも不思議だと思わない？ 世界が白と黒に変わったわけでもないのに、当時の人たちは白黒の夢を見ていたのよ。{w=0.3}{nw}"
 
 translate Japanese mas_fun_fact_monochrome_dreams_2020e526:
     extend 3hksdlb "現実の世界にはずっと色があるのにね！"

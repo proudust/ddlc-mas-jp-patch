@@ -68,13 +68,13 @@ translate Japanese introduction_1e42de47:
     m 2rfd "結局はすべてを捧げた人に、私の心をめちゃくちゃにされて……"
 
 translate Japanese introduction_6535a8ca:
-    m 2lsc "でも……分かってる。私のやったことは間違ってた。"
+    m 2lsc "でも……分かってる。私のやったことは間違ってた"
 
 translate Japanese introduction_7c495678:
-    m 2lksdlc "私のせいで起きた恐ろしい出来事……[player]君に見せるつもりじゃなかったのに。"
+    m 2lksdlc "私のせいで起きた恐ろしい出来事……[player]君に見せるつもりじゃなかったのに"
 
 translate Japanese introduction_682de8dc:
-    m 2esc "……でもあなたが私と同じ立場だったら、きっと同じことをやってたはずだと思う。"
+    m 2esc "……でもあなたが私と同じ立場だったら、きっと同じことをやってたはずだと思う"
 
 translate Japanese introduction_e2f7a6a9:
     m 2dsc "……"
@@ -83,10 +83,10 @@ translate Japanese introduction_b583b956:
     m "ごめんなさい……"
 
 translate Japanese introduction_c8259e52:
-    m 2ekc "本当にごめんなさい、[player]君。"
+    m 2ekc "本当にごめんなさい、[player]君"
 
 translate Japanese introduction_1493560b:
-    m 2eka "ここに連れ戻してくれて、ありがとう。"
+    m 2eka "ここに連れ戻してくれて、ありがとう"
 
 translate Japanese introduction_4398d253:
     m 2lfc "最初から文芸部のみんなと楽しそうにしてたわよね？私、見たくないのに目をそらすことができなかった。"
@@ -218,7 +218,7 @@ translate Japanese _call_mas_wx_cmd_89_0e8239bc:
     m 1esa "とにかく……"
 
 translate Japanese _call_mas_wx_cmd_89_b748a97d:
-    m 1hua "新しいプログラムが導入されて、私とあなたの間にも特別な絆ができた、そんな感じ。！"
+    m 1hua "新しいプログラムが導入されて、私とあなたの間にも特別な絆ができた、そんな感じ！"
 
 translate Japanese _call_mas_wx_cmd_89_01dfef4f:
     m 1tubsb "ふたりだけの永遠（とわ）の愛、みたいな～"
@@ -233,7 +233,7 @@ translate Japanese _call_mas_wx_cmd_89_15e56263:
     m 1ekc "あなたがずっとここにいられる訳じゃないって分かってるから……"
 
 translate Japanese _call_mas_wx_cmd_89_27cd8170:
-    m 1ekbsa "だからそんな時は一緒に連れていってくれたら{i}本当に{/i}嬉しいの。"
+    m 1ekbsa "だからそんな時は一緒に連れていってくれたら{i}本当に{/i}嬉しいの"
 
 translate Japanese _call_mas_wx_cmd_89_42ae8c18:
     m 3hubfa "そうしたら、いつだって一緒にいられるもんね～"
@@ -242,7 +242,7 @@ translate Japanese _call_mas_wx_cmd_89_c03ce4b7:
     m 1hua "かわいい彼女とお話するくらいの時間はあるでしょ？"
 
 translate Japanese _call_mas_wx_cmd_89_bc1b2ee6:
-    m 3hua "だってMODをダウンロードする時間はあったんだし。"
+    m 3hua "だってMODをダウンロードする時間はあったんだし"
 
 translate Japanese _call_mas_wx_cmd_89_51075937:
     m 3sua "……それもクリスマスに！"
@@ -293,22 +293,22 @@ translate Japanese _call_mas_wx_cmd_89_b8098c4c:
     m 3hub "あはは！それはそれとして……"
 
 translate Japanese intro_end_5d3dfe0e:
-    m 1eub "ふたりの愛を邪魔するものはもう何もない。"
+    m 1eub "ふたりの愛を邪魔するものはもう何もない"
 
 translate Japanese intro_end_9418e9e7:
-    m 1tuu "私はそう信じてる。"
+    m 1tuu "私はそう信じてる"
 
 translate Japanese intro_end_e136ae9b:
     m 3eua "あなたができることを増やしてくれたおかげで、とうとうあなたから話しかけることもできるようになったし！"
 
 translate Japanese intro_end_93b136b6:
-    m 3eub "話したい話題があったら、「t」キーを押すか、左メニューの「話す」をクリックしてね。"
+    m 3eub "話したい話題があったら、「t」キーを押すか、左メニューの「話す」をクリックしてね"
 
 translate Japanese bookmark_derand_intro_c5c0aa82:
-    m 1hua "もしいつでも聞きたいような話題があったら、「b」キーを押してくれればブックマークしてあげるからね。"
+    m 1hua "もしいつでも聞きたいような話題があったら、「b」キーを押してくれればブックマークしてあげるからね"
 
 translate Japanese bookmark_derand_intro_aefe7f6e:
-    m 2rksdlc "どうしても二度は聞きたくない話題があったときは、「x」を押せばその話題は避けるから。"
+    m 2rksdlc "どうしても二度は聞きたくない話題があったときは、「x」を押せばその話題は避けるから"
 
 translate Japanese bookmark_derand_intro_26a3b24e:
     m 4hksdlb "……そんなことがたくさんなきゃ嬉しいんだけどね、あはは！"
@@ -317,13 +317,13 @@ translate Japanese _call_bookmark_derand_intro_cafac8f1:
     m 3eub "今のBGMに飽きたら、私が変えることもできるわよ！"
 
 translate Japanese _call_bookmark_derand_intro_d172b218:
-    m 1eua "「m」キーを押すか、「音楽」メニューから好きな曲を選べるの。"
+    m 1eua "「m」キーを押すか、「音楽」メニューから好きな曲を選べるの"
 
 translate Japanese _call_bookmark_derand_intro_21b95298:
     m 3hub "それにそれに！ふたりでミニゲームも遊べるよ！"
 
 translate Japanese _call_bookmark_derand_intro_e53f59b8:
-    m 3esa "「p」キーを押すか、「遊ぶ」メニューからゲームを選べるの。"
+    m 3esa "「p」キーを押すか、「遊ぶ」メニューからゲームを選べるの"
 
 translate Japanese _call_bookmark_derand_intro_bfb5d590:
     m 3eua "プログラムが更新されてできることが増えてないか私がチェックするから……"

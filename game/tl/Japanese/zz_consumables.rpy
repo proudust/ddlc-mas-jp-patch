@@ -11,10 +11,10 @@ translate Japanese _call_mas_transition_from_emptydesk_5_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
 translate Japanese _call_mas_transition_from_emptydesk_5_7a2f3a16:
-    m 1eua "さて、今日は他に何をしようかな？"
+    m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_generic_finish_having_8a1f94e7:
-    m 1eud "私の[consumable.disp_name!t]が終わったわ。{w=0.2}{nw}"
+    m 1eud "[consumable.disp_name!t]、なくなっちゃったわね。{w=0.2}{nw}"
 
 translate Japanese mas_consumables_generic_finish_having_ac142054:
     extend 1eua "[line_starter!t]"
@@ -23,7 +23,7 @@ translate Japanese mas_consumables_generic_finish_having_8b7b43c5:
     m 3eua "ちょっと待っててね。"
 
 translate Japanese mas_consumables_generic_finish_having_460692de:
-    m 1esd "あ、[consumable.disp_name]終わっちゃった。{w=1}{nw}"
+    m 1esd "あ、[consumable.disp_name!t]なくなっちゃったわ。{w=1}{nw}"
 
 translate Japanese mas_consumables_generic_finish_having_1640fa5f:
     m 1eua "[line_starter!t]すぐに戻るわ。{w=1}{nw}"
@@ -35,25 +35,25 @@ translate Japanese _call_mas_consumables_generic_running_out_7a2f3a16:
     m 1eua "さて、今日は他に何をしようかな？"
 
 translate Japanese mas_consumables_generic_finished_prepping_548d993c:
-    m 1esd "うん、[consumable.disp_name!t]の準備ができたわ。"
+    m 1esd "あ、[consumable.disp_name!t]が出来たみたい。"
 
 translate Japanese mas_consumables_generic_finished_prepping_a644a99b:
     m 1eua "ちょっと待っててね。"
 
 translate Japanese mas_consumables_generic_finished_prepping_014c9fc2:
-    m 1eua "私の[consumable.disp_name!t]を取ってくるわ。直ぐ戻るから。{w=1}{nw}"
+    m 1eua "[consumable.disp_name!t]取ってくるわ。直ぐ戻るから。{w=1}{nw}"
 
 translate Japanese _call_mas_transition_from_emptydesk_7_cd3329c1:
-    m 1hua "戻って！{w=1.5}{nw}"
+    m 1hua "ただいま！{w=1.5}{nw}"
 
 translate Japanese _call_mas_transition_from_emptydesk_7_7a2f3a16:
-    m 1eua "さて、今日は他に何をしようかな？"
+    m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_refill_explain_819b455e:
-    m 3rksdla "今持っているのを複製してみるけど……前に試したとき、まったく同じにならなかったの……"
+    m 3rksdla "今持っているのを複製してみるけど……前に試したときはまったく同じにならなくて……"
 
 translate Japanese mas_consumables_refill_explain_ca2f1dde:
-    m 1eksdla "味が再現できなくて。たぶん何かが足りないのね。"
+    m 1eksdla "味が再現できてないわ、たぶん何かが足りないのね。"
 
 translate Japanese mas_consumables_refill_explain_9822c445:
     m 1ekbsu "……いえ、あなたの永遠の愛が入ってたからこそ、特別なのかもしれないわね～"
@@ -107,16 +107,16 @@ translate Japanese _call_mas_transition_from_emptydesk_9_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
 translate Japanese _call_mas_transition_from_emptydesk_9_7a2f3a16:
-    m 1eua "さて、今日は他に何をしようかな？"
+    m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_candycane_finish_having_bf1e38de:
-    m 1eua "キャンディケーン、おかわりしてくる。"
+    m 1eua "キャンディケーン、おかわりしてくるね。"
 
 translate Japanese mas_consumables_candycane_finish_having_8b7b43c5:
     m 3eua "ちょっと待っててね。"
 
 translate Japanese mas_consumables_candycane_finish_having_42e93436:
-    m 1esd "あぁ、キャンディ棒がもうない。{w=1}{nw}"
+    m 1esd "あぁ、キャンディケーンがないじゃない。{w=1}{nw}"
 
 translate Japanese mas_consumables_candycane_finish_having_7ae0fc82:
     m 1eua "もっと取ってくるわ、すぐに戻るから。{w=1}{nw}"
@@ -125,7 +125,7 @@ translate Japanese _call_mas_transition_from_emptydesk_9_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
 translate Japanese _call_mas_transition_from_emptydesk_9_7a2f3a16:
-    m 1eua "さて、今日は他に何をしようかな？"
+    m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese strings:
     old "I'm going to get [mas_a_an_str(container)] of [consumable.disp_name][plur]."
@@ -148,3 +148,21 @@ translate Japanese strings:
 
     old "Christmas cookie"
     new "クリスマスクッキー"
+
+    old "[container]s of [consumable.disp_name][plur] left."
+    new "[consumable.disp_name!t]の[container!t]"
+
+    old "[obj_ref]s of [consumable.disp_name][plur] left."
+    new "[consumable.disp_name!t][obj_ref!t]"
+
+    old "[consumable.disp_name][plur] left."
+    new "[consumable.disp_name!t]"
+
+    old "plate"
+    new "お皿"
+
+    old "cup"
+    new "カップ"
+
+    old "slice"
+    new "１枚"
