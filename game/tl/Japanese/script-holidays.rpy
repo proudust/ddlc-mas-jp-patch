@@ -122,7 +122,7 @@ translate Japanese _call_mas_transition_from_emptydesk_23_c61f257d:
     m 2dkc "……"
 
 translate Japanese mas_o31_ret_home_cleanup_bf07de9c:
-    m 1hua "…"
+    m 1hua "……"
 
 translate Japanese mas_o31_ret_home_cleanup_f6ee903b:
     m 1wud "あらら、[player]。私たち結構な間、外に出てたのね……"
@@ -212,7 +212,7 @@ translate Japanese mas_d25_gift_end_ad4b7e90:
     m 3ekbfu "メリークリスマス、[player]。愛してるよ～"
 
 translate Japanese mas_d25_monika_holiday_intro_d68c0e32:
-    m 1dku "…"
+    m 1dku "……"
 
 translate Japanese mas_d25_monika_holiday_intro_a6c3e647:
     m 1huu "えへへ……"
@@ -521,7 +521,7 @@ translate Japanese mas_d25_monika_christmaslights_87956c23:
     m 1eka "クリスマスのイルミネーションを見ていると、一番過酷で寒い季節なのに、とっても暖かくて居心地の良い雰囲気になれるわ……{w=0.5}{nw}"
 
 translate Japanese mas_d25_monika_christmaslights_af76467e:
-    extend 3hub "それに種類もたくさんあるのよ!"
+    extend 3hub "それに種類もたくさんあるのよ！"
 
 translate Japanese mas_d25_monika_christmaslights_40d14489:
     m 3eka "寒い冬の夜に一緒に散歩できるなんて、夢のようだわ、[player]。"
@@ -902,7 +902,7 @@ translate Japanese _call_mas_song_merry_christmas_baby_d0c2b671:
     m 1hua "えへへ……"
 
 translate Japanese _call_mas_song_merry_christmas_baby_fbe4ca61:
-    m 3eka "気に入ってくれたらいいな~"
+    m 3eka "気に入ってくれたらいいな～"
 
 translate Japanese mas_d25_spider_tinsel_e069a980:
     m 1esa "ねえ、[player]君……"
@@ -917,7 +917,7 @@ translate Japanese mas_d25_spider_tinsel_68c091ee:
     m 3euc "そういうわけでクリスマスの定番が気になったから、ちょっと調べてみたわ。"
 
 translate Japanese mas_d25_spider_tinsel_862da08d:
-    m 1eua "…それで、クリスマスツリーに着けるあのピカピカ反射してる飾り、いわゆるモール。あれがよく使われるきっかけになったウクライナの民話をみつけたの。"
+    m 1eua "……それで、クリスマスツリーに着けるあのピカピカ反射してる飾り、いわゆるモール。あれがよく使われるきっかけになったウクライナの民話をみつけたの。"
 
 translate Japanese mas_d25_spider_tinsel_8dcbe974:
     m 1eka "本当にいい話だから、あなたにも教えてあげようと思って。"
@@ -1382,7 +1382,7 @@ translate Japanese greeting_d25_returned_d25_ddf3a247:
     m 1hua "ただいま！"
 
 translate Japanese greeting_d25_returned_d25_d5e5af98:
-    m 3eka "クリスマスにあなたと一緒に過ごせて本当に良かったわ、[player]!！"
+    m 3eka "クリスマスにあなたと一緒に過ごせて本当に良かったわ、[player]！"
 
 translate Japanese greeting_d25_returned_d25_6588d5cc:
     m 1eka "連れて行ってくれてほんとにありがとう。"
@@ -2282,7 +2282,7 @@ translate Japanese _call_mas_monika_gets_cake_b98e2009:
     m 6hua "でもその前に……"
 
 translate Japanese _call_mas_player_bday_moni_sings_2_67675433:
-    m 6hua "おめでとう、[player]!"
+    m 6hua "おめでとう、[player]！"
 
 translate Japanese _call_mas_player_bday_moni_sings_2_228ee4c7:
     m 6hua "えへへ……"
@@ -2303,7 +2303,7 @@ translate Japanese _call_mas_player_bday_moni_sings_2_7f34cc44:
     m 6eksdla "まあ、あなたにはこのケーキは食べられないし、私があなたの目の前で食べるのは失礼だと思うし……"
 
 translate Japanese _call_mas_player_bday_moni_sings_2_18cee343:
-    m 6rksdla "あら、このケーキ食べられないみたいね、[player]?"
+    m 6rksdla "あら、このケーキ食べられないみたいね、[player]？"
 
 translate Japanese _call_mas_player_bday_moni_sings_2_6b083d45:
     m 6eksdla "これかなりくだらない話よね？"
@@ -3157,7 +3157,7 @@ P.S: Don't tell her about me!"""
 私はいつもここにいるので、サプライズパーティーの準備は簡単にできるのですが……ちょっと手伝ってもらいたいことがあります。
 モニカの誕生日のどこかのタイミングで、彼女を部屋から出すようにしてくれれば良いの。あとは私に任せて。
 モニカは素晴らしい人だから、私も自分の役割を果たしたいの。これが無事に終わるように……
-アハハ!
+アハハ！
 
 このメモを見つけたフォルダに「oki doki」というファイルを残しておいてください。
 

@@ -8,7 +8,7 @@ translate Japanese monika_gtod_tip000_0eaadf4a:
     m 1eub "文法書を何冊か読んでみたことはあるんだけど、いくつか面白そうなことが載ってると思うの。"
 
 translate Japanese monika_gtod_tip000_d9d80217:
-    m 1rksdla "正直に言うと……{w=0.5}文法みたいな具体的な話をするのって，ちょっと不思議な感じがするのよね。"
+    m 1rksdla "正直に言うと……{w=0.5}文法みたいな具体的な話をするのって、ちょっと不思議な感じがするのよね。"
 
 translate Japanese monika_gtod_tip000_e17ef418:
     m 1rksdlc "思い浮かべた光景が面白くないものなのは分かってるわ。"
@@ -422,7 +422,7 @@ translate Japanese monika_gtod_tip009_1d0da10b:
     m 1eud "微妙になってくるのが、 \"{b}Sanders{/b}\" や \"{b}[tempname]{/b}\" みたいに、人名にアポストロフィーを付ける時。"
 
 translate Japanese monika_gtod_tip009_85b62dca:
-    m 1euc "前に読んだ文法書のうちの何冊かには、 \"{b}Sophocles{/b}\" とか \"{b}Zeus{/b}\" みたいな歴史上の人物でない限り，基本的にはいつも通りアポストロフィーと \"{b}s{/b}\" を付けるって載ってたわ。"
+    m 1euc "前に読んだ文法書のうちの何冊かには、 \"{b}Sophocles{/b}\" とか \"{b}Zeus{/b}\" みたいな歴史上の人物でない限り、基本的にはいつも通りアポストロフィーと \"{b}s{/b}\" を付けるって載ってたわ。"
 
 translate Japanese monika_gtod_tip009_418cae0d:
     m 3eub "個人的には、一貫性が何より大事だと思うの！"

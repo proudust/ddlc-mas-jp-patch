@@ -60,7 +60,7 @@ translate Japanese strings:
     new "髪に花を挿してみない？"
 
     old "Can you tie your hair with something else?"
-    new "髪留めを変えてみない？"
+    new "髪留めを\n変えてみない？"
 
     old "Good choice, [player]!"
     new "[player]君、いい案ね！"

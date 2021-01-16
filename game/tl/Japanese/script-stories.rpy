@@ -1186,7 +1186,7 @@ translate Japanese _call_mas_scary_story_setup_2_abe084b4:
     m "つんざくような叫び声を上げて、商人は屋台から逃げていきました……"
 
 translate Japanese _call_mas_scary_story_setup_2_4ad019e5:
-    m 1dsc "…そしてそこには暗闇だけが残されたのでした。"
+    m 1dsc "……そしてそこには暗闇だけが残されたのでした。"
 
 translate Japanese _call_mas_scary_story_setup_3_cf6a9b0b:
     m 3euc "日が沈んで数刻が過ぎたある夜のこと。飴売りの商人が店を閉めようとしているところに、一人の女が飴を買いに来た。"

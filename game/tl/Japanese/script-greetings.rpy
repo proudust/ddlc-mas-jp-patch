@@ -881,7 +881,7 @@ translate Japanese _call_spaceroom_39_9eef47c6:
     m "じゃじゃーん！"
 
 translate Japanese _call_spaceroom_40_aa66512d:
-    m 2esd "……Is it love if I take you, or is it love if I set you free～♪"
+    m 2esd "~Is it love if I take you, or is it love if I set you free~♪"
 
 translate Japanese _call_spaceroom_40_f3c4e141:
     m 1eud_static "え、え！？[player]！"
@@ -1160,7 +1160,7 @@ translate Japanese greeting_hai_domo_cf02238e:
     m 1eua "あの娘はかわいいと言わざるを得ないわ……"
 
 translate Japanese greeting_french_cb69a80c:
-    m 1eua "Bonjour, [player]！"
+    m 1eua "Bonjour, [player]!"
 
 translate Japanese greeting_french_ea90193d:
     m 1hua "Savais-tu que tu avais de beaux yeux, mon amour?"
@@ -1369,8 +1369,80 @@ translate Japanese greeting_stillsicknorest_f7a94a17:
 translate Japanese greeting_stillsicknorest_bee117c8:
     m 2tkc "あなたは私の話を聞きたがらないようだから、今は何も変わらないと思っていたのに。"
 
+translate Japanese greeting_long_absence_f7bff414:
+    m 2tkc "少し家を空けるっていうのは聞いてたけど……"
+
+translate Japanese greeting_long_absence_a362feef:
+    m 2rksdld "それにしたって長すぎるわ"
+
+translate Japanese greeting_long_absence_79218970:
+    m 2ekd "戻ってきてくれたのは嬉しいけど、でも……"
+
+translate Japanese greeting_long_absence_d2342108:
+    m 2dktdc "すごく寂しかった……"
+
+translate Japanese greeting_long_absence_bc570c08:
+    m 2ektsc "あなたに何かあったんじゃないかって思ったわ！"
+
+translate Japanese greeting_long_absence_ebb0f0c7:
+    m 2lktsc "もしかしたら……もう戻ってこないんじゃないかとも"
+
+translate Japanese greeting_long_absence_65a42662:
+    m 4ekc "できるだけね、[player]、あまり長く離れないでほしいの"
+
+translate Japanese greeting_long_absence_406953af:
+    m 2ekd "もしどうにもならないなら、その時は私に教えて"
+
+translate Japanese greeting_long_absence_3f4137ab:
+    m 1dsc "もう一人にはなりたくないから……"
+
+translate Japanese greeting_long_absence_4e11b923:
+    m 3ekc "お帰りなさい、[player]"
+
+translate Japanese greeting_long_absence_230a4daa:
+    m 3rksdlc "ちょっと遅かったんじゃない？"
+
+translate Japanese greeting_long_absence_aef45207:
+    m 3ekc "少し離れるっていうのは聞いてたわよ……『{i}一週間{/i}』って言ってたかしら"
+
+translate Japanese greeting_long_absence_348494ba:
+    m 2rkc "別にあなたのせいじゃないとは思ってるけど……"
+
+translate Japanese greeting_long_absence_6412b2d6:
+    m 2ekd "でも、長くかかると思ったなら次は教えてね"
+
+translate Japanese greeting_long_absence_a872ebb5:
+    m 2rksdld "何かよくないことがあったんじゃないかって思っちゃったから"
+
+translate Japanese greeting_long_absence_9213a56b:
+    m 2dkc "だけど、大丈夫だって自分に言い聞かせてたし……"
+
+translate Japanese greeting_long_absence_29372183:
+    m 2eka "何より、こうして無事に帰ってきたのは喜ばしいことよね、[player]"
+
+translate Japanese greeting_long_absence_d299163c:
+    m 1wud "[player]！"
+
+translate Japanese greeting_long_absence_fd9cb1d8:
+    m 1hua "やっと戻ってきた！"
+
+translate Japanese greeting_long_absence_9a21d08e:
+    m 1ekd "心配したんだから……"
+
+translate Japanese greeting_long_absence_546909a6:
+    m 2dkd "どうしてこんなに長く離れてたの？"
+
+translate Japanese greeting_long_absence_4f5aed85:
+    m 2rkc "ほんの数週間だと思ってたのに……"
+
+translate Japanese greeting_long_absence_b7f3d488:
+    m "その倍以上はかかってたわよね"
+
+translate Japanese greeting_long_absence_3d2b0f10:
+    m 1rksdlc "そんなに忙しいの？"
+
 translate Japanese greeting_long_absence_226168be:
-    m 1eua "おかえりなさい、あなた。"
+    m 1eua "おかえりなさい、[mas_get_player_nickname()]"
 
 translate Japanese greeting_long_absence_f41df618:
     m 2rksdlc "……"
@@ -1574,6 +1646,24 @@ translate Japanese greeting_back_from_sleep_e0576e06:
 translate Japanese greeting_back_from_sleep_fc55ef65:
     m "これからもっと一緒に過ごそうね～"
 
+translate Japanese greeting_back_from_sleep_62a7da0b:
+    m 2esc "今起きたの、[player]？"
+
+translate Japanese greeting_back_from_sleep_7cb1f170:
+    m "ちゃんと休めたかな。"
+
+translate Japanese greeting_back_from_sleep_1928fe35:
+    m 2tud "{cps=*2}これで調子が良くなるればいいね。{/cps}{nw}"
+
+translate Japanese greeting_back_from_sleep_16a3cd67:
+    m 6rkc "あら……{w=1}お出ましね。"
+
+translate Japanese greeting_back_from_sleep_7022f7a7:
+    m 6ekc "ゆっくり休めたかしら。"
+
+translate Japanese greeting_back_from_sleep_00b95b6e:
+    m 6dkc "私は最近、頭の中がいっぱいでなかなか休めないわ……"
+
 translate Japanese greeting_back_from_sleep_0bd97190:
     m 6ckc "……"
 
@@ -1596,7 +1686,7 @@ translate Japanese greeting_siat_453425b4:
     m 3wubfsdlo "う、うわぁ？！"
 
 translate Japanese greeting_siat_4c314133:
-    m 2wubfsdld "[player]君！　い、いつからそこに？"
+    m 2wubfsdld "[player]！　い、いつからそこに？"
 
 translate Japanese greeting_siat_54f8174f:
     m 2rkbfsdld "き……{w=1}来てたのに気が付かなくて……{w=1}てっきり……"
@@ -1608,7 +1698,10 @@ translate Japanese greeting_siat_f8e79e48:
     m 3hubfb "あはは！気にしないで。"
 
 translate Japanese greeting_siat_09a98ca8:
-    m 1ekbfa "愛してるわ、[player]君。来てくれて本当に嬉しいわ～"
+    m 1ekbfa "愛してるわ、[player]。来てくれて本当に嬉しいわ～"
+
+translate Japanese greeting_ourreality_04cdda54:
+    m 1hub "ねぇ、[player]！"
 
 translate Japanese greeting_ourreality_19428ff1:
     m 1hua "えへへ～"
@@ -1623,7 +1716,7 @@ translate Japanese greeting_ourreality_dba3f5db:
     m 4eub "……でもその前に、一番の光景が見えるあの部屋に戻らないと。"
 
 translate Japanese greeting_ourreality_280f7293:
-    m 1hua "行きましょうか、[player]君。"
+    m 1hua "行きましょうか、[player]。"
 
 translate Japanese _call_mas_background_change_8_e162a061:
     m 1eua "着いたわ！"
@@ -1650,7 +1743,7 @@ translate Japanese _call_mas_background_change_8_c9e8dfd9:
     m 1eua "これ以上は何も言わずに……"
 
 translate Japanese _call_mas_background_change_8_a3a6c212:
-    m 4eub "窓の外を見てくれませんか、[player]君？"
+    m 4eub "窓の外を見てみて、[player]？"
 
 translate Japanese _call_mas_background_change_8_d3107ef6:
     m "その……"
@@ -1683,7 +1776,7 @@ translate Japanese _call_mas_background_change_8_793b63fa:
     m 1eka "あなたが忙しくて、ここにはずっとは居られないのは分かっているわ。"
 
 translate Japanese _call_mas_background_change_8_32f5040d:
-    m 3euc "気が付いたことがあるの、[player]君。"
+    m 3euc "気が付いたことがあるの、[player]。"
 
 translate Japanese _call_mas_background_change_8_e7d8b9a1:
     m 1lksdlc "あなたの現実に私が行くのには、長い時間がかかるはずよね。"
@@ -1699,6 +1792,9 @@ translate Japanese _call_mas_background_change_8_3869589c:
 
 translate Japanese _call_mas_background_change_8_814c6c32:
     m 1hua "でもそこがスタート。"
+
+translate Japanese greeting_returned_home_morethan5mins_normalplus_dlg_ddf3a247:
+    m 1hua "ただいま！"
 
 translate Japanese greeting_returned_home_morethan5mins_normalplus_dlg_8139ab70:
     m 1eub "たとえ何も見えなかったとしても、あなたのすぐそばにいると分かれば……"
@@ -1719,25 +1815,25 @@ translate Japanese _call_return_home_post_player_bday_13_4bafb44c:
     m 6dktsc "……"
 
 translate Japanese greeting_back_from_game_af911328:
-    m 1eka "[player]君……"
+    m 1eka "[player]……"
 
 translate Japanese greeting_back_from_game_21ece3da:
     m 1esc "……"
 
 translate Japanese greeting_back_from_game_f3f44670:
-    m 1hua "おかえりなさい、[mas_get_player_nickname()]君！"
+    m 1hua "おかえりなさい、[mas_get_player_nickname()]！"
 
 translate Japanese greeting_back_from_game_e75d99da:
-    m 2wuo "[player]!"
+    m 2wuo "[player]！"
 
 translate Japanese greeting_back_from_game_6b0bcf08:
     m 2hksdlb "随分長い間いなかったけど……"
 
 translate Japanese greeting_back_from_game_0934e203:
-    m 1eka "楽しかった?{nw}"
+    m 1eka "楽しかった？{nw}"
 
 translate Japanese greeting_back_from_game_118019ba:
-    m "楽しかった?{fast}" nointeract
+    m "楽しかった？{fast}" nointeract
 
 translate Japanese greeting_back_from_game_0bbdb671:
     m 1hua "それはよかったわ。"
@@ -1752,13 +1848,13 @@ translate Japanese greeting_back_from_game_0b259093:
     m 2eka "楽しくなければ私と過ごせばいいじゃない。"
 
 translate Japanese greeting_back_from_game_86ff08c5:
-    m 2hub "[player]!"
+    m 2hub "[player]！"
 
 translate Japanese greeting_back_from_game_a6e8ac7d:
     m 2eka "あなたがいなくなって長い時間が過ぎた気がするわ。"
 
 translate Japanese greeting_back_from_game_aa8170de:
-    m 1hua "寂しかったの!"
+    m 1hua "寂しかったの！"
 
 translate Japanese greeting_back_from_game_ca721947:
     m 1rksdla "それに寝食を忘れてたわけでもないだろうし……"
@@ -1776,10 +1872,10 @@ translate Japanese greeting_back_from_game_f6f8e64b:
     m 3tfu "あなたにはこの埋め合わせをしてもらおうかしら。"
 
 translate Japanese greeting_back_from_game_171917a0:
-    m 3tku "私と永遠に一緒にいるのは当然だと思うんだけど……{w=1}ね、[player]?"
+    m 3tku "私と永遠に一緒にいるのは当然だと思うんだけど……{w=1}ね、[player]？"
 
 translate Japanese greeting_back_from_game_3772217d_3:
-    m 1hub "あはは!"
+    m 1hub "あはは！"
 
 translate Japanese greeting_back_from_game_830d5832:
     m 2ekc "[player]……"
@@ -1806,7 +1902,7 @@ translate Japanese greeting_rent_18cb31c5:
     m 2hua "……"
 
 translate Japanese greeting_back_housework_c9afedae:
-    m 1eua "終わった、[player]?"
+    m 1eua "終わった、[player]？"
 
 translate Japanese greeting_back_housework_bf744b3e:
     m 1hub "もう少し時間を一緒に過ごしましょう！"
@@ -1819,6 +1915,54 @@ translate Japanese greeting_back_housework_09ec6c62:
 
 translate Japanese greeting_back_housework_0bd97190:
     m 6ckc "……"
+
+translate Japanese greeting_code_help_f0341ae4:
+    m 2eka "あ、来たわね[player]……"
+
+translate Japanese greeting_code_help_5eeba03b:
+    m 4eka "ちょっと待ってね。ゲームのコードをいじってみたから動くかどうか見てみたいの…{w=0.5}…{w=0.5}{nw}"
+
+translate Japanese _call_spaceroom_43_8a3bf3ab:
+    m 2wud "あっ！{w=0.3}{nw}"
+
+translate Japanese _call_spaceroom_43_ba894357:
+    extend 2efc "思ってた動きと違う！"
+
+translate Japanese _call_spaceroom_43_3cbd4b71:
+    m 2rtc "なんでループしないですぐ終わっちゃうのよ？{w=0.5}{nw}"
+
+translate Japanese _call_spaceroom_43_6aa51f71:
+    extend 2efc "どう見たって、その辞書型の中身が空な{i}わけない{/i}でしょう"
+
+translate Japanese _call_spaceroom_43_ee95a443:
+    m 2rfc "コーディングって、たまに{i}すごく{/i}イライラすることがあるわよね……"
+
+translate Japanese _call_spaceroom_43_5b7998ce:
+    m 3rkc "まあ、あとでもう一度やってみようかしら{nw}"
+
+translate Japanese _call_spaceroom_43_07f589bd:
+    m "まあ、あとでもう一度やってみようかしら{fast}" nointeract
+
+translate Japanese _call_spaceroom_43_95f9a87d:
+    m 7hua "うぅ、ありがとう[player]{w=0.3}{nw}"
+
+translate Japanese _call_spaceroom_43_3153a1fb:
+    extend 3eua "でも、もうちょっとやってみるわ"
+
+translate Japanese _call_spaceroom_43_66daf12c:
+    m "自分で考えてやるのは楽しいし、{w=0.2}{nw}"
+
+translate Japanese _call_spaceroom_43_32db493f:
+    extend 3kua "そうでしょ？"
+
+translate Japanese _call_spaceroom_43_3772217d:
+    m 1hub "アハハ！"
+
+translate Japanese _call_spaceroom_43_0680310e:
+    m 3rkc "まあ、あとでもう一度やってみようかしら"
+
+translate Japanese greeting_code_help_outro_3a251eef:
+    m 1eua "それはさておき、今日は何しよっか？"
 
 translate Japanese strings:
     old "No..."
@@ -1877,3 +2021,6 @@ translate Japanese strings:
 
     old "Really bad..."
     new "最悪……"
+
+    old "I could help you with that..."
+    new "良かったら手伝うよ……"

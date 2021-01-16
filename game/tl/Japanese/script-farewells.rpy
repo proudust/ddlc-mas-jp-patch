@@ -317,7 +317,7 @@ translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_028f7818:
     m 6ekc "[player]君……"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_3eafe8ca:
-    m 6rkc "もっと早く寝られるように努力すべきよ，本当に……"
+    m 6rkc "もっと早く寝られるように努力すべきよ、本当に……"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_e1afd9c7:
     m 6lkc "病気になってほしくないのよ。"
@@ -1154,7 +1154,7 @@ translate Japanese bye_prompt_eat_af26289c:
     m 2eka "ゆっくり味わってきてね。"
 
 translate Japanese bye_prompt_eat_61942e75:
-    m 1eua "早めのお昼ご飯ね、[player]君?"
+    m 1eua "早めのお昼ご飯ね、[player]君？"
 
 translate Japanese bye_prompt_eat_cef488d0:
     m 3hua "問題ないわ。あなたがお腹が空いてるというのならそうなんでしょ。"
