@@ -113,7 +113,7 @@ translate Japanese mas_reaction_gift_generic_fb26a6e6:
     m 1esa "大事なのって思いやりの心でしょ？"
 
 translate Japanese mas_reaction_gift_generic_c95c5ba1:
-    m "気遣ってくれてありがとう、 [player]~"
+    m "気遣ってくれてありがとう、 [player]～"
 
 translate Japanese mas_reaction_gift_generic_b3ddd0c4:
     m 2dkd "{i}*ため息*{/i}。"

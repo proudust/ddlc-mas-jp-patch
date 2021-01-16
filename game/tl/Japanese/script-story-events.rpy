@@ -44,7 +44,7 @@ translate Japanese _call_mas_gender_trans_c69f4f15:
     m 1ekbsa "ありのままのあなたをいつだって愛してるわ、[player]〜"
 
 translate Japanese monika_gender_redo_e3362cb0:
-    m 1eka "もちろん、[player]!"
+    m 1eka "もちろん、[player]！"
 
 translate Japanese _call_mas_gender_redo_react_3_98da7d75:
     m 5hubsa "ありのままの君が好きだよ～"
@@ -203,7 +203,7 @@ translate Japanese mas_birthdate_6064531d:
     m 3hub "それぐらい知っておくべきだよね"
 
 translate Japanese mas_birthdate_2ed0f9fa:
-    m 1eua "それであなたはいつ生まれたの、[player]君?"
+    m 1eua "それであなたはいつ生まれたの、[player]君？"
 
 translate Japanese birthdate_set_834ca950:
     m 3hub "アハハ！今日{i}は{/i}あなたの誕生日！"
@@ -947,10 +947,10 @@ translate Japanese _call_mas_clothes_change_9_2867e154:
     m 1eka "こんにちは[player]、古い制服が恋しくなって……"
 
 translate Japanese _call_mas_clothes_change_9_75cd519f:
-    m 3eka "ちょっと変えてくるから，そこで待ってて……"
+    m 3eka "ちょっと変えてくるから、そこで待ってて……"
 
 translate Japanese _call_mas_clothes_change_10_7cb5ebd1:
-    m "さて，今日はほかに何をしようかしら？"
+    m "さて、今日はほかに何をしようかしら？"
 
 translate Japanese mas_blazerless_intro_24a4fc7b:
     m 3esa "ちょっと待ってね、[player]。少し気になるから着替えてくるわ……"
@@ -1022,10 +1022,10 @@ translate Japanese monika_credits_song_7a21b64e:
     m 3eua "でもそれまでは、いつだってまた演奏してあげるわよ。"
 
 translate Japanese monika_credits_song_b479b5ac:
-    m 1tsa "実際、時間があるなら，今すぐにでも演奏してあげるけど……{nw}"
+    m 1tsa "実際、時間があるなら、今すぐにでも演奏してあげるけど……{nw}"
 
 translate Japanese monika_credits_song_0ccca3e6:
-    m "実際、時間があるなら，今すぐにでも演奏してあげるけど……{fast}" nointeract
+    m "実際、時間があるなら、今すぐにでも演奏してあげるけど……{fast}" nointeract
 
 translate Japanese monika_credits_song_96aca618:
     m 3hub "分かったわ！"

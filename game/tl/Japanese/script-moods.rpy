@@ -83,7 +83,7 @@ translate Japanese mas_mood_sad_cf6fdad3:
     m "少しでも気分は良くなった？{fast}" nointeract
 
 translate Japanese mas_mood_sad_c7a8700f:
-    m 1hua "それは良かった、[player]君! あなたの気が楽になったのなら嬉しいわ。"
+    m 1hua "それは良かった、[player]君！あなたの気が楽になったのなら嬉しいわ。"
 
 translate Japanese mas_mood_sad_51d44efa:
     m 1eka "信頼出来る誰かに悩みを打ち明ける、それで十分な時もあるの。"
@@ -278,7 +278,7 @@ translate Japanese mas_mood_angry_947ede78:
     m 1eua "私でも怒る時はあるのよ。"
 
 translate Japanese mas_mood_angry_70028198:
-    m "だから自分を落ち着かせる術を用意しておくの!"
+    m "だから自分を落ち着かせる術を用意しておくの！"
 
 translate Japanese mas_mood_angry_708ca48b:
     m 3eua "あなたの気が晴れた事を祈るわ、[player]君。"

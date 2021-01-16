@@ -4,6 +4,63 @@ translate Japanese monika_sing_song_pool_menu_7ad23832:
 translate Japanese mas_song_aiwfc_98827522:
     m 3eua "ゲーム内の音量を上げるのを忘れないでね、 [mas_get_player_nickname()]。"
 
+translate Japanese mas_song_im_glad_youre_evil_too_015980fd:
+    m 1dsa "{i}~夕焼けがきれいで 犬はかわいくて~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_e065a1fb:
+    m 1dsd "{i}~野暮なニュースに一緒にムカついて~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_2abe2c06:
+    m 3hksdlb "{i}~ダメ映画で笑って バラエティ見て泣いて~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_70eb3177:
+    m 3hub "{i}~はしゃぎまわる 少し寂しい二人がいた~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_39a43f3d:
+    m 3dsa "{i}~時間は有限で 永遠みたいな嘘で~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_af203166:
+    m 1ekbsa "{i}~儚い人生の一瞬にきみがいて~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_c6be6df9:
+    m 1tubsb "{i}~つまらない世界を「つまらないね。」て笑って~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_59b860fd:
+    m 1dubfb "{i}~肩を寄せ合う少し寂しい二人がいた~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_dd1f0048:
+    m 1dsbfo "{i}~きみもぼくと同じくらい悪い人でよかった~{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_f60abfe1:
+    m 1hubfa "{i}~明日もまた生きていたい  君を好きでよかった~{/i}"
+
+translate Japanese mas_song_nobody_makes_sense_cfc0057b:
+    m 1dsd "{i}~生きてる意味も 頑張る意味も~{/i}"
+
+translate Japanese mas_song_nobody_makes_sense_9dbedbe5:
+    m 3dsd "{i}~ないないない 無駄かもしれない~{/i}"
+
+translate Japanese mas_song_nobody_makes_sense_9614a0f8:
+    m 1dsd "{i}~千年後何も残らないけど~{/i}{nw}"
+
+translate Japanese mas_song_nobody_makes_sense_1c0b0859:
+    extend 1hub "{i}~それでも君と笑っていたい~{/i}"
+
+translate Japanese mas_song_nobody_makes_sense_a9691066:
+    m 3rksdld "{i}~夢を叶えても 悟り開いても 結局は孤独かもしれない~{/i}"
+
+translate Japanese mas_song_nobody_makes_sense_86fbd078:
+    m 3eksdld "{i}~おばけになっても 虚無に還っても~{/i}{nw}"
+
+translate Japanese mas_song_nobody_makes_sense_2ce8444f:
+    extend 3hksdlb "{i}~それでも君と笑っていたいな~{/i}"
+
+translate Japanese mas_song_nobody_makes_sense_732d59ef:
+    m 3ekbsa "何が起きても、どれだけ待つことになっても、私はあなたを愛してるわ"
+
+translate Japanese mas_song_nobody_makes_sense_6921ba25:
+    m 1ekbfb "私もあなたとずっと笑っていられたらいいな～"
+
 translate Japanese mas_song_stand_by_me_197e95c5:
     m 1dsd "{i}～夜が訪れ～{/i}"
 
@@ -112,6 +169,12 @@ translate Japanese strings:
 
     old "[which] song would you like me to sing?[end]"
     new "どれが聞きたい？[end]"
+
+    old "I'm Glad You're Evil Too"
+    new "きみも悪い人でよかった"
+
+    old "Nobody Makes Sense"
+    new "ぼくらはみんな意味不明"
 
     old "Yozurina"
     new "ヨヅリナ"

@@ -164,28 +164,28 @@ translate Japanese monika_ptod_tip005_aafe4e6c:
     m 1eua "型の違いについて説明したとき、boolean型について言及したことを覚えてる？"
 
 translate Japanese monika_ptod_tip005_e37b6ca7:
-    m 1eub "今日はboolean型とそれが値の比較とどう関係するかについて説明するわ。"
+    m 1eub "今日はboolean型とそれが値の比較とどう関係するかについて説明するわ"
 
 translate Japanese monika_ptod_tip005_ff64d147:
-    m 1eua "boolean型は、実行するコードを決定したり、出来事を記録するフラグを設定したりするのに使われるわ。"
+    m 1eua "boolean型は、実行するコードを決定したり、出来事を記録するフラグを設定したりするのに使われるわ"
 
 translate Japanese monika_ptod_tip005_471f2d1e:
-    m "比較を行うとき、それぞれの式はboolean型で評価されるの。"
+    m "比較を行うとき、それぞれの式はboolean型で評価されるの"
 
 translate Japanese monika_ptod_tip005_9e282aec:
-    m 1eksdlb "すぐには分からないと思うから、コンソールを立ち上げるね。いくつかの例を見せるわ。"
+    m 1eksdlb "すぐには分からないと思うから、コンソールを立ち上げるね。いくつかの例を見せるわ"
 
 translate Japanese monika_ptod_tip005_ac4f3250:
-    m 3eub "まずは、変数間比較で使われる基本的な記号のいくつかから見てみよっか。"
+    m 3eub "まずは、変数間比較で使われる基本的な記号のいくつかから見てみよっか"
 
 translate Japanese _call_mas_wx_cmd_17_1fc72df1:
-    m 3eua "2つの値が等しいかを確認するときには、等号を2つ（==）使うの。"
+    m 3eua "2つの値が等しいかを確認するときには、等号を2つ（==）使うの"
 
 translate Japanese _call_mas_wx_cmd_19_2ccdffff:
-    m 3eua "2つの値が等しくないかを確認するときには、感嘆符と等号（!=）を使うわ。"
+    m 3eua "2つの値が等しくないかを確認するときには、感嘆符と等号（!=）を使うわ"
 
 translate Japanese _call_mas_wx_cmd_21_b7406974:
-    m 3eub "感嘆符は、他のプログラミング言語では論理的な「not」演算子と呼ばれることが多いの。それで、（!=）は「not -equals」と読むわ。"
+    m 3eub "感嘆符は、他のプログラミング言語では論理的な「not」演算子と呼ばれることが多いの。それで、（!=）は「not -equals」と読むわ"
 
 translate Japanese _call_mas_wx_cmd_39_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"

@@ -14,7 +14,7 @@ translate Japanese monika_fun_facts_open_2c2ba7ef:
     m 1eua "他の豆知識が知りたくなったの？"
 
 translate Japanese monika_fun_facts_open_95d3cd39:
-    m 3hua "前に教えたのはすこく楽しい豆知識だったでしょ！"
+    m 3hua "前に教えたのはすごく楽しい豆知識だったでしょ！"
 
 translate Japanese monika_fun_facts_open_ed9de592:
     m 2rksdlb "前はうまく調べられなかったからね……でもね、次はきっと楽しめる豆知識を教えてあげられるはず。"
@@ -178,6 +178,12 @@ translate Japanese mas_fun_fact_king_snakes_1fc87f16:
 translate Japanese mas_fun_fact_king_snakes_3c2cc0d7:
     m 1hub "ちょっと変なこと言ってごめんね～"
 
+translate Japanese mas_fun_fact_pens_e307f756:
+    m 1dsc "んー……もう知ってた話だけどこれにしようかな"
+
+translate Japanese mas_fun_fact_pens_c29cc76c:
+    m 1tku "でもまあこの手の話は、私よりもユリのほうが詳しく知ってるんじゃないかしらね"
+
 translate Japanese mas_fun_fact_density_435618ef:
     m 1eub "あぁ、これにしよう。"
 
@@ -250,6 +256,42 @@ translate Japanese mas_fun_fact_getting_older_118b8306:
 translate Japanese mas_fun_fact_getting_older_58cee739:
     m 1hubfb "あはは！分かってくれると思った。"
 
+translate Japanese mas_fun_fact_dancing_plague_eb91ccb6:
+    m 3esa "あ、これなんかどうかな。ちょっと不思議な話……"
+
+translate Japanese mas_fun_fact_dancing_plague_f086edd7:
+    m 1eua "どうやら、ヨーロッパは大昔に「踊りの病」という現象に悩まされていたようなの"
+
+translate Japanese mas_fun_fact_dancing_plague_58136a4b:
+    m 3wud "これは、{w=0.2}時には何千何万人にもなる人が{w=0.2}何日間も踊り続ける現象だったの。中には踊り疲れ果てて死ぬ人さえいたのよ！"
+
+translate Japanese mas_fun_fact_dancing_plague_0f2a30b8:
+    m 3eksdla "踊る人たちのそばで演奏をして踊りを制御しようとしたようだけど、まあ全く効果がなかったのは想像に難くないわね"
+
+translate Japanese mas_fun_fact_dancing_plague_60ee4476:
+    m 1euc "この現象は、現在に至るまで正確な原因ははっきりしていなくて、社会現象だったのかそれとも病の結果だったのかも分かっていないの"
+
+translate Japanese mas_fun_fact_dancing_plague_61423bfa:
+    m 3rka "私には全く信じられなかったんだけど……{w=0.2}{nw}"
+
+translate Japanese mas_fun_fact_dancing_plague_7e1bc34f:
+    extend 3eud "この現象は何世紀にもわたって、ヨーロッパ各地で観察され続けてきたのよ……"
+
+translate Japanese mas_fun_fact_dancing_plague_9bafb93d:
+    m 3hksdlb "現実は小説より奇なりっていうけど、まさにこの事ね！"
+
+translate Japanese mas_fun_fact_dancing_plague_8f4d1944:
+    m 1eksdlc "まあそれでも、何日も踊り続けるなんて信じられないわね"
+
+translate Japanese mas_fun_fact_dancing_plague_5944d168:
+    m 1rsc "だけど……{w=0.3}{nw}"
+
+translate Japanese mas_fun_fact_dancing_plague_f61b7e03:
+    extend 1eubla "あなたと一緒だったら、きっといくらでも踊ってられると思うわ"
+
+translate Japanese mas_fun_fact_dancing_plague_b8e8f752:
+    m 3tsu "……きっとね、えへへ～"
+
 translate Japanese mas_fun_fact_pando_forest_c6aca8dc:
     m 1esa "ユタ州にはね、実質1本の木でできた森があるって知ってた？"
 
@@ -275,46 +317,52 @@ translate Japanese mas_fun_fact_immortal_jellyfish_53cb25fd:
     m 3eub "これにしましょう！"
 
 translate Japanese mas_fun_fact_immortal_jellyfish_96c34a64:
-    m 1eua "どうやらね、人類の夢の一つの『不老不死』をあるクラゲが達成しているらしいの。"
+    m 1eua "どうやらね、人類の夢の一つの『不老不死』をあるクラゲが達成しているらしいの"
 
 translate Japanese mas_fun_fact_immortal_jellyfish_efb28f0a:
-    m 3eua "Immortal jellyfish （不死クラゲ）というふさわしい名前がついたクラゲは、繁殖可能な成体期からポリプ期に戻れる、つまり若返ることができるの。"
+    m 3eua "Immortal jellyfish（不死クラゲ）というふさわしい名前がついたこのクラゲは、繁殖可能な成体期からポリプ期に戻れる、つまり若返ることができるの"
 
 translate Japanese mas_fun_fact_immortal_jellyfish_db255e2c:
-    m 1eub "……そしてこの若返りは永遠に繰り返せるのよ！{w=0.3} {nw}"
+    m 1eub "……そしてこの若返りは永遠に繰り返せるのよ！{w=0.3}{nw}"
 
 translate Japanese mas_fun_fact_immortal_jellyfish_8db1d213:
-    extend 1rksdla "もちろん、食べられたり病気にかかって死んだりしない限り、だけどね。"
+    extend 1rksdla "もちろん、食べられたり病気にかかって死んだりしない限り、だけどね"
 
 translate Japanese mas_fun_fact_antarctica_brain_3201c6ec:
     m 3eud "南極で1年間過ごすと、脳の一部が約7％ほど縮んじゃうかもしれないって知ってた？"
 
 translate Japanese mas_fun_fact_antarctica_brain_4dd8a2a7:
-    m 3euc "どうやら記憶力と空間的思考力が低下するみたいなのよね。"
+    m 3euc "どうやら記憶力と空間的思考力が低下するみたいなのよね"
 
 translate Japanese mas_fun_fact_antarctica_brain_78e9ca85:
-    m 1ekc "ある研究調査によれば、社会的に孤立することや生活が単調になること、そし南極の自然環境が原因のようね。"
+    m 1ekc "ある研究調査によれば、社会的に孤立することや生活が単調になること、そし四季の変化がない南極の自然環境が原因のようね"
 
 translate Japanese mas_fun_fact_antarctica_brain_f5101612:
-    m 1eud "この話って私達にとってひとつの教訓になると思うの。"
+    m 1eud "この話って私達にとってひとつの教訓になると思うの"
 
 translate Japanese mas_fun_fact_antarctica_brain_caf38dbb:
-    m 3ekd "南極大陸へ行かなかったとしても、ずっと孤立したり​​部屋に閉じこもっていると、脳に悪影響をおよぼす可能性があるわ。"
+    m 3ekd "南極大陸へ行かなかったとしても、ずっと孤立したり​​部屋に閉じこもっていると、脳に悪影響をおよぼす可能性があるわ"
 
 translate Japanese mas_fun_fact_antarctica_brain_9b0c0bd2:
-    m 3eka "私はね、あなたと一緒にいれることを尊く感じてるのよ[player]君。だからずっと先の未来までこうやってお話ができることを願っているの。{w=0.2}[dlg_line!t]"
+    m 3eka "私はね、あなたと一緒に居られることを尊く感じてるのよ[player]君。だからずっと先の未来までこうやってお話ができることを願っているの。{w=0.2}[dlg_line!t]"
 
 translate Japanese mas_fun_fact_cloud_weight_4041bf98:
     m 3eub "平均的な雲の重さは500トンを超えるって知ってた？"
 
 translate Japanese mas_fun_fact_cloud_weight_f0565174:
-    m 3eua "正直に言うとね、これを知ったとき他の豆知識のときよりもびっくりしちゃった。"
+    m 3eua "正直に言うとね、これを知ったとき他の豆知識のときよりもびっくりしちゃった"
 
 translate Japanese mas_fun_fact_cloud_weight_aa6cc91e:
-    m 1hua "つまりね、ふわふわ空に浮かんでいるのにそんなに重いの！？って。{w=0.3}{nw}"
+    m 1hua "つまりね、ふわふわ空に浮かんでいるのにそんなに重いの！？って{w=0.3}{nw}"
 
 translate Japanese mas_fun_fact_cloud_weight_7d9d88c1:
-    extend 1eua "そんな重量のものが空に浮かんでるって思うとちょっと信じられないわよね。"
+    extend 1eua "そんな重量のものが空に浮かんでるって思うとちょっと信じられないわよね"
+
+translate Japanese mas_fun_fact_cloud_weight_0fd4ffd3:
+    m 3eub "この話は、『1キロの羽毛と1キロの鉄はどっちが重いのか？』という古典的な問を思い出すわね"
+
+translate Japanese mas_fun_fact_cloud_weight_7e1d025d:
+    m 1tua "まあ[player]君なら答えはもう分かってるよね、えへへ〜"
 
 translate Japanese mas_fun_fact_coffee_origin_dbf7569a:
     m 1eua "あ、これは私も特に興味を持った豆知識ね……"
@@ -369,6 +417,48 @@ translate Japanese mas_fun_fact_coffee_origin_07e9a82b:
 
 translate Japanese mas_fun_fact_coffee_origin_8c115315:
     m 3hub "そして今日までコーヒーは人々に愛され続けて、私はそのコーヒーを愛しているひとりってわけね！"
+
+translate Japanese mas_fun_fact_synesthesia_6752314c:
+    m 1esa "ＯＫ、この話が面白そうね……"
+
+translate Japanese mas_fun_fact_synesthesia_db2ab4d3:
+    m 3eua "私達の中には{i}共感覚{/i}という不思議な感覚持つ人がいて、{w=0.1} 感覚の1つが刺激されると、同時に他の感覚も感じるの"
+
+translate Japanese mas_fun_fact_synesthesia_e3b6a243:
+    m 1hua "言葉だけじゃちょっとわかりにくいよね、えへへ……{w=0.2} じゃあ例を挙げて説明しよう！"
+
+translate Japanese mas_fun_fact_synesthesia_520901e3:
+    m 1eua "一般的に知られている共感覚には{i}色字共感覚{/i}があって、{w=0.1} それは文字や数字に色を感じるの"
+
+translate Japanese mas_fun_fact_synesthesia_bfecc514:
+    m 3eua "他にも{i}空間的配列共感覚{/i}というものがあって、{w=0.1} それは数字や数値が空間に並んでいるのがイメージできる感覚なの"
+
+translate Japanese mas_fun_fact_synesthesia_49b34476:
+    m "それと似てるんだけど、ある数字が他の数字と近かったり遠かったりも感じる{w=0.2}{nw}"
+
+translate Japanese mas_fun_fact_synesthesia_4ea888aa:
+    extend 3eub "そう、まるで地図の上に置かれてるみたいにね！"
+
+translate Japanese mas_fun_fact_synesthesia_80002e89:
+    m 1eua "……そして他にも色んな種類の共感覚が存在するの"
+
+translate Japanese mas_fun_fact_dream_faces_f6869bca:
+    m 3eub "よし、これに決めた！"
+
+translate Japanese mas_fun_fact_dream_faces_babc9a78:
+    m 1eua "夢の中で出会うすべての人は、あなたが現実世界で見たことのある人らしいの。{w=0.2}私たちの脳は夢で全く知らない顔を作りあげることはないのよ"
+
+translate Japanese mas_fun_fact_dream_faces_72acca38:
+    m 3wud "それは、現実で会話をしたことがない人でもいいの！"
+
+translate Japanese mas_fun_fact_dream_faces_c8c110e9:
+    m 3eud "買い物のときに横をすれ違った、それだけで顔が頭に浮かんで、夢の中に現れるのよ"
+
+translate Japanese mas_fun_fact_dream_faces_27e6b51b:
+    m 1hua "すれ違っただけで顔情報を保存してるなんて、脳の機能は本当に信じられないわね！"
+
+translate Japanese mas_fun_fact_dream_faces_44ec545e:
+    m 1ekbla "……[player]君は私の夢を見たりするのかな？{w=0.2} ちょっと気になっちゃった"
 
 translate Japanese mas_fun_fact_monochrome_dreams_cec47acd:
     m 3eua "1915年から1950年台まではほとんどの人は色が白と黒だけの夢を見てたこと、知ってた？"
