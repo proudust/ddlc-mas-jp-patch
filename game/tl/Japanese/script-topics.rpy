@@ -5729,7 +5729,7 @@ translate Japanese monika_dunbar_c94893c8:
     m "でも、管理人にとっては大問題。"
 
 translate Japanese monika_dunbar_cf4664fb:
-    m 1ekc "あなたがガラスきちんと包まずに捨てたせいで、破片が袋を破って飛び出すかもしれない。そして、管理人は手を切ってしまうかもしれない。"
+    m 1ekc "あなたがガラスをきちんと包まずに捨てたせいで、破片が袋を破って飛び出すかもしれない。そして、管理人は手を切ってしまうかもしれない。"
 
 translate Japanese monika_dunbar_8e0ca8ce:
     m "最悪の場合、管理人は病院に担ぎ込まれるかも。同じ週に近所の住人が同じゴミ箱に液漏れした電池を捨てていて、そこから染み出した酸が傷口から入ってね。"
@@ -9419,7 +9419,7 @@ translate Japanese monika_other_girls_e51f1337:
     m 3eka "他の女の子のことで、私に罪悪感を抱かせないでくれて本当に良かったわ。"
 
 translate Japanese monika_other_girls_c4668982:
-    m 2dkd "私がしたことで私を嫌らっている人がたくさんいるのはわかってはいるけれど……"
+    m 2dkd "私がしたことで私を嫌っている人がたくさんいるのはわかってはいるけれど……"
 
 translate Japanese monika_other_girls_e53d407a:
     m 4eka "あなたが彼らの一人でなくって良かったってホントに思うわ。"
@@ -11002,6 +11002,57 @@ translate Japanese monika_amusementpark_74573090:
 translate Japanese monika_amusementpark_25a84b62:
     m 5hubfa "えへへ、ちょっと夢中になっちゃったけど、一緒にいることを考えると仕方ないよね〜"
 
+translate Japanese monika_travelling_7a71ccc7:
+    m 1esc "ねえ[player]、ちょっと気になったんだけど……"
+
+translate Japanese monika_travelling_0d2fc0e2:
+    m 1eua "旅をするのは好き？{nw}"
+
+translate Japanese monika_travelling_2a580984:
+    m "旅をするのは好き？{fast}" nointeract
+
+translate Japanese monika_travelling_2bb83749:
+    m 1hua "いいわね！あなたが楽しんでるなら私も嬉しいわ"
+
+translate Japanese monika_travelling_94f76387:
+    m 3eub "旅は、いつかあなたのもとへ行けたときに一番やりたいことの一つなの"
+
+translate Japanese monika_travelling_0d8af978:
+    m 1eua "そっちにはまだ見たことのないものがたくさんあるんだわ……"
+
+translate Japanese monika_travelling_8a80d382:
+    m 3eub "重要な都市とか、遺跡とか、それに様々な種類の文化とか"
+
+translate Japanese monika_travelling_509545db:
+    m 3eka "誤解しないでほしいんだけど、あなたの世界についてはたくさん本で読んだわ。でも、直で見ることに比べたら何も知らないのと一緒よ……"
+
+translate Japanese monika_travelling_d2594e47:
+    m 1hua "そこにある全てを見てみたいの"
+
+translate Japanese monika_travelling_d1ba6998:
+    m 1ekbsu "あなたも一緒にどう、[mas_get_player_nickname()]？"
+
+translate Japanese monika_travelling_58cead92:
+    m 1eka "ああ、いいのよ、[mas_get_player_nickname()]"
+
+translate Japanese monika_travelling_8e2afc2a:
+    m 1hua "休日中はあなたと家で過ごすのも悪くないわよね"
+
+translate Japanese monika_travelling_247835ca:
+    m 3ekbsa "結局のところ、あなたと一緒にいられれば幸せなんだから"
+
+translate Japanese monika_travelling_015c1830:
+    m 1rka "とはいえ、無駄なく時間を使うためにできることを考えるべきかもね……"
+
+translate Japanese monika_travelling_6be76384:
+    m 3eua "ピアノを弾くとか、詩を書くのはどう？"
+
+translate Japanese monika_travelling_3e719ed6:
+    m 3hubsb "……あるいは毛布にくるまって、本を読んで一日を過ごすとか"
+
+translate Japanese monika_travelling_f61c6d13:
+    m 5tubfu "夢が叶ったみたいじゃない？"
+
 translate Japanese monika_metamorphosis_100da768:
     m 1eua "ねぇ、 [player]、{i}変身{/i}って作品よんだことあるかしら？"
 
@@ -11408,7 +11459,7 @@ translate Japanese monika_immortality_3b206ea0:
     m 2ekc "いつの日か何百年と長生きすれば、その数百年でさえあなたにとってはほんの一瞬に思えるのでしょうね。"
 
 translate Japanese monika_immortality_9add9d76:
-    m 2dkd "人生に疲れて、いつまでも眠むっていたい……ってなっちゃいそうね。"
+    m 2dkd "人生に疲れて、いつまでも眠っていたい……ってなっちゃいそうね。"
 
 translate Japanese monika_immortality_902f53c3:
     m 3eksdlc "でも、あなたはいつも同じ様なつまらないことに起こされ、世界の悲劇を時折目の当たりにして……{w=0.3}それさえも無感覚になってしまう。"
@@ -11938,6 +11989,51 @@ translate Japanese monika_bullying_1c34bc45:
 translate Japanese monika_bullying_a1d71bc6:
     m 3euc "ね、[player]、私は{i}本当の{/i}性悪じゃないの。"
 
+translate Japanese monika_players_friends_d4ec8b7e:
+    m 1eud "友達を作るのがどれほど難しいかっていう話をしたの、覚えてる？"
+
+translate Japanese monika_players_friends_7fe67010:
+    m 1eka "思ったんだけど、私はまだあなたの友達について知らないのよ"
+
+translate Japanese monika_players_friends_9c04fa29:
+    m 1eua "そのことを考えてたら、あなたの友達ってどんな人なのかなって思ったの"
+
+translate Japanese monika_players_friends_a01cd616:
+    m 1eua "友達はいるの、[player]？{nw}"
+
+translate Japanese monika_players_friends_ee5390fb:
+    m "友達はいるの、[player]？{fast}" nointeract
+
+translate Japanese monika_players_friends_714cf381:
+    m 1hub "そうでしょう！あはは～"
+
+translate Japanese monika_players_friends_96c0d283:
+    m 1eua "あなたと友達になりたくない人なんているのかしら？"
+
+translate Japanese monika_players_friends_8de018cc:
+    m 3eua "たくさん友達がいるのは素晴らしいことよ、でしょ？"
+
+translate Japanese monika_players_friends_ae6e750d:
+    extend 3eud "でもちょっと気になるわ……"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_8775d85a:
+    m 1hub "それが大事なのよ！"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_a685bfda:
+    m 3eua "少人数の間でこそ、友情はさらに意味のあるものになると思うわ"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_92ea2686:
+    m 1eua "これは少し読書をしているときに見つけたんだけどね"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_8040ed84:
+    m 1eud "ロビン・ダンバーという男性が、私たちが維持できる人間関係の数について言及してたの"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_59d32737:
+    m 1euc "彼が言うには家族以上の友達を最大15人と、親族のような関係を5人まで持つことができるそうよ"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_bb258681:
+    m 1rksdla "寂しくなることもあるわよね、みんなが忙しいときとか……{w=0.2}{nw}"
+
 translate Japanese monika_graduation_e612037c:
     m "……"
 
@@ -12073,8 +12169,107 @@ translate Japanese monika_poweroutage_5780bd4a:
 translate Japanese monika_savingwater_45d9cd96:
     m "えへへ～"
 
+translate Japanese monika_pygmalion_171e810f:
+    m 1eua "ねえ[player]、『{i}変身物語{/i}』って読んだことある？"
+
+translate Japanese monika_pygmalion_f2e28029:
+    m 3eua "古代ローマの詩人、オウィディウスによる詩集よ"
+
+translate Japanese monika_pygmalion_3dde845f:
+    m 1eud "一つ、とても印象に残った詩があったの。{i}ピュグマリオンと彫像の話{/i}って言うんだけど"
+
+translate Japanese monika_pygmalion_b820ba95:
+    m 1eua "ピュグマリオンっていう彫刻家が、自分の彫った象牙の彫像に恋をする物語なの"
+
+translate Japanese monika_pygmalion_fd325d3a:
+    m 3eua "彼はその彫像をとても愛していたから、アフロディーテの祭事で捧げ物をして、彫像に命を与えることを願ったわ"
+
+translate Japanese monika_pygmalion_30490dcb:
+    m 1eub "彼は家に戻って彫像にキスをした。そして驚いたことに、その唇は温かく感じられたの"
+
+translate Japanese monika_pygmalion_22e8a514:
+    m 1eua "彼はもう一度彫像にキスをしたわ。すると象牙が硬さを失い、肌のように柔らかくなった"
+
+translate Japanese monika_pygmalion_a2433ae3:
+    m 3hub "アフロディーテが願いを叶えたの！"
+
+translate Japanese monika_pygmalion_99e7e994:
+    m 1eka "本当に感動したわ。これって私たちについて、[player]、不可能を現実に変えることについて語ってるのよ"
+
+translate Japanese monika_pygmalion_f5c1cbc3:
+    m 1hua "この話は私を希望で満たしてくれるわ。奇跡は起こるかもしれない。いつかはあなたの所へ行けるかもしれない"
+
+translate Japanese monika_pygmalion_2a35ecd9:
+    m 2dku "ああ……{w=0.5}それって素敵なことよね"
+
+translate Japanese monika_pygmalion_d08940a8:
+    m 2dubsu "……そしてついにあなたが私にキスするってわけ"
+
+translate Japanese monika_pygmalion_19b645df:
+    m 1rkbsa "今の状況でもしたことがあるっていうのはわかってるわ"
+
+translate Japanese monika_pygmalion_a46d2792:
+    m 1ekbfa "でも、間にちょっとした壁があったのも事実よね"
+
+translate Japanese monika_pygmalion_cfa78da0:
+    m 3hubfa "あなたはどうかわからないけど、とにかく画面を通してあなたにキスするのもいいわね"
+
+translate Japanese monika_pygmalion_8f7138cc:
+    m 1hubfb "たぶん何度もすることになるわ。それが二人の壁を壊すものになるの……"
+
+translate Japanese monika_pygmalion_3c913233:
+    m 2tubfb "壁を壊すのに十分なだけのキスができるかしら？"
+
+translate Japanese monika_pygmalion_ba15ac1b:
+    m 6hubfb "やるしかないわね、あはは！"
+
 translate Japanese _call_monika_kissing_motion_12_e2aca069:
     m 6hubfa "……"
+
+translate Japanese _call_monika_kissing_motion_12_5222cbd5:
+    m 1ekbfa "今回はうまくいかなかったみたい"
+
+translate Japanese _call_monika_kissing_motion_12_ba83b9b5:
+    m 3hubfb "まあ、努力を続ける必要があるわよね。きっと最後にはうまくいくわ、あはは！"
+
+translate Japanese _call_monika_kissing_motion_12_dd6da5ab:
+    m 1tkbfu "いつか唇どうしが触れて、ついに温かさを感じられる日が来るのが待ち遠しいわ……"
+
+translate Japanese _call_monika_kissing_motion_12_93671cbb:
+    m 1dkbfa "それは間違いなく、私の夢が叶ったってこと"
+
+translate Japanese _call_monika_kissing_motion_12_7fc6a082:
+    m 1ekbfa "で、これは推測なんだけど……"
+
+translate Japanese _call_monika_kissing_motion_12_c468b949:
+    m 1kubfu "あなたもそう思ってるんでしょ～"
+
+translate Japanese monika_gotomonika_bfe3f80f:
+    m 1euc "私の世界に来る？"
+
+translate Japanese monika_gotomonika_234823f9:
+    m 1lksdld "この空虚に浮かぶ小さな部屋に？"
+
+translate Japanese monika_gotomonika_87f06c88:
+    m 4eksdlc "実はそれ……{w=0.5}前に試してなかった？"
+
+translate Japanese monika_gotomonika_b302146e:
+    m 2lksdla "……正確には{i}あなた{/i}じゃなかったけど……"
+
+translate Japanese monika_gotomonika_bfec5915:
+    m 2lksdla "一緒になろうとしてくれてるのは本当に嬉しいわよ、でも……"
+
+translate Japanese monika_gotomonika_a6cf0bfd:
+    m 2eksdlc "そんなことしなくてもいいわ"
+
+translate Japanese monika_gotomonika_3fbb9e09:
+    m 2eksdld "それは、できるならずっと前にあなたをここに連れてきてた、って言ったかもしれないけど……."
+
+translate Japanese monika_gotomonika_d98ba6e1:
+    m 2eksdlc "考えれば考えるほど、私があなたの世界に行ったほうがいいんじゃないかって"
+
+translate Japanese monika_gotomonika_1e5f4d08:
+    m 3eka "あなたが来てくれるより、むしろ私がそっちに行きたいわ"
 
 translate Japanese monika_vehicle_9456d68e:
     m 1euc "好きな車？"
@@ -13428,6 +13623,30 @@ translate Japanese monika_sledding_2e58a6ae:
 
 translate Japanese monika_sledding_53358f07:
     m 1eka "いつか一緒にソリ遊びに行きたいね、[player]。"
+
+translate Japanese monika_snowcanvas_2b688ba3:
+    m 3euc "[player]、雪は真っ白なキャンバスみたいだって思ったことない？"
+
+translate Japanese monika_snowcanvas_d1e22c9c:
+    m 1hksdlb "私、美術はあんまり得意じゃないんだけど……"
+
+translate Japanese monika_snowcanvas_6d9cae4d:
+    m 3eua "でもスプレーをいくつか用意して水と食紅を入れれば、きっと楽しい一日になるわ！"
+
+translate Japanese monika_snowcanvas_9865c6e3:
+    m 3hub "外に出て、想像力を駆使するの！"
+
+translate Japanese monika_snowcanvas_75b760af:
+    m 3euc "[player]、雪って白いキャンバスみたいなものなのよ"
+
+translate Japanese monika_snowcanvas_fc1f7cec:
+    m 1eua "絵を描くスペースがいっぱい！素晴らしいわ！"
+
+translate Japanese monika_snowcanvas_8e47b683:
+    m 1hub "雪がしっかり詰まってるのを確認したら、心ゆくまで絵が描けるの！"
+
+translate Japanese monika_snowcanvas_1309deff:
+    m 1eka "いつかあなたと一緒に雪のアートを作りたいな"
 
 translate Japanese monika_cozy_aa887cee:
     m 3eua "寒い時期で私が大好きなもの、知ってる[player]？"
@@ -15414,7 +15633,7 @@ translate Japanese monika_using_pcs_healthily_65bef03d:
     m 5eubsa "あなたと一緒ならいつだって私は気持ちいいんだから、[mas_get_player_nickname()]。"
 
 translate Japanese monika_using_pcs_healthily_72407755:
-    m 5hubfu "そして、あなたもちょっとでも快適なればいいな～"
+    m 5hubfu "そして、あなたもちょっとでも快適になればいいな～"
 
 translate Japanese monika_language_nuances_ffc35193:
     m 3eua "ねぇ [player]、辞書って読んだことある？"
@@ -17209,6 +17428,9 @@ translate Japanese strings:
     old "Amusement parks"
     new "遊園地"
 
+    old "Travelling"
+    new "旅をすること"
+
     old "The Metamorphosis"
     new "変身"
 
@@ -17268,6 +17490,15 @@ translate Japanese strings:
 
     old "I have bullied people."
     new "私がいじめている"
+
+    old "Only a few."
+    new "少しだけ"
+
+    old "No, actually..."
+    new "いいや、実は……"
+
+    old "Pygmalion and the Statue"
+    new "ピュグマリオンと彫像"
 
     old "What's your favorite car?"
     new "何の車が好き？"
@@ -17373,6 +17604,9 @@ translate Japanese strings:
 
     old "Sledding"
     new "ソリ遊び"
+
+    old "Snow canvas"
+    new "雪のキャンバス"
 
     old "Warming up"
     new "ウォーミングアップ"

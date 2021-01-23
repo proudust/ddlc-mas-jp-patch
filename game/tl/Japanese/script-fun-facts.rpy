@@ -178,6 +178,15 @@ translate Japanese mas_fun_fact_king_snakes_1fc87f16:
 translate Japanese mas_fun_fact_king_snakes_3c2cc0d7:
     m 1hub "ちょっと変なこと言ってごめんね～"
 
+translate Japanese mas_fun_fact_reindeer_eyes_8a6d8171:
+    m 3eua "これなんかどうかな？"
+
+translate Japanese mas_fun_fact_reindeer_eyes_d917b5ab:
+    m "トナカイの目の色は季節によって変わるの。夏は金色で、冬には青色になるの"
+
+translate Japanese mas_fun_fact_reindeer_eyes_28114d86:
+    m 1rksdlb "なぜ目の色が変わるかは書いてなかったけど、とても変な現象よね……"
+
 translate Japanese mas_fun_fact_pens_e307f756:
     m 1dsc "んー……もう知ってた話だけどこれにしようかな"
 
@@ -232,29 +241,62 @@ translate Japanese mas_fun_fact_binky_fc483830:
 translate Japanese mas_fun_fact_binky_e55d7006:
     m 1dkbsa "そうやって身体で表現するのは……ちょっと恥ずかしくてできそうにないから。"
 
+translate Japanese mas_fun_fact_I_am_e0329b3c:
+    m 1hua "うーん、私って言語の豆知識には目がないのよね！"
+
+translate Japanese mas_fun_fact_I_am_94697ab3:
+    m 3eub "英語ではね、一番短い完全な文は、'I am.' なの"
+
+translate Japanese mas_fun_fact_I_am_2ecfe1c0:
+    m 1eua "例えばこうやって使うの"
+
+translate Japanese mas_fun_fact_I_am_d81c1322:
+    m 1hubsa "えへへ～"
+
+translate Japanese mas_fun_fact_desert_76ef7536:
+    m 3euc "砂漠にはかなり特徴的な生態系があるみたいね……"
+
+translate Japanese mas_fun_fact_desert_d045976c:
+    m 3rksdla "でも、その生態系は人間にはマイナス要因が多すぎるよね"
+
+translate Japanese mas_fun_fact_desert_f44e211b:
+    m 1eud "砂漠の気温は昼間は尋常じゃない高さにまで上がって、夜中は水が凍るほどにまで下がる。平均降水量もとても少なくて、生きるのにはとても過酷な環境"
+
+translate Japanese mas_fun_fact_desert_2823ffd5:
+    m 3eub "けれど、それは砂漠が私たちにとって全く無駄な場所ということではないのよ！"
+
+translate Japanese mas_fun_fact_desert_2a4851ef:
+    m 3eua "砂漠の地表は太陽光発電には最適な場所だし、石油はすべての砂漠の下にあると言われているの"
+
+translate Japanese mas_fun_fact_desert_79ef8cd1:
+    m 3eub "言うまでもなく、独特の景観から砂漠は人気の休暇スポットでもある！"
+
+translate Japanese mas_fun_fact_desert_a969b4ae:
+    m 1eua "砂漠で生きるのは簡単じゃないけれど、それでも見た目よりもずっと良い場所だと思うわ"
+
 translate Japanese mas_fun_fact_getting_older_b3c6f11e:
     m 3eua "歳を取れば取るほど体感時間が短くなっていくって知ってた？"
 
 translate Japanese mas_fun_fact_getting_older_c347fc37:
-    m "例えばあなたが1歳だとすると、一年はあなたの人生の100%よね。"
+    m "例えばあなたが1歳だとすると、一年はあなたの人生の100％よね"
 
 translate Japanese mas_fun_fact_getting_older_a70dc5e3:
-    m 1euc "逆にあなたが18歳だと、一年はあなたの人生の5.6%にしかならないの。"
+    m 1euc "逆にあなたが18歳だと、一年はあなたの人生の5.6％にしかならないの"
 
 translate Japanese mas_fun_fact_getting_older_83cf717f:
-    m 3eud "長く生きるほど自分が生きてきた年月に対して一年が相対的に小さくなる。だから、成長すればするほど体感する主観的な時間は短くなっていくってわけ。"
+    m 3eud "長く生きるほど自分が生きてきた年月に対して一年が相対的に小さくなる。だから、成長すればするほど体感する主観的な時間は短くなっていくってわけ"
 
 translate Japanese mas_fun_fact_getting_older_4dac0c21:
-    m 1eka "どんなに長くても短くても、私はあなたとの時間を大切にするわ。"
+    m 1eka "どんなに長くても短くても、私はあなたとの時間を大切にするわ"
 
 translate Japanese mas_fun_fact_getting_older_ec01fa2b:
-    m 1lkbsa "あなたといると時間が止まっていると感じることもあるけどね。"
+    m 1lkbsa "あなたといると時間が止まっていると感じることもあるけどね"
 
 translate Japanese mas_fun_fact_getting_older_118b8306:
     m 1ekbfa "あなたも同じでしょう、[player]君？"
 
 translate Japanese mas_fun_fact_getting_older_58cee739:
-    m 1hubfb "あはは！分かってくれると思った。"
+    m 1hubfb "あはは！分かってくれると思った"
 
 translate Japanese mas_fun_fact_dancing_plague_eb91ccb6:
     m 3esa "あ、これなんかどうかな。ちょっと不思議な話……"
@@ -442,6 +484,15 @@ translate Japanese mas_fun_fact_synesthesia_4ea888aa:
 translate Japanese mas_fun_fact_synesthesia_80002e89:
     m 1eua "……そして他にも色んな種類の共感覚が存在するの"
 
+translate Japanese mas_fun_fact_synesthesia_945f3e46:
+    m 1esa "共感覚を持つ人がどの程度いるか一致した意見はないんだけれど、中には25％の人が共感覚を持っているという研究もあって。でも共感覚なんて現象があることは今まで知らなかったし、そんなに沢山の人が共感覚を持っているのかは疑ってる"
+
+translate Japanese mas_fun_fact_synesthesia_f5afe46e:
+    m 3eub "一番正確そうな推計では人口の4％強ほどというのがあって、その数字なら納得！"
+
+translate Japanese mas_fun_fact_synesthesia_8583ed5f:
+    m 1eua "共感覚を感じるって、なにかとても素敵なことに思えないかな、{w=0.2}[player]君？"
+
 translate Japanese mas_fun_fact_dream_faces_f6869bca:
     m 3eub "よし、これに決めた！"
 
@@ -484,3 +535,15 @@ translate Japanese mas_fun_fact_monochrome_dreams_c04ac450:
 translate Japanese strings:
     old "Can you tell me a fun fact?"
     new "豆知識を教えてくれない？"
+
+    old "But make sure you keep up with your family and friends too, okay?"
+    new "でも家族や友達とも、ちゃんと連絡を取り合ってね？お願いよ"
+
+    old "But make sure you keep up with your family too, okay?"
+    new "でも家族とも連絡をちゃんと取り合ってね？お願いよ"
+
+    old "But make sure you keep up with your friends too, okay?"
+    new "でもあなたの友達とも連絡をちゃんと取り合ってね？お願いよ"
+
+    old "Just be sure you find some people to talk to in your reality too, okay?"
+    new "お話ができる人をあなたの世界の中でも作ってね？お願いよ"
