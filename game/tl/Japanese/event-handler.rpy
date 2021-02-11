@@ -106,3 +106,9 @@ translate Japanese strings:
 
     old "I'd like to remove a bookmark"
     new "ブックマークを消したい"
+
+    old "Which bookmarks do you want to remove?"
+    new "どのブックマークを削除しますか？"
+
+    old "Just select the bookmark if you're sure you want to remove it."
+    new "削除するブックマークを選択……"

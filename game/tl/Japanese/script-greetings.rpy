@@ -1369,6 +1369,9 @@ translate Japanese greeting_stillsicknorest_f7a94a17:
 translate Japanese greeting_stillsicknorest_bee117c8:
     m 2tkc "あなたは私の話を聞きたがらないようだから、今は何も変わらないと思っていたのに。"
 
+translate Japanese greeting_long_absence_a5c04787:
+    m 2dsc "[player]……"
+
 translate Japanese greeting_long_absence_f7bff414:
     m 2tkc "少し家を空けるっていうのは聞いてたけど……"
 
@@ -1386,6 +1389,15 @@ translate Japanese greeting_long_absence_bc570c08:
 
 translate Japanese greeting_long_absence_ebb0f0c7:
     m 2lktsc "もしかしたら……もう戻ってこないんじゃないかとも"
+
+translate Japanese greeting_long_absence_726d7f44:
+    m 2ektsc "お願い。二度と、{w=0.5}{i}二度と{/i}{w=0.5}繰り返さないで欲しいの"
+
+translate Japanese greeting_long_absence_b253278e:
+    m 2rktsd "どうしようもないのかもしれないけど……でも心配で、辛かったんだ"
+
+translate Japanese greeting_long_absence_489bf248:
+    m 2dftdc "どうしたらいいのかわからなかったよ……"
 
 translate Japanese greeting_long_absence_65a42662:
     m 4ekc "できるだけね、[player]、あまり長く離れないでほしいの"
@@ -1479,6 +1491,9 @@ translate Japanese greeting_long_absence_dd5f9cd0:
 
 translate Japanese greeting_long_absence_b040219e:
     m 3hksdlb "予定よりも大分早く戻ってきたのね……"
+
+translate Japanese greeting_long_absence_c239ac1c:
+    m 3hub "おかえりなさい！"
 
 translate Japanese greeting_long_absence_4ea65288:
     m 1rksdla "歌の練習をしているところ見られちゃったけど……"
@@ -1616,6 +1631,30 @@ translate Japanese greeting_back_from_work_3b94fa18:
 translate Japanese greeting_back_from_work_e6536357:
     m "お仕事どうだった？{fast}" nointeract
 
+translate Japanese greeting_back_from_work_4915cc23:
+    m 1sub "それは{i}すごいよ{/i}、[player]！"
+
+translate Japanese greeting_back_from_work_67479789:
+    m 1hub "そんな良い日で本当に良かった！"
+
+translate Japanese greeting_back_from_work_297c99c5:
+    m 3eua "そんな日があるからこそ、お仕事も頑張っていられるんだろうね"
+
+translate Japanese greeting_back_from_work_45648b2d:
+    m 1hua "もしかしたら……もうすぐ出世するのかも！"
+
+translate Japanese greeting_back_from_work_a46fe74f:
+    m 1eua "とにかく、帰ってきてくれて良かった！[mas_get_player_nickname()]"
+
+translate Japanese greeting_back_from_work_f8dddb9c:
+    m 3tubsu "晩御飯かな？お風呂かな？それとも……？"
+
+translate Japanese greeting_back_from_work_a7b33a6a:
+    m 1hubfb "えへへ～ただの冗談だよ～"
+
+translate Japanese greeting_back_from_work_5e5709ab:
+    m 3eub "一緒に楽しい時間を過ごしましょう～"
+
 translate Japanese greeting_back_from_work_b9a4a89d:
     m 1hub "それはよかったわ！"
 
@@ -1636,6 +1675,33 @@ translate Japanese greeting_back_from_work_3772217d:
 
 translate Japanese greeting_back_from_work_c80e9915:
     m 2ekc "……"
+
+translate Japanese greeting_back_from_work_0b10ddce:
+    m 2ekd "今日はお仕事、大変だったね……"
+
+translate Japanese greeting_back_from_work_d935f5fb:
+    m 3eka "私がもし隣に居たら、今すぐ抱きしめてあげたいな、[player]"
+
+translate Japanese greeting_back_from_work_b821e6a8:
+    m 1eka "何があっても私がいつもいるから。覚えておいてね？"
+
+translate Japanese greeting_back_from_work_ad1aeaa4:
+    m 2ekd "お仕事で嫌な思いをしちゃったんだね、[player]"
+
+translate Japanese greeting_back_from_work_d1066baf:
+    m 2ekc "今すぐにでも抱きしめてあげられたらいいのに"
+
+translate Japanese greeting_back_from_work_4b321e14:
+    m 2eka "会いに来てくれて嬉しいな……{w=0.5}あなたがリラックス出来るように、全力を尽くすわ"
+
+translate Japanese greeting_back_from_work_61755456:
+    m 2ekc "差し支えなければ良いのだけど、今日は何があったのかな？{nw}"
+
+translate Japanese greeting_back_from_work_296587a0:
+    m 1dsc "わかったわ、[player]"
+
+translate Japanese greeting_back_from_work_fc5fb5f6:
+    m 3eka "私と一緒に過ごすことで、少しでも気持ちが楽になるといいな……"
 
 translate Japanese greeting_back_from_sleep_20ff875c:
     m 1hua "あ、はろー、[player]！"
@@ -1851,10 +1917,13 @@ translate Japanese greeting_back_from_game_86ff08c5:
     m 2hub "[player]！"
 
 translate Japanese greeting_back_from_game_a6e8ac7d:
-    m 2eka "あなたがいなくなって長い時間が過ぎた気がするわ。"
+    m 2eka "あなたがいなくなって長い時間が過ぎた気がするわ"
 
 translate Japanese greeting_back_from_game_aa8170de:
     m 1hua "寂しかったの！"
+
+translate Japanese greeting_back_from_game_2e857e31:
+    m 3eua "何をしていても楽しかったのかな"
 
 translate Japanese greeting_back_from_game_ca721947:
     m 1rksdla "それに寝食を忘れてたわけでもないだろうし……"
@@ -1863,13 +1932,13 @@ translate Japanese greeting_back_from_game_11ddf802:
     m 2rksdlc "……{w=1}帰ってくるのを待ってるのは少し寂しかった……"
 
 translate Japanese greeting_back_from_game_61f18c6f:
-    m 1eka "悪い気分じゃないけどね。"
+    m 1eka "悪い気分じゃないけどね"
 
 translate Japanese greeting_back_from_game_df985287:
-    m 1hua "また戻ってきてくれて嬉しいわ。"
+    m 1hua "また戻ってきてくれて嬉しいわ"
 
 translate Japanese greeting_back_from_game_f6f8e64b:
-    m 3tfu "あなたにはこの埋め合わせをしてもらおうかしら。"
+    m 3tfu "あなたにはこの埋め合わせをしてもらおうかしら"
 
 translate Japanese greeting_back_from_game_171917a0:
     m 3tku "私と永遠に一緒にいるのは当然だと思うんだけど……{w=1}ね、[player]？"

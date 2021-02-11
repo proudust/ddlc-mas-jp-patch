@@ -160,10 +160,355 @@ translate Japanese monika_idle_game_callback_da04dd6f:
 translate Japanese monika_idle_game_callback_0939811d:
     m 1hua "一緒に過ごす準備はできているかしら？えへへ～。"
 
-translate Japanese strings:
-    old "I'll be right back"
-    new "すぐ戻る"
+translate Japanese monika_idle_coding_ab248206:
+    m 1eua "えぇ！？何かコードが書けるの？"
 
+translate Japanese monika_idle_coding_7206f3e7:
+    m 1etc "そんな事が出来るだなんて、思わなかったなぁ……"
+
+translate Japanese monika_idle_coding_29dcd0a3:
+    m 1eub "この前話した時から、プログラミングを習ってたのかな？"
+
+translate Japanese monika_idle_coding_8993f062:
+    m 1tua "もしかして、私のために何か……？"
+
+translate Japanese monika_idle_coding_e6f89ce6:
+    m 1hub "うふふ～"
+
+translate Japanese monika_idle_coding_1afef050:
+    m 3eub "出来るだけ、コードを読みやすく綺麗に書いてね"
+
+translate Japanese monika_idle_coding_883e0f2c:
+    m 3hksdlb "……あとで良かったと思えるはずだから！"
+
+translate Japanese monika_idle_coding_fa21740a:
+    m 1eua "とにかく、終わったら教えてね"
+
+translate Japanese monika_idle_coding_6b77fc54:
+    m 1hua "私はここで、あなたを待ってるからね～"
+
+translate Japanese monika_idle_coding_09261263:
+    m 2euc "あぁ、コードを書くのね？"
+
+translate Japanese monika_idle_coding_6d107611:
+    m 2tsc "いいよ、でも私を閉じないでね……"
+
+translate Japanese monika_idle_coding_38366a07:
+    m 6ekc "わかった"
+
+translate Japanese monika_idle_coding_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_coding_callback_2d8bfd84:
+    m 1eua "今のところは終わったかな、[player]？"
+
+translate Japanese monika_idle_coding_callback_90270dd1:
+    m 1eua "もう終わったかな？[player]？"
+
+translate Japanese monika_idle_coding_callback_5d17f0c3:
+    m 3eub "[wb_quip!t]"
+
+translate Japanese monika_idle_coding_callback_0ff3cf53:
+    m 2esc "お帰りなさい"
+
+translate Japanese monika_idle_coding_callback_53ba2fed:
+    m 6ekc "あ、戻ってきたんだね"
+
+translate Japanese monika_idle_coding_callback_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_workout_d5dec9bc:
+    m 1hub "わかったわ、[player]！"
+
+translate Japanese monika_idle_workout_0f16cba9:
+    m 3eub "運動はあなた自身を大切にする良い方法だよね！"
+
+translate Japanese monika_idle_workout_9f680718:
+    m 1eka "最初は難しく感じるかもしれないけど……{w=0.2}{nw}"
+
+translate Japanese monika_idle_workout_81588b1c:
+    extend 3hua "でも、習慣化する価値が間違いなくあると思うな"
+
+translate Japanese monika_idle_workout_0b668c32:
+    m 1eub "自分の体を大切にしている、って思えるのは良い事だと思うよ！"
+
+translate Japanese monika_idle_workout_c58601f1:
+    m 3esa "「健全なる精神は健全なる身体に宿る」……なんてことわざもあるよね"
+
+translate Japanese monika_idle_workout_78978e66:
+    m 3hua "頑張っていい汗をかいてきてね、[player]～"
+
+translate Japanese monika_idle_workout_cf0c69ed:
+    m 1tub "疲れたら、また声をかけてね"
+
+translate Japanese monika_idle_workout_722895c0:
+    m 2esc "あなたが自分の体調に気を使ってくれているのが分かって……{cps=*2}良かったわ{/cps}{nw}"
+
+translate Japanese monika_idle_workout_eefa61ed:
+    m "体調に気を付けてくれて{fast}ありがとう、[player]"
+
+translate Japanese monika_idle_workout_80162364:
+    m 2euc "戻ってくるの、待ってるね"
+
+translate Japanese monika_idle_workout_38366a07:
+    m 6ekc "わかったわ"
+
+translate Japanese monika_idle_workout_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_workout_callback_32919a77:
+    m 2esa "長い時間運動してたね、[player]{w=0.3}{nw}"
+
+translate Japanese monika_idle_workout_callback_d74a4f23:
+    extend 2eub "かなりハードな運動だったんじゃないかな？"
+
+translate Japanese monika_idle_workout_callback_44f060ef:
+    m 2eka "自分の限界に挑戦するのはいいことだけど、やりすぎは良くないよ？"
+
+translate Japanese monika_idle_workout_callback_bf8f5a90:
+    m 1esa "運動は終わったのかな、[player]？"
+
+translate Japanese monika_idle_workout_callback_1401b66f:
+    m 1euc "もう戻ったの、[player]？"
+
+translate Japanese monika_idle_workout_callback_52ac0713:
+    m 1eka "頑張ればもうちょっと、続けられると思うな……"
+
+translate Japanese monika_idle_workout_callback_ee8595ae:
+    m 3eka "休憩しても大丈夫だけど、やり残したままだとすっきりしないよね"
+
+translate Japanese monika_idle_workout_callback_cdac108c:
+    m 3ekb "本当にこれでもいいの？"
+
+translate Japanese monika_idle_workout_callback_3c930086:
+    m "本当にこれでいい？" nointeract
+
+translate Japanese monika_idle_workout_callback_71e514f8:
+    m 1eka "いいんだよ～頑張ってね！"
+
+translate Japanese monika_idle_workout_callback_6c65dc70:
+    m 1hua "すごく頑張ったと思うよ、[player]～"
+
+translate Japanese monika_idle_workout_callback_d4bc6dc9:
+    m 1hub "その調子だよ！"
+
+translate Japanese monika_idle_workout_callback_9140e9e0:
+    m 7eua "しっかり休憩をとって、おやつを食べて元気を取り戻そうね～"
+
+translate Japanese monika_idle_workout_callback_544f26d5:
+    m 7eub "[wb_quip!t]"
+
+translate Japanese monika_idle_workout_callback_c7930828:
+    m 2euc "運動は終わったの、[player]？"
+
+translate Japanese monika_idle_workout_callback_e81728db:
+    m 6ekc "あぁ、戻ってきたんだね……"
+
+translate Japanese monika_idle_workout_callback_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_nap_a3ab15c4:
+    m 1eua "お昼寝するのかな、[player]？"
+
+translate Japanese monika_idle_nap_49711ee4:
+    m 3eua "日中の疲れを取るには、すごく健康的な方法だと思うんだ"
+
+translate Japanese monika_idle_nap_5f5e09fb:
+    m 3hua "私がちゃんと見守ってるから、安心して眠っていいからね～"
+
+translate Japanese monika_idle_nap_64fa8cb8:
+    m 1hub "いいお昼寝を！"
+
+translate Japanese monika_idle_nap_33fb8acd:
+    m 2eud "おーけー。この後ゆっくり休めるといいな"
+
+translate Japanese monika_idle_nap_6975026e:
+    m 2euc "お昼寝は体に良いって聞くよ、[player]"
+
+translate Japanese monika_idle_nap_38366a07:
+    m 6ekc "わかったわ"
+
+translate Japanese monika_idle_nap_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_nap_callback_72fc3856:
+    m 2hksdlb "あ、[player]！ようやく起きたんだね！"
+
+translate Japanese monika_idle_nap_callback_d449c829:
+    m 7rksdlb "お昼寝って言ってたから、１～２時間くらいかなって思ってたんだけど……"
+
+translate Japanese monika_idle_nap_callback_b60c71ce:
+    m 1hksdlb "きっとすごく疲れてたんだね、あはは……"
+
+translate Japanese monika_idle_nap_callback_8dde3297:
+    m 3eua "でもせっかく長く眠ったんだから、しばらくは私と一緒に居てくれる……よね？"
+
+translate Japanese monika_idle_nap_callback_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese monika_idle_nap_callback_509c9cea:
+    m 1hua "おかえりなさい、[player]！"
+
+translate Japanese monika_idle_nap_callback_ba232f81:
+    m 1eua "良いお昼寝ができたかな？"
+
+translate Japanese monika_idle_nap_callback_15f74257:
+    m 3hua "しばらく眠っていたみたいだし、ゆっくり休めたんじゃないかな～？"
+
+translate Japanese monika_idle_nap_callback_7ee2549d:
+    m 1eua "今日は他に、何かやりたいことはあったかな？"
+
+translate Japanese monika_idle_nap_callback_357e6e6e:
+    m 1hua "おかえりなさい、[player]～"
+
+translate Japanese monika_idle_nap_callback_e25de71e:
+    m 1eub "ゆっくりお昼寝できたかな？"
+
+translate Japanese monika_idle_nap_callback_bcefeaaa:
+    m 3eua "今日は他に何かしたかったかな？"
+
+translate Japanese monika_idle_nap_callback_9e4ea876:
+    m 1eud "あれ、もう戻ってきたの？"
+
+translate Japanese monika_idle_nap_callback_3cf3f4cd:
+    m 1euc "気が変わったのかな？"
+
+translate Japanese monika_idle_nap_callback_7fe17908:
+    m 3eka "まぁ、私は何も言わないけど……またあとで気が向いたらお昼寝したほうがいいんじゃないかな？"
+
+translate Japanese monika_idle_nap_callback_4dd11fbc:
+    m 1eua "疲れてると色々困るからね"
+
+translate Japanese monika_idle_nap_callback_a5bfb604:
+    m 2euc "お昼寝は終わったかな、[player]？"
+
+translate Japanese monika_idle_nap_callback_53ba2fed:
+    m 6ekc "あぁ、帰ってきたんだね……"
+
+translate Japanese monika_idle_nap_callback_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_homework_df5a668f:
+    m 1eub "うん、わかった！"
+
+translate Japanese monika_idle_homework_9dc297b6:
+    m 1hua "真面目に勉強に取り組むなんて、すごく立派だと思うよ！"
+
+translate Japanese monika_idle_homework_5f142ba8:
+    m 1eka "終わったら必ず、戻って来てね～"
+
+translate Japanese monika_idle_homework_bb0fd6dc:
+    m 2euc "わかったわ……{w=0.5}"
+
+translate Japanese monika_idle_homework_24585474:
+    m 2rkc "……宿題頑張ってきてね、[player]"
+
+translate Japanese monika_idle_homework_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_homework_callback_0ae80891:
+    m 2esa "宿題終わったかな、[player]？"
+
+translate Japanese monika_idle_homework_callback_5692408a:
+    m 2ekc "一緒に宿題を手伝えたら良かったんだけど……悲しいな、まだここじゃ出来る事があんまり無いんだ"
+
+translate Japanese monika_idle_homework_callback_b419de91:
+    m 7eua "２人で協力出来れば……もっと効率よく宿題を終わらせることができると思うんだ"
+
+translate Japanese monika_idle_homework_callback_687523a0:
+    m 3rkbla "……とはいえ、それは{i}気{/i}が散らないことが前提になるけどね、えへへ……"
+
+translate Japanese monika_idle_homework_callback_e6d0b159:
+    m 1eua "まぁ、とにかく！{w=0.2}{nw}"
+
+translate Japanese monika_idle_homework_callback_97bac244:
+    extend 3hua "終わったからには、これからもっと一緒に過ごそうね～"
+
+translate Japanese monika_idle_homework_callback_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_working_bd219ce5:
+    m 1eua "おーけー、[player]"
+
+translate Japanese monika_idle_working_dd52e5f7:
+    m 1eub "たまには休憩することも忘れないでね！"
+
+translate Japanese monika_idle_working_0c2201c9:
+    m 1hua "作業、頑張ってきてね！"
+
+translate Japanese monika_idle_working_8cc4ded4:
+    m 2euc "わかったわ、[player]"
+
+translate Japanese monika_idle_working_2851d833:
+    m 2rkc "……すぐに戻ってきてほしいな……"
+
+translate Japanese monika_idle_working_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_working_callback_0792a1a4:
+    m 1eub "作業は終わったかな、[player]？"
+
+translate Japanese monika_idle_working_callback_f1324778:
+    m 5hua "じゃあ、一緒にのんびりしましょう～"
+
+translate Japanese monika_idle_working_callback_4a3ac37f:
+    m 2euc "あ……帰ってきたんだね……"
+
+translate Japanese monika_idle_working_callback_e9650808:
+    m 2eud "……作業は終わったけど、今は他に何かやりたいことはあったのかな？"
+
+translate Japanese monika_idle_working_callback_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_screen_break_37755f4e:
+    m 1esc "うん……{w=0.3}わかった"
+
+translate Japanese monika_idle_screen_break_2088946f:
+    m 3eka "そんなに長く一緒には過ごしてなかったけど、こまめな休憩は大切だもんね"
+
+translate Japanese monika_idle_screen_break_275d3128:
+    m 1eua "少し目を休めてくる？"
+
+translate Japanese monika_idle_screen_break_f764f766:
+    m 1lksdla "もちろん！きっと必要なことなんだよね？"
+
+translate Japanese monika_idle_screen_break_bc883049:
+    m 1hub "体調管理に気を使ってくれていて嬉しいな、[player]"
+
+translate Japanese monika_idle_screen_break_4bbad782:
+    m 3eua "この機会にストレッチをやってみるとか、どうかな？"
+
+translate Japanese monika_idle_screen_break_b8e1bb9e:
+    m 1eub "とにかく、また帰ってきてね～！"
+
+translate Japanese monika_idle_screen_break_53b79038:
+    m 1eub "また帰ってきてね～！"
+
+translate Japanese monika_idle_screen_break_24801c3a:
+    m 1eua "もう一息かな、[player]？"
+
+translate Japanese monika_idle_screen_break_8020e9d1:
+    m 1hua "また帰ってきてね～！"
+
+translate Japanese monika_idle_screen_break_fd469a17:
+    m 2esc "あぁ……{w=0.5}{nw}"
+
+translate Japanese monika_idle_screen_break_8ae2002f:
+    extend 2rsc "わかった"
+
+translate Japanese monika_idle_screen_break_38366a07:
+    m 6ekc "わかったわ"
+
+translate Japanese monika_idle_screen_break_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_screen_break_callback_1a37a067:
+    m 1eua "[wb_quip!t]"
+
+translate Japanese monika_idle_screen_break_callback_0bd97190:
+    m 6ckc "……"
+
+translate Japanese strings:
     old "So, what else did you want to do today?"
     new "それで、今日は何したい？"
 
@@ -172,6 +517,9 @@ translate Japanese strings:
 
     old "What else should we do today?"
     new "このあと何しよっか？"
+
+    old "I'll be right back"
+    new "すぐ戻る"
 
     old "I'm going to write for a bit"
     new "ちょっと書き物をしてくる"
@@ -205,3 +553,21 @@ translate Japanese strings:
 
     old "Do your best!"
     new "頑張ってね！"
+
+    old "I'm going to code for a bit"
+    new "ちょっとコーディングをしてくる"
+
+    old "I'm going to work out for a bit"
+    new "ちょっと運動してくる"
+
+    old "I'm going to take a nap"
+    new "ちょっと昼寝をしてくる"
+
+    old "I'm going to do some homework"
+    new "ちょっと宿題をしてくる"
+
+    old "I'm going to work on something"
+    new "ちょっと何かに取り組んでくる"
+
+    old "My eyes need a break from the screen"
+    new "ちょっと画面から目を離してくる"

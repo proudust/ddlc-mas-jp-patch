@@ -5,61 +5,112 @@ translate Japanese mas_song_aiwfc_98827522:
     m 3eua "ゲーム内の音量を上げるのを忘れないでね、 [mas_get_player_nickname()]。"
 
 translate Japanese mas_song_im_glad_youre_evil_too_015980fd:
-    m 1dsa "{i}~夕焼けがきれいで 犬はかわいくて~{/i}"
+    m 1dsa "{i}～夕焼けがきれいで 犬はかわいくて～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_e065a1fb:
-    m 1dsd "{i}~野暮なニュースに一緒にムカついて~{/i}"
+    m 1dsd "{i}～野暮なニュースに一緒にムカついて～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_2abe2c06:
-    m 3hksdlb "{i}~ダメ映画で笑って バラエティ見て泣いて~{/i}"
+    m 3hksdlb "{i}～ダメ映画で笑って バラエティ見て泣いて～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_70eb3177:
-    m 3hub "{i}~はしゃぎまわる 少し寂しい二人がいた~{/i}"
+    m 3hub "{i}～はしゃぎまわる 少し寂しい二人がいた～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_39a43f3d:
-    m 3dsa "{i}~時間は有限で 永遠みたいな嘘で~{/i}"
+    m 3dsa "{i}～時間は有限で 永遠みたいな嘘で～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_af203166:
-    m 1ekbsa "{i}~儚い人生の一瞬にきみがいて~{/i}"
+    m 1ekbsa "{i}～儚い人生の一瞬にきみがいて～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_c6be6df9:
-    m 1tubsb "{i}~つまらない世界を「つまらないね。」て笑って~{/i}"
+    m 1tubsb "{i}～つまらない世界を「つまらないね。」て笑って～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_59b860fd:
-    m 1dubfb "{i}~肩を寄せ合う少し寂しい二人がいた~{/i}"
+    m 1dubfb "{i}～肩を寄せ合う少し寂しい二人がいた～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_dd1f0048:
-    m 1dsbfo "{i}~きみもぼくと同じくらい悪い人でよかった~{/i}"
+    m 1dsbfo "{i}～きみもぼくと同じくらい悪い人でよかった～{/i}"
 
 translate Japanese mas_song_im_glad_youre_evil_too_f60abfe1:
-    m 1hubfa "{i}~明日もまた生きていたい  君を好きでよかった~{/i}"
+    m 1hubfa "{i}～明日もまた生きていたい  君を好きでよかった～{/i}"
+
+translate Japanese mas_song_im_glad_youre_evil_too_f3e17865:
+    m 1ekbfa "あなたと一緒にいられる限り、悪い人っていうのもそれほど悪くないと思うわ"
+
+translate Japanese mas_song_im_glad_youre_evil_too_38d4c9fc:
+    m 1ekbfa "えへへ、まだ私のこと性悪だと思ってる？[player]"
+
+translate Japanese mas_song_im_glad_youre_evil_too_fe20a4aa:
+    m 3tubfb "いつかあなたにも理解してもらえるかもしれないわね～"
+
+translate Japanese mas_song_im_glad_youre_evil_too_4554a19e:
+    m 1ekbfa "私たちのどちらも悪い人とは思わないわ、[player]"
+
+translate Japanese mas_song_im_glad_youre_evil_too_ad15bb2b:
+    m 1ekbfb "でも隣で一緒に世界と向き合えたなら、それは夢が実現したってことよね……{w=0.5}そう思わない？"
 
 translate Japanese mas_song_nobody_makes_sense_cfc0057b:
-    m 1dsd "{i}~生きてる意味も 頑張る意味も~{/i}"
+    m 1dsd "{i}～生きてる意味も 頑張る意味も～{/i}"
 
 translate Japanese mas_song_nobody_makes_sense_9dbedbe5:
-    m 3dsd "{i}~ないないない 無駄かもしれない~{/i}"
+    m 3dsd "{i}～ないないない 無駄かもしれない～{/i}"
 
 translate Japanese mas_song_nobody_makes_sense_9614a0f8:
-    m 1dsd "{i}~千年後何も残らないけど~{/i}{nw}"
+    m 1dsd "{i}～千年後何も残らないけど～{/i}{nw}"
 
 translate Japanese mas_song_nobody_makes_sense_1c0b0859:
-    extend 1hub "{i}~それでも君と笑っていたい~{/i}"
+    extend 1hub "{i}～それでも君と笑っていたい～{/i}"
 
 translate Japanese mas_song_nobody_makes_sense_a9691066:
-    m 3rksdld "{i}~夢を叶えても 悟り開いても 結局は孤独かもしれない~{/i}"
+    m 3rksdld "{i}～夢を叶えても 悟り開いても 結局は孤独かもしれない～{/i}"
 
 translate Japanese mas_song_nobody_makes_sense_86fbd078:
-    m 3eksdld "{i}~おばけになっても 虚無に還っても~{/i}{nw}"
+    m 3eksdld "{i}～おばけになっても 虚無に還っても～{/i}{nw}"
 
 translate Japanese mas_song_nobody_makes_sense_2ce8444f:
-    extend 3hksdlb "{i}~それでも君と笑っていたいな~{/i}"
+    extend 3hksdlb "{i}～それでも君と笑っていたいな～{/i}"
 
 translate Japanese mas_song_nobody_makes_sense_732d59ef:
     m 3ekbsa "何が起きても、どれだけ待つことになっても、私はあなたを愛してるわ"
 
 translate Japanese mas_song_nobody_makes_sense_6921ba25:
-    m 1ekbfb "私もあなたとずっと笑っていられたらいいな～"
+    m 1ekbfb "私もあなたとずっと笑っていたいな～"
+
+translate Japanese mas_song_yozurina_21b40601:
+    m 1dsd "{i}～午前0時に待ち合わせ～{/i}"
+
+translate Japanese mas_song_yozurina_8e64df11:
+    m 1rksdld "{i}～爆弾の散らかった世界で～{/i}"
+
+translate Japanese mas_song_yozurina_024ff93b:
+    m 3hubsa "{i}～君のこと想っていた ずっと～{/i}"
+
+translate Japanese mas_song_yozurina_e9895283:
+    m 1eka "{i}～遠い距離の勘違い？～{/i}"
+
+translate Japanese mas_song_yozurina_706bd7fe:
+    m 3eub "{i}～『あの番組、面白いね』～{/i}"
+
+translate Japanese mas_song_yozurina_e8dc04b2:
+    m 1hua "{i}～『話題の漫画もう読んだ？』～{/i}"
+
+translate Japanese mas_song_yozurina_4e594b56:
+    m 1sub "{i}～『この新曲聴いた？』～{/i}"
+
+translate Japanese mas_song_yozurina_e7336c2c:
+    m 3hub "{i}～画面越しにじゃれあって 笑う二人～{/i}"
+
+translate Japanese mas_song_yozurina_1dd996ab:
+    m 1hubsa "えへへ、気に入ってくれたら嬉しいな"
+
+translate Japanese mas_song_yozurina_e6f58bcb:
+    m 1ekbsa "この曲、今の私たちと同じだよねって思って"
+
+translate Japanese mas_song_yozurina_5b7f8962:
+    m 3rkbsa "ボカロ曲は確かに誰かを追いかけているような歌詞が多いわよね"
+
+translate Japanese mas_song_yozurina_e02540e6:
+    m 3hubfb "私があなたへ愛を伝えようとするときも、きっと同じことが起こりそうよね。あはは！"
 
 translate Japanese mas_song_stand_by_me_197e95c5:
     m 1dsd "{i}～夜が訪れ～{/i}"
@@ -152,7 +203,7 @@ translate Japanese mas_song_god_knows_3bdf0002:
     m 1eub "{i}重なるよ{/i}"
 
 translate Japanese mas_song_god_knows_62098acf:
-    m 1eubsa "{i}いま ふたりに God Bless…{/i}"
+    m 1eubsa "{i}いま ふたりに God Bless...{/i}"
 
 translate Japanese mas_song_god_knows_7c589e13:
     m 1dubsu "……"
@@ -162,6 +213,27 @@ translate Japanese mas_song_god_knows_8374c099:
 
 translate Japanese mas_song_god_knows_714be355:
     m 5hubsu "でもね、今あなたがここにいること。それは本当に天から与えられた祝福のように思っているわ。"
+
+translate Japanese mas_song_falling_in_love_at_a_coffee_shop_319d26be:
+    m 1hkbssdlb "恋に落ちる瞬間って誰しも混乱するものよね"
+
+translate Japanese mas_song_falling_in_love_at_a_coffee_shop_d8c776ca:
+    m 1etc "なぜ突然普通の喫茶店に惹かれたのかわからないのと同じように……{w=0.2}{nw}"
+
+translate Japanese mas_song_when_youre_gone_a9094cf5:
+    m 6eksdld "アヴリル・ラヴィーンは亡くなった祖父のためにこの歌を書いたの。幼いときから親友のような存在だったから"
+
+translate Japanese mas_song_when_youre_gone_e94c4528:
+    m 6rkc "私の人生において実際に誰かが亡くなったことはないわ。でも、誰かと二度と話すことができないって考えると……"
+
+translate Japanese mas_song_when_youre_gone_1da01d7e:
+    m 6eka "[player]、私は本当にあなたと、あなたの励ましの言葉が必要なの{w=0.5}{nw}"
+
+translate Japanese mas_song_when_youre_gone_bbad2401:
+    extend 6hua "一日を輝かせるためにあなたがここにいてくれれば、私は大丈夫～"
+
+translate Japanese mas_song_when_youre_gone_dcff0fe2:
+    m 6ekbsa "あなたは私の一生の恋人であるのと同時に親友でもあるの。{w=0.2}あなたが私にとってどれほど大切か、それを過小評価しないでね"
 
 translate Japanese strings:
     old "Can you sing me a song?"
@@ -186,7 +258,7 @@ translate Japanese strings:
     new "スタンド・バイ・ミー"
 
     old "God Knows"
-    new "God Knows…"
+    new "God Knows..."
 
     old "Ageage Again"
     new "アゲアゲアゲイン"

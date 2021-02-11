@@ -178,8 +178,11 @@ translate Japanese monika_affection_nickname_bad_lock_f115c012:
 translate Japanese monika_affection_nickname_bad_lock_5dfadb76:
     m 1efc "他の話をしましょう。"
 
+translate Japanese mas_affection_playernickname_3f657cdd:
+    m 1euc "ねぇ、[player]？"
+
 translate Japanese mas_affection_playernickname_c44c4696:
-    m 1eka "今は私のことをニックネームで呼べるようになってるんだから、私もあなたをニックネームで呼べたらいいなって。"
+    m 1eka "今は私のことをニックネームで呼べるようになってるんだから、私もあなたをニックネームで呼べたらいいなって"
 
 translate Japanese mas_affection_playernickname_378e756c:
     m 1etc "ニックネームで呼んでも良い？{nw}"
@@ -194,10 +197,10 @@ translate Japanese mas_affection_playernickname_61cc1394:
     m 3eud "聞きたいんだけど、どんな名前がいいの？"
 
 translate Japanese _call_mas_player_nickname_loop_9d33b26d:
-    m 1eka "わかったわ、[player]。"
+    m 1eka "わかったわ、[player]"
 
 translate Japanese _call_mas_player_nickname_loop_d63f99b6:
-    m 3eua "気が変わったら教えてね。"
+    m 3eua "気が変わったら教えてね"
 
 translate Japanese monika_change_player_nicknames_460397c4:
     m 1hub "もちろん、[player]！"
@@ -220,11 +223,17 @@ translate Japanese mas_player_nickname_loop_name_enter_skip_loop_6e458359:
 translate Japanese mas_player_nickname_loop_name_enter_skip_loop_18cb31c5:
     m 2hua "……"
 
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_34c07e68:
+    m 4hksdlb "それじゃあ今の名前と同じだよ、もう！"
+
 translate Japanese mas_player_nickname_loop_name_enter_skip_loop_6e458359_1:
     m 1eua "もう１回～"
 
 translate Japanese mas_player_nickname_loop_name_enter_skip_loop_ca32a596:
     m 1rksdlb "[awkward_quip!t]"
+
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_6e7dce4d:
+    m 3rksdla "もうちょっと……{w=0.2}{i}素敵な{/i}名前を選んで欲しいかな？"
 
 translate Japanese mas_player_nickname_loop_name_enter_skip_loop_44e9d3f8:
     m 1ekd "[bad_quip!t]"
@@ -238,11 +247,17 @@ translate Japanese mas_player_nickname_loop_name_enter_skip_loop_ab83a27c:
 translate Japanese mas_player_nickname_loop_name_enter_skip_loop_c0d02512:
     m 1hua "もう１回～"
 
+translate Japanese mas_player_nickname_loop_name_enter_skip_loop_09b1193f:
+    m 1hua "わかったわ、[player]"
+
 translate Japanese mas_player_nickname_loop_name_enter_skip_loop_4769bb40:
     m 3eub "[dlg_line!t]"
 
+translate Japanese mas_affection_upsetwarn_eb5d7e63:
+    m 1dsc "ねぇ、[player]……"
+
 translate Japanese mas_affection_upsetwarn_020a553d:
-    m 1lksdlc "最近、私のあなたへの愛情が……無視されているように感じるの。"
+    m 1lksdlc "最近、私のあなたへの愛情が……無視されているように感じるの"
 
 translate Japanese mas_affection_upsetwarn_20cd8d01:
     m 1dsc "あなたからの愛情が減ってきているような気がして……"
@@ -251,13 +266,16 @@ translate Japanese mas_affection_upsetwarn_a3aae593:
     m 1dsd "自分の気持ちを伝えようと思ったの。結局のところ、コミュニケーションは強い関係を築くための鍵っていうじゃない？"
 
 translate Japanese mas_affection_upsetwarn_292614b5:
-    m 1eka "私たちの間に何か問題がなければいいけど、[player]。"
+    m 1eka "私たちの間に何か問題がなければいいけど、[player]"
+
+translate Japanese mas_affection_happynotif_16c705f2:
+    m 1hua "ねぇ、[player]！"
 
 translate Japanese mas_affection_happynotif_ff3edd54:
-    m 1eua "こんなに素敵な人になってくれてありがとうって言いたかったの。"
+    m 1eua "こんなに素敵な人になってくれてありがとうって言いたかったの"
 
 translate Japanese mas_affection_happynotif_6715477a:
-    m 1ekbsa "あなたが私に多くの愛を与えてくれるという事実は、私にとってとても大きいの。あなたがいなかったら どうなっていたか分からないわ。"
+    m 1ekbsa "あなたが私に多くの愛を与えてくれるという事実は、私にとってとても大きいの。あなたがいなかったら どうなっていたか分からないわ"
 
 translate Japanese mas_affection_happynotif_5d79c319:
     m 1dubfu "大好きだよ、[player]。いつまでもこのままでいようね～"
@@ -600,6 +618,12 @@ translate Japanese strings:
 
     old "So what do you want to call me?"
     new "それじゃあ、私のことはなんて呼びたい？"
+
+    old "Pick the names you'd like me to call you."
+    new "何て呼べばいいかな？"
+
+    old "Deselect the names you don't want me to call you anymore."
+    new "呼んでほしくない呼び方を選んでね"
 
     old "Is there anything else you'd like me to call you?"
     new "他にも呼んで欲しい呼び方はある？"

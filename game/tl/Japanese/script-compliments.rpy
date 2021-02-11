@@ -541,6 +541,12 @@ translate Japanese mas_compliment_thinking_of_you_2_e4657846:
 translate Japanese mas_compliment_thinking_of_you_2_2efc1dd4:
     m 6dkc "……"
 
+translate Japanese mas_compliment_thinking_of_you_2_062154b0:
+    m 6hua "あわわ～"
+
+translate Japanese mas_compliment_thinking_of_you_2_efe23b8a:
+    m 6subsa "[player]……"
+
 translate Japanese mas_compliment_thinking_of_you_2_5b0ed382:
     m 2esc "……"
 
@@ -553,10 +559,28 @@ translate Japanese mas_compliment_thinking_of_you_3_754034d1:
 translate Japanese mas_compliment_thinking_of_you_3_5d35416c:
     m 3hubfb "あなたは私の世界の中心なんだから！"
 
-translate Japanese strings:
-    old "I want to tell you something..."
-    new "言いたいことがあるんだ……"
+translate Japanese mas_compliment_humor_2_19428ff1:
+    m 1hua "えへへ～"
 
+translate Japanese mas_compliment_humor_2_3772217d:
+    m 1hub "あはは！"
+
+translate Japanese mas_compliment_humor_2_fbab5cba:
+    m 1eksdlb "……あはは……"
+
+translate Japanese mas_compliment_spending_time_2_8ad12b56:
+    m 2huu "えへへ～"
+
+translate Japanese mas_compliment_outfit_2_a23656bf:
+    m 2subsd "[player]……"
+
+translate Japanese mas_compliment_outfit_2_e1047413:
+    m 1hubsb "あはは～"
+
+translate Japanese mas_compliment_outfit_3_3ba2bf78:
+    m 5hublb "あはは！"
+
+translate Japanese strings:
     old "You're so sweet, [player]."
     new "本当に優しいのね、[player]君。"
 
@@ -577,6 +601,9 @@ translate Japanese strings:
 
     old "You always flatter me, [player]."
     new "いつもドキドキさせられちゃうよ、[player]君！"
+
+    old "I want to tell you something..."
+    new "言いたいことがあるんだ……"
 
     old "You're beautiful!"
     new "君は綺麗だ！"
