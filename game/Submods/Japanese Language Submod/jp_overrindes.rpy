@@ -123,6 +123,9 @@ translate Japanese screen:
 
 # zz_calender.rpy
 translate Japanese python:
+    # カレンダーのフォント変更
+    MASCalendar.NOTE_FONT = "mod_assets/font/Ruriiro_font.ttf"
+
     # カレンダーの表示微調整
     MASCalendar.DATE_DISPLAY_FORMAT = "                   {0}\n{1}\n{2}\n{3}"
 
@@ -188,7 +191,7 @@ translate Japanese python:
             self.day_button_texts = []
 
             # set the note style attributes
-            note_font = "mod_assets/font/Ruriiro_font.ttf" # 日本語フォントに変更
+            note_font = self.NOTE_FONT
             note_text_size = self.NOTE_TEXT_SIZE
             note_color = self.NOTE_COLOR
             note_ystart = 1
@@ -371,7 +374,7 @@ translate Japanese python:
                         text_container.add(ellipsis_text)
 
                     self.day_button_texts.append((text_container, button_pos))
-    if config.version == '0.11.9': # 0.11.9 の次バージョンでもう少し簡単に調整できるようにする予定
+    if config.version in ['0.11.9', '0.12.0']: # 後のバージョンで使用した際にバグるのを回避するための安全策
         MASCalendar._setupDayButtons = _setupDayButtons
 
 # zz_poems.rpy
