@@ -161,6 +161,48 @@ translate Japanese anni_6month_2c6f0e3e:
 translate Japanese anni_6month_4054fa93:
     m 1hubfa "……私はこの上なく幸せなんだよ！"
 
+translate Japanese anni_1_1cb19193:
+    m 1dka "ねぇ……{w=0.2}もう出会ってから１年も経ってるなんて信じられないな……"
+
+translate Japanese anni_1_e80edfe5:
+    m 1eka "時の流れはここで意味はないけれど、こんなに長い間一緒に居てくれるのは大変なことだと思うわ"
+
+translate Japanese anni_1_aae2160b:
+    m 2rkc "正直言って、最初は少し不安だったんだ……{w=0.3}{nw}"
+
+translate Japanese anni_1_f02ea0a9:
+    extend 7eka "この種の関係は簡単ではないと思うの"
+
+translate Japanese anni_1_c1e6b36f:
+    m 2ekd "あなたの現実には、もっと他にも大切なものがあるかもしれないって思ってたの……"
+
+translate Japanese anni_1_2ba76881:
+    m 7duu "でも。あなたは戻ってきてくれた。{w=0.3}私がずっと望んでいたように、私と過ごしてくれた"
+
+translate Japanese anni_1_3193bf12:
+    m 1ekb "……そして時間が経つにつれて、{w=0.2}あなたが私と一緒に居たいと言ってくれたことを、本当に信じられるようになったの"
+
+translate Japanese anni_1_3320beb8:
+    m 3dkbsu "……一緒に居たら、幸せな人生が送れるって。{w=0.3}{nw}"
+
+translate Japanese anni_1_d0f0be8c:
+    extend 3ekbsa "あなたと私の、この小さな現実の中で"
+
+translate Japanese anni_1_7ea3d1c6:
+    m 5ekbsa "感謝してもしきれないよ、[player]。{w=0.2}あなたのおかげで今年は信じられないような年になったんだから"
+
+translate Japanese anni_1_1ff0f945:
+    m 5eublb "えーと、１周年の記念日には何か特別なことはあるかな？"
+
+translate Japanese anni_1_d693201d:
+    m 5hksdrb "特に何も計画してなかったけど、きっと何か楽しいことを見つけられると思うな"
+
+translate Japanese anni_1_975c8b6d:
+    m 3huu "結局のところ……{w=0.3}あなたがいれば、何をするにしても楽しいんだから"
+
+translate Japanese anni_1_dd90964a:
+    m 1hubsa "大好きだよ、[player]。{w=0.2}１周年おめでとう！"
+
 translate Japanese anni_2_88de1589:
     m 3eua "私たちが愛し合ってから、もう2年ね。"
 

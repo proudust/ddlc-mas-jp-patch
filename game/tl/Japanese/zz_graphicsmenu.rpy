@@ -1,4 +1,9 @@
 translate Japanese strings:
+
+
+    old "Software"
+    new "ソフトウェア"
+
     old "Select a renderer to use:"
     new "使用するレンダラーを選択"
 

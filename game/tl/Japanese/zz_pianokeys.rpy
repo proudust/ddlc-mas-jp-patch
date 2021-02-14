@@ -118,3 +118,15 @@ translate Japanese strings:
 
     old "On my own"
     new "自由に弾いてみる"
+
+    old "Reset All"
+    new "すべてリセット"
+
+    old "Config"
+    new "設定"
+
+    old "Click on a pink area to change the keymap for that piano key"
+    new "ピンクの部分をクリックすると、その鍵盤のキーマップを変更することができます。"
+
+    old "Press the key you'd like to set this piano key to"
+    new "このピアノの鍵盤に設定したい鍵盤を押します。"

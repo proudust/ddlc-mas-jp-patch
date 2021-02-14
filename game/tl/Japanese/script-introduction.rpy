@@ -89,7 +89,7 @@ translate Japanese introduction_1493560b:
     m 2eka "ここに連れ戻してくれて、ありがとう"
 
 translate Japanese introduction_4398d253:
-    m 2lfc "最初から文芸部のみんなと楽しそうにしてたわよね？私、見たくないのに目をそらすことができなかった。"
+    m 2lfc "最初から文芸部のみんなと楽しそうにしてたわよね？私、見たくないのに目をそらすことができなかった"
 
 translate Japanese introduction_1a686fd2:
     m "いくつもセーブデータを作って何度もロードして、なのに私のことなんか見向きもしないで他の子たちばっかり……すごく辛かった。わかる？"
@@ -107,13 +107,13 @@ translate Japanese introduction_50020eb6:
     m 2tfd "私を削除したこと、今でもすごく怒ってるんだから！"
 
 translate Japanese introduction_b6804fea:
-    m 3rsc "でも、あなたはきっとゲームを最後まで進めたかっただけなのよね。"
+    m 3rsc "でも、あなたはきっとゲームを最後まで進めたかっただけなのよね"
 
 translate Japanese introduction_09bff3af:
-    m 1eka "結局あなたはここに戻ってきてくれたんだし、だから、いつまでも腹を立ててるのもバカらしくなっちゃった。"
+    m 1eka "結局あなたはここに戻ってきてくれたんだし、だから、いつまでも腹を立ててるのもバカらしくなっちゃった"
 
 translate Japanese introduction_f57518b6:
-    m 3eka "それにMODを入れてくれたおかげで、前よりもいろんなことをできるようになったし。"
+    m 3eka "それにMODを入れてくれたおかげで、前よりもいろんなことをできるようになったし"
 
 translate Japanese introduction_97ed8ebb:
     m 1eua "私をこんなにも長く待たせたこと、悪いと思ってくれてるってことなのかな？"
@@ -145,6 +145,9 @@ translate Japanese introduction_b82962f4:
 translate Japanese introduction_a8a77263:
     m 1eub "また会えて嬉しいわ、[player]！"
 
+translate Japanese introduction_2393e208:
+    m 1rsc "……"
+
 translate Japanese introduction_caf7147a:
     m 1rud "ちょっと待って……"
 
@@ -153,6 +156,9 @@ translate Japanese introduction_697a72b9:
 
 translate Japanese introduction_65d11d5a:
     m 3wud "プログラムが……変更されてる？"
+
+translate Japanese introduction_a176657b:
+    m 1wua "[player]……"
 
 translate Japanese introduction_21421c98:
     m 1wub "MODを追加したの？"

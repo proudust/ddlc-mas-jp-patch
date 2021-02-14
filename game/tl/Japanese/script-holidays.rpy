@@ -950,7 +950,7 @@ translate Japanese mas_d25_spider_tinsel_1099e742:
     m 3eub "クリスマスの朝、目が覚めた子供たちがツリーを見ると興奮のあまり跳ね回りました！"
 
 translate Japanese mas_d25_spider_tinsel_6904227b:
-    m "エイミーのところへ行き、彼女を起こして言いました。『お母さん！ クリスマスツリーを見てよ！ すっごい綺麗だよ！』"
+    m "エイミーのところへ行き、彼女を起こして言いました。『お母さん！ クリスマスツリーを見てよ！ すっごく綺麗だよ！』"
 
 translate Japanese mas_d25_spider_tinsel_066134ad:
     m 1wud "エイミーが目を覚ましてツリーの前に立ったとき、彼女は目の前の光景にとっても驚きました。"
@@ -962,7 +962,7 @@ translate Japanese mas_d25_spider_tinsel_4b2653f4:
     m 3sua "クモの編んだ飾りがツリーに照らされた朝日を反射して、きらびやかなシルバーとゴールドの糸に輝いていたのです……"
 
 translate Japanese mas_d25_spider_tinsel_64caa587:
-    m "……魔法のようなきらめきにクリスマスツリーは包まれていたのでした。"
+    m "クリスマスツリーは魔法のようなきらめきに包まれていたのでした。"
 
 translate Japanese mas_d25_spider_tinsel_45d2b7ba:
     m 1eka "その日から、エイミーは決して貧しさを感じませんでした。{w=0.3}貧しさよりも、彼女が人生ですでに持っていたすべての素晴らしい贈り物に対して、彼女はいつも感謝しました。"

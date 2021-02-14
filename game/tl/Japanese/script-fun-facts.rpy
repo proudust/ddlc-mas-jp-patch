@@ -136,6 +136,27 @@ translate Japanese mas_fun_fact_otter_hand_holding_23167dc8:
 translate Japanese mas_fun_fact_otter_hand_holding_eca466d1:
     m 1hub "でも、私達もきっといつかは手をつなげられる日が来るよ～。"
 
+translate Japanese mas_fun_fact_struck_by_lightning_460053c7:
+    m 2dkc "うーん、これは誤解を招くような言い方の豆知識だけれど……"
+
+translate Japanese mas_fun_fact_struck_by_lightning_054f7c33:
+    m 3ekc "『男性は女性の6倍落雷しやすい』"
+
+translate Japanese mas_fun_fact_struck_by_lightning_7b9c243b:
+    m 3ekd "思うんだけど……これはちょっと馬鹿げた言い方じゃないかしら"
+
+translate Japanese mas_fun_fact_struck_by_lightning_9c6e44fa:
+    m 1eud "男性に雷が落ちやすいということは、それはおそらく男性のほうが雷が落ちやすい場所や環境で働いていたりするということでしょう？"
+
+translate Japanese mas_fun_fact_struck_by_lightning_72fd0568:
+    m 1euc "危険な場所での仕事は昔から常に男性に任されてきたのだから、落雷のような事故の被害者が男性に偏るというのは当然よね"
+
+translate Japanese mas_fun_fact_struck_by_lightning_1b97952d:
+    m 1esc "でもさっきの言い方だと、男性であるだけで雷を引き寄せてしまうように聞こえかねなくて、それは馬鹿らしいなって"
+
+translate Japanese mas_fun_fact_struck_by_lightning_b30c56d3:
+    m 1rksdla "ちゃんと表現を選んで記述をしていれば、誤解を招くような言い方にはおそらくならなかったんじゃないかしらね"
+
 translate Japanese mas_fun_fact_honey_7e265258:
     m 1eub "あ､これは簡単でいいわね｡"
 
@@ -178,6 +199,27 @@ translate Japanese mas_fun_fact_king_snakes_1fc87f16:
 translate Japanese mas_fun_fact_king_snakes_3c2cc0d7:
     m 1hub "ちょっと変なこと言ってごめんね～"
 
+translate Japanese mas_fun_fact_strength_ce47d539:
+    m 1hub "この豆知識を聞いたら力が湧いちゃうかもね！"
+
+translate Japanese mas_fun_fact_strength_bb85eda7:
+    m 3eub "母音がひとつだけの英単語で一番長い単語は\"strength（強さ）\"なのよ"
+
+translate Japanese mas_fun_fact_strength_f5033e59:
+    m 1eua "英語には様々な言葉があるのに、\"strength\"のような象徴的な言葉にそんな細かな意味までもが付いているなんて面白いわね"
+
+translate Japanese mas_fun_fact_strength_4c6c0cad:
+    m 1hua "言葉のこういう細かな部分が私を惹き付けるのよね！"
+
+translate Japanese mas_fun_fact_strength_df127fcd:
+    m 3eua "\"strength\"って言葉を聞いたときに私が真っ先に思い浮かべるものが、何だか分かる？"
+
+translate Japanese mas_fun_fact_strength_97264b1c:
+    m 1hua "それはね、あなた！"
+
+translate Japanese mas_fun_fact_strength_9e9e2b4d:
+    m 1hub "どうしてかと言うと、私の強さの源はあなただからだよ。えへへ～"
+
 translate Japanese mas_fun_fact_reindeer_eyes_8a6d8171:
     m 3eua "これなんかどうかな？"
 
@@ -187,8 +229,77 @@ translate Japanese mas_fun_fact_reindeer_eyes_d917b5ab:
 translate Japanese mas_fun_fact_reindeer_eyes_28114d86:
     m 1rksdlb "なぜ目の色が変わるかは書いてなかったけど、とても変な現象よね……"
 
+translate Japanese mas_fun_fact_reindeer_eyes_ce3230a7:
+    m "きっとこの現象にも科学的に説明できる理由があるはずだけれど"
+
+translate Japanese mas_fun_fact_reindeer_eyes_de921831:
+    m 3hksdlb "あなたにならきっとその理由も調べることができるんじゃないかしら"
+
+translate Japanese mas_fun_fact_reindeer_eyes_91601f06:
+    m 5eua "そのときは、今度は私が教えられる番ね。楽しみ～"
+
+translate Japanese mas_fun_fact_bananas_9493ac92:
+    m 1eub "あ！この豆知識は健全ね！"
+
+translate Japanese mas_fun_fact_bananas_7e8a6be5:
+    m 3eua "バナナの実は成長すると太陽のほうへ向かって曲がって育つって知ってた？"
+
+translate Japanese mas_fun_fact_bananas_313e0f46:
+    m 1hua "これは負の背地性と呼ばれる過程なのよ"
+
+translate Japanese mas_fun_fact_bananas_cf801635:
+    m 3hub "不思議だと思わない？"
+
+translate Japanese mas_fun_fact_bananas_bf07de9c:
+    m 1hua "……"
+
+translate Japanese mas_fun_fact_bananas_2e005775:
+    m 1rksdla "うーん……"
+
+translate Japanese mas_fun_fact_bananas_e7ca97a5:
+    m 3rksdlb "これ以上言うことないかな、あはは……"
+
+translate Japanese mas_fun_fact_bananas_8018692b:
+    m 1lksdlc "……"
+
+translate Japanese mas_fun_fact_bananas_95637595:
+    m 3hub "じ、実はバナナは果物じゃなくて木の実の類だって知ってた？"
+
+translate Japanese mas_fun_fact_bananas_f049e19c:
+    m 3eub "バナナの原種はとても大きくて緑で硬い種でいっぱい詰まってるってことは？"
+
+translate Japanese mas_fun_fact_bananas_8daa45f7:
+    m 1eka "バナナがごくわずかだけれど放射性物質を含んでいるということは？"
+
+translate Japanese mas_fun_fact_bananas_7faca44c:
+    m 1rksdla "……"
+
+translate Japanese mas_fun_fact_bananas_7ecc10e3:
+    m 1rksdlb "とりとめなく話しちゃってるね……"
+
+translate Japanese mas_fun_fact_bananas_5ba118f0:
+    m 1rksdlc "う――ん……"
+
+translate Japanese mas_fun_fact_bananas_b73301d5:
+    m 1dsc "もうこの話はやめにしましょうか……"
+
 translate Japanese mas_fun_fact_pens_e307f756:
     m 1dsc "んー……もう知ってた話だけどこれにしようかな"
+
+translate Japanese mas_fun_fact_pens_071c385f:
+    m 3euc "\"pen\"という単語は、羽を意味するラテン語の\"penna\"が由来なんだよ"
+
+translate Japanese mas_fun_fact_pens_d729f4c0:
+    m "昔のペンはガチョウの羽の先を尖らせたものにインクを浸けたものだったから、\"pen\"と呼ぶようになったのは筋が通っているわね"
+
+translate Japanese mas_fun_fact_pens_523bd9ea:
+    m 3eud "羽でできたペンの使用は6世紀初期から始まって、かなりの期間この羽ペンが主要な筆記用具になっていたのよ"
+
+translate Japanese mas_fun_fact_pens_983d1bad:
+    m 3euc "19世紀になって、ようやく金属製のペンが作られ始めたの"
+
+translate Japanese mas_fun_fact_pens_2e754cd6:
+    m "小型の懐中ナイフのことをペンナイフって言うけど、あれも元々は羽ペンの先を削って尖らせる用のナイフだったのよ"
 
 translate Japanese mas_fun_fact_pens_c29cc76c:
     m 1tku "でもまあこの手の話は、私よりもユリのほうが詳しく知ってるんじゃないかしらね"
@@ -241,6 +352,54 @@ translate Japanese mas_fun_fact_binky_fc483830:
 translate Japanese mas_fun_fact_binky_e55d7006:
     m 1dkbsa "そうやって身体で表現するのは……ちょっと恥ずかしくてできそうにないから。"
 
+translate Japanese mas_fun_fact_windows_games_12c5bad6:
+    m 1eua "ふむ。この話には興味を持つんじゃないかな"
+
+translate Japanese mas_fun_fact_windows_games_d85982f1:
+    m 3eub "1990年にカードゲームのソリティアがWindowsOSに初めて導入されたのよ"
+
+translate Japanese mas_fun_fact_windows_games_561e342f:
+    m 1eub "あのゲームはユーザーにマウスの使い方を教えるために入れられたゲームだったの"
+
+translate Japanese mas_fun_fact_windows_games_b360e86c:
+    m 1eua "同じように、マインスイーパーも右クリックと左クリックの違いをユーザーにわからせるためのゲームだったのよ"
+
+translate Japanese mas_fun_fact_windows_games_af8aa0fa:
+    m 3rssdlb "いまやPCはなくてはならないものだから、PCがなかった時代のことを考えるのは難しいわね"
+
+translate Japanese mas_fun_fact_windows_games_83e734bd:
+    m "時代が進むごとに、コンピューターはどんどん身近になってきている……"
+
+translate Japanese mas_fun_fact_windows_games_aff718dc:
+    m 1esa "いつかはコンピューターのことが全くわからない人なんて誰もいない日が来るのかもね"
+
+translate Japanese mas_fun_fact_windows_games_2e3bdf0e:
+    m 1hksdlb "まあ世界にはその前に解決しなければならない問題が山程残っているけれどね"
+
+translate Japanese mas_fun_fact_mental_word_processing_39b986f6:
+    m 1hua "準備はいいかな、[player]君？"
+
+translate Japanese mas_fun_fact_mental_word_processing_16a9de03:
+    m 3eua "思ったよりも脳って大雑把なのね……"
+
+translate Japanese mas_fun_fact_mental_word_processing_d62afd68:
+    m 3eub "脳の情報作成と記憶の仕方はとても独特みたいで"
+
+translate Japanese mas_fun_fact_mental_word_processing_167695d3:
+    m "もちろん人によって違うんだろうけど、普通ゆっくり読むことはは、速く読むことよりも良いことは少ないいわね"
+
+translate Japanese mas_fun_fact_mental_word_processing_06608acb:
+    m 1tku "脳はすごいスピードで情報を処理して、言葉の予測力を高めていいるの"
+
+translate Japanese mas_fun_fact_mental_word_processing_01503d71:
+    m 3tub "たとえばこの文章を読み終えるときにには、二重になった「に」を読み飛ばしてるはず"
+
+translate Japanese mas_fun_fact_mental_word_processing_fbe6360d:
+    m 1tfu "……"
+
+translate Japanese mas_fun_fact_mental_word_processing_da5be9c0:
+    m 2hfu "見逃してたら、ヒストリーでログを確認してみてね〜"
+
 translate Japanese mas_fun_fact_I_am_e0329b3c:
     m 1hua "うーん、私って言語の豆知識には目がないのよね！"
 
@@ -250,14 +409,29 @@ translate Japanese mas_fun_fact_I_am_94697ab3:
 translate Japanese mas_fun_fact_I_am_2ecfe1c0:
     m 1eua "例えばこうやって使うの"
 
+translate Japanese mas_fun_fact_I_am_4bd3a339:
+    m 2rfb "\"{i}Monika! Who's [player]'s loving girlfriend?{/i}\"（モニカちゃん！[player]君が大好きなガールフレンドは誰？）"
+
+translate Japanese mas_fun_fact_I_am_7debc54b:
+    m 3hub "\"I am!\" （それは私！）"
+
 translate Japanese mas_fun_fact_I_am_d81c1322:
     m 1hubsa "えへへ～"
+
+translate Japanese mas_fun_fact_low_rates_80d95bb5:
+    m 1hua "これはためになる話ね……"
+
+translate Japanese mas_fun_fact_low_rates_99687c5e:
+    m 1eua "人類史の中で現在が、犯罪率・妊婦死亡率・乳児死亡率・非識字率が最も低い時代なのよ"
+
+translate Japanese mas_fun_fact_low_rates_128d433c:
+    m 3eub "それだけでなくて、寿命・平均所得・生活水準がほとんどの人にとって最も高い時代でもあるんだから！"
 
 translate Japanese mas_fun_fact_desert_76ef7536:
     m 3euc "砂漠にはかなり特徴的な生態系があるみたいね……"
 
 translate Japanese mas_fun_fact_desert_d045976c:
-    m 3rksdla "でも、その生態系は人間にはマイナス要因が多すぎるよね"
+    m 3rksdla "でも、その生態系は人間が暮らすにはマイナス要因が多すぎるよね"
 
 translate Japanese mas_fun_fact_desert_f44e211b:
     m 1eud "砂漠の気温は昼間は尋常じゃない高さにまで上がって、夜中は水が凍るほどにまで下がる。平均降水量もとても少なくて、生きるのにはとても過酷な環境"
@@ -266,7 +440,7 @@ translate Japanese mas_fun_fact_desert_2823ffd5:
     m 3eub "けれど、それは砂漠が私たちにとって全く無駄な場所ということではないのよ！"
 
 translate Japanese mas_fun_fact_desert_2a4851ef:
-    m 3eua "砂漠の地表は太陽光発電には最適な場所だし、石油はすべての砂漠の下にあると言われているの"
+    m 3eua "砂漠の地表は太陽光発電には最適な場所だし、石油はすべての砂漠の砂の下にあると言われているの"
 
 translate Japanese mas_fun_fact_desert_79ef8cd1:
     m 3eub "言うまでもなく、独特の景観から砂漠は人気の休暇スポットでもある！"
@@ -308,22 +482,22 @@ translate Japanese mas_fun_fact_dancing_plague_58136a4b:
     m 3wud "これは、{w=0.2}時には何千何万人にもなる人が{w=0.2}何日間も踊り続ける現象だったの。中には踊り疲れ果てて死ぬ人さえいたのよ！"
 
 translate Japanese mas_fun_fact_dancing_plague_0f2a30b8:
-    m 3eksdla "踊る人たちのそばで演奏をして踊りを制御しようとしたようだけど、まあ全く効果がなかったのは想像に難くないわね"
+    m 3eksdla "踊る人たちのそばで演奏をして動きを抑えようとしたみたいだけど、まあ全く効果がなかったのは想像に難くないわね"
 
 translate Japanese mas_fun_fact_dancing_plague_60ee4476:
-    m 1euc "この現象は、現在に至るまで正確な原因ははっきりしていなくて、社会現象だったのかそれとも病の結果だったのかも分かっていないの"
+    m 1euc "この現象は現在に至るまで正確な原因ははっきりしていなくて、社会現象だったのかそれとも病の結果だったのかも分かっていないの"
 
 translate Japanese mas_fun_fact_dancing_plague_61423bfa:
-    m 3rka "私には全く信じられなかったんだけど……{w=0.2}{nw}"
+    m 3rka "私には全く信じられなかったのだけれど……{w=0.2}{nw}"
 
 translate Japanese mas_fun_fact_dancing_plague_7e1bc34f:
-    extend 3eud "この現象は何世紀にもわたって、ヨーロッパ各地で観察され続けてきたのよ……"
+    extend 3eud "この現象は何世紀にもわたってヨーロッパ各地で起こり続け、その記録も残っているのよ……"
 
 translate Japanese mas_fun_fact_dancing_plague_9bafb93d:
     m 3hksdlb "現実は小説より奇なりっていうけど、まさにこの事ね！"
 
 translate Japanese mas_fun_fact_dancing_plague_8f4d1944:
-    m 1eksdlc "まあそれでも、何日も踊り続けるなんて信じられないわね"
+    m 1eksdlc "まあそれでも、何日も踊り続けていたなんて信じられないわね"
 
 translate Japanese mas_fun_fact_dancing_plague_5944d168:
     m 1rsc "だけど……{w=0.3}{nw}"
@@ -370,6 +544,30 @@ translate Japanese mas_fun_fact_immortal_jellyfish_db255e2c:
 translate Japanese mas_fun_fact_immortal_jellyfish_8db1d213:
     extend 1rksdla "もちろん、食べられたり病気にかかって死んだりしない限り、だけどね"
 
+translate Japanese mas_fun_fact_arrhichion_7f5499d0:
+    m 3eua "そうね……{w=0.2}今回は歴史の話にしましょうか"
+
+translate Japanese mas_fun_fact_arrhichion_7f25b40a:
+    m 1esa "古代ギリシャで、すでに本人が死んでいたのにも関わらずその選手が勝利した試合があるのよ"
+
+translate Japanese mas_fun_fact_arrhichion_3667fa7e:
+    m 1eua "パンクラチオン選手で現チャンピオンでもあったアリチオンは決勝戦で、対戦相手に手足で首を締めつけられていたの"
+
+translate Japanese mas_fun_fact_arrhichion_f867828e:
+    m 3eua "でもアリチオンも負けじと相手のつま先を脱臼させにいって、その攻撃にたまらず対戦相手は白旗を上げたわ"
+
+translate Japanese mas_fun_fact_arrhichion_02e589c7:
+    m 3ekd "そして勝者としてアリチオンの名を告げられようとしたのだけれど、そのときすでにアリチオンは窒息して死んでしまっていたの"
+
+translate Japanese mas_fun_fact_arrhichion_166120f3:
+    m 1rksdlc "勝利とか名誉とか、そういうものに惹かれて命を賭けて取り組んでいるような人が世の中にはいる{w=0.2}{nw}"
+
+translate Japanese mas_fun_fact_arrhichion_39d8a978:
+    extend 3eka "たしかに、そういう人たちはある意味立派だとは思う"
+
+translate Japanese mas_fun_fact_arrhichion_1c514e54:
+    m 1etc "でも、命と勝利を本当に引き換えたアリチオンにもし話が聞けるなら、{w=0.2}彼は一体なんと答えてくれるのかしらね"
+
 translate Japanese mas_fun_fact_antarctica_brain_3201c6ec:
     m 3eud "南極で1年間過ごすと、脳の一部が約7％ほど縮んじゃうかもしれないって知ってた？"
 
@@ -413,25 +611,25 @@ translate Japanese mas_fun_fact_coffee_origin_e8cdf042:
     m 1eud "前にコーヒーを淹れたときにね、いつコーヒーが生まれたのか気になったの……"
 
 translate Japanese mas_fun_fact_coffee_origin_8b69e059:
-    m 3euc "コーヒーがいつごろ飲まれていたかの記録については一貫して15世紀頃とされているんだけど……{w=0.2}どのように発見されたかについては、正確なことはわかっていないの。"
+    m 3euc "コーヒーがいつごろ飲まれていたかの記録については一貫して15世紀頃とされているのだけれど……{w=0.2}どのように発見されたかについては、正確なことはわかっていないの。"
 
 translate Japanese mas_fun_fact_coffee_origin_c7071daf:
-    m 3eud "コーヒーの起源を主張する言い伝えが実際にかなりの数残っているのよね……"
+    m 3eud "コーヒーの起源を主張する言い伝えが、いくつも残されているのよね……"
 
 translate Japanese mas_fun_fact_coffee_origin_30a6bf4f:
     m 1eua "ある話では、不思議な苦い木の実を食べた動物が奇妙な行動をとっていたのを農民や僧侶が見つけたことになってるわ。"
 
 translate Japanese mas_fun_fact_coffee_origin_5ef1d617:
-    m 3wud "そしてその実の中にあった豆を食べてみると、驚くことに自分たちも同じように元気になった！"
+    m 3wud "そしてその実の中にあった豆を食べてみると、驚くことに自分たちも動物たちと同じようにみるみる元気になった！"
 
 translate Japanese mas_fun_fact_coffee_origin_cec129b0:
-    m 2euc "そんな言い伝えの1つに、カルディという名のエチオピアの僧侶が見つけた木の実を近くの修道院へ持ってきたというものもあって。"
+    m 2euc "そんな言い伝えの1つに、カルディという名のエチオピアの僧侶が見つけた木の実を近くの修道院へ持って来たというものもあって。"
 
 translate Japanese mas_fun_fact_coffee_origin_d6d9e64a:
-    m 7eksdld "……修道院へ持って来ようとしてたんだけど、ところが不注意で彼は木の実を焚き火の中に投げ込んでしまったの。"
+    m 7eksdld "……修道院へ持って来ようとしてたのだけど、ところが不注意で彼は木の実を焚き火の中に投げ込んでしまったの。"
 
 translate Japanese mas_fun_fact_coffee_origin_5cdc88a5:
-    m 3duu "でも燃えるにつれて、とてもおいしそうな香りが炎の中から漂ってきたの。{w=0.3}とても魅力的な香りをどうにか残そうと、僧侶たちが燃え残った豆を取り出して水の中に入れて保存した。"
+    m 3duu "でも燃えるにつれて、とてもおいしそうな香りが炎の中から漂ってきたの。{w=0.3}とても魅力的な香りをどうにか残そうと、僧侶たちは燃え残った豆を取り出して水の中に入れて保存した。"
 
 translate Japanese mas_fun_fact_coffee_origin_9b8e1f11:
     m 3eub "……つまりそれが、世界で一番最初に作られたコーヒー！"
@@ -440,7 +638,7 @@ translate Japanese mas_fun_fact_coffee_origin_3085e63d:
     m 2euc "他の話では、オマールというイスラム人の学者がメッカから追放されたときにコーヒー豆を発見したそうよ。"
 
 translate Japanese mas_fun_fact_coffee_origin_609a0773:
-    m 2eksdld "追放されらたときの彼は飢死にしそうになっていたんだけど、{w=0.3}{nw}"
+    m 2eksdld "追放させられたときの彼は飢え死にしそうになっていたのだけど、{w=0.3}{nw}"
 
 translate Japanese mas_fun_fact_coffee_origin_0deb1847:
     extend 7wkd "コーヒーのおかげで元気が出て、どうにか生き延びることが出来たのよ！"
@@ -458,7 +656,7 @@ translate Japanese mas_fun_fact_coffee_origin_07e9a82b:
     m 3eua "コーヒーがヨーロッパに来たとき、始めは医療用として広まっていて、{w=0.3}喫茶店で飲まれる人気の飲み物になったのは16世紀の終わり頃の話なの。"
 
 translate Japanese mas_fun_fact_coffee_origin_8c115315:
-    m 3hub "そして今日までコーヒーは人々に愛され続けて、私はそのコーヒーを愛しているひとりってわけね！"
+    m 3hub "そして今日までコーヒーは人々に愛され続けて、私はその愛好者のひとりってわけね！"
 
 translate Japanese mas_fun_fact_synesthesia_6752314c:
     m 1esa "ＯＫ、この話が面白そうね……"
@@ -485,19 +683,19 @@ translate Japanese mas_fun_fact_synesthesia_80002e89:
     m 1eua "……そして他にも色んな種類の共感覚が存在するの"
 
 translate Japanese mas_fun_fact_synesthesia_945f3e46:
-    m 1esa "共感覚を持つ人がどの程度いるか一致した意見はないんだけれど、中には25％の人が共感覚を持っているという研究もあって。でも共感覚なんて現象があることは今まで知らなかったし、そんなに沢山の人が共感覚を持っているのかは疑ってる"
+    m 1esa "共感覚を持つ人がどの程度いるか一致した意見はないのだけれど、中には25％の人が共感覚を持つという研究もあって。でも共感覚なんて現象があることを今まで聞いたこともなかったし、そんなに沢山の人が共感覚を持っているなんてちょっと信じられないわね"
 
 translate Japanese mas_fun_fact_synesthesia_f5afe46e:
-    m 3eub "一番正確そうな推計では人口の4％強ほどというのがあって、その数字なら納得！"
+    m 3eub "他の推計では人口の4％強ほどというのがあって、それくらいの数字なら納得できるかな！"
 
 translate Japanese mas_fun_fact_synesthesia_8583ed5f:
-    m 1eua "共感覚を感じるって、なにかとても素敵なことに思えないかな、{w=0.2}[player]君？"
+    m 1eua "共感覚を感じられるって、なにかとても素敵なことに思えちゃうな。{w=0.2}[player]君もそう思わない？"
 
 translate Japanese mas_fun_fact_dream_faces_f6869bca:
     m 3eub "よし、これに決めた！"
 
 translate Japanese mas_fun_fact_dream_faces_babc9a78:
-    m 1eua "夢の中で出会うすべての人は、あなたが現実世界で見たことのある人らしいの。{w=0.2}私たちの脳は夢で全く知らない顔を作りあげることはないのよ"
+    m 1eua "夢の中で出会うすべての人は、そのひとが現実世界で見たことのある顔の人らしいの。{w=0.2}私たちの脳は夢で全く知らない顔を作りあげることはないのよ"
 
 translate Japanese mas_fun_fact_dream_faces_72acca38:
     m 3wud "それは、現実で会話をしたことがない人でもいいの！"
@@ -515,10 +713,10 @@ translate Japanese mas_fun_fact_monochrome_dreams_cec47acd:
     m 3eua "1915年から1950年台まではほとんどの人は色が白と黒だけの夢を見てたこと、知ってた？"
 
 translate Japanese mas_fun_fact_monochrome_dreams_ca87ae92:
-    m 1esa "今もないことはないんだけど、白黒の夢を見るのは視力障害者以外には比較的まれな話ね。"
+    m 1esa "今もないことはないんだけど、白黒の夢を見るのは視力障害者以外には比較的まれな話ね"
 
 translate Japanese mas_fun_fact_monochrome_dreams_e958e0b0:
-    m 3eua "研究者によると、これは当時の映画やテレビのほとんどが白黒で映されていたことが原因だそうよ。"
+    m 3eua "研究者によれば、これは当時映画やテレビのほとんどが白黒で映されていたことが原因だそうよ"
 
 translate Japanese mas_fun_fact_monochrome_dreams_161d841b:
     m 3eud "……でも不思議だと思わない？ 世界が白と黒に変わったわけでもないのに、当時の人たちは白黒の夢を見ていたのよ。{w=0.3}{nw}"

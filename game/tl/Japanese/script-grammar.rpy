@@ -155,7 +155,7 @@ translate Japanese monika_gtod_tip003_f82c4aeb:
     m 3eub "思い浮かんだように、いろいろあるわ。"
 
 translate Japanese monika_gtod_tip003_b588f215:
-    m 3euc "例えば、こんな感じ。{w=0.5} \"{b}although（…ではあるけれど）{/b}\" 、\"{b}until（…まで）{/b}\" 、\" {b}since（…から）{/b}\" 、 \"{b}while（…する間）{/b}\" 、他には \"{b}as long as（…する限り）{/b}\" ね。"
+    m 3euc "例えば、こんな感じ。{w=0.5} \"{b}although（……ではあるけれど）{/b}\" 、\"{b}until（……まで）{/b}\" 、\" {b}since（……から）{/b}\" 、 \"{b}while（……する間）{/b}\" 、他には \"{b}as long as（……する限り）{/b}\" ね。"
 
 translate Japanese monika_gtod_tip003_426a0c7b:
     m 3eub "とてもたくさんある{i}から{/i}（{i}Since{/i} there are so many）、この接続詞のカテゴリーは一番広いの！"
@@ -311,43 +311,43 @@ translate Japanese monika_gtod_tip006_7566f426:
     m 3hub "ご清聴、ありがとうございました！"
 
 translate Japanese monika_gtod_tip007_2f011a3b:
-    m 1eua "今日は、 \"{b}who{/b}\" と \"{b}whom{/b}\" の使い方について説明するわ。"
+    m 1eua "今日は、 \"{b}who{/b}\" と \"{b}whom{/b}\" の使い方について説明するわ"
 
 translate Japanese monika_gtod_tip007_a800a06e:
-    m 3hub "大抵の人は、違いを学ぶこともなく \"{b}who{/b}\" を使っているようね、アハハ。"
+    m 3hub "大抵の人は、違いを学ぶこともなく \"{b}who{/b}\" を使っているようね、アハハ"
 
 translate Japanese monika_gtod_tip007_6a6aa8a8:
-    m 1esd "どちらも『誰』という意味なんだけど、違いは \"{b}who{/b}\" が主語で、 \"{b}whom{/b}\" が目的語であることね。"
+    m 1esd "どちらも『誰』という意味なんだけど、違いは \"{b}who{/b}\" が主語で、 \"{b}whom{/b}\" が目的語であることね"
 
 translate Japanese monika_gtod_tip007_bde71521:
     m 3eub "使い分け方は簡単よ！"
 
 translate Japanese monika_gtod_tip007_f12d9e50:
-    m 1euc "\"{b}who{/b}\" は \"{b}he{/b}/{b}she{/b}/{b}they{/b}\" に対応し、 \"{b}whom{/b}\" は \"{b}him{/b}/{b}her{/b}/{b}them{/b}\" に対応するの。"
+    m 1euc "\"{b}who{/b}\" は \"{b}he{/b}/{b}she{/b}/{b}they{/b}\" に対応し、 \"{b}whom{/b}\" は \"{b}him{/b}/{b}her{/b}/{b}them{/b}\" に対応するの"
 
 translate Japanese monika_gtod_tip007_c8a67776:
-    m 3eud "\"{b}who{/b}\" と \"{b}whom{/b}\" はそれぞれ、 \"{b}he{/b}/{b}she{/b}/{b}they{/b}\" と \"{b}him{/b}/{b}her{/b}/{b}them{/b}\" に置き換えられるの。"
+    m 3eud "\"{b}who{/b}\" と \"{b}whom{/b}\" はそれぞれ、 \"{b}he{/b}/{b}she{/b}/{b}they{/b}\" と \"{b}him{/b}/{b}her{/b}/{b}them{/b}\" に置き換えられるの"
 
 translate Japanese monika_gtod_tip007_d7e1b90c:
     m 1eua "置き換え1つで理解できるし、どちらを使うべきかもわかるはずよ！"
 
 translate Japanese monika_gtod_tip007_f2caf116:
-    m 3eua "私の詩のタイトル、 {i}The Lady who Knows Everything（全てを知る女性）{/i} を例にとってみましょうか。"
+    m 3eua "私の詩のタイトル、 {i}The Lady who Knows Everything（全てを知る女性）{/i} を例にとってみましょうか"
 
 translate Japanese monika_gtod_tip007_4954852b:
     m 3esd "節 \"{b}who knows everything{/b}\" に注目して、 \"{b}who{/b}\" を置き換えると……"
 
 translate Japanese monika_gtod_tip007_3332c9de:
-    m 1esd "\"{b}she knows everything{/b}\" と \"{b}her knows everything{/b}\" になるわね。"
+    m 1esd "\"{b}she knows everything{/b}\" と \"{b}her knows everything{/b}\" になるわね"
 
 translate Japanese monika_gtod_tip007_98795251:
-    m 3euc "\"{b}she knows everything{/b}\" だけが意味が通じる文だから、正しいのは \"{b}who knows everything（全てを知る者）{/b}\" だとわかる、というわけ。"
+    m 3euc "\"{b}she knows everything{/b}\" だけが意味が通じる文だから、正しいのは \"{b}who knows everything（全てを知る者）{/b}\" だとわかる、というわけ"
 
 translate Japanese monika_gtod_tip007_28e0370d:
     m 1hksdla "書くのが大変、なんて言ったのは誰 (who) ？"
 
 translate Japanese monika_gtod_tip007_396c74f9:
-    m 1eub "今日はここまでよ、[player]君。"
+    m 1eub "今日はここまでよ、[player]君"
 
 translate Japanese monika_gtod_tip007_7566f426:
     m 3hub "ご清聴、ありがとうございました！"
@@ -356,7 +356,7 @@ translate Japanese monika_gtod_tip008_c75d9b1e:
     m 1eua "前回、 \"{b}who{/b}\" と \"{b}whom{/b}\" の違いについて話したわね。"
 
 translate Japanese monika_gtod_tip008_c5d8852a:
-    m 1esd "他にも、「…と私」と言うときに使う \"{b}and I{/b}\" と \"{b}and me{/b}\" っていう紛らわしいフレーズがあるの。"
+    m 1esd "他にも、「……と私」と言うときに使う \"{b}and I{/b}\" と \"{b}and me{/b}\" っていう紛らわしいフレーズがあるの。"
 
 translate Japanese monika_gtod_tip008_8f97b260:
     m 3etc "「私は[player]君とデートに行った。」と言いたいとき、正解は \"{b}[player] and I went on a date.{/b}\" なのか \"{b}[player] and me went on a date.{/b}\" のどちらなのか、ってことね。"

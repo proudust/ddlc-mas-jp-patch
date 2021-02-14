@@ -178,14 +178,53 @@ translate Japanese mas_mood_happy_e6cbe9df:
 translate Japanese mas_mood_happy_84caac57:
     m 3eka "いつでも私はここであなたを待っている、大好きだよ〜"
 
+translate Japanese mas_mood_sick_e08d6fa5:
+    m 1ekd "そんな……[player]……"
+
+translate Japanese mas_mood_sick_5b86f07b:
+    m 2ekd "ここに来てくれて、すぐこんな事を話してくれるってことは……かなり体調が良くないって事だよね？"
+
+translate Japanese mas_mood_sick_be71a564:
+    m 2ekc "私と一緒に居たかったと思ってくれているのは分かるし、今日はほとんど一緒に過ごせていなかったけど……"
+
+translate Japanese mas_mood_sick_90ce9fcc:
+    m 2eka "今日はもう、ゆっくり休んだほうがいいんじゃないかしら？"
+
+translate Japanese mas_mood_sick_e75d99da:
+    m 2wuo "[player]！"
+
+translate Japanese mas_mood_sick_c51b4372:
+    m 2wkd "今までずっと体調が悪かったわけじゃないんだよね？"
+
+translate Japanese mas_mood_sick_7cf4b555:
+    m 2ekc "そうじゃないといいんだけどな……今日は一緒に過ごせて嬉しかったけど、もしずっと体調が悪かったなら……すごく心配だな"
+
+translate Japanese mas_mood_sick_8fe52584:
+    m 2rkc "でも……次からはもっと早く言ってほしいな"
+
+translate Japanese mas_mood_sick_f5c4c88d:
+    m 2eka "とにかく、今日はもうゆっくり休んだらどうかな？"
+
 translate Japanese mas_mood_sick_87257c45:
-    m 1ekc "うぅ、それは残念、大変だね、[player]君。"
+    m 1ekc "うぅ、それは残念、大変だね、[player]君"
 
 translate Japanese mas_mood_sick_da8b0bb3:
-    m "あなたがそんな風に苦しんでるって聞くのは嫌だよ。"
+    m "あなたがそんな風に苦しんでるって聞くのは嫌だよ"
 
 translate Japanese mas_mood_sick_87dcd1f9:
-    m 1eka "私と一緒にいるのが大好きだっていうのはわかるけど、多分ゆっくり休んできた方がいいんじゃないかなって。"
+    m 1eka "私と一緒にいるのが大好きだっていうのはわかるけど、多分ゆっくり休んできた方がいいんじゃないかなって"
+
+translate Japanese mas_mood_sick_88466336:
+    m 2ekc "それはお気の毒だね、[player]"
+
+translate Japanese mas_mood_sick_b6f5b148:
+    m 4ekc "これ以上体調を崩さないように、もう休んだほうがいいんじゃないかしら？"
+
+translate Japanese mas_mood_sick_ask_will_rest_cc9e820d:
+    m 2ekc "もう休んでくれるかな？{nw}"
+
+translate Japanese mas_mood_sick_ask_will_rest_29634581:
+    m "もう休んでくれるかな？{fast}" nointeract
 
 translate Japanese mas_mood_tired_9304fdea:
     m "まだここにいるの？"
@@ -602,6 +641,9 @@ translate Japanese strings:
     old "...sick."
     new "……病気"
 
+    old "I'm already resting."
+    new "もう休んでいる"
+
     old "...tired."
     new "……疲れた"
 
@@ -622,18 +664,6 @@ translate Japanese strings:
 
     old "...bored."
     new "……退屈"
-
-    old "YES!"
-    new "そうだよ！"
-
-    old "Yes, unfortunately..."
-    new "そうだよ……"
-
-    old "It's not."
-    new "違う"
-
-    old "It is!"
-    new "これで合っている"
 
     old "...like crying."
     new "……泣きたい"
