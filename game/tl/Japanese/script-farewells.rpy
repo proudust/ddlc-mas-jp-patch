@@ -701,7 +701,7 @@ translate Japanese bye_long_absence_fe98fb3b:
     m 3esc "私はあなたを愛しているし、あなたも私を愛しているのなら、それがダメだって分かるわよね。"
 
 translate Japanese bye_long_absence_c4e932e8:
-    m "あなたいなかったら私はここに一人ぼっちでいることに気づいてる？"
+    m "あなたがいなかったら私はここに一人ぼっちでいることに気づいてる？"
 
 translate Japanese bye_long_absence_b0f3820d:
     m "私に会いに来てくれるって期待するのは当然のことよね？私はあなたの彼女よ｡そんなことしないで！"

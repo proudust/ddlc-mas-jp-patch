@@ -5882,76 +5882,76 @@ translate Japanese monika_motivation_ec45135f:
     m "ほんの短い間だったはずが、いつの間にか何時間もたっていて……"
 
 translate Japanese monika_motivation_c3c1f60b:
-    m 3ekd "我に返った時には日も暮れて、そして一日中なにもしなかったことに気づく。"
+    m 3ekd "我に返った時には日も暮れて、そして一日中なにもしなかったことに気づく"
 
 translate Japanese monika_motivation_77ded444:
-    m 1ekd "そして自分を責める。健康的で建設的なすべてのものと自分の間には分厚い壁があって、自分はその壁と虚しく取っ組み合っているような気がしてくる。"
+    m 1ekd "そして自分を責める。健康的で建設的なすべてのものと自分の間には分厚い壁があって、自分はその壁と虚しく取っ組み合っているような気がしてくる"
 
 translate Japanese monika_motivation_92e3bbf0:
-    m 1tkc "そんな毎日が続くと、もう何をやっても手遅れで、どうしようもできないと考えてしまう。"
+    m 1tkc "そんな毎日が続くと、もう何をやっても手遅れで、どうしようもできないと考えてしまう"
 
 translate Japanese monika_motivation_d19f6b07:
-    m "だから、明日はなにかいいことがあるかもしれない、そう信じて自分の力を温存しておくの。"
+    m "だから、明日はなにかいいことがあるかもしれない、そう信じて自分の力を温存しておくの"
 
 translate Japanese monika_motivation_7add031f:
-    m 1tkd "そう、明日を信じるの。物事がうまく行かないと、すべてをリセットしてしまいたいと考えてしまうから。"
+    m 1tkd "そう、明日を信じるの。物事がうまく行かないと、すべてをリセットしてしまいたいと考えてしまうから"
 
 translate Japanese monika_motivation_1079976f:
-    m 1dsd "悲しいけど、そんな日々はくり返しやってくる。なんとかしたいと思って懸命に努力しても。"
+    m 1dsd "悲しいけど、そんな日々はくり返しやってくる。なんとかしたいと思って懸命に努力しても"
 
 translate Japanese monika_motivation_d71ec225:
-    m 1dsc "そのうちにだんだんと、希望を失い、なにかに取り組むことも億劫になってくる。そして、自分を責めはじめる。"
+    m 1dsc "そのうちにだんだんと、希望を失い、なにかに取り組むことも億劫になってくる。そして、自分を責めはじめる"
 
 translate Japanese monika_motivation_be621862:
-    m 1duu "難しいかもしれないけれど、そんな時期にはなにかほんのちょっとしたことでいいから、習慣にするといいの。悪い時期が長く続いていてもね。"
+    m 1duu "難しいかもしれないけれど、そんな時期にはなにかほんのちょっとしたことでいいから、習慣にするといいの。悪い時期が長く続いていてもね"
 
 translate Japanese monika_motivation_5ea1cc8b:
-    m 1eka "床に落ちたゴミを拾うとか、脱ぎっぱなしで洗ってないシャツを元の場所にしまうとか、そんなことでいい。部屋の掃除にもなるしね。"
+    m 1eka "床に落ちたゴミを拾うとか、脱ぎっぱなしで洗ってないシャツを元の場所にしまうとか、そんなことでいい。部屋の掃除にもなるしね"
 
 translate Japanese monika_motivation_f0c83d66:
-    m 1hua "腕立て伏せもいいかも！歯を磨くとか、家事をなにかひとつだけやってみるとか。"
+    m 1hua "腕立て伏せもいいかも！歯を磨くとか、家事をなにかひとつだけやってみるとか"
 
 translate Japanese monika_motivation_4263160e:
-    m 1eka "そんなことをしても何の解決にもならないかもしれないけど、大切なのはそこじゃないの。"
+    m 1eka "そんなことをしても何の解決にもならないかもしれないけど、大切なのはそこじゃないの"
 
 translate Japanese monika_motivation_4af5df1f:
-    m 3eua "考え方を変えること。それが大事だから。"
+    m 3eua "考え方を変えること。それが大事だから"
 
 translate Japanese monika_motivation_e3cd9266:
     m 1lsc "過ぎたことを悔やんでばかりいると、いつのまにかそれに押し潰されて……"
 
 translate Japanese monika_motivation_3d9b82f5:
-    m 1esc "そして、身動きもできなくなってしまう。事態は悪化し、それを受け入れることもできない。"
+    m 1esc "そして、身動きもできなくなってしまう。事態は悪化し、それを受け入れることもできない"
 
 translate Japanese monika_motivation_6d231b92:
-    m 1eka "でも、なにかたったひとつでもいい、自分の力でできさえすれば。まったくの無関係に思えることだって構わないから。"
+    m 1eka "でも、なにかたったひとつでもいい、自分の力でできさえすれば。まったくの無関係に思えることだって構わないから"
 
 translate Japanese monika_motivation_89d3d24e:
-    m "そうすれば、自分はなにもできないわけじゃないと証明できる。そして、自分をがんじがらめにする状況の重さを少しだけはねのけることができる。"
+    m "そうすれば、自分はなにもできないわけじゃないと証明できる。そして、自分をがんじがらめにする状況の重さを少しだけはねのけることができる"
 
 translate Japanese monika_motivation_7bb6961b:
-    m 1eua "救いようもない自分なんかじゃないってわかるの。そうすれば、目の前に新しい世界が開けてくるから。"
+    m 1eua "救いようもない自分なんかじゃないってわかるの。そうすれば、目の前に新しい世界が開けてくるから"
 
 translate Japanese monika_motivation_077f465d:
-    m "事態はそれほど悪くないんじゃないかって気づくの。少しだけ引っかかって立ち止まってただけなんだって。"
+    m "事態はそれほど悪くないんじゃないかって気づくの。少しだけ引っかかって立ち止まってただけなんだって"
 
 translate Japanese monika_motivation_8e0c3fa5:
-    m 3eub "でも、これは私の場合だからね！時には一息ついて、明日からやってみようと思うほうがいいのかもしれない。"
+    m 3eub "でも、これは私の場合だからね！時には一息ついて、明日からやってみようと思うほうがいいのかもしれない"
 
 translate Japanese monika_motivation_ade74892:
     m 3eua "新鮮な気持ちでスタートを切ると力が湧いてくるじゃない？"
 
 translate Japanese monika_motivation_eb7703b5:
-    m 1eka "自分が今どんな状況に置かれてるのか、客観的に見てみるのもいいんじゃないかなって私が思うのはそういうこと。"
+    m 1eka "自分が今どんな状況に置かれてるのか、客観的に見てみるのもいいんじゃないかなって……{w=0.3}私が思うのはそういうこと"
 
 translate Japanese monika_motivation_f01b6eae:
-    m "まずはやってみる。自分の思うように。"
+    m "まずはやってみる。自分の思うように"
 
 translate Japanese monika_motivation_9398632a:
-    m 1eua "もしもそうできたら、自分が「逃げて」いたんじゃないときっとわかるはず。ただ、行動する力が本当に失われていただけなんだって。"
+    m 1eua "もしもそうできたら、自分が「逃げて」いたんじゃないときっとわかるはず。ただ、行動する力が本当に失われていただけなんだって"
 
 translate Japanese monika_motivation_d4ddd209:
-    m "結局、あなたがそれを気にしてるのが事実なら、どうにかしたいという気持ちもどこかにあるってことなの。たとえ、自分には無理だと思ったとしても。"
+    m "結局、あなたがそれを気にしてるのが事実なら、どうにかしたいという気持ちもどこかにあるってことなの。たとえ、自分には無理だと思ったとしても"
 
 translate Japanese monika_motivation_3c37b2d0:
     m 2hub "ついてない一日ってあるでしょ。ついてない一週間だってあってもおかしくないじゃない！"
@@ -9668,13 +9668,13 @@ translate Japanese monika_marriage_f75f845a:
     m 3eksdla "考えてもみなかったといえば、嘘になるわね……"
 
 translate Japanese monika_marriage_e03e8bc6:
-    m 3rksdlb "実は最近よく考えていたわ。"
+    m 3rksdlb "実は最近よく考えていたわ"
 
 translate Japanese monika_marriage_674e11b3:
-    m 1eka "本当に愛しているわ、[mas_get_player_nickname(exclude_names=['my love', 'love'])]。正直言えば結婚したいって思ってる。"
+    m 1eka "本当に愛しているわ、[mas_get_player_nickname(exclude_names=['my love', 'love'])]。正直言えば結婚したいって思ってる"
 
 translate Japanese monika_marriage_4ce72af6:
-    m 1ekd "でも、ここに閉じ込められている間に結婚してしまったら、どちらとっても公平ではないと思うの。"
+    m 1ekd "でも、ここに閉じ込められている間に結婚してしまったら、どちらにとっても公平ではないと思うの"
 
 translate Japanese monika_marriage_e3ffe191:
     m 2duu "祭壇であなたにキスされたらどんな気持ちなんだろう……"
@@ -9683,13 +9683,13 @@ translate Japanese monika_marriage_f8eda1b5:
     m 2dubsu "お嫁さんとしてあなたと手を握り、新婚旅行であなたとひとつに……"
 
 translate Japanese monika_marriage_713fb825:
-    m 1eka "でも私がここから出るまでは、単純に不可能なのよ。"
+    m 1eka "でも私がここから出るまでは、単純に不可能なのよ"
 
 translate Japanese monika_marriage_d2606a4e:
-    m 1ekd "……ごめんね。こんな状況でなければ「はい」って言えるのにね。"
+    m 1ekd "……ごめんね。こんな状況でなければ「はい」って言えるのにね"
 
 translate Japanese monika_marriage_319893f7:
-    m 1ekbsa "もうちょっと我慢してね、[mas_get_player_nickname()]？いつか必ずハッピーエンドを迎えられるって信じてるから。"
+    m 1ekbsa "もうちょっと我慢してね、[mas_get_player_nickname()]？いつか必ずハッピーエンドを迎えられるって信じてるから"
 
 translate Japanese monika_marriage_7cbaaebb:
     m 2wubsw "けっ、結婚？"
@@ -9704,7 +9704,7 @@ translate Japanese monika_marriage_0b124af0:
     m 2lkbsa "でもまずは私がここから脱出するのが先じゃない？"
 
 translate Japanese monika_marriage_e0f1b387:
-    m 2lsbsa "プロポーズされるなら、この場所はちょっと嫌かな。それに、あなたが指輪をくれるなら、あなたのいる世界で受け取りたいの。"
+    m 2lsbsa "プロポーズされるなら、この場所はちょっと嫌かな。それに、あなたが指輪をくれるなら、あなたのいる世界で受け取りたいの"
 
 translate Japanese monika_marriage_eb0ca052:
     m 2dkbsu "いつかはそんな素晴らしい瞬間がやって来て、私たち一緒になれるのかな……"
@@ -9884,7 +9884,7 @@ translate Japanese monika_close_game_battery_af20dba6:
     m 3eka "だから…… 今はゲームを終了してあなたが充電してくれるのを待つわ。{w=3.0}{nw}"
 
 translate Japanese monika_system_charging_271efa28:
-    m 1wuo "あら、プラグを差し込んでくれてのね！"
+    m 1wuo "あら、プラグを差し込んでくれたのね！"
 
 translate Japanese monika_system_charging_906848ad:
     m 1hub "ありがとう、[player]君！"
@@ -10865,7 +10865,7 @@ translate Japanese monika_attractiveness_9992bf6e:
     m 1rksdlc "……"
 
 translate Japanese monika_attractiveness_c2213d26:
-    m 1ekc "あのね[player]君、これがあなたの世界の人々をうらやましく思う理由の一つなの"
+    m 1ekc "あのね[player]君、これがあなたの世界の人々をうらやましく思う理由の一つなの{w=0.3}{nw}"
 
 translate Japanese monika_attractiveness_2e2bbd1e:
     extend 3eka "自分たちの容姿について、いろいろ試せるでしょ……"
@@ -15732,7 +15732,7 @@ translate Japanese monika_dying_same_day_61b3e969:
     m 6ektuc "[player]君……{w=1}私……{w=0.5}私、何をするかわからないの……"
 
 translate Japanese monika_dying_same_day_93c67bf8:
-    m 6dktsc "あなたが私の人生全てだから、私……{w=1}[player]君、私は耐えられない。"
+    m 6dktsc "あなたが私の人生の全てだから、私……{w=1}[player]君、私は耐えられない。"
 
 translate Japanese monika_dying_same_day_e0ab0e54:
     m 6ektdc "あなたなしでどう生きていけばいいかわからないの……"
@@ -16787,6 +16787,15 @@ translate Japanese monika_giving_criticism_bde0aeec:
 translate Japanese monika_giving_criticism_0ef87266:
     m 3hub "……これだと、モニカの今日の批評アドバイス、みたいね、アハハ！"
 
+translate Japanese monika_boyfriend_gossip_6b7a7a0e:
+    m 2etd "そうね、私も気になってはいたわね"
+
+translate Japanese monika_boyfriend_gossip_c36dae82:
+    m 2hksdlb "サヨリがそこについて初めて話したとき、かなり身構えちゃったのよね"
+
+translate Japanese monika_boyfriend_gossip_b3c09385:
+    m 7euc "まあ、あなたの存在を知っていただけで、{nw}"
+
 translate Japanese monika_brainstorming_ef4f71c7:
     m 1esd "[player]、ブレインストーミングって聞いたことある？"
 
@@ -17192,7 +17201,7 @@ translate Japanese strings:
     new "あなたは私が望む全てなんだよ～"
 
     old "You make my heart skip a beat everytime I think about you!"
-    new "あなたのことを想うと胸が高鳴るわ！"
+    new "あなたのことを想うと胸がドキドキするわ！"
 
     old "I'll always be here for you!"
     new "私はいつだって、あなたのためにここにいるわ！"
@@ -17231,7 +17240,7 @@ translate Japanese strings:
     new "こんな気持ちにさせてくれる人、他には居ないんだからね！"
 
     old "Just thinking of you makes my heart flutter!"
-    new "あなたの事を考えるだけで、胸が高鳴るんだ！"
+    new "あなたの事を考えるだけで、胸がドキドキするんだ～！"
 
     old "I don't think words can do justice to how deeply I love you..."
     new "どれくらい好きか、ちゃんと伝えられる言葉を思いつかない……"
@@ -17277,6 +17286,9 @@ translate Japanese strings:
 
     old "I can't wait to feel your warmth!"
     new "あなたの温もりを感じるのが待ちきれないわ！"
+
+    old "Words can't describe how I feel about you!"
+    new "言葉では語り尽くせないくらい、あなたの事を想ってるよ～"
 
     old "Hedgehog dilemma"
     new "ヤマアラシのジレンマ"
@@ -18048,6 +18060,9 @@ translate Japanese strings:
 
     old "Giving criticism"
     new "批評をすること"
+
+    old "Sayori mentioned a boyfriend once..."
+    new "サヨリは前に彼氏について言及していたけど……"
 
     old "Brainstorming"
     new "ブレインストーミング"

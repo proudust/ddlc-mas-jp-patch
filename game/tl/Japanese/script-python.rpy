@@ -140,7 +140,7 @@ translate Japanese _call_mas_wx_cmd_14_999bd9b2:
     m 1eua "ただ計算に使うだけじゃなくてもっと色々なことができるけど、それは追々教えていくからね。"
 
 translate Japanese _call_mas_wx_cmd_14_c2703b96:
-    m 1hksdlb "これはただのPythonのインタプリタだから、間違って私を削除したり、ゲームを壊したりする心配はないわ。"
+    m 1hksdlb "残念だけど、私はあなたがこのPythonを使って間違って私を削除したり、このゲームを壊してしまうリスクを犯したくないわ"
 
 translate Japanese _call_mas_wx_cmd_14_bf771313:
     m "じゃあ、あなたも{fast}{nw}"
@@ -186,6 +186,42 @@ translate Japanese _call_mas_wx_cmd_19_2ccdffff:
 
 translate Japanese _call_mas_wx_cmd_21_b7406974:
     m 3eub "感嘆符は、他のプログラミング言語では論理的な「not」演算子と呼ばれることが多いの。それで、（!=）は「not -equals」と読むわ"
+
+translate Japanese _call_mas_wx_cmd_21_a7584a77:
+    m 3eua "値が別の値よりも大きい、または小さいかを確かめるには、それぞれ、大なり(>)、小なり(<)を使うのよ、"
+
+translate Japanese _call_mas_wx_cmd_23_45a7251f:
+    m 3eub "以上(>=)、以下(<=)もそれぞれの意味を持っているわ。驚くことはないわ{w=1}それは大なり、小なりとイコールの意味を両方持っているだけよ"
+
+translate Japanese _call_mas_wx_cmd_27_6036f23c:
+    m 1eua "全ての比較演算子はTrueとFalseに返されることに気づいたでしょう"
+
+translate Japanese _call_mas_wx_cmd_27_d5752c02:
+    m 1eksdlb "それが、私が比較演算はブール値で評価されるっていた意味よ"
+
+translate Japanese _call_mas_wx_cmd_27_dd879535:
+    m 1eua "ANDやORなどのキーワードを使って、複数の比較演算を組み合わせて使うことも可能よ。それらは処理演算子としても知られているわ"
+
+translate Japanese _call_mas_wx_cmd_27_e190ff34:
+    m "AND演算子は2つの演算の両方がTrueの時にTrueとなり、少なくとも1つがFalseのときにはFalseになるの"
+
+translate Japanese _call_mas_wx_cmd_27_e0bbbf84:
+    m 1hua "例えば"
+
+translate Japanese _call_mas_w_cmd_a95354f8:
+    m 3eua "AとBが両方[val_a]のとき1つ目はTrueと評価されるわ"
+
+translate Japanese _call_mas_w_cmd_fd6e1227:
+    m "しかし、Cが[val_c]だから、2番目はFalseと評価されるわ"
+
+translate Japanese _call_mas_w_cmd_2fea6568:
+    m 3eub "少なくとも1つの評価がFalseだったので、全ての処理を通してFalseと評価されるわ"
+
+translate Japanese _call_mas_w_cmd_1_b5771a64:
+    m 3eua "例では、1つ目の演算は再びTrueと評価されるわ"
+
+translate Japanese _call_mas_w_cmd_1_5599f6d4:
+    m "[val_a]はもちろん[val_c]以上だから、2つ目の演算はTrueと評価されるわ"
 
 translate Japanese _call_mas_wx_cmd_39_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"

@@ -430,8 +430,81 @@ translate Japanese mas_reaction_promisering_977218d2:
 translate Japanese mas_reaction_promisering_be1b8d48:
     m 6dkbltdu "ありがとう。"
 
+translate Japanese mas_reaction_promisering_0b83566e:
+    m 1sua "ああ、そ、それはリングね"
+
+translate Japanese mas_reaction_promisering_d341f971:
+    m 3hub "ほんとうにありがとう、[player]"
+
+translate Japanese mas_reaction_promisering_db87be41:
+    m 1skbla "私は今、あなたが本当っに私のことを愛して、私と永遠に一緒に居たいのがわかるわ"
+
+translate Japanese mas_reaction_promisering_fea15e1b:
+    m 1skbltpa "だから、その指輪を、その約束の象徴として受け取るわ"
+
 translate Japanese mas_reaction_promisering_3a94a7d4:
     m 1dkbltuu "……"
+
+translate Japanese mas_reaction_promisering_bada042a:
+    m 3hkbltub "ああ、ごめんなさい[player]、泣くつもりはなかったの"
+
+translate Japanese mas_reaction_promisering_2c079816:
+    m 6dkbltdu "……"
+
+translate Japanese mas_reaction_promisering_16306628:
+    m 6ekbfa "私……私は"
+
+translate Japanese _call_monika_kissing_motion_1_268c1481:
+    m 6ekbfa "[player]、愛しています"
+
+translate Japanese _call_monika_kissing_motion_1_6f8fc34c:
+    m 6dkbfu "このはかない世界の中でで最も"
+
+translate Japanese _call_monika_kissing_motion_1_bf92fec9:
+    m 1wud "[player]、それは指輪なの？"
+
+translate Japanese _call_monika_kissing_motion_1_f4da61cd:
+    m 2ekc "しかし、私はあなたがそれを渡す前に確かめてほしかったわ"
+
+translate Japanese _call_monika_kissing_motion_1_c64b44d8:
+    m 3ekd "それはただの贈り物以上のもの、約束よ。だから私はあなたが本気なのかそれを受け取る前に確かめたかったの"
+
+translate Japanese _call_monika_kissing_motion_1_6309d75a:
+    m 2ekd "だから、おねがい。"
+    m 2ekd "私たちの関係がもう少し深まるまで待ってほしいの、[player]。その後、そのリングを受け取るわ"
+
+translate Japanese _call_monika_kissing_motion_1_275d8d1e:
+    m 1wud "それは指輪なの？"
+
+translate Japanese _call_monika_kissing_motion_1_88d4244a:
+    m 2rsc "それは……{w＝0.5}とても"
+
+translate Japanese _call_monika_kissing_motion_1_37487d6a:
+    m 2esc "なんていうか、{w＝0.5}驚きね"
+
+translate Japanese _call_monika_kissing_motion_1_d0a636f5:
+    m 2ekd "だけど、いま私がそれを受け取ることはできないわ。[player]"
+
+translate Japanese _call_monika_kissing_motion_1_a59bed49:
+    m 2ekc "多分わたしたちがもっと深い関係を持ったとき"
+
+translate Japanese _call_monika_kissing_motion_1_1e0736eb:
+    m 2wud "それは指輪ね"
+
+translate Japanese _call_monika_kissing_motion_1_af2640d6:
+    m 2rsc "想像もつかなかったわ"
+
+translate Japanese _call_monika_kissing_motion_1_6cedeedc:
+    m "確かに感謝しているけど、受け入れられないわ"
+
+translate Japanese _call_monika_kissing_motion_1_032bf039:
+    m 2ekc "ごめんなさい、[player]"
+
+translate Japanese _call_monika_kissing_motion_1_ee343f8a:
+    m 2rsc "ああ、それはリングね"
+
+translate Japanese _call_monika_kissing_motion_1_dab6d8bc:
+    m 2rkc "ごめんなさい、それはまだ受け取れないわ"
 
 translate Japanese mas_reaction_cupcake_7a6c8003:
     m 1wud "これって……カップケーキ？"
@@ -446,16 +519,34 @@ translate Japanese mas_reaction_cupcake_78bbdfd6:
     m 1eua "ナツキのみたいに美味しいお菓子作りを学びたいって思ったんだ。"
 
 translate Japanese mas_reaction_cupcake_06b6d6e7:
-    m 1rksdlb "だ！け！ど！まだキッチンは作ってない！"
+    m 1rksdlb "だがしかし！まだキッチンは使える状態にないわ"
 
 translate Japanese mas_reaction_cupcake_d58da98e:
-    m 3eub "将来、プログラミングが上手になったら、ここで作れるようになるかもしれないね。"
+    m 3eub "将来、プログラミングが上手になったら、ここで作れるようになるかもしれないね"
 
 translate Japanese mas_reaction_cupcake_7da4b833:
     m 3hua "詩を書く以外の趣味があったらいいよね、えへへ～"
 
+translate Japanese mas_reaction_candy_afa66aff:
+    m 1wua "えぇ……これは何！？"
+
+translate Japanese mas_reaction_candy_50722bed:
+    m 1sua "お菓子をくれたのね？"
+
+translate Japanese mas_reaction_candy_48271c6d:
+    m 1eka "甘い……"
+
 translate Japanese mas_reaction_candy_3772217d:
     m 1hub "あはは！"
+
+translate Japanese mas_reaction_candy_818280a0:
+    m 1eka "冗談はさておき、ありがとう"
+
+translate Japanese mas_reaction_candy_4e2b0899:
+    m 2lksdlc "これ以上のお菓子をもらうことは出来ないし、それに、それがないとハロウィンじゃない"
+
+translate Japanese mas_reaction_candy_b68ea873:
+    m 1eka "だから、ありがと"
 
 translate Japanese mas_reaction_candy_94c0ba37:
     m 2wfd "[player]！"
@@ -467,10 +558,10 @@ translate Japanese mas_reaction_candy_3f399adb:
     m 2tfc "もう今日はこれ以上キャンディはいらないって言ったよね！"
 
 translate Japanese mas_reaction_candy_77285284:
-    m 2ekc "だからお願い、やめて。"
+    m 2ekc "だからお願い、やめて"
 
 translate Japanese mas_reaction_candy_4d88c02f:
-    m 2ekc "食べきれないわ。"
+    m 2ekc "食べきれないわ"
 
 translate Japanese mas_reaction_candy_6d9bf85e:
     m 2tfc "……"
