@@ -422,7 +422,7 @@ translate Japanese mas_chess_dlg_game_monika_win_rekt_1c6cf732:
     m 1tku "たぶん、あなたはチェッカーだけやってた方がいいんじゃないかなって。"
 
 translate Japanese mas_chess_dlg_game_monika_win_rekt_05c8cc4a:
-    m 1tfu "私を負かすなんて絶対に無理だと思うから。"
+    m 1tfu "私を負かすなんて絶対に無理だと思うから"
 
 translate Japanese mas_chess_dlg_game_monika_win_2_c3dc3c16:
     m 1hub "本当に楽しいね、[player]君！"

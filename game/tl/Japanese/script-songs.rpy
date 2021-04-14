@@ -242,6 +242,10 @@ translate Japanese strings:
     old "[which] song would you like me to sing?[end]"
     new "どれが聞きたい？[end]"
 
+    old "All I Want for Christmas"
+    new "クリスマスにただほしいものは"
+
+
     old "I'm Glad You're Evil Too"
     new "きみも悪い人でよかった"
 
