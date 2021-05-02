@@ -1,6 +1,3 @@
-translate Japanese game_hangman_a94675bd:
-    m 2eub "[store.mas_hangman.game_name!t]で遊びたいの？おっけ～！"
-
 translate Japanese mas_hangman_game_select_diff_0176af25:
     m "難易度を選んでね。{nw}"
 

@@ -571,13 +571,13 @@ translate Japanese mas_compliment_humor_2_fbab5cba:
 translate Japanese mas_compliment_spending_time_2_8ad12b56:
     m 2huu "えへへ～"
 
-translate Japanese mas_compliment_outfit_2_a23656bf:
+translate Japanese mas_compliment_outfit_a23656bf:
     m 2subsd "[player]……"
 
-translate Japanese mas_compliment_outfit_2_e1047413:
+translate Japanese mas_compliment_outfit_e1047413:
     m 1hubsb "あはは～"
 
-translate Japanese mas_compliment_outfit_3_3ba2bf78:
+translate Japanese mas_compliment_outfit_repeat_3ba2bf78:
     m 5hublb "あはは！"
 
 translate Japanese strings:

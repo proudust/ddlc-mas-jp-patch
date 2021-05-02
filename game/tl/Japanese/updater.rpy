@@ -37,13 +37,13 @@ translate Japanese mas_updater_rpy_issue_57eeea07:
 translate Japanese mas_updater_rpy_issue_74680220:
     m 1hua "わかったわ！"
 
-translate Japanese _call_mas_rpy_file_delete_2_83881c61:
+translate Japanese _call_mas_rpy_file_delete_83881c61:
     m 3hub "いくわよ！"
 
-translate Japanese _call_mas_rpy_file_delete_2_1d48ad5f:
+translate Japanese _call_mas_rpy_file_delete_1d48ad5f:
     m 2dsc "続けてアップデータを起動するわね…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_mas_rpy_file_delete_2_d0bf961e:
+translate Japanese _call_mas_rpy_file_delete_d0bf961e:
     m 3eka "わかったわ[player]。アップデータを使いたくなったら削除してね"
 
 translate Japanese strings:

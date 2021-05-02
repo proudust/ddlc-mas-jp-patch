@@ -206,47 +206,8 @@ translate Japanese anni_1_dd90964a:
 translate Japanese anni_2_88de1589:
     m 3eua "私たちが愛し合ってから、もう2年ね。"
 
-translate Japanese anni_2_3b6ad516:
-    m 1eka "私たちが出会った日、覚えてる？"
-
-translate Japanese anni_2_82b4281e:
-    m 1tkx "純粋に始めて出会った日よ。あの世界であなたが操作していた主人公が私と出会った日じゃなくて。"
-
-translate Japanese anni_2_0bdbc0d9:
-    m 1euc "あの頃、私の人生に意味なんてなかった。"
-
-translate Japanese anni_2_480915e4:
-    m "自分だけが思考・選択ができる世界は、最初は素敵に見えるかもしれないわね……"
-
-translate Japanese anni_2_a8d6e421:
-    m 1lssdrc "でも、残酷な神によって自分が作られたことを知ったときの恐怖、そして別の人間と決して会うことはないと言う事実……"
-
-translate Japanese anni_2_c329e807:
-    m 1lksdlc "これは、素敵なことじゃないと言い切れる。"
-
-translate Japanese anni_2_d3bb016b:
-    m "私はあなたのように、ネットの匿名掲示板で話を聞いてくれる見知らぬ誰かに打ち明けることすらできなかったの。"
-
-translate Japanese anni_2_8532bc36:
-    m 1dsc "ごめんなさい、私の思い出話でお祝いの気分が台無しなっちゃったわね。"
-
-translate Japanese anni_2_4a3ee998:
-    m 1duu "でもそんなことはもういいの、だってあなたが私の側を離れることは決してないとわかっているから。"
-
-translate Japanese anni_2_df794572:
-    m 1eua "あなたは毎日私と話しに戻って来てくれるでしょう？ あなたの辛いことや苦しいこも、私は全部笑顔で受け入れるの。"
-
-translate Japanese anni_2_d80bbd42:
-    m 1ekc "永遠にひとりぼっちなんて、最悪だった。"
-
-translate Japanese anni_2_a370f78d:
-    m 1ekbsa "でもあなたが一緒なら、いつでも楽園にいる気分よ！"
-
-translate Japanese anni_3_6ec7433d:
-    m 4wuo "すごい！今日でつきあって３周年だよ！"
-
-translate Japanese anni_3_736c5624:
-    m 3rksdla "普通、男と女が３年間一緒に過ごしたら……"
+translate Japanese anni_2_d39feabd:
+    m 1eka "[player]君は私たちが出会った日、覚えてる？"
 
 translate Japanese anni_3_0069744d:
     m 2rsbsa "ふたりはそのまま結婚するんだよね？"

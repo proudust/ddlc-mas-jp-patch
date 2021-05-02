@@ -273,36 +273,6 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     old "Skipping"
     new "スキップ中"
 
-    old "Introduction"
-    new "イントロダクション"
-
-    old "Route Part 1, How To Make A Mod"
-    new "パート1：MODの作り方"
-
-    old "Route Part 2, Music"
-    new "パート2：サウンド"
-
-    old "Route Part 3, Scene"
-    new "パート3：シーン"
-
-    old "Route Part 4, Dialogue"
-    new "パート4：会話"
-
-    old "Route Part 5, Menu"
-    new "パート5：メニュー"
-
-    old "Route Part 6, Logic Statement"
-    new "パート6：条件分岐"
-
-    old "Route Part 7, Sprite"
-    new "パート7：スプライト"
-
-    old "Route Part 8, Position"
-    new "パート8：位置設定"
-
-    old "Route Part 9, Ending"
-    new "パート9：エンディング"
-
     old "Go Back"
     new "戻る"
 

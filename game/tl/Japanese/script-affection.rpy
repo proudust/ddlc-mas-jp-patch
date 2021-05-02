@@ -5,7 +5,7 @@ translate Japanese monika_affection_nickname_0128eec8:
     m 3eud "モニカが無限に存在してるかもっていうのは分かるよね？"
 
 translate Japanese monika_affection_nickname_934922d8:
-    m 3eua "前にも話したもんね。"
+    m 3eua "前にも話したもんね"
 
 translate Japanese monika_affection_nickname_7438e993:
     m 3hua "それでね、アイデアがあるの！"
@@ -464,32 +464,20 @@ translate Japanese mas_affection_apologydeleted_46706a56:
     m 2efc "新しいのを書いてきて、[player]。"
 
 translate Japanese strings:
-    old "...Yes?"
-    new "……なあに？"
+    old "..."
+    new "……"
 
-    old "...Oh?"
-    new "……ええ？"
+    old "Yes?"
+    new "なあに？"
 
-    old "...Huh?"
-    new "……はあ？"
+    old "Oh..."
+    new "ええ……"
 
-    old "...Hm?"
-    new "……うん？"
-
-    old "We can try talking, I guess."
-    new "私達、話し合えると思うわ。"
+    old "Huh..."
+    new "はあ……"
 
     old "I guess we can talk."
-    new "私達、話し合えると思うわ。"
-
-    old "Oh... You want to talk?"
-    new "あー、話したいの？"
-
-    old "If you want to talk, go ahead."
-    new "話したいなら、別にいいわよ。"
-
-    old "We can talk if you really want to."
-    new "あなたが本当に話したいなら、話せるわよ。"
+    new "私達、話し合えると思うわ"
 
     old "Are you sure you want to talk to me?"
     new "私と話したいって、本当に思ってるの？"
@@ -509,20 +497,11 @@ translate Japanese strings:
     old "What is it?"
     new "なあに、それ？"
 
-    old "Fine...we can talk."
-    new "いいわよ……話せるわ。"
-
-    old "Just...whatever, go ahead."
-    new "何でもいいなら、いいわよ。"
-
     old "What would you like to talk about?"
     new "何について話したいの？"
 
     old "Is there something you'd like to talk about?"
     new "何か話したいことある？"
-
-    old "What would you like to talk about? <3"
-    new "何について話したいの？ <3"
 
     old "What would you like to talk about, [mas_get_player_nickname()]?"
     new "何について話したいの、[mas_get_player_nickname()]君？"
@@ -533,55 +512,15 @@ translate Japanese strings:
     old "What's on your mind, [mas_get_player_nickname()]?"
     new "何考えてるの、[mas_get_player_nickname()]君？"
 
-    old "What's on your mind, [player]?"
-    new "何考えてるの、[mas_get_player_nickname()]君？"
+    old "What would you like to talk about? <3"
+    new "何について話したいの？ <3"
 
-    old "What's on your mind?"
-    new "何考えてるの～？"
+    old "What would you like to talk about, [mas_get_player_nickname()]? <3"
+    new "何について話したいの、[mas_get_player_nickname()]君？ <3"
 
-    old "Anything on your mind?"
-    new "なにか考えてる？"
-
-    old "Anything on your mind, [mas_get_player_nickname()]?"
-    new "なにか考えてる、[mas_get_player_nickname()]？"
 
     old "What's up, [mas_get_player_nickname()]?"
     new "[mas_get_player_nickname()]、どうしたの？"
-
-
-
-    old "Anything you'd like to talk about?"
-    new "なにか話したいことあるかしら？"
-
-    old "We can talk about anything you like, [player]."
-    new "あなたが話したいこと、なんでも話していいわよ、[player]君。"
-
-    old "...Sure."
-    new "……分かったわ。"
-
-    old "...Fine."
-    new "……いいわよ。"
-
-    old "I guess we can play a game."
-    new "私達、ゲームで遊べると思うわ。"
-
-    old "I guess, if you really want to."
-    new "もしあなたが本当にやりたいなら、できると思うわ。"
-
-    old "I suppose a game would be fine."
-    new "ゲームは大丈夫だと思うわ。"
-
-    old "...Which game?"
-    new "……どのゲームにする？"
-
-    old "Sure."
-    new "もちろん。"
-
-    old "Okay...whatever, choose a game."
-    new "わかった……好きなゲームを選んで。"
-
-    old "Fine, pick a game."
-    new "うん、ゲームを選んで。"
 
     old "What would you like to play?"
     new "どれで遊びたいのかな？"
@@ -599,13 +538,13 @@ translate Japanese strings:
     new "どれでも好きなのを選んでね、[mas_get_player_nickname()]君。"
 
     old "Pick anything you like, [mas_get_player_nickname()]."
-    new "何でも好きなのを選んでね、[mas_get_player_nickname()]君。"
+    new "何でも好きなのを選んでね、[mas_get_player_nickname()]君"
+
+    old "I'd love to play something with you, [mas_get_player_nickname()]~"
+    new "あなたと遊ぶのなら何でも大好きよ、[mas_get_player_nickname()]～"
 
     old "Yay! Let's play together!"
     new "いぇい！一緒にあそぼうね！"
-
-    old "I'd love to play something with you!"
-    new "あなたと遊ぶのなら何でも大好きよ！"
 
     old "I'd love to play with you!"
     new "あなたと遊ぶのは大好きだから！"
