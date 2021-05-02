@@ -29,6 +29,9 @@ translate Japanese strings:
     old "Goodbye"
     new "さようなら\n(ゲーム終了)"
 
+    old "Nevermind"
+    new "なんでもない"
+
     old "Advice..."
     new "モニカの\nアドバイス"
 

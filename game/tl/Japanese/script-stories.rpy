@@ -4,6 +4,18 @@ translate Japanese mas_story_begin_b26f2657:
 translate Japanese mas_story_begin_457306b2:
     m 1duu "コホン。"
 
+translate Japanese _call_spaceroom_13_b26f2657:
+    m 3eua "[story_begin_quip!t]"
+
+translate Japanese _call_spaceroom_13_457306b2:
+    m 1duu "コホン。"
+
+translate Japanese mas_scary_story_cleanup_8cb2c0e4:
+    m 3eua "[story_end_quip!t]"
+
+translate Japanese _call_monika_zoom_transition_6_77c5f182:
+    m 1eua "気に入ってくれたらいいな、[player]君～"
+
 translate Japanese _call_mas_story_begin_5b1ea14b:
     m 1eua "一匹の猫が一匹の雄鶏に出会い、猫はなんとか理由をつけて雄鶏を食ってやろうと考えました。"
 
@@ -958,18 +970,6 @@ translate Japanese _call_mas_story_begin_17_be3c9ada:
 
 translate Japanese _call_mas_story_begin_17_22b3501a:
     m 1hua "[player]君、楽しんでくれた？ そうだったら嬉しいな！"
-
-translate Japanese _call_spaceroom_b26f2657:
-    m 3eua "[story_begin_quip!t]"
-
-translate Japanese _call_spaceroom_457306b2:
-    m 1duu "コホン。"
-
-translate Japanese mas_scary_story_cleanup_8cb2c0e4:
-    m 3eua "[story_end_quip!t]"
-
-translate Japanese _call_monika_zoom_transition_77c5f182:
-    m 1eua "気に入ってくれたらいいな、[player]君～"
 
 translate Japanese _call_mas_scary_story_setup_bd5cd01d:
     m 3esa "ある日、一人の狩人が森へハンティングにでかけました。"
@@ -2072,6 +2072,27 @@ translate Japanese strings:
     old "Are you ready?"
     new "準備はいい？ いくわよ？"
 
+    old "Alright let's start the story."
+    new "それじゃあ始めましょうか。"
+
+    old "Let's begin."
+    new "さあ始めましょうか。"
+
+    old "Scared, [player]?"
+    new "怖かった？ [player]君？"
+
+    old "Did I scare you, [player]?"
+    new "怖くなってくれたかな、[player]君？"
+
+    old "How was it?"
+    new "どうだった？"
+
+    old "Well?"
+    new "どうだったかな？"
+
+    old "So...{w=0.5}did I scare you?"
+    new "話はおしまい……{w=0.5}怖くなってくれたかな？"
+
     old "The Cat and the Cock"
     new "猫と雄鶏"
 
@@ -2128,27 +2149,6 @@ translate Japanese strings:
 
     old "Having A Best Friend"
     new "親友"
-
-    old "Alright let's start the story."
-    new "それじゃあ始めましょうか。"
-
-    old "Let's begin."
-    new "さあ始めましょうか。"
-
-    old "Scared, [player]?"
-    new "怖かった？ [player]君？"
-
-    old "Did I scare you, [player]?"
-    new "怖くなってくれたかな、[player]君？"
-
-    old "How was it?"
-    new "どうだった？"
-
-    old "Well?"
-    new "どうだったかな？"
-
-    old "So...{w=0.5}did I scare you?"
-    new "話はおしまい……{w=0.5}怖くなってくれたかな？"
 
     old "The Hunter"
     new "とある狩人の話"

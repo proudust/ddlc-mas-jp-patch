@@ -4,17 +4,17 @@ translate Japanese monika_showpoem_ccc4d9a5:
 translate Japanese monika_showpoem_aec3fbc2:
     m 3hua "いいわよ！"
 
-translate Japanese _call_mas_showpoem_3_3aa9bd6c:
+translate Japanese _call_mas_showpoem_10_3aa9bd6c:
     m 3eka "[player]、気に入ってくれた？"
 
-translate Japanese _call_mas_showpoem_3_851a6cd5:
+translate Japanese _call_mas_showpoem_10_851a6cd5:
     m 1eka "他の詩も読んでみない？{nw}"
 
-translate Japanese _call_mas_showpoem_3_27e2b183:
+translate Japanese _call_mas_showpoem_10_27e2b183:
     m "他の詩も読んでみない？{fast}" nointeract
 
-translate Japanese _call_mas_showpoem_3_bd219ce5:
-    m 1eua "OK、[player]。"
+translate Japanese _call_mas_showpoem_10_bd219ce5:
+    m 1eua "OK、[player]"
 
 translate Japanese strings:
     old "Can I read one of your poems again?"

@@ -102,22 +102,3 @@ translate Japanese _call_hideconsole_2_50784aa4:
 
 translate Japanese _call_hideconsole_2_1676f8f5:
     m "「ひとりは寂しいと思わなきゃ寂しくなんかない」だよ、元気出していこ！"
-
-translate Japanese strings:
-    old "Pong"
-    new "ポン"
-
-    old "Chess"
-    new "チェス"
-
-    old "[_hangman_text]."
-    new "[_hangman_text!t]"
-
-    old "Word Guesser"
-    new "ワード・ゲッサー"
-
-    old "Hangman"
-    new "ハングマン"
-
-    old "Piano"
-    new "ピアノ"

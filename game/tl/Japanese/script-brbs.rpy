@@ -1,8 +1,8 @@
 translate Japanese monika_brb_idle_bd219ce5:
     m 1eua "その通りよ、[player]｡"
 
-translate Japanese monika_brb_idle_50022090:
-    m 1hub "早く帰ってきてね～ ここで待ってるからね～。"
+translate Japanese monika_brb_idle_40a8676f:
+    extend 3hub "早く帰ってきてね～ ここで待ってるからね～。"
 
 translate Japanese monika_brb_idle_fec6ff17:
     m 1hub "[player]、早く戻ってきて！"
@@ -24,12 +24,6 @@ translate Japanese monika_brb_idle_callback_5d7533bb:
 
 translate Japanese monika_brb_idle_callback_1a37a067_1:
     m 1eua "[wb_quip!t]"
-
-translate Japanese monika_brb_idle_callback_42c9f42f:
-    m 2esc "えっ、もう戻ったの？"
-
-translate Japanese monika_brb_idle_callback_0bd97190:
-    m 6ckc "……"
 
 translate Japanese monika_writing_idle_6b394922:
     m 1eub "えっ！[player]､{cps=*2} ラブレターを書いてくれるのね？{/cps}{nw}"
@@ -208,15 +202,6 @@ translate Japanese monika_idle_coding_callback_90270dd1:
 translate Japanese monika_idle_coding_callback_5d17f0c3:
     m 3eub "[wb_quip!t]"
 
-translate Japanese monika_idle_coding_callback_0ff3cf53:
-    m 2esc "お帰りなさい"
-
-translate Japanese monika_idle_coding_callback_53ba2fed:
-    m 6ekc "あ、戻ってきたんだね"
-
-translate Japanese monika_idle_coding_callback_0bd97190:
-    m 6ckc "……"
-
 translate Japanese monika_idle_workout_d5dec9bc:
     m 1hub "わかったわ、[player]！"
 
@@ -301,12 +286,6 @@ translate Japanese monika_idle_workout_callback_544f26d5:
 translate Japanese monika_idle_workout_callback_c7930828:
     m 2euc "運動は終わったの、[player]？"
 
-translate Japanese monika_idle_workout_callback_e81728db:
-    m 6ekc "あぁ、戻ってきたんだね……"
-
-translate Japanese monika_idle_workout_callback_0bd97190:
-    m 6ckc "……"
-
 translate Japanese monika_idle_nap_a3ab15c4:
     m 1eua "お昼寝するのかな、[player]？"
 
@@ -355,8 +334,8 @@ translate Japanese monika_idle_nap_callback_ba232f81:
 translate Japanese monika_idle_nap_callback_15f74257:
     m 3hua "しばらく眠っていたみたいだし、ゆっくり休めたんじゃないかな～？"
 
-translate Japanese monika_idle_nap_callback_7ee2549d:
-    m 1eua "今日は他に、何かやりたいことはあったかな？"
+translate Japanese monika_idle_nap_callback_1a37a067:
+    m 1eua "[wb_quip!t]"
 
 translate Japanese monika_idle_nap_callback_357e6e6e:
     m 1hua "おかえりなさい、[player]～"
@@ -364,8 +343,8 @@ translate Japanese monika_idle_nap_callback_357e6e6e:
 translate Japanese monika_idle_nap_callback_e25de71e:
     m 1eub "ゆっくりお昼寝できたかな？"
 
-translate Japanese monika_idle_nap_callback_bcefeaaa:
-    m 3eua "今日は他に何かしたかったかな？"
+translate Japanese monika_idle_nap_callback_894fd06e:
+    m 3eua "[wb_quip!t]"
 
 translate Japanese monika_idle_nap_callback_9e4ea876:
     m 1eud "あれ、もう戻ってきたの？"
@@ -381,12 +360,6 @@ translate Japanese monika_idle_nap_callback_4dd11fbc:
 
 translate Japanese monika_idle_nap_callback_a5bfb604:
     m 2euc "お昼寝は終わったかな、[player]？"
-
-translate Japanese monika_idle_nap_callback_53ba2fed:
-    m 6ekc "あぁ、帰ってきたんだね……"
-
-translate Japanese monika_idle_nap_callback_0bd97190:
-    m 6ckc "……"
 
 translate Japanese monika_idle_homework_df5a668f:
     m 1eub "うん、わかった！"
@@ -505,8 +478,8 @@ translate Japanese monika_idle_screen_break_0bd97190:
 translate Japanese monika_idle_screen_break_callback_1a37a067:
     m 1eua "[wb_quip!t]"
 
-translate Japanese monika_idle_screen_break_callback_0bd97190:
-    m 6ckc "……"
+translate Japanese monika_idle_reading_f7e95ffd:
+    m 3lksdla "……"
 
 translate Japanese strings:
     old "So, what else did you want to do today?"
