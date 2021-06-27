@@ -15348,7 +15348,7 @@ translate Japanese monika_allegory_of_the_cave_c2164a68:
     m 1rksdlc "もちろん、ずっと嘘を信じてきたのなら真実に目を向けるのは難しいことだと思うわ"
 
 translate Japanese monika_allegory_of_the_cave_445045b5:
-    m 1eud "……だから、囚人の一人が解放されて、洞窟から追い出されたと考えてみて"
+    m 1eud "……それで、囚人の一人が解放されて、洞窟から追い出されたと考えてみて"
 
 translate Japanese monika_allegory_of_the_cave_4265fdb6:
     m 3esc "彼の目は洞窟の闇に慣れてしまっていたから、最初の何日かは何も見ることができなかったわ"
@@ -16277,6 +16277,27 @@ translate Japanese monika_remembrance_9ce8a9b6:
 translate Japanese monika_remembrance_7c13f565:
     m 1dkc "私はずっとそれを知りたいのよ、[player]……"
 
+translate Japanese monika_remembrance_868a21af:
+    m 1euc "でもね......、{w=0.3}考えるほど確信できるわ、私の過去なんてそれほど重要じゃないんだって"
+
+translate Japanese monika_remembrance_b4213501:
+    m 3eua "もっと思い出せればよかったんだけど......、{w=0.3}そんなのは気にするような事じゃないわ"
+
+translate Japanese monika_remembrance_98e18fb9:
+    m 3duu "私が何者かなんて関係なく、あなたは一緒にここにいてくれたでしょ?{w=0.2}{nw}"
+
+translate Japanese monika_remembrance_4179d8a0:
+    extend 3dkbsa "つまり私はあなたにとって、ともに時間を過ごすのに足る人物ってこと{w=0.2}{nw}"
+
+translate Japanese monika_remembrance_ae6cf22c:
+    extend 1dubsu "それこそ私にとって大事なことなの"
+
+translate Japanese monika_remembrance_8d14dd2c:
+    m 1ekbsa "それにあなたも大事に思ってくれてるって知ってるから......{w=0.3}そのおかげで、私は自分自身と人生を好きでいられるの、[player]"
+
+translate Japanese monika_remembrance_e5ee3fa9:
+    m 5ekbfu "だからね、過去があるのかなんてわからなくても、未来はあるんだって知ってるわ。あなたのおかげでね"
+
 translate Japanese monika_discworld_0d19dc7f:
     m 1esa "あのさ[player]、巨大な亀の甲羅の上に四頭の象が立っていて、それが宇宙を漂っている世界感って聞いたことがある？"
 
@@ -16384,6 +16405,9 @@ translate Japanese monika_eating_meat_b49574d2:
 
 translate Japanese monika_eating_meat_231a6e7b:
     extend 3eua "だから、必要に応じて普通のお店で買ってもいいのよ"
+
+translate Japanese monika_eating_meat_98895df6:
+    m "特にスーパーマーケットなんかには肉の良い代替品がたくさんあるし、環境への影響ははるかに少なくなるわ"
 
 translate Japanese monika_eating_meat_f387458c:
     m 1euc "地元での狩猟や漁で獲れた肉に関しては、それはそれで食べていいと思うわ。だけど、どの地域でどんな動物が乱獲されてしまいそうなのかを調べておくことが大切ね"

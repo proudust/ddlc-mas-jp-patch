@@ -31,6 +31,9 @@ translate Japanese mas_pong_dlg_winner_da20386e:
 translate Japanese mas_pong_dlg_winner_64e06039:
     m 5ekbfa "ありがとう、[player]君！"
 
+translate Japanese mas_pong_dlg_winner_7cf10329:
+    m 2rksdlb "あーあ、ちょっと残念……"
+
 translate Japanese mas_pong_dlg_winner_41f6a165:
     m 2rksdlc "[player]君、{w=0.1}またミスしたのね……"
 
