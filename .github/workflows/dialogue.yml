@@ -1,9 +1,14 @@
 name: Extract Dialogue
 
 on:
-  repository_dispatch:
-    types: [extract_dialogue]
   workflow_dispatch:
+    inputs:
+      base:
+        description: Comparison starting point
+        required: true
+      compare:
+        description: Comparison endpoint
+        required: true
 
 jobs:
   dialogue:
@@ -13,28 +18,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Get newest versions
+      - name: Extract Dialogue in base version
         run: |
-          NEWEST_VERSION=`curl -sL https://api.github.com/repos/Monika-After-Story/MonikaModDev/releases/latest -s | jq .tag_name -r`
-          echo "NEWEST_VERSION=$NEWEST_VERSION"
-          echo NEWEST_VERSION=$NEWEST_VERSION >> $GITHUB_ENV
-
-      - name: Extract Dialogue in current version
-        run: |
-          make dialogue
+          make dialogue 'MAS_VERSION := ${{ github.event.inputs.base }}'
           mkdir artifact
-          mv ./dialogue.tab ./artifact/${{ env.CURRENT_VERSION }}_dialogue.tab
+          mv ./dialogue.tab ./artifact/${{ github.event.inputs.base }}_dialogue.tab
 
-      - name: Extract Dialogue in newest version
+      - name: Extract Dialogue in compare version
         run: |
-          make dialogue 'MAS_VERSION := ${{ env.NEWEST_VERSION }}'
-          mv ./dialogue.tab ./artifact/${{ env.NEWEST_VERSION }}_dialogue.tab
+          make dialogue 'MAS_VERSION := ${{ github.event.inputs.compare }}'
+          mv ./dialogue.tab ./artifact/${{ github.event.inputs.compare }}_dialogue.tab
 
       - name: diff
         continue-on-error: true
         run: |
-          diff -u <(cut artifact/${{ env.CURRENT_VERSION }}_dialogue.tab -f 1,2,3,4) --label ${{ env.CURRENT_VERSION }} \
-                  <(cut artifact/${{ env.NEWEST_VERSION }}_dialogue.tab -f 1,2,3,4) --label ${{ env.NEWEST_VERSION }} > artifact/dialogue.diff
+          diff -u <(cut artifact/${{ github.event.inputs.base }}_dialogue.tab -f 1,2,3,4) --label ${{ github.event.inputs.base }} \
+                  <(cut artifact/${{ github.event.inputs.compare }}_dialogue.tab -f 1,2,3,4) --label ${{ github.event.inputs.compare }} > artifact/dialogue.diff
 
       - name: Upload dialogue.tab
         uses: actions/upload-artifact@v1
