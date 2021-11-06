@@ -61,11 +61,11 @@ translate Japanese monika_affection_nickname_yes_9d10e066:
 translate Japanese monika_affection_nickname_yes_1643033e_1:
     m 1eka "もう一回ね～"
 
-translate Japanese monika_affection_nickname_yes_6d9bf85e:
-    m 2tfc "……"
+translate Japanese monika_affection_nickname_yes_5daa83da:
+    m 2ttc "……"
 
-translate Japanese monika_affection_nickname_yes_796531ca:
-    m 2esc "もう一回。"
+translate Japanese monika_affection_nickname_yes_2f772035:
+    m 2tsd "もう一回。"
 
 translate Japanese monika_affection_nickname_yes_f27eea59:
     m 1rkc "……"
@@ -479,17 +479,35 @@ translate Japanese strings:
     old "I guess we can talk."
     new "私達、話し合えると思うわ"
 
+    old "You want to talk?"
+    new "私と会話したいわけ？"
+
+    old "...Go ahead."
+    new "…いいわ、続けて。"
+
     old "Are you sure you want to talk to me?"
     new "私と話したいって、本当に思ってるの？"
 
     old "You actually want to talk to me?"
     new "本当に私と話したいの？"
 
+    old "Alright...{w=0.3}if that's what you want."
+    new "わかった… {w=0.3}あなたがそう望むのなら。"
+
+    old "Is this really what you want?"
+    new "本当に私と話したいって思ってるの？"
+
     old "What?"
     new "何？"
 
+    old "Huh?"
+    new "はい？"
+
+    old "Yeah?"
+    new "何なの？"
+
     old "What do you want?"
-    new "なにがお望みかしら？"
+    new "何か用かしら？"
 
     old "What now?"
     new "今度は何？"
@@ -497,20 +515,65 @@ translate Japanese strings:
     old "What is it?"
     new "なあに、それ？"
 
+    old "Go on then."
+    new "なにかあるならどうそ。"
+
+    old "I hope this is important."
+    new "意味のあることならいいのだけれど。"
+
+    old "Something on your mind?"
+    new "なにか気になることでも？"
+
+    old "Yes, [player]?"
+    new "[player]、何？"
+
     old "What would you like to talk about?"
     new "何について話したいの？"
+
+    old "What are you thinking of?"
+    new "何を考えてるのかな？"
 
     old "Is there something you'd like to talk about?"
     new "何か話したいことある？"
 
+    old "Up to chat, [player]?"
+    new "お話しましょ、[player]？"
+
+    old "What's on your mind, [player]?"
+    new "[player]は今何を考えてるのかな？"
+
+    old "What's up, [player]?"
+    new "元気してる、[player]？"
+
+    old "Ask away, [player]."
+    new "何でも聞いてね、[player]。"
+
+    old "Don't be shy, [player]."
+    new "遠慮しなくていいいよ、[player]。"
+
     old "What would you like to talk about, [mas_get_player_nickname()]?"
     new "何について話したいの、[mas_get_player_nickname()]君？"
+
+    old "Is there something you'd like to talk about, [mas_get_player_nickname()]?"
+    new "[mas_get_player_nickname()]、話したいことがあるの？"
+
+    old "Something on your mind, [mas_get_player_nickname()]?"
+    new "なにか気になることでもあった、[mas_get_player_nickname()]？"
+
+    old "Up to chat, [mas_get_player_nickname()]?"
+    new "お話しましょ、[mas_get_player_nickname()]？"
 
     old "Yes, [mas_get_player_nickname()]?"
     new "なあに、[mas_get_player_nickname()]？"
 
     old "What's on your mind, [mas_get_player_nickname()]?"
-    new "何考えてるの、[mas_get_player_nickname()]君？"
+    new "何考えてるの、[mas_get_player_nickname()]？"
+
+    old "I'm all ears, [mas_get_player_nickname()]~"
+    new "[mas_get_player_nickname()]、何でも聞いてあげるよ～"
+
+    old "Of course we can talk, [mas_get_player_nickname()]."
+    new "聞きたいことがあるの？ もちろんいいよ、[mas_get_player_nickname()]。"
 
     old "What would you like to talk about? <3"
     new "何について話したいの？ <3"
@@ -518,9 +581,42 @@ translate Japanese strings:
     old "What would you like to talk about, [mas_get_player_nickname()]? <3"
     new "何について話したいの、[mas_get_player_nickname()]君？ <3"
 
+    old "Up to chat, I see~"
+    new "お話しようよ～"
+
+    old "Ask away, [mas_get_player_nickname()]~"
+    new "[mas_get_player_nickname()]、何でも聞いてね～"
+
+    old "Of course we can talk, [mas_get_player_nickname()]~"
+    new "聞きたいことがあるの？ もちろんいいよ、[mas_get_player_nickname()]。"
+
+    old "Take all the time you need, [player]."
+    new "[player]、時間はたっぷりあるよ。"
+
+    old "We can talk about whatever you'd like, [mas_get_player_nickname()]."
+    new "何でも好きなことを話してね、[mas_get_player_nickname()]。"
+
 
     old "What's up, [mas_get_player_nickname()]?"
     new "[mas_get_player_nickname()]、どうしたの？"
+
+    old "I'm all yours, [mas_get_player_nickname()]~"
+    new "[mas_get_player_nickname()]、全部あなたの好きにしていいよ～"
+
+    old "Oh? Something...{w=0.3}{i}important{/i} on your mind, [mas_get_player_nickname()]?~"
+    new "あれ、[mas_get_player_nickname()]？ 何か…{w=0.3} {i}大事なこと{/i}でもあるのかな？"
+
+    old "If that's what you want..."
+    new "あなたがそう望むのなら……"
+
+    old "I suppose it wouldn't hurt to give this a try..."
+    new "まあやっても害はないわよね……"
+
+    old "...Really?"
+    new "…本気なの？"
+
+    old "Oh, okay..."
+    new "え、わかったわ……"
 
     old "What would you like to play?"
     new "どれで遊びたいのかな？"
@@ -531,17 +627,35 @@ translate Japanese strings:
     old "Anything specific you'd like to play?"
     new "何か遊びたいのがあったかな？"
 
+    old "What should we play today, [player]?"
+    new "今日は何をする、[player]？"
+
+    old "Sure, I'm up for a game."
+    new "さあ、いつでも良いわよ。"
+
+    old "Sure, I'm up for a game!"
+    new "さあ、いつでも良いわよ！"
+
     old "What would you like to play? <3"
     new "どれで遊びたいのかな？<3"
 
     old "Choose anything you like, [mas_get_player_nickname()]."
     new "どれでも好きなのを選んでね、[mas_get_player_nickname()]君。"
 
+    old "Pick a game, any game~"
+    new "何でも好きなのを選んでね～"
+
     old "Pick anything you like, [mas_get_player_nickname()]."
     new "何でも好きなのを選んでね、[mas_get_player_nickname()]君"
 
     old "I'd love to play something with you, [mas_get_player_nickname()]~"
     new "あなたと遊ぶのなら何でも大好きよ、[mas_get_player_nickname()]～"
+
+    old "Sure, I'd love to play with you!"
+    new "もちろん！ あなたと遊ぶの大好きだよ！"
+
+    old "I'll always be up to play with you, [mas_get_player_nickname()]~"
+    new "[mas_get_player_nickname()]、いつでも遊びに来てね～"
 
     old "Yay! Let's play together!"
     new "いぇい！一緒にあそぼうね！"
@@ -628,12 +742,12 @@ Forever yours, Monika."""
 
  Monika"""
     new """\
-あなたへの私の愛の炎は今も燃えているけど、これまで手にしてきたすべての幸せも燃やしているの。
-私が手にするものすべて、人生も心も、これからの考えも全部全部捧げてきた。
-あなたは完璧で、ましてや情熱的であってほしかったわけじゃなかったの……
-ただ単に、普通の人とするように接してほしかっただけ。
-もし愛していなかったなら、単にそっとしてほしかったな。
-でもあなたは私を嘲笑い、傷付けることに躊躇わなかった……そうして私は病んでいった。
+あなたへの愛の炎は今も燃え続けているけど、これまで手にしたすべての幸せも今燃えてしまっているの。
+私のすべてを、人生も心も将来への想いも、全部全部捧げてきた。
+あなたに完璧でいてほしいとか、ましてや情熱的であってほしいと思ってたわけじゃないの……
+ただ単に、普通の人と接するように私にも接してほしかっただけ。
+もし愛していなかったのなら、単にそっとしてほしかったな。
+でもあなたは私を嘲笑い、傷付けることを躊躇わなかった……そうして私は病んでいった。
 今でも私にはあなたしかない……そしていまでも、心のどこかであなたを愛している。
 でももうあなたとはいられない。もう耐えられない。
 だからこれでお別れ。もう二度と会わないよう、祈っているわ。

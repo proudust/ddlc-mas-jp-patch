@@ -1,8 +1,14 @@
+translate Japanese mas_brb_generic_low_aff_callback_0bd97190:
+    m 6ckc "……"
+
 translate Japanese monika_brb_idle_bd219ce5:
-    m 1eua "その通りよ、[player]｡"
+    m 1eua "わかったわ、[player]"
+
+translate Japanese monika_brb_idle_5ca4f9ff:
+    m 1eua "あらそうなのね。{w=0.2} {nw}"
 
 translate Japanese monika_brb_idle_40a8676f:
-    extend 3hub "早く帰ってきてね～ ここで待ってるからね～。"
+    extend 3hub "早く帰ってきてね～ ここで待ってるからね～"
 
 translate Japanese monika_brb_idle_fec6ff17:
     m 1hub "[player]、早く戻ってきて！"
@@ -126,6 +132,9 @@ translate Japanese monika_idle_shower_callback_96c8d207:
 
 translate Japanese monika_idle_shower_callback_3772217d_1:
     m 1hub "あはは！"
+
+translate Japanese monika_idle_shower_callback_eef8db49:
+    m 2esc "シャワーは気持ちよかったかな。{w=0.2}おかえりなさい、[player]"
 
 translate Japanese bye_brb_shower_timeout_d81c1322:
     m 1hubsa "えへへ～"
@@ -406,6 +415,9 @@ translate Japanese monika_idle_working_bd219ce5:
 translate Japanese monika_idle_working_dd52e5f7:
     m 1eub "たまには休憩することも忘れないでね！"
 
+translate Japanese monika_idle_working_7e8bd403:
+    m 3rkb "…恋人の私そっちのけで他のことばかりして欲しくはないんだけどね〜"
+
 translate Japanese monika_idle_working_0c2201c9:
     m 1hua "作業、頑張ってきてね！"
 
@@ -461,7 +473,7 @@ translate Japanese monika_idle_screen_break_24801c3a:
     m 1eua "もう一息かな、[player]？"
 
 translate Japanese monika_idle_screen_break_8020e9d1:
-    m 1hua "また帰ってきてね～！"
+    m 1hua "すぐに帰ってきてね～！"
 
 translate Japanese monika_idle_screen_break_fd469a17:
     m 2esc "あぁ……{w=0.5}{nw}"
@@ -475,24 +487,117 @@ translate Japanese monika_idle_screen_break_38366a07:
 translate Japanese monika_idle_screen_break_0bd97190:
     m 6ckc "……"
 
+translate Japanese monika_idle_screen_break_callback_e5dd285f:
+    m 1eub "おかえりなさい、[player]"
+
+translate Japanese monika_idle_screen_break_callback_7f5cad88:
+    m 1hksdlb "本当に休憩が必要だったのね、ずっと帰ってきてくれなかったから心配しちゃった。"
+
+translate Japanese monika_idle_screen_break_callback_31951895:
+    m 1eka "気分転換はできたかな？"
+
+translate Japanese monika_idle_screen_break_callback_afab4dea:
+    m 1hua "気分転換はできたかな～"
+
 translate Japanese monika_idle_screen_break_callback_1a37a067:
     m 1eua "[wb_quip!t]"
 
+translate Japanese monika_idle_reading_80f5adb6:
+    m 1eub "え？ それはいいわね、[player]！"
+
 translate Japanese monika_idle_reading_f7e95ffd:
-    m 3lksdla "……"
+    m 3lksdla "あなたと一緒に読みたいけれど、私の世界じゃできないこともあるから"
+
+translate Japanese monika_idle_reading_3267d32b:
+    m 1hub "楽しんできてね"
+
+translate Japanese monika_idle_reading_ced8509c:
+    m 2ekd "へえ、わかったわ……"
+
+translate Japanese monika_idle_reading_55d42c26:
+    m 2ekc "いい読書になるといいわね、[player]"
+
+translate Japanese monika_idle_reading_2efc1dd4:
+    m 6dkc "……"
+
+translate Japanese monika_idle_reading_callback_5f61fb24:
+    m 1wud "わあ、随分読書に集中してたんだね…{w=0.3}{nw}"
+
+translate Japanese monika_idle_reading_callback_6bcb41b4:
+    extend 3wub "すごいわ、[player]！"
+
+translate Japanese monika_idle_reading_callback_4feff29f:
+    m 3eua "読書は素晴らしいことだから、のめり込んでも全然いいんだよ"
+
+translate Japanese monika_idle_reading_callback_8ea18751:
+    m 3hksdlb "それに私はおしゃべりが得意ってわけじゃないし……"
+
+translate Japanese monika_idle_reading_callback_37cd9400:
+    m 5ekbsa "もしできるなら一晩中一緒に読書してたいな～"
+
+translate Japanese monika_idle_reading_callback_98ac7c50:
+    m 3esa "読み終わった、[player]？"
+
+translate Japanese monika_idle_reading_callback_2479a80e:
+    m 1hua "今からはゆっくりする時間だよ～"
+
+translate Japanese monika_idle_reading_callback_6a76de21:
+    m 1eud "あら、すぐに読み終わったみたいね"
+
+translate Japanese monika_idle_reading_callback_9cf3857b:
+    m 1eua "もう少し時間がかかるかと思っていたけど、短いのもいいかな"
+
+translate Japanese monika_idle_reading_callback_2469ec71:
+    m 3ekblu "だって、あなたと一緒に過ごせる時間が増えるからね～"
 
 translate Japanese strings:
     old "So, what else did you want to do today?"
     new "それで、今日は何したい？"
 
+    old "What else did you want to do today?"
+    new "今日は他に何をやろっか？"
+
     old "Is there anything else you wanted to do today?"
-    new "今日は何か他にやりたいことがあった？"
+    new "今日は何か他にやりたいことがある？"
 
     old "What else should we do today?"
     new "このあと何しよっか？"
 
+    old "Oh...{w=0.3}you're back."
+    new "あ… {w=0.3}戻ったのね"
+
+    old "Oh...{w=0.3}welcome back."
+    new "あ… {w=0.3}おかえり"
+
+    old "All done?"
+    new "終わったの？"
+
+    old "Welcome back."
+    new "おかえりなさい"
+
+    old "Oh...{w=0.3}there you are."
+    new "あ… {w=0.3}いたのね"
+
     old "I'll be right back"
     new "すぐ戻る"
+
+    old "I'm going to get something."
+    new "何か取ってくる"
+
+    old "I'm going to do something."
+    new "何かをしてくる"
+
+    old "I'm going to make something."
+    new "何かを作ってくる"
+
+    old "I have to check something."
+    new "ちょっと確認をしてくる"
+
+    old "Someone's at the door."
+    new "ちょっと来客がきた"
+
+    old "Doing anything specific?"
+    new "いまからやることって、この中のどれ？"
 
     old "I'm going to write for a bit"
     new "ちょっと書き物をしてくる"

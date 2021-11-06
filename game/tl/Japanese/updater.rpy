@@ -74,5 +74,8 @@ translate Japanese strings:
     old "Yes please."
     new "お願い"
 
+    old "No, thanks."
+    new "遠慮する"
+
     old "Error: Failed to move 'update/' folder. Please manually move the update folder from 'game/' to the base 'ddlc/' directory and try again."
     new "エラー：\'update\'フォルダの移動に失敗しました。手動で\'game/\'から親ディレクトリの\'ddlc/\'へ移動させて下さい。"

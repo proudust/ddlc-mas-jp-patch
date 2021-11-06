@@ -44,6 +44,12 @@ translate Japanese strings:
     old "themselves"
     new "彼自身"
 
+    old "hero"
+    new "ヒーロー"
+
+    old "heroine"
+    new "ヒロイン"
+
     old "Often"
     new "頻繁"
 
@@ -76,3 +82,39 @@ translate Japanese strings:
 
     old "night"
     new "夜"
+
+    old "Darling"
+    new "ダーリン"
+
+    old "darling"
+    new "ダーリン"
+
+    old "Honey"
+    new "ハニー"
+
+    old "honey"
+    new "ハニー"
+
+    old "Love"
+    new "大切な人"
+
+    old "love"
+    new "大切な人"
+
+    old "My love"
+    new "愛しい人"
+
+    old "my love"
+    new "愛しい人"
+
+    old "Sweetheart"
+    new "[player]ちゃん"
+
+    old "sweetheart"
+    new "[player]ちゃん"
+
+    old "Sweetie"
+    new "ア・ナ・タ"
+
+    old "sweetie"
+    new "ア・ナ・タ"

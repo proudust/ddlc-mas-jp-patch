@@ -1,3 +1,9 @@
+translate Japanese monika_short_stories_menu_8e25506b:
+    m 1ekc "ごめんなさい… 今すぐには新しいお話は思い付けなくって……"
+
+translate Japanese monika_short_stories_menu_51483964:
+    m 1eka "少し時間をくれれば、思い付くんじゃないかな…… それまでは、前のお話なら話してあげられるからいつでも言ってね～"
+
 translate Japanese mas_story_begin_b26f2657:
     m 3eua "[story_begin_quip!t]"
 
@@ -1312,40 +1318,40 @@ translate Japanese _call_mas_scary_story_setup_5_98e8a194:
     m 1hub "少女は美しい白のドレスにショールを羽織り、ダンス用の靴を履いていました。"
 
 translate Japanese _call_mas_scary_story_setup_5_daae4be7:
-    m 3esb "ルイスはすぐに少女に魅了されました。ルイスはを少女にダンスを誘い、少女は誘いを受け入れました。"
+    m 3esb "少女に魅了されたルイスはすぐに少女をダンスに誘い、少女は誘いを受け入れたのでした。"
 
 translate Japanese _call_mas_scary_story_setup_5_c9c77ea8:
     m 1eud "確かに誰よりも美しい少女でしたが、ルイスはそれだけではない何かを少女から感じていました。"
 
 translate Japanese _call_mas_scary_story_setup_5_2603dcf4:
-    m 3esd "少女のことをもっと知りたいと思い、ルイスはダンスをしながら少女に少女自身のことを聞いていました。でもわかったのは、名前がメアリーということ、この町の南の方のから来たということくらいでした。"
+    m 3esd "少女をもっと知りたいと思うルイスは、踊りながら少女のことを質問しました。でもわかったのは、名前がメアリーということ、この町の南の方のから来たということくらいでした。"
 
 translate Japanese _call_mas_scary_story_setup_5_ea420abf:
-    m "メアリーの肌は、触れるとひんやりとして少し湿っていました。1つ目の曲を踊り終えてルイスが彼女へキスをすると、唇もまた彼女の肌と同じようにひんやりとしていたのでした。"
+    m "メアリーの肌はひんやりとしていて、触れると少し湿っていました。1つ目の曲を踊り終えてルイスが彼女へキスをすると、唇もまた彼女の肌と同じようにひんやりとしていたのでした。"
 
 translate Japanese _call_mas_scary_story_setup_5_cf319c55:
-    m 1esb "その夜ふたりは踊り続けました。パーティの終わりの時間が来ると、ルイスはメアリーを家へ誘い、メアリーはまたそれを受け入れたのでした。"
+    m 1esb "その夜ふたりは踊り続けました。パーティの終わりが来ると、ルイスはメアリーを家へ誘い、メアリーはまたそれを受け入れたのでした。"
 
 translate Japanese _call_mas_scary_story_setup_5_6d6cc97c:
-    m 3esb "車に乗ると、メアリーは通ってほしい道があるとルイスに頼みました。"
+    m 3esb "車に乗って少ししたとき、メアリーは通ってほしい道があるとルイスに頼みました。"
 
 translate Japanese _call_mas_scary_story_setup_5_55364284:
-    m 3eud "それは墓地へと続く道で、墓地の門をくぐろうとしたところでメアリーはルイスに車を停めるように言いました。"
+    m 3eud "それは墓地へと続く道でした。墓地の門をくぐろうとしたところで、メアリーはルイスに車を停めるように言いました。"
 
 translate Japanese _call_mas_scary_story_setup_5_7f27c42e:
-    m 1eud "ルイスはどうしてこんなところでと思いましたが、メアリーの要求のとおりに車を停めました。"
+    m 1eud "ルイスはどうしてこんなところでと不思議に思いましたが、メアリーの求めるままに車を停めました。"
 
 translate Japanese _call_mas_scary_story_setup_5_ebdefc90:
-    m 3eud "メアリーは車のドアを開けるとルイスへもたれかかり、ルイスの耳元でささやきました。『ごめんなさい、ここでお別れしなきゃ。絶対に後を追ったりしないでね。』"
+    m 3eud "メアリーは車のドアを開けるとルイスへ体を寄せ、耳元でこうささやきました。\n『ごめんなさい、ここでお別れしなきゃ。絶対に後を追ったりしないでね。』"
 
 translate Japanese _call_mas_scary_story_setup_5_e1628ae9:
-    m 1euc "メアリーは車から降りると、門の向こう側へと消えていきました。"
+    m 1euc "メアリーは車から降りると、門の向こう側へと消えていったのでした。"
 
 translate Japanese _call_mas_scary_story_setup_5_2c45aba1:
-    m "ルイスは何が起きたかわからず、車の中で呆然としてしました。"
+    m "ルイスは何が起きたのか全くわからず、車の中で呆然としてしました。"
 
 translate Japanese _call_mas_scary_story_setup_5_481bf229:
-    m 1esd "その後、ルイスはあの美しい少女に再び会うことはありませんでした。"
+    m 1esd "その後、ルイスはあの美しい少女に再び出会うことはありませんでした。"
 
 translate Japanese _call_mas_scary_story_setup_6_8debecc1:
     m 1esa "あるところに沿道で古い宿を営む老人がいた。ある晩、4人の男が部屋を求めて宿にやってきた。"
@@ -2115,7 +2121,7 @@ translate Japanese strings:
     new "白髪"
 
     old "The Fisherma"
-    new "漁師"
+    new "とある漁師"
 
     old "Old Man's Three Wishes"
     new "3つの願い事"

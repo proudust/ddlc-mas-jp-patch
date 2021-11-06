@@ -8,9 +8,6 @@ translate Japanese strings:
     old "Music"
     new "音楽"
 
-    old "Play"
-    new "遊ぶ"
-
     old "Pause"
     new "ポーズ"
 

@@ -85,8 +85,8 @@ translate Japanese bye_going_to_sleep_326f9509:
 translate Japanese bye_going_to_sleep_0bd97190:
     m 6ckc "……"
 
-translate Japanese bye_prompt_to_class_1b81c3c9:
-    m 1eub "え～っ、もう行くの？"
+translate Japanese bye_prompt_to_class_2f46235c:
+    m 1ekd "え～っ、もう行くの？"
 
 translate Japanese bye_prompt_to_class_4ec3ddc0:
     m 1efp "まだ20分も経ってないのに！"
@@ -436,8 +436,59 @@ translate Japanese bye_prompt_sleep_reglitch_bd219ce5:
 translate Japanese bye_prompt_sleep_reglitch_c207c96e_1:
     m 1hua "良い夢を！"
 
+translate Japanese bye_prompt_sleep_goodnight_kiss_0ef23c57:
+    m 1eublsdla "あのね、おやすみの… {w=0.3}{nw}"
+
+translate Japanese bye_prompt_sleep_goodnight_kiss_0b8d5b8e:
+    extend 1rublsdlu "キス、してくれないかな？{nw}"
+
+translate Japanese bye_prompt_sleep_goodnight_kiss_9982ef1b:
+    m "あのね、おやすみの… キス、してくれないかな？" nointeract
+
+translate Japanese _call_monika_kissing_motion_short_3_a8c42758:
+    m 6ekbfb "今夜はいい夢を見てね"
+
+translate Japanese _call_monika_kissing_motion_short_3_88603914:
+    m 1hubfa "おやすみ！"
+
+translate Japanese _call_monika_kissing_motion_short_3_bdc137a5:
+    m 3rkblp "えー…、ほら、恥ずかしがらなくていいんだよ…{w=0.3}{nw}"
+
+translate Japanese _call_monika_kissing_motion_short_3_c3359e74:
+    extend 3nublu "本当はキスしたいんでしょ～？"
+
+translate Japanese _call_monika_kissing_motion_short_3_3a98b132:
+    m 1ekbsa "おやすみのキス、ね、お願い？{nw}"
+
+translate Japanese _call_monika_kissing_motion_short_3_8aadb9b1:
+    m "おやすみのキス、ね、お願い？{fast}" nointeract
+
+translate Japanese _call_monika_kissing_motion_short_4_6b75e377:
+    m 6ekbfa "いい夢見てね、[player]～"
+
+translate Japanese _call_monika_kissing_motion_short_4_07c54da0:
+    m 6hubfb "おやすみ！"
+
+translate Japanese _call_monika_kissing_motion_short_4_4644c309:
+    m 1lkc "……"
+
+translate Japanese _call_monika_kissing_motion_short_4_c6afba82:
+    m 7dkd "そう……"
+
+translate Japanese _call_monika_kissing_motion_short_4_223eb706:
+    m 2lsc "[player]、おやすみ……"
+
+translate Japanese _call_monika_kissing_motion_short_4_5364a71c:
+    m 1rkblc "えー… {w=0.3}{nw}"
+
+translate Japanese _call_monika_kissing_motion_short_4_7f9c63ab:
+    extend 1ekbla "わかった、だけど私からはしてあげるね"
+
+translate Japanese _call_monika_kissing_motion_short_4_1132fd08:
+    m 1hubsb "愛してるよ！ おやすみ～"
+
 translate Japanese bye_illseeyou_a3e375cf:
-    m 1eua "また明日ね、[playar]君。"
+    m 1eua "また明日ね、[player]君。"
 
 translate Japanese bye_illseeyou_cfd66837:
     m 3kua "私のこと、忘れないでよ～？"
@@ -1349,8 +1400,8 @@ translate Japanese strings:
     old "Goodbye."
     new "さようなら"
 
-    old "Nevermind."
-    new "なんでもない"
+    old "Yeah."
+    new "そうだね"
 
     old "Not yet."
     new "いや、まだ"
@@ -1371,6 +1422,9 @@ translate Japanese strings:
 
     old "Sorry, I'm really tired."
     new "ごめんね、すごく疲れてるから。"
+
+    old "Maybe another time..."
+    new "また今度にしよう…"
 
     old "I'll be going away for a while."
     new "しばらく遠出する"

@@ -8,6 +8,9 @@ translate Japanese import_ddlc_persistent_save_merge_or_replace_42e7bb29:
     "DDLCデータは後で「設定」メニューからインポートできます。"
 
 translate Japanese strings:
+    old "Save data from Doki Doki Literature Club has been merged already."
+    new "Doki Doki Literature Clubのセーブデータはすでに引継ぎされています。"
+
     old "Would you like to import Doki Doki Literature Club save data into [config.name]?\n(DDLC will not be affected)"
     new "Doki Doki Literature Clubのセーブデータを[config.name]にインポートしますか？\n（DDLC本体に影響はありません）"
 
@@ -23,6 +26,9 @@ translate Japanese strings:
     old "Okay"
     new "OK"
 
+    old "Couldn't read/decode save data from Doki Doki Literature Club. Aborting."
+    new "Doki Doki Literature Clubのセーブデータを読み込むことができませんでしたので中断します。"
+
     old "Previous Monika After Story save data has also been found.\nWould you like to merge with DDLC save data?"
     new "モニカアフターストーリーの古いセーブデータが見つかりました。\nDDLCセーブデータとマージしますか？"
 
@@ -34,9 +40,6 @@ translate Japanese strings:
 
     old "Cancel."
     new "キャンセル"
-
-    old "Monika After Story data will be deleted. This cannot be undone. Are you sure?"
-    new "モニカアフターストーリーのセーブデータは削除されます。やり直しはできません。よろしいですか？"
 
     old "Player names do not match. Which would you like to keep?"
     new "プレイヤー名が一致しません。どちらのファイルを残しますか？"
