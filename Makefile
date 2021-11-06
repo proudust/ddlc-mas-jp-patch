@@ -1,4 +1,4 @@
-MAS_VERSION := v$(shell grep -oP '(?<=define config.version = ").+(?=")' ./game/options.rpy)
+MAS_VERSION := v$(shell grep -oP '(?<=renpy.config.version = ").+(?=")' ./game/0config.rpy)
 PATCH_VERSION := $(shell git describe --tags)
 ARTIFACT_NAME := DDLC_MAS_JP_$(PATCH_VERSION).zip
 ARTIFACT_PATH := $(ARTIFACT_NAME)

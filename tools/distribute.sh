@@ -2,7 +2,7 @@
 
 REPO_ROOT=$(dirname "$0")/..
 PATCH_VERSION=$(git -C "$REPO_ROOT" describe --tags)
-MAS_VERSION=v$(grep -oP '(?<=define config.version = ").+(?=")' "$REPO_ROOT/game/options.rpy")
+MAS_VERSION=v$(grep -oP '(?<=renpy.config.version = ").+(?=")' "$REPO_ROOT/game/0config.rpy")
 
 echo "Setup Monika After Story JP patch build"
 rm -rf /tmp/mas-jp
