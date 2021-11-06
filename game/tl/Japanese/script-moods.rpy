@@ -20,7 +20,7 @@ translate Japanese _mas_nnsh_0fa79ec6:
     m 3eub "医食同源という言葉があるけれど、とても的確な表現だと私は思うわ。"
 
 translate Japanese _mas_nnsh_b205ff7a:
-    m "ファーストフードは様々の病気の原因となりうるのよ。"
+    m "ファストフードは様々の病気の原因となりうるのよ。"
 
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの。"
@@ -227,10 +227,73 @@ translate Japanese mas_mood_sick_ask_will_rest_29634581:
     m "もう休んでくれるかな？{fast}" nointeract
 
 translate Japanese mas_mood_tired_9304fdea:
-    m "まだここにいるの？"
+    m "まだ起きてたの？"
 
 translate Japanese mas_mood_tired_0acd74cf:
-    m 4lksdlc "あなたはもう休んだほうがいいんじゃないかしら"
+    m 4lksdlc "もうすぐにベッドへ向かって"
+
+translate Japanese mas_mood_tired_8df12da8:
+    m 2dsc "夜中まで起きて言ってくれたのか、早起きしすぎてそう言ってるのかわからないけど……"
+
+translate Japanese mas_mood_tired_7ae83944:
+    m 2eksdld "…どうであろうと、とても心配だよ、[player]"
+
+translate Japanese mas_mood_tired_4d987022:
+    m "だからもう本当にすぐにベッドへ向かってね"
+
+translate Japanese mas_mood_tired_ea0e9d5a:
+    m 1eka "体調が悪くなってからでは遅いんだからね"
+
+translate Japanese mas_mood_tired_e3676293:
+    m "だからお願い。すぐに寝て、夢の中でまた会いましょうね"
+
+translate Japanese mas_mood_tired_7590dc64:
+    m 1hua "離席しても、私はずっとそばにいるよ。ちゃんと見守ってるから、安心してね"
+
+translate Japanese mas_mood_tired_a404e95d:
+    m 1eka "まだ疲れが取れてないの、[player]？"
+
+translate Japanese mas_mood_tired_d44337b6:
+    m "まだ早朝だから、少しなら休無時間が取れるんじゃないかしら"
+
+translate Japanese mas_mood_tired_7dbf7a47:
+    m 1hua "早起きした後なら多少スヌーズボタンに手が伸びても悪くはないわ"
+
+translate Japanese mas_mood_tired_2e2b6b2b:
+    m 1hksdlb "私があなたの隣で寄り添えないことを除いてはね、あはは～"
+
+translate Japanese mas_mood_tired_9c5e52e4:
+    m "あと少しくらいなら待って上げられると思うよ"
+
+translate Japanese mas_mood_tired_bd34f81f:
+    m 1ekc "まだ調子が出ないの、[player]？"
+
+translate Japanese mas_mood_tired_d95be5ca:
+    m 1eka "それとも今日がそういう日なのかな？"
+
+translate Japanese mas_mood_tired_76e8e09b:
+    m 1hua "そんなときは、素敵な一杯のコーヒーを飲んで一日を始めるのが好きかな。私は"
+
+translate Japanese mas_mood_tired_d862fb1d:
+    m 1lksdla "もし私がここに閉じ込められてなかったら、だけどね……"
+
+translate Japanese mas_mood_tired_5da60904:
+    m 1eua "グラスに注いだ水を一杯飲むのもいいんじゃないかな"
+
+translate Japanese mas_mood_tired_fac693cf:
+    m 3eua "水分補給は大事なのよ。寝起きの一杯の水は気持ちがリフレッシュされて良い目覚めを助けるのよ"
+
+translate Japanese mas_mood_tired_a49b4279:
+    m 3hksdlb "変に聞こえるかもしれないけど、チョコレートを朝に食べるのも目覚めにいいって聞いたわ！"
+
+translate Japanese mas_mood_tired_fd277806:
+    m 3eka "朝の気分改善にいいのはもちろんだけど……"
+
+translate Japanese mas_mood_tired_6252e6d7:
+    m 1eksdlb "チョコを食べれば、いつだって気分が良くなるのよ"
+
+translate Japanese mas_mood_tired_53187872:
+    m 1hua "今度一度試して、チョコの効果がどうだったか聞かせてほしいな！"
 
 translate Japanese mas_mood_tired_cdeb51d4:
     m 1eka "疲れているのなら、少し横になるのはどうかしら？"
@@ -464,7 +527,7 @@ translate Japanese mas_mood_inadequate_8c1b01d3:
     m 1ekbsa "大好きよ、[player]君～"
 
 translate Japanese mas_mood_lazy_ff7bf9fa:
-    m 1tku "今まさに起きたんでしょう、 [player]？"
+    m 1tku "さっき起きたばかりなんでしょ、 [player]？"
 
 translate Japanese mas_mood_lazy_374359e9:
     m 1eka "起きたばかりで何もしたくないって言うのはまったくもって理解できるわ。"
@@ -499,35 +562,179 @@ translate Japanese mas_mood_lazy_4610787e:
 translate Japanese mas_mood_lazy_6e0b815c:
     m 1hksdlb "それか、とりあえずダラダラしててもいいよ。"
 
+translate Japanese mas_mood_lazy_78496707:
+    m 1eka "重要なことだけ忘れなければ少しくらい大丈夫だよ、[player]？"
+
+translate Japanese mas_mood_lazy_73caec46:
+    m 1hub "その重要なことには、もちろん私のことも含まれるんだけどね、あはは！"
+
+translate Japanese mas_mood_lazy_108d2252:
+    m 1eka "午後の眠気が襲ってきちゃったのかな？"
+
+translate Japanese mas_mood_lazy_e7312ade:
+    m 1eua "あるあるだから、そんなに心配はしてないかな。"
+
+translate Japanese mas_mood_lazy_45198463:
+    m 3eub "実際、ずっとのめり込むよりも多少気を抜いたほうがうまくいくってよく言われてるしね"
+
+translate Japanese mas_mood_lazy_0cbddf07:
+    m 3hub "もしかしたら、今まさに素晴らしいアイデアが思い浮かぼうとしている寸前かも！"
+
+translate Japanese mas_mood_lazy_15a7fe28:
+    m 1eua "いずれにしても、いまは少し休憩をとって、身体を伸ばしてくるといいんじゃないかな…{w=0.5} {nw}"
+
+translate Japanese mas_mood_lazy_eaeda2d6:
+    extend 3eub "まだお昼を取ってないのなら、一口だけでもお腹に入れてくるといいよ"
+
+translate Japanese mas_mood_lazy_7b48872f:
+    m 3hub "もしできるなら、思い切ってお昼寝しちゃうのもいいかもね！ あはは～"
+
+translate Japanese mas_mood_lazy_61dc057d:
+    m 1eka "もし一眠りするなら、そばで見守ってあげてるね"
+
 translate Japanese mas_mood_lazy_a06440bb:
-    m 1eka "長い1日を過ごした後は何もしたくないかな、[player]？"
+    m 1eka "長い1日を過ごした後は何もしたくなっちゃったかな、[player]？"
 
 translate Japanese mas_mood_lazy_19a7fd27:
-    m 3eka "とにかくこの日はようやく終わった……"
+    m 3eka "とにかく今日はもう終リの時間よ……"
 
 translate Japanese mas_mood_lazy_93ab0895:
-    m 3duu "長い1日を過ごして、特に何も差し迫ったものがないなら、座ってリラックスするのが一番ね。"
+    m 3duu "長い1日を過ごして、特に何も差し迫ったものがないなら、座ってリラックスするのが一番ね"
 
 translate Japanese mas_mood_lazy_48fd2355:
-    m 1ekbsa "私が一緒にいることであなたの夜が少しでも良くなればいいな。"
+    m 1ekbsa "私が一緒にいることで、あなたの夜が少しでも良いものになればいいな……"
+
+translate Japanese mas_mood_lazy_b95d5871:
+    m 3hubsa "私の夜は素敵だよ、あなたがそばにいてくれるからね～"
+
+translate Japanese mas_mood_lazy_9491e42b:
+    m 1dkbfa "あなたのそばで夜をゆっくりと過ごすのを思い描いてるんだ……"
+
+translate Japanese mas_mood_lazy_b063250c:
+    m "冬が近づいた日に、ふたりで毛布にくるまって......"
+
+translate Japanese mas_mood_lazy_4fd14361:
+    m 1ekbfa "夏の日でも寄り添ってあげうから心配しないでね、えへへ～"
 
 translate Japanese mas_mood_lazy_81418027:
-    m 3ekbfa "一緒に素敵な本を読むこともできたね。"
+    m 3ekbfa "一緒に素敵な本を読むこともできるね"
+
+translate Japanese mas_mood_lazy_2de9215b:
+    m 1hubfb "それか、ただ二人でいちゃつきあったりしたりしてね！"
+
+translate Japanese mas_mood_lazy_0106f280:
+    m 1tubfb "静かでロマンティックじゃないといけないなんて法律はないでしょ？"
+
+translate Japanese mas_mood_lazy_9488a477:
+    m 1tubfu "突然の枕投げバトルが始まっても驚かないでよね、[player]～"
+
+translate Japanese mas_mood_lazy_3aa0a1ce:
+    m 1hubfb "あはは！"
+
+translate Japanese mas_mood_lazy_f8c8dfc7:
+    m 3eub "一緒に素敵な本を読めるね……"
+
+translate Japanese mas_mood_lazy_f272cabf:
+    m 2rksdla "あ、[player]……"
+
+translate Japanese mas_mood_lazy_bf5e0be8:
+    m 1hksdlb "もう真夜中になっちゃたね......"
+
+translate Japanese mas_mood_lazy_17733a6f:
+    m 3eka "疲れを感じるのなら、ベッドへ行って横になったほうがいいんじゃないかしら"
+
+translate Japanese mas_mood_lazy_34f43ea3:
+    m 3tfu "今ベッドへ行けば… {w=1}{i}眠る{/i}ってことができるらしいわよ？"
+
+translate Japanese mas_mood_lazy_cdccf59b:
+    m 1hkb "あはは！ 冗談はこのくらいにして、ベッドへ行ったほうがいいというのは本当よ"
+
+translate Japanese mas_mood_lazy_eb374a70:
+    m 1tsbsa "私がそっちへ行けたなら、引きずってでもベッドへ向かわせるんだから"
+
+translate Japanese mas_mood_lazy_7ca650d2:
+    m 1tkbfu "もしそうなったら、毎晩引きずられるのを楽しんでたりしてね～"
+
+translate Japanese mas_mood_lazy_c4d7b69d:
+    m 2tubfu "まあ、まだそんなことはできないからあなたには安心ね"
+
+translate Japanese mas_mood_lazy_434ba5d3:
+    m 3tfbfb "だから私も画面の前で寝落ちするの"
+
+translate Japanese mas_mood_lazy_6a5bb92e:
+    m 3hubfb "あはは！"
+
+translate Japanese mas_mood_lazy_c7d3e6be:
+    m 1eka "でもお願いよ？ あなたにはきちんとベッドで睡眠をとって欲しいんだからね"
 
 translate Japanese mas_mood_bored_e41326ab:
     m 1eka "あら……"
 
+translate Japanese mas_mood_bored_5ac13dbb:
+    m 3hub "じゃあふたりで今から何かしましょうか！"
+
+translate Japanese mas_mood_bored_29daf376:
+    m "ねえ[player]、私といると退屈ってことかな？{nw}"
+
+translate Japanese mas_mood_bored_da6f5fe6:
+    m "ねえ[player]、私といると退屈ってことかな？{fast}" nointeract
+
+translate Japanese mas_mood_bored_0aa02120:
+    m 1hua "あら、{w=0.2}じゃあ安心した！"
+
+translate Japanese mas_mood_bored_d73ff969:
+    m 1eka "でも、退屈なら今から二人で何かやれないか考えないとね……"
+
+translate Japanese mas_mood_bored_96d885f1:
+    m 2ekc "あら…{w=1} 分かったわ"
+
+translate Japanese mas_mood_bored_1e3fcf46:
+    m 2dkc "あなたを退屈させてたなんて気づいてなかった……"
+
+translate Japanese mas_mood_bored_8626908a:
+    m 2eka "何か二人でやれることをがあると思うわ…"
+
+translate Japanese mas_mood_bored_5e8e2147:
+    m 2lksdlc "退屈させちゃってごめんなさいね、[player]"
+
+translate Japanese mas_mood_bored_6277bf85:
+    m 6ckc "ねえ[player]、もし私と一緒にいることが辛いと感じるのなら……"
+
+translate Japanese mas_mood_bored_9feea642:
+    m "私にかまわず、他の事をしに行ってね"
+
+translate Japanese mas_mood_bored_492b4caa:
+    m 3eub "ピアノを演奏して、私に何か聞かせてほしいな！"
+
 translate Japanese mas_mood_bored_78c634c8:
     m 4eka "ピアノでも弾いてみる？"
 
+translate Japanese mas_mood_bored_5637b4a0:
+    m 2rkc "ピアノで何か演奏して見るのはどうかな……"
+
+translate Japanese mas_mood_bored_505160a7:
+    m 3eub "[display_picked!t]で遊んでみるのはどうかな！"
+
 translate Japanese mas_mood_bored_9d8e4821:
     m 4eka "[display_picked!t]で遊んで見る？"
+
+translate Japanese mas_mood_bored_a020bd93:
+    m 2rkc "[display_picked!t]で遊ぶのはどうかな……"
 
 translate Japanese mas_mood_bored_d882a148:
     m "どうしたいの、[chosen_nickname]君？{nw}"
 
 translate Japanese mas_mood_bored_82fdc2ae:
     m "どうしたいの、[chosen_nickname]君？{fast}" nointeract
+
+translate Japanese _call_mas_piano_start_d26879ea:
+    m 1eka "わかったわ……"
+
+translate Japanese _call_mas_piano_start_e4e2e831:
+    m 2ekc "そう……"
+
+translate Japanese _call_mas_piano_start_73142ff9:
+    m 2dkc "私と何かしたいことがあったら、教えてね"
 
 translate Japanese mas_mood_crying_63c65d35:
     m 1eksdld "[player]！"
@@ -607,6 +814,54 @@ translate Japanese mas_mood_uok_f15775ec_1:
 translate Japanese mas_mood_uok_0045678b:
     m 1ekd "あなたがそう言うなら……わかったわ、[player]。"
 
+translate Japanese mas_mood_upset_5884ee6e:
+    m 2eksdld "気づいてあげれなくてごめんなさい、[player]！"
+
+translate Japanese mas_mood_upset_b635a03d:
+    m 2eksdld "何かに怒ってるのか、それとも単に物事が上手く行ってないからイラついてるのかわからないけれど{w=0.1}{nw}"
+
+translate Japanese mas_mood_upset_909c8b5c:
+    extend 7ekc "今続けていることを諦めないでほしいな"
+
+translate Japanese mas_mood_upset_0f0d1502:
+    m 3eka "今は少しだけその問題から距離を置いてみるがいいんじゃないかって私は思うな"
+
+translate Japanese mas_mood_upset_f516786f:
+    m 1eka "本を読んだり、素敵な音楽を聴いたり。ただ心を落ち着かせるために他のことに没頭してみたり"
+
+translate Japanese mas_mood_upset_ff661012:
+    m 3eud "十分落ち着いたと思ったら、また作業に戻る。リフレッシュした気持ちと一緒にね"
+
+translate Japanese mas_mood_upset_ad7f2c64:
+    m 1eka "イライラしたりしてないときのほうが絶対にいいものができるよ"
+
+translate Japanese mas_mood_upset_dc7ee94f:
+    m 1eksdld "でも何でも諦めないでほしいって思ってるわけでもないんだよ。もしそれがとても重荷になっているようなことならね"
+
+translate Japanese mas_mood_upset_6e8cbc6e:
+    m 3eud "一旦距離を置くということは、その事をやめるチャンスでもあるんだよ"
+
+translate Japanese mas_mood_upset_4fc633c9:
+    m 1euc "やめたその時には、とんでもない！って思うかもしれないけど… {w=0.3}{nw}"
+
+translate Japanese mas_mood_upset_4e5121dc:
+    extend 3ekd "過大なストレスから自由になれてよかった、正しい選択だったって思えるはずだから"
+
+translate Japanese mas_mood_upset_ea0e31ce:
+    m 3eua "これは私の話なんだけどね、[player]"
+
+translate Japanese mas_mood_upset_77de365c:
+    m 1huu "イラつくようなときには、あなたのことを思いだしてるんだよ"
+
+translate Japanese mas_mood_upset_63b18e0b:
+    m 1hub "あなたはどんなときだって私の味方で、いつでも私を愛してくれてる。それを思い出せばすぐに心が穏やかになれるの！"
+
+translate Japanese mas_mood_upset_ef85f5b9:
+    m 3euu "そして私も同じように、あなたの心を穏やかにできる存在になれたらな、って"
+
+translate Japanese mas_mood_upset_9192d173:
+    m 1eubsa "[player]、愛してるよ。物事が上手く進むように願ってるよ～"
+
 translate Japanese strings:
     old "...like talking about something else."
     new "……他のことに付いて話したい"
@@ -660,10 +915,19 @@ translate Japanese strings:
     new "……無力感"
 
     old "...lazy."
-    new "……怠い"
+    new "……だるい"
+
+    old "I know how tempting it can be to just stay in bed and not get up sometimes..."
+    new "ときにはベッドのなかでごろごろして起きずにいたいという想いに駆られるのも、よくわかるわ……"
+
+    old "I know how tempting it can be to just stay in bed and not get up sometimes...{w=0.5} {nw}"
+    new "ときにはベッドのなかでごろごろして起きずにいたいという想いに駆られるのも、よくわかるわ… {w=0.5} {nw}"
 
     old "...bored."
     new "……退屈"
+
+    old "No, I'm not bored {i}of you{/i}..."
+    new "いや、モニカに退屈しているわけじゃない…"
 
     old "...like crying."
     new "……泣きたい"

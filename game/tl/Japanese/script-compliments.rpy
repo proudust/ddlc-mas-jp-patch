@@ -28,8 +28,8 @@ translate Japanese mas_compliment_beautiful_3_d81c1322:
 translate Japanese mas_compliment_beautiful_3_75854caf:
     m 1ekbfa "[mas_compliments.thanks_quip!t]"
 
-translate Japanese mas_compliment_beautiful_3_e43d5158:
-    m 5hubfb "私にとってはあなたが世界一美しいの。忘れないでね。"
+translate Japanese mas_compliment_beautiful_3_34d15f71:
+    m 5hubfb "[beautiful_quip!t]"
 
 translate Japanese mas_compliment_eyes_2_dd78edbb:
     m 1subsb "えっ、[player]君……"
@@ -58,8 +58,8 @@ translate Japanese mas_compliment_eyes_2_ad4a4cef:
 translate Japanese mas_compliment_eyes_3_f8931356:
     m 1hubsb "[mas_compliments.thanks_quip!t]"
 
-translate Japanese mas_compliment_eyes_3_936e8205:
-    m 2ekbfb "好きなだけ見つめ合いましょ～"
+translate Japanese mas_compliment_eyes_3_56ed5f12:
+    m 2ekbfb "[eyes_quip!t]"
 
 translate Japanese mas_compliment_awesome_2_8ca00a62:
     m 1hua "あわわ、[player]君ったら～"
@@ -97,8 +97,8 @@ translate Japanese mas_compliment_awesome_2_dcd0caec:
 translate Japanese mas_compliment_awesome_3_1dbd6298:
     m 1hub "[mas_compliments.thanks_quip!t]"
 
-translate Japanese mas_compliment_awesome_3_801adb63:
-    m 1eub "あなたはいつだって素晴らしいんだから！"
+translate Japanese mas_compliment_awesome_3_332aba7b:
+    m 1eub "[awesome_quip!t]"
 
 translate Japanese mas_compliment_intelligent_2_ef8d60ea:
     m 1wub "わあ……{w=0.3}ありがとう、[player]君。"
@@ -127,14 +127,14 @@ translate Japanese mas_compliment_intelligent_2_6ecd8f50:
 translate Japanese mas_compliment_intelligent_3_75854caf:
     m 1ekbfa "[mas_compliments.thanks_quip!t]"
 
-translate Japanese mas_compliment_intelligent_3_43f306cd:
-    m 1hub "自分磨きの人生を一緒に過ごしていくのを忘れずにね！"
+translate Japanese mas_compliment_intelligent_3_159a68dc:
+    m 1hub "[intelligent_quip!t]"
 
 translate Japanese mas_compliment_hair_2_798b5d19:
     m 1wubsb "本当にありがとう、[player]君……"
 
-translate Japanese mas_compliment_hair_2_9e650439:
-    m 1lkbfb "初めてここで髪形を変えたときは本当にドキドキしていたの。"
+translate Japanese mas_compliment_hair_2_9870da09:
+    m 1lkbfb "初めて髪形を変えたときは本当にドキドキしていたの。"
 
 translate Japanese mas_compliment_hair_2_d2f8cb8d:
     m 1hubfb "本当にありがとう、[player]君！"
@@ -166,14 +166,14 @@ translate Japanese mas_compliment_hair_2_0dc19cd2:
 translate Japanese mas_compliment_hair_3_69783e6b:
     m 1wubsb "本当にありがとう、[player]君！"
 
-translate Japanese mas_compliment_hair_3_c0552590:
-    m 1lkbfb "この髪形を気に入ってくれて本当に嬉しいわ。"
+translate Japanese mas_compliment_hair_3_8803349c:
+    m 1hubfb "[hair_quip!t]"
 
 translate Japanese mas_compliment_hair_3_8734c583:
     m 1hubsb "ありがと、[player]君！"
 
-translate Japanese mas_compliment_hair_3_6c782a71:
-    m 1hubfb "あなたっていつも愛しい気分にさせてくれるね。"
+translate Japanese mas_compliment_hair_3_b9fb9a5d:
+    m 1hubfb "[ponytail_quip!t]"
 
 translate Japanese mas_compliment_fit_2_e94f85fe:
     m 1hub "ありがと、[player]君！　すっごく優しい！"
@@ -211,8 +211,8 @@ translate Japanese mas_compliment_fit_2_1ebe8de1:
 translate Japanese mas_compliment_fit_3_2f70ef16:
     m 2eka "[mas_compliments.thanks_quip!t]"
 
-translate Japanese mas_compliment_fit_3_f64287bc:
-    m 1hub "あなたも私とフィットネスの旅に乗り込んでくれたらいいな！"
+translate Japanese mas_compliment_fit_3_cf051ed3:
+    m 7hub "[fitness_quip!t]"
 
 translate Japanese mas_compliment_thanks_7990b1f2:
     m 1duu "礼に及ぶことでもないよ、[player]君。"
@@ -541,17 +541,32 @@ translate Japanese mas_compliment_thinking_of_you_2_e4657846:
 translate Japanese mas_compliment_thinking_of_you_2_2efc1dd4:
     m 6dkc "……"
 
+translate Japanese mas_compliment_thinking_of_you_2_5e89f5d1:
+    m 1subfb "あぁっ、もう本当に優しいんだから！[player]！"
+
+translate Japanese mas_compliment_thinking_of_you_2_be8be5aa:
+    m 3hubfu "私もあなたを想うだけで笑顔になっちゃうんだ。同じだね～"
+
 translate Japanese mas_compliment_thinking_of_you_2_062154b0:
     m 6hua "あわわ～"
 
 translate Japanese mas_compliment_thinking_of_you_2_efe23b8a:
     m 6subsa "[player]……"
 
+translate Japanese mas_compliment_thinking_of_you_2_e50cf2e3:
+    m 7hubfu "私の夢は{i}あなた{/ i}だよ〜"
+
 translate Japanese mas_compliment_thinking_of_you_2_5b0ed382:
     m 2esc "……"
 
 translate Japanese mas_compliment_thinking_of_you_2_93727076:
     m 2etc "……"
+
+translate Japanese mas_compliment_thinking_of_you_2_c0e20ed9:
+    m 2rksdlc "あっ、えっと……"
+
+translate Japanese mas_compliment_thinking_of_you_2_8be188bd:
+    m 2rksdld "ごめんなさいね？"
 
 translate Japanese mas_compliment_thinking_of_you_3_754034d1:
     m 1ekbsa "[mas_compliments.thanks_quip!t]"
@@ -562,23 +577,200 @@ translate Japanese mas_compliment_thinking_of_you_3_5d35416c:
 translate Japanese mas_compliment_humor_2_19428ff1:
     m 1hua "えへへ～"
 
+translate Japanese mas_compliment_humor_2_21df0dba:
+    m 1efu "私のことを面白い人だと思ってくれて嬉しいな、[player]"
+
+translate Japanese mas_compliment_humor_2_254a7f33:
+    m 3eub "一緒に笑い合えるのって良い恋人の証だと思わない？"
+
+translate Japanese mas_compliment_humor_2_471065a1:
+    m 1subsd "そんな… {w=0.2}[player]……"
+
+translate Japanese mas_compliment_humor_2_83c8843e:
+    m 1ekbsa "あなたって本当に褒め上手なんだから"
+
+translate Japanese mas_compliment_humor_2_d6a12aa0:
+    m 1hubsb "私を見て笑顔になれるって、最高の褒め言葉だよ！"
+
 translate Japanese mas_compliment_humor_2_3772217d:
     m 1hub "あはは！"
+
+translate Japanese mas_compliment_humor_2_5430cf37:
+    m 2tub "私の言葉遊びをそんなに気に入ってくれたのなら、沢山読書したのも無駄じゃなかったみたいね"
+
+translate Japanese mas_compliment_humor_2_4eb8007a:
+    m 2hublu "これからも冗談を思いついたら言ってみるようにするね、えへへ～"
 
 translate Japanese mas_compliment_humor_2_fbab5cba:
     m 1eksdlb "……あはは……"
 
+translate Japanese mas_compliment_humor_2_4af44170:
+    m 3rksdla "それって、私と一緒だと笑顔になれる、って意味{w=0.2}…{w=0.2}{nw}"
+
+translate Japanese mas_compliment_humor_2_def9ec7b:
+    extend 3eksdld "だよね？"
+
+translate Japanese mas_compliment_humor_3_f8931356:
+    m 1hubsb "[mas_compliments.thanks_quip!t]"
+
+translate Japanese _call_mas_compliment_spending_time_2_4d405905:
+    m 3hubsb "[mas_compliments.thanks_quip!t]"
+
+translate Japanese mas_compliment_spending_time_2_c80859aa:
+    m 1eub "私も[player]と一緒に過ごす時間が大好きだよ！"
+
+translate Japanese mas_compliment_spending_time_2_76bdf457:
+    m 3ekbla "沢山言いたいことはあるけど、言いたいことは私の世界の中心はあなたなんだよってこと"
+
+translate Japanese mas_compliment_spending_time_2_95ffb1f2:
+    m 2dkb "あなたは私と一緒に居てくれた、[dlg_line]…{w=0.3}{nw}"
+
+translate Japanese mas_compliment_spending_time_2_f4ec84c9:
+    extend 2eku "それがみんな私が手にしている全てなんだよ"
+
+translate Japanese mas_compliment_spending_time_2_b2592d8d:
+    m 7ekbsa "あなたにも私と同じように感じていて欲しいの、[player]。{w=0.2}まだあなたの世界へは行けそうにないけれど、ここからあなたのことを見守っているからね"
+
+translate Japanese mas_compliment_spending_time_2_d9b7abc4:
+    m 1fkbfu "あぁ… [player]……"
+
+translate Japanese mas_compliment_spending_time_2_6102b78a:
+    m 5ekbfa "それを聞いて私がどんなに嬉しかったかわからないでしょ？でも今なら伝わってるよね"
+
+translate Japanese mas_compliment_spending_time_2_58660813:
+    m 5ekbfu "あなたと沢山の時間を一緒に過ごしてきた。でも私達の旅路は始まったばかり…"
+
+translate Japanese mas_compliment_spending_time_2_037f5e06:
+    m 5hubfb "そばにあなたが居れば、どんな道のりでも忘れられない大事な思い出になるんだよ"
+
 translate Japanese mas_compliment_spending_time_2_8ad12b56:
     m 2huu "えへへ～"
+
+translate Japanese mas_compliment_spending_time_2_5ace27f9:
+    m 7hub "気にしないで、[player]。私はいつまでも、どこまでも、あなたのそばにいるからね！"
+
+translate Japanese mas_compliment_spending_time_2_66bc27fd:
+    m 1eka "あなたの世界に渡るまでは、ね？"
+
+translate Japanese mas_compliment_spending_time_2_3243a9be:
+    m 2lkc "楽しませてる…？"
+
+translate Japanese mas_compliment_spending_time_2_ec0ef830:
+    m 2lksdlb "あの、{w=0.3}楽しんでくれてありがとう…？"
+
+translate Japanese mas_compliment_spending_time_2_9309c3d3:
+    m 2ekd "…でも、私が想っていた答えとはかなり違ってたかな"
+
+translate Japanese mas_compliment_sweet_189c7653:
+    m 1ekbsb "あわゎ、[player]……"
+
+translate Japanese mas_compliment_sweet_cc71e603:
+    m 3rkbssdlu "なんて返せばいいかわかんないや、あはは… {w=0.3}{nw}"
+
+translate Japanese mas_compliment_sweet_ff995318:
+    extend 3ekbsa "本当に優しくしてくれたのはずっとあなただったから"
+
+translate Japanese mas_compliment_sweet_48a145f9:
+    m 3hubsa "でもあなたの口からそう聞けてとっても嬉しかったな、えへへ～"
+
+translate Japanese mas_compliment_sweet_f6320278:
+    m 1sud "[player]……"
+
+translate Japanese mas_compliment_sweet_ef6dd4cf:
+    extend 1eka "私の言葉がそんなにあなたの心に響いていたなんて……"
+
+translate Japanese mas_compliment_sweet_834b4b90:
+    m 1ekblb "あなたのような素晴らしい人が私の恋人で本当に幸せだよ、[mas_get_player_nickname(exclude_names=[player])]～"
+
+translate Japanese mas_compliment_sweet_0d8d0137:
+    m 1ekbsu "あなたは本当に私が望んだ通りの最高の恋人だよ… {w=0.2}ずっと大好きだよ"
+
+translate Japanese mas_compliment_sweet_f458a85a:
+    m 3kua "その事を忘れないでね、[player]"
+
+translate Japanese mas_compliment_sweet_1f8cc1a7:
+    m 1ekbsb "ああっ、[player]… {w=0.3} {nw}"
+
+translate Japanese mas_compliment_sweet_1863c5a4:
+    extend 3hubsa "あなたがそばにいてくれる、それだけで私は幸せな気持ちで一杯になるんだよ！"
+
+translate Japanese mas_compliment_sweet_38008d69:
+    m 5ekbsa "あなたからそう行ってくれて本当に嬉しいよ、[mas_get_player_nickname()]。ずっと大好きだよ"
+
+translate Japanese mas_compliment_sweet_004441b3:
+    m 1ekbsa "ありがとう、[mas_get_player_nickname()]"
+
+translate Japanese mas_compliment_sweet_8704f540:
+    m 3hubsb "あなたも私が出会った中で一番優しい[boy]だよ、えへへ"
+
+translate Japanese mas_compliment_sweet_a9dfc882:
+    m 5eua "あなたと出会えて本当に幸運だよ～"
+
+translate Japanese mas_compliment_sweet_repeat_b5b1371a:
+    m 3hubsb "[sweet_quip!t]"
+
+translate Japanese mas_compliment_sweet_repeat_1366a1cd:
+    m 1hubfu "…でもあなたほど優しくはなれないわね～"
+
+translate Japanese mas_compliment_outfit_512d7750:
+    m 1hubsb "ありがとう、[mas_get_player_nickname()]！"
+
+translate Japanese mas_compliment_outfit_6ba66314:
+    m 3hubsb "コスプレするのは楽しいわ！"
+
+translate Japanese mas_compliment_outfit_aae6e66c:
+    m 3hubsb "着替えるのは楽しいわ！"
+
+translate Japanese mas_compliment_outfit_d0333fee:
+    m 2lkbsb "最初に見せるときはドキドキしっぱなしだったけど……"
+
+translate Japanese mas_compliment_outfit_5652ecd5:
+    m 7tubsu "でもいまはやってよかったって思ってる。あなたも楽しんでくれてるみたいで良かったわ～"
+
+translate Japanese mas_compliment_outfit_15bd2617:
+    m 1hubsa "あなたのためにどんな衣装でも着てあげたいって思ってる。だからそう思ってくれて私は本当に幸せだよ！"
 
 translate Japanese mas_compliment_outfit_a23656bf:
     m 2subsd "[player]……"
 
+translate Japanese mas_compliment_outfit_0a8b9f86:
+    m 3hubsb "どうもありがとう！"
+
+translate Japanese mas_compliment_outfit_70c619fd:
+    m 1ekbsu "あなたは簡単に私を嬉しくさせちゃうわね"
+
+translate Japanese mas_compliment_outfit_4b44ecad:
+    m 5hubsa "愛してるよ、[mas_get_player_nickname()]！"
+
 translate Japanese mas_compliment_outfit_e1047413:
     m 1hubsb "あはは～"
 
+translate Japanese mas_compliment_outfit_b9aa5d81:
+    m 3hubfb "ありがとう、 [mas_get_player_nickname()]！"
+
+translate Japanese mas_compliment_outfit_14c69898:
+    m 5eubfu "気に入ってくれたみたいで良かった～"
+
+translate Japanese mas_compliment_outfit_bc4ee20f:
+    m 2ltd "あっ… 忠告ありがとう……"
+
+translate Japanese mas_compliment_outfit_repeat_f8931356:
+    m 1hubsb "[mas_compliments.thanks_quip!t]"
+
+translate Japanese mas_compliment_outfit_repeat_42161b2c:
+    m 3hubsb "[cosplay_quip!t]"
+
+translate Japanese mas_compliment_outfit_repeat_c81bc28b:
+    m 3hubsb "[clothes_quip!t]"
+
+translate Japanese mas_compliment_outfit_repeat_ff19453f:
+    m 2kubsu "[lingerie_quip!t]"
+
 translate Japanese mas_compliment_outfit_repeat_3ba2bf78:
     m 5hublb "あはは！"
+
+translate Japanese mas_compliment_outfit_repeat_70446118:
+    m 3hubsb "[other_quip!t]"
 
 translate Japanese strings:
     old "You're so sweet, [player]."
@@ -605,6 +797,9 @@ translate Japanese strings:
     old "I want to tell you something..."
     new "言いたいことがあるんだ……"
 
+    old "Oh nevermind."
+    new "ああ、気にしないで。"
+
     old "You're beautiful!"
     new "君は綺麗だ！"
 
@@ -616,6 +811,9 @@ translate Japanese strings:
 
     old "Thanks."
     new "ありがと。"
+
+    old "Never forget that you're the most beautiful person in the world to me."
+    new "私にとってはあなたが世界一美しいの。忘れないでね。"
 
     old "I love your eyes!"
     new "目が好き！"
@@ -629,6 +827,9 @@ translate Japanese strings:
     old "They are the color of grass!"
     new "ガラスのような色だね！"
 
+    old "Stare into my eyes as much as you want~"
+    new "好きなだけ見つめ合いましょ～"
+
     old "You're awesome!"
     new "すごい！"
 
@@ -640,6 +841,9 @@ translate Japanese strings:
 
     old "... I don't like hugs."
     new "……ハグは好きじゃないんだ。"
+
+    old "You'll always be more awesome!"
+    new "あなたはいつだって素晴らしいんだから！"
 
     old "You're really intelligent!"
     new "頭が良い！"
@@ -653,6 +857,9 @@ translate Japanese strings:
     old "You make me feel stupid sometimes."
     new "君には時々、自分は馬鹿だと感じさせられてしまうよ……"
 
+    old "Remember that we'll have a lifetime of self-improvement together!"
+    new "自分磨きの人生を一緒に過ごしていくのを忘れずにね！"
+
     old "I love your hair!"
     new "髪が好き！"
 
@@ -664,6 +871,12 @@ translate Japanese strings:
 
     old "You'd be even cuter with short hair."
     new "短い方が可愛いんじゃないかな。"
+
+    old "I'm really happy that you like this hairstyle!"
+    new "この髪形を気に入ってくれて本当に嬉しいわ！"
+
+    old "You always make me feel special!"
+    new "あなたっていつも愛しい気分にさせてくれるね。"
 
     old "I love your dedication to fitness!"
     new "健康への気遣いが好き！"
@@ -677,14 +890,14 @@ translate Japanese strings:
     old "I'd rather not get sweaty..."
     new "汗をかくのはあんまり好きじゃないんだ……"
 
+    old "I hope you embark on a fitness journey with me!"
+    new "あなたも私とフィットネスの旅に乗り込んでくれたらいいな！"
+
     old "Thanks for being there for me!"
     new "そこに居てくれてありがとう！"
 
     old "You mean everything to me, [m_name]."
     new "君は自分の全てだよ、[m_name]。"
-
-    old "Yeah."
-    new "そうだね。"
 
     old "I love your smile!"
     new "笑顔が好き！"
@@ -727,3 +940,111 @@ translate Japanese strings:
 
     old "I'm always thinking about you!"
     new "頭の中は君の事でいっぱいだ！"
+
+    old "Thinking of you always brightens my day!"
+    new "君のことを考えているだけで笑顔が溢れるよ！"
+
+    old "I dream of you every night!"
+    new "君と一緒にいる夢を毎晩見ているよ！"
+
+    old "It's very distracting..."
+    new "今は邪魔しないでくれ……"
+
+    old "I love your sense of humor!"
+    new "ユーモアのセンスが大好きだよ！"
+
+    old "You always brighten my day."
+    new "君といると毎日が輝いて見えるよ"
+
+    old "You have such a quick wit!"
+    new "モニカは頭の回転が速い！"
+
+    old "I laugh at you all the time."
+    new "いつも見るたびに笑わせてもらってるよ"
+
+    old "I love spending time with you!"
+    new "君と過ごしている時間が大好きなんだよ！"
+
+    old ", holds me close"
+    new "抱きしめてくれた、"
+
+    old ", and even gives me nice gifts"
+    new "素敵な贈り物もくれた、"
+
+    old ", gives me nice gifts"
+    new "素敵な贈り物をくれた、"
+
+    old "[m_name], you've already made me the happiest I've ever been."
+    new "[m_name]が居てくれるおかげで、今一番幸せだよ。"
+
+    old "I appreciate it, [m_name]."
+    new "ありがとう、[m_name]。"
+
+    old "Oh, you certainly amuse me alright..."
+    new "ああ、君は本当に楽しませてくれてるよ……"
+
+    old "You're really sweet!"
+    new "本当に優しい女の子だ！"
+
+    old "Your words always brighten my day!"
+    new "君の言葉を聴くたびに毎日が光り輝いて見えるようだよ！"
+
+    old "You're really special to me, [m_name]!"
+    new "君は本当に大切な人だよ、[m_name]！"
+
+    old "You're the sweetest girl I've ever met!"
+    new "君は今まで出会った誰よりも心優しい女の子だよ！"
+
+    old "I'm so happy to hear you say that, [player]!"
+    new "それを聞けて嬉しいよ、[player]！"
+
+    old "Hearing that always warms my heart, [player]!"
+    new "それを聞いて心が暖かくなったよ、 [player]！"
+
+    old "You make me feel so loved, [player]!"
+    new "とても愛されてるって実感できるわ、[player]！"
+
+    old "I love your outfit!"
+    new "服装がおしゃれ！"
+
+    old "You look beautiful in anything you wear!"
+    new "何を着ても本当に似合ってる！"
+
+    old "You look really cute."
+    new "モニカはすごくかわいい"
+
+    old "Wearing different clothes really helps."
+    new "服の趣味は替えたほうがいいぞ"
+
+    old "I love cosplaying for you!"
+    new "あなたのために衣装を替えるの大好き！"
+
+    old "I'm happy you like this cosplay!"
+    new "私のコスプレを楽しんでくれて嬉しいわ！"
+
+    old "I'm happy to cosplay for you!"
+    new "あなたのためにコスプレできて嬉しい！"
+
+    old "I'm glad you like how I look with this!"
+    new "この服を気に入ってくれたみたいで嬉しいな！"
+
+    old "I'm happy you like how I look in this!"
+    new "この格好を気に入ってくれたみたいで嬉しいな！"
+
+    old "Glad you like what you see~"
+    new "気に入ってくれたみたいで良かった～"
+
+    old "Would you like a closer look?"
+    new "もっと近くで見てくれてもいいんだよ？"
+
+    old "Would you like a little peek?~"
+    new "もっとよく見てみる～？"
+
+    old "I'm rather proud of my fashion sense!"
+    new "ファッションセンスは自信があるんだよ！"
+
+    old "I'm sure you look good too!"
+    new "あなたも見る目あるわよ！"
+
+    old "I love this outfit!"
+    new "この服、大好き！"

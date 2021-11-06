@@ -7,9 +7,6 @@ translate Japanese mas_piano_songchoice_1b611ea5:
 translate Japanese mas_piano_songchoice_7f0f2a55:
     m "[player]君、こちらで用意した曲にする？それとも自由に弾いてみる？{fast}" nointeract
 
-translate Japanese mas_piano_songchoice_e9c7965e:
-    m "どの曲にする？"
-
 translate Japanese mas_piano_songchoice_10a53abc:
     m 1hua "[player]君のピアノ、わくわくするなあ！"
 
@@ -109,7 +106,7 @@ translate Japanese mas_piano_yr_prac_3f724d44:
 translate Japanese mas_piano_yr_prac_a6618476:
     m 3eua "あとほんの少し練習すれば、私の曲もパーフェクトに弾きこなせそう。"
 
-translate Japanese mas_piano_yr_prac_e8a4d36f:
+translate Japanese mas_piano_yr_prac_7ad9e4fb:
     m 1eka "私のために毎日練習してね。約束だよ～？"
 
 translate Japanese strings:

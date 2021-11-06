@@ -111,13 +111,3 @@ translate Japanese mas_dockstat_generic_failed_io_still_going_ask_9a3c6744:
 
 translate Japanese mas_dockstat_generic_failed_io_still_going_ask_32fb3839:
     m 1eka "……ありがとう、[player]。これは私にとって、あなたが思ってるよりずっと……大切に思えることなんだ"
-
-translate Japanese strings:
-    old "Hold on a second!"
-    new "ちょっとまってて！"
-
-    old "Actually, I can't take you right now."
-    new "実は……今は連れていけないんだ"
-
-    old "Nothing."
-    new "何でもないよ"

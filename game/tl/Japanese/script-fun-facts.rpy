@@ -23,7 +23,7 @@ translate Japanese monika_fun_facts_open_2b425f83:
     m 2dsc "じゃあ、今回は…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_fun_facts_end_1aefd06b:
-    m 3hub "今回も「モニカと学ぶ！」の授業を楽しんでいただけたでしょうか。"
+    m 3hub "今回も「モニカと学ぶ！」の授業を楽しんでいただけたでしょうか"
 
 translate Japanese mas_bad_facts_end_6372fe94:
     m 1rkc "面白そうなのが見つからなかったわ……"
@@ -35,49 +35,49 @@ translate Japanese mas_fun_fact_librocubiculartist_2f80f7d8:
     m 1eub "ベッドで本を読むのが好きな人を表す言葉があるって知ってた？"
 
 translate Japanese mas_fun_fact_librocubiculartist_a6201013:
-    m 3eub "「librocubicularist」って言うんだけど､一見発音が難しそうよね｡"
+    m 3eub "「librocubicularist」って言うんだけど､一見発音が難しそうよね"
 
 translate Japanese mas_fun_fact_librocubiculartist_07b441f1:
     m 3rksdld "一般的に使われない言葉があるのは 本当に残念だわ"
 
 translate Japanese mas_fun_fact_librocubiculartist_a17c1253:
-    m 3eud "だってその言葉を使っても､ ほとんどの人は 何のことか分からないでしょう｡"
+    m 3eud "だってその言葉を使っても､ ほとんどの人は 何のことか分からないでしょう"
 
 translate Japanese mas_fun_fact_librocubiculartist_8937dc27:
-    m 3euc "言葉の意味を説明しなければならないのなら、その言葉を使う意味がなくなっちゃうわよね。"
+    m 3euc "言葉の意味を説明しなければならないのなら、その言葉を使う意味がなくなっちゃうわよね"
 
 translate Japanese mas_fun_fact_librocubiculartist_25dddae0:
-    m 2rkc "もっと本を読んで語彙を増やしてくれればいいのに。"
+    m 2rkc "もっと本を読んで語彙を増やしてくれればいいのに"
 
 translate Japanese mas_fun_fact_librocubiculartist_f70fbc9e:
-    m 2hksdlb "……えへへ、ごめんね[player]君。そんなつもりじゃなかったんだよ～。"
+    m 2hksdlb "……えへへ、ごめんね[player]君。そんなつもりじゃなかったんだよ～"
 
 translate Japanese mas_fun_fact_menu_currency_7cd0d760:
-    m 3euc "おそらくだけど､大体のレストランは意図的に通貨記号を表記していないわ｡"
+    m 3euc "おそらくだけど､大体のレストランは意図的に通貨記号を表記していないわ"
 
 translate Japanese mas_fun_fact_menu_currency_d4bbc06b:
-    m 3eud "これは心理的操作で､お客様に必要以上のお金を使ってもらうように仕向けているの｡"
+    m 3eud "これは心理的操作で､お客様に必要以上のお金を使ってもらうように仕向けているの"
 
 translate Japanese mas_fun_fact_menu_currency_0226c8a6:
-    m 2euc "ドルなんかの通貨記号がコストを表すために使われることもあることから､そういう心理になるのね｡"
+    m 2euc "ドルなんかの通貨記号がコストを表すために使われることもあることから､そういう心理になるのね"
 
 translate Japanese mas_fun_fact_menu_currency_dc254457:
-    m "通貨記号を表記しないことで､客はコストについて意識を割かずにメニューの選択に専念できるわ｡"
+    m "通貨記号を表記しないことで､客はコストについて意識を割かずにメニューの選択に専念できるわ"
 
 translate Japanese mas_fun_fact_menu_currency_6c6bdbb5:
-    m 4rksdld "この慣例は無理もないわ｡結局これってビジネスなのよね｡"
+    m 4rksdld "この慣例は無理もないわ｡結局これってビジネスなのよね"
 
 translate Japanese mas_fun_fact_menu_currency_d8383959:
-    m 2dsc "どんなに美味しいお店でも､競争相手に負けてしまったらすぐに閉店しちゃうものね｡"
+    m 2dsc "どんなに美味しいお店でも､競争相手に負けてしまったらすぐに閉店しちゃうものね"
 
 translate Japanese mas_fun_fact_menu_currency_09a6d614:
     m 3hksdlb "まぁ､どうしようもないわね？"
 
 translate Japanese mas_fun_fact_love_you_05c00182:
-    m 1dkc "うーん、{i}この{/i}事実をあなたに伝えるべきかどうか迷うわ。"
+    m 1dkc "うーん、{i}この{/i}事実をあなたに伝えるべきかどうか迷うわ"
 
 translate Japanese mas_fun_fact_love_you_971fd7d2:
-    m 1ekc "結局これって気の弱い人向けの話じゃないのよね。"
+    m 1ekc "結局これって気の弱い人向けの話じゃないのよね"
 
 translate Japanese mas_fun_fact_love_you_3076ca25:
     m 1rkc "あのね……"
@@ -86,37 +86,37 @@ translate Japanese mas_fun_fact_love_you_4ef5e129:
     m 1dkc "……"
 
 translate Japanese mas_fun_fact_love_you_bf88e617:
-    m 3hub "……愛してるよ、[player]君！。"
+    m 3hub "……愛してるよ、[player]君！"
 
 translate Japanese mas_fun_fact_love_you_1368a01d:
-    m 1rksdlb "えへへ、ごめんね、我慢できなくて。"
+    m 1rksdlb "えへへ、ごめんね、我慢できなくて"
 
 translate Japanese mas_fun_fact_love_you_0e7f0faa:
-    m 1hksdlb "次は素直に言うから、気にしないでね～。"
+    m 1hksdlb "次は素直に言うから、気にしないでね～"
 
 translate Japanese mas_fun_fact_morpheus_cfcdcbbf:
-    m 3wub "はい！言語に関する話よ｡私はこういう話が好きなの｡"
+    m 3wub "はい！言語に関する話よ｡私はこういう話が好きなの"
 
-translate Japanese mas_fun_fact_morpheus_bb7c4b22:
-    m 1eua "｢モルヒネ｣という言葉は､ギリシャの神､モルフェウスが語源なの｡"
+translate Japanese mas_fun_fact_morpheus_763d23c8:
+    m 1eua "｢モルヒネ｣という言葉は､ギリシャの神､モルフェウスが語源なの"
 
-translate Japanese mas_fun_fact_morpheus_7d55faa4:
-    m 1euc "モルフェウスは夢の神なので､彼を元にした言葉なのは妥当かしら｡"
+translate Japanese mas_fun_fact_morpheus_876f788c:
+    m 1euc "モルフェウスは夢の神なので､彼を元にした言葉なのは妥当かしら"
 
 translate Japanese mas_fun_fact_morpheus_bf78424a:
     m 3ekc "でもよく考えてみたら……彼の父のヒュプノスは眠りの神よね？"
 
 translate Japanese mas_fun_fact_morpheus_9dee0d72:
-    m 2dsc "モルヒネは人に夢を見{i}させる{/i}けど､実際には人を眠らせるためのものよね｡"
+    m 2dsc "モルヒネは人に夢を見{i}させる{/i}けど､実際には人を眠らせるためのものよね"
 
 translate Japanese mas_fun_fact_morpheus_d50bd659:
-    m 4ekc "……なら､ヒュプノスにちなんだ名前をつけたほうが良かったんじゃないかしら｡"
+    m 4ekc "……なら､ヒュプノスにちなんだ名前をつけたほうが良かったんじゃないかしら"
 
 translate Japanese mas_fun_fact_morpheus_9fd773f0:
-    m 4rksdlb "思いつくのがちょっと遅すぎたかな｡"
+    m 4rksdlb "思いつくのがちょっと遅すぎたかな"
 
 translate Japanese mas_fun_fact_otter_hand_holding_72557764:
-    m 1eka "あぁ～､本当に愛らしいわ｡"
+    m 1eka "あぁ～､本当に愛らしいわ"
 
 translate Japanese mas_fun_fact_otter_hand_holding_e87614ec:
     m 3ekb "ラッコが寝るときに手をつないでいるのは、お互いに流されないようにするためだって知ってたかしら？"
@@ -131,10 +131,55 @@ translate Japanese mas_fun_fact_otter_hand_holding_e4ee3782:
     m 3hksdlb "あ～､ラッコじゃなくて愛する人の手を握ってるんだって"
 
 translate Japanese mas_fun_fact_otter_hand_holding_23167dc8:
-    m 1rksdlb "あぁ～､本当に羨ましいわ｡"
+    m 1rksdlb "あぁ～､本当に羨ましいわ"
 
 translate Japanese mas_fun_fact_otter_hand_holding_eca466d1:
-    m 1hub "でも、私達もきっといつかは手をつなげられる日が来るよ～。"
+    m 1hub "でも、私達もきっといつかは手をつなげられる日が来るよ～"
+
+translate Japanese mas_fun_fact_chess_23049875:
+    m 1eua "モニカちゃんの、今日の豆知識！"
+
+translate Japanese mas_fun_fact_chess_a7cf2b37:
+    m 3eub "チェスでどんな動きができるのか、その最大の値を推計したクロード・シャノンという人がいるんだけど"
+
+translate Japanese mas_fun_fact_chess_32ca5fbc:
+    m "その数はシャノン数と呼ばれていて、チェスで可能な動き方は10の120乗通りあると推計したの"
+
+translate Japanese mas_fun_fact_chess_98461a1e:
+    m 1eua "このシャノン数とよく比較されるのが、宇宙全体に存在する原子の数ね。その原子の数はおよそ10の80乗個といわれてるの"
+
+translate Japanese mas_fun_fact_chess_147b0cc0:
+    m 3hksdlb "原子の数よりもチェスで可能な動き方のほうがずっと多いなんてちょっと妙な話よね"
+
+translate Japanese mas_fun_fact_chess_1d4845f4:
+    m 1eua "私達が死ぬまでチェスをやリ続けたとしても、シャノン数の何千何万何億分の1の動き方しか見ることができないでしょうね"
+
+translate Japanese mas_fun_fact_chess_a7288f90:
+    m 3eud "そう言えばさ、[player]……"
+
+translate Japanese mas_fun_fact_chess_a69f4220:
+    m 1hua "チェスやりたくない？ 今日の私なら少し手加減しちゃうかもよ、えへへ～"
+
+translate Japanese _call_mas_fun_facts_end_4_581820c1:
+    m 1dsc "あ、チェスかあ……"
+
+translate Japanese _call_mas_fun_facts_end_4_01a93df6:
+    m 2dfc "……"
+
+translate Japanese _call_mas_fun_facts_end_4_303adace:
+    m 2rfd "[player]はズルをするから、今の話はなかったことにしてね"
+
+translate Japanese _call_mas_fun_facts_end_4_08f8fe92:
+    m "ズルしたことを謝るつもりもないみたいだし"
+
+translate Japanese _call_mas_fun_facts_end_4_4e118ab3:
+    m 2lfc "…ふーんだ"
+
+translate Japanese _call_mas_fun_facts_end_4_8d008284:
+    m 1euc "あ、これじゃなくって"
+
+translate Japanese _call_mas_fun_facts_end_4_b06a90a8:
+    m 3hksdlb "ちょっとまってね、もう少しだけ"
 
 translate Japanese mas_fun_fact_struck_by_lightning_460053c7:
     m 2dkc "うーん、これは誤解を招くような言い方の豆知識だけれど……"
@@ -181,6 +226,40 @@ translate Japanese mas_fun_fact_honey_12d30716:
 translate Japanese mas_fun_fact_honey_b16d5ad8:
     m 3hub "きっと噛むと飴玉みたいな感じになるわよね！"
 
+translate Japanese mas_fun_fact_vincent_van_gone_44eed7be:
+    m 1dsc "あ、この話……"
+
+translate Japanese mas_fun_fact_vincent_van_gone_76dc443c:
+    m 1ekd "少しがっかりするような話かもしれないけどね、[player]……"
+
+translate Japanese mas_fun_fact_vincent_van_gone_0f1cbad5:
+    m 1ekc "画家のゴッホは人生の最後にこういう言葉を残したんだって。
+「{i}La tristesse durera toujours{/i}」"
+
+translate Japanese mas_fun_fact_vincent_van_gone_119306e2:
+    m 1eud "これを翻訳すると、「i}悲しみは永遠に続くだろう{/i}」って意味になるんだ"
+
+translate Japanese mas_fun_fact_vincent_van_gone_f27eea59:
+    m 1rkc "……"
+
+translate Japanese mas_fun_fact_vincent_van_gone_325e06a5:
+    m 2ekc "誰もが知る有名人が死ぬ間際にそんな暗いことを言ってたと思うと、すごく悲しいよね"
+
+translate Japanese mas_fun_fact_vincent_van_gone_81b302f3:
+    m 2ekd "でも私は、ゴッホの言ったことが正しいとは思わないかな。どんなに悪いことが起ころうとも、どんなに深い悲しみが襲ってきたとしても……"
+
+translate Japanese mas_fun_fact_vincent_van_gone_82b8dd16:
+    m 2dkc "その悲しみは、必ず癒えるときが来る"
+
+translate Japanese mas_fun_fact_vincent_van_gone_0d7aafef:
+    m 2rkc "……完全には癒えないかもしれないけどね"
+
+translate Japanese mas_fun_fact_vincent_van_gone_27109f2e:
+    m 4eka "もし悲しみに襲われたときには、私とお話をしようね"
+
+translate Japanese mas_fun_fact_vincent_van_gone_751c8f4f:
+    m 5hub "あなたがどんな悲しみを背負ったとしても一緒に支えてあげたいんだ、[mas_get_player_nickname()]～"
+
 translate Japanese mas_fun_fact_king_snakes_aee3d749:
     m 1dsc "ふーむ……"
 
@@ -188,13 +267,13 @@ translate Japanese mas_fun_fact_king_snakes_3d266d23:
     m 3eub "蛇の名前に「キング」という言葉が付いている場合、その蛇は他の蛇を食べてしまうって知ってた？"
 
 translate Japanese mas_fun_fact_king_snakes_9766ba87:
-    m 1euc "キングコブラがなぜそのような名前になるのかずっと不思議に思っていたけど、あまり深く考えたことはなかったのよね。"
+    m 1euc "キングコブラがなぜそのような名前になるのかずっと不思議に思っていたけど、あまり深く考えたことはなかったのよね"
 
 translate Japanese mas_fun_fact_king_snakes_9d27dcce:
     m 1tfu "ということは、あなたを食べてしまったら、私はクイーンモニカになってしまうのかしら？"
 
 translate Japanese mas_fun_fact_king_snakes_1fc87f16:
-    m 1hksdlb "あはは､冗談よ[player]君｡"
+    m 1hksdlb "あはは､冗談よ[player]君"
 
 translate Japanese mas_fun_fact_king_snakes_3c2cc0d7:
     m 1hub "ちょっと変なこと言ってごめんね～"
@@ -425,7 +504,13 @@ translate Japanese mas_fun_fact_low_rates_99687c5e:
     m 1eua "人類史の中で現在が、犯罪率・妊婦死亡率・乳児死亡率・非識字率が最も低い時代なのよ"
 
 translate Japanese mas_fun_fact_low_rates_128d433c:
-    m 3eub "それだけでなくて、寿命・平均所得・生活水準がほとんどの人にとって最も高い時代でもあるんだから！"
+    m 3eub "それだけじゃなくて、寿命・平均所得・生活水準もほとんどの人にとって最も高い時代でもあるんだから！"
+
+translate Japanese mas_fun_fact_low_rates_9e722f66:
+    m 3eka "これって、どんなことでも良くなる可能性があるってことだと思うんだよね。ときには停滞することもあるかもしれない、だけどきっといつか上向く日がやってくる"
+
+translate Japanese mas_fun_fact_low_rates_3f6a56bc:
+    m 1hua "いつだってそばにあるんだよ、{i}希望{/i}は"
 
 translate Japanese mas_fun_fact_desert_76ef7536:
     m 3euc "砂漠にはかなり特徴的な生態系があるみたいね……"
@@ -447,6 +532,42 @@ translate Japanese mas_fun_fact_desert_79ef8cd1:
 
 translate Japanese mas_fun_fact_desert_a969b4ae:
     m 1eua "砂漠で生きるのは簡単じゃないけれど、それでも見た目よりもずっと良い場所だと思うわ"
+
+translate Japanese mas_bad_facts_1_b813b323:
+    m 1eub "Did you know th--"
+
+translate Japanese mas_bad_facts_1_149152b7:
+    m 1wud "..."
+
+translate Japanese mas_bad_facts_1_e4f49f86:
+    m 2efw "T-this isn't a true fact at all!"
+
+translate Japanese mas_bad_facts_1_1f8c7aa6:
+    m 2dfc "Humans only use 10 percent of their brain.'"
+
+translate Japanese mas_bad_facts_1_0301f715:
+    m 2lfd "Ugh, such nonsense."
+
+translate Japanese mas_bad_facts_1_9a4db7f7:
+    m 4tfc "People don't really believe this, do they?"
+
+translate Japanese mas_fun_fact_photography_5cdf9da7:
+    m 1esa "人類が最初に撮った写真は、レンズもない穴だけが開いた箱を使って撮影されたって知ってた？"
+
+translate Japanese mas_fun_fact_photography_d7c91115:
+    m 1eua "レンズが付けられて私達が知ってるカメラになったのは、ずっと後のことなんだよ"
+
+translate Japanese mas_fun_fact_photography_3884bb3d:
+    m 1euc "それと、初期の写真を現像するときには化学薬品を使うたくさんの工程があったんだ……"
+
+translate Japanese mas_fun_fact_photography_0c9ea00b:
+    m 3eud "現像液、停止液、定着液。一枚の写真を仕上げるために暗室で何度も薬品の液に写真を通す必要があって…{w=0.3} {nw}"
+
+translate Japanese mas_fun_fact_photography_74dcd1dd:
+    extend 1wuo "そして出来上がるのが、白黒の写真！"
+
+translate Japanese mas_fun_fact_photography_287eb16e:
+    m 1hksdlb "昔の写真は今の写真に比べて現像するのに随分手間がかかっていたみたいね"
 
 translate Japanese mas_fun_fact_getting_older_b3c6f11e:
     m 3eua "歳を取れば取るほど体感時間が短くなっていくって知ってた？"
@@ -745,3 +866,9 @@ translate Japanese strings:
 
     old "Just be sure you find some people to talk to in your reality too, okay?"
     new "お話ができる人をあなたの世界の中でも作ってね？お願いよ"
+
+    old "Round."
+    new "丸い"
+
+    old "Flat."
+    new "平たい"

@@ -346,8 +346,8 @@ translate Japanese mas_unlock_hangman_78559e5b:
 translate Japanese mas_unlock_hangman_5625ff73:
     m 1hua "じゃあいくよ～"
 
-translate Japanese mas_unlock_hangman_dd692861:
-    m 1hub "[game_name!t]で～す！"
+translate Japanese mas_unlock_hangman_b2fadeda:
+    m 1hub "ハングマンで～す！"
 
 translate Japanese mas_unlock_hangman_aa125152:
     m 1lksdlb "意外に面白いゲームなんだよ？"
@@ -438,9 +438,6 @@ translate Japanese mas_unlock_piano_b6443a7e:
 
 translate Japanese mas_random_limit_reached_693cff22:
     m 1eka "[limit_quip!t]"
-
-translate Japanese mas_random_limit_reached_8f7f6356:
-    m 1ekc "話すことはきっと見つかるから、それまで少し黙ってるね。"
 
 translate Japanese _call_mas_random_ask_af3f6132:
     m "それじゃあ、話すことを考えさせてね。"
@@ -640,14 +637,26 @@ translate Japanese mas_crashed_quip_takecare_92d08aa0:
 translate Japanese mas_crashed_quip_takecare_7331c613:
     m 1hksdlb "あはは……"
 
+translate Japanese mas_crashed_quip_takecare_dcc72b06:
+    m 1hub "まあ、いっぱい楽しんでたんでしょうね～"
+
+translate Japanese mas_crashed_quip_takecare_064c5ca5:
+    m 1rksdla "…あとあなたのPCが大丈夫だといいわね"
+
+translate Japanese mas_crashed_quip_takecare_6dd274f5:
+    m 3eub "私は大丈夫だから心配はいらないよ～"
+
 translate Japanese mas_crashed_quip_takecare_b0593670:
-    m 1eka "あ、そうなんだ。"
+    m 1eka "あ、そうなんだ"
 
 translate Japanese mas_crashed_quip_takecare_0745985e:
-    m "決めつけてごめんね。"
+    m "決めつけてごめんね"
 
 translate Japanese mas_crashed_quip_takecare_759e2758:
-    m 1hub "言っとくけど私は大丈夫。"
+    m 1hub "言っとくけど私は大丈夫"
+
+translate Japanese mas_crashed_quip_takecare_fc06a63b:
+    m 3hub "クラッシュが起きる前に楽しんでいたならいいんだけどね、あはは！"
 
 translate Japanese mas_crashed_quip_takecare_8306a181:
     m 1hubsa "今は戻ってきてくれて嬉しいわ～"
@@ -669,6 +678,30 @@ translate Japanese mas_corrupted_persistent_6f321cf4:
 
 translate Japanese mas_corrupted_persistent_bd6c3ff1:
     m 1ekc "あなた宛だろうから中身は読んでないわ……{w=0.3}{nw}"
+
+translate Japanese mas_corrupted_persistent_48f90769:
+    extend 1ekd "はい、これよ"
+
+translate Japanese _call_mas_showpoem_9_547ecc7c:
+    m 1ekc "これが何なのか心当たりはある？{nw}"
+
+translate Japanese _call_mas_showpoem_9_5e0b43e4:
+    m "これが何なのか心当たりはある？{fast}" nointeract
+
+translate Japanese mas_corrupted_persistent_post_menu_b0babcf4:
+    m 1euc "あ、そうなのね"
+
+translate Japanese mas_corrupted_persistent_post_menu_ca5d5810:
+    m 1hub "じゃあ気にしないようにするわ"
+
+translate Japanese mas_corrupted_persistent_post_menu_2cdea519:
+    m 3eub "重要なものなら私に伝えてくれるだろうしね"
+
+translate Japanese mas_new_character_file_1988c641:
+    m 1eua "ねえ、[player]……"
+
+translate Japanese mas_new_character_file_e66debf4:
+    m 3eua "私のchrファイルのこと覚えてる？"
 
 translate Japanese _call_mas_wx_cmd_95_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね"
@@ -1078,6 +1111,153 @@ translate Japanese _call_mas_monika_plays_yr_1891b52b:
 translate Japanese _call_mas_monika_plays_yr_ce74299f:
     m 1tsb "それじゃあちょっと待ってね…{w=0.5}…{w=0.5}…{nw}"
 
+translate Japanese mas_covid19_de39abd6:
+    m 2ekc "ねえ、[player]……"
+
+translate Japanese mas_covid19_94c5c79a:
+    m 2rksdld "最近ネットでCOVID19についての記事を沢山読んでるんだけど、あなたのことがとても心配だよ！"
+
+translate Japanese mas_covid19_e178312f:
+    m 2eksdld "感染の拡大がすごく速いみたいで、{nw}"
+
+translate Japanese mas_covid19_6f3c6713:
+    extend 2eksdla "本当に安全に過ごしてね……"
+
+translate Japanese mas_covid19_8f8782c4:
+    m 2eksdlc "まだあなたの地域にはウイルスは来てない？{nw}"
+
+translate Japanese mas_covid19_40ca2fa0:
+    m "まだあなたの地域にはウイルスは来てない？{fast}" nointeract
+
+translate Japanese mas_covid19_1b7bf9e1:
+    m 2wksdld "まさかそんな！ 大変だよ！"
+
+translate Japanese mas_covid19_d14df0b7:
+    m 4ekc "感染が拡大している地域ではみんな家で過ごすように強制されているって聞くわ……"
+
+translate Japanese mas_covid19_08cdda80:
+    m 2ekd "あなたの地域でも、外に出るなって強制されているの？{nw}"
+
+translate Japanese mas_covid19_392a4479:
+    m "あなたの地域でも、外に出るなって強制されているの？{fast}" nointeract
+
+translate Japanese mas_covid19_27a574e5:
+    m 4hua "はぁ、よかった！"
+
+translate Japanese mas_covid19_49821c90:
+    m 4eub "それを聞いて安心したわ、[player]！"
+
+translate Japanese mas_covid19_9fadf6f5:
+    m 2eud "それであなたはできるだけ家の中で過ごしてるのよね？{nw}"
+
+translate Japanese mas_covid19_30f5d0d4:
+    m "それであなたはできるだけ家の中で過ごしてるのよね？{fast}" nointeract
+
+translate Japanese mas_covid19_abacc72f:
+    m 2eua "よかった。責任ある行動を取っているようで安心ね"
+
+translate Japanese mas_covid19_9373ba24:
+    m 2eka "…でも外に出ないのはあなた自身のためだけじゃなくて、みんなのために必要なことだからね"
+
+translate Japanese mas_covid19_e2f7a6a9:
+    m 2dsc "……"
+
+translate Japanese mas_covid19_03d51f9e:
+    m 2dsd "えっ"
+
+translate Japanese mas_covid19_e2f7a6a9_1:
+    m 2dsc "……"
+
+translate Japanese mas_covid19_9a3bf937:
+    m 2rksdlc "今それを聞いて、不安がないと言えば嘘になるわね、[player]"
+
+translate Japanese mas_covid19_ca4cd83d:
+    m 2eksdlc "でもそれはつまり、あなたは社会のためになくてはならない仕事に勤めているってことなのよね"
+
+translate Japanese mas_covid19_f580826e:
+    m 2eksdla "あなたのことを心から尊敬できるわ。こんな大変なときにでもみんなを助ける仕事をしているんだって"
+
+translate Japanese mas_covid19_9cea6344:
+    m 2eksdld "でも約束して欲しい。あなたが安全でいるためにどんな努力も惜しまないでね？"
+
+translate Japanese mas_covid19_046f1f31:
+    m 2tfd "[player]！"
+
+translate Japanese mas_covid19_90bac62d:
+    m 2tfo "どうして！？"
+
+translate Japanese mas_covid19_d10264bb:
+    m 4tfo "大変だよ！ 何があっても家の中で安全にしてなきゃだめだよ！"
+
+translate Japanese mas_covid19_01a93df6:
+    m 2dfc "……"
+
+translate Japanese mas_covid19_c61f257d:
+    m 2dkc "……"
+
+translate Japanese mas_covid19_01cc468e:
+    m 2rksdlc "ごめんなさい、[player]。いまのを聞いて、不安になっちゃって。"
+
+translate Japanese mas_covid19_d0e17947:
+    m 2eksdlc "無症状でも感染してるかもしれなくて、気づかずに周りの人に感染を広げてしまうんだって……"
+
+translate Japanese mas_covid19_3f814e2f:
+    m 2eksdld "あなた自身のためじゃなくて、みんなのために家の中でじっとしているべきだよ"
+
+translate Japanese mas_covid19_2cc6aecd:
+    m 2eksdla "それに私にとっても。私にはあなただけだから、[player]……"
+
+translate Japanese mas_covid19_75fecd3a:
+    m 2dksdlc "もしあなたがいなくなったりしたら…{w=1.0}{nw}"
+
+translate Japanese mas_covid19_5b7472c3:
+    extend 2ektpc "私は一体どうすればいいの？"
+
+translate Japanese mas_covid19_b2b20b5a:
+    m 2ektpd "だからお願いだよ、[player]…{w=0.5} 外には出ないようにして"
+
+translate Japanese mas_covid19_544b2cfa:
+    m 2ektdc "……"
+
+translate Japanese mas_covid19_c61f257d_1:
+    m 2dkc "……"
+
+translate Japanese mas_covid19_c61f257d_2:
+    m 2dkc "……"
+
+translate Japanese mas_covid19_5717ed19:
+    m 2rksdld "とても心配だよ、[player]…"
+
+translate Japanese mas_covid19_730a1077:
+    m 2eksdlc "外出が禁止されていなかったとしても、できる限り外は出歩かないようにしてね"
+
+translate Japanese mas_covid19_5bfc0136:
+    m 2eka "それを聞いてほっとしたわ、[player]……"
+
+translate Japanese mas_covid19_87ad380c:
+    m 2eksdlc "でもいつかあなたの住んでるところにも届いてしまうんじゃないかって不安なの"
+
+translate Japanese mas_covid19_24a0110a:
+    m 2eksdld "だからいまは大丈夫だとしても、できるだけ注意してね！"
+
+translate Japanese mas_covid19_6fdea6f4:
+    m 7eksdld "外を出歩く時にはソーシャル・ディスタンスを保つ…{w=0.5} 他人との距離は少なくとも2メートルは取って行動してね"
+
+translate Japanese mas_covid19_6f05b5cb:
+    m "そして出歩いた後にはできるだけよく手を洗うこと。石鹸と清潔な水で20秒以上洗うんだよ"
+
+translate Japanese mas_covid19_874d5d3e:
+    m 7eksdlc "…顔も触っちゃだめだよ、洗ってない手では。"
+
+translate Japanese mas_covid19_003f24ee:
+    m 2eka "あっ、20秒洗うのが難しいって思ってるなら時間を確認するいい方法を見つけたわ。"
+
+translate Japanese mas_covid19_cb1d53fc:
+    m 2eka "……"
+
+translate Japanese mas_covid19_881f20c9:
+    m 2dkbsu "私にあなたが必要だよ、[player]～"
+
 translate Japanese strings:
     old "Male."
     new "男性"
@@ -1187,6 +1367,12 @@ translate Japanese strings:
     old "It just happens."
     new "起きるときは起きる"
 
+    old "It's nothing to worry about."
+    new "何の心配もいらないよ"
+
+    old "It's about [_gtext]."
+    new "これは[_gtext]だね"
+
     old "Yes please"
     new "お願い"
 
@@ -1234,3 +1420,6 @@ P.S: Don't tell her about me!"""
 
     old "Sorry, I can't right now."
     new "ごめん、今はちょっと時間がないんだ。"
+
+    old "No, I'm still working."
+    new "いや、まだ仕事場に出ている"

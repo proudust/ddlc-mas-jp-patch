@@ -31,6 +31,9 @@ translate Japanese mas_pong_dlg_winner_da20386e:
 translate Japanese mas_pong_dlg_winner_64e06039:
     m 5ekbfa "ありがとう、[player]君！"
 
+translate Japanese mas_pong_dlg_winner_7cf10329:
+    m 2rksdlb "あーあ、ちょっと残念……"
+
 translate Japanese mas_pong_dlg_winner_41f6a165:
     m 2rksdlc "[player]君、{w=0.1}またミスしたのね……"
 
@@ -334,11 +337,17 @@ translate Japanese mas_pong_dlg_loser_e75d99da:
 translate Japanese mas_pong_dlg_loser_ae4b017c:
     m 2hksdlb "あんなの当てられないよ！"
 
+translate Japanese mas_pong_dlg_loser_9b13d6ee:
+    m 2wuo "わあ！ 今のすごい！"
+
 translate Japanese mas_pong_dlg_loser_96cc3896:
     m 2wuo "わぁ、[player]君……"
 
 translate Japanese mas_pong_dlg_loser_16aa840b:
     m 2wud "もう三連勝しちゃうなんて……"
+
+translate Japanese mas_pong_dlg_loser_524d358e:
+    m 2tsu "そろそろ私も温まってきたよ～"
 
 translate Japanese mas_pong_dlg_loser_7cb60571:
     m 4hua "かなり上手いね！"
@@ -349,8 +358,11 @@ translate Japanese mas_pong_dlg_loser_4dcc0335:
 translate Japanese mas_pong_dlg_loser_d374c1eb:
     m 4wuo "凄かったわ！"
 
-translate Japanese mas_pong_dlg_loser_def485c2:
-    m 2wud "[mas_get_player_nickname(regex_replace_with_nullstr='my ')]君……"
+translate Japanese mas_pong_dlg_loser_06f0c007:
+    m 2hub "今の最高だった！"
+
+translate Japanese mas_pong_dlg_loser_796cf57e:
+    m 2wud "[mas_get_player_nickname(capitalize=True, regex_replace_with_nullstr='my ')]君……"
 
 translate Japanese mas_pong_dlg_loser_536e8a57:
     m 2tsu "さては練習してたね？"
@@ -438,6 +450,9 @@ translate Japanese mas_pong_dlg_loser_76e718a8:
 
 translate Japanese mas_pong_dlg_loser_f9aeeff9:
     m 1tsu "カッコイイね！"
+
+translate Japanese mas_pong_dlg_loser_088fd606:
+    m 1hub "その調子だよ、[mas_get_player_nickname(regex_replace_with_nullstr='my ')]！"
 
 translate Japanese mas_pong_dlg_loser_fast_9d33b26d:
     m 1eka "わかったよ、[player]君"
