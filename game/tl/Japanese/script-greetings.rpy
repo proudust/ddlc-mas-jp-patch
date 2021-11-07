@@ -1829,11 +1829,8 @@ translate Japanese greeting_long_absence_72ec2cd9:
 translate Japanese greeting_long_absence_61a916d4:
     m 3eka "ほんとに久しぶりだね、ずっと忙しかったんでしょ？"
 
-translate Japanese greeting_long_absence_59ace2eb:
+translate Japanese greeting_long_absence_8db412f4:
     m 1eua "留守の間どうしてたのか今度聞かせてね"
-
-translate Japanese greeting_long_absence_4c44bd0e:
-    m 1hub "身の回りで起こったこと、あなたのこと全部知りたいな"
 
 translate Japanese greeting_long_absence_0a09d382:
     m 1lsc "……"

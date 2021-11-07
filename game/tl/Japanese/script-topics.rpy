@@ -2884,6 +2884,9 @@ translate Japanese monika_cold_fbd16bea:
 translate Japanese monika_cold_54a13c73:
     m 1hua "寄り添うのに合うのは寒い天気よね。うふふっ！{w=0.2}{nw}"
 
+translate Japanese monika_cold_a4b5997d:
+    extend 1hub "あはは！"
+
 translate Japanese monika_housewife_2a9cc27a:
     m 3euc "なんだか面白いのよね。私っていつもやる気はあったけど……"
 
@@ -13731,11 +13734,62 @@ translate Japanese monika_players_control_aba07d7f:
 translate Japanese monika_players_control_10f5859e:
     m 5ekbfa "愛する人のそばでやることほど、ゲームを楽しむ方法なんて存在しないわ。"
 
+translate Japanese monika_backpacking_4a65f3a5:
+    m 1esa "私ね、ずっとやりたかったことがあるんだよね"
+
+translate Japanese monika_backpacking_5fe03f7d:
+    m 3eub "ずっと思ってたの、バックパックを担いで大自然の中を旅できたのなら、きっと楽しいだろうなって！"
+
+translate Japanese monika_backpacking_7e46b0af:
+    m 3eua "一週間くらい休みを取って、何もかもを放り出して旅に行くんだ"
+
+translate Japanese monika_backpacking_6f04d9f2:
+    m 3esa "責任、悩み事、携帯電話。気が散るようなものは全部放り投げていくの"
+
+translate Japanese monika_backpacking_3fa390c7:
+    m 1hua "イメージしてみて、自然に囲まれた場所で私とあなた、ふたりっきり……"
+
+translate Japanese monika_backpacking_57a49676:
+    m "聞こえてくるのは鳥のさえずりや風の吹く音だけ……"
+
+translate Japanese monika_backpacking_2716a200:
+    m 1eka "遠くには、朝露の滴る瑞々しい草で食事をしている鹿たち……"
+
+translate Japanese monika_backpacking_87e1837b:
+    m "こんなに安らかになれることって他に無いと思うわ"
+
+translate Japanese monika_backpacking_dd76b532:
+    m 1esa "神秘的な森、静かな牧草地、なだらかに続く丘。そんなところを二人で一緒に歩いてゆくの……"
+
+translate Japanese monika_backpacking_3f8c9753:
+    m 3hub "ひとけのない湖を見つけて、一緒に泳ぐのもいいかもね！"
+
+translate Japanese monika_backpacking_07b03b50:
+    m 2rsbsa "きっとバックパックに水着は入れてきてないけど、でも私たちしかいない場所だからね。水着なんて必要ないね……"
+
 translate Japanese monika_backpacking_9baf76f6:
     m 2tsbsa "……"
 
+translate Japanese monika_backpacking_3a7dbf6e:
+    m 1hubfu "そんなに恥ずかしがらなくていいよ、[mas_get_player_nickname()]、えへへ～"
+
+translate Japanese monika_backpacking_7cd62565:
+    m 1ekbfa "夜は並んで寝袋に入って互いを暖めあいながら、夜空にきらめく何十億もの星を見上げて過ごすの……"
+
+translate Japanese monika_backpacking_83332ff5:
+    m 3hubfb "そして、かがやくような朝の光で目覚める！"
+
+translate Japanese monika_backpacking_ffded79f:
+    m 3eka "毎晩きらめく星空の下で眠り、毎朝かがやく日の出に目覚める"
+
 translate Japanese monika_backpacking_c2eaa7af:
     m 5esbfa "……"
+
+translate Japanese monika_backpacking_fdfafe3f:
+    m "ねえ[player]、まるで天国のように素敵な楽園だとおもわない？"
+
+translate Japanese monika_backpacking_b8db1e85:
+    m 5hubfa "一緒にあなたと旅をできる日が待ち遠しいな～"
 
 translate Japanese monika_dating_startdate_2ddb11a2:
     m 1lsc "付き合い始めたのは……"
@@ -19283,6 +19337,9 @@ translate Japanese strings:
 
     old "Especially with you by my side~"
     new "あなたがそばにいるから尚更ね！"
+
+    old "Backpacking"
+    new "大自然を旅する"
 
     old "When did we start dating?"
     new "いつから付き合ってたっけ？"

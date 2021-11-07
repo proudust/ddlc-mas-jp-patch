@@ -581,6 +581,9 @@ translate Japanese strings:
     old "I'll be right back"
     new "すぐ戻る"
 
+    old "Doing anything specific?"
+    new "いまからやることって、この中のどれ？"
+
     old "I'm going to get something."
     new "何か取ってくる"
 
@@ -595,9 +598,6 @@ translate Japanese strings:
 
     old "Someone's at the door."
     new "ちょっと来客がきた"
-
-    old "Doing anything specific?"
-    new "いまからやることって、この中のどれ？"
 
     old "I'm going to write for a bit"
     new "ちょっと書き物をしてくる"

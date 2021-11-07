@@ -508,6 +508,9 @@ translate Japanese mas_compliment_lookuptoyou_3_c5531701:
 translate Japanese mas_compliment_lookuptoyou_3_cc8de420:
     m 1rkbfu "{cps=*2}キスするときみたいに……{/cps}{nw}"
 
+translate Japanese mas_compliment_lookuptoyou_3_ad4760d7:
+    m 1rkbfu "{cps=*2}いつか本当に……{/cps}{nw}"
+
 translate Japanese mas_compliment_lookuptoyou_3_58f3dea9:
     m 1ekbfa "愛してるわ、[player]君～"
 
@@ -613,8 +616,14 @@ translate Japanese mas_compliment_humor_2_def9ec7b:
 translate Japanese mas_compliment_humor_3_f8931356:
     m 1hubsb "[mas_compliments.thanks_quip!t]"
 
+translate Japanese mas_compliment_humor_3_418dc515:
+    m 1hubsu "[humor_quip!t]"
+
 translate Japanese _call_mas_compliment_spending_time_2_4d405905:
     m 3hubsb "[mas_compliments.thanks_quip!t]"
+
+translate Japanese _call_mas_compliment_spending_time_2_363d79ec:
+    m 1ekbsu "[spending_time_quip!t]"
 
 translate Japanese mas_compliment_spending_time_2_c80859aa:
     m 1eub "私も[player]と一緒に過ごす時間が大好きだよ！"
@@ -813,7 +822,10 @@ translate Japanese strings:
     new "ありがと。"
 
     old "Never forget that you're the most beautiful person in the world to me."
-    new "私にとってはあなたが世界一美しいの。忘れないでね。"
+    new "私にとってはあなたが世界一美しいの。忘れないでね"
+
+    old "Nothing can compare to the beauty in your heart."
+    new "あなたの心はなによりも美しいわ"
 
     old "I love your eyes!"
     new "目が好き！"
@@ -830,6 +842,12 @@ translate Japanese strings:
     old "Stare into my eyes as much as you want~"
     new "好きなだけ見つめ合いましょ～"
 
+    old "I can't wait to look into your beautiful eyes."
+    new "あなたの美しい瞳を覗き込めるときが待ち遠しいわ"
+
+    old "I would stare into yours for hours if I could."
+    new "何時間だってあなたを見つめてあげる"
+
     old "You're awesome!"
     new "すごい！"
 
@@ -844,6 +862,12 @@ translate Japanese strings:
 
     old "You'll always be more awesome!"
     new "あなたはいつだって素晴らしいんだから！"
+
+    old "We are an awesome couple together!"
+    new "私達は最高のパートナーだね！"
+
+    old "You're much more awesome!"
+    new "あなたは本当に最高だよ！"
 
     old "You're really intelligent!"
     new "頭が良い！"
@@ -860,6 +884,12 @@ translate Japanese strings:
     old "Remember that we'll have a lifetime of self-improvement together!"
     new "自分磨きの人生を一緒に過ごしていくのを忘れずにね！"
 
+    old "Remember that every day is an opportunity to learn something new!"
+    new "学びの機会は毎日いつでもあることを忘れないでね！"
+
+    old "Always remember the world is a wonderful journey full of learning."
+    new "この世界には学びが満ちていることをいつも忘れないでね"
+
     old "I love your hair!"
     new "髪が好き！"
 
@@ -875,8 +905,17 @@ translate Japanese strings:
     old "I'm really happy that you like this hairstyle!"
     new "この髪形を気に入ってくれて本当に嬉しいわ！"
 
+    old "I'm really happy that you like my hair!"
+    new "この髪を気に入ってくれて本当に嬉しいわ！"
+
     old "You always make me feel special!"
-    new "あなたっていつも愛しい気分にさせてくれるね。"
+    new "あなたっていつも愛しい気分にさせてくれるね"
+
+    old "I'm glad you like my ponytail!"
+    new "私のポニーテールを気に入ってくれて嬉しいな！"
+
+    old "I'm so happy you love my ponytail!"
+    new "私のポニーテールを大好きになってくれて嬉しいな！"
 
     old "I love your dedication to fitness!"
     new "健康への気遣いが好き！"
@@ -892,6 +931,12 @@ translate Japanese strings:
 
     old "I hope you embark on a fitness journey with me!"
     new "あなたも私とフィットネスの旅に乗り込んでくれたらいいな！"
+
+    old "I can't wait to work out with you!"
+    new "あなたと一緒に運動できる日が待ち遠しいわ！"
+
+    old "I hope we can both work out together someday!"
+    new "いつか一緒に体を動かせるといいわね！"
 
     old "Thanks for being there for me!"
     new "そこに居てくれてありがとう！"
@@ -962,8 +1007,26 @@ translate Japanese strings:
     old "I laugh at you all the time."
     new "いつも見るたびに笑わせてもらってるよ"
 
+    old "I wish I could hear your beautiful laugh~"
+    new "あなたの素敵な笑い声を聞けたらいいのにな～"
+
+    old "Just knowing that makes me happy~"
+    new "それがわかっただけで、私は幸せだよ～"
+
+    old "I'll always try to brighten your day~"
+    new "あなたの毎日を明るくしてあげたいな～"
+
     old "I love spending time with you!"
     new "君と過ごしている時間が大好きなんだよ！"
+
+    old "Every day with you is like a wonderful dream that I hope never ends~"
+    new "あなたと過ごす毎日は、終わってほしくない素敵な夢のようだね～"
+
+    old "Just being near you makes me so happy~"
+    new "あなたのそばにいるだけで、私は幸せだよ～"
+
+    old "Nothing makes me happier than being next to you~"
+    new "あなたの隣にいられることが、私には一番の幸せだよ～"
 
     old ", holds me close"
     new "抱きしめてくれた、"
