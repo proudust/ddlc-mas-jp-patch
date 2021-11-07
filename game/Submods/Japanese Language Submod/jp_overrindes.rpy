@@ -87,10 +87,7 @@ translate Japanese style check_button_text:
 translate Japanese style check_button_text_dark:
     font jpfonts.Mikachan
 
-translate Japanese style outfit_check_button_text:
-    font jpfonts.Mikachan
-
-translate Japanese style outfit_check_button_text_dark:
+translate Japanese style chibika_note_text:
     font jpfonts.Mikachan
 
 translate Japanese style twopane_scrollable_menu_button:
@@ -99,13 +96,20 @@ translate Japanese style twopane_scrollable_menu_button:
 translate Japanese style twopane_scrollable_menu_button_dark:
     padding (17, 5, 17, 5)
 
+# styles.rpy
+translate Japanese style generic_fancy_check_button_text:
+    font jpfonts.Mikachan
+
+translate Japanese style generic_fancy_check_button_text_dark:
+    font jpfonts.Mikachan
+
 translate Japanese screen:
     # 名前入力の制限撤廃
     screen name_input(message, ok_action):
         modal True
         zorder 200
         style_prefix "confirm"
-        add "gui/overlay/confirm.png"
+        add mas_getTimeFile("gui/overlay/confirm.png")
         key "K_RETURN" action [Play("sound", gui.activate_sound), ok_action]
         frame:
             has vbox:
