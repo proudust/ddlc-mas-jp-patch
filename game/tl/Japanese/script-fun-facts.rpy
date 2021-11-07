@@ -851,6 +851,72 @@ translate Japanese mas_fun_fact_monochrome_dreams_e5aa39a0:
 translate Japanese mas_fun_fact_monochrome_dreams_c04ac450:
     m 3eua "学ぶべき教訓があるとすれば、[player]君はどのメディアを使って情報を得ていくかというのよくよく考えておくべきだ、ってことかな。"
 
+translate Japanese mas_fun_fact_round_earth_a6309de3:
+    m 1rsa "うーん……"
+
+translate Japanese mas_fun_fact_round_earth_6228f0d4:
+    m 1eua "ねえ[player]、地球は丸いと思う？それとも平たいと思う？{nw}"
+
+translate Japanese mas_fun_fact_round_earth_b4861dcd:
+    m "ねえ[player]、地球は丸いと思う？それとも平たいと思う？{fast}" nointeract
+
+translate Japanese mas_fun_fact_round_earth_17122ba3:
+    m 3hua "その通り！今の時代ではほとんどの人が地球は丸いと考えているわ"
+
+translate Japanese mas_fun_fact_round_earth_32f61b70:
+    m 3hksdlb "え。ちょっと待ってよ、[player]！ 私をからかってるわけじゃないでしょうね？"
+
+translate Japanese mas_fun_fact_round_earth_5a9ec011:
+    m 1eua "実は、地球が丸いということはかなり昔の時代から知られていたの"
+
+translate Japanese mas_fun_fact_round_earth_fc7a515c:
+    m 3esd "紀元前4世紀にはすでにアリストテレスは地球が丸い球体であることを予想していたんだよ"
+
+translate Japanese mas_fun_fact_round_earth_3dfd6c5a:
+    m 3esa "地球上の場所によって見える星と見えない星があることから、アリストテレスは地球が丸いと考えたの。もし平面ならそんなことが起こるはずがない、ってね"
+
+translate Japanese mas_fun_fact_round_earth_2dd18362:
+    m 1eua "古代の天文学者や数学者たちは、実際に人類が地球を一周するよりもはるか昔に地球が球体であることがわかっていたのね"
+
+translate Japanese mas_fun_fact_round_earth_a45c98e3:
+    m 7rksdla "でも地球は宇宙の中心なんじゃないかって？{w=0.2} {nw}"
+
+translate Japanese mas_fun_fact_round_earth_710aef0a:
+    extend 4hksdlb "そんなまさか！"
+
+translate Japanese mas_fun_fact_round_earth_18e12b3f:
+    m 7dsd "地球が宇宙の中心かどうかという問は、長い間論争になった問なのよ。それも生死にかかわるような論争にね"
+
+translate Japanese mas_fun_fact_round_earth_8369785a:
+    m 1dkd "天文学者のガリレイは地球は宇宙の中心ではないと発言したという理由で、裁判にかけられてしまったのよ。{w=0.2} {nw}"
+
+translate Japanese mas_fun_fact_round_earth_256cfb21:
+    extend 1esc "そしてガリレイは軟禁を命じられ、余生を自宅の中だけで過ごしたの"
+
+translate Japanese mas_fun_fact_round_earth_09b9142c:
+    m 3euc "でも天体の観測精度が上がるにつれて、地球が宇宙の中心であるという説の辻褄がだんだん合わなくなってくるの"
+
+translate Japanese mas_fun_fact_round_earth_fff48a31:
+    m 1eud "地球が平面だとしたら、金星や火星が日によって見える大きさ違うのはどうしてなのか。その辻褄を合わせるためには、とても複雑な天体モデルを構築するはめになったの"
+
+translate Japanese mas_fun_fact_round_earth_1b89d6b5:
+    m 3eua "そして前に言ったように、太陽ですらも宇宙の中心ではない、{nw}"
+
+translate Japanese mas_fun_fact_round_earth_d2907a59:
+    m 3eua "そして今日では、太陽ですらも宇宙の中心ではない、{nw}"
+
+translate Japanese mas_fun_fact_round_earth_5b13c4b5:
+    extend "銀河にある無数の星のひとつでしかないことがわかっているの"
+
+translate Japanese mas_fun_fact_round_earth_b50b4fad:
+    m 1msblu "じゃあ今、宇宙の中心はどこにあると言われてるか知ってる？"
+
+translate Japanese mas_fun_fact_round_earth_a2b760a9:
+    m 3kubsu "それはあなたよ。あなたこそが私の宇宙の中心なんだからね、[mas_get_player_nickname()]"
+
+translate Japanese mas_fun_fact_round_earth_8df8d080:
+    m 3hubsb "なんてね、あはは！"
+
 translate Japanese strings:
     old "Can you tell me a fun fact?"
     new "豆知識を教えてくれない？"
