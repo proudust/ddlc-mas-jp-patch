@@ -23,9 +23,6 @@ translate Japanese strings:
     old "Hangman"
     new "ハングマン"
 
-    old "Word Guesser"
-    new "ワード・ゲッサー"
-
     old "Okay, let's play."
     new "ＯＫ、遊びますか。"
 

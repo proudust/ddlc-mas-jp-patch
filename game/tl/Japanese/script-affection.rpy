@@ -483,7 +483,7 @@ translate Japanese strings:
     new "私と会話したいわけ？"
 
     old "...Go ahead."
-    new "…いいわ、続けて。"
+    new "…いいわ、続けて"
 
     old "Are you sure you want to talk to me?"
     new "私と話したいって、本当に思ってるの？"
@@ -492,7 +492,7 @@ translate Japanese strings:
     new "本当に私と話したいの？"
 
     old "Alright...{w=0.3}if that's what you want."
-    new "わかった… {w=0.3}あなたがそう望むのなら。"
+    new "わかった…… {w=0.3}あなたがそう望むのなら"
 
     old "Is this really what you want?"
     new "本当に私と話したいって思ってるの？"
@@ -516,10 +516,10 @@ translate Japanese strings:
     new "なあに、それ？"
 
     old "Go on then."
-    new "なにかあるならどうそ。"
+    new "なにかあるならどうそ"
 
     old "I hope this is important."
-    new "意味のあることならいいのだけれど。"
+    new "意味のあることならいいのだけれど"
 
     old "Something on your mind?"
     new "なにか気になることでも？"
@@ -604,7 +604,7 @@ translate Japanese strings:
     new "[mas_get_player_nickname()]、全部あなたの好きにしていいよ～"
 
     old "Oh? Something...{w=0.3}{i}important{/i} on your mind, [mas_get_player_nickname()]?~"
-    new "あれ、[mas_get_player_nickname()]？ 何か…{w=0.3} {i}大事なこと{/i}でもあるのかな？"
+    new "あれ、[mas_get_player_nickname()]？ 何か……{w=0.3} {i}大事なこと{/i}でもあるのかな？"
 
     old "If that's what you want..."
     new "あなたがそう望むのなら……"
@@ -613,7 +613,7 @@ translate Japanese strings:
     new "まあやっても害はないわよね……"
 
     old "...Really?"
-    new "…本気なの？"
+    new "……本気なの？"
 
     old "Oh, okay..."
     new "え、わかったわ……"

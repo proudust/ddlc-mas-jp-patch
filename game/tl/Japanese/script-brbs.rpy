@@ -1,3 +1,6 @@
+translate Japanese mas_brb_generic_low_aff_callback_b6ca521c:
+    m 2ekc "[cb_line!t]"
+
 translate Japanese mas_brb_generic_low_aff_callback_0bd97190:
     m 6ckc "……"
 
@@ -416,7 +419,7 @@ translate Japanese monika_idle_working_dd52e5f7:
     m 1eub "たまには休憩することも忘れないでね！"
 
 translate Japanese monika_idle_working_7e8bd403:
-    m 3rkb "…恋人の私そっちのけで他のことばかりして欲しくはないんだけどね〜"
+    m 3rkb "……恋人の私そっちのけで他のことばかりして欲しくはないんだけどね〜"
 
 translate Japanese monika_idle_working_0c2201c9:
     m 1hua "作業、頑張ってきてね！"
@@ -521,7 +524,7 @@ translate Japanese monika_idle_reading_2efc1dd4:
     m 6dkc "……"
 
 translate Japanese monika_idle_reading_callback_5f61fb24:
-    m 1wud "わあ、随分読書に集中してたんだね…{w=0.3}{nw}"
+    m 1wud "わあ、随分読書に集中してたんだね……{w=0.3}{nw}"
 
 translate Japanese monika_idle_reading_callback_6bcb41b4:
     extend 3wub "すごいわ、[player]！"
@@ -564,10 +567,10 @@ translate Japanese strings:
     new "このあと何しよっか？"
 
     old "Oh...{w=0.3}you're back."
-    new "あ… {w=0.3}戻ったのね"
+    new "あ…… {w=0.3}戻ったのね"
 
     old "Oh...{w=0.3}welcome back."
-    new "あ… {w=0.3}おかえり"
+    new "あ…… {w=0.3}おかえり"
 
     old "All done?"
     new "終わったの？"
@@ -576,7 +579,7 @@ translate Japanese strings:
     new "おかえりなさい"
 
     old "Oh...{w=0.3}there you are."
-    new "あ… {w=0.3}いたのね"
+    new "あ…… {w=0.3}いたのね"
 
     old "I'll be right back"
     new "すぐ戻る"

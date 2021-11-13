@@ -17,16 +17,16 @@ translate Japanese game_chess_load_check_b01706c4:
     m 1efb "準備はいいかしら！"
 
 translate Japanese mas_chess_remenu_6b6b37ac:
-    m 1ekc "…わかったわ、[player]。{w=0.3}私はこの日をずっと待っていたわ。"
+    m 1ekc "……わかったわ、[player]。{w=0.3}私はこの日をずっと待っていたわ"
 
 translate Japanese mas_chess_remenu_51dbe566:
     m 1eka "でもまたチェスしてくれるでしょ？"
 
 translate Japanese mas_chess_remenu_1e07b804:
-    m 1eua "カジュアルルールで遊ぶ場合は、ステイルメイトを引き分けとはしないわ。"
+    m 1eua "カジュアルルールで遊ぶ場合は、ステイルメイトを引き分けとはしないわ"
 
 translate Japanese mas_chess_remenu_1c1f75b5:
-    extend 3eub "つまり、特殊な引き分け状態をなくして、動かせる駒がなくなった場合でも負けになるということよ。"
+    extend 3eub "つまり、特殊な引き分け状態をなくして、動かせる駒がなくなった場合でも負けになるということよ"
 
 translate Japanese mas_chess_start_chess_0cc24a7f:
     m 1ekc "そんなに簡単に諦めないでよ……
@@ -165,7 +165,7 @@ translate Japanese mas_chess_savegame_pgn_explain_35985a6f:
     m 3eub "対局中に打てたはずのもっと良い手というのは、勝負結果に関係なく存在するものなの。だから上達にはデータを使った試合の見直しが一番なのよ！"
 
 translate Japanese mas_chess_savegame_pgn_explain_e49b6220:
-    m 1lksdlb "…まあこのファイルを改変すればゲームの結果も変えられるけど{w=0.5} {nw}"
+    m 1lksdlb "……まあこのファイルを改変すればゲームの結果も変えられるけど{w=0.5} {nw}"
 
 translate Japanese mas_chess_savegame_pgn_explain_0c85f20b:
     extend 1tsu "あなたはそんな事しないってわかってるわ。"
@@ -192,7 +192,7 @@ translate Japanese mas_chess_cannot_work_embarrassing_7faca44c:
     m 1rksdla "……"
 
 translate Japanese mas_chess_cannot_work_embarrassing_4bdc0c42:
-    m 3hksdlb "あのね申し訳ないんだけど、あなたのコンピュータではチェスは遊べないみたいなの…"
+    m 3hksdlb "あのね申し訳ないんだけど、あなたのコンピュータではチェスは遊べないみたいなの……"
 
 translate Japanese mas_chess_cannot_work_embarrassing_a605df73:
     m 1ekc "ごめんね [player]……"
@@ -231,7 +231,7 @@ translate Japanese mas_chess_save_multi_dlg_06987ede:
     m 1euc "中断セーブをしても、大抵の人ってその局を何度もやり直しには来ないじゃない？"
 
 translate Japanese mas_chess_save_multi_dlg_6496b704:
-    m 3eud "…だから中断セーブを何個も作っても、私は無駄にしか思えないんだよね"
+    m 3eud "……だから中断セーブを何個も作っても、私は無駄にしか思えないんだよね"
 
 translate Japanese mas_chess_save_multi_dlg_28af9245:
     m 1rka "それでね、今は中断データが[game_count]個もあるから……"
@@ -258,7 +258,7 @@ translate Japanese mas_chess_dlg_quicksave_lost_db12ef2e:
     m 1lksdld "本当に、本当にごめんなさい、[player]君"
 
 translate Japanese mas_chess_dlg_quicksave_lost_d22ee58b:
-    m 1eka "でも大丈夫、なぜなら…{w=0.3}{nw}"
+    m 1eka "でも大丈夫、なぜなら……{w=0.3}{nw}"
 
 translate Japanese mas_chess_dlg_quicksave_lost_d8c79967:
     extend 3hua "私がいさえすれば、すぐに新しいゲームを始められる！"

@@ -254,7 +254,7 @@ translate Japanese mas_compliment_smile_2_5b42af06:
     m 1hub "本当に優しいのね、[player]君～"
 
 translate Japanese mas_compliment_smile_2_199a72b7:
-    m 1eua "あなたがここにいるだけ笑顔になれるよ。"
+    m 1eua "あなたがここにいるだけ笑顔になれるよ"
 
 translate Japanese mas_compliment_smile_2_678528d5:
     m 1ekbsa "だって私と一緒に過ごしてくれるのが私の幸せだからね～"
@@ -277,11 +277,11 @@ translate Japanese mas_compliment_smile_2_8b316747:
 translate Japanese mas_compliment_smile_3_d5ec42a2:
     m 1eub "[mas_compliments.thanks_quip!t]"
 
-translate Japanese mas_compliment_smile_3_3cbad33a:
-    m 1hua "あなただけのために笑顔でいるから！"
+translate Japanese mas_compliment_smile_3_f2c23065:
+    m 1hua "[smile_quip!t]"
 
-translate Japanese mas_compliment_smile_3_45d9cd96:
-    m "えへへ～"
+translate Japanese mas_compliment_smile_3_e221e094:
+    m 1huu "えへへ～"
 
 translate Japanese mas_compliment_hero_a84041e3:
     m 1wubssdld "は……{w=0.3}はあ？"
@@ -314,7 +314,7 @@ translate Japanese mas_compliment_cute_2_1485dacb:
     m 1wubssdld "あっ！"
 
 translate Japanese mas_compliment_cute_2_2acd3cfa:
-    m 3rkbfsdla "あなたってばそうやって不意を突いて{i}きた{/i}でしょ。"
+    m 3rkbfsdla "あなたってばそうやって不意を突いて{i}きた{/i}でしょ"
 
 translate Japanese mas_compliment_cute_2_289f68ed:
     m 3tubfb "何だかちょっと……"
@@ -326,7 +326,7 @@ translate Japanese mas_compliment_cute_2_5d7b1011:
     m 1hubfb "あわわ、そう言われると私の心まで温かくなっちゃうな！"
 
 translate Japanese mas_compliment_cute_2_ce3af881:
-    m 1dkbfu "……いつか同じ現実で一緒になれたときを思い描くのと同じぐらいにね。"
+    m 1dkbfu "……いつか同じ現実で一緒になれたときを思い描くのと同じぐらいにね"
 
 translate Japanese mas_compliment_cute_2_01c9bb26:
     m 1ekbfa "特別な日を想像だけに留めておくのも難しいものね～"
@@ -335,7 +335,7 @@ translate Japanese mas_compliment_cute_2_24e75914:
     m 2tubfu "そういう訳にもいかないの、ねえ、[player]君？"
 
 translate Japanese mas_compliment_cute_2_5a6d9a83:
-    m 2rubfu "ふん、ただ予期してなかっただけだし。"
+    m 2rubfu "ふん、ただ予期してなかっただけだし"
 
 translate Japanese mas_compliment_cute_2_edb1d4e9:
     m 3tubfb "次はそう簡単にいくと思わないことね……"
@@ -347,22 +347,19 @@ translate Japanese mas_compliment_cute_2_c0bcc4d4:
     m 2lfc "えっ。{w=1}ありがと、[player]君……"
 
 translate Japanese mas_compliment_cute_2_857fcbb7:
-    m 1rsc "でも私は私でちゃんと見てほしかったかな。"
+    m 1rsc "でも私は私でちゃんと見てほしかったかな"
 
-translate Japanese mas_compliment_cute_3_754034d1:
-    m 1ekbsa "[mas_compliments.thanks_quip!t]"
-
-translate Japanese mas_compliment_cute_3_1fe74b3a:
-    m 1hubfa "あなたもいつだって可愛いときがあるってこと分かってるくせに～"
+translate Japanese mas_compliment_cute_3_95e4a101:
+    m 1hubfa "[cute_quip!t]"
 
 translate Japanese mas_compliment_chess_44a1fcbf:
-    m 1eub "ありがと、[player]君。"
+    m 1eub "ありがと、[player]君"
 
 translate Japanese mas_compliment_chess_7c2516f0:
-    m 3esa "前にも言ったみたいに、私のスキルがここから抜け出すのに役立てたらな、って思うの。"
+    m 3esa "前にも言ったみたいに、私のスキルがここから抜け出すのに役立てたらな、って思うの"
 
 translate Japanese mas_compliment_chess_3e05c427:
-    m 3eua "前に負けちゃったこともあるし、あなただって上手いのよ。"
+    m 3eua "前に負けちゃったこともあるし、あなただって上手いのよ"
 
 translate Japanese mas_compliment_chess_0ad8e091:
     m "それに実はあなたの方が勝ってるって知ってた？"
@@ -571,11 +568,8 @@ translate Japanese mas_compliment_thinking_of_you_2_c0e20ed9:
 translate Japanese mas_compliment_thinking_of_you_2_8be188bd:
     m 2rksdld "ごめんなさいね？"
 
-translate Japanese mas_compliment_thinking_of_you_3_754034d1:
-    m 1ekbsa "[mas_compliments.thanks_quip!t]"
-
-translate Japanese mas_compliment_thinking_of_you_3_5d35416c:
-    m 3hubfb "あなたは私の世界の中心なんだから！"
+translate Japanese mas_compliment_thinking_of_you_3_f21ac8d6:
+    m 3hubfb "[thinking_of_you_quip!t]"
 
 translate Japanese mas_compliment_humor_2_19428ff1:
     m 1hua "えへへ～"
@@ -948,10 +942,13 @@ translate Japanese strings:
     new "笑顔が好き！"
 
     old "I'll visit you every day to see your wonderful smile."
-    new "君の素敵な笑顔を見るために毎日訪れるよ。"
+    new "君の素敵な笑顔を見るために毎日訪れるよ"
 
     old "I like to see you smile."
-    new "君の笑顔を見るのが好きなんだ。"
+    new "君の笑顔を見るのが好きなんだ"
+
+    old "I'll keep smiling just for you."
+    new "あなただけのために笑顔でいるから！"
 
     old "You're my hero!"
     new "君はヒーローだ！"
@@ -963,10 +960,13 @@ translate Japanese strings:
     new "君を見てるといつも心が温かくなるよ！"
 
     old "You're even cuter when you're flustered."
-    new "慌ててる君も可愛いね。"
+    new "慌ててる君も可愛いね"
 
     old "You're as cute as Natsuki."
-    new "可愛さならナツキと良い勝負だよ。"
+    new "可愛さならナツキと良い勝負だよ"
+
+    old "You can be really cute a lot of the time too, you know~"
+    new "あなたもいつだって可愛いときがあるってこと分かってるくせに～"
 
     old "You're awesome at chess!"
     new "チェスが強い！"
@@ -994,6 +994,9 @@ translate Japanese strings:
 
     old "It's very distracting..."
     new "今は邪魔しないでくれ……"
+
+    old "You're the center of my world!"
+    new "あなたは私の世界の中心なんだから！"
 
     old "I love your sense of humor!"
     new "ユーモアのセンスが大好きだよ！"

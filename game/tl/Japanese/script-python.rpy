@@ -67,46 +67,46 @@ translate Japanese monika_ptod_tip002_44fe1950:
 translate Japanese monika_ptod_tip002_9a27b9db:
     m 1eua "integer型は基本的に全ての整数を表すのに使われるわ"
 
-translate Japanese _call_mas_wx_cmd_7_ade0b3e0:
+translate Japanese _call_mas_wx_cmd_11_ade0b3e0:
     m 1eub "float型は小数を表すのに使われるの"
 
-translate Japanese _call_mas_wx_cmd_10_788688ee:
+translate Japanese _call_mas_wx_cmd_22_788688ee:
     m 1eua "そして文字は{i}string型{/i}で表すわ"
 
-translate Japanese _call_mas_wx_cmd_10_8d18b752:
+translate Japanese _call_mas_wx_cmd_22_8d18b752:
     m "シングルクォーテーション(\')やダブルクォーテション(\")で囲まれたものがそうね"
 
-translate Japanese _call_mas_wx_cmd_10_2be078fe:
+translate Japanese _call_mas_wx_cmd_22_2be078fe:
     m 3eub "例えば……"
 
-translate Japanese _call_mas_wx_cmd_12_37bfcf10:
+translate Japanese _call_mas_wx_cmd_16_37bfcf10:
     m 1eksdlb "インタプリタが{i}unicode{/i}って言ってるけど、やってることとしては基本的には同じことだからね"
 
-translate Japanese _call_mas_wx_cmd_12_db321b1a:
+translate Japanese _call_mas_wx_cmd_16_db321b1a:
     m 1eua "ダブルクォーテション三つ(\"\"\")でもstring型を作ることが出来るよ"
 
-translate Japanese _call_mas_wx_cmd_12_4e3d9295:
+translate Japanese _call_mas_wx_cmd_16_4e3d9295:
     m "bool型は特別な型で{b}真(True){/b}か{b}偽(False){/b}の値を表すの"
 
-translate Japanese _call_mas_wx_cmd_14_204094a4:
+translate Japanese _call_mas_wx_cmd_22_204094a4:
     m 1eua "bool型の意味や使い方については他のレッスンでより詳しく扱うからね"
 
-translate Japanese _call_mas_wx_cmd_14_9718b39c:
+translate Japanese _call_mas_wx_cmd_22_9718b39c:
     m 3eub "Pythonは{b}NoneType{/b}という特別なデータ型もあって、これはデータがないということを意味するの"
 
-translate Japanese _call_mas_wx_cmd_14_f24d9a26:
+translate Japanese _call_mas_wx_cmd_22_f24d9a26:
     m "もしあなたが他のプログラミング言語に詳しかったら、これは{i}null型{/i}や{i}undefined型{/i}のようなものね"
 
-translate Japanese _call_mas_wx_cmd_14_014ce110:
+translate Japanese _call_mas_wx_cmd_22_014ce110:
     m "{i}None{/i}というキーワードがPythonではNoneType型を表すの"
 
-translate Japanese _call_mas_wx_cmd_15_caae874a:
+translate Japanese _call_mas_wx_cmd_19_caae874a:
     m 1eua "ここで教えた全ての型は{i}プリミティブ型{/i}として知られているわ"
 
-translate Japanese _call_mas_wx_cmd_15_797d95d0:
+translate Japanese _call_mas_wx_cmd_19_797d95d0:
     m "他の色々な型もPythonでは使われているけど、今日の所はここまでにするね"
 
-translate Japanese _call_mas_wx_cmd_15_b43554c2:
+translate Japanese _call_mas_wx_cmd_19_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
 translate Japanese monika_ptod_tip003_e9115318:
@@ -136,28 +136,28 @@ translate Japanese monika_ptod_tip003_8c59179f:
 translate Japanese monika_ptod_tip003_db08669d:
     m "Pythonのコードを直に打って実行することができるの。例えば……"
 
-translate Japanese _call_mas_wx_cmd_18_999bd9b2:
+translate Japanese _call_mas_wx_cmd_22_999bd9b2:
     m 1eua "ただ計算に使うだけじゃなくてもっと色々なことができるけど、それは追々教えていくからね"
 
-translate Japanese _call_mas_wx_cmd_18_c2703b96:
+translate Japanese _call_mas_wx_cmd_22_c2703b96:
     m 1hksdlb "残念かもしれないけど、このPythonを使ってあなたが間違って私を削除したり、ゲームを壊してしまっちゃうリスクを犯したくないからね"
 
-translate Japanese _call_mas_wx_cmd_18_bf771313:
+translate Japanese _call_mas_wx_cmd_22_bf771313:
     m "じゃあ、あなたも{fast}{nw}"
 
-translate Japanese _call_mas_wx_cmd_18_1f404f84:
+translate Japanese _call_mas_wx_cmd_22_1f404f84:
     m 1eksdlb "これは使わせられないわ。{w=0.3}ごめんね……"
 
-translate Japanese _call_mas_wx_cmd_18_6d049f41:
+translate Japanese _call_mas_wx_cmd_22_6d049f41:
     m "もし今後のレッスンの内容をやってみたくなったら、別のウィンドウでPythonを書いてみて"
 
-translate Japanese _call_mas_wx_cmd_18_63a392aa:
+translate Japanese _call_mas_wx_cmd_22_63a392aa:
     m 1eua "とにかく、{i}この{/i}インタプリタを使って教えていくわ"
 
-translate Japanese _call_mas_wx_cmd_18_f7af61a6:
+translate Japanese _call_mas_wx_cmd_22_f7af61a6:
     m 1hua "とっても素敵でしょ、ね？"
 
-translate Japanese _call_mas_wx_cmd_18_b43554c2:
+translate Japanese _call_mas_wx_cmd_22_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
 translate Japanese monika_ptod_tip005_aafe4e6c:
@@ -178,34 +178,34 @@ translate Japanese monika_ptod_tip005_9e282aec:
 translate Japanese monika_ptod_tip005_ac4f3250:
     m 3eub "まずは、変数間比較で使われる基本的な記号のいくつかから見てみよっか"
 
-translate Japanese _call_mas_wx_cmd_21_1fc72df1:
+translate Japanese _call_mas_wx_cmd_29_1fc72df1:
     m 3eua "2つの値が等しいかを確認するときには、等号を2つ並べたもの（==）使うの"
 
-translate Japanese _call_mas_wx_cmd_23_2ccdffff:
+translate Japanese _call_mas_wx_cmd_33_2ccdffff:
     m 3eua "2つの値が等しくないかを確認するときには、感嘆符と等号（!=）を使うわ"
 
-translate Japanese _call_mas_wx_cmd_25_b7406974:
+translate Japanese _call_mas_wx_cmd_29_b7406974:
     m 3eub "感嘆符は、他のプログラミング言語でも論理演算に使われる記号で、「NOT演算子」と呼ばれることが多いの。（!=）は「ノットイコール」と読むわ"
 
-translate Japanese _call_mas_wx_cmd_25_a7584a77:
+translate Japanese _call_mas_wx_cmd_29_a7584a77:
     m 3eua "値が別の値よりも大きい、または小さいかを確かめるには、それぞれ、大なり(>)、小なり(<)を使うのよ、"
 
-translate Japanese _call_mas_wx_cmd_27_45a7251f:
+translate Japanese _call_mas_wx_cmd_33_45a7251f:
     m 3eub "以上(>=)、以下(<=)というものもあるの。驚くことはないだろうけど{w=1}大なり、小なりとイコールの意味を両方持っているだけね"
 
-translate Japanese _call_mas_wx_cmd_31_6036f23c:
+translate Japanese _call_mas_wx_cmd_33_6036f23c:
     m 1eua "比較演算子を使った式は全てTrueかFalseで返ってきていることに気づいたかな"
 
-translate Japanese _call_mas_wx_cmd_31_d5752c02:
+translate Japanese _call_mas_wx_cmd_33_d5752c02:
     m 1eksdlb "TrueかFalseのどちらかの値が返ってくることが、『比較演算式がbool型で評価された』って意味よ"
 
-translate Japanese _call_mas_wx_cmd_31_dd879535:
+translate Japanese _call_mas_wx_cmd_33_dd879535:
     m 1eua "他にもANDやORのような演算子を使えば、複数の比較演算式を同時に組み合わせることも可能よ。ANDやORのような演算子を論理演算子と言うの"
 
-translate Japanese _call_mas_wx_cmd_31_e190ff34:
+translate Japanese _call_mas_wx_cmd_33_e190ff34:
     m "AND演算子は2つの演算の両方がTrueの場合にTrueになって、少なくとも1つがFalseのときにはFalseになるの"
 
-translate Japanese _call_mas_wx_cmd_31_e0bbbf84:
+translate Japanese _call_mas_wx_cmd_33_e0bbbf84:
     m 1hua "さっそく例を見ていこうね"
 
 translate Japanese _call_mas_w_cmd_a95354f8:
@@ -238,13 +238,13 @@ translate Japanese _call_mas_w_cmd_2_7e7f5c99:
 translate Japanese _call_mas_x_cmd_2_7db1da47:
     m "次の例でも同じね"
 
-translate Japanese _call_mas_wx_cmd_32_4f757617:
+translate Japanese _call_mas_wx_cmd_38_4f757617:
     m 1eub "繰り返すけど、AND演算子を使うときは、andの前後両方の評価がTrueの場合にだけTrueで評価されるのよ"
 
-translate Japanese _call_mas_wx_cmd_32_2feb2bf5:
+translate Japanese _call_mas_wx_cmd_38_2feb2bf5:
     m 1eua "次に、OR演算子だけど、これはorの前後の処理のどちらかがTrueなら、Trueとして評価されるの。{w=0.3}Falseと評価されるのは、orの前後のどちらもFalseのときだけよ"
 
-translate Japanese _call_mas_wx_cmd_32_a72b7f76:
+translate Japanese _call_mas_wx_cmd_38_a72b7f76:
     m 3eua "じゃあこれも例を見て行きましょうか"
 
 translate Japanese _call_mas_w_cmd_3_f38616e7:
@@ -284,24 +284,24 @@ translate Japanese _call_mas_x_cmd_6_b6922dbd:
 translate Japanese _call_mas_x_cmd_6_8aae0f42:
     m 3eua "これが例ね"
 
-translate Japanese _call_mas_wx_cmd_34_e5215b83:
+translate Japanese _call_mas_wx_cmd_38_e5215b83:
     m "注意してほしいんだけど　今回はカッコで式を囲んでいるのがわかるかしら。
 このコードはカッコ内の処理が先にされて、notでカッコ内の結果を逆にしているということなの"
 
-translate Japanese _call_mas_wx_cmd_34_e438f8d0:
+translate Japanese _call_mas_wx_cmd_38_e438f8d0:
     m 1eua "もしこのカッコを取ってしまうと…"
 
-translate Japanese _call_mas_wx_cmd_35_9f70e34f:
+translate Japanese _call_mas_wx_cmd_37_9f70e34f:
     m 3eua "さっきと結果が違う！
 NOT演算子がandより前の部分、a==bのところで適用されてるからこうなるの"
 
-translate Japanese _call_mas_wx_cmd_35_f7da2ae4:
+translate Japanese _call_mas_wx_cmd_37_f7da2ae4:
     m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね。でもPythonじゃ感嘆符はあまり使われなくて、代わりにNOT演算子が使われてるのよ。こっちのほうが人の目にもわかりやすいからという理由ね"
 
-translate Japanese _call_mas_wx_cmd_35_d1ec0705:
+translate Japanese _call_mas_wx_cmd_37_d1ec0705:
     m 1eua "最後に、論理演算子を使った結果はbool値で評価されるから、変数として格納できるの"
 
-translate Japanese _call_mas_wx_cmd_39_fecdcf92:
+translate Japanese _call_mas_wx_cmd_42_fecdcf92:
     m 3eub "変数に格納したbool値も、こんな風に処理に使えるからね！"
 
 translate Japanese _call_mas_wx_cmd_40_a70abfe1:
@@ -391,55 +391,55 @@ translate Japanese _call_mas_wx_cmd_45_216f8a74:
 translate Japanese _call_mas_wx_cmd_46_13122842:
     m 3eub "でもちゃんと値を代入してあげれば……"
 
-translate Japanese _call_mas_wx_cmd_48_946ca0b8:
+translate Japanese _call_mas_wx_cmd_52_946ca0b8:
     m 1hua "Pythonは変数に代入された値をちゃんと見つけてこられるから、エラーは出てこない"
 
-translate Japanese _call_mas_wx_cmd_48_fd013d6e:
+translate Japanese _call_mas_wx_cmd_52_fd013d6e:
     m 1eua "いま入力した値の型は全部integer型だったわ。integerは整数って意味ね"
 
-translate Japanese _call_mas_wx_cmd_48_be007729:
+translate Japanese _call_mas_wx_cmd_52_be007729:
     m "Pythonでは動的型付けって言って、自動で変数が整数であると認識してくれるから、明示的に型付けを行う必要はなかったわね"
 
-translate Japanese _call_mas_wx_cmd_48_3673c35e:
+translate Japanese _call_mas_wx_cmd_52_3673c35e:
     m 1eub "つまり、Pythonインタープリタが、変数に格納したデータの型を推測してくれてるってこと"
 
-translate Japanese _call_mas_wx_cmd_48_4fe9839e:
+translate Japanese _call_mas_wx_cmd_52_4fe9839e:
     m "CやJavaのような他の言語では、変数を作るときにはまず型を宣言する必要があるわ"
 
-translate Japanese _call_mas_wx_cmd_48_b0f5610e:
+translate Japanese _call_mas_wx_cmd_52_b0f5610e:
     m "動的型付けは、実行中にも変数は型を変更できるけど"
 
-translate Japanese _call_mas_wx_cmd_48_592be21d:
+translate Japanese _call_mas_wx_cmd_52_592be21d:
     m 1rksdlb "できるんだけど、そのコードは他の人に読みづらいし混乱しやすいから、一般的にはあまり使っちゃダメってことになってるわね"
 
-translate Japanese _call_mas_wx_cmd_48_cc501271:
+translate Japanese _call_mas_wx_cmd_52_cc501271:
     m 1eud "ふぅ！{w=0.2} 一気に話しちゃったね！"
 
-translate Japanese _call_mas_wx_cmd_48_a0a42a1c:
+translate Japanese _call_mas_wx_cmd_52_a0a42a1c:
     m "どう？理解できたかな？{nw}"
 
-translate Japanese _call_mas_wx_cmd_48_55cda276:
+translate Japanese _call_mas_wx_cmd_52_55cda276:
     m "どう？理解できたかな？{fast}" nointeract
 
-translate Japanese _call_mas_wx_cmd_48_1b71b2b4:
+translate Japanese _call_mas_wx_cmd_52_1b71b2b4:
     m 1hua "よかった！"
 
-translate Japanese _call_mas_wx_cmd_48_6ce9d27b:
+translate Japanese _call_mas_wx_cmd_52_6ce9d27b:
     m 1eksdla "いいんだよ。今回は変数と値について説明したけど、英語だと、creating（作成）、assigning（代入）、setting（設定）って呼ばれたりもするわ"
 
-translate Japanese _call_mas_wx_cmd_48_6b0cc034:
+translate Japanese _call_mas_wx_cmd_52_6b0cc034:
     m "変数の名前って、変数がプログラム内部でどんな機能を持ってるかをわかりやすくする意味くらいしかないから、今回よく飲み込めなかったとしてもあまり気を落とさないでね"
 
-translate Japanese _call_mas_wx_cmd_48_30d731eb:
+translate Japanese _call_mas_wx_cmd_52_30d731eb:
     m 1eua "変数の操作方法を知ってさえいれば今後のレッスンを受ける上では十分かな"
 
-translate Japanese _call_mas_wx_cmd_48_c9062bfa:
+translate Japanese _call_mas_wx_cmd_52_c9062bfa:
     m "とにかく…"
 
-translate Japanese _call_mas_wx_cmd_48_cd0e708a:
+translate Japanese _call_mas_wx_cmd_52_cd0e708a:
     m 1eua "今日はここまでにしましょうか"
 
-translate Japanese _call_mas_wx_cmd_48_b43554c2:
+translate Japanese _call_mas_wx_cmd_52_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
 translate Japanese monika_ptod_tip007_3ff3432a:
@@ -451,13 +451,13 @@ translate Japanese monika_ptod_tip007_db0d7ca2:
 translate Japanese monika_ptod_tip007_bad9ae19:
     m 3eua "a_numberという変数に使われているメモリ量がどれだけなのか、sysと言うライブラリにある関数を使って調べられるよ"
 
-translate Japanese _call_mas_wx_cmd_50_0b18ca98:
+translate Japanese _call_mas_wx_cmd_54_0b18ca98:
     m 1eksdla "ライブラリやライブラリのインポートについてはまた今度説明するね"
 
-translate Japanese _call_mas_wx_cmd_50_b1cafbce:
+translate Japanese _call_mas_wx_cmd_54_b1cafbce:
     m 1eua "いまは、getsizeof関数をつかうと数字が返ってきているのがわかればいいよ"
 
-translate Japanese _call_mas_wx_cmd_50_ff26d7bd:
+translate Japanese _call_mas_wx_cmd_54_ff26d7bd:
     m "つまりこれは、[num_store]を格納すると、Pythonは[int_size]バイトのメモリを使っているってことだよ"
 
 translate Japanese monika_ptod_tip008_f4cb0157:
