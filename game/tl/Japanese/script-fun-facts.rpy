@@ -533,24 +533,6 @@ translate Japanese mas_fun_fact_desert_79ef8cd1:
 translate Japanese mas_fun_fact_desert_a969b4ae:
     m 1eua "砂漠で生きるのは簡単じゃないけれど、それでも見た目よりもずっと良い場所だと思うわ"
 
-translate Japanese mas_bad_facts_1_b813b323:
-    m 1eub "Did you know th--"
-
-translate Japanese mas_bad_facts_1_149152b7:
-    m 1wud "..."
-
-translate Japanese mas_bad_facts_1_e4f49f86:
-    m 2efw "T-this isn't a true fact at all!"
-
-translate Japanese mas_bad_facts_1_1f8c7aa6:
-    m 2dfc "Humans only use 10 percent of their brain.'"
-
-translate Japanese mas_bad_facts_1_0301f715:
-    m 2lfd "Ugh, such nonsense."
-
-translate Japanese mas_bad_facts_1_9a4db7f7:
-    m 4tfc "People don't really believe this, do they?"
-
 translate Japanese mas_fun_fact_photography_5cdf9da7:
     m 1esa "人類が最初に撮った写真は、レンズもない穴だけが開いた箱を使って撮影されたって知ってた？"
 

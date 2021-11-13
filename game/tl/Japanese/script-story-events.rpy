@@ -622,7 +622,7 @@ translate Japanese mas_crashed_long_fluster_9b278c39:
 translate Japanese mas_crashed_long_fluster_43c76e3c:
     m "{cps=*1.5}でも、こ……{w=0.3}今回は私のせいじゃないって思って、ほ……{w=0.3}本当に何も触ってないから……{/cps}{nw}"
 
-translate Japanese _call_expression_5_977643eb:
+translate Japanese _call_expression_8_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
@@ -682,10 +682,10 @@ translate Japanese mas_corrupted_persistent_bd6c3ff1:
 translate Japanese mas_corrupted_persistent_48f90769:
     extend 1ekd "はい、これよ"
 
-translate Japanese _call_mas_showpoem_9_547ecc7c:
+translate Japanese _call_mas_showpoem_11_547ecc7c:
     m 1ekc "これが何なのか心当たりはある？{nw}"
 
-translate Japanese _call_mas_showpoem_9_5e0b43e4:
+translate Japanese _call_mas_showpoem_11_5e0b43e4:
     m "これが何なのか心当たりはある？{fast}" nointeract
 
 translate Japanese mas_corrupted_persistent_post_menu_b0babcf4:

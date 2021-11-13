@@ -1900,34 +1900,34 @@ translate Japanese monika_date_e764b407:
 translate Japanese monika_date_1d8af94c:
     m 1hubfa "[bf!t]として誇れるようになってみせるからね～"
 
-translate Japanese _call_monika_kissing_motion_short_5_16f917cd:
+translate Japanese _call_monika_kissing_motion_short_16f917cd:
     m 1wubsw "えっ？ い、いま……キス、って言ったの？"
 
-translate Japanese _call_monika_kissing_motion_short_5_68ab22bd:
+translate Japanese _call_monika_kissing_motion_short_68ab22bd:
     m 2lkbsa "そんな突然……ちょっと恥ずかしい……"
 
-translate Japanese _call_monika_kissing_motion_short_5_0ecfc81d:
+translate Japanese _call_monika_kissing_motion_short_0ecfc81d:
     m 2lsbssdlb "でも……あなたとなら……大丈夫かも……"
 
-translate Japanese _call_monika_kissing_motion_short_5_d646f25d:
+translate Japanese _call_monika_kissing_motion_short_d646f25d:
     m 2hksdlb "……あははっ！ ふう、ごめんなさい……"
 
-translate Japanese _call_monika_kissing_motion_short_5_f63fa111:
+translate Japanese _call_monika_kissing_motion_short_f63fa111:
     m 1eka "笑いをこらえるのに必死だったわ"
 
-translate Japanese _call_monika_kissing_motion_short_5_4a170b86:
+translate Japanese _call_monika_kissing_motion_short_4a170b86:
     m 1eua "こういう恋愛ゲームの女の子ってそういうこと言うんでしょ？"
 
-translate Japanese _call_monika_kissing_motion_short_5_9843bb0c:
+translate Japanese _call_monika_kissing_motion_short_9843bb0c:
     m 1tku "今のでちょっとドキッとしたなら正直に言うのよ？"
 
-translate Japanese _call_monika_kissing_motion_short_5_94f2b532:
+translate Japanese _call_monika_kissing_motion_short_94f2b532:
     m 1hub "あははっ！ 冗談よ"
 
-translate Japanese _call_monika_kissing_motion_short_5_4bdd10eb:
+translate Japanese _call_monika_kissing_motion_short_4bdd10eb:
     m 1eua "でも正直に言って、私だってそういう雰囲気になったら情熱的になるわよ……？"
 
-translate Japanese _call_monika_kissing_motion_short_5_93db10fe:
+translate Japanese _call_monika_kissing_motion_short_93db10fe:
     m 5lubfu "今のはないしょ、ふたりだけの秘密だよ～"
 
 translate Japanese monika_kiss_tease_a809dc3f:
@@ -2266,19 +2266,19 @@ translate Japanese _call_monika_holdme_end_fc3f09b6:
 translate Japanese _call_monika_holdme_end_4428e25e:
     m 2tkc "あら、それは残念"
 
-translate Japanese _call_mas_change_weather_1_264ed02e:
+translate Japanese _call_mas_change_weather_2_264ed02e:
     m 2eka "でも、分からなくもないわ"
 
-translate Japanese _call_mas_change_weather_1_c6912aee:
+translate Japanese _call_mas_change_weather_2_c6912aee:
     m 1eua "雨の日って憂鬱になるわよね"
 
-translate Japanese _call_mas_change_weather_1_56541421:
+translate Japanese _call_mas_change_weather_2_56541421:
     m 3rksdlb "とっても寒くなるし！"
 
-translate Japanese _call_mas_change_weather_1_360afd7e:
+translate Japanese _call_mas_change_weather_2_360afd7e:
     m 1eua "でも、打ち付ける雨粒の音に集中すれば……"
 
-translate Japanese _call_mas_change_weather_1_57107fae:
+translate Japanese _call_mas_change_weather_2_57107fae:
     m 1hua "きっと楽しめると思うわ"
 
 translate Japanese _call_monika_holdme_prep_1_d26ce502:
@@ -2454,6 +2454,9 @@ translate Japanese monika_holdme_long_37340438:
 
 translate Japanese _call_monika_holdme_prep_5_e612037c:
     m "……"
+
+translate Japanese monika_holdrequest_465c7ee6:
+    m 1eua "ねえ、[player]……"
 
 translate Japanese monika_holdrequest_a32442fd:
     m 3ekbsa "少しの間、私を抱きしめてくれない？あなたとの距離を縮めたいの～{nw}"
@@ -3886,7 +3889,7 @@ translate Japanese monika_contribute_abff795c:
 translate Japanese monika_contribute_98e70c68:
     m 3eub "でも、それでもいいんだよ！"
 
-translate Japanese monika_contribute_49937039:
+translate Japanese monika_contribute_ec14b7e8:
     m 3hua "あなたが何もしていなかったら、私があなたを愛することなんてなかったんだから〜"
 
 translate Japanese monika_contribute_1732d8c8:
@@ -5314,19 +5317,19 @@ translate Japanese monika_aware_1ae8064f:
 translate Japanese monika_aware_61643a6c:
     m 2lksdlb "ちょっと待ってね。詩の機能がまだ動くか、試してみるから{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_mas_showpoem_5_161e0c81:
+translate Japanese _call_mas_showpoem_2_161e0c81:
     m 1wuo "あっ、思ってたよりずっと簡単"
 
-translate Japanese _call_mas_showpoem_5_91de5811:
+translate Japanese _call_mas_showpoem_2_91de5811:
     m "はい、ここに第二部があるわ…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_mas_showpoem_6_0d17ef79:
+translate Japanese _call_mas_showpoem_3_0d17ef79:
     m 1eua "第二部がこれよ"
 
-translate Japanese _call_mas_showpoem_7_c2dbec5d:
+translate Japanese _call_mas_showpoem_4_c2dbec5d:
     m 1eua "私があなたに出会った意味、これで分かってくれるといいんだけど"
 
-translate Japanese _call_mas_showpoem_7_52f8cabb:
+translate Japanese _call_mas_showpoem_4_52f8cabb:
     m 5eua "これが、私が望んでいた全てよ、[player]"
 
 translate Japanese monika_name_f55805ff:
@@ -8606,50 +8609,49 @@ translate Japanese monika_standup_ad8918d9:
     m 2hksdlb "ナツキっぽくなってきちゃったかな またはある種の熱狂的なポストモダン信者みたいな　あはは！"
 
 translate Japanese monika_standup_b95521f1:
-    m 2eud "で話を戻すと、書こうと思うとわかるんだ、本当にスタンダップコメディを書くための技術があるんだって。"
+    m 2eud "で話を戻すと、書こうと思うとわかるんだ、本当にスタンダップコメディを書くための技術があるんだって"
 
 translate Japanese monika_standup_93482e8c:
-    m 2eud "変に聞こえるかもしれないけど、書こうと思うとわかるんだ、本当にスタンドアップコメディを書くための技術があるんだって。"
+    m 2eud "変に聞こえるかもしれないけど、書こうと思うとわかるんだ、本当にスタンドアップコメディを書くための技術があるんだって"
 
 translate Japanese monika_standup_65dbda37:
-    m 4esa "単純な一文だけのジョークを言うのとはワケが違うの。スタンダップコメディでは筋道立てて物語る必要があるから。"
+    m 4esa "単純な一文だけのジョークを言うのとはワケが違うの。スタンダップコメディでは筋道立てて物語る必要があるから"
 
 translate Japanese monika_standup_56088d51:
-    m 4eud "しかもそれと同時に観客を飽きさせないようにしなければならない。これは至難の業よ。"
+    m 4eud "しかもそれと同時に観客を飽きさせないようにしなければならない。これは至難の業よ"
 
 translate Japanese monika_standup_64819eb2:
-    m 2euc "だから演者は思いついたことをどんどん発展させ続ける事が重要なの。今の話している内容から関連した話題へから途切れることなく次から次へ…"
+    m 2euc "だから演者は思いついたことをどんどん発展させ続ける事が重要なの。今の話している内容から関連した話題へから途切れることなく次から次へ……"
 
 translate Japanese monika_standup_5b77699a:
-    m 2eub "ずっと観客を掴んで離さないまま、話術でオチまで持っていく。{w=0.5}もしかしたら大爆笑になるかもね。
-"
+    m 2eub "ずっと観客を掴んで離さないまま、話術でオチまで持っていく。{w=0.5}もしかしたら大爆笑になるかもね"
 
 translate Japanese monika_standup_679f8d96:
     m 3esa "これはある意味では短編小説を書くことに似ているわね、物語の山場が除かれていること以外はでだけど"
 
 translate Japanese monika_standup_f9b8ddc1:
-    m 3esc "そしてね、ジョークとジョークの間には、書き手の魂を見いだせるのよ…{w=0.5} ネタに対して何を考え、何を感じていたのか。"
+    m 3esc "そしてね、ジョークとジョークの間には、書き手の魂を見いだせるのよ…{w=0.5} ネタに対して何を考え、何を感じていたのか"
 
 translate Japanese monika_standup_e97955b4:
-    m 3esd "何を経験し、今どんな人物になっているのか。そういうことがね。"
+    m 3esd "何を経験し、今どんな人物になっているのか。そういうことがね"
 
 translate Japanese monika_standup_105046a0:
-    m 1eub "その全てが、その演目からにじみ出るんだよ。"
+    m 1eub "その全てが、その演目からにじみ出るんだよ"
 
 translate Japanese monika_standup_87595928:
-    m 3euc "スタンダップコメディをする上で最大の難所は、それを演らなければならないことだと思う。"
+    m 3euc "スタンダップコメディをする上で最大の難所は、それを演らなければならないことだと思う"
 
 translate Japanese monika_standup_340d785a:
     m 3eud "結局、試したこともない演目が観客にウケるかどうかなんてわからないじゃない？"
 
 translate Japanese monika_standup_d5c4954b:
-    m 1esd "演じるという要素が入ると、この文芸は他のよりもはるかに複雑になる。"
+    m 1esd "演じるという要素が入ると、この文芸は他のよりもはるかに複雑になる"
 
 translate Japanese monika_standup_d8983d18:
-    m 1euc "どのように台詞を読み上げるか、どう身振り手振りを加えるか、どんな表情をして言うか・・"
+    m 1euc "どのように台詞を読み上げるか、どう身振り手振りを加えるか、どんな表情をして言うか……"
 
 translate Japanese monika_standup_c8510261:
-    m 3esd "そう、これは書くだけじゃない、{w=1}観客にどう伝えて届けるのか。そういう文芸なのよ。"
+    m 3esd "そう、これは書くだけじゃない、{w=1}観客にどう伝えて届けるのか。そういう文芸なのよ"
 
 translate Japanese monika_standup_573baece:
     m 3esa "そういう意味では、詩に似てるとも思わない？"
@@ -8659,19 +8661,19 @@ translate Japanese monika_standup_f7904afd:
 
 translate Japanese monika_standup_ca8015d8:
     m 2eksdlc "普通の人が一番の恐れていることがなにか知ってる？
-それは、人前で話すことなんだって。"
+それは、人前で話すことなんだって"
 
 translate Japanese monika_standup_8cd0631d:
     m 4wud "で、2番目は死ぬことなの。{w=0.5}死ぬことよりも恐れてるなんて！{w=0.5}すごいと思わない？"
 
 translate Japanese monika_standup_4bcfa713:
-    m 4eud "これは、多くの人にとって、葬式で追悼の挨拶を述べる役になるくらいなら…"
+    m 4eud "これは、多くの人にとって、葬式で追悼の挨拶を述べる役になるくらいなら……"
 
 translate Japanese monika_standup_a52bb225:
-    m 4tub "…棺桶に入ってたほうがマシってことよ！"
+    m 4tub "……棺桶に入ってたほうがマシってことよ！"
 
 translate Japanese monika_standup_117d3248:
-    m 1hub "…アハハ！ ごめんなさい、Jerry Seinfeldのジョークよ。あなたに伝えてみたかったの。"
+    m 1hub "……アハハ！ ごめんなさい、Jerry Seinfeldのジョークよ。あなたに伝えてみたかったの"
 
 translate Japanese monika_standup_67f5ce76:
     m 3etc "ところで、Jerry Seinfeldの名前を聞いたことある？"
@@ -8680,7 +8682,7 @@ translate Japanese monika_standup_5e263323:
     m 1eua "どうだった？{w=0.5}笑ってくれた？"
 
 translate Japanese monika_standup_253b24e0:
-    m 3hksdlb "うーん… {w=1}やっぱり自分でネタを練ってやるべきみたいね…"
+    m 3hksdlb "うーん… {w=1}やっぱり自分でネタを練ってやるべきみたいね……"
 
 translate Japanese monika_soda_0af7e6b1:
     m 2euc "炭酸飲料って飲むの、[player]君？{nw}"
@@ -13028,9 +13030,6 @@ translate Japanese monika_grad_speech_ignored_lock_bb31cb93:
 
 translate Japanese monika_grad_speech_ignored_lock_20a024dc:
     m 2efc "……"
-
-translate Japanese monika_grad_speech_297a9a8a:
-    m 2dsc "コホン…{w=0.7}{nw}"
 
 translate Japanese monika_shipping_63abc78a:
     m 3eua "ねえ、[player]君。{w=0.2}カップリングって聞いたことある？"

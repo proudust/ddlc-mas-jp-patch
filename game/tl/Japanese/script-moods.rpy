@@ -730,6 +730,24 @@ translate Japanese mas_mood_bored_82fdc2ae:
 translate Japanese _call_mas_piano_start_d26879ea:
     m 1eka "わかったわ……"
 
+translate Japanese _call_mas_piano_start_da34fa3d:
+    m 5tsu "もう少し長くあなたと見つめ合えたらなぁ……"
+
+translate Japanese _call_mas_piano_start_d9790317:
+    m "飽きることなんてないのにね～"
+
+translate Japanese _call_mas_piano_start_e4592319:
+    m 5eua "もう少し長くあなたと見つめ合えたらなぁ……"
+
+translate Japanese _call_mas_piano_start_8b5f5f6e:
+    m "絶対に飽きないのにな～"
+
+translate Japanese _call_mas_piano_start_585e2a8b:
+    m 1ekc "あら、わかったわ……"
+
+translate Japanese _call_mas_piano_start_b39e9dad:
+    m 1eka "また後で私となにかやりたくなったら教えてね～"
+
 translate Japanese _call_mas_piano_start_e4e2e831:
     m 2ekc "そう……"
 

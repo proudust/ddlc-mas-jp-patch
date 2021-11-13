@@ -445,46 +445,46 @@ translate Japanese bye_prompt_sleep_goodnight_kiss_0b8d5b8e:
 translate Japanese bye_prompt_sleep_goodnight_kiss_9982ef1b:
     m "あのね、おやすみの… キス、してくれないかな？" nointeract
 
-translate Japanese _call_monika_kissing_motion_short_3_a8c42758:
+translate Japanese _call_monika_kissing_motion_short_5_a8c42758:
     m 6ekbfb "今夜はいい夢を見てね"
 
-translate Japanese _call_monika_kissing_motion_short_3_88603914:
+translate Japanese _call_monika_kissing_motion_short_5_88603914:
     m 1hubfa "おやすみ！"
 
-translate Japanese _call_monika_kissing_motion_short_3_bdc137a5:
+translate Japanese _call_monika_kissing_motion_short_5_bdc137a5:
     m 3rkblp "えー…、ほら、恥ずかしがらなくていいんだよ…{w=0.3}{nw}"
 
-translate Japanese _call_monika_kissing_motion_short_3_c3359e74:
+translate Japanese _call_monika_kissing_motion_short_5_c3359e74:
     extend 3nublu "本当はキスしたいんでしょ～？"
 
-translate Japanese _call_monika_kissing_motion_short_3_3a98b132:
+translate Japanese _call_monika_kissing_motion_short_5_3a98b132:
     m 1ekbsa "おやすみのキス、ね、お願い？{nw}"
 
-translate Japanese _call_monika_kissing_motion_short_3_8aadb9b1:
+translate Japanese _call_monika_kissing_motion_short_5_8aadb9b1:
     m "おやすみのキス、ね、お願い？{fast}" nointeract
 
-translate Japanese _call_monika_kissing_motion_short_4_6b75e377:
+translate Japanese _call_monika_kissing_motion_short_6_6b75e377:
     m 6ekbfa "いい夢見てね、[player]～"
 
-translate Japanese _call_monika_kissing_motion_short_4_07c54da0:
+translate Japanese _call_monika_kissing_motion_short_6_07c54da0:
     m 6hubfb "おやすみ！"
 
-translate Japanese _call_monika_kissing_motion_short_4_4644c309:
+translate Japanese _call_monika_kissing_motion_short_6_4644c309:
     m 1lkc "……"
 
-translate Japanese _call_monika_kissing_motion_short_4_c6afba82:
+translate Japanese _call_monika_kissing_motion_short_6_c6afba82:
     m 7dkd "そう……"
 
-translate Japanese _call_monika_kissing_motion_short_4_223eb706:
+translate Japanese _call_monika_kissing_motion_short_6_223eb706:
     m 2lsc "[player]、おやすみ……"
 
-translate Japanese _call_monika_kissing_motion_short_4_5364a71c:
+translate Japanese _call_monika_kissing_motion_short_6_5364a71c:
     m 1rkblc "えー… {w=0.3}{nw}"
 
-translate Japanese _call_monika_kissing_motion_short_4_7f9c63ab:
+translate Japanese _call_monika_kissing_motion_short_6_7f9c63ab:
     extend 1ekbla "わかった、だけど私からはしてあげるね"
 
-translate Japanese _call_monika_kissing_motion_short_4_1132fd08:
+translate Japanese _call_monika_kissing_motion_short_6_1132fd08:
     m 1hubsb "愛してるよ！ おやすみ～"
 
 translate Japanese bye_illseeyou_a3e375cf:
