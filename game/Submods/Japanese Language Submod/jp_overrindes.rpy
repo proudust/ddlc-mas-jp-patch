@@ -128,7 +128,7 @@ translate Japanese screen:
 # zz_calender.rpy
 translate Japanese python:
     # カレンダーのフォント変更
-    MASCalendar.NOTE_FONT = "mod_assets/font/Ruriiro_font.ttf"
+    MASCalendar.NOTE_FONT = jpfonts.Ruriiro
 
     # カレンダーの表示微調整
     MASCalendar.DATE_DISPLAY_FORMAT = "                   {0}\n{1}\n{2}\n{3}"
@@ -217,11 +217,17 @@ translate Japanese python:
 
             # get this month's events
             if self.MIN_GLITCH_YEAR < self.selected_year < self.MAX_GLITCH_YEAR:
-
                 events = self.database[self.selected_month]
 
-            else:
+                #For leap year case, we put F29 into M01
+                if self.selected_month == 3 and not mas_isLeapYear(self.selected_year):
+                    #We need to copy this because otherwise we break the main calendar db
+                    events = copy.deepcopy(events)
+                    events[1].update(self.database[2][29])
 
+
+            #Otherwise glitch events
+            else:
                 events = self._getEGMonthEvents()
 
                 note_font = gui.default_font
@@ -378,7 +384,8 @@ translate Japanese python:
                         text_container.add(ellipsis_text)
 
                     self.day_button_texts.append((text_container, button_pos))
-    if config.version in ['0.11.9', '0.12.0']: # 後のバージョンで使用した際にバグるのを回避するための安全策
+    # 後のバージョンで使用した際にバグるのを回避するための安全策
+    if config.version in ['0.11.9', '0.12.0', '0.12.1', '0.12.2', '0.12.3', '0.12.4']:
         MASCalendar._setupDayButtons = _setupDayButtons
 
 # zz_poems.rpy
