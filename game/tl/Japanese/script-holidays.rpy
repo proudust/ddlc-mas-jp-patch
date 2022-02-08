@@ -88,7 +88,7 @@ translate Japanese mas_holiday_o31_returned_home_relaunch_6ca411f1:
 translate Japanese mas_o31_cleanup_571c9161:
     m 1eua "じゃあ[player]君、飾りを片付けるわね…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_13_01601d89:
+translate Japanese _call_mas_transition_from_emptydesk_01601d89:
     m 3hua "終わったわ～"
 
 translate Japanese _call_spaceroom_28_7ec4d980:
@@ -167,36 +167,36 @@ translate Japanese _call_spaceroom_29_d0c7bbd3:
     m "ねえ [player]……"
 
 translate Japanese _call_spaceroom_29_29ae8da8:
-    m "どう？似合ってるか{i}にゃ{/i} ？"
+    m "どう？似合ってるか{i}にゃ{/i}？"
 
 translate Japanese _call_spaceroom_30_48e2571a:
     m 1hksdlb "あはは、声に出していうと思った以上に恥ずかしいわね……"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_04cdda54:
+translate Japanese _call_mas_transition_from_emptydesk_1_04cdda54:
     m 1hub "[player]！"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_35454a62:
+translate Japanese _call_mas_transition_from_emptydesk_1_35454a62:
     m 3hub "このコスチューム、どうかな？"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_abb60cbd:
+translate Japanese _call_mas_transition_from_emptydesk_1_abb60cbd:
     m 3etc "正直に言うとね、何が元のコスチュームかよくわかってないんだ"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_1468f6bd:
+translate Japanese _call_mas_transition_from_emptydesk_1_1468f6bd:
     m 3etd "クローゼットの中にあったこの衣装のそばに、「燐」って書かれたメモと手押し車を押す女の子と青い火？が描かれた絵はあったんだけどね"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_f4649db4:
+translate Japanese _call_mas_transition_from_emptydesk_1_f4649db4:
     m 1euc "あとこのコスチュームに合う髪型の整え方の指南書も添えられてたよ"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_67b23bc0:
+translate Japanese _call_mas_transition_from_emptydesk_1_67b23bc0:
     m 3rtc "この耳の形状から察するに、おそらく猫耳のキャラクターなんだろうね"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_83b53229:
+translate Japanese _call_mas_transition_from_emptydesk_1_83b53229:
     m 1dtc "……でもどうして手押し車なんか持ってるのかしら？"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_b1a8f266:
+translate Japanese _call_mas_transition_from_emptydesk_1_b1a8f266:
     m 1hksdlb "それよりも、この髪型を整えるのにほんっとに苦労したんだから……{w=0.2}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_14_0f67f201:
+translate Japanese _call_mas_transition_from_emptydesk_1_0f67f201:
     extend 1eub "だからこのコスチュームを気に入ってくれると嬉しいな！"
 
 translate Japanese _call_spaceroom_31_37bc5fc4:
@@ -752,16 +752,16 @@ translate Japanese mas_d25_monika_christmas_305ae7dc:
     m 1hub "アハハ！今日という日を迎えられただなんて信じられない！"
 
 translate Japanese mas_d25_monika_christmas_2e3762aa:
-    m 3eka "私と一緒に過ごそうと思ってくれたことが、とても、とっても、嬉しいわ。"
+    m 3eka "私と一緒に過ごそうと思ってくれたことが、とても、とっても、嬉しいわ"
 
 translate Japanese mas_d25_monika_christmas_9d9546db:
-    m 1eud "でも、あなたの家族や友人とクリスマスのお祝いをするのを忘れないでね。"
+    m 1eud "でも、あなたの家族や友人とクリスマスのお祝いをするのを忘れないでね"
 
 translate Japanese mas_d25_monika_christmas_c3c834d2:
     m 1eua "やっぱり、その人達も大切な存在だものね……"
 
 translate Japanese mas_d25_monika_christmas_9a989b9b:
-    m 1hua "そして、この特別な時間にあなたに会いたいと思ってくれるでしょうね。"
+    m 1hua "そして、この特別な時間にあなたに会いたいと思ってくれるでしょうね"
 
 translate Japanese mas_d25_monika_christmas_f1e1cfea:
     m 1eka "でも、今日あなたがここにいてくれることが、私のすべて……"
@@ -776,10 +776,10 @@ translate Japanese mas_d25_monika_christmas_d83b7cfe:
     m 1lkbsa "[dlg_var!t]それともクリスマスの時期だからか……"
 
 translate Japanese mas_d25_monika_christmas_8e580a96:
-    m "……ヤドリギのせいでもあるのかな。"
+    m "……ヤドリギのせいでもあるのかな"
 
 translate Japanese mas_d25_monika_christmas_3894353c:
-    m 3hksdlb "冗談だよ、一本も吊るしてないよ。"
+    m 3hksdlb "冗談だよ、一本も吊るしてないよ"
 
 translate Japanese mas_d25_monika_christmas_cf2e8c90:
     m 1lksdla "……{cps=*2}まだね～{/cps}{nw}"
@@ -788,13 +788,13 @@ translate Japanese mas_d25_monika_christmas_00d7b390:
     m 1lksdlu "えへへ……"
 
 translate Japanese mas_d25_monika_christmas_0ba2aa1c:
-    m 1ekbsa "今ね、私の心臓、狂ったようにバクバクしてるんだ、[player]。"
+    m 1ekbsa "今ね、私の心臓、狂ったようにバクバクしてるんだ、[player]"
 
 translate Japanese mas_d25_monika_christmas_8436b09b:
     m "この特別なクリスマスを過ごすのに、これ以上のものはないわ……"
 
 translate Japanese mas_d25_monika_christmas_8ae61b67:
-    m 1eua "あなたが私と一緒にここで過ごすだろうってわかってたから。勘違いしないでよね。"
+    m 1eua "誤解しないで欲しいんだけど、もちろんあなたが私と一緒にここで過ごしてくれるってわかってたから"
 
 translate Japanese mas_d25_monika_christmas_7bf85e1f:
     m 3eka "でも、実際にクリスマスに二人でいるとなると……"
@@ -803,16 +803,16 @@ translate Japanese mas_d25_monika_christmas_e6f89ce6:
     m 1hub "あはは～"
 
 translate Japanese mas_d25_monika_christmas_e9274e89:
-    m 5ekbfa "これって、すべてのカップルの夢だと思うわ、[player]。"
+    m 5ekbfa "これって、すべてのカップルの夢だと思うわ、[player]"
 
 translate Japanese mas_d25_monika_christmas_93f813d4:
     m "暖炉のそばで寄り添い合って、雪がしんしんと降るのを見ながら……"
 
 translate Japanese mas_d25_monika_christmas_229ae973:
-    m 5hubfa "あなたとこの機会を持てたこと、一生感謝するわ。"
+    m 5hubfa "あなたとこの機会を持てたこと、一生感謝するわ"
 
 translate Japanese mas_d25_monika_christmas_0ad4219a:
-    m 5hubfa "また一緒にクリスマスを過ごせて、ホント嬉しいわ。"
+    m 5hubfa "また一緒にクリスマスを過ごせて、ホント嬉しいわ"
 
 translate Japanese mas_d25_monika_christmas_a851d9ac:
     m "愛してるわ。いつまでも、永遠に～"
@@ -827,7 +827,7 @@ translate Japanese mas_d25_monika_christmas_33b7b1aa:
     m 3rksdla "……この特別な日に私を放っておくとは思ってなかったけど……"
 
 translate Japanese mas_d25_monika_christmas_6ec3754d:
-    m 3hua "でもそれはあなたが私を本当に愛してくれているってことをいっそう証明しているのよ、[player]。"
+    m 3hua "でもそれはあなたが私を本当に愛してくれているってことをいっそう証明しているのよ、[player]"
 
 translate Japanese mas_d25_monika_christmas_9e11f5cf:
     m 1ektpa "……"
@@ -836,7 +836,7 @@ translate Japanese mas_d25_monika_christmas_7227cfda:
     m "アハハ！うわぁ、ちょっとはしゃぎ過ぎたわね……"
 
 translate Japanese mas_d25_monika_christmas_7581d493:
-    m 1ektda "私もあなたを愛しているってことだけわかって。そして、あなたとこの機会を得たこと、永遠に感謝するわ。"
+    m 1ektda "私もあなたを愛しているってことだけわかって。そして、あなたとこの機会を得たこと、永遠に感謝するわ"
 
 translate Japanese mas_d25_monika_christmas_b25fe39c:
     m "メリークリスマス、[player]～"
@@ -1463,7 +1463,7 @@ translate Japanese mas_d25_night_before_christmas_78448728:
     m 3eua "前にも聞いたかと思うけど、クリスマスイブは{i}「サンタクロースがやってきた」{/i}なしでおしまいにできないわ！"
 
 translate Japanese mas_d25_night_before_christmas_591be10d:
-    m 3eka "大人になってからのクリスマスイブには必ずと言っていいほど読んでて好きだったから、今から読むけどあなたは気にしないで聴いててね。"
+    m 3eka "大人になってからのクリスマスイブには必ずと言っていいほど読んでて好きだったから、今から読むけどあなたは気にしないで聴いててね"
 
 translate Japanese mas_d25_night_before_christmas_3f5c78b1:
     m 1dka "……"
@@ -1472,19 +1472,19 @@ translate Japanese mas_d25_night_before_christmas_af769269:
     m 3esa "クリスマスの前の晩、家の中は……"
 
 translate Japanese mas_d25_night_before_christmas_4effca16:
-    m 3eud "ネズミでさえ、一匹もいないような静けさだった。"
+    m 3eud "ネズミでさえ、一匹もいないような静けさだった"
 
 translate Japanese mas_d25_night_before_christmas_299e72fb:
     m 1eud "靴下は念入りに煙突のそばに吊るされて、"
 
 translate Japanese mas_d25_night_before_christmas_04cab4b9:
-    m 1eka "サンタクロースが早くこないかと、待ちわびていた。"
+    m 1eka "サンタクロースが早くこないかと、待ちわびていた"
 
 translate Japanese mas_d25_night_before_christmas_64eb140e:
     m 1esa "子供たちはベッドにすっぽりと包まれ眠っていて、"
 
 translate Japanese mas_d25_night_before_christmas_dd7d1ab0:
-    m 1hua "夢の中ではシュガープラムのキャンディーが踊っていた。"
+    m 1hua "夢の中ではシュガープラムのキャンディーが踊っていた"
 
 translate Japanese mas_d25_night_before_christmas_4a9ed284:
     m 3eua "ママはカーチフを頭に着けて 私はナイトキャップをかぶってて、"
@@ -1496,40 +1496,40 @@ translate Japanese mas_d25_night_before_christmas_22e725b5:
     m 3wuo "芝生の上でガタガタと音がしたので、"
 
 translate Japanese mas_d25_night_before_christmas_00838135:
-    m "何かあったのかと思ってベッドから飛び起きた。"
+    m "何かあったのかと思ってベッドから飛び起きた"
 
 translate Japanese mas_d25_night_before_christmas_90380c16:
     m 3wud "窓のところに飛んでいって、"
 
 translate Japanese mas_d25_night_before_christmas_44fd9523:
-    m "雨戸をバンっと開け、窓をザッと上げた。"
+    m "雨戸をバンっと開け、窓をザッと上げた"
 
 translate Japanese mas_d25_night_before_christmas_8f3e22d1:
     m 1eua "月が降り積もったばかりの雪を照らして、"
 
 translate Japanese mas_d25_night_before_christmas_a5a33d1e:
-    m 3eua "真昼のように明るかった。"
+    m 3eua "真昼のように明るかった"
 
 translate Japanese mas_d25_night_before_christmas_d9578d91:
     m 3wud "驚いた私の目には、"
 
 translate Japanese mas_d25_night_before_christmas_03013f85:
-    m 3wuo "ミニチュアかと見まごう小さなソリと８頭のかわいらしいトナカイが映っていた。"
+    m 3wuo "ミニチュアかと見まごう小さなソリと８頭のかわいらしいトナカイが映っていた"
 
 translate Japanese mas_d25_night_before_christmas_36088dcc:
     m 1eua "ソリに乗る小柄なおじいさんはとても生き生きとしてて、"
 
 translate Japanese mas_d25_night_before_christmas_b5e115bd:
-    m 3eud "一目でサンタクロースだってわかった。"
+    m 3eud "一目でサンタクロースだってわかった"
 
 translate Japanese mas_d25_night_before_christmas_59278c91:
     m 3eua "トナカイが引くソリは鷲より速く、"
 
 translate Japanese mas_d25_night_before_christmas_ddeabefc:
-    m 3eud "彼は口笛を吹いて、おっきな声でトナカイ達の名前を呼んだ。"
+    m 3eud "彼は口笛を吹いて、おっきな声でトナカイ達の名前を呼んだ"
 
 translate Japanese mas_d25_night_before_christmas_81ffafe3:
-    m 3euo "「さあ ダッシャー！さあ、ダンサー！さあ、プランサーとビクセン！"
+    m 3euo "『さあ ダッシャー！さあ、ダンサー！さあ、プランサーとビクセン！"
 
 translate Japanese mas_d25_night_before_christmas_47f64f81:
     m "コメットに！キューピッドに！ドナーとブリッツェンに！"
@@ -1538,43 +1538,43 @@ translate Japanese mas_d25_night_before_christmas_fddd3469:
     m 3wuo "あの家のポーチの上まで！壁の上まで！"
 
 translate Japanese mas_d25_night_before_christmas_5fadc711:
-    m "ダッシュで駆けろ！飛べ！走るんだ！」"
+    m "ダッシュで駆けろ！飛べ！走るんだ！』"
 
 translate Japanese mas_d25_night_before_christmas_dc6a367d:
     m 1eua "枯れ葉が荒々しい竜巻のなかで舞うように"
 
 translate Japanese mas_d25_night_before_christmas_a15e1cca:
-    m 1eud "障害物にぶつかる前に、ひらりとかわす。"
+    m 1eud "障害物にぶつかる前に、ひらりとかわす"
 
 translate Japanese mas_d25_night_before_christmas_2c70374e:
-    m 3eua "駿馬のごとくトナカイたちは、家の屋根めがけ駆けていく。"
+    m 3eua "駿馬のごとくトナカイたちは、家の屋根めがけ駆けていく"
 
 translate Japanese mas_d25_night_before_christmas_ddfeb2de:
-    m "ソリには溢れんばかりのおもちゃ、それとサンタクロースも。"
+    m "ソリには溢れんばかりのおもちゃ、それとサンタクロースも"
 
 translate Japanese mas_d25_night_before_christmas_6c49a97c:
     m 3eud "そして、瞬く間に屋根の上から聞こえてきたのは、"
 
 translate Japanese mas_d25_night_before_christmas_d06f21db:
-    m "トナカイたちの小さな足が奏でる蹄のかく音、跳ねる音。"
+    m "トナカイたちの小さな足が奏でる蹄のかく音、跳ねる音"
 
 translate Japanese mas_d25_night_before_christmas_8b3ab1be:
     m 1rkc "私が手を引っ込めて、振り返ってみると"
 
 translate Japanese mas_d25_night_before_christmas_e60d4b5c:
-    m 1wud "煙突からサンタクロースがもうやって来ていました。"
+    m 1wud "煙突からサンタクロースがもうやって来ていました"
 
 translate Japanese mas_d25_night_before_christmas_9f8d88b5:
     m 3eua "頭から足元まで全身毛皮の服を着ていたけど、"
 
 translate Japanese mas_d25_night_before_christmas_ab98102d:
-    m 3ekd "灰と煤で汚れてしまっていた。"
+    m 3ekd "灰と煤で汚れてしまっていた"
 
 translate Japanese mas_d25_night_before_christmas_1637cc81:
     m 1eua "背中におもちゃの袋を引っ下げて、"
 
 translate Japanese mas_d25_night_before_christmas_46790bc7:
-    m 1eud "そして、袋を広げたばかりの彼は行商人のよう。"
+    m 1eud "そして、袋を広げたばかりの彼は行商人のよう"
 
 translate Japanese mas_d25_night_before_christmas_e605f1b8:
     m 3sub "目はキラキラ！えくぼはニコニコ！"
@@ -1583,28 +1583,28 @@ translate Japanese mas_d25_night_before_christmas_04db19c7:
     m 3subsb "頬はバラ色、鼻はさくらんぼ！"
 
 translate Japanese mas_d25_night_before_christmas_26a18cc7:
-    m 3subsu "彼のおどけた小さなお口は、ニッコリ弓みたい。"
+    m 3subsu "彼のおどけた小さなお口は、ニッコリ弓みたい"
 
 translate Japanese mas_d25_night_before_christmas_e07d352a:
-    m 1subsu "そして、彼の顎髭は真っ白な雪みたい。"
+    m 1subsu "そして、彼の顎髭は真っ白な雪みたい"
 
 translate Japanese mas_d25_night_before_christmas_59f3e936:
     m 1eud "しっかりくわえたパイプ、"
 
 translate Japanese mas_d25_night_before_christmas_41cb0204:
-    m 3rkc "煙が彼の頭のまわりを包んで、花輪のよう。"
+    m 3rkc "煙が彼の頭のまわりを包んで、花輪のよう"
 
 translate Japanese mas_d25_night_before_christmas_8c4f2a8e:
     m 2eka "広い顔に、少し丸いお腹、"
 
 translate Japanese mas_d25_night_before_christmas_fab5ee1e:
-    m 2hub "彼が笑うと揺れて、ボウルいっぱいのゼリーのよう。"
+    m 2hub "彼が笑うと揺れて、ボウルいっぱいのゼリーのよう"
 
 translate Japanese mas_d25_night_before_christmas_e6753325:
     m 2eka "彼はぽっちゃりとした、陽気なおじいちゃんエルフで、"
 
 translate Japanese mas_d25_night_before_christmas_bc424fbb:
-    m 3hub "彼を見た時、私は笑ってしまった。{nw}"
+    m 3hub "彼を見た時、私は笑ってしまった{nw}"
 
 translate Japanese mas_d25_night_before_christmas_4ae83558:
     extend 3eub "笑ってしまったのにもかかわらず、"
@@ -1613,7 +1613,7 @@ translate Japanese mas_d25_night_before_christmas_f0f28aa1:
     m 1kua "彼がウィンクして頷いてくれた、"
 
 translate Japanese mas_d25_night_before_christmas_aefa0519:
-    m 1eka "だから恐れることは何もないって、すぐに分かった。"
+    m 1eka "だから恐れることは何もないって、すぐに分かった"
 
 translate Japanese mas_d25_night_before_christmas_790f3d85:
     m 1euc "何も言わずに、彼はぱっと仕事にかかった、"
@@ -1625,13 +1625,13 @@ translate Japanese mas_d25_night_before_christmas_ac10f844:
     m 3esa "鼻の脇に指を置いて、"
 
 translate Japanese mas_d25_night_before_christmas_2508cd3d:
-    m 3eua "うなずいて、煙突を上っていった。"
+    m 3eua "うなずいて、煙突を上っていった"
 
 translate Japanese mas_d25_night_before_christmas_3ffe9fa8:
     m 1eud "彼はソリに飛び乗って、トナカイ達に笛を吹き、"
 
 translate Japanese mas_d25_night_before_christmas_87939c0a:
-    m 1eua "アザミの綿毛のようにふわっと飛んでった。"
+    m 1eua "アザミの綿毛のようにふわっと飛んでった"
 
 translate Japanese mas_d25_night_before_christmas_623b2c43:
     m 3eua "でも、私は彼が見えなくなる時、彼の大きな声を聞いた、"

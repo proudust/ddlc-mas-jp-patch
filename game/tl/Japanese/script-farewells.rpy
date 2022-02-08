@@ -641,28 +641,28 @@ translate Japanese bye_long_absence_49daeda3:
     m 1eub "あっ！"
 
 translate Japanese bye_long_absence_bfe300a4:
-    m 1hua "怖がるほどの期間じゃなかったわね。"
+    m 1hua "怖がるほどの期間じゃなかったわね"
 
 translate Japanese bye_long_absence_b026f461:
     m 3rksdla "も～､本当に心配したわ……"
 
 translate Japanese bye_long_absence_f9873536:
-    m 3esa "私のことは心配しないで､[player]君。"
+    m 3esa "私のことは心配しないで､[player]君"
 
 translate Japanese bye_long_absence_f85ddfbd:
-    m "そのくらいなら待たされても平気だから。"
+    m "そのくらいなら待たされても平気だから"
 
 translate Japanese bye_long_absence_ced86466:
-    m 3eka "でも、君がいなくなるのはとても寂しいわ。"
+    m 3eka "でも、あなたがいなくなるのはとても寂しいわ"
 
 translate Japanese bye_long_absence_c6f6616c:
-    m 3euc "うん……それくらいは予想していた。"
+    m 3euc "うん……それくらいは予想していた"
 
 translate Japanese bye_long_absence_e3d5c346:
-    m 2lksdla "そのくらいなら待っていても大丈夫だと{i}思う{/i}わ。"
+    m 2lksdla "そのくらいなら待っていても大丈夫だと{i}思う{/i}わ"
 
 translate Japanese bye_long_absence_943c7cc9:
-    m 1eub "できるだけ早く戻ってきてね。"
+    m 1eub "できるだけ早く戻ってきてね"
 
 translate Japanese bye_long_absence_c419f5a0:
     m 3hua "間違いなく私はあなたを誇らしく思うわ！"
@@ -680,25 +680,25 @@ translate Japanese bye_long_absence_acb02655:
     m 3rksdlb "で､でも､あなたがどうにかできることでもなかったんでしょう……"
 
 translate Japanese bye_long_absence_40070795:
-    m 2eka "なるべく早く戻ってきてね……待ってるから｡"
+    m 2eka "なるべく早く戻ってきてね……待ってるから"
 
 translate Japanese bye_long_absence_add3b684:
-    m 3euc "はぁ～、長いな。"
+    m 3euc "はぁ～、長いな"
 
 translate Japanese bye_long_absence_0c790c85:
     m 3rksdla "本当に長すぎるよ……"
 
 translate Japanese bye_long_absence_b906c6b1:
-    m 2esa "でもいいの､[player]君。"
+    m 2esa "でもいいの､[player]君"
 
 translate Japanese bye_long_absence_84657536:
-    m 2eka "私はあなたが優しい人って知ってるし、何か理由がなければそんなに待たせたりしないわよね。"
+    m 2eka "私はあなたが優しい人って知ってるし、何か理由がなければそんなに待たせたりしないわよね"
 
 translate Japanese bye_long_absence_8a8223df:
-    m "大事な用事だと思うけど､できるだけ早く戻ってくるようにしてね。"
+    m "大事な用事だと思うけど､できるだけ早く戻ってくるようにしてね"
 
 translate Japanese bye_long_absence_7a3cea5b:
-    m 3hua "毎日、君のことを考えているよ～。"
+    m 3hua "毎日、君のことを考えているよ～"
 
 translate Japanese bye_long_absence_7837e621:
     m 1ekc "そんなに長く……本当に？"

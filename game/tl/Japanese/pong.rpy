@@ -5,7 +5,7 @@ translate Japanese game_pong_3597d451:
     m 2tfb "全力でお願いね、[mas_get_player_nickname(regex_replace_with_nullstr='my ')]君！"
 
 translate Japanese game_pong_ac38c54c:
-    m 1hua "またpongで遊びたいの？"
+    m 1hua "またポンで遊びたいの？"
 
 translate Japanese game_pong_91482ad9:
     m 3eub "あなたの準備が出来たらね～"

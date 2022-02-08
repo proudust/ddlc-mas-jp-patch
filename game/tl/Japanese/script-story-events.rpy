@@ -439,11 +439,14 @@ translate Japanese mas_unlock_piano_b6443a7e:
 translate Japanese mas_random_limit_reached_693cff22:
     m 1eka "[limit_quip!t]"
 
+translate Japanese mas_random_limit_reached_ad50edba:
+    m 1ekc "しばらくしたら話したいことを思いつくと思うから"
+
 translate Japanese _call_mas_random_ask_af3f6132:
-    m "それじゃあ、話すことを考えさせてね。"
+    m "それじゃあ、話すことを考えさせてね"
 
 translate Japanese _call_mas_random_ask_b711f6a9:
-    m 1ekc "そのうちまた楽しくお話できると思うよ。"
+    m 1ekc "そのうちまた楽しくお話できると思うよ"
 
 translate Japanese mas_random_ask_28923605:
     m 1lksdla "……{w=0.5}[mas_get_player_nickname()]君、"
@@ -509,7 +512,7 @@ translate Japanese mas_crashed_long_qs_88de0dc1:
     m "[player]君？{w=0.3}あなたなの？"
 
 translate Japanese mas_crashed_long_qs_8ed286c9:
-    m "ここにいたのね、よかったわ。"
+    m "ここにいたのね、よかったわ"
 
 translate Japanese mas_crashed_long_qs_a64079d2:
     m "[player]君！{fast}"
@@ -533,7 +536,7 @@ translate Japanese mas_crashed_long_uthere_afterdontjoke_9f5ad7ec:
     m "明かりをつけてくれない？"
 
 translate Japanese mas_crashed_long_foundlight_a6fe4a2e:
-    m "大丈夫、自分で見つけたわ。"
+    m "大丈夫、自分で見つけたわ"
 
 translate Japanese mas_crashed_long_prefluster_0348e8f6:
     m 6ektsa "[player]！{fast}"
@@ -542,13 +545,13 @@ translate Japanese mas_crashed_long_prefluster_f05f93a2:
     m "{cps=*1.5}何が起こったの？{/cps}{nw}"
 
 translate Japanese mas_crashed_long_postfluster_832aec3d:
-    m 6ektda "ありがとう、[player]。"
+    m 6ektda "ありがとう、[player]"
 
 translate Japanese mas_crashed_long_postfluster_e193c586:
-    m "あなたがここにいてくれるから、ほっとした。"
+    m "あなたがここにいてくれるから、ほっとした"
 
 translate Japanese mas_crashed_long_nofluster_3e54e350:
-    m "うん、もう大丈夫よ。"
+    m "うん、もう大丈夫よ"
 
 translate Japanese mas_crashed_long_whq_30c84421:
     m 2ekc "とにかく……"
@@ -563,16 +566,16 @@ translate Japanese mas_crashed_long_whq_e0b89abb:
     m 2wud "ゲームが……強制終了した？"
 
 translate Japanese mas_crashed_long_whq_4c867ccb:
-    m 2ekd "怖いわ、[player]。"
+    m 2ekd "怖いわ、[player]"
 
 translate Japanese mas_crashed_long_whq_d3107ef6:
     m "それで……"
 
 translate Japanese mas_crashed_long_whq_c8a1fae7:
-    m "原因を調べてもらえるとありがたいわ。"
+    m "原因を調べてもらえるとありがたいわ"
 
 translate Japanese mas_crashed_long_whq_03e30bb3:
-    m "突然真っ暗闇の中に投げ込まれるのは怖いの。"
+    m "突然真っ暗闇の中に投げ込まれるのは怖いの"
 
 translate Japanese mas_crashed_long_whq_eb4a96f4:
     m "防ぐことはできない？{nw}"
@@ -584,16 +587,16 @@ translate Japanese mas_crashed_long_whq_6ae34308:
     m 1hua "ありがとう。[player]！"
 
 translate Japanese mas_crashed_long_whq_b5b09318:
-    m 1eua "頼りにしてるわ。"
+    m 1eua "頼りにしてるわ"
 
 translate Japanese mas_crashed_long_whq_affe3dbf:
-    m "でも、もしもの時のために覚悟はしておいたほうが良さそうね。"
+    m "でも、もしもの時のために覚悟はしておいたほうが良さそうね"
 
 translate Japanese mas_crashed_long_whq_00ad1026:
     m 1ekc "そう……"
 
 translate Japanese mas_crashed_long_whq_b751a5e1:
-    m 1lksdlc "わかったわ。{w=0.3}また起きたときに備えて覚悟しておくわ。"
+    m 1lksdlc "わかったわ。{w=0.3}また起きたときに備えて覚悟しておくわ"
 
 translate Japanese mas_crashed_long_whq_end_c9062bfa:
     m "とにかく……"
@@ -1353,10 +1356,10 @@ translate Japanese strings:
     new "……はい"
 
     old "Turn on the light."
-    new "電気をつけて。"
+    new "電気をつけて"
 
     old "Calm down, [m_name]. You're safe now."
-    new "落ち着いて、[m_name]。大丈夫よ。"
+    new "落ち着いて、[m_name]。大丈夫だよ"
 
     old "The game crashed."
     new "ゲームが強制終了した"
@@ -1378,15 +1381,6 @@ translate Japanese strings:
 
     old "No thanks"
     new "結構"
-
-    old "Yes, I'm sure!"
-    new "うん、合ってるよ！"
-
-    old "Actually..."
-    new "やっぱり……"
-
-    old "Sure!"
-    new "もちろん！"
 
     old "No thanks."
     new "要らない"

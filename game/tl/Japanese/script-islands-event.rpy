@@ -1,3 +1,6 @@
+translate Japanese mas_monika_islands_3e3b6f6f:
+    m 1eub "もちろんだよ！ 島の景色を楽しんでね"
+
 translate Japanese _call_mas_islands_3_56293cf9:
     m 1eua "気に入ってくれるといいな、[mas_get_player_nickname()]君～"
 
@@ -116,46 +119,49 @@ translate Japanese mas_island_day1_481a84b2:
     m "なんて素敵な日なのかしら！"
 
 translate Japanese mas_island_day1_1f046825:
-    m "散歩して、景色を見るには最高な日ね。"
+    m "散歩して、景色を見るには最高な日ね"
 
 translate Japanese mas_island_day1_7df8df63:
-    m "……寒さに震えて、身を寄せ合って。"
+    m "……寒さに震えて、身を寄せ合って"
 
 translate Japanese mas_island_day1_55033d53:
-    m "……暖を取りに温かい飲み物を飲みながらね。"
+    m "……暖を取りに温かい飲み物を飲みながらね"
 
 translate Japanese mas_island_day1_9a5ee521:
-    m "あー、外に出かけて読書するのが好きなのよ、私。"
+    m "あー、外に出かけて読書するのが好きなのよ、私"
 
 translate Japanese mas_island_day1_b5b5aa26:
     m "でも本が濡れるのは嫌だし……"
 
 translate Japanese mas_island_day1_90572908:
-    m "びしょびしょのページとか、もう無理。"
+    m "びしょびしょのページとか、もう無理"
 
 translate Japanese mas_island_day1_776a52ca:
-    m "また今度にするわ。"
+    m "また今度にするわ"
 
 translate Japanese mas_island_day1_60c8cd6c:
-    m "この天気なら外で本を読むのも悪くないけど、そのうち雨が降るらしいのよね。"
+    m "この天気なら外で本を読むのも悪くないけど、そのうち雨が降るらしいのよね"
 
 translate Japanese mas_island_day1_21771ba3:
-    m "それは困るわ。"
+    m "それは困るわ"
 
 translate Japanese mas_island_day1_5515c0f7:
-    m "心配しないで、[player]君。また今度にしましょう。"
+    m "心配しないで、[player]君。また今度にしましょう"
 
 translate Japanese mas_island_day1_191e2b9e:
-    m "今日はいい天気よね。"
+    m "今日はいい天気よね"
 
 translate Japanese mas_island_day1_33aa32aa:
-    m "こんな日にはちょっと桜の下で読書をするのも打ってつけじゃない、[player]君？"
+    m "こんな日にはちょっと桜の下で読書をするのにうってつけじゃない、[player]君？"
+
+translate Japanese mas_island_day1_e3a7f53c:
+    m "こんな日には外で読書をするのにうってつけじゃない、[player]君？"
 
 translate Japanese mas_island_day1_9881e16e:
-    m "木陰でお気に入りの本を読みながらくつろいで。"
+    m "木陰でお気に入りの本を読みながらくつろいで"
 
 translate Japanese mas_island_day1_81a03bda:
-    m "……お菓子とあなたの好きな飲み物も一緒に。"
+    m "……お菓子とあなたの好きな飲み物も一緒に"
 
 translate Japanese mas_island_day1_273d6eec:
     m "あはは、出来たら本当に素敵ね～"
@@ -252,6 +258,24 @@ translate Japanese mas_island_day3_45d9cd96:
 
 translate Japanese mas_island_night2_ade2b592:
     m "星が見えなくて残念ね……"
+
+translate Japanese mas_island_daynight1_1e694a08:
+    m "きっともっと茂みとか木とかを付け足したほうがいいと思うんだよね"
+
+translate Japanese mas_island_daynight1_b64c78d4:
+    m "そうすればもっと素敵な島になると思わない？"
+
+translate Japanese mas_island_daynight1_71e05845:
+    m "まずはこの島にどんな木や草花が合いそうか調べてみないとね"
+
+translate Japanese mas_island_daynight1_f6e66dda:
+    m "島ごとに違う植物を植えて、植生を変えてみるのも面白いかもね"
+
+translate Japanese mas_island_daynight1_20851de6:
+    m "考えてるだけでワクワクしちゃうな～"
+
+translate Japanese mas_island_daynight2_9d627280:
+    m "えへへ、気にしないでね。なんだか急に歌いたくなっちゃっただけだよ～"
 
 translate Japanese mas_island_shimeji_ff344ac6:
     m "あっ！"

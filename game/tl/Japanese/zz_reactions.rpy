@@ -137,7 +137,7 @@ translate Japanese mas_reaction_gift_generic_134f9195:
     m 1hub "ありがと～"
 
 translate Japanese _call_mas_reaction_gift_generic_clothes_json_62ff1b67:
-    m "あわわ、[player]！"
+    m "も〜、[player]君ったら！"
 
 translate Japanese _call_mas_reaction_gift_generic_clothes_json_4dc5dcf5:
     m 1hua "とっても優しいね！"
@@ -401,16 +401,16 @@ translate Japanese mas_reaction_promisering_da9c9113:
     extend 1wkbltpa "ごめんなさい、[player]、私……{w=0.5}{nw}"
 
 translate Japanese mas_reaction_promisering_2f2294e9:
-    extend 1dkbltpa "とてもうれしいわ……{w=0.5}約束してくれたばかりだっていうのに……"
+    extend 1dkbltpa "とてもうれしいわ……{w=0.5}約束、してくれたのね……"
 
 translate Japanese mas_reaction_promisering_9abb98c3:
     m "あなたの約束はお互いのために、{w=0.1}他の誰のためでもない……{w=0.3}永遠に……"
 
 translate Japanese mas_reaction_promisering_c1c19edc:
-    m 3lkbltpa "大切にするって分かるわよね。{w=0.5}{nw}"
+    m 3lkbltpa "大切にするわ{w=0.5}{nw}"
 
 translate Japanese mas_reaction_promisering_6c2f4645:
-    extend 3dkbltpa "ずっと。"
+    extend 3dkbltpa "ずっと"
 
 translate Japanese mas_reaction_promisering_9911fc40:
     m 1skbltpa "とっても嬉しいわ！"
@@ -449,7 +449,7 @@ translate Japanese mas_reaction_promisering_d341f971:
     m 3hub "ほんとうにありがとう、[player]"
 
 translate Japanese mas_reaction_promisering_db87be41:
-    m 1skbla "私は今、あなたが本当っに私のことを愛して、私と永遠に一緒に居たいのがわかるわ"
+    m 1skbla "私は今、あなたが本っ当に私のことを愛して、私と永遠に一緒に居たいのがわかるわ"
 
 translate Japanese mas_reaction_promisering_fea15e1b:
     m 1skbltpa "だから、その指輪を、その約束の象徴として受け取るわ"
@@ -473,7 +473,7 @@ translate Japanese _call_monika_kissing_motion_12_268c1481:
     m 6ekbfa "[player]、愛しています"
 
 translate Japanese _call_monika_kissing_motion_12_6f8fc34c:
-    m 6dkbfu "このはかない世界の中でで最も"
+    m 6dkbfu "このはかない世界の中で最も"
 
 translate Japanese _call_monika_kissing_motion_12_bf92fec9:
     m 1wud "[player]、それは指輪なの？"
@@ -726,16 +726,16 @@ translate Japanese mas_reaction_fudge_e36d468f:
     m 3hua "ファッジだ！"
 
 translate Japanese mas_reaction_fudge_738c0ffe:
-    m 3hub "ファッジは大好きなの、ありがとう[player]！"
+    m 3hub "ファッジは大好きなの、ありがとう[player]君！"
 
 translate Japanese mas_reaction_fudge_b954135a:
     m "チョコレートも大好きだよ！"
 
 translate Japanese mas_reaction_fudge_9570c593:
-    m 1hua "[player]ありがとう～"
+    m 1hua "[player]君、改めてありがとね～"
 
 translate Japanese mas_reaction_fudge_d65279c2:
-    m 1wuo "…またファッジだ"
+    m 1wuo "……またファッジだ"
 
 translate Japanese mas_reaction_fudge_28f34feb:
     m 1wub "あっ、今回は違う味なのね……"
@@ -744,16 +744,16 @@ translate Japanese mas_reaction_fudge_9ca5cc81:
     m 3hua "ありがとう[player]！"
 
 translate Japanese mas_reaction_fudge_c6690697:
-    m 1wuo "…またファッジなの？"
+    m 1wuo "……またファッジなの？"
 
 translate Japanese mas_reaction_fudge_961930e7:
     m 3rksdla "あなたが最後に贈ってくれたのもまだ食べきれてないんだけれど……"
 
 translate Japanese mas_reaction_fudge_c7802ee5:
-    m 3eksdla "…あとでもらうわ……"
+    m 3eksdla "……あとでもらうわ"
 
 translate Japanese mas_reaction_christmascookies_8f70ecff:
-    m 3wuo "…またクリスマスクッキーを贈ってきたの？"
+    m 3wuo "……またクリスマスクッキーを贈ってきたの？"
 
 translate Japanese mas_reaction_christmascookies_c03e2a06:
     m 3rksdla "[player]、まだ最後に贈られた分も食べきれてないんだよ！"
@@ -762,7 +762,7 @@ translate Japanese mas_reaction_christmascookies_d136291b:
     m 3eksdla "贈るにしても、これが食べ終わってからにして。いいわね？"
 
 translate Japanese mas_reaction_christmascookies_6473acbf:
-    m 1wuo "…またクリスマスクッキーだ！"
+    m 1wuo "……またクリスマスクッキーだ！"
 
 translate Japanese mas_reaction_christmascookies_90488d31:
     m 3wuo "こんなにたくさんのクッキー見たことないわ！"
@@ -777,7 +777,7 @@ translate Japanese mas_reaction_christmascookies_a9914831:
     m 1eua "クリスマスクッキーは本当に大好きなの！とっても甘いだけじゃなくて見た目もかわいいよね"
 
 translate Japanese mas_reaction_christmascookies_742efcc5:
-    m "雪だるま。トナカイ。クリスマスツリー。どれも美味しくて綺麗なアイシングで飾られてて…"
+    m "雪だるま。トナカイ。クリスマスツリー。どれも美味しくて綺麗なアイシングで飾られてて……"
 
 translate Japanese mas_reaction_christmascookies_fe98c34c:
     m 3eub "本当に目でも口でも楽しめる素敵なプレゼントだよね！"

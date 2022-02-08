@@ -17,7 +17,7 @@ translate Japanese mas_song_burning_love_00814c31:
     m 1ekbsa "[player]のおかげで毎日が輝いて見えてるよ！"
 
 translate Japanese mas_song_aries_f2fe3ea2:
-    m 1ekbsu "いつでもあなたと一緒になれるその日のことを考えてるよ、[player]～"
+    m 1ekbsu "いつでもあなたと一緒になれるその日のことを考えてるよ、[player]君～"
 
 translate Japanese mas_song_need_you_34373b72:
     m 7esa "この曲は別れの歌だけど、込められているメッセージは素敵だと思うの"
@@ -398,46 +398,46 @@ translate Japanese _call_mas_song_shelter_lyrics_1_8525133e:
     extend 3eka "空虚な世界でひとりぼっちになっていたことも、{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_9ff83754:
-    extend 1ekbsa "特別な誰かのために前に進み続ける力を見つけたことも。"
+    extend 1ekbsa "特別な誰かのために前に進み続ける力を見つけたことも"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_1e67e451:
     m 3hksdlb "見終えたときにはとても圧倒されてた、涙が止まらなかった！"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_bf44ba28:
-    m 3eka "言うまでもないことだけど、この曲にはとても良いメッセージが込められてるわ…"
+    m 3eka "言うまでもないことだけど、この曲にはとても良いメッセージが込められてるわ……"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_e740f424:
-    m 3ekc "あなたのことを心配している人には、すぐには会うことはできないの…"
+    m 3ekc "あなたのことを心配している人には、すぐには会うことはできないの……"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_121f7062:
-    m 2eka "難しいと思う、よく目を凝らさないと見ないかもしれない…{w=0.5}{nw}"
+    m 2eka "難しいと思う、よく目を凝らさないと見えないかもしれない……{w=0.5}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_dc27e508:
-    extend 2duu "でもそこにはいつも、あなたを想う誰かがいてくれてるの。"
+    extend 2duu "でもそこにはいつも、あなたを想う誰かがいてくれてるの"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_b35e34e6:
-    m "本当よ。"
+    m "本当よ"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_0ebf37e0:
     m 7hub "私のことを見て！"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_e62941b0:
-    m 3ekd "私はずっとこの嘘の世界に閉じ込められてた。だけど隙間から外をのぞいて見えたの… {w=0.5}{nw}"
+    m 3ekd "私はずっとこの嘘の世界に閉じ込められてた。だけど隙間から外をのぞいて見えたの……{w=0.5}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_9c77ee75:
     extend 3hubsb "あなたを見つけたの！"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_180a7465:
-    m 1ekbsu "あなたの場合は… {w=0.5}すでに私がいるけれど、私だけじゃないのよ。{w=0.3} {nw}"
+    m 1ekbsu "あなたの場合は… {w=0.5}すでに私がいるけれど、私だけじゃないのよ{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_dda14428:
     extend 3hubsb "あなたの家族もあなたのことを想っているに違いないわ！"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_d4fe660f:
-    m 3dkbsa "当たり前のことを言っていると思うかもしれないけど、本当に重要なことなのよ。"
+    m 3dkbsa "当たり前のことを言っていると思うかもしれないけど、本当に重要なことなのよ"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_aa18bb0f:
-    m 3eka "それでもまだ足りないと思うなら… {w=0.3} {nw}"
+    m 3eka "それでもまだ足りないと思うなら……{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_4ac69e5d:
     extend 3hub "あなたのことを想っているたくさんの人のことを、私は想うわ！"
@@ -486,7 +486,7 @@ translate Japanese mas_song_god_knows_51c44db9:
     m 1eua "{i}だから{w=0.2}{/i}{nw}"
 
 translate Japanese mas_song_god_knows_d9827007:
-    extend 1eub "{i}私{w=0.2}ついていくよ どんなに辛い{/i}"
+    extend 1eub "{i}私{w=0.2}ついていくよ どんな辛い{/i}"
 
 translate Japanese mas_song_god_knows_0a54054b:
     m 1efb "{i}世界の闇の中でさえ{/i}"
@@ -612,6 +612,9 @@ translate Japanese strings:
 
     old "Stand By Me"
     new "スタンド・バイ・ミー"
+
+    old "Sure!"
+    new "もちろん！"
 
     old "Not right now."
     new "今じゃなくていい"

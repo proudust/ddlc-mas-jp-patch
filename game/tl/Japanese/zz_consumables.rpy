@@ -5,7 +5,7 @@ translate Japanese mas_consumables_generic_get_237b8a80:
     m 1eua "[line_starter!t]すぐに戻るわ{w=1}{nw}"
 
 translate Japanese mas_consumables_generic_get_a644a99b:
-    m 1eua "ちょっとまってね。"
+    m 1eua "ちょっとまってね"
 
 translate Japanese _call_mas_transition_from_emptydesk_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
