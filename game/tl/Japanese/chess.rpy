@@ -66,16 +66,16 @@ translate Japanese _call_mas_chess_dlg_game_monika_wins_sometimes_fe9c0937:
     m 1eua "それはともかく……"
 
 translate Japanese _call_mas_chess_savegame_ed69febf:
-    m 1eua "これは引き分けね。"
+    m 1eua "これは引き分けね"
 
 translate Japanese _call_mas_chess_savegame_7fc09fe5:
     m 3wuo "とても長い試合だったわね！"
 
 translate Japanese _call_mas_chess_savegame_dacd03c3:
-    m 1eka "あっ、ステルスメイト状態のようね。"
+    m 1eka "あっ、ステイルメイト状態のようね"
 
 translate Japanese _call_mas_chess_savegame_52127a00:
-    m 3hub "[line_start]、あなたがまた一歩私を倒すのに近づいてるってことね。"
+    m 3hub "[line_start]、あなたがまた一歩私を倒すのに近づいてるってことね"
 
 translate Japanese _call_mas_chess_savegame_27c4f439:
     m 1hua "ここまでよく頑張ったわね、[player]～"
@@ -132,7 +132,7 @@ translate Japanese mas_chess_play_again_ask_32d0248c:
     m "もう一度チェスをプレイする？{fast}" nointeract
 
 translate Japanese _call_mas_chess_draw_lots_2_ea210635:
-    m 1eua "わかった、じゃあすぐに始めるね。"
+    m 1eua "おっけー、またやろうね"
 
 translate Japanese mas_chess_draw_lots_47608234:
     m 2eub "あ、私は黒ね！ [lets_begin]"
@@ -141,7 +141,7 @@ translate Japanese mas_chess_draw_lots_72a19603:
     m 2eub "あ、私は白ね！ [lets_begin]"
 
 translate Japanese mas_chess_savegame_save_start_8375815b:
-    m 1eka "もう 『[save_name]』という名前のデータが有るわ。"
+    m 1eka "もう 『[save_name]』という名前のデータが有るわ"
 
 translate Japanese mas_chess_savegame_save_start_c70564be:
     m "データを上書きして良いかな？{nw}"
@@ -159,7 +159,7 @@ translate Japanese mas_chess_savegame_pgn_explain_27b254e6:
     m 1esa "このフォーマットは、『Portable Game Notation』と呼ばれているの。{w=0.2} {nw}"
 
 translate Japanese mas_chess_savegame_pgn_explain_ebc860c3:
-    extend 1eua "ネットでPGNビューワーを見つけてこのデータファイル開けば、どこで指し手を間違えたのか確認できるよ。"
+    extend 1eua "ネットでPGNビューワーを見つけてこのデータファイル開けば、どこで指し手を間違えたのか確認できるよ"
 
 translate Japanese mas_chess_savegame_pgn_explain_35985a6f:
     m 3eub "対局中に打てたはずのもっと良い手というのは、勝負結果に関係なく存在するものなの。だから上達にはデータを使った試合の見直しが一番なのよ！"
@@ -168,7 +168,7 @@ translate Japanese mas_chess_savegame_pgn_explain_e49b6220:
     m 1lksdlb "……まあこのファイルを改変すればゲームの結果も変えられるけど{w=0.5} {nw}"
 
 translate Japanese mas_chess_savegame_pgn_explain_0c85f20b:
-    extend 1tsu "あなたはそんな事しないってわかってるわ。"
+    extend 1tsu "あなたはそんな事しないってわかってるわ"
 
 translate Japanese mas_chess_savegame_pgn_explain_e897b6e6:
     m 1tku "そうだよね、[player]？{nw}"
@@ -583,7 +583,7 @@ translate Japanese strings:
     new "勝負だ！"
 
     old "Nevermind."
-    new "なんでもいい"
+    new "なんでもない"
 
     old "Casual Rules"
     new "カジュアルルール"
@@ -646,10 +646,10 @@ translate Japanese strings:
     new "違うルールでやりたい"
 
     old "{w=0.2} Let's begin."
-    new "{w=0.2} じゃあゲームを始めるね。"
+    new "{w=0.2} じゃあゲームを始めるね"
 
     old "Enter a name for this game:"
-    new "セーブデータに名前を付けてね。"
+    new "セーブデータに名前を付けてね"
 
     old "You still need to pick a game to keep."
     new "まだ保存したいゲームを選ばなきゃ"

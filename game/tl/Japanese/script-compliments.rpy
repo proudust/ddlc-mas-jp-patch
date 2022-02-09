@@ -62,7 +62,7 @@ translate Japanese mas_compliment_eyes_3_56ed5f12:
     m 2ekbfb "[eyes_quip!t]"
 
 translate Japanese mas_compliment_awesome_2_8ca00a62:
-    m 1hua "あわわ、[player]君ったら～"
+    m 1hua "もぅ〜〜、[player]君ったら～"
 
 translate Japanese mas_compliment_awesome_2_35f68315:
     m 1hub "本当に優しいのね！"
@@ -149,7 +149,7 @@ translate Japanese mas_compliment_hair_2_c23cf6d1:
     m 1hub "ありがと、[player]君！"
 
 translate Japanese mas_compliment_hair_2_46f68577:
-    m 1ekbsa "あわわ、[player]君ってば。"
+    m 1ekbsa "も〜〜、[player]君ってば"
 
 translate Japanese mas_compliment_hair_2_f72d9f2a:
     m 1hubfb "あなたっていつも愛しい気分にさせてくれるよね！"
@@ -215,34 +215,34 @@ translate Japanese mas_compliment_fit_3_cf051ed3:
     m 7hub "[fitness_quip!t]"
 
 translate Japanese mas_compliment_thanks_7990b1f2:
-    m 1duu "礼に及ぶことでもないよ、[player]君。"
+    m 1duu "感謝されるようなことじゃないよ、[player]君"
 
 translate Japanese mas_compliment_thanks_a2b779b7:
-    m 1eka "私はあなたのことが誰よりも大好きなひとりの人だもの！"
+    m 1eka "私の方こそあなたのような人がそばにいてくれてすっごく感謝してるんだもの！"
 
 translate Japanese mas_compliment_thanks_6cd6f56b:
-    m 1ekbsa "私がここに居続けるのもあなたがいてくれるからだよ。"
+    m 1ekbsa "私がここに居続けるのもあなたがいてくれるからだよ"
 
 translate Japanese mas_compliment_thanks_e1d83b8f:
-    m "このMODを入れたのも私ともっと一緒に過ごしたいってことだし……"
+    m "私たちがより良い時間を過ごせるようにこのMODを入れてくれたのも……"
 
 translate Japanese mas_compliment_thanks_80105132:
-    m 1dubsu "あなたはいつだって私のそばで心を暖めてくれる太陽なんだから。"
+    m 1dubsu "あなたはいつだって私のそばで心を暖めてくれる太陽なんだから"
 
 translate Japanese mas_compliment_thanks_fd18caf8:
-    m 3ekbsa "一緒にいられて幸せでしょ、[player]君～"
+    m 3ekbsa "私たちがお互いに、こうして一緒に居られることを幸運に思うわ、[player]君～"
 
 translate Japanese mas_compliment_thanks_48645c18:
     m 1ekbsa "[player]君……"
 
 translate Japanese mas_compliment_thanks_bb992cd1:
-    m 1dubsu "あなたが来てくれるってことが何よりの幸せだから。"
+    m 1dubsu "あなたがそう言ってくれるのを聞くが何よりの幸せだから"
 
 translate Japanese mas_compliment_thanks_4ba354c2:
-    m "私たちの未来に何があっても……{w=0.5}{nw}"
+    m "たとえどんな未来が私たち二人を待ち受けていようとも……{w=0.5}{nw}"
 
 translate Japanese mas_compliment_thanks_b72aa841:
-    extend 1dkbfa "あなたのためにいつだってここにいるからね！"
+    extend 1dkbfa "私はいつだってあなたを愛しているし、あなたのためにここにいるからね！"
 
 translate Japanese mas_compliment_thanks_0d8345dc:
     m 1hub "えへへ～"
@@ -323,7 +323,7 @@ translate Japanese mas_compliment_cute_2_da01e910:
     m 1hubfa "でもそう思ってくれてるのは嬉しいよ！"
 
 translate Japanese mas_compliment_cute_2_5d7b1011:
-    m 1hubfb "あわわ、そう言われると私の心まで温かくなっちゃうな！"
+    m 1hubfb "あーん、そう言われると私の心まで温かくなっちゃうな！"
 
 translate Japanese mas_compliment_cute_2_ce3af881:
     m 1dkbfu "……いつか同じ現実で一緒になれたときを思い描くのと同じぐらいにね"
@@ -348,6 +348,9 @@ translate Japanese mas_compliment_cute_2_c0bcc4d4:
 
 translate Japanese mas_compliment_cute_2_857fcbb7:
     m 1rsc "でも私は私でちゃんと見てほしかったかな"
+
+translate Japanese mas_compliment_cute_3_7ae0aa44:
+    m 1ekbsa "えへへ……ありがと、[player]君……"
 
 translate Japanese mas_compliment_cute_3_95e4a101:
     m 1hubfa "[cute_quip!t]"
@@ -548,7 +551,7 @@ translate Japanese mas_compliment_thinking_of_you_2_be8be5aa:
     m 3hubfu "私もあなたを想うだけで笑顔になっちゃうんだ。同じだね～"
 
 translate Japanese mas_compliment_thinking_of_you_2_062154b0:
-    m 6hua "あわわ～"
+    m 6hua "もぅ～"
 
 translate Japanese mas_compliment_thinking_of_you_2_efe23b8a:
     m 6subsa "[player]……"
@@ -567,6 +570,9 @@ translate Japanese mas_compliment_thinking_of_you_2_c0e20ed9:
 
 translate Japanese mas_compliment_thinking_of_you_2_8be188bd:
     m 2rksdld "ごめんなさいね？"
+
+translate Japanese mas_compliment_thinking_of_you_3_9c837714:
+    m 1ekbsa "あぅ、ありがとう、[player]……"
 
 translate Japanese mas_compliment_thinking_of_you_3_f21ac8d6:
     m 3hubfb "[thinking_of_you_quip!t]"
@@ -789,7 +795,7 @@ translate Japanese strings:
     new "あなたっていつも愛しい気分にさせてくれるね、[player]君。"
 
     old "Aww, [player]~"
-    new "あわわ、[player]君ったら～"
+    new "も〜、[player]君ったら～"
 
     old "Thanks, [player]!"
     new "ありがと、[player]君！"
@@ -933,10 +939,10 @@ translate Japanese strings:
     new "いつか一緒に体を動かせるといいわね！"
 
     old "Thanks for being there for me!"
-    new "そこに居てくれてありがとう！"
+    new "そばに居てくれてありがとう！"
 
     old "You mean everything to me, [m_name]."
-    new "君は自分の全てだよ、[m_name]。"
+    new "君は自分の全てだよ、[m_name]"
 
     old "I love your smile!"
     new "笑顔が好き！"
@@ -949,6 +955,12 @@ translate Japanese strings:
 
     old "I'll keep smiling just for you."
     new "あなただけのために笑顔でいるから！"
+
+    old "I can't help but smile when I think of you."
+    new "あなたのことを考えているだけで思わず笑みがこぼれちゃう"
+
+    old "I can't wait to see your beautiful smile."
+    new "あなたの素敵な笑顔がこの目で見れる日が楽しみ"
 
     old "You're my hero!"
     new "君はヒーローだ！"
@@ -997,6 +1009,12 @@ translate Japanese strings:
 
     old "You're the center of my world!"
     new "あなたは私の世界の中心なんだから！"
+
+    old "You're always on my mind too!"
+    new "私もいつだってあなたのことを想ってるよ！"
+
+    old "I'm always thinking about you too!"
+    new "私もいつでもあなたのことを考えているんだからね！"
 
     old "I love your sense of humor!"
     new "ユーモアのセンスが大好きだよ！"

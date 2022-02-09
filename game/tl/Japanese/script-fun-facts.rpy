@@ -134,7 +134,7 @@ translate Japanese mas_fun_fact_otter_hand_holding_23167dc8:
     m 1rksdlb "あぁ～､本当に羨ましいわ"
 
 translate Japanese mas_fun_fact_otter_hand_holding_eca466d1:
-    m 1hub "でも、私達もきっといつかは手をつなげられる日が来るよ～"
+    m 1hub "でも、私達もきっといつかは手をつなげる日が来るよ～"
 
 translate Japanese mas_fun_fact_chess_23049875:
     m 1eua "モニカちゃんの、今日の豆知識！"
@@ -233,11 +233,10 @@ translate Japanese mas_fun_fact_vincent_van_gone_76dc443c:
     m 1ekd "少しがっかりするような話かもしれないけどね、[player]……"
 
 translate Japanese mas_fun_fact_vincent_van_gone_0f1cbad5:
-    m 1ekc "画家のゴッホは人生の最後にこういう言葉を残したんだって。
-「{i}La tristesse durera toujours{/i}」"
+    m 1ekc "画家のゴッホは人生の最後にこういう言葉を残したんだって。『{i}La tristesse durera toujours{/i}』"
 
 translate Japanese mas_fun_fact_vincent_van_gone_119306e2:
-    m 1eud "これを翻訳すると、「i}悲しみは永遠に続くだろう{/i}」って意味になるんだ"
+    m 1eud "これを翻訳すると、「{i}悲しみは永遠に続くだろう{/i}」って意味になるんだ"
 
 translate Japanese mas_fun_fact_vincent_van_gone_f27eea59:
     m 1rkc "……"
@@ -714,31 +713,31 @@ translate Japanese mas_fun_fact_coffee_origin_e8cdf042:
     m 1eud "前にコーヒーを淹れたときにね、いつコーヒーが生まれたのか気になったの……"
 
 translate Japanese mas_fun_fact_coffee_origin_8b69e059:
-    m 3euc "コーヒーがいつごろ飲まれていたかの記録については一貫して15世紀頃とされているのだけれど……{w=0.2}どのように発見されたかについては、正確なことはわかっていないの。"
+    m 3euc "コーヒーがいつごろ飲まれていたかの記録については一貫して15世紀頃とされているのだけれど……{w=0.2}どのように発見されたかについては、正確なことはわかっていないの"
 
 translate Japanese mas_fun_fact_coffee_origin_c7071daf:
     m 3eud "コーヒーの起源を主張する言い伝えが、いくつも残されているのよね……"
 
 translate Japanese mas_fun_fact_coffee_origin_30a6bf4f:
-    m 1eua "ある話では、不思議な苦い木の実を食べた動物が奇妙な行動をとっていたのを農民や僧侶が見つけたことになってるわ。"
+    m 1eua "ある話では、不思議な苦い木の実を食べた動物が奇妙な行動をとっていたのを農民や僧侶が見つけたことになってるわ"
 
 translate Japanese mas_fun_fact_coffee_origin_5ef1d617:
     m 3wud "そしてその実の中にあった豆を食べてみると、驚くことに自分たちも動物たちと同じようにみるみる元気になった！"
 
 translate Japanese mas_fun_fact_coffee_origin_cec129b0:
-    m 2euc "そんな言い伝えの1つに、カルディという名のエチオピアの僧侶が見つけた木の実を近くの修道院へ持って来たというものもあって。"
+    m 2euc "そんな言い伝えの1つに、カルディという名のエチオピアの僧侶が見つけた木の実を近くの修道院へ持って来たというものもあって"
 
 translate Japanese mas_fun_fact_coffee_origin_d6d9e64a:
-    m 7eksdld "……修道院へ持って来ようとしてたのだけど、ところが不注意で彼は木の実を焚き火の中に投げ込んでしまったの。"
+    m 7eksdld "……修道院へ持って来ようとしてたのだけど、ところが不注意で彼は木の実を焚き火の中に投げ込んでしまったの"
 
 translate Japanese mas_fun_fact_coffee_origin_5cdc88a5:
-    m 3duu "でも燃えるにつれて、とてもおいしそうな香りが炎の中から漂ってきたの。{w=0.3}とても魅力的な香りをどうにか残そうと、僧侶たちは燃え残った豆を取り出して水の中に入れて保存した。"
+    m 3duu "でも燃えるにつれて、とてもおいしそうな香りが炎の中から漂ってきたの。{w=0.3}とても魅力的な香りをどうにか残そうと、僧侶たちは燃え残った豆を取り出して水の中に入れて保存した"
 
 translate Japanese mas_fun_fact_coffee_origin_9b8e1f11:
     m 3eub "……つまりそれが、世界で一番最初に作られたコーヒー！"
 
 translate Japanese mas_fun_fact_coffee_origin_3085e63d:
-    m 2euc "他の話では、オマールというイスラム人の学者がメッカから追放されたときにコーヒー豆を発見したそうよ。"
+    m 2euc "他の話では、オマールというイスラム人の学者がメッカから追放されたときにコーヒー豆を発見したそうよ"
 
 translate Japanese mas_fun_fact_coffee_origin_609a0773:
     m 2eksdld "追放させられたときの彼は飢え死にしそうになっていたのだけど、{w=0.3}{nw}"
@@ -747,16 +746,16 @@ translate Japanese mas_fun_fact_coffee_origin_0deb1847:
     extend 7wkd "コーヒーのおかげで元気が出て、どうにか生き延びることが出来たのよ！"
 
 translate Japanese mas_fun_fact_coffee_origin_5dc38a57:
-    m 3hua "不思議な豆のおかげで彼が生き延びたという噂が広まると、彼はメッカに戻るように連絡を受けて、聖人に認定されたそうよ。"
+    m 3hua "不思議な豆のおかげで彼が生き延びたという噂が広まると、彼はメッカに戻るように連絡を受けて、聖人に認定されたそうよ"
 
 translate Japanese mas_fun_fact_coffee_origin_89c55666:
-    m 1esd "それが本当に最初の発見かどうかはわからないけど、コーヒーは発見された後、イスラムの世界でとても一般的な飲み物になっていったのよ。"
+    m 1esd "それが本当に最初の発見かどうかはわからないけど、コーヒーは発見された後、イスラムの世界でとても一般的な飲み物になっていったのよ"
 
 translate Japanese mas_fun_fact_coffee_origin_625b8e6e:
-    m 3eud "たとえば、コーヒーは空腹感を和らげたり元気を出してくれるからイスラムの断食期間中によく飲まれていた。"
+    m 3eud "たとえば、コーヒーは空腹感を和らげたり元気を出してくれるからイスラムの断食期間中によく飲まれていたわ"
 
 translate Japanese mas_fun_fact_coffee_origin_07e9a82b:
-    m 3eua "コーヒーがヨーロッパに来たとき、始めは医療用として広まっていて、{w=0.3}喫茶店で飲まれる人気の飲み物になったのは16世紀の終わり頃の話なの。"
+    m 3eua "コーヒーがヨーロッパに来たとき、始めは医療用として広まっていて、{w=0.3}喫茶店で飲まれる人気の飲み物になったのは16世紀の終わり頃の話なの"
 
 translate Japanese mas_fun_fact_coffee_origin_8c115315:
     m 3hub "そして今日までコーヒーは人々に愛され続けて、私はその愛好者のひとりってわけね！"

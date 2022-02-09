@@ -44,22 +44,22 @@ translate Japanese _call_mas_story_begin_0516c067:
     m 1hua "お話どうだった？ [player]君が楽しんでくれてたら嬉しいな～"
 
 translate Japanese _call_mas_story_begin_1_6046f153:
-    m 1eud "ある夏の暑い日のことでした。一匹の狐が果樹園を歩いていると、枝の高いところに熟した一房のぶどうを見つけました。"
+    m 1eud "ある夏の暑い日のことでした。一匹の狐が果樹園を歩いていると、枝の高いところに熟した一房のぶどうを見つけました"
 
 translate Japanese _call_mas_story_begin_1_8d1839f4:
-    m 1tfu "『ちょうど喉が渇いていたところだったんだ』、狐は言います。"
+    m 1tfu "『ちょうど喉が渇いていたところだったんだ』、狐は言います"
 
 translate Japanese _call_mas_story_begin_1_0983f969:
-    m 1eua "狐はその場から数歩下がり、勢いをつけてぶどうが実った木へジャンプ！ ですがあと少しのところでぶどうに届きません。"
+    m 1eua "狐はその場から数歩下がり、勢いをつけてぶどうが実った木へジャンプ！ ですがあと少しのところでぶどうに届きません"
 
 translate Japanese _call_mas_story_begin_1_2ec2412f:
-    m 3eub "助走をつけてもう1回、{w=1.0}2回、{w=1.0}3回{w=1.0}と、繰り返しましたがぶどうには届きません。"
+    m 3eub "助走をつけてもう1回、{w=1.0}2回、{w=1.0}3回{w=1.0}と、繰り返しましたがぶどうには届きません"
 
 translate Japanese _call_mas_story_begin_1_ba643386:
-    m 3tkc "ぶどうの魅力に取り憑かれ、何度も挑戦しました。ですが、狐はついにあきらめてしまいました。そしてぶどうの実った木から去りながら言いました、『フンッ、あんなぶどういらねえよ。絶対すっぱくてまずいぶどうだったんだ』"
+    m 3tkc "ぶどうの魅力に取り憑かれ、何度も挑戦しました。ですが、狐はついにあきらめてしまいました。そしてぶどうの実った木から去りながら言いました、『フンッ、あんなぶどうなんかいらないや。絶対すっぱくてまずいぶどうだったんだ』"
 
 translate Japanese _call_mas_story_begin_1_298b9b40:
-    m 1hksdrb "この話の教訓は、人は自分が得られないものに対して文句をつけがちってことね。"
+    m 1hksdrb "この話の教訓は、人は自分が得られないものに対して文句をつけがちってことね"
 
 translate Japanese _call_mas_story_begin_1_77c5f182:
     m 1eua "気に入ってくれるといいな、[player]君～"
@@ -1816,61 +1816,61 @@ translate Japanese _call_mas_scary_story_setup_13_d94e5f5f:
     m 3dsd "それを聞いて打ちひしがれ、自らを恥じたウィリアムたちは、娘の遺体を屋敷のある場所に寝かせ、その周りを壁で塗り固めました。そしてその屋敷を出て、二度と戻っては来ませんでした。"
 
 translate Japanese _call_mas_scary_story_setup_14_509c641a:
-    m 3eub "一つ言っておきたいんだけど、次に話す物語は少し長いお話なの。"
+    m 3eub "一つ言っておきたいんだけど、次に話す物語は少し長いお話なの"
 
 translate Japanese _call_mas_scary_story_setup_14_199a1748:
-    m 3eua "だからパートを分けて、三部構成にしておいたわ。"
+    m 3eua "だからパートを分けて、三部構成にしておいたわ"
 
 translate Japanese _call_mas_scary_story_setup_14_bfd5ef9d:
-    m "一部終えるごとに、続けてお話を聞くか尋ねるからね。"
+    m "一部終えるごとに、続けてお話を聞くか尋ねるからね"
 
 translate Japanese _call_mas_scary_story_setup_14_18cb06ad:
-    m 1eub "いいえと答えても、次の部から始められるようにするから、心配しないでね。"
+    m 1eub "いいえと答えても、次の部から始められるようにするから、心配しないでね"
 
 translate Japanese _call_mas_scary_story_setup_14_ed17e502:
-    m 4hua "じゃあ、始めるわよ。"
+    m 4hua "じゃあ、始めるわよ"
 
 translate Japanese _call_mas_scary_story_setup_14_47388db9:
-    m 4eua "昔々、ある名門の武家にお露というそれはそれは美しい娘がおりました。"
+    m 4eua "昔々、ある名門の武家にお露というそれはそれは美しい娘がおりました"
 
 translate Japanese _call_mas_scary_story_setup_14_9aa7afb6:
-    m 4eud "お露の母親が病死をし、父親はすぐに新しい妻を娶りました。"
+    m 4eud "お露の母親が病死をし、父親はすぐに新しい妻を娶りました"
 
 translate Japanese _call_mas_scary_story_setup_14_d733f579:
-    m 2euc "しかしながら新しい妻とお露は気が合わないだろうと、父親は思っておりましたので……"
+    m 2euc "しかしながら新しい妻とお露は気が合わないだろうと、父親は思っていましたので……"
 
 translate Japanese _call_mas_scary_story_setup_14_54efa4ca:
-    m 2esa "たったひとりの愛娘に幸せであってほしいと願い、父親は立派な離れをこさえてお露をそこに住まわせることにしました。"
+    m 2esa "たったひとりの愛娘に幸せであってほしいと願い、父親は立派な離れをこさえてお露をそこに住まわせることにしました"
 
 translate Japanese _call_mas_scary_story_setup_14_1f1568cf:
-    m "ある日のこと。お露は回診に来たお医者様に、萩原という名のたいそう顔の良いお侍を紹介されました。"
+    m "ある日のこと。お露は回診に来たお医者様に、萩原という名のたいそう顔の良いお侍を紹介されました"
 
 translate Japanese _call_mas_scary_story_setup_14_173940b3:
-    m 4eub "お露と萩原は目を合わせた瞬間、恋に落ちたのです。"
+    m 4eub "お露と萩原は目を合わせた瞬間、恋に落ちたのです"
 
 translate Japanese _call_mas_scary_story_setup_14_828bc15b:
-    m 4esc "ふたりはお医者様が目を離した一瞬の隙きを見て、互いに愛を誓いあったのでした。"
+    m 4esc "ふたりはお医者様が目を離した一瞬の隙きを見て、互いに愛を誓いあったのでした"
 
 translate Japanese _call_mas_scary_story_setup_14_bb7f2d53:
-    m 4dsd "そして帰り際、お露は『また会ってくださらなかったら、私死んでしまいますから』と萩原にささやきました。"
+    m 4dsd "そして帰り際、お露は『また会ってくださらなかったら、私死んでしまいますから』と萩原にささやきました"
 
 translate Japanese _call_mas_scary_story_setup_14_8104b415:
-    m 2esc "萩原はその言葉をしっかりと忘れずにいましたが、正式に婚約をしていない娘と逢瀬を重ねることはためらわれましたので、お医者様の力を借りてお露の住む離れへ行かねばなりませんでした。"
+    m 2esc "萩原はその言葉をしっかりと忘れずにいましたが、正式に婚約をしていない娘と逢瀬を重ねることはためらわれましたので、お医者様の力を借りてお露の住む離れへ行かねばなりませんでした"
 
 translate Japanese _call_mas_scary_story_setup_14_203cdac1:
-    m 2dsd "しかしお医者様はふたりの関係に気が付いておりました。"
+    m 2dsd "しかしお医者様はふたりの関係に気が付いていました"
 
 translate Japanese _call_mas_scary_story_setup_14_42684d52:
-    m 4ekc "お露の父親は、怒らせた不届き者をばっさりと切り落としたことで有名なお方でした。もしお露と萩原を引きあわせたのが自分だと知れたら……そう思ってお医者様は萩原のことを避けていたのです。"
+    m 4ekc "お露の父親は、怒らせた不届き者をばっさりと切り落としたことで有名なお方でした。もしお露と萩原を引きあわせたのが自分だと知れたら……そう思ってお医者様は萩原のことを避けていたのです"
 
 translate Japanese _call_mas_scary_story_setup_14_1c69a476:
-    m 2rkc "出会いから数ヶ月が経ち、萩原に捨てられてしまったと恨みながらお露は命を断ってしまいました。"
+    m 2rkc "出会いから数ヶ月が経ち、萩原に捨てられてしまったと恨みながらお露は命を断ってしまいました"
 
 translate Japanese _call_mas_scary_story_setup_14_ade18b80:
-    m 1ekc "まもなくして、萩原のもとへお医者様がお露の死を伝えに来ました。"
+    m 1ekc "まもなくして、萩原のもとへお医者様がお露の死を伝えに来ました"
 
 translate Japanese _call_mas_scary_story_setup_14_367322ac:
-    m 1dsd "深く悲しんだ荻原はそれからお露のために線香を焚き念仏を唱える日々を送ったのでした。"
+    m 1dsd "深く悲しんだ荻原はそれからお露のために線香を焚き念仏を唱える日々を送ったのでした"
 
 translate Japanese _call_mas_scary_story_setup_14_83982e2a:
     m 1hua "……これにて第一部終了！ 第二部も続けて聞いてく？{nw}"
@@ -1879,106 +1879,106 @@ translate Japanese _call_mas_scary_story_setup_14_99a43432:
     m "……これにて第一部終了！ 第二部も続けて聞いてく？{fast}" nointeract
 
 translate Japanese _call_mas_scary_story_setup_15_63b9e5b1:
-    m 4ekd "その年のお盆初日、夕日が沈んだ後もずっと萩原はお露を想って念仏を唱えておりました。"
+    m 4ekd "その年のお盆初日、夕日が沈んだ後もずっと萩原はお露を想って念仏を唱えていました"
 
 translate Japanese _call_mas_scary_story_setup_15_24110b20:
-    m 2eud "もう床に入り寝ようとしたその時、戸の外でカランコロンと下駄の音が聞こえたのです。"
+    m 2eud "もう床に入り寝ようとしたその時、戸の外でカランコロンと下駄の音が聞こえたのです"
 
 translate Japanese _call_mas_scary_story_setup_15_fb69a8f5:
-    m 4euc "萩原は人通りのない場所に住んでおりましたし、こんなに夜遅くに人がいるはずもありません。萩原は気になって戸をそっと開けて外を覗いてみました。"
+    m 4euc "萩原は人通りのない場所に住んでおりましたし、こんなに夜遅くに人がいるはずもありません。萩原は気になって戸をそっと開けて外を覗いてみました"
 
 translate Japanese _call_mas_scary_story_setup_15_ee91ff8c:
-    m 4wub "牡丹の花が飾られた灯籠を持ち、外を歩く人影。それは他の誰でもないお露でした。お露の姿を見た萩原は飛び上がって喜びました。"
+    m 4wub "牡丹の花が飾られた灯籠を持ち、外を歩く人影。それは他の誰でもないお露でした。お露の姿を見た萩原は飛び上がって喜びました"
 
 translate Japanese _call_mas_scary_story_setup_15_daedebf9:
-    m 1hua "萩原はすぐにお露の名を叫び、こちらへ来るように手招きしました。"
+    m 1hua "萩原はすぐにお露の名を叫び、こちらへ来るように手招きしました"
 
 translate Japanese _call_mas_scary_story_setup_15_f48cfc5e:
-    m 1eua "互いに再会を喜びあい、お医者様からお露が死んだと聞かされたと萩原はお露に伝えました。なんとお露も同じく、お医者様から萩原が死んだと聞かされたと言ったのです。"
+    m 1eua "互いに再会を喜びあい、お医者様からお露が死んだと聞かされたと萩原はお露に伝えました。なんとお露も同じく、お医者様から萩原が死んだと聞かされたと言ったのです"
 
 translate Japanese _call_mas_scary_story_setup_15_703ef0cf:
-    m "お露は、父親から別の男性のところへ嫁ぐように言われたことも萩原へ告白しました。"
+    m "お露は、父親から別の男性のところへ嫁ぐように言われたことも萩原へ告白しました"
 
 translate Japanese _call_mas_scary_story_setup_15_812552c4:
-    m 3eub "それを拒否したお露は住んでいた離れを出、今は父親から身を隠すために別の狭い家に住んでいるそうなのです。"
+    m 3eub "それを拒否したお露は住んでいた離れを出て、今は父親から身を隠すために別の狭い家に住んでいるそうなのです"
 
 translate Japanese _call_mas_scary_story_setup_15_db47c22a:
-    m 3eua "そして萩原は一緒に住む従者が起きないように静かにしていてほしいと言い、お露を家に入れました。"
+    m 3eua "そして萩原は一緒に住む従者が起きないように静かにしていてほしいと言い、お露を家に入れました"
 
 translate Japanese _call_mas_scary_story_setup_15_6fe2ce34:
-    m 4eua "それから夜通しふたりは寄り添い語らい合い、夜が明ける前にお露は家へと帰っていきました。"
+    m 4eua "それから夜通しふたりは寄り添い語らい合い、夜が明ける前にお露は家へと帰っていきました"
 
 translate Japanese _call_mas_scary_story_setup_15_c043e00c:
-    m 4esa "次の夜も、お露は昨日と同じ時分に萩原のもとへ訪ねてきました。"
+    m 4esa "次の夜も、お露は昨日と同じ時分に萩原のもとへ訪ねてきました"
 
 translate Japanese _call_mas_scary_story_setup_15_2a5e420d:
-    m 2euc "しかし今夜は、萩原の従者はまだ眠ってはいませんでした。従者は萩原の部屋からする知らない女の声に気づきます。"
+    m 2euc "しかし今夜は、萩原の従者はまだ眠ってはいませんでした。従者は萩原の部屋からする知らない女の声に気づきます"
 
 translate Japanese _call_mas_scary_story_setup_15_202045cd:
-    m 4esd "気になるが主人の邪魔をして叱られるのはごめんだ、と従者は思い、こっそりと襖の切れ目から萩原の部屋を覗くことにしたのです。"
+    m 4esd "気になるが主人の邪魔をして叱られるのはごめんだ、と従者は思い、こっそりと襖の切れ目から萩原の部屋を覗くことにしたのです"
 
 translate Japanese _call_mas_scary_story_setup_15_bbf1f092:
-    m 4eud "襖からは後ろ姿しか見えませんでしたが、女はとても細身で身分の高い人しか着れないような上等な着物をまとっていました。"
+    m 4eud "襖からは後ろ姿しか見えませんでしたが、女はとても細身で身分の高い人しか着れないような上等な着物をまとっていました"
 
 translate Japanese _call_mas_scary_story_setup_15_2fdbc49b:
-    m 4esc "こんな上等な着物を着た女性はどんな顔かとますます気になった従者は、仕事をやめさせられてもいいから顔だけは拝んでやると心に決めます。"
+    m 4esc "こんな上等な着物を着た女性はどんな顔かとますます気になった従者は、仕事をやめさせられてもいいから顔だけは拝んでやると心に決めます"
 
 translate Japanese _call_mas_scary_story_setup_15_a4cf648d:
-    m 2dsc "萩原の背側の明り取りが開けたままになっているのに気づき、従者はすぐに明り取りの向こう側へいそぎました。"
+    m 2dsc "萩原の背側の明り取りが開けたままになっているのに気づき、従者はすぐに明り取りの向こう側へいそぎました"
 
 translate Japanese _call_mas_scary_story_setup_15_7f2afd6a:
-    m 4wuw "そこから部屋の中を覗くと驚いたことに、萩原と抱き合うその女性は顔は骨と皮ばかりの骸骨で、萩原を撫でるその指先も丸裸の骨なのでした。"
+    m 4wuw "そこから部屋の中を覗くと驚いたことに、萩原と抱き合うその女性は顔は骨と皮ばかりの骸骨で、萩原を撫でるその指先も丸裸の骨なのでした"
 
 translate Japanese _call_mas_scary_story_setup_15_70ffc06d:
-    m 2wfd "それを見た途端、従者は恐れおののいて、その場から逃げ出しました。"
+    m 2wfd "それを見た途端、従者は恐れおののいて、その場から逃げ出しました"
 
 translate Japanese _call_mas_scary_story_setup_15_70dffee6:
-    m 1efc "翌朝、従者は萩原の家へ戻り、怯えながら昨晩の女性のことを萩原に尋ねました。"
+    m 1efc "翌朝、従者は萩原の家へ戻り、怯えながら昨晩の女性のことを萩原に尋ねました"
 
 translate Japanese _call_mas_scary_story_setup_15_c31dd9b0:
-    m 4efd "萩原は初め、女など知らないと口を固く閉ざしていましたが、従者があまりに必死に聞いてくるので、根負けして正直に話したのでした。"
+    m 4efd "萩原は初め、女など知らないと口を固く閉ざしていましたが、従者があまりに必死に聞いてくるので、根負けして正直に話したのでした"
 
 translate Japanese _call_mas_scary_story_setup_15_e79760b2:
-    m 4ekc "それを聞いて萩原の身を案じた従者は昨晩見たことをありのまま話し、寺の住職に相談に行ってほしいと萩原に頼みました。"
+    m 4ekc "それを聞いて萩原の身を案じた従者は昨晩見たことをありのまま話し、寺の住職に相談に行ってほしいと萩原に頼みました"
 
 translate Japanese _call_mas_scary_story_setup_15_9f2e3242:
-    m 2euc "それを聞いた萩原はたいそう驚きましたが、にわかには信じられず、お露が住んでいる場所を探り当てて、お露は骸骨などではないと証明して従者を安心させようとなさったのです。"
+    m 2euc "それを聞いた萩原はたいそう驚きましたが、にわかには信じられず、お露が住んでいる場所を探り当てて、お露は骸骨などではないと証明して従者を安心させようとしたのです"
 
 translate Japanese _call_mas_scary_story_setup_15_dcaeadc2:
     m "お露が住んでいると話した付近へと萩原は足を運びましたが……"
 
 translate Japanese _call_mas_scary_story_setup_15_3c0b5b21:
-    m 2esc "誰に聞いても、お露を知る者はいませんでした。"
+    m 2esc "誰に聞いても、お露を知る者はいませんでした"
 
 translate Japanese _call_mas_scary_story_setup_15_bf10858e:
-    m 4dsd "これ以上探しても無駄だと悟り、萩原は家へ帰ることにしました。"
+    m 4dsd "これ以上探しても無駄だと悟り、萩原は家へ帰ることにしました"
 
 translate Japanese _call_mas_scary_story_setup_15_296bbf27:
-    m 4eud "帰り道、寺のそばに墓地がありました。"
+    m 4eud "帰り道、寺のそばに墓地がありました"
 
 translate Japanese _call_mas_scary_story_setup_15_286cb482:
-    m "そこには、前までにはなかった大きく立派な墓が新しく建てられていたのです。"
+    m "そこには、前までにはなかった大きく立派な墓が新しく建てられていたのです"
 
 translate Japanese _call_mas_scary_story_setup_15_42efc306:
-    m 4euc "そしてなんとその墓の上にはお露が持っていたものと同じ、牡丹の花で飾られた灯籠かかけられていたのです。"
+    m 4euc "そしてなんとその墓の上にはお露が持っていたものと同じ、牡丹の花で飾られた灯籠かかけられていたのです"
 
 translate Japanese _call_mas_scary_story_setup_15_14e4bd8c:
-    m 4wuc "一体誰の墓なんだと気になった萩原が墓石に彫られた名を見てみると、そこには萩原の愛するお露の名が刻まれていたのでした。"
+    m 4wuc "一体誰の墓なんだと気になった萩原が墓石に彫られた名を見てみると、そこには萩原の愛するお露の名が刻まれていたのでした"
 
 translate Japanese _call_mas_scary_story_setup_15_0d602ad0:
-    m 2wkc "恐ろしくなった萩原は隣の寺へと駆け込み、住職と話をさせてくれと頼みました。"
+    m 2wkc "恐ろしくなった萩原は隣の寺へと駆け込み、住職と話をさせてくれと頼みました"
 
 translate Japanese _call_mas_scary_story_setup_15_5592ba67:
-    m 4esc "萩原は青ざめた顔で、住職に事の成り行きを包み隠さず全て話しました。"
+    m 4esc "萩原は青ざめた顔で、住職に事の成り行きを包み隠さず全て話しました"
 
 translate Japanese _call_mas_scary_story_setup_15_b50bab3b:
-    m 4esd "話が終わると住職は大きくうなずき、確かに萩原の命が危ないと告げました。"
+    m 4esd "話が終わると住職は大きくうなずき、確かに萩原の命が危ないと告げました"
 
 translate Japanese _call_mas_scary_story_setup_15_212d0729:
     m "『お侍様の深い悲しみとお露の重すぎる愛が、お盆の間だけお露の霊魂を呼び寄せたのでしょう。』"
 
 translate Japanese _call_mas_scary_story_setup_15_abfcdd00:
-    m 4dsc "『ですが、生者と死者の間に結ばれる愛は、生者を黄泉の国へと導くだけでしょう。』と、住職は言ったのでした。"
+    m 4dsc "『ですが、生者と死者の間に結ばれる愛は、生者を黄泉の国へと導くだけでしょう。』と、住職は言ったのでした"
 
 translate Japanese _call_mas_scary_story_setup_15_94244c7c:
     m 1hua "……これにて第二部終了！ 第三部も続けて聞いてく？{nw}"

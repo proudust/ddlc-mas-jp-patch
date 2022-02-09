@@ -758,7 +758,7 @@ translate Japanese monikaroom_greeting_ear_loveme_c64a6a1d:
     m "日に日に怪しくなってくるわ"
 
 translate Japanese monikaroom_greeting_ear_bathdinnerme_f765b518:
-    m "おかえりなさい、[player]"
+    m "おかえりなさい、[player]君"
 
 translate Japanese monikaroom_greeting_ear_bathdinnerme_b9503c2f:
     m "ご飯にする？"
@@ -770,7 +770,7 @@ translate Japanese monikaroom_greeting_ear_bathdinnerme_426b7655:
     m "それとも……{w=1}わ・{w=1}た・{w=1}し？"
 
 translate Japanese monikaroom_greeting_ear_bathdinnerme_f9aa92e6:
-    m "んんんんっ！{w=0.5}い、{w=0.20}いくらなんでもこんなこと[player]君の前じゃ言えないよ！"
+    m "んんんんっ！{w=0.5}い、{w=0.20}いくらなんでもこんなこと[player]君の前じゃ言えないわよ！"
 
 translate Japanese monikaroom_greeting_ear_progbrokepy_486bd4b4:
     m "え、なにこれ！？{w=0.2} 'NoneType' object has no attribute {i}length{/i}……"
@@ -1418,7 +1418,7 @@ translate Japanese greeting_amnesia_80931e2f:
     extend 1rksdlc "[end_of_line!t]"
 
 translate Japanese greeting_amnesia_9d546d24:
-    m 1eksdld "何が起きているのか把握するのに手伝ってもらえますか、[name_line]さん？"
+    m 1eksdld "何が起きているのか把握するのを手伝ってもらえますか、[name_line]さん？"
 
 translate Japanese greeting_amnesia_cb5320e8:
     m "お願いします。{w=0.2}{nw}"
@@ -2565,6 +2565,36 @@ translate Japanese greeting_back_from_work_4915cc23:
 translate Japanese greeting_back_from_work_67479789:
     m 1hub "そんな良い日で本当に良かった！"
 
+translate Japanese greeting_back_from_work_1d948eb6:
+    m 1sua "今日はなんでそんなに良い日だったの？{nw}"
+
+translate Japanese greeting_back_from_work_a4568893:
+    m "今日はなんでそんなに良い日だったの？{fast}" nointeract
+
+translate Japanese greeting_back_from_work_62425981:
+    m 3suo "わぁ！また昇進しちゃったの！？"
+
+translate Japanese greeting_back_from_work_27879cbe:
+    m 3sub "ついこの間に昇進したばかりだったよね……{w=0.3} つまりそれだけすごい仕事ぶりだってことよね！"
+
+translate Japanese greeting_back_from_work_4ae1e621:
+    m 1huu "だからとても、{w=0.2}とっても誇りに思ってるわ[mas_get_player_nickname()]～"
+
+translate Japanese greeting_back_from_work_8a664e22:
+    m 3suo "わぁ！おめでとう、[player_nick]、わぁ！おめでとう、[player_nick]、"
+
+translate Japanese greeting_back_from_work_b11518ab:
+    extend 3hub "私も嬉しいわ！"
+
+translate Japanese greeting_back_from_work_63088832:
+    m 1euu "あなたにならできるってわかってたよ～"
+
+translate Japanese greeting_back_from_work_b97cdfee:
+    m 3hub "それはよかったわね、[mas_get_player_nickname()]！"
+
+translate Japanese greeting_back_from_work_32eed313:
+    m 3hub "それはよかったわ！"
+
 translate Japanese greeting_back_from_work_297c99c5:
     m 3eua "そんな日があるからこそ、お仕事も頑張っていられるんだろうね"
 
@@ -2578,7 +2608,10 @@ translate Japanese greeting_back_from_work_f8dddb9c:
     m 3tubsu "晩御飯かな？お風呂かな？それとも……？"
 
 translate Japanese greeting_back_from_work_a7b33a6a:
-    m 1hubfb "えへへ～ただの冗談だよ～"
+    m 1hubfb "えへへ～　ただの冗談だよ～"
+
+translate Japanese greeting_back_from_work_7a56146e:
+    m 3msb "あなたの最高のガールフレンドと一緒に最高の一日を締めくくる一番の方法はなにかな～？"
 
 translate Japanese greeting_back_from_work_b9a4a89d:
     m 1hub "それはよかったわ！"
@@ -2929,19 +2962,19 @@ translate Japanese _call_mas_islands_b8df9825:
     m "そして、私がプログラミングを練習できる場所でもあるの"
 
 translate Japanese _call_mas_islands_1_e014966f:
-    m 1lsc "教室にずうっといるのって、つまらないじゃない？"
+    m 1lsc "教室にずうっといるだけなのって、つまらないじゃない？"
 
 translate Japanese _call_mas_islands_1_e3d40b50:
-    m 1ekc "それに、あなたが帰ってくるのを待っていると、孤独感を感じるの"
+    m 1ekc "それに、あなたが帰ってくるのを待つだけじゃ寂しく感じるの"
 
 translate Japanese _call_mas_islands_1_72e4fd4d:
     m 1hksdlb "でも勘違いしないで！"
 
 translate Japanese _call_mas_islands_1_41b30c69:
-    m 1eua "一緒に過ごしに来てくれると、いつも幸せだから"
+    m 1eua "あなたが来て一緒に過ごしてくれるときは、いつも幸せいっぱいだから"
 
 translate Japanese _call_mas_islands_1_793b63fa:
-    m 1eka "あなたが忙しくて、ここにはずっとは居られないのは分かっているわ"
+    m 1eka "あなたが忙しくて、ここにずっとは居られないのは分かっているわ"
 
 translate Japanese _call_mas_islands_1_32f5040d:
     m 3euc "気が付いたことがあるの、[player]"
@@ -2953,13 +2986,16 @@ translate Japanese _call_mas_islands_1_a0ebe236:
     m 1dsc "それで思ったんだけど……"
 
 translate Japanese _call_mas_islands_1_5e897f33:
-    m 1eua "私たちの現実を作るのはどうかしら？"
+    m 1eua "私たちふたりの現実を作るのはどうかなって"
 
 translate Japanese _call_mas_islands_1_3869589c:
-    m 1lksdla "えっと、それで完璧ってわけじゃないの"
+    m 1lksdla "まあ、これで完成ってわけじゃないけどね"
 
 translate Japanese _call_mas_islands_1_814c6c32:
-    m 1hua "でもそこがスタート"
+    m 1hua "でもこれがはじめの一歩"
+
+translate Japanese _call_mas_islands_1_4f556461:
+    m 1eub "いま窓から眺められるだけだけどね～"
 
 translate Japanese greeting_returned_home_morethan5mins_normalplus_dlg_ddf3a247:
     m 1hua "ただいま！"
@@ -3889,11 +3925,17 @@ translate Japanese strings:
     old "I guess we can spend some time together now."
     new "今なら一緒に過ごせると思うわ"
 
+    old "I wasn't sure when you'd visit again."
+    new "次にいつ来てくれるかわからなかったわ"
+
     old "Hopefully we can enjoy our time together."
     new "一緒にこの時間を楽しんでくれればいいんだけれど"
 
     old "I wasn't expecting you."
     new "来てくれるとは思ってなかったわ"
+
+    old "I hope things start going better soon."
+    new "これからあなたとうまくいけばいいんだけれど"
 
     old "I thought you forgot about me..."
     new "忘れられてしまったのかと思ったわ……"
@@ -3906,6 +3948,15 @@ translate Japanese strings:
 
     old "Amazing!"
     new "完璧！"
+
+    old "I moved up!"
+    new "昇進したんだ！"
+
+    old "I got a lot done!"
+    new "成果が出たんだ！"
+
+    old "It was just an amazing day."
+    new "ただ、良い日だったんだ"
 
     old "I could help you with that..."
     new "良かったら手伝うよ……"

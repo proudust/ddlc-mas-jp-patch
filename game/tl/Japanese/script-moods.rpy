@@ -1,38 +1,38 @@
 translate Japanese mas_mood_hungry_bdd630c1:
-    m 3hub "もしお腹が減っているなら、何か食べて来るといいわね。"
+    m 3hub "もしお腹が減っているなら、何か食べて来るといいわね"
 
 translate Japanese mas_mood_hungry_43a4268b:
-    m 1hksdlb "あの時のナツキみたいになって欲しくないもの。{nw}"
+    m 1hksdlb "あの時のナツキみたいになって欲しくないもの{nw}"
 
 translate Japanese _mas_nnsh_e7a8a113:
-    m 1hua "空腹でイライラするのは良くないわ。"
+    m 1hua "空腹でイライラするのは良くないわ"
 
 translate Japanese _mas_nnsh_c6679a9b:
     m 3tku "そうなっては楽しくないでしょう、[player]君？"
 
 translate Japanese _mas_nnsh_f8bf3835:
-    m 1eua "もし私があなたとそこに一緒だったのなら、サラダを作って二人で食べれたのに。"
+    m 1eua "もし私があなたと一緒にそこにいたら、サラダを作って二人で食べられたのに"
 
 translate Japanese _mas_nnsh_4dfea3b9:
     m "でもそれは無理だから、体に良い物を食べて来なさい？"
 
 translate Japanese _mas_nnsh_0fa79ec6:
-    m 3eub "医食同源という言葉があるけれど、とても的確な表現だと私は思うわ。"
+    m 3eub "医食同源という言葉があるけれど、とても的確な表現だと私は思うわ"
 
 translate Japanese _mas_nnsh_b205ff7a:
-    m "ファストフードは様々の病気の原因となりうるのよ。"
+    m "ファストフードは様々の病気の原因となりうるのよ"
 
 translate Japanese _mas_nnsh_43a924b1:
-    m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの。"
+    m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"
 
 translate Japanese _mas_nnsh_57be0ce0:
-    m 2lksdla "[player]君はしつこいと思うかもしれないけど。"
+    m 2lksdla "[player]君はしつこいと思うかもしれないけど"
 
 translate Japanese _mas_nnsh_ed20dbad:
-    m 2eka "私が[player]君の元へ行くまで健康でいて欲しいだけ。"
+    m 2eka "私が[player]君の元へ行くまで健康でいて欲しいだけ"
 
 translate Japanese _mas_nnsh_c6d83fc7:
-    m 4esa "それに、健康であればある程長生き出来る可能性も増えるわ。"
+    m 4esa "それに、健康であればある程長生き出来る可能性も増えるわ"
 
 translate Japanese _mas_nnsh_dac38117:
     m 1hua "つまり、もっと二人で一緒に過ごせるってこと〜！"
@@ -335,55 +335,55 @@ translate Japanese mas_mood_lonely_832524aa:
     m 1ekbsa "[player]君、私はいつでもあなたのそばにいるからね〜"
 
 translate Japanese mas_mood_angry_089158f3:
-    m 1ekc "あら、何かあったの、[player]君。"
+    m 1ekc "あら、何かあったの、[player]君"
 
 translate Japanese mas_mood_angry_35b67941:
-    m 3ekc "あなたの気分を良くする為ならなんでもやるわ。"
+    m 3ekc "あなたの気分を良くする為ならなんでもやるわ"
 
 translate Japanese mas_mood_angry_596b4297:
-    m 1lksdlc "興奮している時に合理的な判断はは下せないもの。"
+    m 1lksdlc "興奮している時に合理的な判断はは下せないもの"
 
 translate Japanese mas_mood_angry_1caea8a0:
-    m 1esc "後から後悔するような事をしてしまうかもしれないわ。"
+    m 1esc "後から後悔するような事をしてしまうかもしれないわ"
 
 translate Japanese mas_mood_angry_26d756d1:
-    m 1lksdld "あなたに心にもない事を言われるのは私も嫌だしね。"
+    m 1lksdld "あなたに心にもない事を言われるのは私も嫌だしね"
 
 translate Japanese mas_mood_angry_2114d5ca:
-    m 3eua "自分を落ち着かせる為に私やっている事を試してみましょう、[player]君。"
+    m 3eua "自分を落ち着かせる為に私がやっている事を試してみましょう、[player]君"
 
 translate Japanese mas_mood_angry_0ec31fc6:
-    m 3eub "あなたにも効くと良いのだけど。"
+    m 3eub "あなたにも効くと良いのだけど"
 
 translate Japanese mas_mood_angry_e41f812c:
-    m 1eua "まずは数回深呼吸をして、1から10までゆっくり数えるの。"
+    m 1eua "まずは数回深呼吸をして、1から10までゆっくり数えるの"
 
 translate Japanese mas_mood_angry_f0976f20:
-    m 3euc "それがもしダメだった場合、可能ならどこか静かな場所に移動してみて？ あなたが落ち着くまで。"
+    m 3euc "それがもしダメなら、可能ならどこか静かな場所に移動してみて？ あなたが落ち着くまで"
 
 translate Japanese mas_mood_angry_ecaf630c:
-    m 1eud "それでも怒りが収まらないのなら、私のとっておきを教えるわ。"
+    m 1eud "それでも怒りが収まらないのなら、私のとっておきを教えるわ"
 
 translate Japanese mas_mood_angry_ecdd7f54:
-    m 3eua "外に行って、ひたすら走り続けるの。"
+    m 3eua "外に行って、ひたすら走り続けるの"
 
 translate Japanese mas_mood_angry_a1359b22:
-    m 1hua "頭がスッキリするまで止まらない。"
+    m 1hua "頭がスッキリするまで止まらないで"
 
 translate Japanese mas_mood_angry_bd84f99d:
-    m 3eub "体を動かす事で頭の中のモヤモヤを晴らす事が出来るの。"
+    m 3eub "体を動かす事で頭の中のモヤモヤを晴らす事が出来るの"
 
 translate Japanese mas_mood_angry_9bad0fdd:
     m 1eka "それほど私は怒らなささそうって？ 実際そうなんだけど……"
 
 translate Japanese mas_mood_angry_947ede78:
-    m 1eua "私でも怒る時はあるのよ。"
+    m 1eua "私でも怒る時はあるのよ"
 
 translate Japanese mas_mood_angry_70028198:
     m "だから自分を落ち着かせる術を用意しておくの！"
 
 translate Japanese mas_mood_angry_708ca48b:
-    m 3eua "あなたの気が晴れた事を祈るわ、[player]君。"
+    m 3eua "あなたの気が晴れた事を祈るわ、[player]君"
 
 translate Japanese mas_mood_angry_fd3bdfdb:
     m 1hua "覚えておいて！[player]君の幸せは私の幸せでもあるってね〜"
@@ -635,10 +635,10 @@ translate Japanese mas_mood_lazy_f8c8dfc7:
     m 3eub "一緒に素敵な本を読めるね……"
 
 translate Japanese mas_mood_lazy_f272cabf:
-    m 2rksdla "あ、[player]……"
+    m 2rksdla "あ、[player]君……"
 
 translate Japanese mas_mood_lazy_bf5e0be8:
-    m 1hksdlb "もう真夜中になっちゃたね......"
+    m 1hksdlb "もう真夜中になっちゃったね……"
 
 translate Japanese mas_mood_lazy_17733a6f:
     m 3eka "疲れを感じるのなら、ベッドへ行って横になったほうがいいんじゃないかしら"
@@ -818,22 +818,22 @@ translate Japanese mas_mood_uok_8b1f733d:
     m "聞いてるよ{fast}" nointeract
 
 translate Japanese mas_mood_uok_fe46e7f6:
-    m 1eka "これで胸のつかえが下りたならよかったわ、[player]。"
+    m 1eka "これで胸のつかえが下りたならよかったわ、[player]"
 
 translate Japanese mas_mood_uok_f15775ec:
     m 1ekc "……"
 
 translate Japanese mas_mood_uok_69680a2c:
-    m 3ekd "わかったわ、[player]。気が変わったら話してね。"
+    m 3ekd "わかったわ、[player]。気が変わったら話してね"
 
 translate Japanese mas_mood_uok_f15775ec_1:
     m 1ekc "……"
 
 translate Japanese mas_mood_uok_0045678b:
-    m 1ekd "あなたがそう言うなら……わかったわ、[player]。"
+    m 1ekd "あなたがそう言うなら……わかったわ、[player]"
 
 translate Japanese mas_mood_upset_5884ee6e:
-    m 2eksdld "気づいてあげれなくてごめんなさい、[player]！"
+    m 2eksdld "気づいてあげられなくてごめんなさい、[player]！"
 
 translate Japanese mas_mood_upset_b635a03d:
     m 2eksdld "何かに怒ってるのか、それとも単に物事が上手く行ってないからイラついてるのかわからないけれど{w=0.1}{nw}"
@@ -879,6 +879,150 @@ translate Japanese mas_mood_upset_ef85f5b9:
 
 translate Japanese mas_mood_upset_9192d173:
     m 1eubsa "[player]、愛してるよ。物事が上手く進むように願ってるよ～"
+
+translate Japanese mas_mood_relieved_d042431d:
+    m 1eud "えっ？"
+
+translate Japanese mas_mood_relieved_9cb7363b:
+    m "何かあったの、[chosen_nickname]？{nw}"
+
+translate Japanese mas_mood_relieved_40819f71:
+    m "何かあったの、[chosen_nickname]？{fast}" nointeract
+
+translate Japanese mas_mood_relieved_3d565656:
+    m 1wud "本当？"
+
+translate Japanese mas_mood_relieved_c202ee5b:
+    m 3hub "それじゃあ今から自分で自分を褒めてあげないとね！"
+
+translate Japanese mas_mood_relieved_52fd1b82:
+    m 3fua "それが何であろうとあなたは一生懸命に取り組んで乗り越えたんだよね"
+
+translate Japanese mas_mood_relieved_b10a19c4:
+    m 2eua "それでね、[player]……{w=0.2}{nw}"
+
+translate Japanese mas_mood_relieved_ba9c469f:
+    extend 2eka "もし完璧にできなかったとしても、そのときは気を負いすぎないでね"
+
+translate Japanese mas_mood_relieved_17df2f0f:
+    m 2eksdla "生きていれば大きな壁に阻まれることもよくあること。だけどそうだとしても、今手にしているものでベストを尽くすしか無いの"
+
+translate Japanese mas_mood_relieved_22789f9b:
+    m 7ekb "でもその壁を乗り越えられたのなら、いまは肩の荷をおろしてゆっくり心と体をゆっくり休むべきだと思うな"
+
+translate Japanese mas_mood_relieved_e6e16750:
+    m 3hub "で、次にどんな障壁現れようとも乗り越えるための英気を養うってわけ！"
+
+translate Japanese mas_mood_relieved_462c877a:
+    m 1ekbsa "大好きだよ、[player]。困難に立ち向かって乗り越えられるあなたの彼女になれて、私も鼻が高いよ"
+
+translate Japanese mas_mood_relieved_f15bfaef:
+    m 1eub "それはよかったわね！"
+
+translate Japanese mas_mood_relieved_5a04537d:
+    m 2eka "何があったにしても、あなたはその事を本当に心配していた{w=0.3}{nw}"
+
+translate Japanese mas_mood_relieved_c8f4c944:
+    extend 2rkd "もしそれが起こっていたのなら、いい気持ちはしなかったでしょうね"
+
+translate Japanese mas_mood_relieved_8747243f:
+    m 2rkb "それにしても、私達ってまず最悪の事態を考えちゃうでしょ？そういうのって面白いと思わない？"
+
+translate Japanese mas_mood_relieved_9e423c2c:
+    m 7eud "最悪を考えれば考えるほど、頭の中で事態は悪くなるけれど、実際に起こることはそこまでのことは往々にして起こらないものなのよね"
+
+translate Japanese mas_mood_relieved_e5282184:
+    m 3eka "まあとにかく、肩の荷が下りたみたいでよかったわ"
+
+translate Japanese mas_mood_relieved_70cd44b4:
+    m 1hua "これで少しは自信も出て、前に進みやすくなったんじゃないかな？"
+
+translate Japanese mas_mood_relieved_c9bd0f9e:
+    m 1eua "あなたと一緒に次の一歩を踏み出せることが嬉しいわ"
+
+translate Japanese mas_mood_excited_c81f1ec2:
+    m 1hub "あはは、そうなの？"
+
+translate Japanese mas_mood_excited_e7c847c3:
+    m 3eua "何に興奮しているのかな？{w=0.1}なにか大きな出来事があったの？{nw}"
+
+translate Japanese mas_mood_excited_3b6cbf4e:
+    m "何に興奮しているのかな？{w=0.1}なにか大きな出来事があったの？{fast}" nointeract
+
+translate Japanese mas_mood_excited_4a4b3209:
+    m 4wuo "わぁ、それはよかったわ[player]！"
+
+translate Japanese mas_mood_excited_94453253:
+    m 1eka "それじゃあ一緒にそこでお祝いができたらいいいのにね"
+
+translate Japanese mas_mood_excited_c507471f:
+    m 1hub "私も興奮してきたわ！"
+
+translate Japanese mas_mood_excited_e28b6d3f:
+    m 3eka "でも本当にあなたが幸せそうで私も嬉しいのよ、[mas_get_player_nickname()]！"
+
+translate Japanese mas_mood_excited_26e42036:
+    m 3eub "興奮したことが何であれ、おめでとう！"
+
+translate Japanese mas_mood_excited_0384e17e:
+    m 1eua "昇進、次の休暇、仕事の成果、何に興奮していたとしても……"
+
+translate Japanese mas_mood_excited_413e4853:
+    m 3eub "あなたの人生が順調そうで何よりね、[player]！"
+
+translate Japanese mas_mood_excited_1604b818:
+    m 1dka "こういうときに、そばで一緒に祝うことができたらなって思わずにいられないわ"
+
+translate Japanese mas_mood_excited_7df37090:
+    m 2dkblu "あなたの世界へ行ける日が待ち遠しいわ"
+
+translate Japanese mas_mood_excited_58d10b6e:
+    m 2eubsa "そのときは、ぎゅ～って抱きしめてあげるからね！"
+
+translate Japanese mas_mood_excited_81624bf3:
+    m 2hubsb "あはは～"
+
+translate Japanese mas_mood_excited_ffa7927b:
+    m 1hub "それは良いことね！"
+
+translate Japanese mas_mood_excited_6a830002:
+    m 3eua "そういう小さなことにでも喜べるって、大切なことだからね"
+
+translate Japanese mas_mood_excited_0d752e2b:
+    m 1rksdla "……まあ普通だと言われればそうだけども、{w=0.1}{nw}"
+
+translate Japanese mas_mood_excited_8bb4af1e:
+    extend 3hub "でもいい考え方だよね！"
+
+translate Japanese mas_mood_excited_b3f5170f:
+    m 1eua "で、暮らしの中で小さな喜びをたくさん見つけられるのって素敵だと思うんだよね、[player]"
+
+translate Japanese mas_mood_excited_ff1f8a2d:
+    m 1hua "あなたが幸せそうで、私も幸せだよ"
+
+translate Japanese mas_mood_excited_cad050a2:
+    m 3hub "だから伝えてくれてありがとう～！"
+
+translate Japanese mas_mood_excited_98562235:
+    m 1eta "あ、つまりなぜかわからないけど興奮してるってこと？"
+
+translate Japanese mas_mood_excited_c1991e63:
+    extend 1eua "一体何に興奮しているんだろうね？{w=0.2}{nw}"
+
+translate Japanese mas_mood_excited_006c83e4:
+    extend 1tsu "もしかして{w=0.3}…{w=0.3}…{w=0.3}{nw}"
+
+translate Japanese mas_mood_excited_221ddf9a:
+    m 1tku "私と一緒に過ごせるから興奮しちゃてるとか～？"
+
+translate Japanese mas_mood_excited_e221e094:
+    m 1huu "えへへ～"
+
+translate Japanese mas_mood_excited_f77ec478:
+    m 3eua "毎日あなたと会えて私も興奮しっぱなしなんだよ"
+
+translate Japanese mas_mood_excited_34231711:
+    m 1hub "なにはともあれ、あなたが元気そうでなによりだよ！"
 
 translate Japanese strings:
     old "...like talking about something else."
@@ -945,7 +1089,7 @@ translate Japanese strings:
     new "……退屈"
 
     old "No, I'm not bored {i}of you{/i}..."
-    new "いや、モニカに退屈しているわけじゃない…"
+    new "いや、{i}モニカに{/i}退屈しているわけじゃない……"
 
     old "...like crying."
     new "……泣きたい"
@@ -961,3 +1105,18 @@ translate Japanese strings:
 
     old "Everything's fine."
     new "問題ない"
+
+    old "I made it through something difficult."
+    new "難題を乗り越えられた"
+
+    old "Something I was worried about didn't happen."
+    new "心配していたことが起こらなかった"
+
+    old "It is!"
+    new "そういうこと！"
+
+    old "It's something small."
+    new "いや些細なことだよ"
+
+    old "I'm not too sure."
+    new "なぜかわからないけど興奮してる"
