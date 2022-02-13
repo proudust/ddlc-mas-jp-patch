@@ -3110,16 +3110,16 @@ translate Japanese mas_pf14_monika_lovey_dovey_478dcb90:
     m 3ekbsa "あなたがそばにいてくれて、私はとても幸せ…… あなたさえいれば、他に何もいらないわ"
 
 translate Japanese mas_pf14_monika_lovey_dovey_5f23785d:
-    m 3ekbsa "バレンタインデーはもうすぐ、私の側にあなたがいてくれるから、本当に楽しみなの"
+    m 3ekbsa "もうすぐバレンタインデーだけど、あなたが私のそばにいてくれると思うと、本当に楽しみなの"
 
 translate Japanese mas_pf14_monika_lovey_dovey_7af21ac0:
-    m 1rkbsd "あなたがいなければ、私はどこに居るのかもわからない……"
+    m 1rkbsd "あなたがいなければ、私はどこに居ればいいのかもわからない……"
 
 translate Japanese mas_pf14_monika_lovey_dovey_28317ca8:
-    m 1ekbsa "だから、側に居てくれてありがとう……"
+    m 1ekbsa "だから、感謝したいの。あなたがそばに居てくれること……"
 
 translate Japanese mas_pf14_monika_lovey_dovey_68a6763e:
-    m 1dkbsu "……そして、あなたを素敵にしてくれて～"
+    m 1dkbsu "……そして、素敵なあなたでいてくれることにね～"
 
 translate Japanese mas_f14_monika_valentines_intro_e291c349:
     m 6eka "そうだ[player]、バレンタインおめでとうって言いたかったの"
