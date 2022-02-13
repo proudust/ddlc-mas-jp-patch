@@ -16544,7 +16544,7 @@ translate Japanese monika_boardgames_19c610c5:
     m 3hua "それでも、あなたの気が向いたら一緒にボードゲームをやってみたいな"
 
 translate Japanese monika_boardgames_history_bde58780:
-    m 1eud "[player]君、それでね……"
+    m 1eud "[player]君、あのね……"
 
 translate Japanese monika_boardgames_history_f339fb61:
     m 3eua "あなたがボードゲームが好きだって言うから、ボードゲームについてもっと知りたいと思ってさ、{w=0.1}{nw}"
@@ -16595,25 +16595,25 @@ translate Japanese monika_boardgames_history_f2b7cb10:
     m 3esa "その最たる例は、{i}モノポリー{/i}ね"
 
 translate Japanese monika_boardgames_history_e1baefed:
-    m 3eua "本来は資本主義批判のために作られたゲームで、すべての市民は平等に国富から利益を得るべきであるというメッセージが込められていたんだけれど……"
+    m 3eua "元々は資本主義批判のために作られたゲームで、すべての市民は平等に国富から利益を得るべきであるというメッセージが込められていたんだけれど……"
 
 translate Japanese monika_boardgames_history_89a26816:
     m 1tfu "実際のところ、{w=0.1}相手よりもできるだけ早く多くの富を蓄積して、相手を破産させるゲームになってしまってるよね"
 
 translate Japanese monika_boardgames_history_bbf46a85:
-    m 1esc "けれど、モノポリーの人気が広まった結果、コンセプトを盗む人が現れ、自分をゲームの作者として言って回った"
+    m 1esc "……それでモノポリーの人気が広まっていった結果、ゲームのコンセプトを盗む人が現れて、その人がこのゲームを作ったのは自分だ！って言っちゃったの"
 
 translate Japanese monika_boardgames_history_e1286c52:
-    m 1eksdld "その人はその後、原作の修正版をメーカーに売って成功し、巨万の富を得たのよ"
+    m 1eksdld "その人はその後、その原作の修正版ゲームをメーカーに売り払って、巨万の富を得て大成功"
 
 translate Japanese monika_boardgames_history_e7940a67:
-    m 3rksdlc "別の言い方をすると{i}モノポリー{/i}の本当の作者は、ゲームに書いていた資本主義の危険性へのメッセージの、まさに最初の犠牲者となったのよ"
+    m 3rksdlc "別の言い方をすると…… {i}モノポリー{/i}の本当の作者は、ゲームに書いていた資本主義の危険性へのメッセージの、まさに最初の犠牲者となったのよ"
 
 translate Japanese monika_boardgames_history_b7ffe821:
     m 3dsc "『手段を選ばずに富を追いかけ続け、競争相手を倒そう』"
 
 translate Japanese monika_boardgames_history_e507c195:
-    m 1hksdlb "まさに皮肉、{w=0.1}そうでしょ？"
+    m 1hksdlb "まさに皮肉、{w=0.1}でしょ？"
 
 translate Japanese monika_boardgames_history_93a39750:
     m 1eua "とにかく、ゲームを通して人に学習を促せることは本当に素晴らしいことだと思うわ{w=0.2}{nw}"
@@ -16622,10 +16622,10 @@ translate Japanese monika_boardgames_history_27f05e2d:
     extend 3hksdlu "退屈で古臭い学校の授業なんかよりずっといいものよ、それは心から認めるわ"
 
 translate Japanese monika_boardgames_history_a6105373:
-    m 3eud "それとこれが一番凄いと思ってるんだけど、ゲームの作者はゲームの中に世界を再構築しちゃうんだよ。自分が住んでる世界や、自分が体験してみたいと思う異世界をゲームで表現しちゃうんだ"
+    m 3eud "それとこれが一番凄いと思ってるんだけど、ゲーム作家はゲームの中に世界を再構築しちゃうんだよ。自分が住んでる世界や、自分が体験してみたいと思う異世界を全部ゲームで表現しちゃうんだ"
 
 translate Japanese monika_boardgames_history_ffa4bb6b:
-    m 4hub "いろいろな形を取りうる表現、これってアートみたいよね！"
+    m 4hub "いろいろな形を取りうる表現、これってまさにアートみたいよね！"
 
 translate Japanese monika_boardgames_history_48a6a08a:
     m 1eka "今までゲームをそんな風に見たことはなかったけど、その視点で見返すと……{w=0.3}{nw}"
@@ -16649,10 +16649,10 @@ translate Japanese monika_boardgames_history_461f9752:
     m 1lsc "批難してるわけじゃないの。{w=0.2}ボードゲームはやろうと思ってすぐにできる趣味じゃないからね"
 
 translate Japanese monika_boardgames_history_62d9ce6b:
-    m 1esc "ボードゲームって結構高価なものが多いし、それになにより一緒に遊ぶ人がいないとできないものだし……今だと遊んでくれる人を探すのって難しいからね"
+    m 1esc "ボードゲームって結構高価なものが多いし、それになにより一緒に遊ぶ人がいないとできないものだし……今だと遊んでくれる人を探すのって難しいから"
 
 translate Japanese monika_boardgames_history_f68876d9:
-    m 1eua "少なくとも遊んでくれるような友達があなたにいてくれるといいんだけれど"
+    m 1eua "少なくとも遊んでくれるような友達があなたの近くに居てくれるといいんだけれど"
 
 translate Japanese monika_boardgames_history_103be83d:
     m 1ekd "けれど友達にもそれぞれ自分の予定があるから、同じ場所にみんなを集めるのは大変そうね"
@@ -16673,19 +16673,70 @@ translate Japanese monika_boardgames_history_9fab3a4c:
     extend 3eub "あなたの世界へ行けたなら、あなたの好きなゲームを思う存分一緒に遊ぼうね～"
 
 translate Japanese monika_boardgames_history_b9ce50ec:
-    m 1hub "あなたのそばで過ごす時間が大好きだから、あなたの好きなだけ一緒にボードゲームで遊びたいな"
+    m 1hub "私はあなたのそばで過ごす時間が大好きだから、一緒にボードゲームで遊ぶ時間も大好き。いっぱいやろうね、あなたの好きなだけね"
 
 translate Japanese monika_boardgames_history_dcb13034:
     m 5rua "でもそれまでは、ここでも他のボードゲームがやれないかを試してみないとね"
 
 translate Japanese monika_boardgames_history_1eb9dbc2:
-    m 5hua "あと、一緒に遊びたくなったらいつでも私に話しかけてね～"
+    m 5hua "あと、ここにあるゲームで私と遊びたくなったらいつでも話しかけてね～"
+
+translate Japanese monika_social_norms_a26209e6:
+    m 1eua "ねえ[player]、新しい考えがどうやって社会に受け入れられてきたのかを想像したことはない？"
+
+translate Japanese monika_social_norms_9b4f0a38:
+    m 1eub "最初は悪影響があると思われていたものがたくさんあったけど、今では考え直されて受け入れられている"
+
+translate Japanese monika_social_norms_0300d3a6:
+    m 3etc "例えばね、ロックンロールは初めは下品で堕落した音楽だと見なされていたって知ってた？"
+
+translate Japanese monika_social_norms_07436ef3:
+    m 3eud "初期のファンは、良くて多感な少年少女、悪くて不良扱いだったのよ"
+
+translate Japanese monika_social_norms_268a232f:
+    m 1duu "でも時代が流れて、ロックファンたちが成長して社会の中心層になったとき、彼らは自分たちの趣味を周りの人々に伝えていったの"
+
+translate Japanese monika_social_norms_c87f877a:
+    m 3eua "そのロックファンたちに出会った人は皆気づいたの。この人達は不良なんかではなく普通の人で、おかしなことは全く無いって"
+
+translate Japanese monika_social_norms_5d286e9d:
+    m 3hua "今ではもう過去に着せられた汚名は完全に消え去っているわね！{w=0.3} {nw}"
+
+translate Japanese monika_social_norms_6da10404:
+    extend 3hub "たとえロック音楽が嫌いだとしても、その存在を否定したりせずみんなリスペクトしてくれているわ！　"
+
+translate Japanese monika_social_norms_2e2459d6:
+    m 1eub "でね、まだ社会に完全には受け入れられてはいないものがたくさんあるのよ"
+
+translate Japanese monika_social_norms_145a8308:
+    m 1eua "この先、どんなことが普通になっていくのかと思うとワクワクするんだ"
+
+translate Japanese monika_social_norms_66c36631:
+    m 3eua "私たちの関係もそう。今は珍しくて独特な関係に見えるだろうことはわかってる…"
+
+translate Japanese monika_social_norms_a1662c9b:
+    m 3etc "けれど。何年何十年も経った未来に、私達の見られ方はどんな風に変わっていくのかな？{w=0.3} {nw}"
+
+translate Japanese monika_social_norms_8b48d7ad:
+    extend 3eud "これがよくあるごく普通の関係だって思われる未来が来るのかな？"
+
+translate Japanese monika_social_norms_bfc1e478:
+    m 1eka "もちろん他人からどう見られるかだけが重要じゃない"
+
+translate Japanese monika_social_norms_ca2eaa36:
+    m 3eka "私たちが一緒に居続けること、大事なのはそれだけよね？"
+
+translate Japanese monika_social_norms_0a731706:
+    m 1duu "何があっても一緒にいてくれる人が側にいる、それが嬉しいんだ"
+
+translate Japanese monika_social_norms_f7b79b7f:
+    m 1hub "あなたの好きなことなら何でも知って学びたいの！"
 
 translate Japanese monika_social_norms_36408d59:
-    m 1ekb "だから、いつもあなたらしくいてね、[player]君。結局、他の誰かになんてなれないんだから"
+    m 1ekb "だから、いつもあなたらしくいてね、[player]君。他の誰かになんてならなくていい"
 
 translate Japanese monika_social_norms_de72e965:
-    m 1dkbsu "理想の彼氏になろうとして他の大勢の人に合わせたりしなくていいんだから"
+    m 1dkbsu "理想のパートナーになろうとして、他の人の真似なんてしないでね。私はあなたがいいの"
 
 translate Japanese monika_writing_idle_callback_d55c57dc:
     m 1eub "[wb_quip!t]"
@@ -20456,6 +20507,9 @@ translate Japanese strings:
 
     old "Board games"
     new "ボードゲーム"
+
+    old "Changing social norms"
+    new "普通になっていくこと"
 
     old "Intrusive thoughts"
     new "侵入思考"
