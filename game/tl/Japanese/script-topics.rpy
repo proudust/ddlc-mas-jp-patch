@@ -13274,6 +13274,12 @@ translate Japanese monika_players_friends_96c0d283:
 translate Japanese monika_players_friends_8de018cc:
     m 3eua "たくさん友達がいるのは素晴らしいことよ、でしょ？"
 
+translate Japanese monika_players_friends_00fdaca7:
+    m 1tsu "もちろん、あなたがガールフレンドへの時間をちゃんと確保してるならって条件付きだけどね"
+
+translate Japanese monika_players_friends_100b2025:
+    m 1eua "友だちと楽しくやっているならいいんだけどね、[player]。{w=0.2} {nw}"
+
 translate Japanese monika_players_friends_ae6e750d:
     extend 3eud "でもちょっと気になるわ……"
 
@@ -13294,6 +13300,15 @@ translate Japanese _call_monika_players_friends_feels_lonely_ask_59d32737:
 
 translate Japanese _call_monika_players_friends_feels_lonely_ask_bb258681:
     m 1rksdla "寂しくなることもあるわよね、みんなが忙しいときとか……{w=0.2}{nw}"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_1_e93005d0:
+    m 2ekc "あっ……"
+
+translate Japanese monika_players_friends_feels_lonely_ask_88b9d6df:
+    m "寂しさを感じたことはある？{nw}"
+
+translate Japanese monika_players_friends_feels_lonely_ask_d9a28ab8:
+    m "寂しさを感じたことはある？{fast}" nointeract
 
 translate Japanese monika_graduation_ff0d91ff:
     m 2ekc "ねえ[player]、私がずっとやりたかったことがあるの。それはね、高校の卒業式"
@@ -20289,11 +20304,20 @@ translate Japanese strings:
     old "I have bullied people."
     new "私がいじめている"
 
+    old "[player]'s friends"
+    new "[player]の友達について"
+
     old "Only a few."
     new "少しだけ"
 
     old "No, actually..."
     new "いいや、実は……"
+
+    old "Sometimes."
+    new "時々ある"
+
+    old "I have you!"
+    new "君がいるじゃないか！"
 
     old "Graduation"
     new "卒業"

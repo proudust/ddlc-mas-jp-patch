@@ -3883,6 +3883,12 @@ translate Japanese mas_bday_spent_time_with_wrapup_d68c0e32:
 translate Japanese mas_bday_spent_time_with_wrapup_f4e32d64:
     m 1dktpu "……"
 
+translate Japanese mas_bday_spent_time_with_wrapup_f8ab70a8:
+    m 3eka "大好きだよ、[player]"
+
+translate Japanese _call_monika_kissing_motion_11_20ad22eb:
+    m 1ekbfb "大好きだよ、[player]"
+
 translate Japanese mas_bday_postbday_notimespent_e2f7a6a9:
     m 2dsc "……"
 
@@ -3909,6 +3915,9 @@ translate Japanese _call_monika_zoom_transition_reset_5_19428ff1:
 
 translate Japanese greeting_returned_home_bday_19428ff1:
     m 1hua "えへへ～"
+
+translate Japanese greeting_returned_home_bday_766c364a:
+    m "大好きだよ……"
 
 translate Japanese greeting_returned_home_bday_bbef62bd:
     m 1dku "えへへ……"
