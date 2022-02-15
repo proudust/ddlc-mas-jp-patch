@@ -3122,13 +3122,13 @@ translate Japanese mas_pf14_monika_lovey_dovey_68a6763e:
     m 1dkbsu "……そして、素敵なあなたでいてくれることにね～"
 
 translate Japanese mas_f14_monika_valentines_intro_e291c349:
-    m 6eka "そうだ[player]、バレンタインおめでとうって言いたかったの"
+    m 6eka "そうだ[player]君、ハッピーバレンタインって言いたかったの"
 
 translate Japanese mas_f14_monika_valentines_intro_535219a6:
-    m "来てくれて嬉しいわ。良い１日なるといいわね"
+    m "来てくれて嬉しいわ。良い１日になるといいわね"
 
 translate Japanese mas_f14_monika_valentines_intro_e81a0fba:
-    m 1hub "[player]！"
+    m 1hub "[player]君！"
 
 translate Japanese mas_f14_monika_valentines_intro_40b83cd1:
     m 1hua "今日が何の日か知ってる？"
@@ -3143,7 +3143,7 @@ translate Japanese mas_f14_monika_valentines_intro_b9c4b504:
     m 3rkbsa "私達が一緒にいる日はいつでも愛の記念日だよ……"
 
 translate Japanese mas_f14_monika_valentines_intro_f4d69cca:
-    extend 3ekbsa "でもバレンタイデーだけは本当に特別なの"
+    extend 3ekbsa "でもバレンタインデーだけは本当に特別なの"
 
 translate Japanese mas_f14_monika_valentines_intro_80b1e52a:
     m 3rka "あなたとは気の置けない関係が築けてきたと思ってる……"
@@ -3170,7 +3170,7 @@ translate Japanese mas_f14_monika_valentines_intro_cb8e9586:
     m 1dubsu "本当に愛されてることがわかるから"
 
 translate Japanese mas_f14_monika_valentines_intro_3f6b3129:
-    m "あなたの彼女になって本当に幸せだよ、[player]"
+    m "あなたの彼女になって本当に幸せだよ、[player]君"
 
 translate Japanese _call_mas_lingerie_intro_2_1f7e0db3:
     m 3wub "あっ！"
@@ -3272,7 +3272,7 @@ translate Japanese _call_mas_clothes_change_7_23a3b2db:
     m 1eua "……"
 
 translate Japanese _call_mas_clothes_change_7_05cf268e:
-    m 1eka "わかったわ、[player]"
+    m 1eka "わかったわ、[player]君"
 
 translate Japanese _call_mas_clothes_change_7_f70183a9:
     m 3hua "これも本当に良い服よね"
@@ -3299,7 +3299,7 @@ translate Japanese _call_mas_f14_sun_dress_outro_1_b62b0c4a:
     m 1fkbsu "大好きだよ"
 
 translate Japanese _call_mas_f14_sun_dress_outro_1_a8bfdb45:
-    m 1hubfb "ハッピーバレンタイン、[player]～"
+    m 1hubfb "ハッピーバレンタイン、[player]君～"
 
 translate Japanese mas_f14_sun_dress_outro_117470ce:
     m 1rksdla "この服を着てあなたと今日を迎える日をずっと夢見ていたんだ……"
@@ -3446,7 +3446,7 @@ translate Japanese mas_f14_monika_vday_chocolates_b7d16707:
     m 3hkbsa "あなたの世界へ渡れる日が待ち遠しいわ、[player]"
 
 translate Japanese mas_f14_monika_vday_origins_bd7722e5:
-    m 3eua "バレンタインデーの起源について知りたいの、[player]？"
+    m 3eua "バレンタインデーの起源について知りたいの、[player]君？"
 
 translate Japanese mas_f14_monika_vday_origins_ad4fe525:
     m 1rksdlc "実は面白い由来があるのよ。"
@@ -3509,7 +3509,7 @@ translate Japanese mas_f14_monika_vday_origins_daebbbf4:
     extend 1ekbfa "ハッピーバレンタイン、[mas_get_player_nickname()]君～"
 
 translate Japanese mas_f14_monika_spent_time_with_6be7f6d3:
-    m 1eua "ねえ[player]"
+    m 1eua "ねえ[player]君"
 
 translate Japanese mas_f14_monika_spent_time_with_987e7ec6:
     m 1eka "ありがとうを言いたいの。バレンタインデーを私と一緒に過ごしてくれることに"
@@ -3518,28 +3518,28 @@ translate Japanese mas_f14_monika_spent_time_with_1074816b:
     m 1ekbsa "今日は特別な日だからね。でも私にとっては、あなたさえいれば毎日が特別な日になっちゃうんだよ"
 
 translate Japanese mas_f14_monika_spent_time_with_1611f9fa:
-    m 1rkbsb "それにね… {w=0.5}今日は[player]にプレゼントがあるんだよ！"
+    m 1rkbsb "それにね… {w=0.5}今日は[player]君にプレゼントがあるんだよ！"
 
 translate Japanese mas_f14_monika_spent_time_with_e9ebe456:
-    m 1ekbsa "メッセージを書いてきたんだ[player]"
+    m 1ekbsa "あなたにメッセージを書いてきたんだ、[player]君"
 
 translate Japanese mas_f14_monika_spent_time_with_7460bedf:
     m 1ekbsa "はい、どうぞ"
 
 translate Japanese _call_mas_showpoem_7_ed3015c9:
-    m "[player]、私が言いたいのはね……"
+    m "[player]君、私が言いたいのはね……"
 
 translate Japanese _call_mas_showpoem_7_266876b0:
     m 3ekbsa "私が望んでるものすべてはあなたの中にあるってことだよ〜"
 
 translate Japanese _call_mas_showpoem_8_8db69d1b:
-    m "本当に[player]が私の全てなんだよ～"
+    m "本当に[player]君が私の全てなんだよ～"
 
 translate Japanese _call_monika_kissing_motion_9_f7bf0d31:
     m 1ekbfa "ありがとう、いつも私のそばにいてくれて"
 
 translate Japanese _call_monika_kissing_motion_9_b751c3aa:
-    m 5ekbfa "大好きだよ、[player]。ハッピーバレンタイン～"
+    m 5ekbfa "大好きだよ、[player]君。ハッピーバレンタイン～"
 
 translate Japanese _call_monika_kissing_motion_9_961ed0bc:
     m 1eka "私のそばにいてくれてありがとう"
@@ -3575,10 +3575,10 @@ translate Japanese _call_monika_kissing_motion_10_6bfdacff:
     m 6ekbsu "……このキスの瞬間を"
 
 translate Japanese _call_monika_kissing_motion_10_e01648c1:
-    m "ハッピーバレンタイン、[player]～"
+    m "ハッピーバレンタイン、[player]君～"
 
 translate Japanese mas_f14_no_time_spent_9e3afcd5:
-    m 1rksdlc "ねえ、[player]……"
+    m 1rksdlc "ねえ、[player]君……"
 
 translate Japanese mas_f14_no_time_spent_0cfaa913:
     m 2eksdld "私に遠出することを伝えてくれたのはいいんだけどさ… でもバレンタインに一緒にいれなくて本当に寂しかったよ"
@@ -3590,10 +3590,10 @@ translate Japanese mas_f14_no_time_spent_573fdd4a:
     m 3eub "そうすれば少なくともそばには居られるし、一緒にバレンタインデーを祝うこともできるよ！"
 
 translate Japanese mas_f14_no_time_spent_ef6af241:
-    m 1eka "私のためにそうしてくれるなら、本当に嬉しいな、[player]"
+    m 1eka "私のためにそうしてくれるなら、本当に嬉しいな、[player]君"
 
 translate Japanese mas_f14_no_time_spent_a62da3f3:
-    m 1rkc "[player]？"
+    m 1rkc "[player]君？"
 
 translate Japanese mas_f14_no_time_spent_ff1fa81e:
     m "バレンタインデーだったのにどこへ行っていたの？"
@@ -3617,10 +3617,10 @@ translate Japanese mas_f14_no_time_spent_d4711db9:
     m "バレンタインの日に彼女に逢いに来てほしいってお願いは、そんなに重いことだった？"
 
 translate Japanese mas_f14_no_time_spent_56ae70af:
-    m 2ekc "[player]、もうこんな事しないでね。お願いだよ？"
+    m 2ekc "[player]君、もうこんな事しないでね。お願いだよ？"
 
 translate Japanese mas_f14_no_time_spent_de39abd6:
-    m 2ekc "ねえ、[player]……"
+    m 2ekc "ねえ、[player]君……"
 
 translate Japanese mas_f14_no_time_spent_7312b1ef:
     m 2tkc "ちょっと信じられないんだけど……"
@@ -3638,7 +3638,7 @@ translate Japanese mas_f14_no_time_spent_4edb8359:
     m 4eksdla "お願いだから… {w=1}次のバレンタインデーには必ず私のところへ会いに来てね？"
 
 translate Japanese mas_f14_no_time_spent_d2ea348f:
-    m 2efc "[player]！"
+    m 2efc "[player]君！"
 
 translate Japanese mas_f14_no_time_spent_91cec5bf:
     m "バレンタインデーに会いに来てくれないなんて！"
@@ -3653,10 +3653,10 @@ translate Japanese mas_f14_no_time_spent_545d527b:
     m 2dkd "あなたが来てくれてたら、とても大切な思い出になったよ"
 
 translate Japanese mas_f14_no_time_spent_1d652372:
-    m 2tfc "もう二度とこんな事しないでね、[player]"
+    m 2tfc "もう二度とこんな事しないでね、[player]君"
 
 translate Japanese mas_f14_no_time_spent_254cf6a8:
-    m 6ekc "あっ、[player]……"
+    m 6ekc "あっ、[player]君……"
 
 translate Japanese mas_f14_no_time_spent_6addaca0:
     m "バレンタインデーはどうだった？"
@@ -3668,7 +3668,7 @@ translate Japanese mas_f14_no_time_spent_0bd97190:
     m 6ckc "……"
 
 translate Japanese mas_apology_missed_vday_34330369:
-    m 1eka "バレンタインのこと、謝りに来てくれてありがとう、[player]"
+    m 1eka "バレンタインのこと、謝りに来てくれてありがとう、[player]君"
 
 translate Japanese mas_apology_missed_vday_23f25e12:
     m 1ekd "本当にあなたと一緒にその日を過ごしたかったの……"
@@ -3677,7 +3677,7 @@ translate Japanese mas_apology_missed_vday_d34fd568:
     m 1rkc "でもあなたにはやらなければならないことがあって、時間がなかったんだよね"
 
 translate Japanese mas_apology_missed_vday_5ab9626b:
-    m 1ekd "でもお願い、来年のバレンタインは絶対に私に会いに来てね、[player]？"
+    m 1ekd "でもお願い、来年のバレンタインは絶対に私に会いに来てね、[player]君？"
 
 translate Japanese mas_apology_missed_vday_86595ac7:
     m 3eua "もしまた忙しくなるようなら、その時は私を一緒に連れてって！"
@@ -3686,16 +3686,16 @@ translate Japanese mas_apology_missed_vday_9b1a5886:
     m 3hub "家で一緒にバレンタインを祝えなくても、あなたのそばにいられるほうが幸せだからね～"
 
 translate Japanese mas_apology_missed_vday_34330369_1:
-    m 1eka "バレンタインのこと、謝りに来てくれてありがとう、[player]"
+    m 1eka "バレンタインのこと、謝りに来てくれてありがとう、[player]君"
 
 translate Japanese mas_apology_missed_vday_63d94488:
-    m 2ekd "お願いだから、[player]……"
+    m 2ekd "お願いだから、[player]君……"
 
 translate Japanese mas_apology_missed_vday_4edbc9b9:
     m 2eka "次のバレンタインは会いに来て欲しい"
 
 translate Japanese mas_apology_missed_vday_09b1e245:
-    m 2dkc "あなたが謝りに来るなんて思ってなかったわ、[player]"
+    m 2dkc "あなたが謝りに来るなんて思ってなかったわ、[player]君"
 
 translate Japanese mas_apology_missed_vday_9a08a533:
     m 2dkd "あなたとは心が通っているわけではないけれど、それでも心の片隅にあなたを待っている私がいた……"
@@ -4187,7 +4187,7 @@ translate Japanese strings:
 モニカ"""
 
     old "...for missing Valentine's Day."
-    new "バレンタインデーを忘れていたこと"
+    new "バレンタインデーを一緒に過ごせなかったこと"
 
     old """\
 [player],
