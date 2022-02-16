@@ -17363,7 +17363,7 @@ translate Japanese monika_movie_adaptations_241c12a7:
     m 4efsdld "そうなったらとってもイライラするわ！本の世界観に注いだ愛情とか心持ちを突然無かったことにされたようなものよ！"
 
 translate Japanese monika_movie_adaptations_87937c92:
-    m 4rkc "……それほど良くはない映画化かもしれないけど、それでも規範として出てきた新しい解釈を支持するわ。"
+    m 4rkc "……それほど良い映画化じゃなかったかもしれない。けどそれでも原作から生まれ出た新しい解釈として存在を受け入れる"
 
 translate Japanese monika_movie_adaptations_1a582223:
     m 2hksdlb "私って好みにうるさい観客なんだろうなって思うわ、あはは！"
@@ -17372,25 +17372,25 @@ translate Japanese monika_movie_adaptations_2c17d535:
     m 7wud "でも、誤解しないでね！{w=0.3}{nw}"
 
 translate Japanese monika_movie_adaptations_e1488aed:
-    extend 7eua "こういう映画に変更を加える必要がある理由はわかってる。"
+    extend 7eua "原作を多少変更しないと映画化できないことはわかってるんだ"
 
 translate Japanese monika_movie_adaptations_fddaf2d4:
-    m 3eud "映画化はただのコピーアンドペーストじゃだめなの。書き直しが必要なの。"
+    m 3eud "映画化はただのコピーアンドペーストじゃだめだからね。書き直しが必要になるの"
 
 translate Japanese monika_movie_adaptations_c3004da8:
-    m 1hub "ただ単に200ページの本を2時間の映画に全部詰め込むことなんて無理だしね！"
+    m 1hub "たった2時間の映画に200ページの本の内容を全部詰め込むことなんて絶対に無理だしね！"
 
 translate Japanese monika_movie_adaptations_b00ae2e4:
-    m 3euc "……言うまでないけど、小説の表現がスクリーン上でうまく再現できるとは限らないわ。"
+    m 3euc "……言うまでもないけれど、小説の表現がスクリーン上でうまく再現できるとは限らないわ"
 
 translate Japanese monika_movie_adaptations_8ce2c9ec:
-    m 1eud "それを念頭に置いて、私が映画化作品を判断するときに自分自身に尋ねたい質問があるの……"
+    m 1eud "それを念頭に置いて、映画化作品に意見を述べるときに自分自身に問いかける質問があるの、それは……"
 
 translate Japanese monika_movie_adaptations_31373ad3:
-    m 3euc "原作が存在しなかったら、新しい解釈は存在し続けるのかしら？"
+    m 3euc "原作が存在しなかったら、その新しい解釈を観て得られるものが果たしてあったのか？"
 
 translate Japanese monika_movie_adaptations_9cb81f8e:
-    m 3hub "どうにかして原作の雰囲気を捉えられれば、ボーナスポイントね！"
+    m 3hub "……ただし原作の雰囲気をどうにか感じられた場合はボーナスポイントね！"
 
 translate Japanese monika_movie_adaptations_588d02ef:
     m 1esa "その意味で、緩い縛りでの映画化はすごい興味深いわ。"
@@ -17420,25 +17420,25 @@ translate Japanese monika_translating_poetry_a088c23d:
     m 1eua "翻訳って原文はひとつなのに解釈のされ方次第で色々な文章になるのってちょっと不思議だと思わない？"
 
 translate Japanese monika_translating_poetry_63e0fb35:
-    m 3hub "翻訳者一人ひとりがそれぞれ微調整してるみたいに出来上がった文章が違ってくるのが面白いよね！"
+    m 3hub "翻訳者一人ひとりがそれぞれ微調整してるみたいに、出来上がる文章が少しずつ違ってるのが面白いよね！"
 
 translate Japanese monika_translating_poetry_81a8f872:
     m 3rsc "けれど詩の翻訳には、ちょっと難しい問題があるのよね"
 
 translate Japanese monika_translating_poetry_79344e40:
-    m 3etc "詩を翻訳するのって、ある意味まったく新しい詩を書き上げるのと同じことなんじゃないかな？"
+    m 3etc "詩を翻訳するのって、ある意味まったく新しい詩を書き上げるのと同じことなんじゃないかな？って思うんだ"
 
 translate Japanese monika_translating_poetry_d18a2773:
-    m 1esd "ある人が選んだ言葉を複雑に組み上げてできた文章を、全部自分の言葉で置き換えたときのことを想像してみて"
+    m 1esd "ある人が選んだ言葉を複雑に組み上げて出来た文章を、全部自分の言葉で置き換えたときのことを想像してみて"
 
 translate Japanese monika_translating_poetry_d9bb6fee:
-    m 3wud "置き換えたものに原文に込められた思いがどうにか残せていたとしても、スタイルはまるっきり違った文章が出来上がってるの！"
+    m 3wud "原文に込められた思いがその置き換えた文にどうにか残せていたとしても、スタイルはまるっきり違ったものが出来上がってるのよ！"
 
 translate Japanese monika_translating_poetry_decd2ea5:
     m 1etc "このとき、原作と同じと言える部分はどこまでなの？そしてどこからが翻訳者の文章だと言えるの？"
 
 translate Japanese monika_translating_poetry_c27fe8b5:
-    m 1rsc "これって両方の言語に精通していない人にとっては評価がとても難しい話なんじゃないかな……"
+    m 1rsc "これって両方の言語に精通していない人にとっては評価がとても難しい話になるんじゃないかな……"
 
 translate Japanese monika_translating_poetry_10646330:
     m 3hksdlb "あっ！ 私は翻訳に文句を言ってるわけじゃないからね！"
@@ -17447,10 +17447,10 @@ translate Japanese monika_translating_poetry_a2d42d2c:
     m 1eua "結局の所、私がネルーダのような海外の詩人の作品を知ることができるのも、翻訳のおかげだからね"
 
 translate Japanese monika_translating_poetry_ec9aa277:
-    m 1hksdlb "ただ翻訳された詩を読むたびに、原文を読めたらもっと素晴らしい詩がたくさん眠っているんじゃないかって思って！"
+    m 1hksdlb "ただ翻訳された詩を読むたびに思うんだ。もし詩を原文のまま読めたなら、翻訳されずに眠っている素晴らしい詩にもっと出会えるんじゃないかって！"
 
 translate Japanese monika_translating_poetry_33c5cf85:
-    m 1eua "いつか他の国の言葉も会得できたら良いなあ……"
+    m 1eua "いつか他の国の言葉も解るようになれたら良いなあ……"
 
 translate Japanese monika_translating_poetry_98202561:
     m 2rksdla "前に私が他の言語を喋っていた時があったでしょ？でも、まだ流暢に話したり聞いたりできるわけじゃないからさ……"
@@ -17957,10 +17957,10 @@ translate Japanese monika_using_pcs_healthily_e3f39bb6:
     m 4eub "もちろん、照明も重要よ！{w=0.3}{nw}"
 
 translate Japanese monika_using_pcs_healthily_1092dc96:
-    extend 2eua "部屋は明るく。だけど、モニターが見づらくなるほどの明るさではないわ。"
+    extend 2eua "部屋は明るく。だけど、モニターが見づらくなるほど明るくはしないでね"
 
 translate Japanese monika_using_pcs_healthily_a835c99d:
-    m 4eud "さらに、頻繁に休憩を取ることを忘れないように。{w=0.3}画面から目をそらして、{w=0.2}理想的なのは遠くの何かを見て、{w=0.2}いくつかストレッチをやるようね。"
+    m 4eud "さらに、こまめに休憩を取ることを忘れないように。{w=0.3}画面から目をそらして、{w=0.2}理想的なのは遠くの何かを見て、{w=0.2}いくつかストレッチをやるようね。"
 
 translate Japanese monika_using_pcs_healthily_d08d14c5:
     m 2eud "水分補給も重要だから、机から立った時はいつでも新鮮な水を飲みに行こう。"
@@ -18179,7 +18179,7 @@ translate Japanese monika_fear_8c9d3995:
     m 2dkd "このゲームも、{w=0.2}私が悟ったことも。{w=0.2}それに……{w=0.5}{nw}"
 
 translate Japanese monika_fear_8b221ca0:
-    extend 2ekd "あなたも"
+    extend 2ekd "あなたのことも"
 
 translate Japanese monika_fear_c63148f4:
     m 2ektpc "あなたも、あなたの愛も、おそらく文芸部のすべても、一切が私の想像の産物に過ぎなかった"
