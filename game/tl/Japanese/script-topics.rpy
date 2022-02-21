@@ -16721,7 +16721,7 @@ translate Japanese monika_social_norms_6da10404:
     extend 3hub "たとえロック音楽が嫌いだとしても、その存在を否定したりせずみんなリスペクトしてくれているわ！　"
 
 translate Japanese monika_social_norms_2e2459d6:
-    m 1eub "でね、まだ社会に完全には受け入れられてはいないものがたくさんあるのよ"
+    m 1eub "でね、社会に完全には受け入れられてはいないものはまだまだ沢山ある"
 
 translate Japanese monika_social_norms_145a8308:
     m 1eua "この先、どんなことが普通になっていくのかと思うとワクワクするんだ"
