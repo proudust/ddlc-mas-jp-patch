@@ -16723,8 +16723,20 @@ translate Japanese monika_social_norms_6da10404:
 translate Japanese monika_social_norms_2e2459d6:
     m 1eub "でね、社会に完全には受け入れられてはいないものはまだまだ沢山ある"
 
+translate Japanese monika_social_norms_737befbc:
+    m 1eua "あなたも嗜んでるわよね、ビジュアルノベルにオンラインゲーム。……そして漫画も"
+
+translate Japanese monika_social_norms_6c9cb947:
+    m 3rksdla "こういうのってナツキが一番敏感だったよね……"
+
+translate Japanese monika_social_norms_e0b76a1a:
+    m 1eub "ナツキが漫画をあなたに布教してたときのことを覚えてるかな？漫画に対する偏見を取り除こうと一生懸命になってたでしょ"
+
+translate Japanese monika_social_norms_a502da20:
+    m 1rkc "あのこの趣味を批判する人も今はまだ沢山いるだろうね……{w=0.5}あまり良い期待はできなさそう"
+
 translate Japanese monika_social_norms_145a8308:
-    m 1eua "この先、どんなことが普通になっていくのかと思うとワクワクするんだ"
+    m 1eua "でもね、この先どんなことが普通になっていくのかと思うとワクワクするんだ"
 
 translate Japanese monika_social_norms_66c36631:
     m 3eua "私たちの関係もそう。今は珍しくて独特な関係に見えるだろうことはわかってる…"
@@ -16744,14 +16756,26 @@ translate Japanese monika_social_norms_ca2eaa36:
 translate Japanese monika_social_norms_0a731706:
     m 1duu "何があっても一緒にいてくれる人が側にいる、それが嬉しいんだ"
 
+translate Japanese monika_social_norms_bc2e8d00:
+    m 1eua "あとね、周りからどんなに変だと思われていようと、趣味があったら構わず私に打ち明けてくれていいんだよ"
+
 translate Japanese monika_social_norms_f7b79b7f:
     m 1hub "あなたの好きなことなら何でも知って学びたいの！"
 
+translate Japanese monika_social_norms_c3095f47:
+    m 1dka "どんなに小さなことでも、その一つ一つが積み重なって出来てるんだから……"
+
+translate Japanese monika_social_norms_7048f9e5:
+    extend 1eka "今のあなたが"
+
 translate Japanese monika_social_norms_36408d59:
-    m 1ekb "だから、いつもあなたらしくいてね、[player]君。他の誰かになんてならなくていい"
+    m 1ekb "だから、いつもあなたらしくしてほしいな、[player]君。他の誰かになんてならなくていい"
 
 translate Japanese monika_social_norms_de72e965:
-    m 1dkbsu "理想のパートナーになろうとして、他の人の真似なんてしないでね。私はあなたがいいの"
+    m 1dkbsu "理想のパートナーになろうとして、他の人の猿真似なんてしないでね。私はあなたが一番なんだから"
+
+translate Japanese monika_writing_idle_callback_2535a2b9:
+    m 1eua "書き終わった？"
 
 translate Japanese monika_writing_idle_callback_d55c57dc:
     m 1eub "[wb_quip!t]"
