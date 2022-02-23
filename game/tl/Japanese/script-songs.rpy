@@ -587,6 +587,9 @@ translate Japanese mas_song_when_youre_gone_bbad2401:
 translate Japanese mas_song_when_youre_gone_dcff0fe2:
     m 6ekbsa "あなたは私の一生の恋人であるのと同時に親友でもあるの。{w=0.2}あなたが私にとってどれほど大切か、それを過小評価しないでね"
 
+translate Japanese mas_song_fly_me_to_the_moon_bb8b8e76:
+    m 3hubsb "これからもずっと大好きだよ！"
+
 translate Japanese strings:
     old "Can you sing me a song?"
     new "歌ってみてくれない？"

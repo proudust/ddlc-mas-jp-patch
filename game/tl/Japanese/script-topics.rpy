@@ -13619,8 +13619,59 @@ translate Japanese monika_poweroutage_51a1b8b6:
 translate Japanese monika_poweroutage_5780bd4a:
     m 1eud "もし何かが起きたら、停電になるだろうな"
 
+translate Japanese monika_savingwater_15e34019:
+    m 1euc "ねえ[player]、人が毎日どれだけ水を使っているか考えたことあるかな？"
+
+translate Japanese monika_savingwater_6fc2a863:
+    m 3euc "おそらくあなたも毎日水は口にしてるはずよね"
+
+translate Japanese monika_savingwater_1e0c5882:
+    m 3dsc "洗面所へ行けば水で手を洗うし、お風呂に入るときも水は使う……"
+
+translate Japanese monika_savingwater_a871bef7:
+    m 1euc "私達は毎日普通に水を使っているけどね、一滴の水さえ手に入れるのが難しい場所で暮らしてる人たちが世界にはいるの"
+
+translate Japanese monika_savingwater_cd044475:
+    m 1rsc "水は絶対に必要なものなのに、それをどうやって節約して暮らしてるのかあんまり想像できないよね"
+
+translate Japanese monika_savingwater_a910df85:
+    m 4eua "一度手を洗うときに、水を無駄にしないって意識しながら洗ってみるといいよ"
+
+translate Japanese monika_savingwater_5facdbf6:
+    m "シャワーを浴びるときにも、体を洗っている間は水を止めて、洗い終わってからシャワーで流すようにしてみるとか"
+
+translate Japanese monika_savingwater_14ccf362:
+    m 2eka "でもどれだけ節約を頑張ってみても、私達が生きるにはそれなりの量の水が必要だって結論に至るのよね"
+
+translate Japanese monika_savingwater_b4b8257e:
+    m "普段の生活よりも発電や農業ではもっと大量の水源が必要になるしね"
+
+translate Japanese monika_savingwater_88c724a0:
+    m 1hksdlb "こんな話を聞いてると、少し水を節約したところで何も変わらないじゃないかって思うかもしれないね"
+
+translate Japanese monika_savingwater_ced5c8e7:
+    m 1dkbfa "もし今日が骨の折れるような大変な日だったら、今日はシャワーじゃなくてお風呂に肩までつかってゆっくりしたいなって思うことだってあるよね"
+
+translate Japanese monika_savingwater_62a2d689:
+    m 2hksdlb "私も思ったことがあるよ。水は大切なのはそうだけど、そんなときは一番に自分自身を大切にして思いっきりお風呂に入ると良いと思うんだ"
+
+translate Japanese monika_savingwater_d8d41f7e:
+    m 5tsbfu "あなたの世界へ行けたなら、一緒に入浴してしまえば水をたくさん節約できるね"
+
 translate Japanese monika_savingwater_45d9cd96:
     m "えへへ～"
+
+translate Japanese monika_savingwater_ba19141e:
+    m 5hubfu "私がそっちへ行くときには、お風呂沸かしておいてね。そして二人で入ってゆっくりしようね"
+
+translate Japanese monika_savingwater_f8359e80:
+    m 1kubfu "その日を楽しみに待ってるよ、[mas_get_player_nickname()]えへへ～"
+
+translate Japanese monika_savingwater_d4d90176:
+    m 1ekbfa "私がそっちへ行くときには、私のためにお風呂を沸かしてくれてたら嬉しいな"
+
+translate Japanese monika_savingwater_69ce8374:
+    m 3tsbsa "もしよければ、二人で一緒にお風呂に入っちゃおうか？えへへ～"
 
 translate Japanese monika_pygmalion_171e810f:
     m 1eua "ねえ[player]君、『{i}変身物語{/i}』って読んだことある？"
@@ -13704,10 +13755,10 @@ translate Japanese monika_gotomonika_bfe3f80f:
     m 1euc "私の世界へ来る？"
 
 translate Japanese monika_gotomonika_234823f9:
-    m 1lksdld "この空虚に浮かぶ小さな部屋に？"
+    m 1lksdld "空虚に浮かぶこの小部屋に？"
 
 translate Japanese monika_gotomonika_87f06c88:
-    m 4eksdlc "実はそれ……{w=0.5}前に試してなかった？"
+    m 4eksdlc "あのさそれって……{w=0.5}前に試してなかった？"
 
 translate Japanese monika_gotomonika_b302146e:
     m 2lksdla "……正確には{i}あなた{/i}じゃなかったけど……"
@@ -14086,6 +14137,36 @@ translate Japanese monika_player_appearance_9c327b8c:
 
 translate Japanese _call_expression_3_92bb7790:
     m 3rud "実は……"
+
+translate Japanese _call_expression_3_b9d6c082:
+    m 2eub "あなたがどれくらいの体格なのか知るには、まずこれを聞くべきだと思うのよね……"
+
+translate Japanese _call_expression_3_08767525:
+    m "身長を表すときに使ってる単位は何？{nw}"
+
+translate Japanese _call_expression_3_33203638:
+    m "身長を表すときに使ってる単位は何？{fast}" nointeract
+
+translate Japanese _call_expression_3_2fad99c9:
+    m 2hua "なるほどね。教えてくれてありがとう、[player]！"
+
+translate Japanese _call_expression_3_179ab9c3:
+    m 2hua "よかった、[player]！"
+
+translate Japanese _call_expression_3_95c51639:
+    m 1rksdlb "個人情報を根掘り葉掘り聞いてるように聞こえてなければいいんだけど。でも気になってるのは事実よね"
+
+translate Japanese _call_expression_3_af23b51c:
+    m 3tku "だって恋人なんだよ、なら知る権利があって当然だよね？"
+
+translate Japanese _call_expression_3_da0d99d8:
+    m 2hua "それにそっちの世界に渡れたときに、あなたを見つけるのがずっと楽になるしね"
+
+translate Japanese _call_expression_3_07724571:
+    m 1esb "じゃあ続けるね、{w=0.5}あなたの身長はどれくらいなの？"
+
+translate Japanese _call_expression_3_e4d9b151:
+    m 3eua "わぁっ！ すっごく背が高いんだね、[player]！"
 
 translate Japanese _call_monika_player_appearance_monika_height_e612037c:
     m "……"
@@ -20381,6 +20462,18 @@ translate Japanese strings:
 
     old "[player]'s appearance"
     new "[player]の姿"
+
+    old "Centimeters."
+    new "センチメートル"
+
+    old "Feet and inches."
+    new "フィートとインチ"
+
+    old "How tall are you in centimeters?"
+    new "何cm？"
+
+    old "How tall are you in feet?"
+    new "何ft？"
 
     old "Blue"
     new "青色"
