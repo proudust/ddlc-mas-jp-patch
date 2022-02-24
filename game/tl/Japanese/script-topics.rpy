@@ -11309,6 +11309,9 @@ translate Japanese monika_asks_family_1c3ca322:
 translate Japanese monika_asks_family_8f95d153:
     m 1hubsa "大好きだよ！"
 
+translate Japanese monika_concerts_ed8f8437:
+    m 3eua "いいわね！"
+
 translate Japanese monika_concerts_6664fa5f:
     m 1eua "それまでの間、もしあなたが好きな音楽を私と共有したいなら、とっても簡単よ！"
 
