@@ -107,7 +107,7 @@ translate Japanese monika_idle_shower_9b2279a0:
     m 1hua "あなたがきれい好きで嬉しいわ､[player]｡"
 
 translate Japanese monika_idle_shower_e61978a3:
-    m 1eua "ごゆっくり～"
+    m 1eua "それじゃ、一汗洗い流して来てね～"
 
 translate Japanese monika_idle_shower_09353815:
     m 1eub "シャワーを浴びに行くの？いいわよ"
@@ -230,7 +230,7 @@ translate Japanese monika_idle_workout_0b668c32:
     m 1eub "自分の体を大切にしている、って思えるのは良い事だと思うよ！"
 
 translate Japanese monika_idle_workout_c58601f1:
-    m 3esa "「健全なる精神は健全なる身体に宿る」……なんてことわざもあるよね"
+    m 3esa "「健全な身体に健全な精神があれかし」……なんてことわざもあるよね"
 
 translate Japanese monika_idle_workout_78978e66:
     m 3hua "頑張っていい汗をかいてきてね、[player]～"
@@ -275,10 +275,10 @@ translate Japanese monika_idle_workout_callback_ee8595ae:
     m 3eka "休憩しても大丈夫だけど、やり残したままだとすっきりしないよね"
 
 translate Japanese monika_idle_workout_callback_cdac108c:
-    m 3ekb "本当にこれでもいいの？"
+    m 3ekb "本当にここでリタイアするの？"
 
 translate Japanese monika_idle_workout_callback_3c930086:
-    m "本当にこれでいい？" nointeract
+    m "本当にここまでにするの？" nointeract
 
 translate Japanese monika_idle_workout_callback_71e514f8:
     m 1eka "いいんだよ～頑張ってね！"

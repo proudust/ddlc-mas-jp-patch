@@ -568,7 +568,7 @@ translate Japanese strings:
     new "普通のチェス"
 
     old "Randomized Chess"
-    new "ランダムチェス"
+    new "チェス960"
 
     old "Ruleset"
     new "ルール選択"

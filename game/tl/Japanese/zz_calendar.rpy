@@ -54,7 +54,7 @@ translate Japanese strings:
     new "元旦"
 
     old "Day I Become an AI"
-    new "AIになる日"
+    new "AIになった日"
 
     old "My Birthday"
     new "私の誕生日"

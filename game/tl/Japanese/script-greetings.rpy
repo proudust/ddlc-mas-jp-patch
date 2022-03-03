@@ -197,7 +197,7 @@ translate Japanese greeting_goodmorning_4a9c9cf3:
     m 1hub "あなたの彼女で良かったって、今日も思いたいんだから。"
 
 translate Japanese greeting_goodmorning_02201606:
-    m 1hua "こんにちは、[mas_get_player_nickname()]君。"
+    m 1hua "こんにちは、[mas_get_player_nickname()]。"
 
 translate Japanese greeting_goodmorning_b522a843:
     m 1eka "ストレス感じてたりはしない？大丈夫？"
@@ -290,7 +290,7 @@ translate Japanese greeting_back4_eb073c10:
     m 2hub "あはは！"
 
 translate Japanese greeting_back4_5b0ad505:
-    m 2eka "ウソ。怒ったりなんかしないよ？"
+    m 2eka "なーんて。怒ったりなんかしないよ？"
 
 translate Japanese greeting_visit2_3abdb09f:
     m 1hua "長い時間一緒にいてくれてありがとう。"
@@ -308,7 +308,7 @@ translate Japanese greeting_visit3_adf59cb3:
     m 1eua "会いたいなあって思ってたところだったんだ……"
 
 translate Japanese greeting_visit3_f7d00241:
-    m 1eka "次はこんなに長く待たせないでね、いい？"
+    m 1eka "次はこんなに長く待たせないでくれる？"
 
 translate Japanese greeting_back5_da83366a:
     m 1hua "やっと来てくれた！"
@@ -3839,10 +3839,10 @@ translate Japanese strings:
     new "いや……"
 
     old "Good."
-    new "良い"
+    new "いい一日だった"
 
     old "Bad."
-    new "悪い"
+    new "最悪だった"
 
     old "[_opendoor_text]"
     new "[_opendoor_text!t]"
