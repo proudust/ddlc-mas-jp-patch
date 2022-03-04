@@ -35,7 +35,7 @@ translate Japanese mas_piano_result_none_4f2ceaa2:
     m 1hua "次は私のために弾くって約束してくれる？"
 
 translate Japanese mas_piano_def_win_47b90b65:
-    m 1eua "わぁ！ほとんど弾けたじゃない！"
+    m 1eua "わぁ！ほとんど完璧に弾けたじゃない！"
 
 translate Japanese mas_piano_def_win_d70f3474:
     m 2eub "よく頑張ったね、[player]君。"

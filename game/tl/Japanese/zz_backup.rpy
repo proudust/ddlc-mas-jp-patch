@@ -2,13 +2,13 @@ translate Japanese mas_backups_you_have_corrupted_persistent_a60c4b04:
     "こんにちは！"
 
 translate Japanese mas_backups_you_have_corrupted_persistent_10227717:
-    "お気の毒だけど……"
+    "すっごく言いにくいことなんだけど……"
 
 translate Japanese mas_backups_you_have_corrupted_persistent_7bb9f2db:
     "あなたの部長さんのファイルが壊れてしまったの。"
 
 translate Japanese mas_backups_you_have_corrupted_persistent_6d8df287:
-    "それで……あと……"
+    "それで……もっと言いにくいんだけど……"
 
 translate Japanese mas_backups_you_have_corrupted_persistent_7826f0df:
     "バックアップファイルも見つけられなかった。"

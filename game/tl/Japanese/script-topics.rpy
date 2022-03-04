@@ -2638,6 +2638,33 @@ translate Japanese monika_holdme_long_ceb52122:
 translate Japanese monika_holdme_long_37340438:
     m 5hubfu "えへへ～"
 
+translate Japanese monika_holdme_long_bbaab41d:
+    m 6dkbfa "…{w=1}んあ？"
+
+translate Japanese monika_holdme_long_a6d4907a:
+    m 6tsbfa "[player]……"
+
+translate Japanese monika_holdme_long_4eb6d5a1:
+    m 2wubfsdld "あっ！[player]！"
+
+translate Japanese monika_holdme_long_92713745:
+    m 2hkbfsdlb "あはは……"
+
+translate Japanese monika_holdme_long_6d1da513:
+    m 3rkbfsdla "ちょっと気持ちよすぎちゃったみたいだね"
+
+translate Japanese _call_monika_holdme_prep_5_1d6489dc:
+    m 6dubfd "{cps=*0.5}[player]～{/cps}"
+
+translate Japanese _call_monika_holdme_prep_5_68b3b565:
+    m 6dubfb "{cps=*0.5}だいすき… {w=0.7}だよぉ～{/cps}"
+
+translate Japanese _call_monika_holdme_prep_5_40d15d5d:
+    m 6dubfa "{cps=*0.5}[player]……{/cps}"
+
+translate Japanese _call_monika_holdme_prep_5_dbf5d387:
+    m "{cps=*0.5}むにゃぁ……{/cps}"
+
 translate Japanese _call_monika_holdme_prep_5_e612037c:
     m "……"
 
@@ -19610,6 +19637,9 @@ translate Japanese strings:
 
     old "Can I hold you?"
     new "抱きしめてもいい？"
+
+    old "{i}Let her rest on you.{/i}"
+    new "{i}もう少しこのまま寝かせていよう。{/i}"
 
     old "Come here, [m_name]."
     new "こっちにおいで、[m_name]。"
