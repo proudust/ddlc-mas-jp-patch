@@ -4489,8 +4489,56 @@ translate Japanese monika_torment_7a6dc579:
 translate Japanese monika_birthday_d0c2b671:
     m 1hua "えへへ……"
 
+translate Japanese monika_birthday_9905a04b:
+    m 1eub "絶対今日が私の誕生日だって知ってたでしょ！"
+
+translate Japanese monika_birthday_86a7c326:
+    m 3hub "もう！からかわないでよねっ、[player]！"
+
+translate Japanese monika_birthday_2f390390:
+    m 2rksdlb "あはは……  {w=1}ちょっと言い出しにくいかな"
+
+translate Japanese monika_birthday_12996286:
+    m 2eksdla "あのね私の誕生日って"
+
+translate Japanese monika_birthday_7cfd4ca1:
+    m 3hksdlb "実は今日なの！"
+
+translate Japanese monika_birthday_204ed37b:
+    m "あなたと同じ日！"
+
+translate Japanese monika_birthday_86387154:
+    m 3eksdla "あなたは今知ったんだから、何も用意できてなくても仕方ないし、私も気にしないから大丈夫だよ"
+
+translate Japanese monika_birthday_c6aba5b3:
+    m 1ekbsa "一緒に今日を過ごしてくれるだけで十分だよ～"
+
+translate Japanese monika_birthday_8364b424:
+    m 3eksdld "誕生日忘れちゃったのね……"
+
+translate Japanese monika_birthday_1840184e:
+    m 2rksdlc "前もだったよね"
+
+translate Japanese monika_birthday_6f623e88:
+    m 3eksdla "まあいいけどね、[player]……"
+
+translate Japanese monika_birthday_4c4e3a1c:
+    m 1eka "少なくとも今日を一緒に過ごしてくれているからね～"
+
 translate Japanese monika_birthday_d0c2b671_1:
     m 1hua "えへへ……"
+
+translate Japanese monika_birthday_2ad3e5d4:
+    m 3hub "さっき？前に？もう私の誕生日をお祝いしてくれたでしょ！"
+
+translate Japanese monika_birthday_affd9161:
+    m 3eka "もう忘れちゃった？"
+
+translate Japanese monika_birthday_ea1b1d93:
+    m 1rksdla "まあいいけど。頭の片隅に入れておいてね、私の誕生日は9月22日"
+
+translate Japanese monika_birthday_f2764030:
+    m 3hksdlb "携帯のリマインダーに登録しておくといいよ、そうすればきっと忘れないだろうから！"
 
 translate Japanese monika_birthday_b5c8939c:
     m 1euc "私、自分のことなのに知らないことがいっぱいあるんだ。"
@@ -4521,6 +4569,9 @@ translate Japanese monika_birthday_00ca0ebe:
 
 translate Japanese monika_birthday_a1aa2b6c:
     m 3eksdla "私の誕生日は9月22日だよ…"
+
+translate Japanese monika_birthday_f2764030_1:
+    m 3hksdlb "携帯のリマインダーに登録しておくといいよ、そうすればきっと忘れないだろうから！"
 
 translate Japanese monika_birthday_d9aaac67:
     m 3eua "あのね、誕生日で思い出したんだけど…"
