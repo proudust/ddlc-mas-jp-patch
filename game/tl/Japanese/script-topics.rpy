@@ -4499,7 +4499,7 @@ translate Japanese monika_birthday_2f390390:
     m 2rksdlb "あはは……  {w=1}ちょっと言い出しにくいかな"
 
 translate Japanese monika_birthday_12996286:
-    m 2eksdla "あのね私の誕生日って"
+    m 2eksdla "あのね私の誕生日って……"
 
 translate Japanese monika_birthday_7cfd4ca1:
     m 3hksdlb "実は今日なの！"
@@ -4528,26 +4528,23 @@ translate Japanese monika_birthday_4c4e3a1c:
 translate Japanese monika_birthday_d0c2b671_1:
     m 1hua "えへへ……"
 
-translate Japanese monika_birthday_2ad3e5d4:
-    m 3hub "さっき？前に？もう私の誕生日をお祝いしてくれたでしょ！"
-
 translate Japanese monika_birthday_affd9161:
     m 3eka "もう忘れちゃった？"
 
 translate Japanese monika_birthday_ea1b1d93:
-    m 1rksdla "まあいいけど。頭の片隅に入れておいてね、私の誕生日は9月22日"
+    m 1rksdla "念のため、もう一度伝えておくね。私の誕生日は9月22日"
 
 translate Japanese monika_birthday_f2764030:
     m 3hksdlb "携帯のリマインダーに登録しておくといいよ、そうすればきっと忘れないだろうから！"
 
 translate Japanese monika_birthday_b5c8939c:
-    m 1euc "私、自分のことなのに知らないことがいっぱいあるんだ。"
+    m 1euc "私、自分のことなのに知らないことがいっぱいあるんだ"
 
 translate Japanese monika_birthday_2e498c0f:
-    m 1eud "自分の誕生日だって、最近ネットで知ったくらいなんだから。"
+    m 1eud "自分の誕生日だって、最近ネットで知ったくらいなんだから"
 
 translate Japanese monika_birthday_6af3c43e:
-    m 3eua "9月22日。DDLCのリリース日。"
+    m 3eua "9月22日。DDLCのリリース日"
 
 translate Japanese monika_birthday_a7a86c89:
     m 3hua "なんとあなたの誕生日と同じ！"
@@ -4569,6 +4566,9 @@ translate Japanese monika_birthday_00ca0ebe:
 
 translate Japanese monika_birthday_a1aa2b6c:
     m 3eksdla "私の誕生日は9月22日だよ…"
+
+translate Japanese monika_birthday_7e945b5b:
+    m 3hksdlb "彼女の誕生日なんだからちゃんと覚えておいてほしいな、ばか……"
 
 translate Japanese monika_birthday_f2764030_1:
     m 3hksdlb "携帯のリマインダーに登録しておくといいよ、そうすればきっと忘れないだろうから！"
@@ -19518,7 +19518,7 @@ translate Japanese strings:
     new "問題ない"
 
     old "Topic bookmarked."
-    new "トピックはブックマークされています。"
+    new "トピッがブックマークされました。"
 
     old "Topic flagged for removal."
     new "トピックの削除フラグが立てられました。"

@@ -46,6 +46,18 @@ translate Japanese _call_mas_gender_trans_c69f4f15:
 translate Japanese monika_gender_redo_e3362cb0:
     m 1eka "もちろん、[player]！"
 
+translate Japanese monika_gender_redo_e7f3fbd3:
+    m 3eka "前に性別について話してから、何か発見があったの？{nw}"
+
+translate Japanese monika_gender_redo_bafcb432:
+    m "前に性別について話してから、何か発見があったの？{nw}" nointeract
+
+translate Japanese monika_gender_redo_a18c38c8:
+    m "それじゃあ、改めてあなたの性別をおしえてくれる？"
+
+translate Japanese monika_gender_redo_08959710:
+    m "それじゃあ、改めてあなたの性別をおしえてくれる？" nointeract
+
 translate Japanese _call_mas_gender_redo_react_3_98da7d75:
     m 5hubsa "ありのままの君が好きだよ～"
 
@@ -1276,6 +1288,9 @@ translate Japanese strings:
 
     old "Could you call me by different pronouns?"
     new "別の性別として扱ってほしい"
+
+    old "I was just too shy."
+    new "恥ずかしがり屋だから..."
 
     old "I'm a boy."
     new "男性"

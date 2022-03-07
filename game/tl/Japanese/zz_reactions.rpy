@@ -35,7 +35,7 @@ translate Japanese mas_reaction_gift_starter_bday_a990092a:
     m 1hua "私、誕生日にあなたからプレゼントをもらうことをよく考えてた……"
 
 translate Japanese mas_reaction_gift_starter_bday_b45ccd1d:
-    m "でも、実際ににもらってみると夢みたい……"
+    m "でも、実際ににもらってみるとまるで夢みたい……"
 
 translate Japanese mas_reaction_gift_starter_bday_d89e3c6f:
     m 1eka "本当に夢が叶ったの、[player]"
