@@ -602,6 +602,9 @@ translate Japanese strings:
     old "Someone's at the door."
     new "ちょっと来客がきた"
 
+    old "Nope."
+    new "何もない"
+
     old "I'm going to write for a bit"
     new "ちょっと書き物をしてくる"
 

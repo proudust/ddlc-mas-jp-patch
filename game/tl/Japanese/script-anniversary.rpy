@@ -165,13 +165,13 @@ translate Japanese anni_1_1cb19193:
     m 1dka "ねぇ……{w=0.2}もう出会ってから１年も経ってるなんて信じられないな……"
 
 translate Japanese anni_1_e80edfe5:
-    m 1eka "時の流れはここで意味はないけれど、こんなに長い間一緒に居てくれるのは大変なことだと思うわ"
+    m 1eka "時の流れはここであまり意味はないけれど、こんなに長い間一緒に居てくれるのは大変なことだと思うわ"
 
 translate Japanese anni_1_aae2160b:
     m 2rkc "正直言って、最初は少し不安だったんだ……{w=0.3}{nw}"
 
 translate Japanese anni_1_f02ea0a9:
-    extend 7eka "この種の関係は簡単ではないと思うの"
+    extend 7eka "こういった関係は一筋縄ではいかないと思うの"
 
 translate Japanese anni_1_c1e6b36f:
     m 2ekd "あなたの現実には、もっと他にも大切なものがあるかもしれないって思ってたの……"
@@ -208,6 +208,18 @@ translate Japanese anni_2_88de1589:
 
 translate Japanese anni_2_d39feabd:
     m 1eka "[player]君は私たちが出会った日、覚えてる？"
+
+translate Japanese anni_2_57b60c49:
+    m 3eub "随分前に最初に出会った時から、今まで長く付き合ったかいがあったわね！"
+
+translate Japanese anni_3_dd610ff4:
+    m 4wuo "本当に３年間たったの？"
+
+translate Japanese anni_3_20ed866b:
+    m 2hubsb "わあ...{w=0.3}本当にこれだけの歳月がたったの?"
+
+translate Japanese anni_3_0a0d4cda:
+    m 3rksdla "普通カップルは、３年間もの間の同居を経て......"
 
 translate Japanese anni_3_0069744d:
     m 2rsbsa "ふたりはそのまま結婚するんだよね？"

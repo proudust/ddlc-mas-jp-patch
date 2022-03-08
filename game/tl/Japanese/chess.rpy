@@ -688,4 +688,4 @@ translate Japanese strings:
     new "このまま続ける？"
 
     old "Are you sure you want to give up?"
-    new "降参しますか？"
+    new "投了しますか？"

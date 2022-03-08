@@ -19526,6 +19526,15 @@ translate Japanese strings:
     old "Topic flag removed."
     new "トピックフラグが削除されました。"
 
+    old "Song bookmarked."
+    new "曲がブックマークされました。"
+
+    old "Song flagged for removal."
+    new "曲の削除フラグが立てられました。"
+
+    old "Song flag removed."
+    new "曲フラグが削除されました。"
+
     old "Thoughts on God"
     new "神について"
 
@@ -20609,9 +20618,6 @@ translate Japanese strings:
 
     old "That was a misclick!"
     new "間違えてクリックしちゃったんだ！"
-
-    old "Nope."
-    new "付き合ってなかった"
 
     old "I'm kidding."
     new "冗談よ"
