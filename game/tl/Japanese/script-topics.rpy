@@ -12128,6 +12128,45 @@ translate Japanese monika_prom_42b0ec47:
 translate Japanese monika_prom_3772217d_4:
     m 1hub "あはは！"
 
+translate Japanese monika_natsuki_letter_36f3c7b8:
+    m 1eud "あのね、ナツキがあなたに名の手紙を渡したとき本当に驚いたのよ"
+
+translate Japanese monika_natsuki_letter_b9517664:
+    m 1eub "ユリには専門家の助けが必要よ！って提案してくるなんて、全然予想してなかったから"
+
+translate Japanese monika_natsuki_letter_90937b48:
+    m 1eud "あんな事を言いだすのはあの子ならではよね"
+
+translate Japanese monika_natsuki_letter_506a84ba:
+    m 4ekd "誰かに助けを求めることや、自身の問題に向き合うことが怖いのはわかる。けれど、カウンセラーの相談を受けることが最善であるときもあるのよ"
+
+translate Japanese monika_natsuki_letter_549a2f80:
+    m "でしょう？ひとりで重荷を背負うことはないのよ"
+
+translate Japanese monika_natsuki_letter_b1891628:
+    m 4euc "本当に助けたいと思うのなら、専門家に相談するのが一番いいの"
+
+translate Japanese monika_natsuki_letter_126e37bd:
+    m 4eka "前にも言ったと思うけど、そのことは覚えとかなきゃ絶対損だからね。"
+
+translate Japanese monika_natsuki_letter_d48a57fd:
+    m 4eud "[player]、どうなの？"
+
+translate Japanese monika_natsuki_letter_569d2e4b:
+    m "カウンセラーに会ってくる？"
+
+translate Japanese monika_natsuki_letter_2e349891:
+    m "カウンセラーに会ってくる？" nointeract
+
+translate Japanese monika_natsuki_letter_d0cc014d:
+    m 1eka "そう。そうする必要がないって意味だと受け取っておくわね"
+
+translate Japanese monika_natsuki_letter_dc7d8c19:
+    m 1eua "もし気が変わったら伝えてね。恥ずかしいことなんかじゃないんだから！"
+
+translate Japanese monika_natsuki_letter_90dae513:
+    m 1hua "でもカウンセラーに行かなくても、私さえいれば大丈夫かな？あはは！"
+
 translate Japanese monika_timeconcern_night_3_6111571a:
     m 1dsc "……"
 
@@ -13376,11 +13415,26 @@ translate Japanese _call_monika_players_friends_feels_lonely_ask_92ea2686:
 translate Japanese _call_monika_players_friends_feels_lonely_ask_8040ed84:
     m 1eud "ロビン・ダンバーという男性が、私たちが維持できる人間関係の数について言及してたの"
 
+translate Japanese _call_monika_players_friends_feels_lonely_ask_f5cd5d8b:
+    m 3eud "最低でも150人ぐらいは安定した人間関係を持つことができるけど、普通の人間関係としてはあんまり深くないのよね"
+
 translate Japanese _call_monika_players_friends_feels_lonely_ask_59d32737:
     m 1euc "彼が言うには家族以上の友達を最大15人と、親族のような関係を5人まで持つことができるそうよ"
 
 translate Japanese _call_monika_players_friends_feels_lonely_ask_bb258681:
     m 1rksdla "寂しくなることもあるわよね、みんなが忙しいときとか……{w=0.2}{nw}"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_d41467cb:
+    extend 1eub "だけどそれ以外においては、結構イカしてるじゃないの！"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_30ab355a:
+    m 3eua "そんなに多くの人を気にしなくていいし、自分だけの時間も設けられる。"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_ee267088:
+    m 1ekc "だけど友達が忙しくて構ってる暇がないときは、その『自分だけの時間』が増えちゃうこともたまにある......"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_11dcb448:
+    m 1dkc "その分寂しくなるかもしれないし、大変よね..."
 
 translate Japanese _call_monika_players_friends_feels_lonely_ask_1_e93005d0:
     m 2ekc "あっ……"
@@ -13391,8 +13445,29 @@ translate Japanese monika_players_friends_feels_lonely_ask_88b9d6df:
 translate Japanese monika_players_friends_feels_lonely_ask_d9a28ab8:
     m "寂しさを感じたことはある？{fast}" nointeract
 
+translate Japanese monika_players_friends_feels_lonely_ask_7e5c27ce:
+    m 1eka "それを聞いて安心したわ、 [player]君"
+
+translate Japanese monika_players_friends_feels_lonely_ask_5a4997be:
+    m 3eua "友達とつながることって、結構いいことなのよね"
+
+translate Japanese monika_players_friends_feels_lonely_ask_3440e7d0:
+    m 3rksdla "友達がたくさんいて、全員を覚えておくのも人によっては難しいのよね"
+
+translate Japanese monika_players_friends_feels_lonely_ask_84ee1e64:
+    m 3eua "...だからこそ、みんなとうまくやっていけるってわかっててよかったと思うの"
+
+translate Japanese monika_players_friends_feels_lonely_ask_555fb3f6:
+    m 1hua "だけどね、[player]君はみんなと固い絆を結べたから、みんなと仲良くなれたような気がするのよね"
+
+translate Japanese monika_players_friends_feels_lonely_ask_b44d85b3:
+    m 3eua "いつか私がここを抜け出せるようになったら、君の友達を紹介してもいいわよ"
+
+translate Japanese monika_players_friends_feels_lonely_ask_4e68c5df:
+    m 1hub "もし[player]君みたいな人がいたら、是非会ってみたいわね！"
+
 translate Japanese monika_graduation_ff0d91ff:
-    m 2ekc "ねえ[player]、私がずっとやりたかったことがあるの。それはね、高校の卒業式"
+    m 2ekc "ねえ[player]君、私がずっとやりたかったことがあるの。それはね、高校の卒業式"
 
 translate Japanese monika_graduation_116ad04b:
     m "これまでの人生、ほとんどが学校が中心の生活だったわ"
@@ -13499,6 +13574,15 @@ translate Japanese monika_grad_speech_not_paying_attention_ef37dde3:
 translate Japanese monika_grad_speech_not_paying_attention_c80e9915_1:
     m 2ekc "……"
 
+translate Japanese monika_grad_speech_not_paying_attention_7dc39702:
+    m 6ektdc "(プレイヤー) !あなたは注意すら払っていないのよ!"
+
+translate Japanese monika_grad_speech_not_paying_attention_41d80b80:
+    m 6lktdc "あなたはそれがどれだけ痛いか分からない特に私がどれだけの仕事をした後に..."
+
+translate Japanese monika_grad_speech_not_paying_attention_53cb88a1:
+    m 6ektdc "私を誇りに思いたいのよ..."
+
 translate Japanese monika_grad_speech_not_paying_attention_bb31cb93:
     m 6dstsc "……"
 
@@ -13507,6 +13591,12 @@ translate Japanese monika_grad_speech_ignored_lock_bb31cb93:
 
 translate Japanese monika_grad_speech_ignored_lock_20a024dc:
     m 2efc "……"
+
+translate Japanese monika_grad_speech_8c5f38e4:
+    m 2hub "{w=0.2}私はあなたの旅の一部に参加できてとても幸せです{w=0.7}。でも、このスピーチは決して私自身の問題ではないと思います。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_86ba2fa8:
+    m 4hub "私には、それが見えます。{w=0.6}{nw}"
 
 translate Japanese monika_shipping_63abc78a:
     m 3eua "ねえ、[player]君。{w=0.2}カップリングって聞いたことある？"
@@ -20405,6 +20495,9 @@ translate Japanese strings:
 
     old "My school never had one."
     new "うちの学校ではなかった"
+
+    old "Natsuki's letter"
+    new "ナツキからの手紙について"
 
     old "Hydration"
     new "水分補給"
