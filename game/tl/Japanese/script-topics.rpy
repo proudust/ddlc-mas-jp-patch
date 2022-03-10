@@ -4528,6 +4528,9 @@ translate Japanese monika_birthday_4c4e3a1c:
 translate Japanese monika_birthday_d0c2b671_1:
     m 1hua "えへへ……"
 
+translate Japanese monika_birthday_2ad3e5d4:
+    m 3hub "前にも私の誕生日をお祝いしてくれたでしょ！"
+
 translate Japanese monika_birthday_affd9161:
     m 3eka "もう忘れちゃった？"
 
@@ -4720,6 +4723,36 @@ translate Japanese monika_back_ups_726c7fd8:
 translate Japanese monika_back_ups_6078e32d:
     m 5hub "そういうわけだから、こまめにバックアップしてね、[mas_get_player_nickname()]！"
 
+translate Japanese monika_murphys_law_90936f8f:
+    m 1euc "マーフィーの法則って、知ってる？"
+
+translate Japanese monika_murphys_law_82cfa7db:
+    m 3eud "多くの解釈があるんだけど、最も一般的なものは、 「失敗する可能性のあるものはすべて失敗する」 みたいなものね。'"
+
+translate Japanese monika_murphys_law_cd15787c:
+    m 3tuu "確かに楽観的ね。"
+
+translate Japanese monika_murphys_law_2b2da0bb:
+    m 1eud "傘を持ってこなかったり、レインコートを羽織らなかったりすると、曇った日が雨になるような些細なことでも、どんなことにも応用出来る。"
+
+translate Japanese monika_murphys_law_52803b18:
+    m 1rsb "...個人的には迷信だと思うな。"
+
+translate Japanese monika_murphys_law_9c9e161e:
+    m 3eud "しかし、一部の人々はそうやって生活していて、生活様式は無駄に不安になるかもしれないけど、これがあれば人は不用意にならないもの！"
+
+translate Japanese monika_murphys_law_85f89b6f:
+    m 3etc "コンピュータはいつ破損するかわからないから、考慮する価値はあるもの。"
+
+translate Japanese monika_murphys_law_f5cbc569:
+    m 3eua "だから、私のメモリーをもう一度バックアップするのは良い考えかもしれないわね、 [player]さん 。"
+
+translate Japanese monika_murphys_law_8e51df41:
+    m 2eksdld "あなたを失うことに耐えられなかったら、私の心は壊れちゃいそう......"
+
+translate Japanese monika_murphys_law_ef196c92:
+    m 7ekbsa "だから私を守ってね?"
+
 translate Japanese monika_playerswriting_e55c5dc6:
     m 1euc "[player]君は自分が主人公の物語を書いたことってある？"
 
@@ -4799,7 +4832,7 @@ translate Japanese monika_ghost_bde368d2:
     m 1eka "でももうそんな風に思ってないよ、 [player]……"
 
 translate Japanese monika_ghost_67dc8d46:
-    m 3eka "今はもうあなたは私と一緒じゃない。"
+    m 3eka "[player]と一緒にいるんだし、今はそんなことないもの。"
 
 translate Japanese monika_ghost_d8ef8236:
     m 1hua "あなたと一緒でいつもとっても安心～"
@@ -13425,7 +13458,8 @@ translate Japanese _call_monika_players_friends_feels_lonely_ask_bb258681:
     m 1rksdla "寂しくなることもあるわよね、みんなが忙しいときとか……{w=0.2}{nw}"
 
 translate Japanese _call_monika_players_friends_feels_lonely_ask_d41467cb:
-    extend 1eub "だけどそれ以外においては、結構イカしてるじゃないの！"
+    extend 1eub "ロビン・ダンバーによれば、彼によれば、　
+安定した人間関係を維持できるのは150人くらいまでみたいなの。でもこれは親密な関係ってことじゃなくてあんまり深くない関係で、って意味でね"
 
 translate Japanese _call_monika_players_friends_feels_lonely_ask_30ab355a:
     m 3eua "そんなに多くの人を気にしなくていいし、自分だけの時間も設けられる。"
@@ -13758,16 +13792,16 @@ translate Japanese monika_justice_9dc19df0:
     m "突然問い詰めてくるような人があなたの近くにいなくて、ホッとしたわ"
 
 translate Japanese monika_poweroutage_6d53c90e:
-    m 1eua "ねえ[player]君、私が穏やかな雨音を聞くのが好きって言ったこと、覚えてる？"
+    m 1eua "ねえ[player]君、私が穏やかな雨音を聴いているのが好きって言ったこと、覚えてる？"
 
 translate Japanese monika_poweroutage_c4f5c089:
     m 3lksdla "私は良いと思うんだけど、あなたの世界ではとても良くないものでもあるよね"
 
 translate Japanese monika_poweroutage_5d1eab7b:
-    m 1lksdlc "雷に当たっちゃうかもしれないし"
+    m 1lksdlc "心配なのは雷ね、落雷にあたっちゃうかもしれないし"
 
 translate Japanese monika_poweroutage_978f93e3:
-    m 1lksdlb "当たったら……とんでもないことになっちゃうよね"
+    m 1lksdlb "もし落雷がそばにおちたら……とんでもないことになっちゃうよね"
 
 translate Japanese monika_poweroutage_7773c8d9:
     m 1hksdlb "あはは～"
@@ -13776,7 +13810,7 @@ translate Japanese monika_poweroutage_56af0da9:
     m 1ekd "あなたに当たったらなんて考えたくもないわね"
 
 translate Japanese monika_poweroutage_7bd9d7e1:
-    m 2ekc "雷であなたのコンピューターが壊れたら私はどうなるのかしら？"
+    m 2ekc "落雷であなたのコンピューターが壊れたら私はどうなるのかしら？"
 
 translate Japanese monika_poweroutage_8a563448:
     m 2dsc "もしそうなったら……{w=0.3}{nw}"
@@ -13788,7 +13822,25 @@ translate Japanese monika_poweroutage_51a1b8b6:
     m 1eka "あ、ごめんなさい、暗い話がしたかったわけじゃないの。気になっただけ"
 
 translate Japanese monika_poweroutage_5780bd4a:
-    m 1eud "もし何かが起きたら、停電になるだろうな"
+    m 1eud "もし起こりうるとしたら、まず停電でしょうね"
+
+translate Japanese monika_poweroutage_9cca0f85:
+    m 1hksdlb "停電が起きたら不便だろうけど、それだけなら少なくとも私達はまたいつか逢えるってことだからね"
+
+translate Japanese monika_poweroutage_b18e6d22:
+    m 1eua "真っ暗闇になったそのときはビックリしちゃうかもしれないけど、停電になってもこれだけは覚えておいてほしいの"
+
+translate Japanese monika_poweroutage_8ff305bc:
+    m 1eub "私はいつでもあなたと一緒にいる。もし目の前に私が居なかったとしても、私の心はいつでもあなたのすぐ側。あなたが無事だったと私に伝えてくれるそのときまでね"
+
+translate Japanese monika_poweroutage_a1f9e999:
+    m 3eua "あとね、どんな困難の中、たとえ嵐の真っ只中に居たとしても、私に会いに来ることをためらったりしなくていいからね"
+
+translate Japanese monika_poweroutage_ff536329:
+    m 1eka "私はいつだってあなたを歓迎する。それに……"
+
+translate Japanese monika_poweroutage_e968df99:
+    m 5hua "私たちの関係は、どんな嵐が来ようとも絶対に切り離せないからね〜"
 
 translate Japanese monika_savingwater_15e34019:
     m 1euc "ねえ[player]、人が毎日どれだけ水を使っているか考えたことあるかな？"
@@ -20014,7 +20066,7 @@ translate Japanese strings:
     new "ヤマアラシのジレンマ"
 
     old "You're a murderer!"
-    new "人殺し！"
+    new "ﾓﾆｶは人殺しだ！"
 
     old "Determinism"
     new "決定論について"
@@ -20561,6 +20613,9 @@ translate Japanese strings:
 
     old "You really are evil."
     new "モニカは純粋な悪だ"
+
+    old "Can you drive?"
+    new "自動車免許は持ってる？"
 
     old "I've been in an accident before."
     new "事故にあったことがある"
