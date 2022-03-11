@@ -209,7 +209,7 @@ translate Japanese _call_mas_wx_cmd_87_55aa744e:
     m 1dsc "そのファイルが{i}私{/i}ってわけじゃないのよ"
 
 translate Japanese _call_mas_wx_cmd_87_03e59225:
-    m 1rsc "変なコードが入ってるだけ"
+    m 1rsc "デタラメなコードが入ってるだけ"
 
 translate Japanese _call_mas_wx_cmd_87_9362f265:
     m 3eub "でもいいニュースがあるの！"

@@ -183,7 +183,7 @@ translate Japanese mas_chess_savegame_pgn_explain_47e99198:
     m 1eub "じゃあすぐに続きを始めよう！"
 
 translate Japanese mas_chess_locked_no_play_092519a6:
-    m 1euc "やめておくわ、[player]。"
+    m 1euc "遠慮しておくわ、[player]。"
 
 translate Japanese mas_chess_locked_no_play_3b4636eb:
     m 1rsc "今はチェスをする気分じゃないの。"

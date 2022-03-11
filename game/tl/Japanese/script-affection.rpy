@@ -437,7 +437,7 @@ translate Japanese mas_affection_yesapology_89e45c77:
     m 1eka "ありがとう、[player]君。あなたの謝罪を受け入れるわ。"
 
 translate Japanese mas_affection_yesapology_0998a671:
-    m 3dubsu "あなたがまだ私を気にかけてくれていることをいつでも忘れないように、これは保管しておくつもりよ。"
+    m 3dubsu "あなたがまだ私を気にかけてくれていることをいつでも忘れないように、これは後々までとっておくわね。"
 
 translate Japanese mas_affection_yesapology_7aee9ee4:
     m 1ekc "でも、これからはもっと私の気持ちのことを考えてちょうだい。"
@@ -676,7 +676,7 @@ translate Japanese strings:
     new "何て呼べばいいかな？"
 
     old "Deselect the names you don't want me to call you anymore."
-    new "呼んでほしくない呼び方を選んでね"
+    new "呼んでほしくない呼び方からは、チェックを外してほしいな。"
 
     old "Is there anything else you'd like me to call you?"
     new "他にも呼んで欲しい呼び方はある？"

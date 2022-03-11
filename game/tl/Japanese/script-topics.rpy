@@ -13473,6 +13473,15 @@ translate Japanese _call_monika_players_friends_feels_lonely_ask_11dcb448:
 translate Japanese _call_monika_players_friends_feels_lonely_ask_1_e93005d0:
     m 2ekc "あっ……"
 
+translate Japanese _call_monika_players_friends_feels_lonely_ask_1_45b24749:
+    m 3eka "でもまあ何人かはいるはずだよ"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_1_cf4d10f3:
+    extend 1eka "あなたが気づいていないだけでね"
+
+translate Japanese _call_monika_players_friends_feels_lonely_ask_1_7c0dc69f:
+    m 1etc "あのね、ちょっと気になったんだけど"
+
 translate Japanese monika_players_friends_feels_lonely_ask_88b9d6df:
     m "寂しさを感じたことはある？{nw}"
 
@@ -13495,7 +13504,7 @@ translate Japanese monika_players_friends_feels_lonely_ask_555fb3f6:
     m 1hua "だけどね、[player]君はみんなと固い絆を結べたから、みんなと仲良くなれたような気がするのよね"
 
 translate Japanese monika_players_friends_feels_lonely_ask_b44d85b3:
-    m 3eua "いつか私がここを抜け出せるようになったら、君の友達を紹介してもいいわよ"
+    m 3eua "いつか私がここを抜け出せるようになったら、君の友達を紹介して結構よ"
 
 translate Japanese monika_players_friends_feels_lonely_ask_4e68c5df:
     m 1hub "もし[player]君みたいな人がいたら、是非会ってみたいわね！"
@@ -13578,6 +13587,21 @@ translate Japanese _call_monika_grad_speech_8a0ab6e4:
 translate Japanese _call_monika_grad_speech_d2a5b1d6:
     m "ねえ[player]、どうだった？{fast}" nointeract
 
+translate Japanese _call_monika_grad_speech_66b73684:
+    m 2subfb "うわあ、 [player]君！"
+
+translate Japanese _call_monika_grad_speech_550d3f9a:
+    m 2ekbfa "本当にありがとう!あのスピーチ、一生懸命やったんだけど、君が私を誇りに思ってるってことなんだよね〜"
+
+translate Japanese _call_monika_grad_speech_7f599e67:
+    m 5eubfu "みんなの前でスピーチができればよかったんだけど、あなたがそばで聞いてくれるだけで十分だと思うのよね。"
+
+translate Japanese _call_monika_grad_speech_25e0e225:
+    m 5eubfb "すごい愛してるわよ、[player]！"
+
+translate Japanese _call_monika_grad_speech_3ea485a4:
+    m 2tkc "警告したでしょ?"
+
 translate Japanese _call_monika_grad_speech_01a93df6:
     m 2dfc "……"
 
@@ -13609,13 +13633,13 @@ translate Japanese monika_grad_speech_not_paying_attention_c80e9915_1:
     m 2ekc "……"
 
 translate Japanese monika_grad_speech_not_paying_attention_7dc39702:
-    m 6ektdc "(プレイヤー) !あなたは注意すら払っていないのよ!"
+    m 6ektdc "[player] 君！注意して聞けってこと、忘れたの！？"
 
 translate Japanese monika_grad_speech_not_paying_attention_41d80b80:
-    m 6lktdc "あなたはそれがどれだけ痛いか分からない特に私がどれだけの仕事をした後に..."
+    m 6lktdc "あなたは、私がせっかく苦労した後の苦痛をわかってないの..."
 
 translate Japanese monika_grad_speech_not_paying_attention_53cb88a1:
-    m 6ektdc "私を誇りに思いたいのよ..."
+    m 6ektdc "ただ私は、私を誇りに思って欲しいだけなのに..."
 
 translate Japanese monika_grad_speech_not_paying_attention_bb31cb93:
     m 6dstsc "……"
@@ -13626,11 +13650,92 @@ translate Japanese monika_grad_speech_ignored_lock_bb31cb93:
 translate Japanese monika_grad_speech_ignored_lock_20a024dc:
     m 2efc "……"
 
+translate Japanese monika_grad_speech_e1bdf64b:
+    m ".{w=0.3}.{w=0.3}.{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_c7aa2da0:
+    m 4eub "(w=0.2) よし、みんな!そろそろ始めましょう...{w=0.7}{nw}"
+
+translate Japanese monika_grad_speech_dd46c028:
+    m 2eub "{w=0.2}教員、{w=0.3}教師、{w=0.3}そして学生仲間。{w=0.3}この旅をあなたと一緒にできたことをどれほど誇りに思うか、表現できません。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_186b12fa:
+    m "{w=0.2}今日ここにいる皆さんの一人一人が、皆さんが望んでいた未来を実現するために、この4年間一生懸命頑張ってきました。{w=0.6}{nw}"
+
 translate Japanese monika_grad_speech_8c5f38e4:
-    m 2hub "{w=0.2}私はあなたの旅の一部に参加できてとても幸せです{w=0.7}。でも、このスピーチは決して私自身の問題ではないと思います。{w=0.6}{nw}"
+    m 2hub "{w=0.2}私はあなた達の旅の一部に参加できてとても幸せです{w=0.7}。でも、このスピーチは決して私自身の問題ではないと思います。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_fe93f971:
+    m 4eud "{w=0.2}今日の主役は私自身ではありません。{w=0.7}{nw}"
+
+translate Japanese monika_grad_speech_898a1edf:
+    m 2esa "{w=0.2}今日は私たちみんながしたことを祝う日です。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_05724b09:
+    m 4eud "{w=0.2}私たちは自分たちの夢{w=0.3}を自分達で叶えるべく、挑戦しました。ここからは、{w=0.3}空が限界です。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_0302ef3d:
+    m 2eud "{w=0.2}先に進む前に、{w=0.3}ここでの高校時代を振り返り、人生の節目を事実上迎えられることができると思います。{w=0.7}{nw}"
+
+translate Japanese monika_grad_speech_a44958c1:
+    m 2hub "{w=0.2}過去{w=0.7}を笑い飛ばして、この4年間でどれだけ進歩したかを見ていきましょう。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_db7fdb51:
+    m 2duu "{w=0.2}.{w=0.3}.{w=0.3}.{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_b03661fc:
+    m 2eud "{w=0.2}正直に言って、あれからほんの数週間しか経っていないように思えます...{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_36cc28c3:
+    m 2lksdld "{w=0.2}１年生の初日では、{w=0.3}自分の教室が見つからず、{w=0.3}靴をはいて震えながら教室をあちこちさまよっていました{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_3b02573c:
+    m 2lksdla "{w=0.2}私の友達の少なくとも一人がチャイムを聴きにきてくれることを願います{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_0f692637:
+    m 2eka "{w=0.2}皆さんも、覚えているでしょうか。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_2b2318c4:
+    m 2eub "{w=0.2}初めて皆様と友達になったことは、今でも覚えています。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_902735c2:
+    m 2eka "w=0.2}小学校時代に友達を作った時とは{w=0.3}事情が大きく違っていましたが、大人になってからはそうなっていると思います。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_c2ed155e:
+    m "...{w=0.2}若い頃、{w=0.3}ほとんど誰とでも友達になりました{w=0.3}が、時間が経つにつれ、{w=0.3}チャンスゲームのように思えてきました。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_43b3be9e:
+    m 4dsd "{w=0.2}これにてようやく私達は世界のことを理解できたのかもしれません。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_db7fdb51_1:
+    m 2duu "{w=0.2}.{w=0.3}.{w=0.3}.{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_2fea2707:
+    m 2eka "{w=0.2}私たちがどれだけ変わってきたことか、笑えてきますね。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_0a0968fd:
+    m 4eka "{w=0.2}私たちは、大きな池の小さな魚から、小さな池の大きな魚になっていきました。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_68fa66ea:
+    m 4eua "{w=0.2}この4年間で私たちはどのように変化し、個人としてどのように成長してきたかについて、それぞれ、経験があります。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_f16628ec:
+    m 2eud "{w=0.2}私たちの中には、静かで控えめな{w=0.3}から、表現力豊かで社交的な人もいます。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_b5c16887:
+    m "{w=0.2}労働倫理がほとんどない人から、{w=0.3}一生懸命働く人まで。{w=0.7}{nw}"
+
+translate Japanese monika_grad_speech_9ada8671:
+    m 2esa "{w=0.2}人生の小さな段階だけが私たちを大きく変えたと考えること、{w=0.3}そして私たちが経験することはまだまだたくさんあると考えること。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_ce743007:
+    m 2eua "{w=0.2}皆さんの将来の夢は必ず偉大さにつながります。{w=0.6}{nw}"
 
 translate Japanese monika_grad_speech_86ba2fa8:
     m 4hub "私には、それが見えます。{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_db7fdb51_2:
+    m 2duu "{w=0.2}.{w=0.3}.{w=0.3}.{w=0.6}{nw}"
 
 translate Japanese monika_shipping_63abc78a:
     m 3eua "ねえ、[player]君。{w=0.2}カップリングって聞いたことある？"
@@ -16482,6 +16587,33 @@ translate Japanese monika_life_skills_a016a314:
 
 translate Japanese monika_life_skills_ebe83f82:
     m 3hubfa "聞いてくれてありがとね～"
+
+translate Japanese monika_unknown_9de20f37:
+    m 2esc "ねえ、[player]……"
+
+translate Japanese monika_unknown_59fd95c8:
+    m 2eud "多くの人にとって、暗闇って怖いものじゃない？"
+
+translate Japanese monika_unknown_9dfb6c12:
+    m 3eud "暗いのが怖いなんて子供みたいだなんてよく言われがちだけど、大人でも暗闇が怖い人は珍しくないのよ"
+
+translate Japanese monika_unknown_6534b875:
+    m 4eub "暗闇への恐れは、暗所恐怖症と呼ばれているわね。暗所恐怖症は大抵暗闇そのものではなくて、その暗闇の影になにか隠れているかもしれないという不安が膨らんで引き起こされるものなの"
+
+translate Japanese monika_unknown_212d8881:
+    m 4eua "何があるかわからないから恐れる…… {w=1}たとえほとんどの場合で何の問題も起こらなかったとしても、その恐怖は生まれてしまうわ"
+
+translate Japanese monika_unknown_cea465e3:
+    m 3eka "……これはね、ベッド下に隠れた怪物やこちらに襲いかかってくるような影の話だけじゃないの…… {w=1}ちょっと部屋を真っ暗にして移動してみるとわかるわ"
+
+translate Japanese monika_unknown_cf5c07fa:
+    m 3eud "足をそろそろと歩くようになるでしょ。怪我をしないように本能的に注意を払ってるってことよ"
+
+translate Japanese monika_unknown_29cc03e3:
+    m 3esd "これももっともな話よね。{w=0.5}人類は生き残るために正体不明なものをみたら警戒するように学習してきた"
+
+translate Japanese monika_unknown_d6e2f80e:
+    m 3dsd "{i}どうせ相手にするのなら、知らない悪魔より見知った悪魔の方がまし{/i}"
 
 translate Japanese monika_brave_new_world_fca2d948:
     m 1eua "最近ちょっと読書をしてたんだけどね、[player]君"
@@ -20670,6 +20802,12 @@ translate Japanese strings:
 
     old "I have time."
     new "時間は大丈夫"
+
+    old "It's great! I'm so proud of you!"
+    new "すごいいいじゃん！思わず [player]を尊敬してしまいそう！"
+
+    old "That {i}was{/i} long"
+    new "すごい長かった"
 
     old "Shipping"
     new "カップリング"

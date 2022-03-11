@@ -1000,6 +1000,9 @@ translate Japanese mas_mood_excited_b3f5170f:
 translate Japanese mas_mood_excited_ff1f8a2d:
     m 1hua "あなたが幸せそうで、私も幸せだよ"
 
+translate Japanese mas_mood_excited_f2e400e8:
+    m 1eub "あなたに満足してるって言われると、私まで幸せになっちゃいそう"
+
 translate Japanese mas_mood_excited_cad050a2:
     m 3hub "だから伝えてくれてありがとう～！"
 

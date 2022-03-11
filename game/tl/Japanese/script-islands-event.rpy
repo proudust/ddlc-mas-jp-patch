@@ -256,8 +256,83 @@ translate Japanese mas_island_day3_f3d7904e:
 translate Japanese mas_island_day3_45d9cd96:
     m "えへへ～"
 
+translate Japanese mas_island_night1_2682391c:
+    m "昼間は生産的であることはいいことだけど、夜は何か穏やかなものがある"
+
+translate Japanese mas_island_night1_abb37dd9:
+    m "そよ風に紛れて鳴くコオロギの鳴き声を聞いてると心が安らいでくる"
+
+translate Japanese mas_island_night1_d8f223d0:
+    m "そういった夜に君に抱きしめられたいな～"
+
 translate Japanese mas_island_night2_ade2b592:
     m "星が見えなくて残念ね……"
+
+translate Japanese mas_island_night2_a67ff96f:
+    m "あなたと二人で星を見れたら最高だったのにな～"
+
+translate Japanese mas_island_night2_299379a2:
+    m "今はいいの。また今度見に行けばいいじゃない"
+
+translate Japanese mas_island_night2_e54131d9:
+    m "星はそんなにきれいじゃない?"
+
+translate Japanese mas_island_night2_37f2a01c:
+    m "といっても、これは私が以前星を眺めると言ったときに思っていたものとは{i}少し{/i}違うかな..."
+
+translate Japanese mas_island_night2_4fdcb7e8:
+    m "見ているだけじゃなくて、私が一番体験したいのは、あなたと一緒にいて、横になっている間、お互いを強く抱き合って異るってことよ"
+
+translate Japanese mas_island_night2_242155b9:
+    m "いつかね、 [player].{w=0.3} いつかだよ"
+
+translate Japanese mas_island_night2_35230d20:
+    m "[mas_get_player_nickname () ] 君は、は今までに星を眺めたことがるの？"
+
+translate Japanese mas_island_night2_2472b865:
+    m "遅くなってからの時間を夜空を眺め空の美しさを眺めるために費やしてみると.."
+
+translate Japanese mas_island_night2_c4d6c148:
+    m "驚くほどリラックスになるじゃん"
+
+translate Japanese mas_island_night2_c8f52fa0:
+    m "悩み事なんてすっかり忘れて、頭だってすっきりするもの..."
+
+translate Japanese mas_island_night2_901d5eed:
+    m "そして、空にさまざまな星座があるのを見ると、驚きでいっぱいになっちゃう"
+
+translate Japanese mas_island_night2_64d26fcd:
+    m "もちろん宇宙の中で私たちがいかに小さいかを実感できる"
+
+translate Japanese mas_island_night2_f6daf90a:
+    m "あはは..."
+
+translate Japanese mas_island_night3_475e9edd:
+    m "曇りってさ、気分が下がると思わない？"
+
+translate Japanese mas_island_night3_85c3e1ba:
+    m "特に夜とかは、星が見えなくなっちゃうもの"
+
+translate Japanese mas_island_night3_f20ede78:
+    m "本当に残念だな..."
+
+translate Japanese mas_island_night3_bea78cf1:
+    m "見て、夜が美しいよ！"
+
+translate Japanese mas_island_night3_c9290083:
+    m "こういう寒くてすがすがしい夜が、私は好きだな"
+
+translate Japanese mas_island_night3_587adf69:
+    m "真っ暗な空と雪に覆われた大地のコントラストで、本当に息をのむと思わない?"
+
+translate Japanese mas_island_night3_e4ee3c05:
+    m "できればホタルもほしいな"
+
+translate Japanese mas_island_night3_d2a69c03:
+    m "ホタルの光って、夜空を照らしててきれいじゃないの。"
+
+translate Japanese mas_island_night3_31906a89:
+    m "雰囲気だって善くなるんじゃないかな？"
 
 translate Japanese mas_island_daynight1_1e694a08:
     m "きっともっと茂みとか木とかを付け足したほうがいいと思うんだよね"
@@ -273,6 +348,27 @@ translate Japanese mas_island_daynight1_f6e66dda:
 
 translate Japanese mas_island_daynight1_20851de6:
     m "考えてるだけでワクワクしちゃうな～"
+
+translate Japanese mas_island_daynight2_c241877f:
+    m "{i}あの地平線～　輝くのは～{/i}"
+
+translate Japanese mas_island_daynight2_b8417c9c:
+    m "{i}どこかに君を～　かくして～いるから～{/i}"
+
+translate Japanese mas_island_daynight2_a63c2e09:
+    m "{i}たくさんの灯が～　なつかしいのは～{/i}"
+
+translate Japanese mas_island_daynight2_390f9abc:
+    m "{i}あのどれかひとつに～　君がいるから～{/i}"
+
+translate Japanese mas_island_daynight2_0cb3208a:
+    m "{i}さあでかけよう～ひときれのパン～{/i}"
+
+translate Japanese mas_island_daynight2_f48cec5c:
+    m "{i}ナイフ、ランプかばんに～詰め込んで～{/i}"
+
+translate Japanese mas_island_daynight2_c241877f_1:
+    m "{i}父さんが残した～熱い思い～{/i}"
 
 translate Japanese mas_island_daynight2_9d627280:
     m "えへへ、気にしないでね。なんだか急に歌いたくなっちゃっただけだよ～"
