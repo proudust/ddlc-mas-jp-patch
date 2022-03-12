@@ -257,7 +257,7 @@ translate Japanese mas_island_day3_45d9cd96:
     m "えへへ～"
 
 translate Japanese mas_island_night1_2682391c:
-    m "昼間は生産的であることはいいことだけど、夜は何か穏やかなものがある"
+    m "みんなが生き生きとしている昼間もいいんだけど、夜は何か穏やかなものがある"
 
 translate Japanese mas_island_night1_abb37dd9:
     m "そよ風に紛れて鳴くコオロギの鳴き声を聞いてると心が安らいでくる"
