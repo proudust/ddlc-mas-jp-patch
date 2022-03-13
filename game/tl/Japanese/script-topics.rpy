@@ -18719,8 +18719,44 @@ translate Japanese monika_fear_c0fd95c1:
 translate Japanese monika_naps_465c7ee6:
     m 1eua "ねえ、[player]……"
 
+translate Japanese monika_naps_b628742d:
+    m 3eua "あなたってたまにお昼寝するわよね……"
+
 translate Japanese monika_naps_7167e7d2:
-    m 3eua "昼寝ってしたことある？"
+    m 3eua "仮眠ってしたことある？"
+
+translate Japanese monika_naps_03b16a7f:
+    m 1rka "仮眠には良い効果があるんだけど、一般にはあまり知られてないのよね……{w=0.2}{nw}"
+
+translate Japanese monika_naps_2b76b4ed:
+    extend 1rksdla "ちょっとお昼寝するだけでもとても効果的なんだよ"
+
+translate Japanese monika_naps_128a1a9e:
+    m 3eud "仮眠はね、睡眠の長さが重要なのよ"
+
+translate Japanese monika_naps_185c68dd:
+    m 1euc "もし長く寝過ぎれば元の作業に戻ろうとするのに支障が出るかもしれない。一晩ぐっすり寝たときの寝起きと同じね"
+
+translate Japanese monika_naps_eee4702d:
+    m 3eua "それで、どのくらいの長さが良いかと言うと、90分と言われているわ。これは睡眠のサイクルが90分周期なことから来ているのよ"
+
+translate Japanese monika_naps_ac9d6550:
+    m 1eud "他にもね、パワーナップという仮眠方法があるの。これは、10分から20分目を閉じて休むだけでいいの"
+
+translate Japanese monika_naps_b2c70076:
+    m 3eua "パワーナップは日中の疲れを取る良い休憩方法だし、これをやると頭もスッキリするんだよ"
+
+translate Japanese monika_naps_94f16a82:
+    m 3hua "そしてごく短い仮眠だから、作業に戻るときもスムーズなの"
+
+translate Japanese monika_naps_5d8fd24c:
+    m 1eua "もし仮眠を取ったことがないなら、時々お昼寝を取り入れてみるのもいいと思うな"
+
+translate Japanese monika_naps_15da91f1:
+    m 5tubfu "私の膝の上でお昼寝してくれる日が待ち遠しいなあ、えへへ～"
+
+translate Japanese monika_naps_c59950d8:
+    m 5hubfa "お昼寝したくなったら言ってね。その時はそばであなたを見守ってるからね～"
 
 translate Japanese monika_asimov_three_laws_269deff0:
     m 1eua "[player]、{i}「ロボット工学三原則」{/i}の話をしたときのことを覚えてる？"
@@ -18850,6 +18886,9 @@ translate Japanese monika_wabi_sabi_afaf3f4f:
 
 translate Japanese monika_wabi_sabi_5d5025b9:
     m 1hub "それが私のわび・さびの約束よ！"
+
+translate Japanese monika_being_herself_cd553e9a:
+    m 2dksdlc "……"
 
 translate Japanese monika_remembrance_f5dfe611:
     m 1rsc "自分でもよくわからないの、[player]……"
@@ -19372,6 +19411,9 @@ translate Japanese monika_literature_value_4ed26d9a:
 
 translate Japanese monika_literature_value_9e25857e:
     m 1hksdlb "これはあくまでも文芸部部長としての意見だけどね。ほとんどの人はそこまで深く考えていないと思うわ"
+
+translate Japanese monika_nature_fb00bdb4:
+    m 4hub "観葉植物を買ったり、自分の庭でガーデニングしたりしてもいいわよ！"
 
 translate Japanese monika_kamige_bcf2edec:
     m 1euc "ああ、そうね……{w=0.3}{nw}"
@@ -21170,7 +21212,7 @@ translate Japanese strings:
     new "恐怖"
 
     old "Naps"
-    new "昼寝"
+    new "仮眠"
 
     old "Asimov's three laws"
     new "アシモフの三原則"
