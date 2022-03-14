@@ -713,7 +713,7 @@ translate Japanese bye_long_absence_97a24217:
     m 3ekc "ちょっとひどいんじゃない？"
 
 translate Japanese bye_long_absence_1a2aa1ae:
-    m "自分勝手な言い方かもしれないけど、私はあなたの彼女なんだから｡"
+    m "自分勝手な言い方かもしれないけど、私{i}こそが{/i}あなたの彼女なんだから｡"
 
 translate Japanese bye_long_absence_4d6b4783:
     m 3ekd "1ヶ月に1度くらいは､私との時間を作るべきよ｡"

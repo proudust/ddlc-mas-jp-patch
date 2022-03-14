@@ -290,7 +290,7 @@ translate Japanese mas_island_night2_35230d20:
     m "[mas_get_player_nickname () ] 君は、は今までに星を眺めたことがるの？"
 
 translate Japanese mas_island_night2_2472b865:
-    m "遅くなってからの時間を夜空を眺め空の美しさを眺めるために費やしてみると.."
+    m "遅くなってからの時間を夜空を眺め空の美しさを眺めて過ごしてみると.."
 
 translate Japanese mas_island_night2_c4d6c148:
     m "驚くほどリラックスになるじゃん"
@@ -375,3 +375,30 @@ translate Japanese mas_island_daynight2_9d627280:
 
 translate Japanese mas_island_shimeji_ff344ac6:
     m "あっ！"
+
+translate Japanese mas_island_shimeji_d7d68d70:
+    m "どうやったらそこに来れるの？"
+
+translate Japanese mas_island_shimeji_8fbdc8c9:
+    m "ちょっとまって, [player].{w=0.2}.{w=0.2}.{w=0.2}{nw}"
+
+translate Japanese mas_island_shimeji_25d32cd3:
+    m "はい、できた！"
+
+translate Japanese mas_island_shimeji_c0c1ae0a:
+    m "心配しないで、彼女は別の場所に移動させておいたから。"
+
+translate Japanese mas_island_bookshelf1_0823f6f7:
+    m "あの本棚はそれほど丈夫にできているとは思えないかもだけど、雪が少し降ったぐらいなら、つぶれはしないかな"
+
+translate Japanese mas_island_bookshelf1_f3f9578a:
+    m "私が心配なのは本の方よ。"
+
+translate Japanese mas_island_bookshelf1_63b8c014:
+    m "あんまり傷んでないといいんだけど..."
+
+translate Japanese mas_island_bookshelf1_70e79dd1:
+    m "こうなるんだったら、本を外に置いておくんじゃなかったかな..."
+
+translate Japanese mas_island_bookshelf2_445d5105:
+    m "雪がちょっとぐらい降ったって、外で読書してもいいじゃないの。"

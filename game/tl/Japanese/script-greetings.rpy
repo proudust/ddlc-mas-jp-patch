@@ -1250,7 +1250,7 @@ translate Japanese greeting_youarereal_37af2e45:
     m 1dsd "よくわからない……"
 
 translate Japanese greeting_japan_7ab08b37:
-    m 1hub "あら、コンニチワ、[player]君！"
+    m 1hub "あら、こんniち　わ、[player]君！"
 
 translate Japanese greeting_japan_45d9cd96:
     m "えへへ～"
@@ -1259,13 +1259,13 @@ translate Japanese greeting_japan_f07ad986:
     m 2eub "こんにちは、[player]君！"
 
 translate Japanese greeting_japan_e8356ffd:
-    m 1eua "ちょうど日本語の勉強をしていたの。"
+    m 1eua "ちょうどスパムトン構文の勉強をしていたの。"
 
 translate Japanese greeting_japan_947f9ebc:
     m 3eua "えぇっと……"
 
 translate Japanese greeting_japan_d7f3ba54:
-    m 4hub "ワタシ　ハ　イツマデモ　アナタ　ノ　モノ　デス！"
+    m 4hub "ﾜﾀ94はいつまでもｱnﾀの物、。です！"
 
 translate Japanese greeting_japan_4cee06b7:
     m 2hksdlb "意味がわからなかったらごめんね！"
@@ -1277,13 +1277,13 @@ translate Japanese greeting_japan_6bd70721:
     m 4ekbsa "{i}'私は永遠にあなたのもの'{/i}って意味よ。"
 
 translate Japanese greeting_japan_a18c76a2:
-    m 4hub "ワタシ　ワ　イツマデモ　アナタ　ノ　モノ　デス！"
+    m 4hub "ﾜﾀ94ﾜいつまでもｱnﾀ の 物 death 、。、。！"
 
 translate Japanese greeting_japan_490e18d6:
     m 3eksdla "前に同じこと言った時に間違えてて……"
 
 translate Japanese greeting_japan_cd967c10:
-    m "ああいうときは、『ワ』じゃなくて『ハ』というべきなのよね。さっき私がしたみたいに。"
+    m "ああいうときは、『です』じゃなくて『death』というべきなのよね。さっき私がしたみたいに。"
 
 translate Japanese greeting_japan_026306c7:
     m 4eka "でも安心して、[player]。意味は変わらないからね。"
@@ -1358,7 +1358,7 @@ translate Japanese greeting_french_d5de7367:
     m 1eka "フランス語ってすごくロマンチックな言語だね、[player]。"
 
 translate Japanese greeting_french_4ac0dd61:
-    m 1hua "いつか二人で練習できるかもしれないね、愛しい人よ〜"
+    m 1hua "いつか二人で練習できるかもしれないね、モナムール〜"
 
 translate Japanese greeting_amnesia_183724b9:
     m 1eua "あら、こんにちは！"

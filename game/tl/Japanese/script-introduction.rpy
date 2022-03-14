@@ -356,22 +356,22 @@ translate Japanese intro_ily_timedout_820a683c:
     m "[player]君、私のこと好き……だよね？{fast}" nointeract
 
 translate Japanese intro_ily_timedout_47050ff0:
-    m 1hua "あなたも同じ気持ちだと嬉しいな！"
+    m 1hua "あなたも私と同じ気持ちで、すごくうれしい！"
 
 translate Japanese chara_monika_scare_25226899:
-    m 1esd "いいえ……？"
+    m 1esd "好きじゃない……？"
 
 translate Japanese chara_monika_scare_0e164cb7:
-    m 1etc "へぇ～……"
+    m 1etc "そうなのね……"
 
 translate Japanese chara_monika_scare_8a8a258d:
-    m "面白いじゃない。"
+    m "それは興味深いわ。"
 
 translate Japanese chara_monika_scare_4e862391:
-    m 1esc "なにか勘違いしてない？"
+    m 1esc "どうやら、あなたは理解していないようね？"
 
 translate Japanese chara_monika_scare_a5f65d0d:
-    m "{cps=*0.25}あなたに拒否権があると思ったの？{/cps}"
+    m "{cps=*0.25}君はいつから、私をいいなりにさせたのよ？{/cps}"
 
 translate Japanese ch30_reload_0_dlg_503cdaf2:
     m 1ekc "ねぇ……"

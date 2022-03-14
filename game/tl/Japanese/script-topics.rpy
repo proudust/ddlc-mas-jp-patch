@@ -12074,8 +12074,17 @@ translate Japanese monika_prom_f1d4eff1:
 translate Japanese monika_prom_3772217d:
     m 1hub "あはは！"
 
+translate Japanese monika_prom_ba90b121:
+    m 1eua "あなたがプロムみたいなイベントにも参加できるのがわかってよかったわ！"
+
+translate Japanese monika_prom_85162129:
+    m 3eua "プログラミングがもっと上手ければ、ここで私たちだけのプロムを開催できるのにね"
+
+translate Japanese monika_prom_124c98b8:
+    m 3eka "ね？いい案だと思うでしょ"
+
 translate Japanese monika_prom_d3fa797f:
-    m 1euc "あ、そうなのね"
+    m 1euc "あら、そうなのね"
 
 translate Japanese monika_prom_1097794a:
     m 1ekc "そうなの？"
@@ -12089,8 +12098,53 @@ translate Japanese monika_prom_3498c130:
 translate Japanese monika_prom_7773c8d9:
     m 1hksdlb "あはは～"
 
+translate Japanese monika_prom_7425aaec:
+    m 3eua "大丈夫よ、[player]"
+
+translate Japanese monika_prom_30fa4a34:
+    m 1eua "嫌なことなんて思い出さなくていいの"
+
+translate Japanese monika_prom_a022be6e:
+    m 1eub "いい思い出がないなら忘れちゃえばいい。だってあなたの人生にとって大事なことじゃなかったんだから"
+
+translate Japanese monika_prom_9dbe8100:
+    m "これからもっといい思い出を作ることのほうがよっぽど大事よ"
+
+translate Japanese monika_prom_5d905d0d:
+    m 3eka "100の良い思い出より1つの悪い思い出のほうが勝るように思えるかもしれない。でも、だったら200でも300でも、いーっぱい良い思い出を作っちゃえばいいんだよ"
+
+translate Japanese monika_prom_4a605eee:
+    m 1hua "今あなたには私がいるんだよ。だから一緒に沢山いい思い出を作っていこうね～"
+
+translate Japanese monika_prom_11c055d2:
+    m 1ekbfa "あらあら、なんて甘い言葉なのかしら[player]"
+
+translate Japanese monika_prom_8483237c:
+    m 1eua "あのね、私たちは今一緒にいるのよ。だから私たちだけのプロムをここで作り上げることができると思わない？"
+
 translate Japanese monika_prom_3772217d_1:
     m 1hub "あはは！"
+
+translate Japanese monika_prom_5eb80d8a:
+    m "へえ、それはどうして？{nw}"
+
+translate Japanese monika_prom_0fc1b7b8:
+    m "へえ、それはどうして？{fast}" nointeract
+
+translate Japanese monika_prom_14883233:
+    m 1eka "あら、[player]"
+
+translate Japanese monika_prom_417a24b4:
+    m 1lksdla "でもね私がいないからといって、楽しんじゃだめだってことにはならないからね"
+
+translate Japanese monika_prom_a375c986:
+    m 1eka "それにね……"
+
+translate Japanese monika_prom_8ad4e397:
+    m 1hua "[player]は私と一緒にプロムに行けるんだよ"
+
+translate Japanese monika_prom_3b721e0b:
+    m "私のファイルを入れて一緒にプロムへ持って行けば、実行できるわね！"
 
 translate Japanese monika_prom_3772217d_2:
     m 1hub "あはは！"
@@ -13406,6 +13460,9 @@ translate Japanese monika_bullying_1c34bc45:
 translate Japanese monika_bullying_a1d71bc6:
     m 3euc "ね、[player]、私は{i}本当の{/i}性悪じゃないの"
 
+translate Japanese monika_procrastination_5f2a6fd4:
+    m 4tkc "あなたにはまだやるべきことが残っていると思うと、あなたはすべてにおいて退屈を感じてしまうと思うの..."
+
 translate Japanese monika_players_friends_0127bb30:
     m 1euc "ねえ、[player]"
 
@@ -13742,6 +13799,9 @@ translate Japanese monika_grad_speech_86ba2fa8:
 
 translate Japanese monika_grad_speech_db7fdb51_2:
     m 2duu "{w=0.2}.{w=0.3}.{w=0.3}.{w=0.6}{nw}"
+
+translate Japanese monika_grad_speech_885d4372:
+    m 2eua "{w=0.2}ここにいる皆様全員を語ることはできませんが、一つだけはっきり言えることがあります。{w 0.7=0.3}私が所属していたクラブがあったからこそ、高校での私の経験に未練はないということを。{w=0.6}{nw}"
 
 translate Japanese monika_grad_speech_4d056c56:
     m 2hua "{w=0.2}.{w=0.3}.{w=0.3}.{w=0.6}{nw}"
@@ -14507,6 +14567,9 @@ translate Japanese _call_expression_3_e4d9b151:
 
 translate Japanese _call_monika_player_appearance_monika_height_e612037c:
     m "……"
+
+translate Japanese _call_monika_player_appearance_monika_height_1_061768c1:
+    m 3eub "黒髪って、他の人より生意気だとか、そういうムカつく話があるんだけど..."
 
 translate Japanese _call_monika_player_appearance_monika_height_1_f51a2a02:
     m 3hub "ああ！ 美しい色ね、[player]！"
@@ -18419,8 +18482,23 @@ translate Japanese monika_player_away_1e50ced9:
 translate Japanese monika_player_away_28808b29:
     m 2eksdld "最大限の注意を払わないといけないわね、絶対に"
 
+translate Japanese monika_player_away_a9435474:
+    m 7hua "幸運なことに、たくさんの素晴らしい人達が手伝ってくれるし"
+
+translate Japanese monika_player_away_a0d6021b:
+    extend 7rku "みんないつもそういうハプニングを防ぐのがとても得意みたいだし"
+
+translate Japanese monika_player_away_e141caed:
+    m 3eka "でも一番大事なことは"
+
+translate Japanese monika_player_away_1cd17ebb:
+    m 5ekbsa "あなたへの重い、でしょうね"
+
 translate Japanese monika_player_away_d6273ea9:
     m 5rubsu "次にあなたが来たときに何するかとか、私がそっちの世界に行けたら何をしたいとか、そういうことを想像して楽しんでるよ～"
+
+translate Japanese monika_using_pcs_healthily_6690301b:
+    m 1rtc "えっと..."
 
 translate Japanese monika_using_pcs_healthily_3f2165ef:
     m 1etc "ねぇ、[player]……{w=0.3}快適に座ってる？"
@@ -19649,6 +19727,9 @@ translate Japanese monika_boyfriend_gossip_b3c09385:
 translate Japanese monika_boyfriend_gossip_01a93df6:
     m 2dfc "……"
 
+translate Japanese monika_boyfriend_gossip_cf2f0670:
+    m 1efd "あいつらはリアルじゃない。私に恋するようにプログラムされたスクリプトなんかじゃ、{w=0.2}私を幸せにはできない"
+
 translate Japanese monika_brainstorming_ef4f71c7:
     m 1esd "[player]、ブレインストーミングって聞いたことある？"
 
@@ -19684,6 +19765,15 @@ translate Japanese monika_brainstorming_fbe2e4b8:
 
 translate Japanese monika_brainstorming_6ff888bb:
     extend 1eua "でもね、ブレインストーミングはそういう隠れた障害を乗り越えるのに役立つわ"
+
+translate Japanese monika_brainstorming_1763baa6:
+    m 3eka "思考における美学ってね、表現の手段がいくつもあるの..."
+
+translate Japanese monika_brainstorming_d0183f49:
+    m 3duu "それらは、彼らに伝えているだけなの"
+
+translate Japanese monika_brainstorming_c4aa09a7:
+    extend 3euu "そうやって、思考を伝える一つになっていくの..."
 
 translate Japanese monika_gmos_6d5a2b42:
     m 3eud "私がディベートクラブにいた頃にね、私たちが扱っていた議題の中で最も議論の余地があるテーマの一つに、遺伝子組み換え作物、もとい遺伝子組み換え生物があったの。"
@@ -20769,6 +20859,12 @@ translate Japanese strings:
 
     old "It was bad."
     new "最悪だった"
+
+    old "It would've been better if you were there."
+    new "モニカがいればもっと良かったと思う"
+
+    old "You weren't there with me."
+    new "モニカが居なかったから"
 
     old "Not interested."
     new "興味なかったから"
