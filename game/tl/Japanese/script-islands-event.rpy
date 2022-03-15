@@ -290,7 +290,7 @@ translate Japanese mas_island_night2_35230d20:
     m "[mas_get_player_nickname () ] 君は、は今までに星を眺めたことがるの？"
 
 translate Japanese mas_island_night2_2472b865:
-    m "遅くなってからの時間を夜空を眺め空の美しさを眺めて過ごしてみると.."
+    m "遅くなってからの時間を、美しい夜空を眺めて過ごしてみると.."
 
 translate Japanese mas_island_night2_c4d6c148:
     m "驚くほどリラックスになるじゃん"
@@ -320,7 +320,7 @@ translate Japanese mas_island_night3_bea78cf1:
     m "見て、夜が美しいよ！"
 
 translate Japanese mas_island_night3_c9290083:
-    m "こういう寒くてすがすがしい夜が、私は好きだな"
+    m "こういう涼しくてすがすがしい夜が、私は好きだな"
 
 translate Japanese mas_island_night3_587adf69:
     m "真っ暗な空と雪に覆われた大地のコントラストで、本当に息をのむと思わない?"
@@ -389,16 +389,76 @@ translate Japanese mas_island_shimeji_c0c1ae0a:
     m "心配しないで、彼女は別の場所に移動させておいたから。"
 
 translate Japanese mas_island_bookshelf1_0823f6f7:
-    m "あの本棚はそれほど丈夫にできているとは思えないかもだけど、雪が少し降ったぐらいなら、つぶれはしないかな"
+    m "あの本棚それほど丈夫ってわけじゃないけど、雪が少し降ったぐらいなら問題はないかな"
 
 translate Japanese mas_island_bookshelf1_f3f9578a:
-    m "私が心配なのは本の方よ。"
+    m "私が心配なのは本の方よ"
 
 translate Japanese mas_island_bookshelf1_63b8c014:
-    m "あんまり傷んでないといいんだけど..."
+    m "あんまり傷んでないといいんだけど……"
 
 translate Japanese mas_island_bookshelf1_70e79dd1:
-    m "こうなるんだったら、本を外に置いておくんじゃなかったかな..."
+    m "こうなるんだったら、本を外に置いておくんじゃなかったかな……"
+
+translate Japanese mas_island_bookshelf1_0b050d56:
+    m "雪が止むまであの本を読みに行けそうにはないわね……"
+
+translate Japanese mas_island_bookshelf1_5a65ed86:
+    m "そうやって待ってる間……"
+
+translate Japanese mas_island_bookshelf1_c0e20b26:
+    m "ちょっとだけ[player]君のそばによってもいいかな？"
+
+translate Japanese mas_island_bookshelf1_45d9cd96:
+    m "えへへ～"
+
+translate Japanese mas_island_bookshelf1_638d3e7d:
+    m "本棚には私のお気に入りの本が何冊か入ってるの"
+
+translate Japanese mas_island_bookshelf1_a5acafe7:
+    m "例えば、{i}華氏451度{/i}、{i}世界の終わりとハードボイルド・ワンダーランド{/i}、{i}1984年{/i}、とかね"
+
+translate Japanese mas_island_bookshelf1_6e3fcff1:
+    m "いつか[player]君と一緒に読んでみたいな～"
 
 translate Japanese mas_island_bookshelf2_445d5105:
     m "雪がちょっとぐらい降ったって、外で読書してもいいじゃないの。"
+
+translate Japanese mas_island_bookshelf2_9e0315b2:
+    m "だけど、暖かいコート、分厚いスカーフ、手袋がなきゃ、外に出る気にはならないわね。"
+
+translate Japanese mas_island_bookshelf2_64f30ad1:
+    m "手袋をしたままページをめくるのって、少し手間取るかもしれないね、あはは..."
+
+translate Japanese mas_island_bookshelf2_9d8d0bf4:
+    m "でも多分きっとなるでしょ。"
+
+translate Japanese mas_island_bookshelf2_26116031:
+    m "[player]君、もしかして違う？"
+
+translate Japanese mas_island_bookshelf2_5e66c502:
+    m "雨の日に窓を開けたまま、家で読書をすると、とっても心が安らぐのよ。"
+
+translate Japanese mas_island_bookshelf2_5325f703:
+    m "本を外に置いたりしなければの話だけどね..."
+
+translate Japanese mas_island_bookshelf2_10ccb00b:
+    m "機会があればここに持ち込んでもいいのよ"
+
+translate Japanese mas_island_bookshelf2_35af9f61:
+    m "その間、他に何かしてもいいんじゃないの、[player]君？"
+
+translate Japanese mas_island_bookshelf2_eddd17e2:
+    m "外で読書をしたって、いい気分転換になるよね。"
+
+translate Japanese mas_island_bookshelf2_bbf2806b:
+    m "風通しの悪い図書館なんかより、いつだって涼しい風が撫でてくれるんだもの。"
+
+translate Japanese mas_island_bookshelf2_24df9cce:
+    m "桜の木の下にテーブルを置いたほうがいいかもね。"
+
+translate Japanese mas_island_bookshelf2_49056641:
+    m "本のついでに、コーヒーをのみながら、おやつを食べてもいいよね。"
+
+translate Japanese mas_island_bookshelf2_88a83baa:
+    m "最高のひと時になりそうだな～"

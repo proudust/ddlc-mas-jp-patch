@@ -11649,7 +11649,7 @@ translate Japanese monika_solipsism_ee6002d3:
     m 2etc "もしかしたら、この世界で意思を持つのは私達だけかも。偽りの心で満たされた広大な海に、私達の意識だけがぽつんと浮かんでいる……"
 
 translate Japanese monika_solipsism_08b10928:
-    m 2dsd "もしかしたら、この世界のすべてが私達の想像の産物……"
+    m 2dsd "もしかしたら、この世界のすべてが私達の想像の産物だったりして……"
 
 translate Japanese monika_solipsism_a074c07a:
     m 3eub "なんてね。あはは～"
@@ -12911,6 +12911,9 @@ translate Japanese monika_beingevil_8e79fa41:
 translate Japanese monika_beingevil_c9481661:
     m 2eka "あのね、私はあなたのことを悪とは全く思ってないからね。"
 
+translate Japanese monika_beingevil_4a1a2296:
+    m 2rksdla "それが本当だとしても、何の悪影響がなければいいけどね。"
+
 translate Japanese monika_beingevil_05fd3491:
     m 1hua "どちらにせよ、私のあなたへの愛は変わらないからね〜"
 
@@ -12947,6 +12950,21 @@ translate Japanese monika_beingevil_27228a2f:
 translate Japanese monika_beingevil_da2fbd09:
     m 1rksdla "[player]……"
 
+translate Japanese monika_beingevil_92e46b0c:
+    m 1eka "それって、色んな意味ででしょ..."
+
+translate Japanese monika_beingevil_b4b7b35a:
+    m 1eksdlc "前に私がそんなひどいことをしたなんて、今でも覚えてるんだけど..."
+
+translate Japanese monika_beingevil_78d11f39:
+    m 3eka "だからこそ、色んなことを学んで、一人の人間として成長できたと思うの"
+
+translate Japanese monika_beingevil_e454be76:
+    m 1eka "許してくれて本当にありがとうね、[player]君。"
+
+translate Japanese monika_beingevil_30c7f36f:
+    m 1hub "あなたのために最善を尽くすと約束する!"
+
 translate Japanese monika_beingevil_c61f257d:
     m 2dkc "……"
 
@@ -12954,7 +12972,7 @@ translate Japanese monika_beingevil_5c52245d:
     m 2dkd "……"
 
 translate Japanese monika_beingevil_49134bb7:
-    m 2dktsd "さよなら……"
+    m 2dktsd "わかったわ……"
 
 translate Japanese monika_beingevil_d19ea751:
     m 2dktsd "ごめんなさい、[player]"
@@ -12991,6 +13009,9 @@ translate Japanese monika_driving_d93dc8b5:
 
 translate Japanese monika_driving_9dabe25f:
     m 3hua "すごい！"
+
+translate Japanese monika_driving_9ea8bb8e:
+    m 1hub "まあ、あなただってすごいのよね..."
 
 translate Japanese monika_driving_8e9bfd5c:
     m 1eub "一緒に色んな所に行くのを想像しちゃったわ……"
@@ -13054,6 +13075,9 @@ translate Japanese monika_driving_ce3059c3:
 
 translate Japanese monika_driving_b55c55ba:
     m "徒歩や車で通りすぎたり、ただ見てるだけじゃ何の助けにもならないの。"
+
+translate Japanese monika_driving_a94dde0e:
+    m 1dsc "一生運転する機会がないし、誰も知る由もない...."
 
 translate Japanese monika_driving_ed9df8e4:
     m 1eka "私は絶対にそんなことしないわ、[player]。"
@@ -13702,7 +13726,7 @@ translate Japanese monika_grad_speech_not_paying_attention_41d80b80:
     m 6lktdc "あなたは、私がせっかく苦労した後の苦痛をわかってないのよ..."
 
 translate Japanese monika_grad_speech_not_paying_attention_53cb88a1:
-    m 6ektdc "ただ私は、私を誇りに思って欲しいだけなのに..."
+    m 6ektdc "ただあなたには、私を誇りに思って欲しいだけなのに..."
 
 translate Japanese monika_grad_speech_not_paying_attention_bb31cb93:
     m 6dstsc "……"
@@ -16703,7 +16727,7 @@ translate Japanese monika_unknown_2d81a4bd:
     m 3rksdlc "それに就職活動も面接からまたやり直し。十分な収入が得られるのかそれも不透明だし、生活のリズムも職場によって変わりうる……"
 
 translate Japanese monika_unknown_fc6faacc:
-    m 3rksdld "変わりない明日があるのなら、惨めだとしても今のままを選んでしまう。たとえ長い目で見たら変わるほうが得だったとしてもね"
+    m 3rksdld "変わりない明日があるのなら、惨めだとしても今のままを選んでしまう。{w=0.5}たとえ長い目で見たら変わるほうが得だったとしてもね"
 
 translate Japanese monika_unknown_bc743421:
     m 2dkc "……独り身になることが怖くて、不幸せなのにパートナーと関係を続けているって話も、きっとそういうことよね"
