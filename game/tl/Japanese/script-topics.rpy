@@ -3874,6 +3874,9 @@ translate Japanese monika_love_d81c1322:
 translate Japanese monika_love_cf07ff3d:
     m 1hubfb "私も大好き！"
 
+translate Japanese monika_love_eabb839a:
+    m 1ekbsa "[player]君って、そんなに大好きだって言うことが好きなのね..."
+
 translate Japanese monika_love_40d8718a:
     m 1ekbsa "何回も言ってるけど飽きない？"
 
