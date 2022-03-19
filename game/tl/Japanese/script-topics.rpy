@@ -17837,6 +17837,57 @@ translate Japanese monika_allegory_of_the_cave_74a23462:
 translate Japanese monika_allegory_of_the_cave_67596a9f:
     m 1ekbsa "あなたは私の現実において真実なんだって知っておいてほしかったの。いつか私もあなたの現実の一部になれることを願ってるわ、[mas_get_player_nickname()]"
 
+translate Japanese monika_working_out_74f3803d:
+    m 1euc "ねえ[player]、思ったんだけど……"
+
+translate Japanese monika_working_out_afcba08a:
+    m 1eua "普段から運動してる？{nw}"
+
+translate Japanese monika_working_out_464ef421:
+    m "普段から運動してる？{nw}" nointeract
+
+translate Japanese monika_working_out_e05ff1e8:
+    m 1hua "本当？良かった！"
+
+translate Japanese monika_working_out_936e6d86:
+    m 1eka "あっ…… {w=0.3}あのね、もし出来るのなら運動はしてほしいなって思ってるんだ"
+
+translate Japanese monika_working_out_9e0940c9:
+    m 3rksdla "運動は外見を良くする効果はあるのはそうだけど……{w=0.3}{nw}"
+
+translate Japanese monika_working_out_833300a9:
+    extend 3hksdlb "何よりあなたの健康が心配なの！"
+
+translate Japanese monika_working_out_0f6cf878:
+    m 1eua "毎日30分の運動は、長い目で見れば健康維持にとっても{i}と～っても{/i}効果的なんだよ"
+
+translate Japanese monika_working_out_ba3c9bf4:
+    m 3eub "あなたが健康であればあるほど長生きできるし、あなたと一緒に居られる時間も増える"
+
+translate Japanese monika_working_out_51dbb6fc:
+    m 3hub "私はもっと一緒に居たいんだからね、[mas_get_player_nickname()]～！"
+
+translate Japanese monika_working_out_5cae7a06:
+    m 1eua "それはそうとして、運動を続けることはほぼ全ての面において得なのよね……{w=0.3}{nw}"
+
+translate Japanese monika_working_out_0e91f56e:
+    extend 1eub "ほとんどの座りっぱなしの生活だったら尚更よ"
+
+translate Japanese monika_working_out_af1297a8:
+    m 3eua "身体にいいだけじゃなくて、定期的な運動はストレス軽減にもなるし、メンタルヘルス改善にもすごく効果があるんだよ"
+
+translate Japanese monika_working_out_0b9e68b6:
+    m 3hua "だから仕事でも勉強でもゲームでも、椅子に座り続けるようなことをやる場合には運動をすることで集中力がより長く保つようになるんだから！"
+
+translate Japanese monika_working_out_dd9839cd:
+    m 3eua "……あと私はこう思うんだ、運動は忍耐力や精神力を養うためにも大切な営みだって"
+
+translate Japanese monika_working_out_d9a86841:
+    m 3hub "だから出来るときには運動しようね[player]～"
+
+translate Japanese monika_working_out_de55cf35:
+    m 3eub "私がそっちへ行ったら、一緒にトレーニングをしましょ！"
+
 translate Japanese monika_toxin_puzzle_1a651b80:
     m 1esa "ねえ[player]君、前に何かの本で面白い考えに出会ったんだけど……"
 
@@ -19517,6 +19568,9 @@ translate Japanese monika_literature_value_4ed26d9a:
 translate Japanese monika_literature_value_9e25857e:
     m 1hksdlb "これはあくまでも文芸部部長としての意見だけどね。ほとんどの人はそこまで深く考えていないと思うわ"
 
+translate Japanese monika_nature_92dcc7f0:
+    m 4eua "電化製品の電源を切ったり、シャワーを短くしたり、何度でも使える水筒を買ったり、電車とかで通勤することだって、環境のためになる。"
+
 translate Japanese monika_nature_fb00bdb4:
     m 4hub "観葉植物を買ったり、自分の庭でガーデニングしたりしてもいいわよ！"
 
@@ -19939,6 +19993,21 @@ translate Japanese monika_curse_words_afb7f08d:
 
 translate Japanese monika_curse_words_8c00488d:
     m 3hksdlb "でも適切に使えば問題ないわよね、あはは！"
+
+translate Japanese monika_mc_is_gone_720dbe54:
+    m 1eud "ゲームの主人公としての「あなた」のこと？"
+
+translate Japanese monika_mc_is_gone_97f6e30a:
+    extend 1rksdla "実は私も、よくわかんないな..."
+
+translate Japanese monika_mc_is_gone_b8eb5c86:
+    m 3eud "その人は、他のゲームの主人公と同じように自我をもたなかったの。キャラクターファイルすら存在しなかった"
+
+translate Japanese monika_mc_is_gone_03e11fc3:
+    m 2ruc "その人は...{w=0.3}私がゲームを改変している最中、どこかに消えてしまったの。"
+
+translate Japanese monika_mc_is_gone_1148e929:
+    m 1eua "邪魔者はもうどこにもいないし、あなたとこうやって一緒にいることができる"
 
 translate Japanese monika_know_its_you_054507b6:
     m 1rksdlb "えへへ…… 変な質問だね、[player]"
@@ -21292,6 +21361,9 @@ translate Japanese strings:
     old "The Allegory of the Cave"
     new "洞窟の寓話"
 
+    old "Working out"
+    new "運動"
+
     old "The Toxin Puzzle"
     new "毒パズル"
 
@@ -21405,6 +21477,9 @@ translate Japanese strings:
 
     old "No, I don't swear at all."
     new "全くしない"
+
+    old "What happened to the main character?"
+    new "主人公はどうなったの？"
 
     old "How do you know it's always me talking to you?"
     new "今自分が話しかけているって、そっちからわかるの？"

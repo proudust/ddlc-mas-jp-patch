@@ -29,7 +29,7 @@ translate Japanese mas_island_glitchedmess_b5eb70e4:
     m "あれは丁度作業してるところなの。"
 
 translate Japanese mas_island_glitchedmess_c8c132c8:
-    m "まだまだ手を加えなきゃいけないんだけどね。良いものにしたいし試行錯誤中よ。"
+    m "まだまだ改善の余地はあるんだけどね。良いものにしたいし試行錯誤中よ。"
 
 translate Japanese mas_island_glitchedmess_454502d2:
     m "そのうちにコーディングも上達させるから！"
