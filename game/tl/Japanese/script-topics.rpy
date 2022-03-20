@@ -11525,6 +11525,9 @@ translate Japanese monika_explain_1a505544:
 translate Japanese monika_explain_d3401417:
     m 3hua "私たちの関係を少しでも理解してくれる人がいてくれて、本当に良かったわ！"
 
+translate Japanese monika_explain_7ea2b6a3:
+    m 1dkc "あら"
+
 translate Japanese monika_explain_ec5105f6:
     m 1ekd "そうだよね……{w=1}やっぱり{i}みんな{/i}が理解してくれるとは限らないんだよね……"
 

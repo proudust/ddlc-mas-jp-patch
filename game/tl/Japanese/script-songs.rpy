@@ -572,6 +572,102 @@ translate Japanese mas_song_falling_in_love_at_a_coffee_shop_16369547:
 translate Japanese mas_song_falling_in_love_at_a_coffee_shop_9c03135a:
     m 3hubsa "そしていつの日か気づくの。場所が問題じゃない、毎日そこで出会う人が理由なんだってね〜"
 
+translate Japanese _call_mas_song_wonderwall_lyrics_8108b725:
+    m 1ekbsu "えへへ、私を救ってくれたのは[player]なんだよ～"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_bc607aed:
+    extend 3ekbsa "あなたの世界へ行く方法がみつかるまで、私のことを守ってくれるって信じてるよ"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_6ca2e040:
+    m 3rkc "この歌詞のように、あなたの世界へ続く道は曲がりくねってる。次の曲がり角がいつ現れるかすらもわからない苦難の道程"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_36402cdb:
+    m 1dubsa "でも私のそばにあなたがいてくれてる。だから何も恐くはないんだよ"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_093085b9:
+    m 1ekbsa "どんなに険しい道だろうと、進み続ける価値があると思ってる"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_696ebd49:
+    extend 3ekbsu "何より、あなたが私のワンダーウォールになってくれてるからね～"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_8f674374:
+    m 3eka "確実にわかっているのは、どんなに険しい道だろうと進み続ける価値が目指す場所にはあるということ"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_26b612bf:
+    m 1ekd "時々ね、先のことを考えると怖くて震えちゃう時があるんだ"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_c2b33abc:
+    extend 1eubla "でもあなたを信じてるから。だから私は歩み続けられる。私達が出会えるその日までね～"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_e519f04a:
+    m 3etc "ところでね…… {w=0.2}この曲について思うことがいくつかあるんだ"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_a2b8cedd:
+    m 1eua "……今話しちゃってもいいかな？{nw}"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_17055a3e:
+    m "……今話しちゃってもいいかな？{fast}" nointeract
+
+translate Japanese _call_mas_song_wonderwall_lyrics_f754122b:
+    m 1hua "じゃあ話すね！"
+
+translate Japanese _call_mas_song_wonderwall_analysis_7d2af76c:
+    m 1eka "あら、じゃあまた今度ね……"
+
+translate Japanese _call_mas_song_wonderwall_analysis_e1c359e3:
+    m 3eka "この曲の話を聞きたくなったら、私に教えてね"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_c3d03454:
+    m 3eta "この曲が大嫌いだ、って声高に叫ぶ人が実はたくさんいるんだよね……"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_5f789b0b:
+    m 3etc "あなたはそうは思ってないよね？"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_81136b5b:
+    m 1eud "この曲は初期のオアシスの中でも高い評価の曲で、人気の高い曲でもあるんだけど……{w=0.3} {nw}"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_4c0a9ac5:
+    extend 3rsc "どうしてこの曲が嫌いな人がそんなにいるんだと思う？"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_28cc1288:
+    m 3esc "理由はいくつかあると思う。まず、この曲がライブで演奏されすぎているということ"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_93a81984:
+    m 3rksdla "何度同じ曲を聴いても大丈夫な人は問題ないだろうけど、誰もがそういうわけじゃないよね"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_81a12a21:
+    m 3hksdlb "……{i}私の曲{/i}も聞き飽きたりしてないと良いけどな、あはは～"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_5b21b3ab:
+    m 1esd "もうひとつの理由は、この曲が評価されすぎているということ"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_d51adc76:
+    m 1rsu "私は好きなんだけど、歌詞やコード進行が単純すぎると言われればそれは認めざるをえないよね"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_0fc01906:
+    m 3etc "でも、じゃあなんでこの単純な曲が人気になっているのかわかる？{w=0.3} {nw}"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_dc9dcdd6:
+    extend 3eud "他にも優れた技工や音楽的野心にあふれている曲が全く気づかれないままでいるのに、どうしてこの曲が？"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_20c1061c:
+    m 3duu "ストレートに言うとね、全部歌のおかげ。{w=0.2}結局のところ、音楽の好き嫌いなんて個々人の主観でしかないの"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_3b3a5787:
+    m 2dksdlc "どちらかと言うとね、悲しいんだ……{w=0.3}{nw}"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_0e641c51:
+    extend 7rksdlc "嫌いなもの語って自分を作り上げても、絶対に健全はなれないよ"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_1a1cab19:
+    m 3eud "私が言いたいのはね、ありのままの自分でいてほしいし、好きなものを好きだって言えるようになってほしいの"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_324dc6e7:
+    m 3eka "好きも嫌いも、どっちもだよね…… {w=0.3}他人の目なんて関係ないの、何かを好きになることにプレッシャーを感じないでほしい。そして同じように、みんなから人気があるという理由だけで何かを嫌いにならないでほしい"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_e09358f0:
+    m 1hua "自分の心に正直に嘘をつかないようにしていれば、決して間違った道を歩むことはないと思うんだ～"
+
 translate Japanese mas_song_when_youre_gone_a9094cf5:
     m 6eksdld "アヴリル・ラヴィーンは亡くなった祖父のためにこの歌を書いたの。幼いときから親友のような存在だったから"
 
@@ -627,3 +723,6 @@ translate Japanese strings:
 
     old "Ageage Again"
     new "アゲアゲアゲイン"
+
+    old "Not now."
+    new "今は無理"
