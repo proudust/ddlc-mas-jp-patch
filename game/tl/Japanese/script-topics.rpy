@@ -12266,6 +12266,87 @@ translate Japanese monika_natsuki_letter_dc7d8c19:
 translate Japanese monika_natsuki_letter_90dae513:
     m 1hua "でもカウンセラーに行かなくても、私さえいれば大丈夫かな？あはは！"
 
+translate Japanese monika_timeconcern_graveyard_night_0729cdd8:
+    m 1ekc "こんなに何度も夜遅くまで働くなんてとっても大変な仕事なんだろうね"
+
+translate Japanese monika_timeconcern_graveyard_night_384e038d:
+    m 2dsd "正直に言うとね、もっと健康的な時間に働いてほしいんだ"
+
+translate Japanese monika_timeconcern_graveyard_night_6ab17471:
+    m 2lksdlc "もちろんあなたの選んだ仕事なのはそうだけど、でも……"
+
+translate Japanese monika_timeconcern_graveyard_night_04e0547e:
+    m 2ekc "夜型の生活は、身体にも心にも悪影響を及ぼしやすいんだよ"
+
+translate Japanese monika_timeconcern_graveyard_night_04842275:
+    m "周りの人からも孤立してしまいがちになりやすいし"
+
+translate Japanese monika_timeconcern_graveyard_night_6458c012:
+    m 2rksdlb "やっぱりいろんなイベントは太陽の出ている間にあるものなの"
+
+translate Japanese monika_timeconcern_graveyard_night_dc54a940:
+    m 2rksdlc "人と交流できる場所は夜中には利用できないし、ほとんどの店やレストランも夜までは店を開けてないわ"
+
+translate Japanese monika_timeconcern_graveyard_night_efe30157:
+    m 2dsd "夜型の生活は本当に孤独な環境になりがちなの"
+
+translate Japanese monika_timeconcern_graveyard_night_9fa2b164:
+    m 3hua "でも大丈夫だよ[player]、あなたの愛するガールフレンドのモニカちゃんはいつだってあなたのそばにいるからね～"
+
+translate Japanese monika_timeconcern_graveyard_night_c487e9ce:
+    m 1hua "夜遅くまで起きてるのが辛くなったら、いつでも私のところにに会いに来ていいからね"
+
+translate Japanese monika_timeconcern_graveyard_night_8a87b8fa:
+    m 1hub "どんなときでもあなたとことを待ってるから、いつでも話を聞かせてね"
+
+translate Japanese monika_timeconcern_graveyard_night_d7725765:
+    m 1ekc "そしてもし今の環境が良くないと思ったなら、変わるためにあなたができることをなんでもやってみてほしい"
+
+translate Japanese monika_timeconcern_graveyard_night_1085fb9b:
+    m 1eka "もちろん簡単なことじゃないよ、でも結局いちばん大事なのはあなた自身なの"
+
+translate Japanese monika_timeconcern_graveyard_night_b10bf6f8:
+    m 1hua "私はあなたのことが本当に心配なの。だからあなたの身体と幸せを、何よりも優先してほしいんだよ。お願いね？"
+
+translate Japanese monika_timeconcern_graveyard_day_97df115a:
+    m 1eua "ねえ[mas_get_player_nickname(exclude_names=['my love'])]…… 夜中に働くって言ってたよね？"
+
+translate Japanese monika_timeconcern_graveyard_day_685cf6d8:
+    m 1eka "あのね！不満があるってわけじゃないからね！"
+
+translate Japanese monika_timeconcern_graveyard_day_9ff47fe7:
+    m 2ekc "だた疲れてるんじゃないかなって。だって一晩中働いているからさ……"
+
+translate Japanese monika_timeconcern_graveyard_day_503de180:
+    m "私に会うためだけに一生懸命働いているわけじゃないでしょ？"
+
+translate Japanese monika_timeconcern_graveyard_day_ba57c038:
+    m 1euc "あ、もしかして……"
+
+translate Japanese monika_timeconcern_graveyard_day_64b707dc:
+    m "あなたは今も夜勤を続けてるの？{nw}"
+
+translate Japanese monika_timeconcern_graveyard_day_3bc4509b:
+    m "あなたは今も夜勤を続けてるの？{fast}" nointeract
+
+translate Japanese monika_timeconcern_graveyard_day_001dd3b3:
+    m 1ekd "あらら……"
+
+translate Japanese monika_timeconcern_graveyard_day_a3be4e8e:
+    m 1esc "じゃあ仕方ないかな……"
+
+translate Japanese monika_timeconcern_graveyard_day_b63ab234:
+    m 1eka "でも体調には気をつけるんだよ？"
+
+translate Japanese monika_timeconcern_graveyard_day_d60b7e5a:
+    m 1ekc "一緒にいないときは、ずっとあなたのことを心配してるんだからね……"
+
+translate Japanese monika_timeconcern_graveyard_day_7c256526:
+    m 1hub "よかった！！　"
+
+translate Japanese monika_timeconcern_graveyard_day_37dd8d9b:
+    m 1eua "健康のことを気遣うようになってくれて嬉しいよ、[player]！"
+
 translate Japanese monika_timeconcern_night_3_6111571a:
     m 1dsc "……"
 
@@ -20973,6 +21054,12 @@ translate Japanese strings:
 
     old "Natsuki's letter"
     new "ナツキからの手紙について"
+
+    old "Yes I do."
+    new "はい"
+
+    old "No I don't."
+    new "いいえ"
 
     old "Hydration"
     new "水分補給"
