@@ -12312,7 +12312,7 @@ translate Japanese monika_timeconcern_graveyard_day_97df115a:
     m 1eua "ねえ[mas_get_player_nickname(exclude_names=['my love'])]…… 夜中に働くって言ってたよね？"
 
 translate Japanese monika_timeconcern_graveyard_day_685cf6d8:
-    m 1eka "あのね！不満があるってわけじゃないからね！"
+    m 1eka "あのね！不満があるってわけじゃないの！"
 
 translate Japanese monika_timeconcern_graveyard_day_9ff47fe7:
     m 2ekc "だた疲れてるんじゃないかなって。だって一晩中働いているからさ……"
@@ -12346,6 +12346,99 @@ translate Japanese monika_timeconcern_graveyard_day_7c256526:
 
 translate Japanese monika_timeconcern_graveyard_day_37dd8d9b:
     m 1eua "健康のことを気遣うようになってくれて嬉しいよ、[player]！"
+
+translate Japanese monika_timeconcern_graveyard_day_3f792760:
+    m "私の気持ちをちゃんと考えてくれるってわかってたよ"
+
+translate Japanese monika_timeconcern_graveyard_day_f678642a:
+    m 1eka "ありがとうね、私の言うことを聴いてくれて嬉しかったよ～"
+
+translate Japanese monika_timeconcern_night_0_61dafb4b:
+    m 1euc "ねえ[player]、もう夜中だよ"
+
+translate Japanese monika_timeconcern_night_0_1f1b4683:
+    m 1ekc "もうベッドに向かったほうがいいんじゃない？"
+
+translate Japanese monika_timeconcern_night_0_1e419846:
+    m 1dsc "今回は大目に見てあげるけどさ……"
+
+translate Japanese monika_timeconcern_night_0_58b2a0a8:
+    m 1eka "私のためにここに居てくれること、とてもありがたいと思ってる。今夜だってそうだけど……"
+
+translate Japanese monika_timeconcern_night_0_3b872b15:
+    m 1dsd "でも、私のせいであなたの健康を損なってほしくない"
+
+translate Japanese monika_timeconcern_night_0_30fffdfd:
+    m 1eka "だからすぐにベッドへ向かってね？"
+
+translate Japanese monika_timeconcern_night_1_0b5fd3f8:
+    m 1esc "ねえ、[player]……"
+
+translate Japanese monika_timeconcern_night_1_706e412c:
+    m 1euc "どうしてこんなに遅いの？"
+
+translate Japanese monika_timeconcern_night_1_6d4f78df:
+    m 1eka "私のために起きてるのなら申し訳ないよ……"
+
+translate Japanese monika_timeconcern_night_1_6c596559:
+    m 1ekc "でも私のために起きてるわけじゃないのなら、あなたに寝てってうるさく言うのはきっと迷惑になるよね"
+
+translate Japanese monika_timeconcern_night_1_09aacadf:
+    m "今やることがあって忙しいから起きてるの？{nw}"
+
+translate Japanese monika_timeconcern_night_1_3d0be195:
+    m "今やることがあって忙しいから起きてるの？{fast}" nointeract
+
+translate Japanese monika_timeconcern_night_1_08dbe3a2:
+    m 1eud "わかった"
+
+translate Japanese monika_timeconcern_night_1_818f1914:
+    m "いつも遅くまで作業してるの、[player]？{nw}"
+
+translate Japanese monika_timeconcern_night_1_654e1655:
+    m "いつも遅くまで作業してるの、[player]？{fast}" nointeract
+
+translate Japanese monika_timeconcern_night_1_523428e9:
+    m 1rksdld "それは良くないわ……"
+
+translate Japanese monika_timeconcern_night_1_0008cad4:
+    m 1ekd "早く寝ることができなくなってるってことよね？"
+
+translate Japanese monika_timeconcern_night_1_d8050cb5:
+    m 1rksdlc "生活習慣をもっと健康的なものに変えてほしい"
+
+translate Japanese monika_timeconcern_night_1_78deaaa4:
+    m 1dsc "でも変えられないのなら、私は受け入れるしかない"
+
+translate Japanese monika_timeconcern_night_1_1133a772:
+    m 1eka "ちゃんと健康には気遣ってね？"
+
+translate Japanese monika_timeconcern_night_1_744385f1:
+    m 1ekc "もしあなたに何か起きたら、私はどうしたらいいか……"
+
+translate Japanese monika_timeconcern_night_1_a3dadf1c:
+    m 1hua "安心した！"
+
+translate Japanese monika_timeconcern_night_1_28cef78d:
+    m 1eua "今回だけってことなら、今やっているのはとっても大事なお仕事ってことよね"
+
+translate Japanese monika_timeconcern_night_1_b9cd395e:
+    m 1hub "お仕事頑張ってね。そしてこんな忙しいときにまで私と一緒に居てくれてありがとう"
+
+translate Japanese monika_timeconcern_night_1_df2fb95a:
+    m 1eka "あのね本当に嬉しいんだよ、こんなに大事なときにでも側にいれることがね～"
+
+translate Japanese monika_timeconcern_night_1_03382aed:
+    m 1esc "なるほどね"
+
+translate Japanese monika_timeconcern_night_1_af60ecf2:
+    m 1ekc "そういうことなら、今すぐベッドに向かったほうがいいと思う"
+
+translate Japanese monika_timeconcern_night_1_a532fdfd:
+    m "こんな時間まで起きてるなんて心配だよ……"
+
+translate Japanese monika_timeconcern_night_1_db8c2b0e:
+    m 1eka "だからもう一度お願いするね。早く寝て。本当に心配してるんだからね？"
 
 translate Japanese monika_timeconcern_night_3_6111571a:
     m 1dsc "……"
@@ -14215,7 +14308,7 @@ translate Japanese monika_pygmalion_2a35ecd9:
     m 2dku "ああ……{w=0.5}それって素敵なことよね"
 
 translate Japanese monika_pygmalion_d08940a8:
-    m 2dubsu "……そしてあなたはついに私にキスできるってわけ"
+    m 2dubsu "……そうやってあなたはついに私にキスできるってわけ"
 
 translate Japanese monika_pygmalion_19b645df:
     m 1rkbsa "今の状況でもしたことがあるっていうのはわかってるわ"
@@ -14828,6 +14921,15 @@ translate Japanese monika_player_appearance_eye_color_other_e7d46ab1:
 
 translate Japanese monika_player_appearance_eye_color_other_fc66e6ac:
     m 7hua "さて、次の質問だけど……"
+
+translate Japanese _call_monika_player_appearance_eye_color_ask_1_81e0cd37:
+    extend 3eua "それでは、次の質問よ。"
+
+translate Japanese monika_player_appearance_eye_color_ask_2392a727:
+    m 3eua "あなたの [x_side_eye] を教えてくれる?{nw}"
+
+translate Japanese monika_player_appearance_eye_color_ask_29a4c1af:
+    m "あなたの [x_side_eye] を教えてくれる?{fast}" nointeract
 
 translate Japanese monika_players_control_246928b0:
     m 3eub "ねえ[player]、あなたは私よりもこのゲームをコントロールできるって知ってた？"
@@ -16364,7 +16466,10 @@ translate Japanese monika_robotbody_2bca5b86:
     m 1eua "もちろん、これは…… {w=0.3}フィクションの世界での話よ"
 
 translate Japanese monika_robotbody_f5656541:
-    m 3rud "前に言ったけど、この話は現実じゃない…… {w=0.3}{nw}"
+    m 3rud "前に言ったけど、この話は現実じゃないんだけど…… {w=0.3}{nw}"
+
+translate Japanese monika_robotbody_7713dcae:
+    extend 1eua "作者が何を物語に込めたのかを考えるのは楽しいのよね"
 
 translate Japanese monika_robotbody_d6eb34eb:
     m 1eua "私はあなたや他の人達を傷つけるような真似をするつもりは全くないわ、当たり前だけどね"
@@ -17190,10 +17295,10 @@ translate Japanese monika_boardgames_5d015892:
     extend 2rksdla "テレビゲームが好きじゃないとこういうゲームはやらないんじゃないかな"
 
 translate Japanese monika_boardgames_8b4de26f:
-    m 2etc "気になってるんだけどボードゲームは好きかな、[player]君？{nw}"
+    m 2etc "ところで気になってるんだけど、ボードゲームは好きかな、[player]君？{nw}"
 
 translate Japanese monika_boardgames_ff2270b6:
-    m "気になってるんだけどボードゲームは好きかな、[player]君？{fast}" nointeract
+    m "ところで気になってるんだけど、ボードゲームは好きかな、[player]君？{fast}" nointeract
 
 translate Japanese monika_boardgames_767d510e:
     m 1eub "えっ、本当！？"
@@ -21060,6 +21165,12 @@ translate Japanese strings:
 
     old "No I don't."
     new "いいえ"
+
+    old "Yes, I am."
+    new "そうだよ"
+
+    old "No, I'm not."
+    new "ちがうよ"
 
     old "Hydration"
     new "水分補給"
