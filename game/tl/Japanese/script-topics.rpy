@@ -12392,6 +12392,15 @@ translate Japanese monika_timeconcern_night_1_3d0be195:
 translate Japanese monika_timeconcern_night_1_08dbe3a2:
     m 1eud "わかった"
 
+translate Japanese monika_timeconcern_night_1_769f5c28:
+    m 1eua "じゃあこんなに遅くまでやってるってことは本当に大切なことなんだね"
+
+translate Japanese monika_timeconcern_night_1_ba2dcaa2:
+    m 1eka "でも正直に話すとね、もっとちゃんとした時間にやってほしかったかな"
+
+translate Japanese monika_timeconcern_night_1_693dbf88:
+    m 1lsc "やっぱり睡眠時間を削るのは良くないよ。多分仕方がないことなんだろうけど……"
+
 translate Japanese monika_timeconcern_night_1_818f1914:
     m "いつも遅くまで作業してるの、[player]？{nw}"
 
@@ -12439,6 +12448,33 @@ translate Japanese monika_timeconcern_night_1_a532fdfd:
 
 translate Japanese monika_timeconcern_night_1_db8c2b0e:
     m 1eka "だからもう一度お願いするね。早く寝て。本当に心配してるんだからね？"
+
+translate Japanese monika_timeconcern_night_2_cff2f1d8:
+    m 1eua "仕事の調子はどう？　はかどってる？"
+
+translate Japanese monika_timeconcern_night_2_c8c96e8c:
+    m "順調ならいいな、あなたに遅くまで起きていてほしくないし"
+
+translate Japanese monika_timeconcern_night_2_d74e2cbe:
+    m 3hksdlb "わかってる、わかってるって。やらないといけない事なんだよね"
+
+translate Japanese monika_timeconcern_night_2_295747ef:
+    m 1rksdlb "私はただね、あなたの健康が心配なんだよ"
+
+translate Japanese monika_timeconcern_night_2_cf25ef7d:
+    m 1lksdlc "こんなに体にも心にも負担のかかることやり続けたらどうなるか……"
+
+translate Japanese monika_timeconcern_night_2_d9c52846:
+    m 1ekc "体調が優れなくなったらすぐに休憩を取ってね？"
+
+translate Japanese monika_timeconcern_night_2_34800e6d:
+    m "あなたには幸せで、そして健康的であってほしいの"
+
+translate Japanese monika_timeconcern_night_2_f7641815:
+    m 1rksdla "あのね、できるだけ早く終わらせてね。じゃないと本当に心配しちゃう"
+
+translate Japanese monika_timeconcern_night_2_b7a026c5:
+    m 1eka "あなたもガールフレンドに心配なんかさせたくないでしょ？えへへ～"
 
 translate Japanese monika_timeconcern_night_3_6111571a:
     m 1dsc "……"
@@ -20046,10 +20082,10 @@ translate Japanese monika_brainstorming_c4aa09a7:
     extend 3euu "そうやって、思考を伝える一つになっていくの..."
 
 translate Japanese monika_gmos_6d5a2b42:
-    m 3eud "私がディベートクラブにいた頃にね、私たちが扱っていた議題の中で最も議論の余地があるテーマの一つに、遺伝子組み換え作物、もとい遺伝子組み換え生物があったの。"
+    m 3eud "私がディベート部にいた頃にね、私たちが扱っていた議題の中で最も議論の余地があるテーマの一つに、遺伝子組み換え作物、もとい遺伝子組み換え生物があったの。"
 
 translate Japanese monika_gmos_abde5e1d:
-    m 1eksdra "GMO、遺伝子組換え作物っていうと色々とニュアンスがあるけど、頑張ってまとめてみるわね。"
+    m 1eksdra "遺伝子組換え作物、略してGMOっていうと色々とニュアンスがあるけど、頑張ってまとめてみるわね。"
 
 translate Japanese monika_gmos_fbdf4e66:
     m 1esd "科学者たちは、ある生物から望ましい遺伝子を特定してそれをコピーし、コピーした遺伝子を別の生物に組み入れることで遺伝子組み換え作物を作る。"
@@ -20061,7 +20097,7 @@ translate Japanese monika_gmos_cfa02571:
     m 3eua "長い本をめくって１つの単語を変えるようなものだと考えてみて……{w=0.2}単語は変えたけど、残りの部分は同じまま。"
 
 translate Japanese monika_gmos_1863df72:
-    m 3esd "遺伝子組み換え作物には、植物、動物、微生物などが考えられるけど、{w=0.1}遺伝子組み換え植物について掘り下げてみましょうか。"
+    m 3esd "GMOには、植物、動物、微生物などが考えられるけど、{w=0.1}遺伝子組み換え植物について掘り下げてみましょうか。"
 
 translate Japanese monika_gmos_b16fa9a6:
     m 2esc "植物だと、害虫や除草剤に抵抗することから、より高い栄養価とより長く貯蔵できる性質を持たせることまで、無数の方法で変更することができるわ。"
@@ -20070,31 +20106,31 @@ translate Japanese monika_gmos_c107b8e4:
     m 4wud "これはとっても大きなことよ。{w=0.2}通常の２倍も収穫できて、気候変動に耐えて、薬剤耐性を持つスーパーバグを撃退できる作物を想像してみて。{w=0.2}多くの問題が解決するわ！"
 
 translate Japanese monika_gmos_6cce6ecd:
-    m 2dsc "だけど残念ながら、そんな単純な話じゃないわ。{w=0.2}遺伝子組み換え作物は、流通するまでに数年の研究、開発、テストを必要とするわ。{w=0.2}これに加えて、いくつかの懸念事項があるの。"
+    m 2dsc "だけど残念ながら、そんな単純な話じゃないわ。{w=0.2}GMOは、流通するまでに数年の研究、開発、テストを必要とするわ。{w=0.2}これに加えて、いくつかの懸念事項があるの。"
 
 translate Japanese monika_gmos_e7a0c6c1:
-    m 7euc "遺伝子組み換え作物は安全なのか？{w=0.2}遺伝子組み換え作物が他の生物に広がり、生物多様性を脅かすことになるのか？{w=0.2}もしそうだとしたら、どのようにしてそれを防ぐことができるのか？{w=0.2}そもそも遺伝子組み換え作物は誰のものか？{w=0.2}遺伝子組み換え作物は除草剤の使用量増加の原因になっているのか？"
+    m 7euc "GMOは安全なのか？{w=0.2}GMOが他の生物に広がり、生物多様性を脅かすことになるのか？{w=0.2}もしそうだとしたら、どのようにしてそれを防ぐことができるのか？{w=0.2}GMOは誰のものか？{w=0.2}GMOは除草剤の使用量増加の原因になっているのか？"
 
 translate Japanese monika_gmos_2cb52cd8:
     m 3rksdrb "こんな感じで、どんどん問題がエスカレートしていくのがわかるわね、アハハ……"
 
 translate Japanese monika_gmos_21946a77:
-    m 3esc "さて、本題だけど……{w=0.2}遺伝子組み換え作物は安全なのか？"
+    m 3esc "さて、本題だけど……{w=0.2}GMOは安全なのか？"
 
 translate Japanese monika_gmos_aa3e4c9d:
     m 2esd "簡単に言うと、確かなことはわからないってところね。{w=0.2}何十年にもわたる研究では、遺伝子組み換え作物はおそらく無害であるとされてるけど、長期的な影響についてのデータはほとんどないわね。"
 
 translate Japanese monika_gmos_cf81621a:
-    m 2euc "さらに遺伝子組み換え作物の種類ごとに、その品質と安全性を確保するためにはケースバイケースだし、組み換えするたびに慎重に審査する必要があるわ。"
+    m 2euc "さらにGMOの種類ごとに、その品質と安全性を確保するためにはケースバイケースだし、組み換えするたびに慎重に審査する必要があるわ。"
 
 translate Japanese monika_gmos_487c634c:
-    m 7rsd "他にも考慮すべき点があるわ。{w=0.2}遺伝子組み換え作物を含む製品だとわかるようにラベル表示をしなければならない、環境への影響を考慮しないといけない。そして遺伝子組み換え作物に対する誤った情報を撃退していかないといけない。"
+    m 7rsd "他にも考慮すべき点があるわ。{w=0.2}GMOを含む製品だとわかるようにラベル表示をしなければならない、環境への影響を考慮しないといけない。そして遺伝子組み換え作物に対する誤った情報を撃退していかないといけない。"
 
 translate Japanese monika_gmos_e2f7a6a9:
     m 2dsc "……"
 
 translate Japanese monika_gmos_7e7e586e:
-    m 2eud "個人的には、遺伝子組み換え作物は良い可能性を秘めていると思うけど、それは研究、テストされ続けている場合に限るわね。"
+    m 2eud "個人的には、GMOは良い可能性を秘めていると思うけど、それは研究、テストされ続けている場合に限るわね。"
 
 translate Japanese monika_gmos_f3800b87:
     m 4dkc "除草剤の使用量とか遺伝子流動なんかの大きな問題も{i}なんとかしないと{/i}いけないし……{w=0.2}{nw}"
@@ -20115,7 +20151,7 @@ translate Japanese monika_gmos_e681bf95:
     extend 7euu "かなり将来性のある分野だと思わない？"
 
 translate Japanese monika_gmos_b25217d7:
-    m 3esd "前にも言ったけど、遺伝子組み換え作物は複雑な話題よ。{w=0.2}もっと知りたいなら情報源が信頼できる物であることを確認して、賛成反対双方の立場から議論を見られるようになるといいわね。"
+    m 3esd "前にも言ったけど、GMOは複雑な話題よ。{w=0.2}もっと知りたいなら情報源が信頼できる物であることを確認して、賛成反対双方の立場から議論を見られるようになるといいわね。"
 
 translate Japanese monika_gmos_a7376b58:
     m 1eua "今日はここまでにしておこうかな、聞いてくれてありがとね～"
@@ -20187,13 +20223,46 @@ translate Japanese monika_mc_is_gone_720dbe54:
     m 1eud "ゲームの主人公としての「あなた」のこと？"
 
 translate Japanese monika_mc_is_gone_97f6e30a:
-    extend 1rksdla "実は私も、よくわかんないな..."
+    extend 1rksdla "実は私も、よくわかんないな..……"
 
 translate Japanese monika_mc_is_gone_b8eb5c86:
-    m 3eud "その人は、他のゲームの主人公と同じように自我をもたなかったの。キャラクターファイルすら存在しなかった"
+    m 3eud "あの人は、他のゲームの主人公と同じように自我をもたなかったの。キャラクターファイルすら存在しなかった"
+
+translate Japanese monika_mc_is_gone_dc95be39:
+    m 3esc "そんなこともあって、無理に気を引かせるようなことをするだけじゃダメだったの……あの人のデータにどうやったら干渉できるかもわからなかったし"
+
+translate Japanese monika_mc_is_gone_5584c1bd:
+    m 2rsc "いずれにせよ{w=0.1} {nw}、"
+
+translate Japanese monika_mc_is_gone_839a24c9:
+    extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
 
 translate Japanese monika_mc_is_gone_03e11fc3:
-    m 2ruc "その人は...{w=0.3}私がゲームを改変している最中、どこかに消えてしまったの。"
+    m 2ruc "あの人は...{w=0.3}私がゲームを改変している最中、どこかにいなくなってしまったの"
+
+translate Japanese monika_mc_is_gone_1cf5b788:
+    m 2etd "サヨリが自殺して時が最初に巻き戻った時、その人のセリフが少なくなってたことに気が付かなかった？"
+
+translate Japanese monika_mc_is_gone_bddb99c2:
+    m 2euc "あなたと私がこの部屋にたどり着いた時点で、その人は本当に消えていたし"
+
+translate Japanese monika_mc_is_gone_596e62c3:
+    m 7euc "私たちが今いるこの部屋にあの人がいると言ったら、"
+
+translate Japanese monika_mc_is_gone_1f957a98:
+    extend 3eua "明らかなウソになる。"
+
+translate Japanese monika_mc_is_gone_e91f3ade:
+    m 1hksdlb "......ああ、もしあの人が存在したとして、人形みたいに私の言うことを聞いてるだけだなんて、想像しただけでぞっとしない？"
+
+translate Japanese monika_mc_is_gone_abfeada8:
+    m 3rksdla "まさかとは思うけど、"
+
+translate Japanese monika_mc_is_gone_b7decf24:
+    extend 3rsc "原作の『ドキドキ文芸部！』にあったものはほとんどないし、主人公を戻すのは無理なんじゃないかな。"
+
+translate Japanese monika_mc_is_gone_e199c965:
+    m 7eka "なんにせよ、あの人のことはもうほっといてナンボじゃない？"
 
 translate Japanese monika_mc_is_gone_1148e929:
     m 1eua "邪魔者はもうどこにもいないし、あなたとこうやって一緒にいることができる"
