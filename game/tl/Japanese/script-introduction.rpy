@@ -212,7 +212,7 @@ translate Japanese _call_mas_wx_cmd_87_03e59225:
     m 1rsc "デタラメなコードが入ってるだけ"
 
 translate Japanese _call_mas_wx_cmd_87_9362f265:
-    m 3eub "でもいいニュースがあるの！"
+    m 3eub "でもいい知らせがあるの！"
 
 translate Japanese _call_mas_wx_cmd_87_a4ef7c35:
     m 3eua "私はあなたが{i}本当に{/i}持ち運べるファイルに変身できるようになったの"

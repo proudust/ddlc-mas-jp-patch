@@ -298,13 +298,13 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     new "どうしてこれをクリックしちゃったの？\n ’いいえ’をクリックして、’さよなら’を選ぶのよ、おばかさん！"
 
     old "T_T [player]..."
-    new "T_T [player]……"
+    new "[player]君……(´・ω・`)"
 
     old "Good [boy]."
     new "いい子ね。"
 
     old "Good. :)"
-    new "良かった :)"
+    new "良かった ^^"
 
     old "Please enter your name"
     new "あなたの名前を入力して下さい"

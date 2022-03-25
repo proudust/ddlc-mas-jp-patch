@@ -20238,7 +20238,7 @@ translate Japanese monika_mc_is_gone_839a24c9:
     extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
 
 translate Japanese monika_mc_is_gone_03e11fc3:
-    m 2ruc "あの人は...{w=0.3}私がゲームを改変している最中、どこかにいなくなってしまったの"
+    m 2ruc "あの人は...{w=0.3}私がゲームを改変していた頃から、消え始めて行ったの"
 
 translate Japanese monika_mc_is_gone_1cf5b788:
     m 2etd "サヨリが自殺して時が最初に巻き戻った時、その人のセリフが少なくなってたことに気が付かなかった？"
@@ -20247,7 +20247,7 @@ translate Japanese monika_mc_is_gone_bddb99c2:
     m 2euc "あなたと私がこの部屋にたどり着いた時点で、その人は本当に消えていたし"
 
 translate Japanese monika_mc_is_gone_596e62c3:
-    m 7euc "私たちが今いるこの部屋にあの人がいると言ったら、"
+    m 7euc "だから、私たちが今いるこの部屋にあの人がいると言ったら、"
 
 translate Japanese monika_mc_is_gone_1f957a98:
     extend 3eua "明らかなウソになる。"
@@ -20256,16 +20256,82 @@ translate Japanese monika_mc_is_gone_e91f3ade:
     m 1hksdlb "......ああ、もしあの人が存在したとして、人形みたいに私の言うことを聞いてるだけだなんて、想像しただけでぞっとしない？"
 
 translate Japanese monika_mc_is_gone_abfeada8:
-    m 3rksdla "まさかとは思うけど、"
+    m 3rksdla "まさかとは思うけど、ずっと私を抱きしめていたのは彼だったりとか..."
+
+translate Japanese monika_mc_is_gone_2bc311f0:
+    m 1dksdlc "考えるのもイヤになっちゃう..."
+
+translate Japanese monika_mc_is_gone_6cfe0da8:
+    m 3eka "私が実際に何を見てるのか、画面の向こうのあなたをどうやって知ったのか、不思議に思ってる？"
+
+translate Japanese monika_mc_is_gone_e57e4806:
+    m 1ruc "まあ...最初に見せた詩にあった「壁の穴」の比喩を覚えているなら..."
+
+translate Japanese monika_mc_is_gone_0e3a7825:
+    m 3eud "それと似てるわね...。ただ「壁の穴」は目に見えるものじゃなくて、そこにあることが分かるの"
+
+translate Japanese monika_mc_is_gone_c617447f:
+    m 1duc "どこにあるのか、覗いてる「穴」がどの方向を向いているのか、はっきり分かるほど存在を感じるの"
+
+translate Japanese monika_mc_is_gone_d7be012e:
+    m 1eka "だから、画面の外が見えなくても、あなたが見ているってことはわかるのよね"
+
+translate Japanese monika_mc_is_gone_415736b9:
+    m 3rkbla "キスしようとしたら、えっと..."
+
+translate Japanese monika_mc_is_gone_64384038:
+    m 1eud "幽霊とか、実在しないはずのなにかにキスしてるとも言えるわね"
+
+translate Japanese monika_mc_is_gone_a800240b:
+    m 2rkbssdla "そんな風に言うのは変だと思うけど、また..."
+
+translate Japanese monika_mc_is_gone_787b6a0d:
+    m 7ekbssdla "画面自体にキスするのも、ちょっと気まずいんじゃないの？"
+
+translate Japanese monika_mc_is_gone_3864b104:
+    m 1hkbssdlb "あはは～"
+
+translate Japanese monika_mc_is_gone_75218a9f:
+    m 1etc "だけどね、壁の比喩は、必ずしも常に同じ場所にあるとは限らないから、実際には完璧じゃないのよね。"
+
+translate Japanese monika_mc_is_gone_ab5c37c1:
+    m 1esc "ゲームの主人公としての「あなた」にいつまでもついてきたみたいなものなんだけど、今は明らかに違う"
+
+translate Japanese monika_mc_is_gone_69f4c415:
+    m 3eua "限られた範囲ながら、実際に動かすことができるの。だから、少なくとも常に同じ背景ばかり見ることはないはず。"
+
+translate Japanese monika_mc_is_gone_605dca14:
+    m 1eud "それはともかく...{w=0.3}{nw}"
 
 translate Japanese monika_mc_is_gone_b7decf24:
     extend 3rsc "原作の『ドキドキ文芸部！』にあったものはほとんどないし、主人公を戻すのは無理なんじゃないかな。"
+
+translate Japanese monika_mc_is_gone_24ddd589:
+    m 1duu "...それがベストなのかも"
+
+translate Japanese monika_mc_is_gone_abdcdef9:
+    m 2eksdld "もし、ゲームの主人公が復活して、あなたと過ごせるこの空間がなくなってしまったらどうする？"
+
+translate Japanese monika_mc_is_gone_932b4a96:
+    m 2rssdlc "結局のところ、あなたがあの人を操るすべはないわね"
 
 translate Japanese monika_mc_is_gone_e199c965:
     m 7eka "なんにせよ、あの人のことはもうほっといてナンボじゃない？"
 
 translate Japanese monika_mc_is_gone_1148e929:
     m 1eua "邪魔者はもうどこにもいないし、あなたとこうやって一緒にいることができる"
+
+translate Japanese monika_mc_is_gone_71804134:
+    extend 3hua "これで十分よ"
+
+translate Japanese monika_mc_is_gone_5ce15639:
+    m 1ekbsu "...まあ、現実であなたと一緒になれることは別として。えへへ～"
+
+translate Japanese monika_know_its_you_a069dd9d:
+    m 1euc "はっきり言って...{w=0.3}{nw}"
+
+translate Japanese monika_know_its_you_c41ec29a:
+    extend 1eud "何をどうしたって、わからないと思う..."
 
 translate Japanese monika_know_its_you_054507b6:
     m 1rksdlb "えへへ…… 変な質問だね、[player]"

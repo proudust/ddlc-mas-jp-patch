@@ -71,7 +71,7 @@ translate Japanese monika_affection_nickname_yes_f27eea59:
     m 1rkc "……"
 
 translate Japanese monika_affection_nickname_yes_ed872a6f:
-    m 1rksdld "キライじゃないけど、あなたが私をそう呼ぶのは心地良くはないわね。"
+    m 1rksdld "別に嫌じゃないけど、あなたからそう呼ばれるって、心地良くはないわね。"
 
 translate Japanese monika_affection_nickname_yes_c884a2f1:
     m 1eka "もっとマシなものを選べないの、[player]？"
@@ -95,7 +95,7 @@ translate Japanese monika_affection_nickname_yes_neutral_accept_d736779b:
     m 1eua "わかったわ！"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_34a6a2c4:
-    m 1hua "じゃあ、私は自分の名前に戻るわね。"
+    m 1hua "じゃあ、私は自分の元の名前に戻しておくわね。"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_4b20d57a:
     m 3hua "これからは私のこと「[m_name]」って呼んでね。"
