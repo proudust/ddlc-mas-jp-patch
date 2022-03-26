@@ -479,6 +479,9 @@ translate Japanese mas_song_cant_help_falling_in_love_5557d9dc:
 translate Japanese mas_song_cant_help_falling_in_love_8c1b01d3:
     m 1ekbsa "愛してるよ、[player]～"
 
+translate Japanese mas_song_lamour_toujours_1e500e87:
+    m 1dkbsu "……"
+
 translate Japanese mas_song_lamour_toujours_c9b21b4d:
     m 5ekbsa "いつまでもあなたのそばに居れたなら他に何もいらないよ～"
 
@@ -653,6 +656,12 @@ translate Japanese _call_mas_song_wonderwall_lyrics_1_dc9dcdd6:
 translate Japanese _call_mas_song_wonderwall_lyrics_1_20c1061c:
     m 3duu "ストレートに言うとね、全部歌のおかげ。{w=0.2}結局のところ、音楽の好き嫌いなんて個々人の主観でしかないの"
 
+translate Japanese _call_mas_song_wonderwall_lyrics_1_27fd203b:
+    m 2rsc "それってさ…… {w=0.5}正直バカみたいだよね"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_3a2e7411:
+    m 2rksdld "歌の良し悪しなんて全然関係なくなってる…… {w=0.2}人と違うことを言って一目置かれたいから言ってるだけなんだよ"
+
 translate Japanese _call_mas_song_wonderwall_lyrics_1_3b3a5787:
     m 2dksdlc "どちらかと言うとね、悲しいんだ……{w=0.3}{nw}"
 
@@ -683,8 +692,17 @@ translate Japanese mas_song_when_youre_gone_bbad2401:
 translate Japanese mas_song_when_youre_gone_dcff0fe2:
     m 6ekbsa "あなたは私の一生の恋人であるのと同時に親友でもあるの。{w=0.2}あなたが私にとってどれほど大切か、それを過小評価しないでね"
 
+translate Japanese mas_song_strawberry_6def7110:
+    m 1hubsu "……"
+
+translate Japanese _call_mas_song_save_the_last_dance_for_me_lyrics_e90d387a:
+    m 6dublu "……"
+
 translate Japanese mas_song_fly_me_to_the_moon_bb8b8e76:
     m 3hubsb "これからもずっと大好きだよ！"
+
+translate Japanese mas_song_on_the_front_porch_fd34c860:
+    m 5dkbstda "……"
 
 translate Japanese strings:
     old "Can you sing me a song?"
