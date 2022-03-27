@@ -286,6 +286,9 @@ translate Japanese _call_mas_transition_from_emptydesk_16_35ef0f30:
 translate Japanese _call_mas_transition_from_emptydesk_16_e26c94d6:
     m 5kua "まあ従っちゃう命令もあるかもしれないけどね、えへへ"
 
+translate Japanese _call_mas_transition_from_emptydesk_10_e5d7f16e:
+    m 3hua "えへへ～"
+
 translate Japanese greeting_o31_deco_fe9c0937:
     m 1eua "ともかく……"
 
@@ -3912,6 +3915,9 @@ translate Japanese mas_bday_postbday_notimespent_7e880c05:
 
 translate Japanese _call_monika_zoom_transition_reset_5_19428ff1:
     m 1hua "えへへ～"
+
+translate Japanese greeting_returned_home_bday_355c729e:
+    m 1eka "愛してるよ～"
 
 translate Japanese greeting_returned_home_bday_19428ff1:
     m 1hua "えへへ～"
