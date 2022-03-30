@@ -12263,6 +12263,22 @@ translate Japanese monika_natsuki_letter_569d2e4b:
 translate Japanese monika_natsuki_letter_2e349891:
     m "カウンセラーに会ってくる？" nointeract
 
+translate Japanese monika_natsuki_letter_611cf25d:
+    m 1eud "それ、本当？"
+
+translate Japanese monika_natsuki_letter_7f04979e:
+    m 1eua "自分のメンタルに気を配ることはとても重要なことよ、[player]。"
+
+translate Japanese monika_natsuki_letter_d1a688cb:
+    m 1eka "あなたは自分の中にある異常状態を認めて、治すためにカウンセリングに通っているのよね
+それはとても大きな一歩よ"
+
+translate Japanese monika_natsuki_letter_96aa1042:
+    m "私はあなた自身がより良くなるために頑張っている事を誇りに思うわ"
+
+translate Japanese monika_natsuki_letter_15fe2253:
+    m 1hua "何があっても、私はここでいつもあなたを待ってるからね～"
+
 translate Japanese monika_natsuki_letter_d0cc014d:
     m 1eka "そう。そうする必要がないって意味だと受け取っておくわね"
 
