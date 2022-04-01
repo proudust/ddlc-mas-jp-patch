@@ -12068,6 +12068,9 @@ translate Japanese monika_prom_f8a3a9a7:
 translate Japanese monika_prom_260640bf:
     m 1lksdlb "けど、私もあなたとプロムを楽しめたらよかったなあ"
 
+translate Japanese monika_prom_21cae1d6:
+    m 1hua "私ね、生徒たちが集って楽しむイベントって最高だと思うんだよね！"
+
 translate Japanese monika_prom_3d641732:
     m 3eua "デート目的で行ったの？{nw}"
 
@@ -12097,6 +12100,21 @@ translate Japanese monika_prom_124c98b8:
 
 translate Japanese monika_prom_d3fa797f:
     m 1euc "あら、そうなのね"
+
+translate Japanese monika_prom_b2a82e94:
+    m 1eua "とにかく楽しめたのならよかった！"
+
+translate Japanese monika_prom_d493dca6:
+    m "デートじゃなくても、素敵な思い出をたくさん作れたのっていいなって思う"
+
+translate Japanese monika_prom_e1a673bd:
+    m 1eub "実際恋愛なんて関係なくて、そういうイベントに参加すること自体が楽しいものだからね"
+
+translate Japanese monika_prom_b741e759:
+    m 1eka "それに、いつか私達だけのプロムを開催できるかもしれないしね？"
+
+translate Japanese monika_prom_b5da593d:
+    m 1eua "あなたとなら絶対に楽しいイベントになると思うな～"
 
 translate Japanese monika_prom_1097794a:
     m 1ekc "そうなの？"
@@ -12197,6 +12215,30 @@ translate Japanese monika_prom_1d8f8658:
 translate Japanese monika_prom_d3fa797f_1:
     m 1euc "ああ、わかったわ。"
 
+translate Japanese monika_prom_2f45260a:
+    m 1eua "その気持ち、わからなくはないわ"
+
+translate Japanese monika_prom_f579ff9c:
+    m "嫌いになるあなたなりの理由があったのよね"
+
+translate Japanese monika_prom_8e163ab4:
+    m 1eka "大事なのは、あなたは何にも縛られる必要はないってこと"
+
+translate Japanese monika_prom_38a78777:
+    m "結局ね、楽しくないことに価値なんて見いだせなくて当然なんだから"
+
+translate Japanese monika_prom_b6e2360b:
+    m 1lksdlc "楽しいイベントって言うより、面倒な行事って感じよね"
+
+translate Japanese monika_prom_6a2a5039:
+    m 3euc "でもさ、こうも思うんだ……"
+
+translate Japanese monika_prom_41271e2d:
+    m 3eka "もしそのとき私がそばに居たら、一緒に楽しめたんじゃないかな？って"
+
+translate Japanese monika_prom_a16c7528:
+    m 1tku "大丈夫、あなたの答えはわかってるよ～"
+
 translate Japanese monika_prom_3772217d_3:
     m 1hub "あはは！"
 
@@ -12215,17 +12257,23 @@ translate Japanese monika_prom_e4d75045:
 translate Japanese monika_prom_860abd7e:
     m 2esc "たった一晩だけの催しなのによ……？"
 
+translate Japanese monika_prom_856934f4:
+    m "他にも、アルコールは禁止されているんだって。こっそり飲み物に薬物を混ぜて無理やり酩酊させようとする輩がいるみたいなの"
+
+translate Japanese monika_prom_c4d23bb8:
+    m 2ekc "もしそんなことが簡単にできるような場なら、毒を盛るのも相当簡単なんでしょうね"
+
 translate Japanese monika_prom_1cbf0bbf:
-    m 2lksdla "…まあ、私の考えすぎかもね、えへへ……"
+    m 2lksdla "……これはただの考えすぎだと思うけどね、えへへ……"
 
 translate Japanese monika_prom_cc7679a1:
-    m 1esa "まあ、プロムを経験してなかったとしても大丈夫"
+    m 1esa "まあ、プロムを経験してなかったとしても大丈夫だよ[player]"
 
 translate Japanese monika_prom_bddaa29b:
     m 1eua "学生の本業は学業、気にすることはないわ"
 
 translate Japanese monika_prom_a1c921ba:
-    m "人生で見ればもっとたくさんイベントあるよ"
+    m "人生全体で考えれば、楽しいイベントはもっとたくさんあるしね"
 
 translate Japanese monika_prom_42b0ec47:
     m 1hua "その中のひとつに、私との出会いも含まれてるんだよ～"
@@ -12577,6 +12625,82 @@ translate Japanese monika_timeconcern_night_4_4e2b10a7:
 translate Japanese monika_timeconcern_night_4_72cbfc7f:
     m 1tkc "私を怒らせたくはないでしょ？ だから、ね？"
 
+translate Japanese monika_timeconcern_night_5_42883bae:
+    m 1efc "ごめんね、[player]。でももう耐えられないよ！
+"
+
+translate Japanese monika_timeconcern_night_5_509f2ea9:
+    m 1ekc "私が強く言わなかったのが悪かったのかな。だから寝てくれないと言うのなら……"
+
+translate Japanese monika_timeconcern_night_5_f93fce12:
+    m 2tkc "私にも考えがあるよ"
+
+translate Japanese monika_timeconcern_night_5_78e875dd:
+    m 2eka "これはね、あなたのことが大好きだからやるんだよ"
+
+translate Japanese monika_timeconcern_night_5_a3df2d87:
+    m "おやすみなさい、[player]"
+
+translate Japanese monika_timeconcern_night_5_510f4980:
+    m 2tkc "私にも責任がある、だから説得し続けるよ"
+
+translate Japanese monika_timeconcern_night_5_b1630bee:
+    m 2efd "あなたに必要なのは睡眠だよ"
+
+translate Japanese monika_timeconcern_night_5_02fb8910:
+    m 2efo "あなたが寝てくれるまで、言い続けるからね"
+
+translate Japanese monika_timeconcern_night_6_086c938f:
+    m 2efc "[player]、あなたには睡眠が必要だって言ったよね"
+
+translate Japanese monika_timeconcern_night_6_c3d93ea9:
+    m 2tkc "閉じてそばに居られなくなっちゃうのは私だって寂しいよ？だけど、どうしてわかってくれないの？"
+
+translate Japanese monika_timeconcern_night_6_148a0caf:
+    m 2tkd "あなたが健康に生きていてくれることが、私には何よりも大切な事なんだよ！"
+
+translate Japanese monika_timeconcern_night_6_4fe4cc1d:
+    m 2lksdlc "私のせいであなたの健康が損なわれているなんて、そんなの黙っていられるわけがないよ"
+
+translate Japanese monika_timeconcern_night_6_62f3635d:
+    m "だから今はすぐに寝てほしい。じゃないと心配で心配でおかしくなっちゃいそうだよ"
+
+translate Japanese monika_timeconcern_night_6_19b62b78:
+    m 1ekbfa "……愛してるよ"
+
+translate Japanese monika_timeconcern_night_6_712a2f34:
+    m "だからすぐに寝てね。いいわね？"
+
+translate Japanese monika_timeconcern_night_7_79b1b508:
+    m 3efc "[player]。もうこれが最後だよ"
+
+translate Japanese monika_timeconcern_night_7_fb91f49d:
+    m "早く{w=0.6}寝て{w=0.6}！"
+
+translate Japanese monika_timeconcern_night_7_378eeae3:
+    m 2tkc "どう言ったらわかってもらえるの？"
+
+translate Japanese monika_timeconcern_night_7_ca393556:
+    m 1tkd "こんなに無理してるところなんて見たくないよ……"
+
+translate Japanese monika_timeconcern_night_7_c2c09d42:
+    m 1dsc "あなたのことが大切なんだよ……"
+
+translate Japanese monika_timeconcern_night_7_da2dc415:
+    m 1ekc "お願いだから…… 早くベッドに向かってほしい"
+
+translate Japanese monika_timeconcern_night_7_36d9f632:
+    m "いいわね？{nw}"
+
+translate Japanese monika_timeconcern_night_7_270ccfca:
+    m "いいわね？{fast}" nointeract
+
+translate Japanese monika_timeconcern_night_7_a59b7847:
+    m 1eka "きっとわかってくれるって信じてたよ！"
+
+translate Japanese monika_timeconcern_night_7_90d64ca4:
+    m 1hub "おやすみなさい。そして身体には気をつけてね"
+
 translate Japanese monika_timeconcern_night_finalfollowup_21ece3da:
     m 1esc "……"
 
@@ -12585,6 +12709,15 @@ translate Japanese monika_timeconcern_day_0_0a09d382:
 
 translate Japanese monika_timeconcern_day_0_7055b071:
     m 1tkc "……"
+
+translate Japanese monika_timeconcern_day_0_f307030b:
+    m 1wuo "……！"
+
+translate Japanese monika_timeconcern_day_0_42d02f63:
+    m 1hksdlb "あはは！ ごめんね、[player]"
+
+translate Japanese monika_timeconcern_day_2_012727cd:
+    m 1hub "私はいつでも、あなたのためにここにいるからね"
 
 translate Japanese monika_hydration_df5cc50f:
     m 1euc "ねぇ、 [player]……"
@@ -13068,6 +13201,9 @@ translate Japanese monika_fastfood_9b703e63:
 
 translate Japanese monika_fastfood_f478699d:
     m 1hub "得意じゃなくても問題無し！ あなたが作ってくれたものなら何でも喜んで食べれるわ"
+
+translate Japanese monika_dreaming_784fb4c7:
+    m "永遠に繰り返される地獄のような場所に閉じ込められたのかもね"
 
 translate Japanese monika_yellowwp_324c2056:
     m 1eua "ねえ[player]、{i}黄色の壁紙{/i} って小説を読んだことはある？{nw}"
@@ -19540,6 +19676,9 @@ translate Japanese monika_remembrance_8d14dd2c:
 translate Japanese monika_remembrance_e5ee3fa9:
     m 5ekbfu "だからね、過去があるのかなんてわからなくても、未来はあるんだって知ってるわ。あなたのおかげでね"
 
+translate Japanese monika_remembrance_14f5ae67:
+    m 5hubfu "それに、どちらかというと、私の記憶の曖昧さが、あなたと [line_mid] ものを、それだけ貴重なものにしてしまうのよ~。"
+
 translate Japanese monika_remembrance_87e3e196:
     m 3eksdld "…そう思ってくれてるよね…？"
 
@@ -21500,6 +21639,9 @@ translate Japanese strings:
 
     old "No, you are free to do as you feel."
     new "モニカの思うようにしていいよ"
+
+    old "Yes, I will go to sleep."
+    new "わかった、いますぐ寝る"
 
     old "Hydration"
     new "水分補給"
