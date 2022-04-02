@@ -1181,7 +1181,7 @@ translate Japanese bye_prompt_eat_7331c613:
     m 1hksdlb "あはは……"
 
 translate Japanese bye_prompt_eat_8956ae3c:
-    m 3tku "今、朝ご飯を食べてるなんて変よ、[player]君！"
+    m 3tku "今から朝ご飯を食べてるなんて変よ、[player]君！"
 
 translate Japanese bye_prompt_eat_7146a8a8:
     m 3hub "今は夕方よ！"

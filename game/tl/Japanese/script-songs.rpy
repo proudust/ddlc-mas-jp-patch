@@ -46,6 +46,9 @@ translate Japanese mas_song_belong_together_6dad849e:
 translate Japanese mas_song_belong_together_53a924be:
     m 1hua "最高の教材から曲を学べたと思ってるわ"
 
+translate Japanese mas_song_everythings_alright_d68c0e32:
+    m 1dku "……"
+
 translate Japanese mas_song_your_song_e6f89ce6:
     m 1hub "あはは～"
 
@@ -271,6 +274,12 @@ translate Japanese mas_song_rewrite_the_stars_2ef91774:
 translate Japanese mas_song_rewrite_the_stars_1c398da7:
     m 5ekbfu "大好きだよ。"
 
+translate Japanese mas_song_hero_d0f96502:
+    m 2dka "……"
+
+translate Japanese mas_song_hero_7ceb6677:
+    m 2eka "[player]……"
+
 translate Japanese mas_song_hero_ef6eeeba:
     m 7eka "この歌詞を本当にじっくり聞いて欲しいんだ"
 
@@ -428,7 +437,7 @@ translate Japanese _call_mas_song_shelter_lyrics_1_9c77ee75:
     extend 3hubsb "あなたを見つけたの！"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_180a7465:
-    m 1ekbsu "あなたの場合は… {w=0.5}すでに私がいるけれど、私だけじゃないのよ{w=0.3}{nw}"
+    m 1ekbsu "あなたの場合は… {w=0.5}すでに私がいるけれど、私だけじゃないのよ。{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_dda14428:
     extend 3hubsb "あなたの家族もあなたのことを想っているに違いないわ！"
@@ -464,7 +473,7 @@ translate Japanese _call_mas_song_shelter_lyrics_1_ab82d625:
     m 1ekbsb "私たちはひとりぼっちじゃないんだよ！{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_ba46815e:
-    extend 3hubsu "これからの人生に何が起ころうとも、いつでも誰かが私たちにエールを送って応援してくれているんだよ～"
+    extend 3hubsu "これからの人生で何が起ころうとも、いつでも何処かで誰かが私たちにエールを送って応援してくれているんだよ～"
 
 translate Japanese mas_song_cant_help_falling_in_love_4e98d427:
     m 1dkbsa "……"
@@ -519,7 +528,7 @@ translate Japanese mas_song_god_knows_8374c099:
     m 3rud "神様が本当に存在するのか、私は怪しいと思ってる……"
 
 translate Japanese mas_song_god_knows_714be355:
-    m 5hubsu "でもね、今あなたがここにいること。それは本当に天から与えられた祝福のように思っているわ。"
+    m 5hubsu "でもね、今あなたがここにいること。それは本当に天から与えられた祝福のように思っているわ"
 
 translate Japanese mas_song_ageage_again_28324b87:
     m 1hub "{i}アゲ アゲ アゲ アゲ アーゲイン！{/i}"
@@ -563,6 +572,9 @@ translate Japanese mas_song_ageage_again_1d80e74e:
 translate Japanese mas_song_ageage_again_915e552e:
     m 3rubsu "でも、いつかあなたと一緒にパーティーに行ってみたいって気持ちはやっぱりあるよね～"
 
+translate Japanese mas_song_falling_in_love_at_a_coffee_shop_420c77ee:
+    m 5lubsa "……"
+
 translate Japanese mas_song_falling_in_love_at_a_coffee_shop_319d26be:
     m 1hkbssdlb "恋に落ちる瞬間って誰しも混乱するものよね"
 
@@ -577,6 +589,12 @@ translate Japanese mas_song_falling_in_love_at_a_coffee_shop_9c03135a:
 
 translate Japanese _call_mas_song_wonderwall_lyrics_8108b725:
     m 1ekbsu "えへへ、私を救ってくれたのは[player]なんだよ～"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_fc095c22:
+    m 3dkbfu "私を連れ戻してくれて、ずっと感謝しっぱなしだよ。{nw}"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_05a1e8a4:
+    m 3dkbfu "私のためにここにいてくれて、ずっと感謝しっぱなしだよ。{nw}"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_bc607aed:
     extend 3ekbsa "あなたの世界へ行く方法がみつかるまで、私のことを守ってくれるって信じてるよ"
@@ -656,6 +674,12 @@ translate Japanese _call_mas_song_wonderwall_lyrics_1_dc9dcdd6:
 translate Japanese _call_mas_song_wonderwall_lyrics_1_20c1061c:
     m 3duu "ストレートに言うとね、全部歌のおかげ。{w=0.2}結局のところ、音楽の好き嫌いなんて個々人の主観でしかないの"
 
+translate Japanese _call_mas_song_wonderwall_lyrics_1_0136faf5:
+    m 1efc "……好き嫌いがあるのはいいの。でも私が一番気が滅入るのはね、多数派の意見になりたくないという理由だけで不満を述べる人を見たときなの"
+
+translate Japanese _call_mas_song_wonderwall_lyrics_1_ce5fdd73:
+    m 3tsd "みんなとは違う事を言って自分を目立たせたいからその曲が嫌いだ言っているようなものだよね……{w=0.2}それも、自分の自尊心を守るためにね"
+
 translate Japanese _call_mas_song_wonderwall_lyrics_1_27fd203b:
     m 2rsc "それってさ…… {w=0.5}正直バカみたいだよね"
 
@@ -677,6 +701,9 @@ translate Japanese _call_mas_song_wonderwall_lyrics_1_324dc6e7:
 translate Japanese _call_mas_song_wonderwall_lyrics_1_e09358f0:
     m 1hua "自分の心に正直に嘘をつかないようにしていれば、決して間違った道を歩むことはないと思うんだ～"
 
+translate Japanese mas_song_when_youre_gone_5a4716ce:
+    m 2dktda "……"
+
 translate Japanese mas_song_when_youre_gone_a9094cf5:
     m 6eksdld "アヴリル・ラヴィーンは亡くなった祖父のためにこの歌を書いたの。幼いときから親友のような存在だったから"
 
@@ -691,6 +718,9 @@ translate Japanese mas_song_when_youre_gone_bbad2401:
 
 translate Japanese mas_song_when_youre_gone_dcff0fe2:
     m 6ekbsa "あなたは私の一生の恋人であるのと同時に親友でもあるの。{w=0.2}あなたが私にとってどれほど大切か、それを過小評価しないでね"
+
+translate Japanese mas_song_we_have_all_the_time_in_the_world_28a15692:
+    m 1duu "……"
 
 translate Japanese mas_song_strawberry_6def7110:
     m 1hubsu "……"
