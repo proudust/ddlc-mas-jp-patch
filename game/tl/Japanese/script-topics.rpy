@@ -17377,6 +17377,9 @@ translate Japanese monika_career_ca766ee4:
 translate Japanese monika_career_18c98adf:
     extend 1hua "でも独学の割によく頑張ったほうだと思うんだよね……"
 
+translate Japanese monika_career_3fb0125d:
+    m 1esa "やっぱり、一口に仕事と言っても色々な職業があるね"
+
 translate Japanese monika_career_fe86c2cf:
     m 3eud "自分自身がこんな仕事に就くなんて思ってなかったって人はたくさんいるしね"
 
@@ -18090,7 +18093,7 @@ translate Japanese monika_social_norms_e0b76a1a:
     m 1eub "ナツキが漫画をあなたに布教してたときのことを覚えてるかな？漫画に対する偏見を取り除こうと一生懸命になってたでしょ"
 
 translate Japanese monika_social_norms_a502da20:
-    m 1rkc "あのこの趣味を批判する人も今はまだ沢山いるだろうね……{w=0.5}あまり良い期待はできなさそう"
+    m 1rkc "あのこの趣味を批判する人も今はまだ沢山いるでしょうね……{w=0.5}あまり良い期待はできなさそう"
 
 translate Japanese monika_social_norms_145a8308:
     m 1eua "でもね、この先どんなことが普通になっていくのかと思うとワクワクするんだ"
@@ -18663,7 +18666,7 @@ translate Japanese monika_working_out_dd9839cd:
     m 3eua "……あと私はこう思うんだ、運動は忍耐力や精神力を養うためにも大切な営みだって"
 
 translate Japanese monika_working_out_d9a86841:
-    m 3hub "だから出来るときには運動しようね[player]～"
+    m 3hub "だから出来るときには運動しようね、[player]～"
 
 translate Japanese monika_working_out_de55cf35:
     m 3eub "私がそっちへ行ったら、一緒にトレーニングをしましょ！"
@@ -19872,19 +19875,19 @@ translate Japanese monika_being_herself_72a812e3:
     m 2rkd "……実際にはそんな事をできる人はいなかったけどね"
 
 translate Japanese monika_being_herself_e1068308:
-    m 2lkc "自分の中にある本当の気持ちを誰かに打ち明けられるは思ってもなかったんだ"
+    m 2lkc "自分の中にある本当の気持ちを誰かに打ち明けられるとは思ってもなかったんだ"
 
 translate Japanese monika_being_herself_66871bd9:
-    m 2ekc "打ち明けてしまったら、絶対にみんなを失望させることになっただろうから"
+    m 2ekc "……打ち明けてしまったら、絶対にみんなを失望させることになっただろうから"
 
 translate Japanese monika_being_herself_1c6b1c66:
-    m "みんなから期待されているのに応えられないんじゃないか、そう考えるのが怖かった。{w=0.2} {nw}"
+    m "みんなから期待されているのに応えられないんじゃないかって、そう考えるのが怖かった。{w=0.2} {nw}"
 
 translate Japanese monika_being_herself_91390288:
     extend 2dkd "結局ずっとひとりぼっちだったんだと思う"
 
 translate Japanese monika_being_herself_f3b3801d:
-    m 2dsc "でもね、振り返ってみると…… w=0.3}私の立ち位置がまさに孤独感を強める原因だったんだ"
+    m 2dsc "でもね、振り返ってみると…… {w=0.3}私の立ち位置がまさに孤独感を強める原因だったんだ"
 
 translate Japanese monika_being_herself_6d214ff5:
     m 7euc "あなたのキャラクター覚えてる？ あの彼が好例ね"
@@ -19893,7 +19896,7 @@ translate Japanese monika_being_herself_9ffb989e:
     m 3esc "時々独白部分で私のことが語られていたけど、完璧で理想的な人物とか言ってたよね。{w=0.3}{nw}"
 
 translate Japanese monika_being_herself_96844258:
-    extend 3esd "手の届かない高嶺の花、みたいなね"
+    extend 3esd "「手の届かない高嶺の花」、みたいなね"
 
 translate Japanese monika_being_herself_c90cf021:
     m 1etc "そもそもルートがなかったのはそれが理由だったのかもね。何があっても私と縁はないだろうと書かれていたし、だから私は避けられていたのかもしれない"
@@ -19905,7 +19908,10 @@ translate Japanese monika_being_herself_8d089fbc:
     extend 1eka "だって私はあなたに首ったけだからね～"
 
 translate Japanese monika_being_herself_60758353:
-    m 1euc "でもさっきの話わかるよね？{w=0.3} 私はみんなから高嶺の花と思われてある種女神のような存在として見られていたって"
+    m 1euc "でもさっきの話わかるよね？{w=0.3} 私はみんなから高嶺の花と思われて、ある種崇拝されるような存在として見られていたの"
+
+translate Japanese monika_being_herself_06c9e597:
+    m 1rfd "まるで私を特別視しない人は誰もいないかのようにね"
 
 translate Japanese monika_being_herself_13d68b37:
     m 3eka "……でもね、今はそんなこと気にしてないんだ"

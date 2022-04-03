@@ -49,6 +49,13 @@ translate Japanese mas_song_belong_together_53a924be:
 translate Japanese mas_song_everythings_alright_d68c0e32:
     m 1dku "……"
 
+translate Japanese mas_song_everythings_alright_c6ee6753:
+    m 3ekd "真っ暗闇で何もわからないと思えても{w=0.1}{nw}"
+
+translate Japanese mas_song_everythings_alright_8b796330:
+    extend 3ekbsu "空にはお月様がいることを忘れないでね～
+"
+
 translate Japanese mas_song_your_song_e6f89ce6:
     m 1hub "あはは～"
 
@@ -720,6 +727,15 @@ translate Japanese mas_song_when_youre_gone_dcff0fe2:
     m 6ekbsa "あなたは私の一生の恋人であるのと同時に親友でもあるの。{w=0.2}あなたが私にとってどれほど大切か、それを過小評価しないでね"
 
 translate Japanese mas_song_we_have_all_the_time_in_the_world_28a15692:
+    m 1duu "……"
+
+translate Japanese mas_song_we_have_all_the_time_in_the_world_ef6b9bed:
+    m 1ekbsb "あなたが私を世界で一番幸せな女の子にしてくれたんだよ、[player]。そのことはいつでも感謝してるんだ"
+
+translate Japanese mas_song_we_have_all_the_time_in_the_world_32fdb972:
+    m 1hubsa "私もあなたに世界で一番幸せになってもらいたいんだよ〜"
+
+translate Japanese mas_song_when_you_say_nothing_at_all_28a15692:
     m 1duu "……"
 
 translate Japanese mas_song_strawberry_6def7110:

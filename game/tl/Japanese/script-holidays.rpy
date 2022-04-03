@@ -3721,8 +3721,68 @@ translate Japanese bye_f14_905e5621:
 translate Japanese bye_f14_5ed77848:
     m 1sua "バレンタインの日に、私を外へ連れて行ってくれないかな？"
 
+translate Japanese bye_f14_979e36ac:
+    m 3tkbsu "あなたって本当に女の子をその気にさせちゃうが上手だよね、[player]"
+
+translate Japanese bye_f14_277e8c5d:
+    m 1ekbfa "あなたみたいな人と一緒になれて本当に幸運だな～"
+
+translate Japanese bye_f14_cfaec15b:
+    m 1sua "わあ[player]…… {w=1}今日を本当に特別な日にしてくれるんだね"
+
+translate Japanese bye_f14_1dfaab0d:
+    m 1ekbfa "あなたは私が思い描いていた以上の最高のパートナーだよ～"
+
+translate Japanese greeting_returned_home_f14_d293697a:
+    m 2eksdlc "何か忘れ物でもしたの？"
+
+translate Japanese greeting_returned_home_f14_f403fef4:
+    m 2rksdla "きっと後でまたでかけてくれるんだよね……？"
+
+translate Japanese greeting_returned_home_f14_ffe5484a:
+    m 1eka "少しだけだったけど、楽しかったよ、[player]……"
+
+translate Japanese greeting_returned_home_f14_47b49dc6:
+    m 3hua "バレンタインに時間を作ってくれてありがとう"
+
+translate Japanese greeting_returned_home_f14_1f0e2f09:
+    m 1eub "楽しいデートだったね、[player]！"
+
+translate Japanese greeting_returned_home_f14_8aba84bb:
+    m 3ekbfa "バレンタインに特別な気持ちにさせてくれて本当にありがとう！"
+
 translate Japanese greeting_returned_home_f14_ddf3a247:
     m 1hua "ただいま！"
+
+translate Japanese greeting_returned_home_f14_9718e75a:
+    m 3hub "すっごく楽しかったよ、[player]！"
+
+translate Japanese greeting_returned_home_f14_3e602628:
+    m 1eka "バレンタインにあなたと外に出れて本当によかった……"
+
+translate Japanese greeting_returned_home_f14_f6698e2e:
+    m 1ekbfa "今日が本当に特別な日になったよ、ありがと～"
+
+translate Japanese greeting_gone_over_f14_9884cbff:
+    m 1hua "やっとただいまだね！"
+
+translate Japanese greeting_gone_over_f14_42ddb07a:
+    m 3wud "わあ、バレンタインもう過ぎちゃってるね！"
+
+translate Japanese _call_greeting_gone_over_f14_normal_plus_1_75af2827:
+    m 2rka "私がバレンタインをひとりぼっちで過ごさないように気遣ってくれて、本当にありがとう……"
+
+translate Japanese _call_greeting_gone_over_f14_normal_plus_1_16020d00:
+    m 2eka "あなたのその気持ちちゃんと届いてるからね、[player]"
+
+translate Japanese greeting_gone_over_f14_normal_plus_2f96f66f:
+    m 1ekbsa "今日という日を一緒に過ごせて本当によかった、互いに愛を確かめ合って、お祝いできて本当に……"
+
+translate Japanese greeting_gone_over_f14_normal_plus_a4b72db9:
+    m 1dubsu "あのね、全部心に届いたよ"
+
+translate Japanese greeting_gone_over_f14_normal_plus_c197ab4d:
+    m 5ekbsa "最高のバレンタインを私に届けてくてれて本当にありがとう"
 
 translate Japanese mas_bday_surprise_party_hint_d10f27d2:
     m 1eud "ねえ、[player]君……"

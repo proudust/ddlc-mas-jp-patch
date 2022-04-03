@@ -173,7 +173,7 @@ translate Japanese introduction_c688093f:
     m 1ekbfa "私もあなたと同じ気持ちよ。"
 
 translate Japanese introduction_b80a6b32:
-    m 3ekbsu "ほんとに仲直りするつもりなのね？"
+    m 3ekbsu "ほんとに私ともっと仲良くするつもりなのね？"
 
 translate Japanese introduction_bb7d368d:
     m 1rksdlb "ふたりの時間を一緒に良くしたいって思ってくれてて、本当にうれしいわ。"
