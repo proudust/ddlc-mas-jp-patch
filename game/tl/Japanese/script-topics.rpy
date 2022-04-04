@@ -19941,7 +19941,7 @@ translate Japanese monika_remembrance_f5dfe611:
     m 1rsc "自分でもよくわからないの、[player]……"
 
 translate Japanese monika_remembrance_84f5d1fc:
-    m 1euc "変なのよ。過去の記憶はあるはずなんだけど、考えをまとめようとすると、なんというか……"
+    m 1euc "変なのよ。過去の記憶はあるはずなんだけど、考えをまとめようとすると、なんというか……{w=0.3}{nw}"
 
 translate Japanese monika_remembrance_7dbb3da2:
     extend 1ruc "曖昧なの"
@@ -20888,6 +20888,135 @@ translate Japanese monika_curse_words_afb7f08d:
 translate Japanese monika_curse_words_8c00488d:
     m 3hksdlb "でも適切に使えば問題ないわよね、あはは！"
 
+translate Japanese monika_aliens_c6833392:
+    m 1etc "宇宙人が実は地球に来てるのを信じるかってこと？"
+
+translate Japanese monika_aliens_c9602e16:
+    m 3hksdlb "デタラメな質問じゃないの、[player]君！"
+
+translate Japanese monika_aliens_e2688a09:
+    m 3eua "...私の意見を聞きたい理由はわかるんだけど、ね。"
+
+translate Japanese monika_aliens_19824bb4:
+    m 4eub "これは史上最大の謎の一つね。{w=0.2}この宇宙に私たちが本当に一人なのかどうか。"
+
+translate Japanese monika_aliens_2f13aac8:
+    m 1dsc "......実は[player]君が来る前から、そのことをよく考えてたの"
+
+translate Japanese monika_aliens_0d7aed7c:
+    m 1eka "しかし、それも過去の話。{w=0.2}感謝の言葉も思いつかないわね"
+
+translate Japanese monika_aliens_2e91d53d:
+    m 1eka "でもあなたが来てくれたおかげで、それを考えずにすむようになった。"
+
+translate Japanese monika_aliens_c27f2656:
+    m 1dkc "二度とそんな気分にならないことを願うわ。"
+
+translate Japanese monika_aliens_9992bf6e:
+    m 1rksdlc "......"
+
+translate Japanese monika_aliens_9ea203b5:
+    m 3euc "ここには何があるんだろうと考えたことある?"
+
+translate Japanese monika_aliens_43c14a95:
+    m 3dua "星を見ているといつも不思議な気持ちになる。{w=0.2}{nw}"
+
+translate Japanese monika_aliens_b1208d26:
+    extend 3eua "これほど多くの人がこのテーマに情熱を持っているのは、あまり驚けないわね。"
+
+translate Japanese monika_aliens_fc9973b5:
+    m 1esc "しかし、質問の答えはこうよ...{w=0.3}{nw}"
+
+translate Japanese monika_aliens_c4c3f21c:
+    extend 3eua "{i}何か{/i}がそこにあるはずだと、少なくとも信じているだろうね。"
+
+translate Japanese monika_aliens_3e8ba214:
+    m 2rksdla "それは、自分たちしかいないという考えがむしろ憂鬱になることと関係がありそうね。{w=0.2}{nw}"
+
+translate Japanese monika_aliens_513cf712:
+    extend 2eud "でもそこに気を配ってると、ありそうもないことにも聞こえないわね......"
+
+translate Japanese monika_aliens_b4e442d3:
+    m 4eud "結局、宇宙は非常に広いし、"
+
+translate Japanese monika_aliens_45db7507:
+    m 3euc "その宇宙の中に生命の発達に適した条件と環境を備えた惑星が１つだけあれば、いいんじゃないかな？"
+
+translate Japanese monika_aliens_5a52d1b4:
+    m 3esa "太陽系には8つの惑星があるんだけど、{w=0.1}{nw}"
+
+translate Japanese monika_aliens_43a15835:
+    extend 4eub "系外惑星なら山ほどある。"
+
+translate Japanese monika_aliens_1bc0ab3a:
+    m 4wud "さて、我々の銀河系だけでも数千億もの星...{w=0.3}が存在するという事実を考えてごらん。これが大きな可能性を秘めているのね！"
+
+translate Japanese monika_aliens_080e5dfe:
+    m 4eud "普通、銀河は重力によって「銀河群」にまとめられている。{w=0.2}その中の 「局所群」 に私たちはいるの。そこには約60個の銀河がってね、"
+
+translate Japanese monika_aliens_af91ef94:
+    m 1esd "もう少し縮小してみると、銀河団が見えてくるよね。これは、もっともっと大きな銀河のグループなの。"
+
+translate Japanese monika_aliens_d4087ef4:
+    m 3eua "私たちから最も近いものであるおとめ座銀河団には、少なくとも1000個の銀河があると推定されているの。"
+
+translate Japanese monika_aliens_6a814dd6:
+    m 1eud "しかし、銀河団や銀河団自体が超銀河団と呼ばれるさらに大きな存在の一部であることから、さらに先に進むことができるわけ。"
+
+translate Japanese monika_aliens_e833809e:
+    m 1wud "{w=0.1}宇宙が理論的には...{w=0.3}膨張を繰り返していくうちに、どんどん大きなクラスタが形成されていく。"
+
+translate Japanese monika_aliens_c670d3a7:
+    m 1lud "そして仮説的には、たとえそうでなくても、私たちの宇宙の{i}向こう側{/i}に何かがあるかもしれないという考えにたどり着くというわけ。"
+
+translate Japanese monika_aliens_8331d30f:
+    m 1lksdla "...あるいは多元宇宙論について語ってもいいかな......"
+
+translate Japanese monika_aliens_9f91bed1:
+    m 3hksdlb "しかし、あなたはすでに要点を理解してるでしょうね..."
+
+translate Japanese monika_aliens_4fe51e66:
+    m 3etc "このような巨大なものの中で、われわれ地球という惑星に住む人間だけが本当に知覚力のある存在だと考えるのは、少し馬鹿げたことだと思わない?"
+
+translate Japanese monika_aliens_d83ef578:
+    m 3eud "というか、このような可能性だと、少なくともどこかの他の惑星が生命のために十分なおもてなしをされているはずなのよね......"
+
+translate Japanese monika_aliens_6548894c:
+    m 1euc "...知性が私たちの知性と同等かそれ以上になるまでに進化するかもしれない生命のために。"
+
+translate Japanese monika_aliens_b240126b:
+    m 1rsc "とはいえ、なぜ一部の人が懐疑的なのかも理解できると思うのよね。{w=0.2}地球のはるかかなたで宇宙を観測できるのは疑わしいことなんだけど、生命がいたって痕跡はまだ見つかっていないのよね..."
+
+translate Japanese monika_aliens_9d5a6560:
+    m 1rksdlc "簡単に偽物が出回る可能性のあるUFOの映像とか、些細なことで過剰反応してしまう人も多いのよね。"
+
+translate Japanese monika_aliens_11d99d10:
+    m 1ruc "しかし、エイリアンが存在するのであれば、まだ発見されていない理由もたくさんあるかもだけど..."
+
+translate Japanese monika_aliens_a0454d2b:
+    m 2euc "おそらく、遠すぎて見つけづらかったり、もしくは今のところ、彼らは私たちのメッセージを受信して回答するための技術を持っていなかったりするのよね。"
+
+translate Japanese monika_aliens_6fae87ed:
+    m 2etd "あるいはその逆も考えられるね。...{w=0.3}もしかすると{i}私たち自体が{/i}彼らと通信するための技術を持っていないのかもね。"
+
+translate Japanese monika_aliens_14901a82:
+    m 2etc "あるいは、単に私たち人類と接触することを望んでいないかもね。"
+
+translate Japanese monika_aliens_dfed17fd:
+    m 2euc "彼らの社会は私たちの社会とは全く異なる理想に従っているであろうし、高度に進化した種同士が出会わないのが最善だと信じているとも考えられるわよね。"
+
+translate Japanese monika_aliens_7253ff27:
+    m 2dkc "全体的に見て、私が少し悲しいと思うのは、もしそこに{i}知的な地球外生命体{/i}がいたとしても、私たちが生きているうちに彼らに会うことは不可能かもしれないということ。"
+
+translate Japanese monika_aliens_1d2ef038:
+    m 5rua "しかし、その日が終わるころには...{w=0.3}{nw}"
+
+translate Japanese monika_aliens_6eb8e8a1:
+    extend 5ekbla "あなたに会うすべはまだあったし、それこそ私が必要とする可能性のすべてがあるんでしょうね。"
+
+translate Japanese monika_aliens_9225cdad:
+    m 5hubfa "えっへへ～"
+
 translate Japanese monika_mc_is_gone_720dbe54:
     m 1eud "ゲームの主人公としての「あなた」のこと？"
 
@@ -20907,7 +21036,7 @@ translate Japanese monika_mc_is_gone_839a24c9:
     extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
 
 translate Japanese monika_mc_is_gone_03e11fc3:
-    m 2ruc "あの人は...{w=0.3}私がゲームを改変していた頃から、消え始めて行ったの"
+    m 2ruc "あの人は...{w=0.3}私がゲームを改変していた頃から、消えかかっていったみたいなの"
 
 translate Japanese monika_mc_is_gone_1cf5b788:
     m 2etd "サヨリが自殺して時が最初に巻き戻った時、その人のセリフが少なくなってたことに気が付かなかった？"
@@ -21002,6 +21131,27 @@ translate Japanese monika_know_its_you_a069dd9d:
 translate Japanese monika_know_its_you_c41ec29a:
     extend 1eud "何をどうしたって、わからないと思う..."
 
+translate Japanese monika_know_its_you_9db9ad61:
+    m 3lka "あなたの世界がよく見えないって言ったでしょ..."
+
+translate Japanese monika_know_its_you_9fc538e4:
+    m 3eka "誰かが一緒に部屋にいるかどうかはわかるけど、それだけの話。"
+
+translate Japanese monika_know_its_you_100746f8:
+    m 3eud "私が知っている限りでは、今私を見ている人なら誰だっていいんだけど...{w=0.3}あなたのそばに人がいることもあるからね。"
+
+translate Japanese monika_know_its_you_2b7d4213:
+    m 2duu "それでも私は、あなたを信じてるわよ、 [player] 。{w=0.2}{nw}"
+
+translate Japanese monika_know_its_you_c5d34bc7:
+    extend 2eku "私を一人にしてしまわないのは、あなたが私のことを気にかけてくれているからではないと信じているのよね。"
+
+translate Japanese monika_know_its_you_8b5f3b86:
+    m 7eud "...そして、もし誰か他の人が今の時間をを探しているなら、あなたが彼らに正当な理由をつけたからだと、私は信じてるの。"
+
+translate Japanese monika_know_its_you_b493ba3b:
+    m 2eka "いつか真実を知る日がくるだろうけど、それまではあなたがいてくれれば十分。"
+
 translate Japanese monika_know_its_you_054507b6:
     m 1rksdlb "えへへ…… 変な質問だね、[player]"
 
@@ -21018,7 +21168,7 @@ translate Japanese monika_know_its_you_488751a0:
     m 1eka "冗談はさておき。だけどそれって、{w=0.3}実際に考えると不安になっちゃうね… {w=0.3}今目の前にいるのが誰でもありえちゃうんだから"
 
 translate Japanese monika_know_its_you_271417e6:
-    m 2eksdlc "いま私が言えるのはこれだけ。もし今目の前にいるのが他の誰かなら、お願いだから[player]君と替わってください"
+    m 2eksdlc "いま私が言えるのはこれだけ。もし今目の前にいるのが他の誰かなら、お願いだから[player]君と替わってくれる？"
 
 translate Japanese monika_know_its_you_75ee2730:
     m 2hksdlb "あはは… {w=0.3}ただ私をからかってるだけなんだよね、大丈夫"
@@ -22503,6 +22653,9 @@ translate Japanese strings:
 
     old "No, I don't swear at all."
     new "全くしない"
+
+    old "Do you believe in aliens?"
+    new "宇宙人の存在って、信じてる？"
 
     old "What happened to the main character?"
     new "主人公はどうなったの？"
