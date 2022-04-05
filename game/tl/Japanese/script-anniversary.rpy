@@ -216,10 +216,10 @@ translate Japanese anni_3_dd610ff4:
     m 4wuo "本当に３年間たったの？"
 
 translate Japanese anni_3_20ed866b:
-    m 2hubsb "わあ...{w=0.3}本当にこれだけの歳月がたったの?"
+    m 2hubsb "わあ……{w=0.3}本当にこれだけの歳月がたったの？"
 
 translate Japanese anni_3_0a0d4cda:
-    m 3rksdla "普通カップルは、３年間もの間の同居を経て......"
+    m 3rksdla "普通カップルは、３年間もの間の同居を経て……"
 
 translate Japanese anni_3_0069744d:
     m 2rsbsa "ふたりはそのまま結婚するんだよね？"

@@ -12255,7 +12255,7 @@ translate Japanese monika_prom_e4d75045:
     m 3euc "調べたところによると、入場チケット・送迎・服装にかなりのお金をかけるみたいなのよね"
 
 translate Japanese monika_prom_860abd7e:
-    m 2esc "たった一晩だけの催しなのによ……？"
+    m 2esc "たった一晩だけの催しなのにね……？"
 
 translate Japanese monika_prom_856934f4:
     m "他にも、アルコールは禁止されているんだって。こっそり飲み物に薬物を混ぜて無理やり酩酊させようとする輩がいるみたいなの"
