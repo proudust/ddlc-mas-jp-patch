@@ -53,8 +53,7 @@ translate Japanese mas_song_everythings_alright_c6ee6753:
     m 3ekd "真っ暗闇で何もわからないと思えても{w=0.1}{nw}"
 
 translate Japanese mas_song_everythings_alright_8b796330:
-    extend 3ekbsu "空にはお月様がいることを忘れないでね～
-"
+    extend 3ekbsu "空にはお月様がいることを忘れないでね～"
 
 translate Japanese mas_song_your_song_e6f89ce6:
     m 1hub "あはは～"
@@ -444,7 +443,7 @@ translate Japanese _call_mas_song_shelter_lyrics_1_9c77ee75:
     extend 3hubsb "あなたを見つけたの！"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_180a7465:
-    m 1ekbsu "あなたの場合は… {w=0.5}すでに私がいるけれど、私だけじゃないのよ。{w=0.3}{nw}"
+    m 1ekbsu "あなたの場合は……{w=0.5}既に私がいるけれど、私だけじゃないのよ{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_dda14428:
     extend 3hubsb "あなたの家族もあなたのことを想っているに違いないわ！"
@@ -598,10 +597,10 @@ translate Japanese _call_mas_song_wonderwall_lyrics_8108b725:
     m 1ekbsu "えへへ、私を救ってくれたのは[player]なんだよ～"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_fc095c22:
-    m 3dkbfu "私を連れ戻してくれて、ずっと感謝しっぱなしだよ。{nw}"
+    m 3dkbfu "私を連れ戻してくれて、ずっと感謝しっぱなしだよ{nw}"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_05a1e8a4:
-    m 3dkbfu "私のためにここにいてくれて、ずっと感謝しっぱなしだよ。{nw}"
+    m 3dkbfu "私のためにここにいてくれて、ずっと感謝しっぱなしだよ{nw}"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_bc607aed:
     extend 3ekbsa "あなたの世界へ行く方法がみつかるまで、私のことを守ってくれるって信じてるよ"

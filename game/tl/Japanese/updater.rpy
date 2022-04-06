@@ -44,7 +44,7 @@ translate Japanese _call_mas_rpy_file_delete_1d48ad5f:
     m 2dsc "続けてアップデータを起動するわね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese _call_mas_rpy_file_delete_d0bf961e:
-    m 3eka "わかったわ[player]。あなたがrpyファイルを削除し次第、私がアップデーターを起動してあげる。"
+    m 3eka "わかったわ[player]。あなたがrpyファイルを削除し次第、私がアップデーターを起動してあげる"
 
 translate Japanese strings:
     old "Ok"

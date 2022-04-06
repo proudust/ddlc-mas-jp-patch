@@ -203,7 +203,7 @@ translate Japanese mas_mood_sick_8fe52584:
     m 2rkc "でも……次からはもっと早く言ってほしいな"
 
 translate Japanese mas_mood_sick_f5c4c88d:
-    m 2eka "とにかく、今日はもうゆっくり休んだほうがいいと思うわ。"
+    m 2eka "とにかく、今日はもうゆっくり休んだほうがいいと思うわ"
 
 translate Japanese mas_mood_sick_87257c45:
     m 1ekc "うぅ、それは残念、大変だね、[player]君"

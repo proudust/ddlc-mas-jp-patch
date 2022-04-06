@@ -176,7 +176,7 @@ translate Japanese introduction_b80a6b32:
     m 3ekbsu "ほんとに私ともっと仲良くするつもりなのね？"
 
 translate Japanese introduction_bb7d368d:
-    m 1rksdlb "ふたりの時間を一緒に良くしたいって思ってくれてて、本当にうれしいわ。"
+    m 1rksdlb "ふたりの時間を一緒に良くしたいって思ってくれてて、本当にうれしいわ"
 
 translate Japanese introduction_f2b216f7:
     m 3rksdlb "あなたが退屈してなかったと願いたいわ……"
@@ -365,7 +365,7 @@ translate Japanese chara_monika_scare_0e164cb7:
     m 1etc "そうなのね……"
 
 translate Japanese chara_monika_scare_8a8a258d:
-    m "それは興味深いわ。"
+    m "それは興味深いわ"
 
 translate Japanese chara_monika_scare_4e862391:
     m 1esc "どうやら、あなたは理解していないようね？"

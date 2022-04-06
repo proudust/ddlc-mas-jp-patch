@@ -1290,7 +1290,7 @@ translate Japanese strings:
     new "別の性別として扱ってほしい"
 
     old "I was just too shy."
-    new "恥ずかしがり屋だから..."
+    new "恥ずかしがり屋だから……"
 
     old "I'm a boy."
     new "男性"

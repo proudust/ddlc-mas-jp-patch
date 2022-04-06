@@ -8,7 +8,7 @@ translate Japanese mas_piano_songchoice_7f0f2a55:
     m "[player]君、こちらで用意した曲にする？それとも自由に弾いてみる？{fast}" nointeract
 
 translate Japanese mas_piano_songchoice_c6757143:
-    m "聞きたい曲を選んでちょうだい。" nointeract
+    m "聞きたい曲を選んでちょうだい" nointeract
 
 translate Japanese mas_piano_songchoice_10a53abc:
     m 1hua "[player]君のピアノ、わくわくするなあ！"

@@ -56,7 +56,7 @@ translate Japanese mas_backups_could_not_copy_cbdba989:
     "有効なバックアップファイルは見つかったの。だけど……"
 
 translate Japanese mas_backups_could_not_copy_a591f111:
-    "壊れた部長さんのファイルに上書きすることが出来なかったわ。"
+    "壊れた部長さんのファイルに上書きすることが出来なかったわ"
 
 translate Japanese mas_backups_could_not_copy_22176348:
     "だけど！"
