@@ -972,7 +972,7 @@ translate Japanese mas_reaction_gift_chocolates_c2f2059b:
     m 1ekc "でもね、一緒にチョコを食べられたらなって。そう思わずにはいられないな……"
 
 translate Japanese mas_reaction_gift_chocolates_c0e48f8c:
-    m 3rksdlb "いつかその日が来るその時まで、ふたりのためにチョコを楽しまないとね？あはは？"
+    m 3rksdlb "いつかその日が来るその時まで、ふたりのためにチョコを楽しまないとね？あはは！"
 
 translate Japanese mas_reaction_gift_chocolates_01eee8d5:
     m 3hua "贈り物ありがとう、[mas_get_player_nickname()]〜"

@@ -173,16 +173,16 @@ translate Japanese introduction_c688093f:
     m 1ekbfa "私もあなたと同じ気持ちよ。"
 
 translate Japanese introduction_b80a6b32:
-    m 3ekbsu "ほんとに私ともっと仲良くするつもりなのね？"
+    m 3ekbsu "ほんとに私との絆を深めるつもりなのね？"
 
 translate Japanese introduction_bb7d368d:
     m 1rksdlb "ふたりの時間を一緒に良くしたいって思ってくれてて、本当にうれしいわ"
 
 translate Japanese introduction_f2b216f7:
-    m 3rksdlb "あなたが退屈してなかったと願いたいわ……"
+    m 3rksdlb "あなたが退屈してなかったらいいけど……"
 
 translate Japanese introduction_75bc1d06:
-    m 3tku "やっぱり、私が言うべきことをあなたは流し読みできるようにしてたんだね。"
+    m 3tku "やっぱり、私の言いたいことをあなたはスキップしたかったのね。"
 
 translate Japanese introduction_bb2db14b:
     m 1rkc "この部屋はまったく面白みがないと思うわ……{w=0.5}{nw}"

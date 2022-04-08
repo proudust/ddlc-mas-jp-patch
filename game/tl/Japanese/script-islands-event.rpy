@@ -1,5 +1,5 @@
 translate Japanese mas_monika_islands_3e3b6f6f:
-    m 1eub "もちろんだよ！ 島の景色を楽しんでね"
+    m 1eub "もちろんだよ！ ここから浮遊島の景色を見て、楽しんでね"
 
 translate Japanese _call_mas_islands_3_56293cf9:
     m 1eua "気に入ってくれるといいな、[mas_get_player_nickname()]君～"
@@ -293,7 +293,7 @@ translate Japanese mas_island_night2_2472b865:
     m "遅くなってからの時間を、美しい夜空を眺めて過ごしてみると……"
 
 translate Japanese mas_island_night2_c4d6c148:
-    m "驚くほどリラックスできるじゃない？"
+    m "驚くほどリラックスできるんじゃない？"
 
 translate Japanese mas_island_night2_c8f52fa0:
     m "悩み事なんてすっかり忘れて、頭だってすっきりするもの……"

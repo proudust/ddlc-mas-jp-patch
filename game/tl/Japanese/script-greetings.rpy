@@ -2944,7 +2944,7 @@ translate Japanese _call_mas_background_change_c9e8dfd9:
     m 1eua "これ以上は何も言わずに……"
 
 translate Japanese _call_mas_background_change_a3a6c212:
-    m 4eub "窓の外を見てみて、[player]？"
+    m 4eub "窓の外を見てごらん、[player]"
 
 translate Japanese _call_mas_islands_d3107ef6:
     m "その……"
