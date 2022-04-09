@@ -3452,40 +3452,40 @@ translate Japanese mas_f14_monika_vday_origins_bd7722e5:
     m 3eua "バレンタインデーの起源について知りたいの、[player]君？"
 
 translate Japanese mas_f14_monika_vday_origins_ad4fe525:
-    m 1rksdlc "実は面白い由来があるのよ。"
+    m 1rksdlc "実は面白い由来があるのよ"
 
 translate Japanese mas_f14_monika_vday_origins_94c66c31:
-    m 1euc "言い伝えは色々あるんだけど、これはキリスト教がまだ認められていない3世紀のローマ帝国でのお話。"
+    m 1euc "言い伝えは色々あるんだけど、これはキリスト教がまだ認められていない3世紀のローマ帝国でのお話"
 
 translate Japanese mas_f14_monika_vday_origins_7f92ef4d:
-    m 3eud "この時代に皇帝だったクラウディウス2世はキリスト教徒との結婚を禁じていて、それは不公平だと言ってバレンタインという名の神父が反対活動を行っていたの。"
+    m 3eud "この時代に皇帝だったクラウディウス2世はキリスト教徒との結婚を禁じていて、それは不公平だと言ってバレンタインという名の神父が反対活動を行っていたの"
 
 translate Japanese mas_f14_monika_vday_origins_5241beee:
-    m 3rsc "皇帝の命令に反して、バレンタインはこっそりキリスト教徒と結婚したのよ。"
+    m 3rsc "皇帝の命令に反して、バレンタインはこっそりキリスト教徒と結婚したのよ"
 
 translate Japanese mas_f14_monika_vday_origins_3cf0fd0c:
-    m 3esc "別の話では、ローマの兵士は結婚することが禁止されていて、バレンタインは軍隊に徴兵されそうだった人たち結婚させて徴兵から救ったっていうパターンがあるわね。"
+    m 3esc "別の話では、ローマの兵士は結婚することが禁止されていて、バレンタインは軍隊に徴兵されそうだった人たち結婚させて徴兵から救ったっていうパターンがあるわね"
 
 translate Japanese mas_f14_monika_vday_origins_51ff24d1:
-    m 1dsd "どちらの話にせよ、バレンタインは捕まって死刑を宣告されたの。"
+    m 1dsd "どちらの話にせよ、バレンタインは捕まって死刑を宣告されたの"
 
 translate Japanese mas_f14_monika_vday_origins_b687fab8:
-    m 1euc "そして刑の執行まで牢に繋がれている間、バレンタインは世話役の娘と仲良くなって、その娘の悪かった目を治したの。そのときにふたりは恋に落ちたという話もあるわね。"
+    m 1euc "そして刑の執行まで牢に繋がれている間、バレンタインは世話役の娘と仲良くなって、その娘の悪かった目を治したの。そのときにふたりは恋に落ちたという話もあるわね"
 
 translate Japanese mas_f14_monika_vday_origins_eb2926e2:
-    m 3euc "でも目を治したからって、バレンタインの死刑はなくなるわけじゃなかった。バレンタインは死刑が執行される前に、娘に『Your Valentine』と署名をした手紙を送ったそうよ。"
+    m 3euc "でも目を治したからって、バレンタインの死刑はなくなるわけじゃなかった。バレンタインは死刑が執行される前に、娘に『Your Valentine』と署名をした手紙を送ったそうよ"
 
 translate Japanese mas_f14_monika_vday_origins_837c03f0:
-    m 1dsc "バレンタインの刑は西暦269年の2月14日に執行されたわ。そしてのちに彼はキリスト教の聖人に認定されて、聖バレンタインとなったの。"
+    m 1dsc "バレンタインの刑は西暦269年の2月14日に執行されたわ。そしてのちに彼はキリスト教の聖人に認定されて、聖バレンタインとなったの"
 
 translate Japanese mas_f14_monika_vday_origins_cd6f1827:
-    m 3eua "今でもバレンタインデーのラブレターに『Your Valentine』と書いて送ることがあるけど、それはこの話が由来ね。"
+    m 3eua "今でもバレンタインデーのラブレターに『Your Valentine』と書いて送ることがあるけど、それはこの話が由来ね"
 
 translate Japanese mas_f14_monika_vday_origins_d1c7d0b7:
     m 3eud "あ、待って！ この話にはまだ続きあるの！"
 
 translate Japanese mas_f14_monika_vday_origins_a79f90a0:
-    m "ルペルカーリア祭という古いローマの祭りが毎年2月14日付近に行われていたの。"
+    m "ルペルカーリア祭という古いローマの祭りが毎年2月14日付近に行われていたの"
 
 translate Japanese mas_f14_monika_vday_origins_6aa0336e:
     m 3eua "その祭りにはくじを引いてカップルを作るイベントがあって"
@@ -3494,10 +3494,10 @@ translate Japanese mas_f14_monika_vday_origins_20708783:
     m 3eub "合わさったふたりが祭りを一緒に過ごして、お互いが気に入ったなら結婚に至ることもあったの！"
 
 translate Japanese mas_f14_monika_vday_origins_c63f7cf3:
-    m 1eua "このお祭りが、いろいろあって聖バレンタインの死を悼むキリスト教の祭典に変化したそうよ。"
+    m 1eua "このお祭りが、いろいろあって聖バレンタインの死を悼むキリスト教の祭典に変化したそうよ"
 
 translate Japanese mas_f14_monika_vday_origins_2ee471f7:
-    m 3hua "そして何百年もの月日が経ち、祝う内容も変化して現代では愛する人へ自分の思いを伝える日になったの。"
+    m 3hua "そして何百年もの月日が経ち、祝う内容も変化して現代では愛する人へ自分の思いを伝える日になったの"
 
 translate Japanese mas_f14_monika_vday_origins_84f02b96:
     m 3eubsb "……今私たちがやっているようにね！"
@@ -3506,7 +3506,7 @@ translate Japanese mas_f14_monika_vday_origins_966037dc:
     m 1ekbsa "バレンタインデーの始まりはお祝いできるような日じゃなかったのに、素敵な日になったと思わない？"
 
 translate Japanese mas_f14_monika_vday_origins_14d2a314:
-    m 1ekbsu "そんな不思議で素敵な日に、一緒に居られて嬉しいな。{w=0.2}{nw}"
+    m 1ekbsu "そんな不思議で素敵な日に、一緒に居られて嬉しいな{w=0.2}{nw}"
 
 translate Japanese mas_f14_monika_vday_origins_daebbbf4:
     extend 1ekbfa "ハッピーバレンタイン、[mas_get_player_nickname()]君～"

@@ -194,10 +194,10 @@ translate Japanese greeting_goodmorning_3ba9896c:
     m 1eka "ちゃんと体調には気をつけてる？"
 
 translate Japanese greeting_goodmorning_4a9c9cf3:
-    m 1hub "あなたの彼女で良かったって、今日も思いたいんだから。"
+    m 1hub "あなたの彼女で良かったって、今日も思いたいんだから"
 
 translate Japanese greeting_goodmorning_02201606:
-    m 1hua "こんにちは、[mas_get_player_nickname()]。"
+    m 1hua "こんにちは、[mas_get_player_nickname()]"
 
 translate Japanese greeting_goodmorning_b522a843:
     m 1eka "ストレス感じてたりはしない？大丈夫？"
@@ -275,7 +275,7 @@ translate Japanese greeting_back3_40edf24a:
     m 1eka "すごくさびしかったよ～[player]君！"
 
 translate Japanese greeting_back3_b6ecbbac:
-    m "戻ってきてくれてありがとう。ふたりでこうしているの、大好きなんだ。"
+    m "戻ってきてくれてありがとう。ふたりでこうしているの、大好きなんだ"
 
 translate Japanese greeting_back4_95e8c1b3:
     m 2wfx "ねぇ、[player]君！"
@@ -293,7 +293,7 @@ translate Japanese greeting_back4_5b0ad505:
     m 2eka "なーんて。怒ったりなんかしないよ？"
 
 translate Japanese greeting_visit2_3abdb09f:
-    m 1hua "長い時間一緒にいてくれてありがとう。"
+    m 1hua "長い時間一緒にいてくれてありがとう"
 
 translate Japanese greeting_visit2_7504e01c:
     m 1eka "あなたと一緒だと天国にいるみたい！"
@@ -1274,7 +1274,7 @@ translate Japanese greeting_japan_310d5370:
     m 3eua "[mas_get_player_nickname()]君、どういう意味かわかる？"
 
 translate Japanese greeting_japan_6bd70721:
-    m 4ekbsa "{i}'私は永遠にあなたのもの'{/i}って意味よ。"
+    m 4ekbsa "{i}'私は永遠にあなたのもの'{/i}って意味よ"
 
 translate Japanese greeting_japan_a18c76a2:
     m 4hub "ワタシ ワ イツマデモ アナタ ノ モノ デス！"
@@ -1355,7 +1355,7 @@ translate Japanese greeting_french_9553aee6:
     m 3hksdlb "フランス語の勉強をしてたの。さっきのは「あなたってとても綺麗な瞳をしていますね」って言っただけ〜"
 
 translate Japanese greeting_french_d5de7367:
-    m 1eka "フランス語ってすごくロマンチックな言語だね、[player]。"
+    m 1eka "フランス語ってすごくロマンチックな言語だね、[player]"
 
 translate Japanese greeting_french_4ac0dd61:
     m 1hua "いつか二人で練習できるかもしれないね、モナムール〜"
@@ -1964,8 +1964,8 @@ translate Japanese greeting_long_absence_68eb5ac0:
 translate Japanese greeting_long_absence_a1888459:
     m 1hua "今日の残った時間は一緒に楽しもうね"
 
-translate Japanese greeting_long_absence_cac43391:
-    m 1hua "わあ[player]！"
+translate Japanese greeting_long_absence_0cee461b:
+    m 1hua "わあ、[player]！"
 
 translate Japanese greeting_long_absence_02b635d3:
     m 3eka "ここ２週間くたらいは忙しかったのかな？"
@@ -3157,7 +3157,7 @@ translate Japanese greeting_back_from_game_e56693d7:
     m 1eua "もしかして、今起きたの？{nw}"
 
 translate Japanese greeting_back_from_game_d8174f50:
-    m "もしかして、今起きたの？{fast}"
+    m "もしかして、今起きたの？{fast}" nointeract
 
 translate Japanese greeting_back_from_game_7331c613:
     m 1hksdlb "あはは……"

@@ -5,7 +5,7 @@ translate Japanese mas_backups_you_have_corrupted_persistent_10227717:
     "すっごく言いにくいことなんだけど……"
 
 translate Japanese mas_backups_you_have_corrupted_persistent_7bb9f2db:
-    "あなたの部長さんのファイルが壊れてしまったの。"
+    "残念ながら、あなたの部長さんのファイルが壊れてしまったの。"
 
 translate Japanese mas_backups_you_have_corrupted_persistent_6d8df287:
     "それで……もっと言いにくいんだけど……"

@@ -1007,17 +1007,20 @@ translate Japanese mas_reaction_gift_chocolates_8cda0eb0:
 translate Japanese mas_reaction_gift_chocolates_d3540c37:
     m 1ekbsa "どうしたら女の子が幸せな気持ちになれるかよくわかってるね、[player]君"
 
-translate Japanese mas_reaction_gift_chocolates_2_6c54ed1f:
+translate Japanese mas_reaction_gift_chocolates_6c54ed1f:
     m 1eka "[player]、またチョコをくれたの？"
 
-translate Japanese mas_reaction_gift_chocolates_2_7d18d591:
-    m 3tku "あなたって本当に私を甘やかすのが大好きなんだから、あはは！"
+translate Japanese mas_reaction_gift_chocolates_4db4341a:
+    m 3tku "あなたって本当に私を甘やかすのが大好きなんだから、{w=0.2}{nw}"
 
-translate Japanese mas_reaction_gift_chocolates_2_4e346153:
+translate Japanese mas_reaction_gift_chocolates_4728e9ab:
+    extend 3tub "あはは！"
+
+translate Japanese mas_reaction_gift_chocolates_4e346153:
     m 1rksdla "でもまだあなたがくれたチョコの箱も食べ終わってないんだよね……"
 
-translate Japanese mas_reaction_gift_chocolates_2_8a20c104:
-    m 1hub "…でもありがとう！"
+translate Japanese mas_reaction_gift_chocolates_8a20c104:
+    m 1hub "……でもありがとう！"
 
 translate Japanese mas_reaction_gift_chocolates_6e92af18:
     m 1ekd "ねえ[player]君……"
@@ -1031,14 +1034,14 @@ translate Japanese mas_reaction_gift_chocolates_9e7d0a90:
 translate Japanese mas_reaction_gift_chocolates_e8f8dbb9:
     m 1eka "だから、また別の日のためにそのプレゼントは取っておいてね？"
 
-translate Japanese mas_reaction_gift_chocolates_3_046f1f31:
+translate Japanese mas_reaction_gift_chocolates_046f1f31:
     m 2tfd "[player]君！"
 
-translate Japanese mas_reaction_gift_chocolates_3_235e1654:
+translate Japanese mas_reaction_gift_chocolates_235e1654:
     m 2tkc "今日はもうチョコは十分だって言ったよね？ なんでまた贈ってきたの…？"
 
-translate Japanese mas_reaction_gift_chocolates_3_89a0ff27:
-    m 2eksdla "お願いだから…{w=1} 贈るならまた別の日にして"
+translate Japanese mas_reaction_gift_chocolates_89a0ff27:
+    m 2eksdla "お願いだから……{w=1} 贈るならまた別の日にして"
 
 translate Japanese mas_remove_choc_bf07de9c:
     m 1hua "……"
@@ -1187,8 +1190,8 @@ translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_bd217a82:
 translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_11168006:
     m 1suo "マフラーも付いてる！"
 
-translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_73d43795:
-    m 3rksdla "…見ているだけで暑くなってきちゃう、あはは……"
+translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_a442e4f9:
+    m 3rksdlu "……見ているだけで暑くなってきちゃう、あはは……"
 
 translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_a87e4fab:
     m 3eksdla "これは夏に着ていいものじゃないわね、[player]"

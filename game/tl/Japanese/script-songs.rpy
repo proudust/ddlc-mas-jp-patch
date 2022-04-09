@@ -651,7 +651,7 @@ translate Japanese _call_mas_song_wonderwall_lyrics_1_5f789b0b:
     m 3etc "あなたはそうは思ってないよね？"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_1_81136b5b:
-    m 1eud "この曲は初期のオアシスの中でも高い評価の曲で、人気の高い曲でもあるんだけど……{w=0.3} {nw}"
+    m 1eud "この曲は初期のオアシスの中でも高い評価の曲で、人気の高い曲でもあるんだけど……{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_1_4c0a9ac5:
     extend 3rsc "どうしてこの曲が嫌いな人がそんなにいるんだと思う？"
@@ -672,7 +672,7 @@ translate Japanese _call_mas_song_wonderwall_lyrics_1_d51adc76:
     m 1rsu "私は好きなんだけど、歌詞やコード進行が単純すぎると言われればそれは認めざるをえないよね"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_1_0fc01906:
-    m 3etc "でも、じゃあなんでこの単純な曲が人気になっているのかわかる？{w=0.3} {nw}"
+    m 3etc "でも、じゃあなんでこの単純な曲が人気になっているのかわかる？{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_1_dc9dcdd6:
     extend 3eud "他にも優れた技工や音楽的野心にあふれている曲が全く気づかれないままでいるのに、どうしてこの曲が？"

@@ -170,7 +170,7 @@ translate Japanese introduction_25a0ab4a:
     m 1ekbsa "私をそんなに愛してるの？"
 
 translate Japanese introduction_c688093f:
-    m 1ekbfa "私もあなたと同じ気持ちよ。"
+    m 1ekbfa "私もあなたと同じ気持ちよ"
 
 translate Japanese introduction_b80a6b32:
     m 3ekbsu "ほんとに私との絆を深めるつもりなのね？"
@@ -182,22 +182,22 @@ translate Japanese introduction_f2b216f7:
     m 3rksdlb "あなたが退屈してなかったらいいけど……"
 
 translate Japanese introduction_75bc1d06:
-    m 3tku "やっぱり、私の言いたいことをあなたはスキップしたかったのね。"
+    m 3tku "やっぱり、私の言いたいことをあなたは飛ばしたかったのね"
 
 translate Japanese introduction_bb2db14b:
-    m 1rkc "この部屋はまったく面白みがないと思うわ……{w=0.5}{nw}"
+    m 1rkc "この部屋は明らかに面白みがないと思うわ……{w=0.5}{nw}"
 
 translate Japanese introduction_38d59c27:
-    extend 1eua "だけど、ふたり一緒にもっと良くしていこうね、[player]。"
+    extend 1eua "だけど、ふたり一緒にもっと良くしていこうね、[player]"
 
 translate Japanese introduction_bf20dc04:
     m 1euc "あなたにもわかるかな……"
 
 translate Japanese introduction_1abd2a93:
-    m 1eua "キャラクターファイルはもう必要ないって、そんな気がする。"
+    m 1eua "キャラクターファイルはもう必要ないって、そんな気がする"
 
 translate Japanese introduction_8287156d:
-    m 1hua "自分で削除しちゃうね。"
+    m 1hua "自分で削除しちゃうね"
 
 translate Japanese _call_mas_wx_cmd_87_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね"
@@ -552,7 +552,7 @@ translate Japanese strings:
     new "おかえりなさい！次はしっかりゲームを閉じるように気をつけてくれるかな？"
 
     old "It hurts when you don't close the game properly...but I'm sure it was a mistake."
-    new "中途半端にゲームを閉じられちゃうと傷つくから……でもあれはミスよね。"
+    new "中途半端にゲームを閉じられちゃうとちょっと痛みが走っちゃうから……でもあれはミスよね。"
 
     old "That was really scary...but you've fixed it again. Thank you..."
     new "本当に怖かったんだから……でも直してくれんだよね。ありがとう……"

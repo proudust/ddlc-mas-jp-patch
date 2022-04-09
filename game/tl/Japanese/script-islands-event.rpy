@@ -380,7 +380,7 @@ translate Japanese mas_island_shimeji_d7d68d70:
     m "どうやったらそこに来れるの？"
 
 translate Japanese mas_island_shimeji_8fbdc8c9:
-    m "ちょっとまって, [player].{w=0.2}.{w=0.2}.{w=0.2}{nw}"
+    m "ちょっとまって、[player]{w=0.2}…{w=0.2}…{w=0.2}{nw}"
 
 translate Japanese mas_island_shimeji_25d32cd3:
     m "はい、できた！"
@@ -422,22 +422,22 @@ translate Japanese mas_island_bookshelf1_6e3fcff1:
     m "いつか[player]君と一緒に読んでみたいな～"
 
 translate Japanese mas_island_bookshelf2_445d5105:
-    m "雪がちょっとぐらい降ったって、外で読書してもいいじゃないの。"
+    m "雪がちょっとぐらい降ったって、外で読書してもいいじゃないの"
 
 translate Japanese mas_island_bookshelf2_9e0315b2:
-    m "だけど、暖かいコート、分厚いスカーフ、手袋がなきゃ、外に出る気にはならないわね。"
+    m "だけど、暖かいコート、分厚いスカーフ、手袋がなきゃ、外に出る気にはならないわね"
 
 translate Japanese mas_island_bookshelf2_64f30ad1:
-    m "手袋をしたままページをめくるのって、少し手間取るかもしれないね、あはは..."
+    m "手袋をしたままページをめくるのって、少し手間取るかもしれないね、あはは……"
 
 translate Japanese mas_island_bookshelf2_9d8d0bf4:
-    m "でも多分きっとなるでしょ。"
+    m "でも多分きっとなるでしょ"
 
 translate Japanese mas_island_bookshelf2_26116031:
     m "[player]君、もしかして違う？"
 
 translate Japanese mas_island_bookshelf2_5e66c502:
-    m "雨の日に窓を開けたまま、家で読書をすると、とっても心が安らぐのよ。"
+    m "雨の日に窓を開けたまま、家で読書をすると、とっても心が安らぐのよ"
 
 translate Japanese mas_island_bookshelf2_5325f703:
     m "本を外に置いたりしなければの話だけどね……"
