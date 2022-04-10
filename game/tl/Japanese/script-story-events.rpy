@@ -1210,7 +1210,7 @@ translate Japanese mas_covid19_01a93df6:
 translate Japanese mas_covid19_c61f257d:
     m 2dkc "……"
 
-translate Japanese mas_covid19_01cc468e:
+translate Japanese mas_covid19_76745c7d:
     m 2rksdlc "ごめんなさい、[player]。いまのを聞いて、不安になっちゃって。"
 
 translate Japanese mas_covid19_d0e17947:

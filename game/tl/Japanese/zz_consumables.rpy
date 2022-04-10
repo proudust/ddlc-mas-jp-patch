@@ -43,10 +43,10 @@ translate Japanese mas_consumables_generic_finished_prepping_a644a99b:
 translate Japanese mas_consumables_generic_finished_prepping_014c9fc2:
     m 1eua "[consumable.disp_name!t]取ってくるわ。直ぐ戻るから{w=1}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_2_cd3329c1:
+translate Japanese _call_mas_transition_from_emptydesk_9_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_21_7a2f3a16:
+translate Japanese _call_mas_transition_from_emptydesk_9_7a2f3a16:
     m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_refill_explain_819b455e:

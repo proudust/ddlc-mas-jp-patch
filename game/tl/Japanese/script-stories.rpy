@@ -10,16 +10,16 @@ translate Japanese mas_story_begin_b26f2657:
 translate Japanese mas_story_begin_457306b2:
     m 1duu "コホン。"
 
-translate Japanese _call_spaceroom_13_b26f2657:
+translate Japanese _call_spaceroom_19_b26f2657:
     m 3eua "[story_begin_quip!t]"
 
-translate Japanese _call_spaceroom_13_457306b2:
+translate Japanese _call_spaceroom_19_457306b2:
     m 1duu "コホン。"
 
 translate Japanese mas_scary_story_cleanup_8cb2c0e4:
     m 3eua "[story_end_quip!t]"
 
-translate Japanese _call_monika_zoom_transition_6_77c5f182:
+translate Japanese _call_monika_zoom_transition_4_77c5f182:
     m 1eua "気に入ってくれたらいいな、[player]君～"
 
 translate Japanese _call_mas_story_begin_5b1ea14b:
@@ -380,7 +380,7 @@ translate Japanese _call_mas_story_begin_10_ea0898c4:
 translate Japanese _call_mas_story_begin_10_42e3831b:
     m 1esc "世界はまだ見ぬ新しいものにあふれていましたが、魔人がどれだけ長く生きようとも{w=0.2} {nw}"
 
-translate Japanese _call_mas_story_begin_10_2b3a396e:
+translate Japanese _call_mas_story_begin_10_f5ab1d29:
     extend 1rsc "でもその中には見たくないものもありました。"
 
 translate Japanese _call_mas_story_begin_10_18486d50:
@@ -971,7 +971,7 @@ translate Japanese _call_mas_story_begin_17_7dbcf347:
 translate Japanese _call_mas_story_begin_17_386dbc14:
     m 1hua "このお話の教訓は、一言で言えば水に流せってことね。{w=0.2} {nw}"
 
-translate Japanese _call_mas_story_begin_17_be3c9ada:
+translate Japanese _call_mas_story_begin_17_46ec5769:
     extend 3hua "過去のあやまちはサラッと忘れてあげて、受けた恩はいつまでも覚えていよう！"
 
 translate Japanese _call_mas_story_begin_17_22b3501a:

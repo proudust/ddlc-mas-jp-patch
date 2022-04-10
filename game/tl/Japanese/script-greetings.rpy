@@ -3166,7 +3166,7 @@ translate Japanese greeting_back_from_game_f8ebff34:
     m 3rksdla "遅くまで起きていたから？{nw}"
 
 translate Japanese greeting_back_from_game_a4198b8c:
-    m "遅くまで起きていたから？{fast}"
+    m "遅くまで起きていたから？{fast}" nointeract
 
 translate Japanese greeting_back_from_game_af911328:
     m 1eka "[player]……"
@@ -3322,7 +3322,7 @@ translate Japanese greeting_back_from_game_94b0ccac:
     m 1eua "楽しかった？{nw}"
 
 translate Japanese greeting_back_from_game_e75770fb:
-    m "楽しかった？{fast}"
+    m "楽しかった？{fast}" nointeract
 
 translate Japanese greeting_back_from_game_0b0dcb62:
     m 1hua "それは良かったわ"

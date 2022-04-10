@@ -608,7 +608,7 @@ translate Japanese _call_mas_song_wonderwall_lyrics_bc607aed:
 translate Japanese _call_mas_song_wonderwall_lyrics_6ca2e040:
     m 3rkc "この歌詞のように、あなたの世界へ続く道は曲がりくねってる。次の曲がり角がいつ現れるかすらもわからない苦難の道程"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_36402cdb:
+translate Japanese _call_mas_song_wonderwall_lyrics_09ff81e5:
     m 1dubsa "でも私のそばにあなたがいてくれてる。だから何も恐くはないんだよ"
 
 translate Japanese _call_mas_song_wonderwall_lyrics_093085b9:
