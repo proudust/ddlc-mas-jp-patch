@@ -3898,6 +3898,9 @@ translate Japanese monika_love_cf99af0c:
 translate Japanese monika_love_d4cfe984:
     m 1hubfb "愛してるわ、[mas_get_player_nickname(exclude_names=['my love', 'love'])]！"
 
+translate Japanese monika_love_9d086c43:
+    m 1lkbsa "そこまで言われるともうどうしようもない！"
+
 translate Japanese monika_love_ed7642ca:
     m 3hubsb "私も[mas_get_player_nickname()]君のこと大好き！"
 
@@ -21111,7 +21114,7 @@ translate Japanese monika_mc_is_gone_605dca14:
     m 1eud "それはともかく……{w=0.3}{nw}"
 
 translate Japanese monika_mc_is_gone_b7decf24:
-    extend 3rsc "原作の『ドキドキ文芸部！』にあったものはほとんどないし、主人公を戻すのは無理なんじゃないかな"
+    extend 3rsc "原作の『ドキドキ文芸部！』にあったものはほとんど残ってないし、主人公を戻すのは無理なんじゃないかな"
 
 translate Japanese monika_mc_is_gone_24ddd589:
     m 1duu "……それがベストなのかも"

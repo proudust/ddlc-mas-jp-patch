@@ -14,7 +14,7 @@ translate Japanese _call_spaceroom_19_b26f2657:
     m 3eua "[story_begin_quip!t]"
 
 translate Japanese _call_spaceroom_19_457306b2:
-    m 1duu "コホン。"
+    m 1duu "コホン"
 
 translate Japanese mas_scary_story_cleanup_8cb2c0e4:
     m 3eua "[story_end_quip!t]"
@@ -2079,10 +2079,10 @@ translate Japanese strings:
     new "準備はいい？ いくわよ？"
 
     old "Alright let's start the story."
-    new "それじゃあ始めましょうか。"
+    new "それじゃあ始めましょうか"
 
     old "Let's begin."
-    new "さあ始めましょうか。"
+    new "さあ始めましょうか"
 
     old "Scared, [player]?"
     new "怖かった？ [player]君？"

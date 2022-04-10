@@ -1038,7 +1038,7 @@ translate Japanese mas_reaction_gift_chocolates_046f1f31:
     m 2tfd "[player]君！"
 
 translate Japanese mas_reaction_gift_chocolates_235e1654:
-    m 2tkc "今日はもうチョコは十分だって言ったよね？ なんでまた贈ってきたの…？"
+    m 2tkc "今日はもうチョコは十分だって言ったよね？ なんでまた贈ってきたの……？"
 
 translate Japanese mas_reaction_gift_chocolates_89a0ff27:
     m 2eksdla "お願いだから……{w=1} 贈るならまた別の日にして"
