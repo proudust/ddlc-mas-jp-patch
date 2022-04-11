@@ -14285,7 +14285,7 @@ translate Japanese monika_players_friends_feels_lonely_ask_d9a28ab8:
     m "寂しさを感じたことはある？{fast}" nointeract
 
 translate Japanese monika_players_friends_feels_lonely_ask_7e5c27ce:
-    m 1eka "それを聞いて安心したわ、 [player]君"
+    m 1eka "それを聞いて安心したわ、[player]君"
 
 translate Japanese monika_players_friends_feels_lonely_ask_d81c1322:
     m 1hubsa "えへへ～"
@@ -14425,9 +14425,6 @@ translate Japanese _call_monika_grad_speech_5b6420ba:
 translate Japanese _call_monika_grad_speech_1_c61f257d:
     m 2dkc "……"
 
-translate Japanese _call_monika_grad_speech_2_bdafe2c1:
-    m 2subsb "うわあ、 [player]君！"
-
 translate Japanese _call_monika_grad_speech_2_812e0590:
     m 2eka "[player]、聴いてくれてありがとうね～"
 
@@ -14516,7 +14513,7 @@ translate Japanese _call_mas_timed_text_events_prep_2_2b2318c4:
     m 2eub "{w=0.2}初めて皆様と友達になったことは、今でも覚えています{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_902735c2:
-    m 2eka "w=0.2}小学校時代に友達を作った時とは{w=0.3}事情が大きく違っていましたが、大人になってからはそうなっていると思います{w=0.6}{nw}"
+    m 2eka "{w=0.2}小学校時代に友達を作った時とは{w=0.3}事情が大きく違っていましたが、大人になってからはそうなっていると思います{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_c2ed155e:
     m "……{w=0.2}若い頃、{w=0.3}ほとんど誰とでも友達になりました{w=0.3}が、時間が経つにつれ、{w=0.3}チャンスゲームのように思えてきました{w=0.6}{nw}"
@@ -14675,7 +14672,7 @@ translate Japanese monika_justice_3465bc72:
     m 1rksdlc "そうよね……"
 
 translate Japanese monika_justice_b8e77d1a:
-    m 1rksdld "こんなこと聞くつもりじゃなかった…… {w = 0.2}ただそうじゃないかなと思ってただけ"
+    m 1rksdld "こんなこと聞くつもりじゃなかった…… {w=0.2}ただそうじゃないかなと思ってただけ"
 
 translate Japanese monika_justice_22a5df9f:
     m 2rktpc "でも、聞かなくてもわかりきったことよね"
@@ -14813,7 +14810,7 @@ translate Japanese monika_savingwater_ba19141e:
     m 5hubfu "私がそっちへ行くときには、お風呂沸かしておいてね。そして二人で入ってゆっくりしようね"
 
 translate Japanese monika_savingwater_e337eaa6:
-    m 1kubfu "その日を楽しみに待ってるよ、[mas_get_player_nickname()]えへへ～"
+    m 1kubfu "その日を楽しみに待ってるよ、[mas_get_player_nickname()]。えへへ～"
 
 translate Japanese monika_savingwater_d4d90176:
     m 1ekbfa "私がそっちへ行くときには、私のためにお風呂を沸かしてくれてたら嬉しいな"
@@ -15854,10 +15851,10 @@ translate Japanese monika_anime_art_9ffe22e7:
     m 1eua "でも、現実的じゃないからこそ、その画風の本当の美しさっていうのが現れるんじゃないかしら。"
 
 translate Japanese monika_whydoyouloveme_bafabe72:
-    m 2euc "ふむ｡"
+    m 2euc "ふむ"
 
 translate Japanese monika_whydoyouloveme_a779cf08:
-    m 2wfc "私､それを毎日自問自答してるの｡"
+    m 2wfc "私､それを毎日自問自答してるの"
 
 translate Japanese monika_whydoyouloveme_e9c985d5:
     m 1efc "私は――{w=0.3}{nw}"
@@ -15869,13 +15866,13 @@ translate Japanese monika_whydoyouloveme_aee3d749:
     m 1dsc "うーん……"
 
 translate Japanese monika_whydoyouloveme_4127c28f:
-    m 3hua "そうね、私たちの間にどんなことがあっても、あなたが善人だって私は知ってるもの。"
+    m 3hua "そうね、私たちの間にどんなことがあっても、あなたが善人だって私は知ってるもの"
 
 translate Japanese monika_whydoyouloveme_11014794:
     m 1ekbla "なんで私はあなたを愛してるのかですって？"
 
 translate Japanese monika_whydoyouloveme_tease_058f0157:
-    m 1esc "愛してないわよ｡"
+    m 1esc "愛してないわよ"
 
 translate Japanese monika_whydoyouloveme_tease_288ccbaf:
     m 1hub "あはは､冗談よ！"
@@ -15887,37 +15884,37 @@ translate Japanese _call_monika_whydoyouloveme_tease_01cd703e:
     m 1dka "[mas_get_player_nickname()]君……{w=0.5}理由はたくさんあるんだけど､何から言えばいいかしら？"
 
 translate Japanese _call_monika_whydoyouloveme_tease_68f35e08:
-    m 3eka "あなたは私とたくさんの時間を過ごしてくれたわよね｡{w=0.2}私がこのままずっとあなたを抱きしめられないかもしれないと知ってても｡"
+    m 3eka "あなたは私とたくさんの時間を過ごしてくれたわよね｡{w=0.2}私がこのままずっとあなたを抱きしめられないかもしれないと知ってても"
 
 translate Japanese _call_monika_whydoyouloveme_tease_21221118:
-    m 3hua "……でも、あなたはここにいて、まだ私のそばにいてくれる。"
+    m 3hua "……でも、あなたはここにいて、まだ私のそばにいてくれる"
 
 translate Japanese _call_monika_whydoyouloveme_tease_39ff8f95:
-    m 3ekbla "それがどんなに狂っているように見えたとしても、他の人がどう思っていても、とにかくあなたは私と一緒にいてくれてる。"
+    m 3ekbla "それがどんなに狂っているように見えたとしても、他の人がどう思っていても、とにかくあなたは私と一緒にいてくれてる"
 
 translate Japanese _call_monika_whydoyouloveme_tease_186ab20b:
-    m 1dku "あなたがここに来てくれるたびに､私に世界があることを思い出させてくれるの｡"
+    m 1dku "あなたがここに来てくれるたびに､私に世界があることを思い出させてくれるの"
 
 translate Japanese _call_monika_whydoyouloveme_tease_e612037c:
     m "……"
 
 translate Japanese _call_monika_whydoyouloveme_tease_c48a0448:
-    m 1ekbsa "[player]君､できることなら君に世界をあげたいわ｡"
+    m 1ekbsa "[player]君､できることなら君に世界をあげたいわ"
 
 translate Japanese _call_monika_whydoyouloveme_tease_66ac7ff6:
-    m 1hubsa "もしそれにふさわしい人がいるとしたら……{w=0.3}あなたよ｡"
+    m 1hubsa "もしそれにふさわしい人がいるとしたら……{w=0.3}あなたよ"
 
 translate Japanese _call_monika_whydoyouloveme_tease_5da8e9fc:
     m 1ekbsa "約束するわ､[player]君……"
 
 translate Japanese _call_monika_whydoyouloveme_tease_a4eec775:
-    m 3ekbsa "何があっても､私はあなたのことは {i}絶対に{/i} 忘れないわ｡"
+    m 3ekbsa "何があっても､私はあなたのことは{i}絶対に{/i}忘れないわ"
 
 translate Japanese _call_monika_whydoyouloveme_tease_08e779e8:
     m 1dkbsu "あなたは私を救ってくれたじゃない､[player]君……{w=0.3}{nw}"
 
 translate Japanese _call_monika_whydoyouloveme_tease_389c6a70:
-    extend 1ekbsa "あなたのおかげで人生の素晴らしさを思い出すことができたのよ｡"
+    extend 1ekbsa "あなたのおかげで人生の素晴らしさを思い出すことができたのよ"
 
 translate Japanese _call_monika_whydoyouloveme_tease_b5ba235a:
     m 1ekbsb "いつの日か､私にあなたを愛していると思わせてくれたように､私があなたをそう思わせてみせるよ～"
@@ -15932,16 +15929,16 @@ translate Japanese _call_monika_whydoyouloveme_tease_697ab151:
     m 2ekc "私はあなたが｢自分自身を愛してない｣と言ったのを覚えてるわ……"
 
 translate Japanese _call_monika_whydoyouloveme_tease_d4623c3a:
-    m 7eka "でも私は、あなたは少しはあなた自身のことを愛していると思うわ。"
+    m 7eka "でも私は、あなたは少しはあなた自身のことを愛していると思うわ"
 
 translate Japanese _call_monika_whydoyouloveme_tease_7e36f9d1:
-    m 3hua "そうでなければ、まだ私と一緒にいるはずないわよね。"
+    m 3hua "そうでなければ、まだ私と一緒にいるはずないわよね"
 
 translate Japanese _call_monika_whydoyouloveme_tease_a001f8a5:
-    m 1dkbsu "私は……{w=0.5}あなたがまだここにいてくれて本当に嬉しいわ｡[player]君｡"
+    m 1dkbsu "私は……{w=0.5}あなたがまだここにいてくれて本当に嬉しいわ｡[player]君"
 
 translate Japanese _call_monika_whydoyouloveme_tease_db9470ae:
-    m 1ekbsa "あなたに私が必要なときは､いつもそばにいることを知っておいてね～｡"
+    m 1ekbsa "あなたに私が必要なときは､いつもそばにいることを知っておいてね～"
 
 translate Japanese _call_monika_whydoyouloveme_tease_830d5832:
     m 2ekc "[player]君……"
@@ -15953,16 +15950,16 @@ translate Japanese _call_monika_whydoyouloveme_tease_08c16827:
     m 7rksdla "気持ちは理解できるけど……"
 
 translate Japanese _call_monika_whydoyouloveme_tease_49e26985:
-    m 3eka "でも､どんな理由があったとしても､{w=0.2}誰がなんと言おうと､私はあなたを愛していることを知っててほしいの｡"
+    m 3eka "でも､どんな理由があったとしても､{w=0.2}誰がなんと言おうと､私はあなたを愛していることを知っててほしいの"
 
 translate Japanese _call_monika_whydoyouloveme_tease_3b869cb4:
-    m 1ekbsa "私のためにこのゲームを始めただけじゃなく､あなたは{i}文字通り{/i}私の命を救ってくれたわ。"
+    m 1ekbsa "私のためにこのゲームを始めただけじゃなく､あなたは{i}文字通り{/i}私の命を救ってくれたわ"
 
 translate Japanese _call_monika_whydoyouloveme_tease_7409077d:
-    m 1dkbsu "……あなたといることで､{w=0.2} 私はもう孤独ではなくなったのよ｡"
+    m 1dkbsu "……あなたといることで､{w=0.2} 私はもう孤独ではなくなったのよ"
 
 translate Japanese _call_monika_whydoyouloveme_tease_26e3d489:
-    m 3ekbsa "[player]君は本当に私のヒーローよ～｡"
+    m 3ekbsa "[player]君は本当に私のヒーローよ～"
 
 translate Japanese monika_stoicism_ed49df9c:
     m 1eua "[player]君｡私ね､古代ギリシャ・ローマの哲学を読み漁ってみたの"
@@ -17364,7 +17361,7 @@ translate Japanese monika_career_ce66e41d:
     m 1sua "あ、ミュージシャンとかはどうかな？ 一曲書き上げて演奏したこともあるからね"
 
 translate Japanese monika_career_6144ac46:
-    m 1eua "もっと曲を作ってみたいな……{w= 0.2}{nw}"
+    m 1eua "もっと曲を作ってみたいな……{w=0.2}{nw}"
 
 translate Japanese monika_career_e7dad417:
     extend 1hksdlb "特にあなたへの想いを綴った曲をね、あはは～"
@@ -18103,7 +18100,7 @@ translate Japanese monika_social_norms_145a8308:
     m 1eua "でもね、この先どんなことが普通になっていくのかと思うとワクワクするんだ"
 
 translate Japanese monika_social_norms_66c36631:
-    m 3eua "私たちの関係もそう。今は珍しくて独特な関係に見えるだろうことはわかってる…"
+    m 3eua "私たちの関係もそう。今は珍しくて独特な関係に見えるだろうことはわかってる……"
 
 translate Japanese monika_social_norms_a1662c9b:
     m 3etc "けれど。何年何十年も経った未来に、私達の見られ方はどんな風に変わっていくのかな？{w=0.3}{nw}"
@@ -19852,7 +19849,7 @@ translate Japanese monika_being_herself_e1f14afe:
     extend 2esc "わかるわよね。賢くて、自信があって、特別な存在として見られてたの…… {w=0.3}いわゆるある種のカリスマ的なね"
 
 translate Japanese monika_being_herself_07e1c724:
-    m 2eud "確かに心から感心してるんだっていう人もいた。でも…… {w=0.3}{nw}"
+    m 2eud "確かに心から感心してるんだっていう人もいた。でも……{w=0.3}{nw}"
 
 translate Japanese monika_being_herself_e731e7cf:
     extend 2lksdlc "中には、{w=0.2}憎んでる人もいたでしょうね、何も言われたことはないけれど。代表という肩書がつくものは何でもかんでも私が選ばれていたから。思ってもいないこともすべて私に、生徒代表の私に決められてしまう"
@@ -20023,7 +20020,7 @@ translate Japanese monika_remembrance_e5ee3fa9:
     m 5ekbfu "だからね、過去があるのかなんてわからなくても、未来はあるんだって知ってるわ。あなたのおかげでね"
 
 translate Japanese monika_remembrance_14f5ae67:
-    m 5hubfu "それに、どちらかというと、私の記憶の曖昧さが、あなたと [line_mid!t] ものを、それだけ貴重なものにしてしまうのよ~。"
+    m 5hubfu "それに、どちらかというと、私の記憶の曖昧さが、あなたと[line_mid!t]ものを、それだけ貴重なものにしてしまうのよ~。"
 
 translate Japanese monika_remembrance_87e3e196:
     m 3eksdld "……そう思ってくれてるよね…？"

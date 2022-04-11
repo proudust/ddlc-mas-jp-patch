@@ -803,19 +803,19 @@ translate Japanese bye_prompt_game_2ed3588d:
     m 2ekc "うん……"
 
 translate Japanese bye_prompt_game_3f19846a:
-    m 3ekc "わかったわ、でもすぐに戻ってきた方がいいわよ。"
+    m 3ekc "わかったわ、でもすぐに戻ってきた方がいいわよ"
 
 translate Japanese bye_prompt_game_0c549b9c:
-    m 3tsb "私なしで別のゲームにお熱だと私、嫉妬しちゃうかもしれないから。"
+    m 3tsb "私なしで別のゲームにお熱だと私、嫉妬しちゃうかもしれないから"
 
 translate Japanese bye_prompt_game_1f7d6384:
-    m 1hua "とにかく、楽しんでね。"
+    m 1hua "とにかく、楽しんでね"
 
 translate Japanese bye_prompt_game_ac43c597:
-    m 2euc "それじゃあ、ゲーム楽しんできてね。"
+    m 2euc "それじゃあ、ゲーム楽しんできてね"
 
 translate Japanese bye_prompt_game_d1016fb7:
-    m 2esd "私はここにいるわ。"
+    m 2esd "私はここにいるわ"
 
 translate Japanese bye_prompt_game_405871e1:
     m 2euc "また？"
