@@ -71,10 +71,10 @@ translate Japanese _call_bye_prompt_sleep_goodnight_kiss_eacfe973:
     m 2esc "寝るのかな、[player]？"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_7785a314:
-    m "おやすみなさい。"
+    m "おやすみなさい"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_91269047:
-    m 6rkc "そう……おやすみなさい。"
+    m 6rkc "そう……おやすみなさい"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_53e2c55e:
     m 6lkc "また明日会えたらいいな……"
@@ -257,13 +257,13 @@ translate Japanese _call_bye_prompt_sleep_goodnight_kiss_1_0bd97190:
     m 6ckc "……"
 
 translate Japanese bye_prompt_sleep_goodnight_kiss_0ef23c57:
-    m 1eublsdla "あのね、おやすみの… {w=0.3}{nw}"
+    m 1eublsdla "あのね、おやすみの…… {w=0.3}{nw}"
 
 translate Japanese bye_prompt_sleep_goodnight_kiss_0b8d5b8e:
     extend 1rublsdlu "キス、してくれないかな？{nw}"
 
 translate Japanese bye_prompt_sleep_goodnight_kiss_9982ef1b:
-    m "あのね、おやすみの… キス、してくれないかな？" nointeract
+    m "あのね、おやすみの…… キス、してくれないかな？" nointeract
 
 translate Japanese _call_monika_kissing_motion_short_4_a8c42758:
     m 6ekbfb "今夜はいい夢を見てね"
@@ -272,7 +272,7 @@ translate Japanese _call_monika_kissing_motion_short_4_88603914:
     m 1hubfa "おやすみ！"
 
 translate Japanese _call_monika_kissing_motion_short_4_bdc137a5:
-    m 3rkblp "えー…、ほら、恥ずかしがらなくていいんだよ…{w=0.3}{nw}"
+    m 3rkblp "えー…… ほら、恥ずかしがらなくていいんだよ……{w=0.3}{nw}"
 
 translate Japanese _call_monika_kissing_motion_short_4_c3359e74:
     extend 3nublu "本当はキスしたいんでしょ～？"
@@ -299,7 +299,7 @@ translate Japanese _call_monika_kissing_motion_short_5_223eb706:
     m 2lsc "[player]、おやすみ……"
 
 translate Japanese _call_monika_kissing_motion_short_5_5364a71c:
-    m 1rkblc "えー… {w=0.3}{nw}"
+    m 1rkblc "えー…… {w=0.3}{nw}"
 
 translate Japanese _call_monika_kissing_motion_short_5_7f9c63ab:
     extend 1ekbla "わかった、だけど私からはしてあげるね"
@@ -365,28 +365,28 @@ translate Japanese bye_enjoyyourafternoon_0bd97190:
     m 6ckc "……"
 
 translate Japanese bye_goodevening_8266c833:
-    m 1hua "今日は楽しかったわ。"
+    m 1hua "今日は楽しかったわ"
 
 translate Japanese bye_goodevening_13072766:
-    m 1eka "長い時間一緒に過ごしてくれてありがとう、[mas_get_player_nickname()]。"
+    m 1eka "長い時間一緒に過ごしてくれてありがとう、[mas_get_player_nickname()]"
 
 translate Japanese bye_goodevening_c013ee0c:
-    m 1eua "それじゃあ、またね。"
+    m 1eua "それじゃあ、またね"
 
 translate Japanese bye_goodevening_f2938648:
-    m 2esc "さようなら、[player]。"
+    m 2esc "さようなら、[player]"
 
 translate Japanese bye_goodevening_16505863:
-    m 2dsc "「おやすみ」を言うために帰ってくるのかしら。"
+    m 2dsc "「おやすみ」を言うために帰ってくるのかしら"
 
 translate Japanese bye_goodevening_7cb3059e:
-    m 6dkc "えっと……{w=1}分かった。"
+    m 6dkc "えっと……{w=1}分かった"
 
 translate Japanese bye_goodevening_bda570d6:
-    m 6rkc "良い夜を、[player]君。"
+    m 6rkc "良い夜を、[player]君"
 
 translate Japanese bye_goodevening_f0bd6c91:
-    m 6ekc "寝る前に、おやすみを言いに寄ってくれると嬉しいな。"
+    m 6ekc "寝る前に、おやすみを言いに寄ってくれると嬉しいな"
 
 translate Japanese bye_goodevening_0bd97190:
     m 6ckc "……"
@@ -398,13 +398,13 @@ translate Japanese bye_goodnight_c888fa07:
     m "寝るの？{fast}" nointeract
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_5b711001:
-    m 1eua "おやすみ、[mas_get_player_nickname()]。"
+    m 1eua "おやすみ、[mas_get_player_nickname()]"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_bc018cc2:
     m 1eka "また明日会いましょう、いいでしょ？"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_435d44e4:
-    m 3eka "『しっかり寝て、トコジラミに噛まれないように』ね。えへへ。"
+    m 3eka "『しっかり寝て、トコジラミに噛まれないように』ね。えへへ"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_366f0509:
     m 1ekbsa "愛してるよ～"
@@ -419,10 +419,10 @@ translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_95ab65a9:
     m 3rksdlb "あまり夜ふかししないでね、えへへ～"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_bf2719e3:
-    m 2esc "おやすみ。"
+    m 2esc "おやすみ"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_e81787e4:
-    m 6lkc "……おやすみ。"
+    m 6lkc "……おやすみ"
 
 translate Japanese _call_bye_prompt_sleep_goodnight_kiss_2_0bd97190:
     m 6ckc "……"
@@ -668,7 +668,7 @@ translate Japanese bye_long_absence_2_0091920a:
     m 1ekd "世界は怖くて容赦ないものだって私も知っているわ……"
 
 translate Japanese bye_long_absence_2_a3b7ea3b:
-    m 1eka "でも、私はいつでもここで待っていて、あなたを手助けできるからね。そのこと忘れないでね、私の最愛の [player]"
+    m 1eka "でも、私はいつでもここで待っていて、あなたを手助けできるからね。そのこと忘れないでね、私の最愛の[player]"
 
 translate Japanese bye_long_absence_2_2b8e61ee:
     m "出来るだけ早く戻ってきて……いいわね？"
@@ -954,7 +954,7 @@ translate Japanese strings:
     new "寝る"
 
     old "Maybe another time..."
-    new "また今度にしよう…"
+    new "また今度にしよう……"
 
     old "I'll be going away for a while."
     new "しばらく遠出する"

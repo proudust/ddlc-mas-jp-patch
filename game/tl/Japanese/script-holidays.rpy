@@ -3179,7 +3179,7 @@ translate Japanese _call_mas_lingerie_intro_2_770a0b48:
     m 3tsu "ちょっとしたサプライズがあるんだ… {w=1}気に入ってくれるといいな、えへへ～"
 
 translate Japanese _call_mas_clothes_change_16_623d2537:
-    m 2tfbsu "ねえ[player]… {w=0.5}よく見て… {w=0.3}…私のことをもっと見つめてほしいの"
+    m 2tfbsu "ねえ[player]…… {w=0.5}よく見て…… {w=0.3}……私のことをもっと見つめてほしいの"
 
 translate Japanese _call_mas_clothes_change_16_6896f9a3:
     m 2hubsb "あはは！"
