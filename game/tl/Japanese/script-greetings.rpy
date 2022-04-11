@@ -926,7 +926,7 @@ translate Japanese monikaroom_greeting_ear_renpy_docs_14c1a653:
     m "待って……{w=0.3}この 'st' 変数って何よ？"
 
 translate Japanese monikaroom_greeting_ear_renpy_docs_9ec640ab:
-    m "……関数の仕様書でも見てみますか。"
+    m "……関数の仕様書でも見てみようかしら。"
 
 translate Japanese monikaroom_greeting_ear_renpy_docs_5d0331c8:
     m "{w=0.3}…{w=0.3}…{w=0.3}待って、なによこれ？"

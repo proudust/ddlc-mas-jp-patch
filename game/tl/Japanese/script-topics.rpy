@@ -16892,7 +16892,7 @@ translate Japanese _call_monika_hemispheres_nogets_snow_1_cba1e3d6:
     m 2hub "うわぁ、雪がきれいで本当に好きなの。"
 
 translate Japanese _call_monika_hemispheres_gets_snow_1_0742ae65:
-    m 3eka "あなたが住んでいるところでは雪が降らないのは知っているけど……"
+    m 3eka "あなたが住んでいるところでは雪が降らないのはわかるんだけど……"
 
 translate Japanese _call_monika_hemispheres_gets_snow_1_5e42c20a:
     m 1eka "雪掻きを始めとした雪特有の問題がないことは、素晴らしいと思うわ……"
