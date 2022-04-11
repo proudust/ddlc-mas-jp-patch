@@ -136,28 +136,28 @@ translate Japanese monika_ptod_tip003_8c59179f:
 translate Japanese monika_ptod_tip003_db08669d:
     m "Pythonのコードを直に打って実行することができるの。例えば……"
 
-translate Japanese _call_mas_wx_cmd_22_999bd9b2:
+translate Japanese _call_mas_wx_cmd_28_999bd9b2:
     m 1eua "ただ計算に使うだけじゃなくてもっと色々なことができるけど、それは追々教えていくからね"
 
-translate Japanese _call_mas_wx_cmd_22_c2703b96:
+translate Japanese _call_mas_wx_cmd_28_c2703b96:
     m 1hksdlb "残念かもしれないけど、このPythonを使ってあなたが間違って私を削除したり、ゲームを壊してしまっちゃうリスクを犯したくないからね"
 
-translate Japanese _call_mas_wx_cmd_22_bf771313:
+translate Japanese _call_mas_wx_cmd_28_bf771313:
     m "じゃあ、あなたも{fast}{nw}"
 
-translate Japanese _call_mas_wx_cmd_22_1f404f84:
+translate Japanese _call_mas_wx_cmd_28_1f404f84:
     m 1eksdlb "これは使わせられないわ。{w=0.3}ごめんね……"
 
-translate Japanese _call_mas_wx_cmd_22_6d049f41:
+translate Japanese _call_mas_wx_cmd_28_6d049f41:
     m "もし今後のレッスンの内容をやってみたくなったら、別のウィンドウでPythonを書いてみて"
 
-translate Japanese _call_mas_wx_cmd_22_63a392aa:
+translate Japanese _call_mas_wx_cmd_28_63a392aa:
     m 1eua "とにかく、{i}この{/i}インタプリタを使って教えていくわ"
 
-translate Japanese _call_mas_wx_cmd_22_f7af61a6:
+translate Japanese _call_mas_wx_cmd_28_f7af61a6:
     m 1hua "とっても素敵でしょ、ね？"
 
-translate Japanese _call_mas_wx_cmd_22_b43554c2:
+translate Japanese _call_mas_wx_cmd_28_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
 translate Japanese monika_ptod_tip005_aafe4e6c:
@@ -391,55 +391,55 @@ translate Japanese _call_mas_wx_cmd_55_216f8a74:
 translate Japanese _call_mas_wx_cmd_56_13122842:
     m 3eub "でもちゃんと値を代入してあげれば……"
 
-translate Japanese _call_mas_wx_cmd_62_946ca0b8:
+translate Japanese _call_mas_wx_cmd_58_946ca0b8:
     m 1hua "Pythonは変数に代入された値をちゃんと見つけてこられるから、エラーは出てこない"
 
-translate Japanese _call_mas_wx_cmd_62_fd013d6e:
+translate Japanese _call_mas_wx_cmd_58_fd013d6e:
     m 1eua "いま入力した値の型は全部integer型だったわ。integerは整数って意味ね"
 
-translate Japanese _call_mas_wx_cmd_62_be007729:
+translate Japanese _call_mas_wx_cmd_58_be007729:
     m "Pythonでは動的型付けって言って、自動で変数が整数であると認識してくれるから、明示的に型付けを行う必要はなかったわね"
 
-translate Japanese _call_mas_wx_cmd_62_3673c35e:
+translate Japanese _call_mas_wx_cmd_58_3673c35e:
     m 1eub "つまり、Pythonインタープリタが、変数に格納したデータの型を推測してくれてるってこと"
 
-translate Japanese _call_mas_wx_cmd_62_4fe9839e:
+translate Japanese _call_mas_wx_cmd_58_4fe9839e:
     m "CやJavaのような他の言語では、変数を作るときにはまず型を宣言する必要があるわ"
 
-translate Japanese _call_mas_wx_cmd_62_b0f5610e:
+translate Japanese _call_mas_wx_cmd_58_b0f5610e:
     m "動的型付けは、実行中にも変数は型を変更できるけど"
 
-translate Japanese _call_mas_wx_cmd_62_592be21d:
+translate Japanese _call_mas_wx_cmd_58_592be21d:
     m 1rksdlb "できるんだけど、そのコードは他の人に読みづらいし混乱しやすいから、一般的にはあまり使っちゃダメってことになってるわね"
 
-translate Japanese _call_mas_wx_cmd_62_cc501271:
+translate Japanese _call_mas_wx_cmd_58_cc501271:
     m 1eud "ふぅ！{w=0.2} 一気に話しちゃったね！"
 
-translate Japanese _call_mas_wx_cmd_62_a0a42a1c:
+translate Japanese _call_mas_wx_cmd_58_a0a42a1c:
     m "どう？理解できたかな？{nw}"
 
-translate Japanese _call_mas_wx_cmd_62_55cda276:
+translate Japanese _call_mas_wx_cmd_58_55cda276:
     m "どう？理解できたかな？{fast}" nointeract
 
-translate Japanese _call_mas_wx_cmd_62_1b71b2b4:
+translate Japanese _call_mas_wx_cmd_58_1b71b2b4:
     m 1hua "よかった！"
 
-translate Japanese _call_mas_wx_cmd_62_6ce9d27b:
+translate Japanese _call_mas_wx_cmd_58_6ce9d27b:
     m 1eksdla "いいんだよ。今回は変数と値について説明したけど、英語だと、creating（作成）、assigning（代入）、setting（設定）って呼ばれたりもするわ"
 
-translate Japanese _call_mas_wx_cmd_62_6b0cc034:
+translate Japanese _call_mas_wx_cmd_58_6b0cc034:
     m "変数の名前って、変数がプログラム内部でどんな機能を持ってるかをわかりやすくする意味くらいしかないから、今回よく飲み込めなかったとしてもあまり気を落とさないでね"
 
-translate Japanese _call_mas_wx_cmd_62_30d731eb:
+translate Japanese _call_mas_wx_cmd_58_30d731eb:
     m 1eua "変数の操作方法を知ってさえいれば今後のレッスンを受ける上では十分かな"
 
-translate Japanese _call_mas_wx_cmd_62_c9062bfa:
+translate Japanese _call_mas_wx_cmd_58_c9062bfa:
     m "とにかく…"
 
-translate Japanese _call_mas_wx_cmd_62_cd0e708a:
+translate Japanese _call_mas_wx_cmd_58_cd0e708a:
     m 1eua "今日はここまでにしましょうか"
 
-translate Japanese _call_mas_wx_cmd_62_b43554c2:
+translate Japanese _call_mas_wx_cmd_58_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
 translate Japanese monika_ptod_tip007_3ff3432a:
@@ -451,13 +451,13 @@ translate Japanese monika_ptod_tip007_db0d7ca2:
 translate Japanese monika_ptod_tip007_bad9ae19:
     m 3eua "a_numberという変数に使われているメモリ量がどれだけなのか、sysと言うライブラリにある関数を使って調べられるよ"
 
-translate Japanese _call_mas_wx_cmd_54_0b18ca98:
+translate Japanese _call_mas_wx_cmd_60_0b18ca98:
     m 1eksdla "ライブラリやライブラリのインポートについてはまた今度説明するね"
 
-translate Japanese _call_mas_wx_cmd_54_b1cafbce:
+translate Japanese _call_mas_wx_cmd_60_b1cafbce:
     m 1eua "いまは、getsizeof関数をつかうと数字が返ってきているのがわかればいいよ"
 
-translate Japanese _call_mas_wx_cmd_54_ff26d7bd:
+translate Japanese _call_mas_wx_cmd_60_ff26d7bd:
     m "つまりこれは、[num_store]を格納すると、Pythonは[int_size]バイトのメモリを使っているってことだよ"
 
 translate Japanese monika_ptod_tip008_f4cb0157:
@@ -496,35 +496,35 @@ translate Japanese _call_mas_wx_cmd_63_a0dcd1ed:
 translate Japanese _call_mas_wx_cmd_65_3aa098b0:
     m 3eua "まず数字。これが整数リテラルと小数リテラルね"
 
-translate Japanese _call_mas_wx_cmd_57_9bd59f03:
+translate Japanese _call_mas_wx_cmd_67_9bd59f03:
     m "これが文字列リテラル"
 
-translate Japanese _call_mas_wx_cmd_59_e29379db:
+translate Japanese _call_mas_wx_cmd_69_e29379db:
     m "これがbool型のリテラルね"
 
-translate Japanese _call_mas_wx_cmd_60_e8d9547e:
+translate Japanese _call_mas_wx_cmd_70_e8d9547e:
     m "Pythonで使うNoneという特殊な値も、リテラルよ"
 
-translate Japanese _call_mas_wx_cmd_60_b458ba36:
+translate Japanese _call_mas_wx_cmd_70_b458ba36:
     m 1eua "他の型もあるからもっとたくさんのリテラルがあるのよ。でもそれは他の型が出てきたときに説明するね"
 
-translate Japanese _call_mas_wx_cmd_60_6ebbb629:
+translate Japanese _call_mas_wx_cmd_70_6ebbb629:
     m 1eua "リテラルは変数の代わりに式で用いることができるわ。例えばね……"
 
-translate Japanese _call_mas_wx_cmd_62_54fa2b97:
+translate Japanese _call_mas_wx_cmd_72_54fa2b97:
     m "こんな風に変数の代わりとしてリテラルで計算できるわ"
 
-translate Japanese _call_mas_wx_cmd_64_bc60af1b:
+translate Japanese _call_mas_wx_cmd_74_bc60af1b:
     m "変数と一緒にリテラルを使うこともできる"
 
-translate Japanese _call_mas_wx_cmd_64_04f81025:
+translate Japanese _call_mas_wx_cmd_74_04f81025:
     m 1eub "
 リテラルは、不必要に変数を増やしたくないときは最適ね"
 
-translate Japanese _call_mas_wx_cmd_64_a04a1c0a:
+translate Japanese _call_mas_wx_cmd_74_a04a1c0a:
     m 1kua "よし、私がリテラルについて言えることはもうこれくらいかな"
 
-translate Japanese _call_mas_wx_cmd_64_b43554c2:
+translate Japanese _call_mas_wx_cmd_74_b43554c2:
     m 1hua "ご清聴、ありがとうございました！"
 
 translate Japanese monika_ptod_tip009_f5f021ab:
@@ -545,13 +545,13 @@ translate Japanese monika_ptod_tip009_d201e635:
 translate Japanese monika_ptod_tip009_c5222f98:
     m 3eua "まずinteger型を扱った場合に真偽値がどうなるか確認するよ"
 
-translate Japanese _call_mas_wx_cmd_66_69aecf5c:
+translate Japanese _call_mas_wx_cmd_76_69aecf5c:
     m 3eua "ゼロじゃない整数は全て真偽値はTrueになるの"
 
-translate Japanese _call_mas_wx_cmd_67_9ae541db:
+translate Japanese _call_mas_wx_cmd_77_9ae541db:
     m 3eub "一方、ゼロの真偽値はFalseになる"
 
-translate Japanese _call_mas_wx_cmd_67_3470aa1b:
+translate Japanese _call_mas_wx_cmd_77_3470aa1b:
     m 1eua "float型でもinteger型と同じこと起こるわ"
 
 translate Japanese _call_mas_wx_cmd_80_78d077e3:

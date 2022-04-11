@@ -1,7 +1,7 @@
 translate Japanese mas_monika_islands_3e3b6f6f:
     m 1eub "もちろんだよ！ ここから浮遊島の景色を見て、楽しんでね"
 
-translate Japanese _call_mas_islands_3_56293cf9:
+translate Japanese _call_mas_islands_56293cf9:
     m 1eua "気に入ってくれるといいな、[mas_get_player_nickname()]君～"
 
 translate Japanese mas_island_upsidedownisland_a8b836db:

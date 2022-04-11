@@ -19,7 +19,7 @@ translate Japanese _call_mas_selector_sidebar_select_clothes_2_bd2a5f73:
 translate Japanese monika_hair_select_74680220:
     m 1hua "もちろん！"
 
-translate Japanese _call_mas_selector_sidebar_select_hair_bd2a5f73:
+translate Japanese _call_mas_selector_sidebar_select_hair_2_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
 translate Japanese monika_ribbon_select_13d1eccf:

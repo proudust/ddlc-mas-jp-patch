@@ -1022,8 +1022,8 @@ translate Japanese _call_mas_scary_story_setup_baccdb7c:
 translate Japanese _call_mas_scary_story_setup_4ce5394b:
     m 1eud "それを聞いた狩人は生涯彼女を想い続けると誓いました……"
 
-translate Japanese _call_mas_scary_story_setup_b2efc7ed:
-    m 1dsd "……{w}その時は心から誓ったはずでした"
+translate Japanese _call_mas_scary_story_setup_360193a1:
+    m 1dsd "……{w=1}その時は心から誓ったはずでした"
 
 translate Japanese _call_mas_scary_story_setup_d06517f8:
     m 1dsc "それから時は流れ、狩人は違う女性と恋に落ち、流れるように結婚をしました。狩人は過去の愛も誓いのことも忘れていまっていました。"
@@ -1058,7 +1058,7 @@ translate Japanese _call_mas_scary_story_setup_1fbcda89:
 translate Japanese _call_mas_scary_story_setup_31245fb0:
     y "{cps=*2}私もあなたを連れて行っちゃうかもね。{/cps}{nw}"
 
-translate Japanese _call_mas_scary_story_setup_1_1331ae94:
+translate Japanese _call_mas_scary_story_setup_1_d31f5e5b:
     m 3eud "昔々、お侍に嫁いだ美しい女がおりました。"
 
 translate Japanese _call_mas_scary_story_setup_1_966e017f:
@@ -1076,7 +1076,7 @@ translate Japanese _call_mas_scary_story_setup_1_61b04c85:
 translate Japanese _call_mas_scary_story_setup_1_4e3cb883:
     m 2dsc "それから夫は美しさに奢った女を罰するために、女の口を耳まで開くように刀で切り裂きました。"
 
-translate Japanese _call_mas_scary_story_setup_1_474c7627:
+translate Japanese _call_mas_scary_story_setup_1_5300ce86:
     m 4efd "『こんなお前を誰が美しいと思うんだ？』、女の口にできた傷に言葉の塩を男は塗りつけました。"
 
 translate Japanese _call_mas_scary_story_setup_1_1c5ebc2f:
@@ -1458,7 +1458,7 @@ translate Japanese _call_mas_scary_story_setup_7_d48fb8e5:
 translate Japanese _call_mas_scary_story_setup_7_a0c50971:
     m "十字架をどけるのに、悪魔はジャックへさらに10年間迷惑をかけないことを約束させられたのです。そして月日が経ち、ジャックが死んで、ジャックは天国へと行きました。"
 
-translate Japanese _call_mas_scary_story_setup_7_f95f1a5f:
+translate Japanese _call_mas_scary_story_setup_7_d0a78913:
     m 1eud "ジャックが天国へ着くと門番に、お前は徳を積んでいないので天国へ入ることはできない、と言われました。"
 
 translate Japanese _call_mas_scary_story_setup_7_97688119:

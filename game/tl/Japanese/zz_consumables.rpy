@@ -7,10 +7,10 @@ translate Japanese mas_consumables_generic_get_237b8a80:
 translate Japanese mas_consumables_generic_get_a644a99b:
     m 1eua "ちょっとまってね"
 
-translate Japanese _call_mas_transition_from_emptydesk_cd3329c1:
+translate Japanese _call_mas_transition_from_emptydesk_7_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_7a2f3a16:
+translate Japanese _call_mas_transition_from_emptydesk_7_7a2f3a16:
     m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_generic_finish_having_8a1f94e7:
@@ -28,7 +28,7 @@ translate Japanese mas_consumables_generic_finish_having_460692de:
 translate Japanese mas_consumables_generic_finish_having_1640fa5f:
     m 1eua "[line_starter!t]すぐに戻るわ{w=1}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_1_cd3329c1:
+translate Japanese _call_mas_transition_from_emptydesk_8_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
 translate Japanese _call_mas_consumables_generic_running_out_7a2f3a16:
@@ -103,10 +103,10 @@ translate Japanese mas_consumables_remove_thermos_8f907c3a:
 translate Japanese mas_consumables_remove_thermos_31f19431:
     m 1eua "ちょっと待っててね[player]、この魔法瓶を片付けてくるから"
 
-translate Japanese _call_mas_transition_from_emptydesk_3_cd3329c1:
+translate Japanese _call_mas_transition_from_emptydesk_10_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_3_7cb5ebd1:
+translate Japanese _call_mas_transition_from_emptydesk_10_7cb5ebd1:
     m "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_candycane_finish_having_bf1e38de:
@@ -121,10 +121,10 @@ translate Japanese mas_consumables_candycane_finish_having_42e93436:
 translate Japanese mas_consumables_candycane_finish_having_7ae0fc82:
     m 1eua "もっと取ってくるわ、すぐに戻るから{w=1}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_4_cd3329c1:
+translate Japanese _call_mas_transition_from_emptydesk_11_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_4_7a2f3a16:
+translate Japanese _call_mas_transition_from_emptydesk_11_7a2f3a16:
     m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese strings:

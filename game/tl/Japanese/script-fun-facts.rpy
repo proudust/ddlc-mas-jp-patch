@@ -268,7 +268,7 @@ translate Japanese mas_fun_fact_king_snakes_3d266d23:
 translate Japanese mas_fun_fact_king_snakes_9766ba87:
     m 1euc "キングコブラがなぜそのような名前になるのかずっと不思議に思っていたけど、あまり深く考えたことはなかったのよね"
 
-translate Japanese mas_fun_fact_king_snakes_9d27dcce:
+translate Japanese mas_fun_fact_king_snakes_0e9cd1b4:
     m 1tfu "ということは、あなたを食べてしまったら、私はクイーンモニカになってしまうのかしら？"
 
 translate Japanese mas_fun_fact_king_snakes_1fc87f16:

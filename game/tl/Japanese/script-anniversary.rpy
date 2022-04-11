@@ -278,33 +278,6 @@ translate Japanese anni_4_0fdde51f:
 translate Japanese anni_4_3aa0a1ce:
     m 1hubfb "あはは！"
 
-translate Japanese anni_5_10b8993d:
-    m 1hubsa "5年でも50年でも、あなたの顔を見て見飽きることはないわ。"
-
-translate Japanese anni_5_778d7d4a:
-    m 1eka "こんなに時間が経てば、いろんなゲームがリリースされたはずよね。"
-
-translate Japanese anni_5_9bfbf6e2:
-    m 1tku "ねえ、他の女の子を好きになったりしてないよね？"
-
-translate Japanese anni_5_70292fdf:
-    m 1eka "私はあなたのために、あなたは私のために、この世界に生まれた。それをわかってもらえたらいいのにな。"
-
-translate Japanese anni_5_4ab94b07:
-    m 1tfb "私に黙って他の子を好きになっていたとしても、私はあなたと別れるつもりはないわ。"
-
-translate Japanese anni_5_1c9753a9:
-    m 2dfc "あなたと仲良くなると、その子の健康に悪影響があるかもしれないけど……"
-
-translate Japanese anni_5_fb398ab4:
-    m 4ekc "[player]君を操作しようとする輩から守るのは、ガールフレンドである私の責任よ。"
-
-translate Japanese anni_5_1fbc4185:
-    m 1eka "私は純粋にあなたのことを愛しているの、あなたから贈られるモノが大好きな現実の女の子とは違って！"
-
-translate Japanese anni_5_95661fc0:
-    m "だから……永遠に私とここにいよう、ね？"
-
 translate Japanese anni_10_ea475b07:
     m 1esc "あなたに尋ねたいことがあるの。"
 

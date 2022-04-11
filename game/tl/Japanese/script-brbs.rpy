@@ -127,8 +127,8 @@ translate Japanese monika_idle_shower_callback_bb31c0a4:
 translate Japanese monika_idle_shower_callback_3772217d:
     m 1hub "あはは！"
 
-translate Japanese monika_idle_shower_callback_e33b8cea:
-    m 1hua "シャワーは気持ちよかった？"
+translate Japanese monika_idle_shower_callback_f786f3b6:
+    m 3hua "シャワーは気持ちよかった？"
 
 translate Japanese monika_idle_shower_callback_96c8d207:
     m 3eub "これでまた一緒に{i}清潔に{/i} 楽しく過ごせるわね"

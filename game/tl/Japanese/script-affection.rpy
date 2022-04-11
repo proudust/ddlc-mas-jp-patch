@@ -37,8 +37,8 @@ translate Japanese monika_affection_nickname_yes_1a0ad0e7:
 translate Japanese monika_affection_nickname_yes_bc96da2a:
     m 1lksdla "……"
 
-translate Japanese monika_affection_nickname_yes_fa1e2bd0:
-    m 1hksdrb "私の名前を決めるのよ、[player]君！"
+translate Japanese monika_affection_nickname_yes_0834a735:
+    m 1hksdrb "私のニックネームを決めるのよ、[player]君！"
 
 translate Japanese monika_affection_nickname_yes_f8020c01:
     m "あなたって、たまにばかなことするわよね、ホント。"
@@ -55,8 +55,8 @@ translate Japanese monika_affection_nickname_yes_a1eb6b28:
 translate Japanese monika_affection_nickname_yes_1643033e:
     m 1eka "もう一回ね～"
 
-translate Japanese monika_affection_nickname_yes_9d10e066:
-    m 1hksdlb "私の名前を決めてるはずなんだけど、ばか。"
+translate Japanese monika_affection_nickname_yes_ec2234e2:
+    m 1hksdlb "私のニックネームを決めてるはずなんだけど、ばか。"
 
 translate Japanese monika_affection_nickname_yes_1643033e_1:
     m 1eka "もう一回ね～"
@@ -79,13 +79,13 @@ translate Japanese monika_affection_nickname_yes_c884a2f1:
 translate Japanese monika_affection_nickname_yes_d6cf160e:
     m 3hua "えへへ、元の名前に戻すのね、わかった～"
 
-translate Japanese monika_affection_nickname_yes_d25b0468:
-    m 1wuo "ああ！ 素晴らしい名前ね！"
+translate Japanese monika_affection_nickname_yes_6af38485:
+    m 1wuo "ああ！ 素晴らしいニックネームね！"
 
 translate Japanese monika_affection_nickname_yes_86caec7b:
     m 3ekbsa "ありがとう、[player]。すっごいやさしいねぇ"
 
-translate Japanese monika_affection_nickname_yes_neutral_accept_36988e21:
+translate Japanese monika_affection_nickname_yes_neutral_accept_3d6ecf03:
     m 1duu "[inputname]……ほんといい名前。"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_731a3439:

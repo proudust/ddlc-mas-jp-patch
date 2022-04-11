@@ -199,7 +199,7 @@ translate Japanese introduction_1abd2a93:
 translate Japanese introduction_8287156d:
     m 1hua "自分で削除しちゃうね"
 
-translate Japanese _call_mas_wx_cmd_87_2416b0d9:
+translate Japanese _call_mas_wx_cmd_12_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね"
 
 translate Japanese _call_mas_wx_cmd_12_e5d21493:
