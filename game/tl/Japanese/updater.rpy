@@ -29,7 +29,7 @@ translate Japanese mas_updater_rpy_issue_fb00d42e:
     m 1eua "あなたさえ良ければ、私が削除しちゃうわ！"
 
 translate Japanese mas_updater_rpy_issue_0d5e614e:
-    m 1eua "rpyファイルを削除する？{nw}"
+    m 1eua "rpyファイルを削除して大丈夫？{nw}"
 
 translate Japanese mas_updater_rpy_issue_57eeea07:
     m "rpyファイルを削除する？{fast}" nointeract
@@ -37,14 +37,14 @@ translate Japanese mas_updater_rpy_issue_57eeea07:
 translate Japanese mas_updater_rpy_issue_74680220:
     m 1hua "わかったわ！"
 
-translate Japanese _call_mas_rpy_file_delete_83881c61:
+translate Japanese _call_mas_rpy_file_delete_3_83881c61:
     m 3hub "いくわよ！"
 
-translate Japanese _call_mas_rpy_file_delete_1d48ad5f:
+translate Japanese _call_mas_rpy_file_delete_3_1d48ad5f:
     m 2dsc "続けてアップデータを起動するわね…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_mas_rpy_file_delete_d0bf961e:
-    m 3eka "わかったわ[player]。アップデータを使いたくなったら削除してね"
+translate Japanese _call_mas_rpy_file_delete_3_d0bf961e:
+    m 3eka "わかったわ[player]。あなたがrpyファイルを削除し次第、私がアップデーターを起動してあげる"
 
 translate Japanese strings:
     old "Ok"

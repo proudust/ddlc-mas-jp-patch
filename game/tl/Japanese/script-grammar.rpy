@@ -260,7 +260,7 @@ translate Japanese monika_gtod_tip005_469c14cb:
     m 1eub "さて、今日はここまで……"
 
 translate Japanese monika_gtod_tip005_6f3fed75:
-    m 3hub "ご清聴ありがとうございました、[player]君。愛してるわ……"
+    m 3hub "ご清聴ありがとうございました、[player]君。私はあなたのことが……"
 
 translate Japanese monika_gtod_tip005_23a3b2db:
     m 1eua "……"
@@ -269,7 +269,7 @@ translate Japanese monika_gtod_tip005_f5b8d6cd:
     m 1tuu "……"
 
 translate Japanese monika_gtod_tip005_38f81bbf:
-    m 3hub "あなたをね！"
+    m 3hub "大っ好きです！"
 
 translate Japanese monika_gtod_tip006_a9233158:
     m 1eud "[player]君、文章中での『態』について知ってる？"

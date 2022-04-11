@@ -19,7 +19,7 @@ translate Japanese _call_mas_selector_sidebar_select_clothes_2_bd2a5f73:
 translate Japanese monika_hair_select_74680220:
     m 1hua "もちろん！"
 
-translate Japanese _call_mas_selector_sidebar_select_hair_bd2a5f73:
+translate Japanese _call_mas_selector_sidebar_select_hair_2_bd2a5f73:
     m 1eka "あっ、分かったわ。"
 
 translate Japanese monika_ribbon_select_13d1eccf:
@@ -63,13 +63,13 @@ translate Japanese strings:
     new "髪留めを\n変えてみない？"
 
     old "Good choice, [player]!"
-    new "[player]君、いい案ね！"
+    new "[player]君、いい選択ね！"
 
     old "I was thinking the same thing, [player]!"
     new "同じことを私も思ってたの！"
 
     old "Great choice, [player]!"
-    new "[player]君、素晴らしい案ね！"
+    new "[player]君、素晴らしい選択ね！"
 
     old "What do you think, [player]?"
     new "[player]君、どう？感想を聞かせてくれない？"
@@ -85,6 +85,9 @@ translate Japanese strings:
 
     old "Just what I had in mind!"
     new "まさに私の思った通り！"
+
+    old "Show All"
+    new "全部見る"
 
     old "Outfit Mode"
     new "着せ替えモード"

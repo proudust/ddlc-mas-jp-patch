@@ -203,7 +203,7 @@ translate Japanese mas_mood_sick_8fe52584:
     m 2rkc "でも……次からはもっと早く言ってほしいな"
 
 translate Japanese mas_mood_sick_f5c4c88d:
-    m 2eka "とにかく、今日はもうゆっくり休んだらどうかな？"
+    m 2eka "とにかく、今日はもうゆっくり休んだほうがいいと思うわ"
 
 translate Japanese mas_mood_sick_87257c45:
     m 1ekc "うぅ、それは残念、大変だね、[player]君"
@@ -727,31 +727,31 @@ translate Japanese mas_mood_bored_d882a148:
 translate Japanese mas_mood_bored_82fdc2ae:
     m "どうしたいの、[chosen_nickname]君？{fast}" nointeract
 
-translate Japanese _call_mas_piano_start_d26879ea:
+translate Japanese _call_mas_piano_start_1_d26879ea:
     m 1eka "わかったわ……"
 
-translate Japanese _call_mas_piano_start_da34fa3d:
+translate Japanese _call_mas_piano_start_1_da34fa3d:
     m 5tsu "もう少し長くあなたと見つめ合えたらなぁ……"
 
-translate Japanese _call_mas_piano_start_d9790317:
+translate Japanese _call_mas_piano_start_1_d9790317:
     m "飽きることなんてないのにね～"
 
-translate Japanese _call_mas_piano_start_e4592319:
+translate Japanese _call_mas_piano_start_1_e4592319:
     m 5eua "もう少し長くあなたと見つめ合えたらなぁ……"
 
-translate Japanese _call_mas_piano_start_8b5f5f6e:
+translate Japanese _call_mas_piano_start_1_8b5f5f6e:
     m "絶対に飽きないのにな～"
 
-translate Japanese _call_mas_piano_start_585e2a8b:
+translate Japanese _call_mas_piano_start_1_585e2a8b:
     m 1ekc "あら、わかったわ……"
 
-translate Japanese _call_mas_piano_start_b39e9dad:
+translate Japanese _call_mas_piano_start_1_b39e9dad:
     m 1eka "また後で私となにかやりたくなったら教えてね～"
 
-translate Japanese _call_mas_piano_start_e4e2e831:
+translate Japanese _call_mas_piano_start_1_e4e2e831:
     m 2ekc "そう……"
 
-translate Japanese _call_mas_piano_start_73142ff9:
+translate Japanese _call_mas_piano_start_1_73142ff9:
     m 2dkc "私と何かしたいことがあったら、教えてね"
 
 translate Japanese mas_mood_crying_63c65d35:
@@ -999,6 +999,9 @@ translate Japanese mas_mood_excited_b3f5170f:
 
 translate Japanese mas_mood_excited_ff1f8a2d:
     m 1hua "あなたが幸せそうで、私も幸せだよ"
+
+translate Japanese mas_mood_excited_f2e400e8:
+    m 1eub "あなたに満足してるって言われると、私まで幸せになっちゃいそう"
 
 translate Japanese mas_mood_excited_cad050a2:
     m 3hub "だから伝えてくれてありがとう～！"

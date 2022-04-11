@@ -183,7 +183,7 @@ translate Japanese mas_chess_savegame_pgn_explain_47e99198:
     m 1eub "じゃあすぐに続きを始めよう！"
 
 translate Japanese mas_chess_locked_no_play_092519a6:
-    m 1euc "やめておくわ、[player]。"
+    m 1euc "遠慮しておくわ、[player]。"
 
 translate Japanese mas_chess_locked_no_play_3b4636eb:
     m 1rsc "今はチェスをする気分じゃないの。"
@@ -568,7 +568,7 @@ translate Japanese strings:
     new "普通のチェス"
 
     old "Randomized Chess"
-    new "ランダムチェス"
+    new "チェス960"
 
     old "Ruleset"
     new "ルール選択"
@@ -688,4 +688,4 @@ translate Japanese strings:
     new "このまま続ける？"
 
     old "Are you sure you want to give up?"
-    new "降参しますか？"
+    new "投了しますか？"

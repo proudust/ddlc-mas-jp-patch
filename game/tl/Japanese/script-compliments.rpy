@@ -544,8 +544,8 @@ translate Japanese mas_compliment_thinking_of_you_2_e4657846:
 translate Japanese mas_compliment_thinking_of_you_2_2efc1dd4:
     m 6dkc "……"
 
-translate Japanese mas_compliment_thinking_of_you_2_5e89f5d1:
-    m 1subfb "あぁっ、もう本当に優しいんだから！[player]！"
+translate Japanese mas_compliment_thinking_of_you_2_b93b16e3:
+    m 1subsb "あぁっ、もう本当に優しいんだから！[player]！"
 
 translate Japanese mas_compliment_thinking_of_you_2_be8be5aa:
     m 3hubfu "私もあなたを想うだけで笑顔になっちゃうんだ。同じだね～"

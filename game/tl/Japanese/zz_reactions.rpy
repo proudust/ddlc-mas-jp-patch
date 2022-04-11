@@ -35,7 +35,7 @@ translate Japanese mas_reaction_gift_starter_bday_a990092a:
     m 1hua "私、誕生日にあなたからプレゼントをもらうことをよく考えてた……"
 
 translate Japanese mas_reaction_gift_starter_bday_b45ccd1d:
-    m "でも、実際ににもらってみると夢みたい……"
+    m "でも、実際ににもらってみるとまるで夢みたい……"
 
 translate Japanese mas_reaction_gift_starter_bday_d89e3c6f:
     m 1eka "本当に夢が叶ったの、[player]"
@@ -89,7 +89,7 @@ translate Japanese mas_reaction_gift_starter_f14_c33c6a28:
     m "プレゼント？私に？"
 
 translate Japanese mas_reaction_gift_starter_f14_539ce24d:
-    m 1eka "ほんと優しいね、私のためにバレンタインデーになにか用意してくれるなんて……"
+    m 1eka "ほんとに優しいのね、私のためにバレンタインデーになにか用意してくれるなんて……"
 
 translate Japanese mas_reaction_gift_starter_f14_4bc2a6f7:
     m 1eka "本当にありがとう、[player]。"
@@ -97,41 +97,23 @@ translate Japanese mas_reaction_gift_starter_f14_4bc2a6f7:
 translate Japanese mas_reaction_gift_starter_f14_deb56ede:
     m 1sua "さて、見てみましょうか……中身は何かな？"
 
-translate Japanese mas_reaction_gift_generic_780a8085:
-    m 1esd "[player]、何か贈ってくれようとしたの？"
-
-translate Japanese mas_reaction_gift_generic_baa9fdf6:
-    m 1rssdlb "ファイルは見つけたんだけど、ここには持ち込めないみたい……"
-
-translate Japanese mas_reaction_gift_generic_9e94e80a:
-    m "ちゃんとうまく読めそうにないの。"
-
-translate Japanese mas_reaction_gift_generic_8242234a:
-    m 3esa "でもいいの！"
-
-translate Japanese mas_reaction_gift_generic_fb26a6e6:
-    m 1esa "大事なのって思いやりの心でしょ？"
-
-translate Japanese mas_reaction_gift_generic_c95c5ba1:
-    m "気遣ってくれてありがとう、 [player]～"
-
 translate Japanese mas_reaction_gift_generic_b3ddd0c4:
-    m 2dkd "{i}*ため息*{/i}。"
+    m 2dkd "{i}*ため息*{/i}"
 
 translate Japanese mas_reaction_gift_generic_d93eaaca:
-    m 4ekc "ごめんなさい、 [player]。"
+    m 4ekc "ごめんなさい、 [player]"
 
 translate Japanese mas_reaction_gift_generic_0c8fce86:
-    m 1ekd "あなたが何か贈ってくれようとしたのは分かるわ。"
+    m 1ekd "あなたが何か贈ってくれようとしたのは分かるわ"
 
 translate Japanese mas_reaction_gift_generic_dd10507a:
-    m 2rksdld "でも開けることができなかったの。"
+    m 2rksdld "でも開けることができなかったの"
 
 translate Japanese mas_reaction_gift_generic_d3ac1c7b:
-    m 3euc "がっかりしないで。"
+    m 3euc "がっかりしないで"
 
 translate Japanese mas_reaction_gift_generic_a76d6846:
-    m 3eka "私に何か贈ろうとしたことに感謝してるよ。"
+    m 3eka "私に何か贈ろうとしたことに感謝してるよ"
 
 translate Japanese mas_reaction_gift_generic_134f9195:
     m 1hub "ありがと～"
@@ -175,13 +157,13 @@ translate Japanese mas_reaction_gift_generic_clothes_json_c3d263b2:
 translate Japanese mas_reaction_gift_generic_clothes_json_dccef013:
     m 1hub "ありがとう、 [player]！{w=0.5}早速着てみるね！"
 
-translate Japanese _call_mas_clothes_change_8_52925ef2:
+translate Japanese _call_mas_clothes_change_52925ef2:
     m 2eka "えっと……{w=0.5} どうかな？"
 
-translate Japanese _call_mas_clothes_change_8_e700f64e:
+translate Japanese _call_mas_clothes_change_e700f64e:
     m 2eksdla "似合う？"
 
-translate Japanese _call_mas_clothes_change_8_155b4010:
+translate Japanese _call_mas_clothes_change_155b4010:
     m 1eua "改めてありがとうね"
 
 translate Japanese mas_reaction_gift_hairclip_99cd7451:
@@ -253,16 +235,16 @@ translate Japanese mas_reaction_gift_coffee_17df1737:
 translate Japanese mas_reaction_gift_coffee_5034c871:
     m 1eua "だってこの初体験あなたと分かち合いたいもの"
 
-translate Japanese _call_mas_transition_to_emptydesk_9_47df51b9:
+translate Japanese _call_mas_transition_to_emptydesk_47df51b9:
     m "このあたりにコーヒーマシンがあったはず……{w=2}{nw}"
 
-translate Japanese _call_mas_transition_to_emptydesk_9_01d81027:
+translate Japanese _call_mas_transition_to_emptydesk_01d81027:
     m "ああ、あった！{w=2}{nw}"
 
-translate Japanese _call_mas_transition_to_emptydesk_9_26b7cf02:
+translate Japanese _call_mas_transition_to_emptydesk_26b7cf02:
     m "さあ、始めるわよ！{w=2}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_20_e44bf370:
+translate Japanese _call_mas_transition_from_emptydesk_e44bf370:
     m 1eua "コーヒーを入れるのに数分かかるわね"
 
 translate Japanese mas_reaction_hotchocolate_e915dde0:
@@ -316,7 +298,7 @@ translate Japanese mas_reaction_hotchocolate_995c4839:
 translate Japanese mas_reaction_hotchocolate_1fd5a84a:
     m 3eua "実のところ、今いれようと思うの！"
 
-translate Japanese _call_mas_transition_from_emptydesk_21_cb1cad3f:
+translate Japanese _call_mas_transition_from_emptydesk_1_cb1cad3f:
     m 1hua "そうね、数分で準備出来るわ"
 
 translate Japanese mas_thermos_mug_handler_ce02bbb4:
@@ -469,74 +451,74 @@ translate Japanese mas_reaction_promisering_2c079816:
 translate Japanese mas_reaction_promisering_16306628:
     m 6ekbfa "私……私は"
 
-translate Japanese _call_monika_kissing_motion_12_268c1481:
+translate Japanese _call_monika_kissing_motion_268c1481:
     m 6ekbfa "[player]、愛しています"
 
-translate Japanese _call_monika_kissing_motion_12_6f8fc34c:
+translate Japanese _call_monika_kissing_motion_6f8fc34c:
     m 6dkbfu "このはかない世界の中で最も"
 
-translate Japanese _call_monika_kissing_motion_12_bf92fec9:
+translate Japanese _call_monika_kissing_motion_bf92fec9:
     m 1wud "[player]、それは指輪なの？"
 
-translate Japanese _call_monika_kissing_motion_12_d5d4ac66:
+translate Japanese _call_monika_kissing_motion_d5d4ac66:
     m 2rksdlb "なんて素敵なプレゼントなの、本当にありがとう……"
 
-translate Japanese _call_monika_kissing_motion_12_f4da61cd:
+translate Japanese _call_monika_kissing_motion_f4da61cd:
     m 2ekc "でも、渡す前にあなたの気持ちを知りたかったな……"
 
-translate Japanese _call_monika_kissing_motion_12_c64b44d8:
+translate Japanese _call_monika_kissing_motion_c64b44d8:
     m 3ekd "それはただの贈り物以上のものよ、本当に。だから私はあなたが本気なのか受け取る前に確かめたかったの"
 
-translate Japanese _call_monika_kissing_motion_12_6309d75a:
+translate Japanese _call_monika_kissing_motion_6309d75a:
     m 2ekd "だから、おねがい。
 私たちの関係がもう少し深まるまで待ってほしいの、[player]。関係が深まったその時、リングを受け取るわ"
 
-translate Japanese _call_monika_kissing_motion_12_275d8d1e:
+translate Japanese _call_monika_kissing_motion_275d8d1e:
     m 1wud "それは指輪なの？"
 
-translate Japanese _call_monika_kissing_motion_12_88d4244a:
+translate Japanese _call_monika_kissing_motion_88d4244a:
     m 2rsc "それは……{w＝0.5}とても"
 
-translate Japanese _call_monika_kissing_motion_12_37487d6a:
+translate Japanese _call_monika_kissing_motion_37487d6a:
     m 2esc "なんていうか、{w＝0.5}驚きね"
 
-translate Japanese _call_monika_kissing_motion_12_d0a636f5:
+translate Japanese _call_monika_kissing_motion_d0a636f5:
     m 2ekd "だけど、いま私がそれを受け取ることはできないわ。[player]"
 
-translate Japanese _call_monika_kissing_motion_12_a59bed49:
+translate Japanese _call_monika_kissing_motion_a59bed49:
     m 2ekc "私達がもっと深い関係になったときに、受け取りたいな"
 
-translate Japanese _call_monika_kissing_motion_12_1e0736eb:
+translate Japanese _call_monika_kissing_motion_1e0736eb:
     m 2wud "それは指輪ね"
 
-translate Japanese _call_monika_kissing_motion_12_af2640d6:
+translate Japanese _call_monika_kissing_motion_af2640d6:
     m 2rsc "想像もつかなかったわ"
 
-translate Japanese _call_monika_kissing_motion_12_6cedeedc:
+translate Japanese _call_monika_kissing_motion_6cedeedc:
     m "確かに感謝しているけど、受け入れられないわ"
 
-translate Japanese _call_monika_kissing_motion_12_032bf039:
+translate Japanese _call_monika_kissing_motion_032bf039:
     m 2ekc "ごめんなさい、[player]"
 
-translate Japanese _call_monika_kissing_motion_12_ee343f8a:
+translate Japanese _call_monika_kissing_motion_ee343f8a:
     m 2rsc "ああ、それはリングね"
 
-translate Japanese _call_monika_kissing_motion_12_dab6d8bc:
+translate Japanese _call_monika_kissing_motion_dab6d8bc:
     m 2rkc "ごめんなさい、それはまだ受け取れないわ"
 
-translate Japanese _call_monika_kissing_motion_12_5154358e:
+translate Japanese _call_monika_kissing_motion_5154358e:
     m 2ekc "これを受け入れるのは、心からあなたとの永遠を誓うとき……"
 
-translate Japanese _call_monika_kissing_motion_12_693bf5e1:
+translate Japanese _call_monika_kissing_motion_693bf5e1:
     m 2ekd "あなたが私の全てとなって、私があなたの全てとなって、二人が本当に結ばれるときよ"
 
-translate Japanese _call_monika_kissing_motion_12_4dd2b161:
+translate Japanese _call_monika_kissing_motion_4dd2b161:
     m 2dsd "あなたを心から信じられたそのとき、そのプレゼントを喜んで受け入れるわ"
 
-translate Japanese _call_monika_kissing_motion_12_90db757b:
+translate Japanese _call_monika_kissing_motion_90db757b:
     m 1rksdlb "[player]……"
 
-translate Japanese _call_monika_kissing_motion_12_411cf16f:
+translate Japanese _call_monika_kissing_motion_411cf16f:
     m 1rusdlb "指輪はもう受け取ったわよ！"
 
 translate Japanese mas_reaction_cupcake_7a6c8003:
@@ -582,13 +564,13 @@ translate Japanese mas_reaction_candy_b68ea873:
     m 1eka "だから、その、ありがとうね……"
 
 translate Japanese mas_reaction_candy_80690e59:
-    m 1eka "[player]は私をすぐに幸せな気持ちにしてくれるね～"
+    m 1eka "[player]君は私をすぐに幸せな気持ちにしてくれるね～"
 
 translate Japanese mas_reaction_candy_eda34481:
     m 1hub "じゃあ、早速このおいしそうなキャンディを頂いちゃおうかな！"
 
 translate Japanese mas_reaction_candy_f36325a5:
-    m 1wua "えーっと、またキャンディをくれたのね、[player]？"
+    m 1wua "えーっと、またキャンディをくれたのね、[player]君？"
 
 translate Japanese mas_reaction_candy_b103491f:
     m 1hub "ありがとう！"
@@ -627,7 +609,7 @@ translate Japanese mas_reaction_candy_9955c8cd:
     m 1eka "あなたも、私にそうなって欲しくはないでしょう？"
 
 translate Japanese mas_reaction_candy_94c0ba37:
-    m 2wfd "[player]！"
+    m 2wfd "[player]君！"
 
 translate Japanese mas_reaction_candy_cb91bdc1:
     m 2tfd "話を聞いてないの？"
@@ -681,13 +663,13 @@ translate Japanese mas_reaction_candycorn_6d3e03ad:
     m 4eka "ハロウィンにキャンディを贈ってくれたあなたの気持ち、本当に嬉しかったわ"
 
 translate Japanese mas_reaction_candycorn_fc2537ff:
-    m 1hua "でもね[player]、他のお菓子を渡してくれたなら、本当に幸せな気持ちになれるんだけどなあ！"
+    m 1hua "でもね[player]君、他のお菓子を渡してくれたなら、本当に幸せな気持ちになれるんだけどなあ！"
 
 translate Japanese mas_reaction_candycorn_53acb405:
     m 2esc "あら"
 
 translate Japanese mas_reaction_candycorn_1aba17d2:
-    m 2esc "またキャンディーコーンをくれたの[player]？"
+    m 2esc "またキャンディーコーンをくれたの[player]君？"
 
 translate Japanese mas_reaction_candycorn_37b51068:
     m 4esc "キャンディコーンはあまり好きじゃないって言ったはずよね"
@@ -705,7 +687,7 @@ translate Japanese mas_reaction_candycorn_3201a8bc:
     m 1hubfa "えへへ～"
 
 translate Japanese mas_reaction_candycorn_3507e2a3:
-    m 2wfw "[player]！"
+    m 2wfw "[player]君！"
 
 translate Japanese mas_reaction_candycorn_445f90bd:
     m 2tfc "こんな事は言いたくないんだけどね、でも……"
@@ -741,7 +723,7 @@ translate Japanese mas_reaction_fudge_28f34feb:
     m 1wub "あっ、今回は違う味なのね……"
 
 translate Japanese mas_reaction_fudge_9ca5cc81:
-    m 3hua "ありがとう[player]！"
+    m 3hua "ありがとう[player]君！"
 
 translate Japanese mas_reaction_fudge_c6690697:
     m 1wuo "……またファッジなの？"
@@ -756,7 +738,7 @@ translate Japanese mas_reaction_christmascookies_8f70ecff:
     m 3wuo "……またクリスマスクッキーを贈ってきたの？"
 
 translate Japanese mas_reaction_christmascookies_c03e2a06:
-    m 3rksdla "[player]、まだ最後に贈られた分も食べきれてないんだよ！"
+    m 3rksdla "[player]君、まだ最後に贈られた分も食べきれてないんだよ！"
 
 translate Japanese mas_reaction_christmascookies_d136291b:
     m 3eksdla "贈るにしても、これが食べ終わってからにして。いいわね？"
@@ -786,13 +768,13 @@ translate Japanese mas_reaction_christmascookies_b217afe2:
     m 3hua "絶対に後で食べるからね～"
 
 translate Japanese mas_reaction_christmascookies_65b38600:
-    m 1eua "ありがとう、[player]〜"
+    m 1eua "ありがとう、[player]君〜"
 
 translate Japanese mas_reaction_christmascookies_9546b108:
     m 3eua "まずこのぬいぐるみを退けてっと"
 
 translate Japanese mas_reaction_candycane_e8716859:
-    m 1eksdla "[player]、もうキャンディケーンは十分だと思うな"
+    m 1eksdla "[player]君、もうキャンディケーンは十分だと思うな"
 
 translate Japanese mas_reaction_candycane_8c1f3ab9:
     m 1eka "だから、今後のために取っておいてね？"
@@ -801,7 +783,7 @@ translate Japanese mas_reaction_candycane_9f5bba39:
     m 3hua "キャンディケーンがいっぱい！"
 
 translate Japanese mas_reaction_candycane_237935d0:
-    m 3hub "ありがとう[player]！"
+    m 3hub "ありがとう[player]君！"
 
 translate Japanese mas_reaction_candycane_7661d714:
     m 3wub "キャンディケーンだ！"
@@ -816,7 +798,7 @@ translate Japanese mas_reaction_candycane_38600e05:
     m 3hua "これは後でゆっくりいただくね"
 
 translate Japanese mas_reaction_candycane_65b38600:
-    m 1eua "ありがとうね、[player]～"
+    m 1eua "ありがとうね、[player]君～"
 
 translate Japanese mas_reaction_candycane_fc6cbbaf:
     m 3eua "あ、まずこのぬいぐるみを退けてっと"
@@ -831,7 +813,7 @@ translate Japanese mas_reaction_new_ribbon_70a3f7a2:
     m 1tub "……私の目と同じ色！"
 
 translate Japanese mas_reaction_new_ribbon_24cf728f:
-    m 1hub "ホントにありがとう[player]、愛してる！"
+    m 1hub "ホントにありがとう[player]君、愛してる！"
 
 translate Japanese mas_reaction_new_ribbon_8a38001d:
     m 3eka "スカートとかリボンを買うのが好きだから、私のために用意してくれたの？"
@@ -870,16 +852,16 @@ translate Japanese mas_reaction_new_ribbon_05d320d0:
     m 2dsa "早速付けてみるわ…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_reaction_new_ribbon_dc1a07fc:
-    m 3hua "ホントにありがとう[player]、ホント愛してる！"
+    m 3hua "ホントにありがとう[player]君、ホント愛してる！"
 
 translate Japanese mas_reaction_old_ribbon_da2fbd09:
-    m 1rksdla "[player]……"
+    m 1rksdla "[player]君……"
 
 translate Japanese mas_reaction_old_ribbon_e0b2609b:
     m 1hksdlb "もう[_mas_new_ribbon_color!t]のリボンは貰ってるよ！"
 
 translate Japanese mas_reaction_gift_roses_5308155e:
-    m 1eka "あの、[player]… こ、これってどういうことなの…？"
+    m 1eka "あの、[player]君…… こ、これってどういうことなの……？"
 
 translate Japanese mas_reaction_gift_roses_526674b1:
     m 1ekbsb "こんなたくさんのバラを私に贈ってくれるなんて！"
@@ -891,7 +873,7 @@ translate Japanese mas_reaction_gift_roses_63d386dc:
     m 3ekbsa "バレンタインにこんな素敵なものを贈ってもらえるなんて……"
 
 translate Japanese mas_reaction_gift_roses_12516124:
-    m 1ekbsu "[player]は優しい人だね"
+    m 1ekbsu "[player]君は優しい人だね"
 
 translate Japanese mas_reaction_gift_roses_f4e32d64:
     m 1dktpu "……"
@@ -905,53 +887,53 @@ translate Japanese mas_reaction_gift_roses_021c15c5:
 translate Japanese mas_reaction_gift_roses_af302dec:
     m 1hub "えへへ、じゃーん！ 素敵でしょ？"
 
-translate Japanese _call_monika_kissing_motion_short_3_507d86ca:
+translate Japanese _call_monika_kissing_motion_short_507d86ca:
     m 1suo "わあっ！"
 
-translate Japanese _call_monika_kissing_motion_short_3_9bd4a258:
-    m 1ekbsa "ありがとう、[player]"
+translate Japanese _call_monika_kissing_motion_short_9bd4a258:
+    m 1ekbsa "ありがとう、[player]君"
 
-translate Japanese _call_monika_kissing_motion_short_3_6d881a3b:
+translate Japanese _call_monika_kissing_motion_short_6d881a3b:
     m 3ekbsa "あなたからバラを贈ってもらうの大好きなんだ"
 
-translate Japanese _call_monika_kissing_motion_short_3_88da808b:
+translate Japanese _call_monika_kissing_motion_short_88da808b:
     m 1dsbsu "今日みたいな特別な日には特にね"
 
-translate Japanese _call_monika_kissing_motion_short_3_cd5bd24d:
+translate Japanese _call_monika_kissing_motion_short_cd5bd24d:
     m 1ekbsa "贈ってくれて本当にありがとう"
 
-translate Japanese _call_monika_kissing_motion_short_3_bf91a912:
+translate Japanese _call_monika_kissing_motion_short_bf91a912:
     m 3hkbsa "愛してるわ"
 
-translate Japanese _call_monika_kissing_motion_short_3_e4c3a26e:
-    m 1ekbsa "[player]、ハッピーバレンタイン～"
+translate Japanese _call_monika_kissing_motion_short_e4c3a26e:
+    m 1ekbsa "[player]君、ハッピーバレンタイン～"
 
-translate Japanese _call_monika_kissing_motion_short_3_f6b058ff:
-    m 1ekbsa "[player]は本当に優しい人"
+translate Japanese _call_monika_kissing_motion_short_f6b058ff:
+    m 1ekbsa "[player]君は本当に優しい人"
 
-translate Japanese _call_monika_kissing_motion_short_3_021c15c5:
-    m 2dsa "ちょっと待っててね.{w=0.5}.{w=0.5}.{nw}"
+translate Japanese _call_monika_kissing_motion_short_021c15c5:
+    m 2dsa "ちょっと待っててね…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_monika_kissing_motion_short_3_0d8345dc:
+translate Japanese _call_monika_kissing_motion_short_0d8345dc:
     m 1hub "えへへ～"
 
-translate Japanese _call_monika_kissing_motion_short_4_9a483078:
+translate Japanese _call_monika_kissing_motion_short_1_9a483078:
     m 1hksdla "ねえ[player]、バラを贈ってくれるのは本当に嬉しいんだけど、そんなにたくさん贈らなくても大丈夫よ"
 
-translate Japanese _call_monika_kissing_motion_short_4_8ced6567:
+translate Japanese _call_monika_kissing_motion_short_1_8ced6567:
     m 1ekbsa "あなたが贈ってくれたバラはいつでも特別なバラになっちゃうからね、えへへ～"
 
-translate Japanese _call_monika_kissing_motion_short_4_53ccf0fb:
+translate Japanese _call_monika_kissing_motion_short_1_53ccf0fb:
     m 1ekbsa "たとえ一輪のバラでも、あなたが贈ってくれたのならそれは最高の贈り物だよ"
 
 translate Japanese mas_reaction_gift_chocolates_56aa294a:
     m 1tsu "あなたって本当に私に{i}甘い{/i}ね、えへへ"
 
 translate Japanese mas_reaction_gift_chocolates_d8f3ba7f:
-    m 1ekbsa "バレンタインにチョコレートを贈ってくれるなんて…・・・・"
+    m 1ekbsa "バレンタインにチョコレートを贈ってくれるなんて……"
 
 translate Japanese mas_reaction_gift_chocolates_0b8ac3d6:
-    m 1ekbfa "どうしたら女の子が幸せな気持ちになれるかよくわかってるね、[player]"
+    m 1ekbfa "どうしたら女の子が幸せな気持ちになれるかよくわかってるね、[player]君"
 
 translate Japanese mas_reaction_gift_chocolates_86c43bb2:
     m 1lkbfa "いつか一緒にチョコのお店に行こうって言ったよね……"
@@ -969,10 +951,10 @@ translate Japanese mas_reaction_gift_chocolates_6322c21d:
     m 3hub "その日はまだ来てないけれど。けど、このチョコレートは受け取ることができるからね"
 
 translate Japanese mas_reaction_gift_chocolates_c2f2059b:
-    m 1ekc "でもね、一緒にチョコを食べられたなって。そう思わずにはいられないな……"
+    m 1ekc "でもね、一緒にチョコを食べられたらなって。そう思わずにはいられないな……"
 
 translate Japanese mas_reaction_gift_chocolates_c0e48f8c:
-    m 3rksdlb "いつかその日が来るその時まで、ふたりのためにチョコを楽しまないとね？あはは？"
+    m 3rksdlb "いつかその日が来るその時まで、ふたりのためにチョコを楽しまないとね？あはは！"
 
 translate Japanese mas_reaction_gift_chocolates_01eee8d5:
     m 3hua "贈り物ありがとう、[mas_get_player_nickname()]〜"
@@ -984,13 +966,13 @@ translate Japanese mas_reaction_gift_chocolates_56f3d567:
     m 1eka "だけどあなたから贈られたものだから、もっと大好き"
 
 translate Japanese mas_reaction_gift_chocolates_c23cf6d1:
-    m 1hub "贈り物ありがとう、[player]！"
+    m 1hub "贈り物ありがとう、[player]君！"
 
 translate Japanese mas_reaction_gift_chocolates_2ec4f870:
     m 1wuo "あっ！"
 
 translate Japanese mas_reaction_gift_chocolates_2894639f:
-    m 1eka "[player]！"
+    m 1eka "[player]君！"
 
 translate Japanese mas_reaction_gift_chocolates_b2a16cb5:
     m 1ekbsa "あなたは本当に優しいね、今日のような日にチョコレートを贈ってくれるなんて……"
@@ -999,28 +981,31 @@ translate Japanese mas_reaction_gift_chocolates_fb837bbc:
     m 1ekbfa "どうすれば私が幸せな気持ちになれるかよく知ってるね"
 
 translate Japanese mas_reaction_gift_chocolates_4584592d:
-    m "ありがとう、[player]"
+    m "ありがとう、[player]君"
 
 translate Japanese mas_reaction_gift_chocolates_8cda0eb0:
-    m 1hua "バレンタインにチョコレートを贈ってくれるなんて…・・・・"
+    m 1hua "バレンタインにチョコレートを贈ってくれるなんて……"
 
 translate Japanese mas_reaction_gift_chocolates_d3540c37:
-    m 1ekbsa "どうしたら女の子が幸せな気持ちになれるかよくわかってるね、[player]"
+    m 1ekbsa "どうしたら女の子が幸せな気持ちになれるかよくわかってるね、[player]君"
 
-translate Japanese mas_reaction_gift_chocolates_2_6c54ed1f:
+translate Japanese mas_reaction_gift_chocolates_6c54ed1f:
     m 1eka "[player]、またチョコをくれたの？"
 
-translate Japanese mas_reaction_gift_chocolates_2_7d18d591:
-    m 3tku "あなたって本当に私を甘やかすのが大好きなんだから、あはは！"
+translate Japanese mas_reaction_gift_chocolates_4db4341a:
+    m 3tku "あなたって本当に私を甘やかすのが大好きなんだから、{w=0.2}{nw}"
 
-translate Japanese mas_reaction_gift_chocolates_2_4e346153:
+translate Japanese mas_reaction_gift_chocolates_4728e9ab:
+    extend 3tub "あはは！"
+
+translate Japanese mas_reaction_gift_chocolates_4e346153:
     m 1rksdla "でもまだあなたがくれたチョコの箱も食べ終わってないんだよね……"
 
-translate Japanese mas_reaction_gift_chocolates_2_8a20c104:
-    m 1hub "…でもありがとう！"
+translate Japanese mas_reaction_gift_chocolates_8a20c104:
+    m 1hub "……でもありがとう！"
 
 translate Japanese mas_reaction_gift_chocolates_6e92af18:
-    m 1ekd "ねえ[player]……"
+    m 1ekd "ねえ[player]君……"
 
 translate Japanese mas_reaction_gift_chocolates_41b3791e:
     m 3eka "今日はもうチョコはいっぱいもらったよ"
@@ -1031,14 +1016,14 @@ translate Japanese mas_reaction_gift_chocolates_9e7d0a90:
 translate Japanese mas_reaction_gift_chocolates_e8f8dbb9:
     m 1eka "だから、また別の日のためにそのプレゼントは取っておいてね？"
 
-translate Japanese mas_reaction_gift_chocolates_3_046f1f31:
-    m 2tfd "[player]！"
+translate Japanese mas_reaction_gift_chocolates_046f1f31:
+    m 2tfd "[player]君！"
 
-translate Japanese mas_reaction_gift_chocolates_3_235e1654:
-    m 2tkc "今日はもうチョコは十分だって言ったよね？ なんでまた贈ってきたの…？"
+translate Japanese mas_reaction_gift_chocolates_235e1654:
+    m 2tkc "今日はもうチョコは十分だって言ったよね？ なんでまた贈ってきたの……？"
 
-translate Japanese mas_reaction_gift_chocolates_3_89a0ff27:
-    m 2eksdla "お願いだから…{w=1} 贈るならまた別の日にして"
+translate Japanese mas_reaction_gift_chocolates_89a0ff27:
+    m 2eksdla "お願いだから……{w=1} 贈るならまた別の日にして"
 
 translate Japanese mas_remove_choc_bf07de9c:
     m 1hua "……"
@@ -1052,7 +1037,7 @@ translate Japanese mas_remove_choc_17273ef2:
 translate Japanese mas_remove_choc_8f54a9a6:
     m 1rksdla "ずっとここに置いてたら、何もできないからね！"
 
-translate Japanese _call_mas_transition_from_emptydesk_24_303f46fc:
+translate Japanese _call_mas_transition_from_emptydesk_4_303f46fc:
     m 1eua "それじゃ、今日はこれから何しようか？"
 
 translate Japanese mas_reaction_gift_clothes_orcaramelo_bikini_shell_7b0a25a9:
@@ -1061,37 +1046,37 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_bikini_shell_7b0a25a9:
 translate Japanese mas_reaction_gift_clothes_orcaramelo_bikini_shell_e2e99624:
     m 1hub "ありがとう、 [mas_get_player_nickname()]！{w=0.5}早速水着に着替えてみるね！"
 
-translate Japanese _call_mas_clothes_change_9_c776326d:
-    m 2ekbfa "えっと…{w=0.5} どうかな？"
+translate Japanese _call_mas_clothes_change_1_c776326d:
+    m 2ekbfa "えっと……{w=0.5} どうかな？"
 
-translate Japanese _call_mas_clothes_change_9_69da2244:
+translate Japanese _call_mas_clothes_change_1_69da2244:
     m 2hubfa "人魚みたいに見えるかな？ えへへ～"
 
-translate Japanese _call_mas_clothes_change_9_d4733bf8:
+translate Japanese _call_mas_clothes_change_1_d4733bf8:
     m 5ekbfa "本当に可愛い水着だって思うんだけど……"
 
-translate Japanese _call_mas_clothes_change_9_1f5604ba:
+translate Japanese _call_mas_clothes_change_1_1f5604ba:
     m 5hubfa "いつか一緒に海に行かないとね、[player]！"
 
-translate Japanese _call_mas_clothes_change_9_dd5a540c:
+translate Japanese _call_mas_clothes_change_1_dd5a540c:
     m 2rksdla "……でも、正直今の季節でこの衣装を着てると、凍えそうだよ……"
 
-translate Japanese _call_mas_clothes_change_9_0ce41e5f:
+translate Japanese _call_mas_clothes_change_1_0ce41e5f:
     m 2eka "だから、暖かい服装に着替えてくるね……"
 
-translate Japanese _call_mas_clothes_change_9_7c60149f:
+translate Japanese _call_mas_clothes_change_1_7c60149f:
     m 2hksdlb "あはは……"
 
-translate Japanese _call_mas_clothes_change_9_96cea41f:
+translate Japanese _call_mas_clothes_change_1_96cea41f:
     m 2rksdla "あなたの前でこの衣装で座ってると思うと、ちょっと恥ずかしいね"
 
-translate Japanese _call_mas_clothes_change_9_ee666003:
+translate Japanese _call_mas_clothes_change_1_ee666003:
     m 2eka "もしいいなら、着替えてきたいんだけどいいかな"
 
-translate Japanese _call_mas_clothes_change_10_f088a36b:
+translate Japanese _call_mas_clothes_change_2_f088a36b:
     m 2eua "あ、こっちのほうがいいね……"
 
-translate Japanese _call_mas_clothes_change_10_18a30af1:
+translate Japanese _call_mas_clothes_change_2_18a30af1:
     m 3hua "素敵なプレゼントまた贈ってくれてありがとう～"
 
 translate Japanese mas_reaction_gift_acs_orcaramelo_hairflower_pink_577dbbb7:
@@ -1121,31 +1106,31 @@ translate Japanese mas_reaction_gift_clothes_velius94_shirt_pink_d341f971:
 translate Japanese mas_reaction_gift_clothes_velius94_shirt_pink_41627702:
     m 3eua "少し待ってて、早速着替えてくるね……"
 
-translate Japanese _call_mas_clothes_change_11_e4352ccc:
+translate Japanese _call_mas_clothes_change_3_e4352ccc:
     m 2sub "あ！ すごくピッタリ！"
 
-translate Japanese _call_mas_clothes_change_11_d51fffb4:
+translate Japanese _call_mas_clothes_change_3_d51fffb4:
     m 3hub "ピンクと黒の色合いも本当に素敵！いい組み合わせだと思うわ"
 
-translate Japanese _call_mas_clothes_change_11_4464c65a:
+translate Japanese _call_mas_clothes_change_3_4464c65a:
     m 3eub "それにスカートも！フリルがとってもキュート！"
 
-translate Japanese _call_mas_clothes_change_11_f0b2954c:
+translate Japanese _call_mas_clothes_change_3_f0b2954c:
     m 2tfbsd "なぜかわからないけど、あなたの目が少し泳いでいるような… "
 
-translate Japanese _call_mas_clothes_change_11_a7b43979:
+translate Japanese _call_mas_clothes_change_3_a7b43979:
     m 2lfbsp "ジロジロ見るのは行儀が悪いって前に言ったでしょ、[player]"
 
-translate Japanese _call_mas_clothes_change_11_19a7eead:
+translate Japanese _call_mas_clothes_change_3_19a7eead:
     m 2lfbsp "ジロジロ見るのは行儀が悪いよ？"
 
-translate Japanese _call_mas_clothes_change_11_6896f9a3:
+translate Japanese _call_mas_clothes_change_3_6896f9a3:
     m 2hubsb "なんてね、あはは！"
 
-translate Japanese _call_mas_clothes_change_11_dc0b49b0:
+translate Japanese _call_mas_clothes_change_3_dc0b49b0:
     m 2tkbsu "落ち着いて、落ち着いて… {w=0.5}からかっただけだよ〜"
 
-translate Japanese _call_mas_clothes_change_11_e0f2dbe1:
+translate Japanese _call_mas_clothes_change_3_e0f2dbe1:
     m 3hub "もう一度言うね、この服を贈ってくれてありがとう、[player]！"
 
 translate Japanese mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_5be96721:
@@ -1166,19 +1151,19 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_890fceca:
 translate Japanese mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_fdbfb956:
     m 1eub "それじゃ、早速着てみるね！"
 
-translate Japanese _call_mas_clothes_change_12_0186721e:
+translate Japanese _call_mas_clothes_change_4_0186721e:
     m 2hua "どうかな{w=0.5}、似合ってる？"
 
-translate Japanese _call_mas_clothes_change_12_7750e055:
+translate Japanese _call_mas_clothes_change_4_7750e055:
     m 3eub "この服を着ていると、なんだか瞬きする間に何もかもをこなせるような気がするわ"
 
-translate Japanese _call_mas_clothes_change_12_e1f54fbd:
+translate Japanese _call_mas_clothes_change_4_e1f54fbd:
     m 1eua "…忙しくさせない限りだけどね、えへへ～"
 
-translate Japanese _call_mas_clothes_change_12_be34e17e:
+translate Japanese _call_mas_clothes_change_4_be34e17e:
     m 1lkbfb "あなたともっとたくさんの時間を過ごせるといいわね、ご主人さ{nw}"
 
-translate Japanese _call_mas_clothes_change_12_b6515540:
+translate Japanese _call_mas_clothes_change_4_b6515540:
     m 1ekbfb "あなたともっとたくさんの時間を過ごせるといいわね、{fasy}[player]"
 
 translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_bd217a82:
@@ -1187,8 +1172,8 @@ translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_bd217a82:
 translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_11168006:
     m 1suo "マフラーも付いてる！"
 
-translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_73d43795:
-    m 3rksdla "…見ているだけで暑くなってきちゃう、あはは……"
+translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_a442e4f9:
+    m 3rksdlu "……見ているだけで暑くなってきちゃう、あはは……"
 
 translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_a87e4fab:
     m 3eksdla "これは夏に着ていいものじゃないわね、[player]"
@@ -1202,19 +1187,19 @@ translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_ffd6edb4:
 translate Japanese mas_reaction_gift_clothes_finale_jacket_brown_d35c739d:
     m 3eub "早速袖を通してみるね！ すぐに戻るよ"
 
-translate Japanese _call_mas_clothes_change_13_b5214b8a:
+translate Japanese _call_mas_clothes_change_5_b5214b8a:
     m 2dku "あ～、気持ちいい～"
 
-translate Japanese _call_mas_clothes_change_13_d8b27586:
+translate Japanese _call_mas_clothes_change_5_d8b27586:
     m 1eua "見た目もいい感じだね。どうかな？"
 
-translate Japanese _call_mas_clothes_change_13_7ea0cc32:
-    m 3tku "まあ… あなたに客観的な判断を期待しているわけじゃないからね？"
+translate Japanese _call_mas_clothes_change_5_7ea0cc32:
+    m 3tku "まあ…… あなたに客観的な判断を期待しているわけじゃないからね？"
 
-translate Japanese _call_mas_clothes_change_13_3aa0a1ce:
+translate Japanese _call_mas_clothes_change_5_3aa0a1ce:
     m 1hubfb "あはは！"
 
-translate Japanese _call_mas_clothes_change_13_ff5aa00b:
+translate Japanese _call_mas_clothes_change_5_ff5aa00b:
     m 1ekbfa "ありがとう、[player]。気に入ったわ"
 
 translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_5d08ac1b:
@@ -1229,13 +1214,13 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_2c8
 translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_fa1000e4:
     m 3eua "早速着てみるね"
 
-translate Japanese _call_mas_clothes_change_14_fc39eaf4:
-    m 2dkbsu "あぁ… {w=1}ふかふか。 とっても気持ちいいわ"
+translate Japanese _call_mas_clothes_change_6_fc39eaf4:
+    m 2dkbsu "あぁ… {w=1}ふかふか。 とっても気持ちいいわ。えへへ～"
 
-translate Japanese _call_mas_clothes_change_14_54255a56:
+translate Japanese _call_mas_clothes_change_6_54255a56:
     m 1ekbsa "ありがとう、[player]！ 気に入っちゃった！"
 
-translate Japanese _call_mas_clothes_change_14_bd861cb0:
+translate Japanese _call_mas_clothes_change_6_bd861cb0:
     m 3hubsb "着るたびにあなたの温もりを思い出しちゃうね、あはは～"
 
 translate Japanese mas_reaction_gift_clothes_velius94_dress_whitenavyblue_73cacad3:
@@ -1247,16 +1232,16 @@ translate Japanese mas_reaction_gift_clothes_velius94_dress_whitenavyblue_60f1b0
 translate Japanese mas_reaction_gift_clothes_velius94_dress_whitenavyblue_7fc3e8d3:
     m 3hub "今すぐ着替えてみるよ！"
 
-translate Japanese _call_mas_clothes_change_15_c6845f26:
+translate Japanese _call_mas_clothes_change_7_c6845f26:
     m "それで、どうかな？{w=0.5}似合う？"
 
-translate Japanese _call_mas_clothes_change_15_f63d454c:
+translate Japanese _call_mas_clothes_change_7_f63d454c:
     m 3eua "この青が白い生地と本当によく合ってると思うわ"
 
-translate Japanese _call_mas_clothes_change_15_648f5ecc:
+translate Japanese _call_mas_clothes_change_7_648f5ecc:
     m 3eub "それにこのバニーシュシュも、この服装にぴったりね！"
 
-translate Japanese _call_mas_clothes_change_15_4bc2a6f7:
+translate Japanese _call_mas_clothes_change_7_4bc2a6f7:
     m 1eka "贈り物どうもありがとう、[player]"
 
 translate Japanese mas_reaction_gift_clothes_mocca_bun_blackandwhitestripedpullover_7e685381:
@@ -1266,18 +1251,18 @@ translate Japanese mas_reaction_gift_clothes_mocca_bun_blackandwhitestripedpullo
     m 3hub "[player]、とっても素敵なシャツね！"
 
 translate Japanese mas_reaction_gift_clothes_mocca_bun_blackandwhitestripedpullover_b6b1cd76:
-    m 3eua "待っててね、今着替えてみるから.{w=0.3}.{w=0.3}.{w=0.3}{nw}"
+    m 3eua "待っててね、今着替えてみるから{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_mas_clothes_change_16_d633ba3a:
+translate Japanese _call_mas_clothes_change_8_d633ba3a:
     m 2eua "えっと、どうかな？"
 
-translate Japanese _call_mas_clothes_change_16_f99a5bda:
-    m 7hua "個人的にはとても似合ってると思うんだけど。{w=0.2} {nw}"
+translate Japanese _call_mas_clothes_change_8_f99a5bda:
+    m 7hua "個人的にはとても似合ってると思うんだけど{w=0.2}{nw}"
 
-translate Japanese _call_mas_clothes_change_16_cab6cd27:
+translate Japanese _call_mas_clothes_change_8_cab6cd27:
     extend 3rubsa "これはとっておきの、デート用の勝負服にするかな～"
 
-translate Japanese _call_mas_clothes_change_16_db73877e:
+translate Japanese _call_mas_clothes_change_8_db73877e:
     m 1hub "贈り物ありがとうね、[player]！"
 
 translate Japanese strings:
