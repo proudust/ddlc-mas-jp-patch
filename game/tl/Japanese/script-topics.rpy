@@ -14425,6 +14425,9 @@ translate Japanese _call_monika_grad_speech_5b6420ba:
 translate Japanese _call_monika_grad_speech_1_c61f257d:
     m 2dkc "……"
 
+translate Japanese _call_monika_grad_speech_2_bdafe2c1:
+    m 2subsb "うわあ、[player]君！"
+
 translate Japanese _call_monika_grad_speech_2_812e0590:
     m 2eka "[player]、聴いてくれてありがとうね～"
 
