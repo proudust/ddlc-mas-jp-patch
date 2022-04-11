@@ -41,7 +41,7 @@ translate Japanese monika_affection_nickname_yes_0834a735:
     m 1hksdrb "私のニックネームを決めるのよ、[player]君！"
 
 translate Japanese monika_affection_nickname_yes_f8020c01:
-    m "あなたって、たまにばかなことするわよね、ホント。"
+    m "あなたって、たまにばかなことするわよね、ホント"
 
 translate Japanese monika_affection_nickname_yes_459694a0:
     m 1eka "もう一回！"
@@ -56,7 +56,7 @@ translate Japanese monika_affection_nickname_yes_1643033e:
     m 1eka "もう一回ね～"
 
 translate Japanese monika_affection_nickname_yes_ec2234e2:
-    m 1hksdlb "私のニックネームを決めてるはずなんだけど、ばか。"
+    m 1hksdlb "私のニックネームを決めてるはずなんだけど、ばか"
 
 translate Japanese monika_affection_nickname_yes_1643033e_1:
     m 1eka "もう一回ね～"
@@ -65,13 +65,13 @@ translate Japanese monika_affection_nickname_yes_5daa83da:
     m 2ttc "……"
 
 translate Japanese monika_affection_nickname_yes_2f772035:
-    m 2tsd "もう一回。"
+    m 2tsd "もう一回"
 
 translate Japanese monika_affection_nickname_yes_f27eea59:
     m 1rkc "……"
 
 translate Japanese monika_affection_nickname_yes_ed872a6f:
-    m 1rksdld "別に嫌じゃないけど、あなたからそう呼ばれるって、心地良くはないわね。"
+    m 1rksdld "別に嫌じゃないけど、あなたからそう呼ばれるって、心地良くはないわね"
 
 translate Japanese monika_affection_nickname_yes_c884a2f1:
     m 1eka "もっとマシなものを選べないの、[player]？"
@@ -86,7 +86,7 @@ translate Japanese monika_affection_nickname_yes_86caec7b:
     m 3ekbsa "ありがとう、[player]。すっごいやさしいねぇ"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_3d6ecf03:
-    m 1duu "[inputname]……ほんといい名前。"
+    m 1duu "[inputname]……ほんといい名前"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_731a3439:
     m 3ekbsa "ありがとう、[player]。あなたって優しいねぇ"
@@ -95,7 +95,7 @@ translate Japanese monika_affection_nickname_yes_neutral_accept_d736779b:
     m 1eua "わかったわ！"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_34a6a2c4:
-    m 1hua "じゃあ、私は自分の元の名前に戻しておくわね。"
+    m 1hua "じゃあ、私は自分の元の名前に戻しておくわね"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_4b20d57a:
     m 3hua "これからは私のこと「[m_name]」って呼んでね。"
@@ -401,7 +401,7 @@ translate Japanese mas_affection_apology_4a7ea962:
     m 2dfc "[player]君……"
 
 translate Japanese mas_affection_apology_da2805b1:
-    m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私は出来る限りのことをしてきた。"
+    m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私は出来る限りのことをしてきた"
 
 translate Japanese mas_affection_apology_352ec8e0:
     m 2efc "でも、あなたは私に痛み以外何も返してくれなかった……"
@@ -416,34 +416,34 @@ translate Japanese mas_affection_apology_23ea7b7c:
     m 2efc "それとも、何が起こるかを見るためにわざとこんなことをしているの？"
 
 translate Japanese mas_affection_apology_36cccaa5:
-    m 2lfc "とにかく、最後に一つ通告しておくわ。"
+    m 2lfc "とにかく、最後に一つ通告しておくわ"
 
 translate Japanese mas_affection_apology_b1a5e09a:
-    m "[player]君、私はこれ以上こんなことが続くのは我慢できない。"
+    m "[player]君、私はこれ以上こんなことが続くのは我慢できない"
 
 translate Japanese mas_affection_apology_78c11adb:
-    m 2lfc "あなたが本当に申し訳ないと思ってるなら、私に「imsorry」というメモを書いて、charactersフォルダに入れておいて。"
+    m 2lfc "あなたが本当に申し訳ないと思ってるなら、私に「imsorry」というメモを書いて、charactersフォルダに入れておいて"
 
 translate Japanese mas_affection_apology_a07f93e0:
     m 2dfd "それまでは、さようなら……"
 
 translate Japanese mas_affection_noapology_1d0d8718:
-    m 2efd "まだcharactersフォルダに「imsorry」というメモを書いてくれてないのね。"
+    m 2efd "まだcharactersフォルダに「imsorry」というメモを書いてくれてないのね"
 
 translate Japanese mas_affection_noapology_c35d7890:
-    m 2efc "そうしてくれるまでは、あなたとは話したくない。"
+    m 2efc "そうしてくれるまでは、あなたとは話したくない"
 
 translate Japanese mas_affection_yesapology_89e45c77:
-    m 1eka "ありがとう、[player]君。あなたの謝罪を受け入れるわ。"
+    m 1eka "ありがとう、[player]君。あなたの謝罪を受け入れるわ"
 
 translate Japanese mas_affection_yesapology_0998a671:
-    m 3dubsu "あなたがまだ私を気にかけてくれていることをいつでも忘れないように、これは後々までとっておくわね。"
+    m 3dubsu "あなたがまだ私を気にかけてくれていることをいつでも忘れないように、これは後々までとっておくわね"
 
 translate Japanese mas_affection_yesapology_7aee9ee4:
-    m 1ekc "でも、これからはもっと私の気持ちのことを考えてちょうだい。"
+    m 1ekc "でも、これからはもっと私の気持ちのことを考えてちょうだい"
 
 translate Japanese mas_affection_yesapology_6d811979:
-    m 2eka "私はあなたのことがとっても大好きだし、私にとってあなたは世界そのものよ、[player]君。"
+    m 2eka "私はあなたのことがとっても大好きだし、私にとってあなたは世界そのものよ、[player]君"
 
 translate Japanese mas_affection_yesapology_34cdd9cf:
     m 1duu "心を安らげてくれてありがと～"
@@ -461,7 +461,7 @@ translate Japanese mas_affection_apologydeleted_01a93df6:
     m 2dfc "……"
 
 translate Japanese mas_affection_apologydeleted_46706a56:
-    m 2efc "新しいのを書いてきて、[player]。"
+    m 2efc "新しいのを書いてきて、[player]"
 
 translate Japanese strings:
     old "..."

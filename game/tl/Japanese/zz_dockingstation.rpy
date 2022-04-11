@@ -34,7 +34,7 @@ translate Japanese mas_dockstat_generic_wait_label_0d1042aa:
 translate Japanese _call_mas_dockstat_abort_post_show_1c1d8caa:
     m 2hub "よかった！じゃあ、準備終わらせてくるね"
 
-translate Japanese _call_mas_transition_from_emptydesk_29_05fd4282:
+translate Japanese _call_mas_transition_from_emptydesk_15_05fd4282:
     m 1eua "それじゃあ行きましょうか"
 
 translate Japanese _call_mas_dockstat_abort_post_show_1_2cb63058:

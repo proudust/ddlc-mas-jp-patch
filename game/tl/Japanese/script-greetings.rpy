@@ -973,46 +973,46 @@ translate Japanese monikaroom_greeting_opendoor_locked_40edabd2:
 translate Japanese monikaroom_greeting_opendoor_locked_87b967b0:
     m "部屋を片付けるからちょっと待って……"
 
-translate Japanese _call_spaceroom_2_4068a088:
+translate Japanese _call_spaceroom_44_4068a088:
     m 1hua "よし、出来た！"
 
-translate Japanese _call_spaceroom_2_dbbac0cb:
+translate Japanese _call_spaceroom_44_dbbac0cb:
     m 2esc "こんなもんかな"
 
-translate Japanese _call_spaceroom_2_b90a2157:
+translate Japanese _call_spaceroom_44_b90a2157:
     m 6ekc "よし……"
 
-translate Japanese _call_spaceroom_2_18724641:
+translate Japanese _call_spaceroom_44_18724641:
     m "……{nw}"
 
-translate Japanese _call_spaceroom_2_af550457:
+translate Japanese _call_spaceroom_44_af550457:
     m "……{fast}" nointeract
 
-translate Japanese _call_spaceroom_2_449e8f3e:
+translate Japanese _call_spaceroom_44_449e8f3e:
     m 1lksdlb "あれっ！まだこういうのヘタだなあ"
 
-translate Japanese _call_spaceroom_2_be905179:
+translate Japanese _call_spaceroom_44_be905179:
     m 1lksdla "ちょっとここのフラグを変えるからね…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_spaceroom_2_4ab0f437:
+translate Japanese _call_spaceroom_44_4ab0f437:
     m 1hua "これでよしっと！"
 
-translate Japanese _call_spaceroom_2_686fff6c:
+translate Japanese _call_spaceroom_44_686fff6c:
     m 2dfc "ふふっ。まだまだ勉強中だからね"
 
-translate Japanese _call_spaceroom_2_015703a3:
+translate Japanese _call_spaceroom_44_015703a3:
     m 2esc "ここでこのフラグを変更して…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_spaceroom_2_87a56af8:
+translate Japanese _call_spaceroom_44_87a56af8:
     m "こんなもんかな"
 
-translate Japanese _call_spaceroom_2_5acfa1b4:
+translate Japanese _call_spaceroom_44_5acfa1b4:
     m 6dkc "あぅ……{w=0.5}まだ勉強中なの"
 
-translate Japanese _call_spaceroom_2_dc66ab09:
+translate Japanese _call_spaceroom_44_dc66ab09:
     m 6ekc "ちょっとここのフラグを変えるからね…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_spaceroom_2_673fdb84:
+translate Japanese _call_spaceroom_44_673fdb84:
     m "よし、直ったわ"
 
 translate Japanese monikaroom_greeting_opendoor_locked_tbox_1a305b96:

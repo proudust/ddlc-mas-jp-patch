@@ -861,7 +861,7 @@ translate Japanese mas_reaction_old_ribbon_e0b2609b:
     m 1hksdlb "もう[_mas_new_ribbon_color!t]のリボンは貰ってるよ！"
 
 translate Japanese mas_reaction_gift_roses_5308155e:
-    m 1eka "あの、[player]君… こ、これってどういうことなの…？"
+    m 1eka "あの、[player]君…… こ、これってどういうことなの……？"
 
 translate Japanese mas_reaction_gift_roses_526674b1:
     m 1ekbsb "こんなたくさんのバラを私に贈ってくれるなんて！"

@@ -74,7 +74,7 @@ translate Japanese monika_idle_shower_0bff80f5:
     m "私も一緒に行ってもいい？{fast}" nointeract
 
 translate Japanese monika_idle_shower_d43e1c02:
-    m 2wubsd "えっ、うーん……{w=0.5}ずいぶん返事が早かったわね。"
+    m 2wubsd "えっ、うーん……{w=0.5}ずいぶん返事が早かったわね"
 
 translate Japanese monika_idle_shower_b67d5526:
     m 2hkbfsdlb "あなたは……{w=0.5}私に付いてきてほしいって思ってるのね？"
@@ -83,7 +83,7 @@ translate Japanese monika_idle_shower_0b7694b6:
     m 2rkbfa "そうね……"
 
 translate Japanese monika_idle_shower_4bc4809a:
-    m 7tubfu "ここに閉じ込められている間は、一緒にいられなくてあなたが心配よ。"
+    m 7tubfu "ここに閉じ込められている間は、一緒にいられなくてあなたが心配よ"
 
 translate Japanese monika_idle_shower_51ffc798:
     m 7hubfb "ごめんね、[player]、あはは！"
@@ -92,7 +92,7 @@ translate Japanese monika_idle_shower_daa3b18b:
     m 5kubfu "また今度ね～"
 
 translate Japanese monika_idle_shower_ca2a68da:
-    m 2eka "あら、あっという間に拒否されちゃったわね。"
+    m 2eka "あら、あっという間に拒否されちゃったわね"
 
 translate Japanese monika_idle_shower_4758d949:
     m 3tubsb "恥ずかしがり屋さんね､[player]？"
@@ -101,10 +101,10 @@ translate Japanese monika_idle_shower_3aa0a1ce:
     m 1hubfb "あはは！"
 
 translate Japanese monika_idle_shower_e1899d0a:
-    m 5tubfu "大丈夫よ、今回はついていかないわ、えへへ～。"
+    m 5tubfu "大丈夫よ、今回はついていかないわ、えへへ～"
 
 translate Japanese monika_idle_shower_9b2279a0:
-    m 1hua "あなたがきれい好きで嬉しいわ､[player]｡"
+    m 1hua "あなたがきれい好きで嬉しいわ､[player]"
 
 translate Japanese monika_idle_shower_e61978a3:
     m 1eua "それじゃ、一汗洗い流して来てね～"
@@ -113,16 +113,16 @@ translate Japanese monika_idle_shower_09353815:
     m 1eub "シャワーを浴びに行くの？いいわよ"
 
 translate Japanese monika_idle_shower_b85c19f9:
-    m 1eua "終わったらまたね～。"
+    m 1eua "終わったらまたね～"
 
 translate Japanese monika_idle_shower_callback_1a305b96:
-    m 1eua "おかえりなさい､[player]｡"
+    m 1eua "おかえりなさい､[player]"
 
 translate Japanese monika_idle_shower_callback_2972d983:
     m 3tubsb "シャワーも浴びたし、晩御飯にする？それとも{w=0.5}…{w=0.5}…{w=0.5}"
 
 translate Japanese monika_idle_shower_callback_bb31c0a4:
-    m 1hubsa "もうちょっと私と一緒にくつろいでくれてもいいのに～。"
+    m 1hubsa "もうちょっと私と一緒にくつろいでくれてもいいのに～"
 
 translate Japanese monika_idle_shower_callback_3772217d:
     m 1hub "あはは！"
@@ -143,7 +143,7 @@ translate Japanese bye_brb_shower_timeout_d81c1322:
     m 1hubsa "えへへ～"
 
 translate Japanese bye_brb_shower_timeout_2d049f90:
-    m 3tubfu "それはさておき、[player]｡"
+    m 3tubfu "それはさておき、[player]"
 
 translate Japanese bye_brb_shower_timeout_e2b36ef4:
     m 1hubfb "ごゆっくり～"

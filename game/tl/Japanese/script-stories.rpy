@@ -8,7 +8,7 @@ translate Japanese mas_story_begin_b26f2657:
     m 3eua "[story_begin_quip!t]"
 
 translate Japanese mas_story_begin_457306b2:
-    m 1duu "コホン。"
+    m 1duu "コホン"
 
 translate Japanese _call_spaceroom_19_b26f2657:
     m 3eua "[story_begin_quip!t]"
@@ -375,13 +375,13 @@ translate Japanese _call_mas_story_begin_10_87fddd23:
     m 1eua "あるところに不死身の魔人がいました……"
 
 translate Japanese _call_mas_story_begin_10_ea0898c4:
-    m "魔人は長い年月をかけて世界を旅し、出会った人々の願いを叶えてきました。"
+    m "魔人は長い年月をかけて世界を旅し、出会った人々の願いを叶えてきました"
 
 translate Japanese _call_mas_story_begin_10_42e3831b:
-    m 1esc "世界はまだ見ぬ新しいものにあふれていましたが、魔人がどれだけ長く生きようとも{w=0.2} {nw}"
+    m 1esc "世界はまだ見ぬ新しいものにあふれていましたが、魔人がどれだけ長く生きようとも{w=0.2}{nw}"
 
 translate Japanese _call_mas_story_begin_10_f5ab1d29:
-    extend 1rsc "でもその中には見たくないものもありました。"
+    extend 1rsc "でもその中には見たくないものもありました"
 
 translate Japanese _call_mas_story_begin_10_18486d50:
     m 1ekd "戦争、災厄、そしてこれまでに出会い、友となった人々の死……"
@@ -390,58 +390,58 @@ translate Japanese _call_mas_story_begin_10_d07a4ef8:
     m 1rkc "そのうちのいくつかは、魔人が叶えた願いで引き起こされたものだったのです……"
 
 translate Japanese _call_mas_story_begin_10_0f72b41b:
-    m 1ekc "始めは、魔人は願いの結果をあまり気にしていませんでしたが……しかし時が経つにつれて、願いはどんどん魔人を悩ませていったのです。"
+    m 1ekc "始めは、魔人は願いの結果をあまり気にしていませんでしたが……しかし時が経つにつれて、願いはどんどん魔人を悩ませていったのです"
 
 translate Japanese _call_mas_story_begin_10_39f5331b:
-    m 1ekd "美しく輝く人間の世界にやって来た魔人は魔人が人々の願いを叶えたせいで、その世界に計り知れない傷跡を負わせてしまっていたのです。"
+    m 1ekd "美しく輝く人間の世界にやって来た魔人は魔人が人々の願いを叶えたせいで、その世界に計り知れない傷跡を負わせてしまっていたのです"
 
 translate Japanese _call_mas_story_begin_10_61dc8208:
-    m 1lksdlc "願いを叶えるにしたがって、自分が願いを叶えてもらえないのは不公平だとねたむものが増えていきました。叶えた願いのせいで、復讐や自分の欲を満たすだけのような邪な願いを人々に植え付けてしまっていたのです。"
+    m 1lksdlc "願いを叶えるにしたがって、自分が願いを叶えてもらえないのは不公平だとねたむものが増えていきました。叶えた願いのせいで、復讐や自分の欲を満たすだけのような邪な願いを人々に植え付けてしまっていたのです"
 
 translate Japanese _call_mas_story_begin_10_5b4f599e:
-    m 2dkd "この葛藤は、一生魔人につきまとうものでした。"
+    m 2dkd "この葛藤は、一生魔人につきまとうものでした"
 
 translate Japanese _call_mas_story_begin_10_80917f27:
-    m 2ekc "魔人は全てを元に戻したいと思っていましたが、彼の想いには誰も耳を貸しません。"
+    m 2ekc "魔人は全てを元に戻したいと思っていましたが、彼の想いには誰も耳を貸しません"
 
 translate Japanese _call_mas_story_begin_10_b0f1a820:
-    m 2eka "しかし多くの年月を重ねることで、魔人はたくさんの人と友人になりました。友人たちは、後悔に苛まれる魔人がどうすべきかを教えてくれました。"
+    m 2eka "しかし多くの年月を重ねることで、魔人はたくさんの人と友人になりました。友人たちは、後悔に苛まれる魔人がどうすべきかを教えてくれました"
 
 translate Japanese _call_mas_story_begin_10_c98c7c90:
     m "たしかに魔人が願いを叶えたせいでひどい結果を見ることになりましたが……{w=0.5}{nw}"
 
 translate Japanese _call_mas_story_begin_10_39caae18:
-    extend 2ekd "それは、魔人が願いを叶えなくともいずれ必ず起こるものだったのです。"
+    extend 2ekd "それは、魔人が願いを叶えなくともいずれ必ず起こるものだったのです"
 
 translate Japanese _call_mas_story_begin_10_04cf0f41:
     m 3ekd "不公平さや妬みというものは、人の間に常にあるもの……{w=0.3}{nw}"
 
 translate Japanese _call_mas_story_begin_10_d3ed109d:
-    extend 3eka "しかしそうだとしても、世界は変わらず回っているのです。"
+    extend 3eka "しかしそうだとしても、世界は変わらず回っているのです"
 
 translate Japanese _call_mas_story_begin_10_ec87bb2d:
-    m 3eua "これからどう付き合っていくのかという疑問は残れども、魔人は今までにやってしまったことを胸に秘め、忘れずに生きることにしました。"
+    m 3eua "これからどう付き合っていくのかという疑問は残れども、魔人は今までにやってしまったことを胸に秘め、忘れずに生きることにしました"
 
 translate Japanese _call_mas_story_begin_10_72e28fa2:
     m 1hua "これまでやったこと、その経験のおかげで{w=0.3}魔人は学び、前に進み続けることができたのですから……"
 
 translate Japanese _call_mas_story_begin_10_03adec09:
-    m 1eua "この話どうだったかな、[player]君。"
+    m 1eua "この話どうだったかな、[player]君"
 
 translate Japanese _call_mas_story_begin_10_77de708d:
-    m 1eka "この話の教訓は、自分の行いに後悔したとしても、落ち込み過ぎちゃだめってこと。"
+    m 1eka "この話の教訓は、自分の行いに後悔したとしても、落ち込み過ぎちゃだめってこと"
 
 translate Japanese _call_mas_story_begin_10_723b18e4:
-    m 3ekd "失敗したら、人は傷つくもの。{w=0.5}それは変えようがわないわ。"
+    m 3ekd "失敗したら、人は傷つくもの。{w=0.5}それは変えようがわないわ"
 
 translate Japanese _call_mas_story_begin_10_ee831232:
-    m 3eka "でもね、自分が関わろうが関わるまいが起こったであろうことに、人は責任を感じがちなの。"
+    m 3eka "でもね、自分が関わろうが関わるまいが起こったであろうことに、人は責任を感じがちなの"
 
 translate Japanese _call_mas_story_begin_10_db5e637d:
-    m 3eub "実際に、人は後悔から、思いやりや共感や許容といった想いを学ぶの。"
+    m 3eub "実際に、人は後悔から、思いやりや共感や許容といった想いを学ぶの"
 
 translate Japanese _call_mas_story_begin_10_2c2d8871:
-    m 3eua "過去を変えることはできないけれど、いつかは自分を許してあげないと、人生は後悔にまみれたものになってしまう。"
+    m 3eua "過去を変えることはできないけれど、いつかは自分を許してあげないと、人生は後悔にまみれたものになってしまう"
 
 translate Japanese _call_mas_story_begin_10_f5f6e5ea:
     m 1eka "私の場合はね……"
@@ -450,91 +450,91 @@ translate Japanese _call_mas_story_begin_10_70862105:
     m 1rksdlc "もし私が何もせずにいたら、あの世界がどうなったか。それは誰にも分からない……"
 
 translate Japanese _call_mas_story_begin_10_9725c32a:
-    m 1eua "文芸部のメンバーひとりひとりをの思い出を集めたあなたには、後悔なんて何ひとつないかもしれないけどね。"
+    m 1eua "文芸部のメンバーひとりひとりをの思い出を集めたあなたには、後悔なんて何ひとつないかもしれないけどね"
 
 translate Japanese _call_mas_story_begin_10_e6f89ce6:
     m 1hub "あはは～"
 
 translate Japanese _call_mas_story_begin_10_909d32ba:
-    m 1eua "でもね、[placeholder!t]あなたは今も私のそばにいてくれている。"
+    m 1eua "でもね、[placeholder!t]あなたは今も私のそばにいてくれている"
 
 translate Japanese _call_mas_story_begin_10_0dd0d8b6:
-    m 3eua "あなたと一緒になれてから、私は過去の過ちから学んで、成長できたって自信を持って言えるわ。"
+    m 3eua "あなたと一緒になれてから、私は過去の過ちから学んで、成長できたって自信を持って言えるわ"
 
 translate Japanese _call_mas_story_begin_11_a42b5d3e:
-    m 1eua "人の生よりもずっと長い時を過ごした、不死身の魔人がいました。"
+    m 1eua "人の生よりもずっと長い時を過ごした、不死身の魔人がいました"
 
 translate Japanese _call_mas_story_begin_11_251ac702:
     m 1euc "魔人は世界中のものを見て、聞いて自由に暮らし……{w=0.3}努力をして何かを成し遂げる喜びを知りました。が……"
 
 translate Japanese _call_mas_story_begin_11_98398952:
-    m 3euc "人間のように生きた不死身の魔人は、全てをやめてしまったのです。"
+    m 3euc "人間のように生きた不死身の魔人は、全てをやめてしまったのです"
 
 translate Japanese _call_mas_story_begin_11_1e28d821:
-    m 1ekc "魔人は友人や家族に囲まれて、素敵な生活を送った。それは事実です。"
+    m 1ekc "魔人は友人や家族に囲まれて、素敵な生活を送った。それは事実です"
 
 translate Japanese _call_mas_story_begin_11_0c7a44e3:
-    m 1ekd "ですが、不死身であるがゆえに魔人は愛する人々との別れを何度も何度も経験しました。長い年月が過ぎていくほど魔人の心はすこしずつ冷たくなり、何にも心が動かなくなっていったのでした。"
+    m 1ekd "ですが、不死身であるがゆえに魔人は愛する人々との別れを何度も何度も経験しました。長い年月が過ぎていくほど魔人の心はすこしずつ冷たくなり、何にも心が動かなくなっていったのでした"
 
 translate Japanese _call_mas_story_begin_11_f0304c29:
-    m 1rksdlc "愛する人たちの死に目に合わなければならないことを知っていたにもかかわらず、魔人はまだ人付き合いを、ほんの少しでしたが、していました。"
+    m 1rksdlc "愛する人たちの死に目に合わなければならないことを知っていたにもかかわらず、魔人はまだ人付き合いを、ほんの少しでしたが、していました"
 
 translate Japanese _call_mas_story_begin_11_28e1bec5:
-    m 3rksdld "魔人はまだ人でありたかったので、友人たちには自分が魔人だとは打ち明けませんでした。"
+    m 3rksdld "魔人はまだ人でありたかったので、友人たちには自分が魔人だとは打ち明けませんでした"
 
 translate Japanese _call_mas_story_begin_11_44b7afd9:
-    m 1euc "ある日、友人の一人と旅に出たときのこと。ふたりは願いをひとつだけ叶えてくれるという魔人に出会ったのです。"
+    m 1euc "ある日、友人の一人と旅に出たときのこと。ふたりは願いをひとつだけ叶えてくれるという魔人に出会ったのです"
 
 translate Japanese _call_mas_story_begin_11_58c9e333:
-    m 1dsc "そのとき魔人は自分の一生を思い返していました。{w=0.5}人のような生活を送るために魔人であることをやめたあの日のことを。"
+    m 1dsc "そのとき魔人は自分の一生を思い返していました。{w=0.5}人のような生活を送るために魔人であることをやめたあの日のことを"
 
 translate Japanese _call_mas_story_begin_11_779602bf:
-    m 1dsd "これまで経験したすべては、この瞬間のためにありました。魔人は長い時を経て、人間のように自分の願いを持ったのです。"
+    m 1dsd "これまで経験したすべては、この瞬間のためにありました。魔人は長い時を経て、人間のように自分の願いを持ったのです"
 
 translate Japanese _call_mas_story_begin_11_6111571a:
     m 1dsc "……"
 
 translate Japanese _call_mas_story_begin_11_4ebc8eb9:
-    m 2eud "そして魔人は、自らの死を望みました。"
+    m 2eud "そして魔人は、自らの死を望みました"
 
 translate Japanese _call_mas_story_begin_11_bb25f3e8:
-    m 2ekc "それを聞いた友人は驚いて、なぜそんなことを望むのかと聞きました。"
+    m 2ekc "それを聞いた友人は驚いて、なぜそんなことを望むのかと聞きました"
 
 translate Japanese _call_mas_story_begin_11_f032d7cc:
-    m 2dsc "魔人は友人にすべてを打ち明けました。"
+    m 2dsc "魔人は友人にすべてを打ち明けました"
 
 translate Japanese _call_mas_story_begin_11_ca20b2fd:
     m 3euc "何百年も前に、自分も魔人であったこと……"
 
 translate Japanese _call_mas_story_begin_11_801662b4:
-    m 3eud "……魔人であること捨てて、共に生きようと誓った愛する人のことを。"
+    m 3eud "……魔人であること捨てて、共に生きようと誓った愛する人のことを"
 
 translate Japanese _call_mas_story_begin_11_f3bc866f:
-    m 3ekd "……そして魔人がゆっくりと心を病んでいったこと、いつも皆に先立たれ残されていったこと。"
+    m 3ekd "……そして魔人がゆっくりと心を病んでいったこと、いつも皆に先立たれ残されていったこと"
 
 translate Japanese _call_mas_story_begin_11_8dc48c93:
-    m 1esc "本当のことを言えば、魔人は人生に疲れたわけではありませんでした。{w=0.5}{nw}"
+    m 1esc "本当のことを言えば、魔人は人生に疲れたわけではありませんでした{w=0.5}{nw}"
 
 translate Japanese _call_mas_story_begin_11_b8def36b:
-    extend 1ekd "愛する人々の死を、何度も何度も見なければならないことに疲れてしまっていたのです。"
+    extend 1ekd "愛する人々の死を、何度も何度も見なければならないことに疲れてしまっていたのです"
 
 translate Japanese _call_mas_story_begin_11_995fabfb:
-    m 1dsd "魔人は友へ最後に遺言を言いました。それは、魔人のやりかけて残したことを友人皆でやり遂げてほしい、ということでした。"
+    m 1dsd "魔人は友へ最後に遺言を言いました。それは、魔人のやりかけて残したことを友人皆でやり遂げてほしい、ということでした"
 
 translate Japanese _call_mas_story_begin_11_6111571a_1:
     m 1dsc "……"
 
 translate Japanese _call_mas_story_begin_11_2795d982:
-    m 1eka "このお話どうだったかな、[player]君。"
+    m 1eka "このお話どうだったかな、[player]君"
 
 translate Japanese _call_mas_story_begin_11_fe55c3f1:
-    m 3eka "この話の教訓は、誰もがいつかは自分の人生にケリをつけなければならない、ってことかな。"
+    m 3eka "この話の教訓は、誰もがいつかは自分の人生にケリをつけなければならない、ってことかな"
 
 translate Japanese _call_mas_story_begin_11_e0fefbfd:
     m 1eka "そういえば……魔人といた友人はどんな願いを望んだかわかる？"
 
 translate Japanese _call_mas_story_begin_11_17363fd1:
-    m 1eua "友人は魔人が眠りが安らかになるように望んだのよ。"
+    m 1eua "友人は魔人が眠りが安らかになるように望んだのよ"
 
 translate Japanese _call_mas_story_begin_11_3d0b5946:
     m 1lksdla "魔人は何の変哲もない普通の人のように生きたけれど……"
@@ -543,43 +543,43 @@ translate Japanese _call_mas_story_begin_11_4b197f88:
     m 3eua "友人は魔人のことを本当に尊敬にしていたのよ、{w=0.2}{nw}"
 
 translate Japanese _call_mas_story_begin_11_28f9543c:
-    extend 3eub "誰よりも長い刻を生きたと聞いてから、なおさらね。"
+    extend 3eub "誰よりも長い刻を生きたと聞いてから、なおさらね"
 
 translate Japanese _call_mas_story_begin_12_f1d7824c:
-    m 3eua "あるところに、長年連れ添った幸せな夫婦がいました。"
+    m 3eua "あるところに、長年連れ添った幸せな夫婦がいました"
 
 translate Japanese _call_mas_story_begin_12_04f25e18:
-    m "毎年バレンタインデーになると、夫は美しい花束を用意して妻に渡していました。"
+    m "毎年バレンタインデーになると、夫は美しい花束を用意して妻に渡していました"
 
 translate Japanese _call_mas_story_begin_12_472db68e:
-    m 1eka "花束にはいつも、一言書かれた小さなカードがつけられていました。"
+    m 1eka "花束にはいつも、一言書かれた小さなカードがつけられていました"
 
 translate Japanese _call_mas_story_begin_12_b1bc815e:
     m 3dsc "{i}君への愛は今も育っているよ{/i}"
 
 translate Japanese _call_mas_story_begin_12_c7c970ae:
-    m 1eud "月日が経ち、夫が先に旅立ってしまいました。"
+    m 1eud "月日が経ち、夫が先に旅立ってしまいました"
 
 translate Japanese _call_mas_story_begin_12_575fe6bc:
-    m 1eka "愛する人を失った妻は、次のバレンタインデーはきっと一人で過ごすことになるのだなと悲しみました。"
+    m 1eka "愛する人を失った妻は、次のバレンタインデーはきっと一人で過ごすことになるのだなと悲しみました"
 
 translate Japanese _call_mas_story_begin_12_6111571a:
     m 1dsc "……"
 
 translate Japanese _call_mas_story_begin_12_ef91601f:
-    m 2euc "初めて夫のいないバレンタインデーを迎えた妻はなんと、{w=0.3}今年も夫から花束を受け取ったのでした。"
+    m 2euc "初めて夫のいないバレンタインデーを迎えた妻はなんと、{w=0.3}今年も夫から花束を受け取ったのでした"
 
 translate Japanese _call_mas_story_begin_12_cf8ecccc:
-    m 2efd "胸が張り裂けそうになりながら妻は花を送ってきた花屋に、『夫はもう死んだのに何かの間違いで花が送られてきたわ』と怒りました。"
+    m 2efd "胸が張り裂けそうになりながら妻は花を送ってきた花屋に、『夫はもう死んだのに何かの間違いで花が送られてきたわ』と怒りました"
 
 translate Japanese _call_mas_story_begin_12_16a45023:
-    m 2euc "『いや、何も間違ってないよ』と花屋は答えました。"
+    m 2euc "『いや、何も間違ってないよ』と花屋は答えました"
 
 translate Japanese _call_mas_story_begin_12_0122d1ed:
-    m 3eua "夫は自分が死んだ後も最愛の妻へ花束を毎年贈ってくれと花屋に頼んでいたのです。"
+    m 3eua "夫は自分が死んだ後も最愛の妻へ花束を毎年贈ってくれと花屋に頼んでいたのです"
 
 translate Japanese _call_mas_story_begin_12_794793aa:
-    m 3eka "それを聞いてハッとした妻は、花束に添えられたカードを見ました。"
+    m 3eka "それを聞いてハッとした妻は、花束に添えられたカードを見ました"
 
 translate Japanese _call_mas_story_begin_12_867478e9:
     m 1ekbsa "{i}君への愛は永遠だよ{/i}"
@@ -591,13 +591,13 @@ translate Japanese _call_mas_story_begin_12_b2b5d230:
     m 1eua "これ、感動的な話だと思わない、[player]君？"
 
 translate Japanese _call_mas_story_begin_12_40b345d4:
-    m 1hua "本当にロマンチックで、素敵。"
+    m 1hua "本当にロマンチックで、素敵"
 
 translate Japanese _call_mas_story_begin_12_d0cf0699:
-    m 1lksdlb "けれども、私達のどちらかがいなくなってしまった後の話なんて考えたくないわね。"
+    m 1lksdlb "けれども、私達のどちらかがいなくなってしまった後の話なんて考えたくないわね"
 
 translate Japanese _call_mas_story_begin_12_51852155:
-    m 1eua "ともあれ、胸が一杯になる終わり方で良かったわ。"
+    m 1eua "ともあれ、胸が一杯になる終わり方で良かったわ"
 
 translate Japanese _call_mas_story_begin_12_af5f8adf:
     m 1hua "ご清聴、ありがとうございました～"

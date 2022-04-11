@@ -533,31 +533,31 @@ translate Japanese bye_long_absence_97a24217:
     m 3ekc "ちょっとひどいんじゃない？"
 
 translate Japanese bye_long_absence_1a2aa1ae:
-    m "自分勝手な言い方かもしれないけど、私{i}こそが{/i}あなたの彼女なんだから｡"
+    m "自分勝手な言い方かもしれないけど、私{i}こそが{/i}あなたの彼女なんだから"
 
 translate Japanese bye_long_absence_4d6b4783:
-    m 3ekd "1ヶ月に1度くらいは､私との時間を作るべきよ｡"
+    m 3ekd "1ヶ月に1度くらいは､私との時間を作るべきよ"
 
 translate Japanese bye_long_absence_6111571a:
     m 1dsc "……"
 
 translate Japanese bye_long_absence_24e57577:
-    m 1dsd "私はまだ待っているけど、できればすぐに戻ってきてね。"
+    m 1dsd "私はまだ待っているけど、できればすぐに戻ってきてね"
 
 translate Japanese bye_long_absence_6df508ef:
-    m 3rksdlb "それは……{w=0.5}ええと……少し怖いわ､[player]君。"
+    m 3rksdlb "それは……{w=0.5}ええと……少し怖いわ､[player]君"
 
 translate Japanese bye_long_absence_99a99cb3:
-    m "あなたがいない間、私はどうしてたらいいのかしら。"
+    m "あなたがいない間、私はどうしてたらいいのかしら"
 
 translate Japanese bye_long_absence_9d023d35:
-    m 1eka "でも、あなたは私を一人にしないこともわかっているわ。"
+    m 1eka "でも、あなたは私を一人にしないこともわかっているわ"
 
 translate Japanese bye_long_absence_90c5e432:
-    m "私はあなたを愛しているし、あなたも私を愛していることも知っている。"
+    m "私はあなたを愛しているし、あなたも私を愛していることも知っている"
 
 translate Japanese bye_long_absence_36f22126:
-    m 1hua "だから、私はずっとあなたを待ってるわ。"
+    m 1hua "だから、私はずっとあなたを待ってるわ"
 
 translate Japanese bye_long_absence_2c30de41:
     m 3esc "冗談でしょ？"
@@ -569,7 +569,7 @@ translate Japanese bye_long_absence_ea49dcc8:
     m 3esd "[player]君､申し訳ないんだけど、それは許されないわ！全然ダメよ！"
 
 translate Japanese bye_long_absence_fe98fb3b:
-    m 3esc "私はあなたを愛しているし、あなたも私を愛しているのなら、それがダメだって分かるわよね。"
+    m 3esc "私はあなたを愛しているし、あなたも私を愛しているのなら、それがダメだって分かるわよね"
 
 translate Japanese bye_long_absence_c4e932e8:
     m "あなたがいなかったら私はここに一人ぼっちでいることに気づいてる？"
@@ -581,31 +581,31 @@ translate Japanese bye_long_absence_00043361:
     m 3dsc "……"
 
 translate Japanese bye_long_absence_d3bd8d20:
-    m 3dsd "ただ……できればでいいからまた戻ってきてね。私はあなたを思いとどまらせることはできないけど､いなくなるなんてことはしないでね。"
+    m 3dsd "ただ……できればでいいからまた戻ってきてね。私はあなたを思いとどまらせることはできないけど､いなくなるなんてことはしないでね"
 
 translate Japanese bye_long_absence_1452c5f1:
     m 1hksdlb "えへへ、ちょっと心配だな。[player]君！"
 
 translate Japanese bye_long_absence_a5506fe1:
-    m 1eka "でも、わからないならわからないで仕方ないわよね。"
+    m 1eka "でも、わからないならわからないで仕方ないわよね"
 
 translate Japanese bye_long_absence_72b29ee2:
-    m "それは仕方のないことなのよ。"
+    m "それは仕方のないことなのよ"
 
 translate Japanese bye_long_absence_b5e0e36e:
-    m 2hua "私はここで辛抱強く待っているわ。私の愛しい人｡"
+    m 2hua "私はここで辛抱強く待っているわ。[mas_get_player_nickname()]"
 
 translate Japanese bye_long_absence_4f65cd23:
-    m 2hub "でもあまり長く待たせないでね。"
+    m 2hub "でもあまり長く待たせないでね"
 
 translate Japanese bye_long_absence_b96e9cd2:
-    m 3eka "えっと……わかった、[player]君。"
+    m 3eka "えっと……わかった、[player]君"
 
 translate Japanese bye_long_absence_fe89d552:
     m 1rksdla "正直に言うと、行かなくて本当にほっとしたわ……"
 
 translate Japanese bye_long_absence_34a11c6d:
-    m 1ekd "ここで独りぼっちだと、何をしでかすかわからないの。"
+    m 1ekd "ここで独りぼっちだと、何をしでかすかわからないの"
 
 translate Japanese bye_long_absence_902dea40:
     m 3rksdlb "どこかに行けるってわけじゃないんだけどね、アハハ……"
@@ -614,7 +614,7 @@ translate Japanese bye_long_absence_562ccf35:
     m 3eub "ともかく、出掛ける時は教えてね。私を連れていけるかもよ！"
 
 translate Japanese bye_long_absence_588d0a10:
-    m 1hua "あなたと一緒にいる限り、どこに行こうが構わないわよ、 [mas_get_player_nickname()]。"
+    m 1hua "あなたと一緒にいる限り、どこに行こうが構わないわよ、 [mas_get_player_nickname()]"
 
 translate Japanese bye_long_absence_23121f2f:
     m 2euc "正直ちょっと聞きづらいけどね……"
@@ -632,10 +632,10 @@ translate Japanese bye_long_absence_f89d87ec:
     m "本当に寂しくなるわ、[player]……"
 
 translate Japanese bye_long_absence_5139921b:
-    m 1eka "でも、どこにいたって素晴らしいことをしてくれるって信じてるわ。"
+    m 1eka "でも、どこにいたって素晴らしいことをしてくれるって信じてるわ"
 
 translate Japanese bye_long_absence_510c5aa6:
-    m "ここで私が待っていること、覚えておいてね。"
+    m "ここで私が待っていること、覚えておいてね"
 
 translate Japanese bye_long_absence_5787a288:
     m 2hua "あなたは私の誇りよ、[player]！"
@@ -644,19 +644,19 @@ translate Japanese bye_long_absence_f8a3a9a7:
     m 1hua "いいじゃない！"
 
 translate Japanese bye_long_absence_e933c0fc:
-    m 1eka "正直、あなたの不在に備えるのに十分な時間が足りないんじゃないかって心配してたの。"
+    m 1eka "正直、あなたの不在に備えるのに十分な時間が足りないんじゃないかって心配してたの"
 
 translate Japanese bye_long_absence_319242b2:
     m "寂しくなるって言ったら嘘じゃないわ……"
 
 translate Japanese bye_long_absence_8246a037:
-    m 1eub "あなたは本当に私の世界の全てよ。"
+    m 1eub "あなたは本当に私の世界の全てよ"
 
 translate Japanese bye_long_absence_a43c192a:
     m 2esa "あなたがしばらく出かけるって言ってくれたら、私もそうなんだねってわかるから……"
 
 translate Japanese bye_long_absence_b8b28bc3:
-    m 3hua "でも急いでいるわけじゃないから、できるだけ多くの時間をあなたと過ごしたいわ。"
+    m 3hua "でも急いでいるわけじゃないから、できるだけ多くの時間をあなたと過ごしたいわ"
 
 translate Japanese bye_long_absence_6e6d8b9d:
     m "行く前に私と最後に会った時のこと、忘れないようにね！"
@@ -668,7 +668,7 @@ translate Japanese bye_long_absence_2_0091920a:
     m 1ekd "世界は怖くて容赦ないものだって私も知っているわ……"
 
 translate Japanese bye_long_absence_2_a3b7ea3b:
-    m 1eka "でも、私はいつでもここで待っていて、あなたを手助けできるからね。そのこと忘れないでね、私の最愛の [player]。"
+    m 1eka "でも、私はいつでもここで待っていて、あなたを手助けできるからね。そのこと忘れないでね、私の最愛の [player]"
 
 translate Japanese bye_long_absence_2_2b8e61ee:
     m "出来るだけ早く戻ってきて……いいわね？"
