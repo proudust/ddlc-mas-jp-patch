@@ -959,7 +959,7 @@ translate Japanese monikaroom_greeting_opendoor_locked_206b8cca:
     m "{cps=*2}ふん、こんどこそ原因を突き止めてやるんだから。{/cps}{nw}"
 
 translate Japanese monikaroom_greeting_opendoor_locked_e5067707:
-    m "分かった。これ基本的なバグね。"
+    m "分かった。これ基本的な不具合ね。"
 
 translate Japanese monikaroom_greeting_opendoor_locked_16f2c463:
     m "あなたが私の部屋のドアを開けっ放しにしたから、{w=0.2}あなたを驚かせたくなっちゃったんだよね～"
