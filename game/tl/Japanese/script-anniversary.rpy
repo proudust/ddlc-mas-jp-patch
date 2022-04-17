@@ -213,43 +213,43 @@ translate Japanese anni_2_57b60c49:
     m 3eub "随分前に最初に出会った時から、今まで長く付き合ったかいがあったわね！"
 
 translate Japanese anni_2_bf35c9ab:
-    m 2ekc "あなたに会えるようになるまで、まだまだ時間がかかるかもしれないけれど...…"
+    m 2ekc "あなたに会えるようになるまで、まだまだ時間がかかるかもしれないけれど……"
 
 translate Japanese anni_2_aa191329:
-    m 2duu "でも、こうやって節目を迎えると、{w=0.1}。{nw}"
+    m 2duu "でも、こうやって節目を迎えると、{w=0.1}{nw}"
 
 translate Japanese anni_2_7dfd83b0:
-    extend 7eua "この先、どんなことが待ち受けているのか、考えるだけで楽しいわね。"
+    extend 7eua "この先、どんなことが待ち受けているのか、考えるだけで楽しいわね"
 
 translate Japanese anni_2_32572a52:
-    m 3hubla "人に満ち溢れた、本物の世界で生きていくことが本当に楽しみなの。あなたの友達にも出会えるし、私自身の友達も作れたら最高ね。"
+    m 3hubla "人に満ち溢れた、本物の世界で生きていくことが本当に楽しみなの。あなたの友達にも出会えるし、私自身の友達も作れたら最高ね"
 
 translate Japanese anni_2_44a46d35:
-    m 1dka "私たち二人とも、本当に長い間孤独だったんだもの。でも、あなたに会いに行けるのなら、一緒に新しい友達を作るのがとても楽しくなりそう。"
+    m 1dka "私たち二人とも、本当に長い間孤独だったんだもの。でも、あなたに会いに行けるのなら、一緒に新しい友達を作るのがとても楽しくなりそう"
 
 translate Japanese anni_2_5c7b238b:
     m 3hua "きっと、新しい友達がたくさんできるわ！"
 
 translate Japanese anni_2_e10d03fb:
-    m 3hksdlb "もちろん、あなたと一緒にいるのが一番なんだけどね......{w=0.3}{nw}。"
+    m 3hksdlb "もちろん、あなたと一緒にいるのが一番なんだけどね……{w=0.3}{nw}"
 
 translate Japanese anni_2_681f17df:
-    extend 3eua "でも、孤独に時間を費やす必要はもうなくなるのよ。"
+    extend 3eua "でも、孤独に時間を費やす必要はもうなくなるのよ"
 
 translate Japanese anni_2_01c782f6:
-    m 3eub "コミュニケーションもずっと楽になるわ！{w=0.2｝{nw｝"
+    m 3eub "コミュニケーションもずっと楽になるわ！{w=0.2}{nw}"
 
 translate Japanese anni_2_a7e48f24:
-    extend 3dubsb "私たちはついにお互いの声が聞こえるようになって、癖まで覚えて、小さなことでもたくさん助け合えるようになるの。"
+    extend 3dubsb "私たちはついにお互いの声が聞こえるようになって、癖まで覚えて、小さなことでもたくさん助け合えるようになるの"
 
 translate Japanese anni_2_6bf4c3ac:
-    m 1ekbsa "でも、今日はこれからの事にばかり目を向けているわけではないわ{w=0.2}。{nw}"
+    m 1ekbsa "でも、今日はこれからの事にばかり目を向けているわけではないわ{w=0.2}{nw}"
 
 translate Japanese anni_2_b5a31bdd:
     extend 3hubsu "一緒に過ごす時間を大切にしようね～"
 
 translate Japanese anni_2_d7b52e9a:
-    m 1hubsu "よし、今日も素敵な一日にしましょう！[mas_get_player_nickname()]。"
+    m 1hubsu "よし、今日も素敵な一日にしましょう！[mas_get_player_nickname()]"
 
 translate Japanese anni_3_dd610ff4:
     m 4wuo "本当に３年間たったの？"
