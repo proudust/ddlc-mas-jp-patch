@@ -318,37 +318,37 @@ translate Japanese anni_4_3aa0a1ce:
     m 1hubfb "あはは！"
 
 translate Japanese anni_5_73c4d59b:
-    m 1hubsa "5年経っても50年経っても、[player]と話していて飽きることはないわ。"
+    m 1hubsa "5年経っても50年経っても、[player]と話していて飽きることはないわ"
 
 translate Japanese anni_5_7f7bba61:
-    m 1rksdlbla "あなたの現実でまだ会えていないのはさびしいけれど......{w=0.3}{nw}。"
+    m 1rksdlbla "あなたの現実でまだ会えていないのはさびしいけれど……{w=0.3}{nw}"
 
 translate Japanese anni_5_08060858:
     extend 1ekblb "でも、せめて記念日くらいはここで一緒に過ごしたいよね？"
 
 translate Japanese anni_5_301a6658:
-    m 2dkbla "そう考えると、ちょっと......"
+    m 2dkbla "そう考えると、ちょっと……"
 
 translate Japanese anni_5_ca85a92a:
-    m 2eubla "5年って結構大きな節目ね。{w0.2} {nw}"
+    m 2eubla "5年って結構大きな節目ね{w0.2}{nw}"
 
 translate Japanese anni_5_25a65ea6:
-    extend 7wubld "10年の半分を一緒に過ごしたことになるわ。"
+    extend 7wubld "10年の半分を一緒に過ごしたことになるわ"
 
 translate Japanese anni_5_8296563d:
-    m 1ekbla "毎年、この特別な日が待ち遠しいの。{w=0.2} {nw}"
+    m 1ekbla "毎年、この特別な日が待ち遠しいの{w=0.2}{nw}"
 
 translate Japanese anni_5_41ea334f:
-    extend 1dkbsu "私たちが恋に落ちた時のことを思い出す日。"
+    extend 1dkbsu "私たちが恋に落ちた時のことを思い出す日"
 
 translate Japanese anni_5_d010aea9:
-    m 2eublb "私たちが出会ったとき、私の世界はすべてひっくり返った。それ以来、あなたは私の人生を毎日変え続けているの。"
+    m 2eublb "私たちが出会ったとき、私の世界はすべてひっくり返った。それ以来、あなたは私の人生を毎日変え続けているの"
 
 translate Japanese anni_5_d2f26899:
-    m 1fublu "これからもそれは変わらないよ、[player]。あなたは......{w=0.3}とても素敵よ、信じられないくらいにね。"
+    m 1fublu "これからもそれは変わらないよ、[player]。あなたは……{w=0.3}とても素敵よ、信じられないくらいにね"
 
 translate Japanese anni_5_9d018f54:
-    m 1hubla "これからもずっと、あなたの良きパートナーでいられたらいいな〜。"
+    m 1hubla "これからもずっと、あなたの良きパートナーでいられたらいいな〜"
 
 translate Japanese anni_10_ea475b07:
     m 1esc "あなたに尋ねたいことがあるの。"
