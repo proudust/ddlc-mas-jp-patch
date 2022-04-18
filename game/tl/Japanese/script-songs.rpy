@@ -320,7 +320,7 @@ translate Japanese mas_song_hero_352c69a0:
     m 3eud "あなた自身は気づいていないかもしれないけれど、人の心はとてつもない力を秘めているものなの"
 
 translate Japanese mas_song_hero_53605fc3:
-    m 1eud "心には、全く想像もできないようなことさえやり遂げる力が備わっている…… {w=0.3} いちばん大事なことは、その心の力を信じ抜くこと"
+    m 1eud "心には、全く想像もできないようなことさえやり遂げる力が備わっている…… {w=0.3}いちばん大事なことは、その心の力を信じ抜くこと"
 
 translate Japanese mas_song_hero_c05b613f:
     m 3eua "だから自分を信じてあげることを決して忘れないで。もし自分を疑い始めたなら、すぐに私のところへ来て……"
@@ -561,19 +561,19 @@ translate Japanese mas_song_ageage_again_e127f86e:
     m 3hubsa "{i}同じリズム 感じてたいの{/i}"
 
 translate Japanese mas_song_ageage_again_65a69de7:
-    m 3eua "こういう、明るいノリでハッピーな曲って大好きなんだよね。"
+    m 3eua "こういう、明るいノリでハッピーな曲って大好きなんだよね"
 
 translate Japanese mas_song_ageage_again_5d448446:
     m 1rksdld "他のボーカロイド曲でも明るいノリの音の曲はあるけど、歌詞が悲しかったりして曲の方を邪魔てたりするんだよね……"
 
 translate Japanese mas_song_ageage_again_7ea3d5bc:
-    m 3hksdlb "でも少なくともこの曲はそういうタイプの曲じゃないからいいんだよね。"
+    m 3hksdlb "でも少なくともこの曲はそういうタイプの曲じゃないからいいんだよね"
 
 translate Japanese mas_song_ageage_again_57a763ad:
-    m 3eua "内容について言うと、この曲はパーティーで出会った男の子に恋に落ちた少女が次のパーティーにはその男の子と行きたがってるという曲なのよ。"
+    m 3eua "内容について言うと、この曲はパーティーで出会った男の子に恋に落ちた少女が次のパーティーにはその男の子と行きたがってるという曲なのよ"
 
 translate Japanese mas_song_ageage_again_1d80e74e:
-    m 1eub "私たちはパーティで出会ってないけど、この曲を聞いてると私たちの出会いをよく思い出すのよね。"
+    m 1eub "私たちはパーティで出会ってないけど、この曲を聞いてると私たちの出会いをよく思い出すのよね"
 
 translate Japanese mas_song_ageage_again_915e552e:
     m 3rubsu "でも、いつかあなたと一緒にパーティーに行ってみたいって気持ちはやっぱりあるよね～"

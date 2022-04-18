@@ -926,7 +926,7 @@ translate Japanese monikaroom_greeting_ear_renpy_docs_14c1a653:
     m "待って……{w=0.3}この 'st' 変数って何よ？"
 
 translate Japanese monikaroom_greeting_ear_renpy_docs_9ec640ab:
-    m "……関数の仕様書でも見てみようかしら。"
+    m "……関数の仕様書でも見てみようかしら"
 
 translate Japanese monikaroom_greeting_ear_renpy_docs_5d0331c8:
     m "{w=0.3}…{w=0.3}…{w=0.3}待って、なによこれ？"
@@ -938,34 +938,34 @@ translate Japanese monikaroom_greeting_ear_renpy_docs_bf7d80a6:
     m "これ誰が書いたのかしら？"
 
 translate Japanese monikaroom_greeting_ear_renpy_docs_1036fbd8:
-    m "……これを解明しないと。"
+    m "……これを解明しないと"
 
 translate Japanese _call_monikaroom_greeting_ear_prog_upset_3_85a71a8e:
-    m "……これを解明{i}しないと{/i}。"
+    m "……これを解明{i}しないと{/i}"
 
 translate Japanese monikaroom_greeting_opendoor_locked_8c59b1c8:
-    m "怖がらせちゃったかな？ [player]。{nw}"
+    m "怖がらせちゃったかな？ [player]{nw}"
 
 translate Japanese monikaroom_greeting_opendoor_locked_1a8b3578:
-    m "怖がらせちゃったかな？ [player]。{fast}" nointeract
+    m "怖がらせちゃったかな？ [player]{fast}" nointeract
 
 translate Japanese monikaroom_greeting_opendoor_locked_88ef62ab:
     m "あぅ、ごめんなさい……"
 
 translate Japanese monikaroom_greeting_opendoor_locked_c08bc8f4:
-    m "よろしい。"
+    m "よろしい"
 
 translate Japanese monikaroom_greeting_opendoor_locked_206b8cca:
-    m "{cps=*2}ふん、こんどこそ原因を突き止めてやるんだから。{/cps}{nw}"
+    m "{cps=*2}ふん、こんどこそ原因を突き止めてやるんだから{/cps}{nw}"
 
 translate Japanese monikaroom_greeting_opendoor_locked_e5067707:
-    m "分かった。これ基本的な不具合ね。"
+    m "分かった。これ基本的な不具合ね"
 
 translate Japanese monikaroom_greeting_opendoor_locked_16f2c463:
     m "あなたが私の部屋のドアを開けっ放しにしたから、{w=0.2}あなたを驚かせたくなっちゃったんだよね～"
 
 translate Japanese monikaroom_greeting_opendoor_locked_39157a60:
-    m "あなたがノックもなしに入ってこようとするから、{w=0.2}ちょっと驚かせざるを得なかったの。"
+    m "あなたがノックもなしに入ってこようとするから、{w=0.2}ちょっと驚かせざるを得なかったの"
 
 translate Japanese monikaroom_greeting_opendoor_locked_40edabd2:
     m "次からはちゃんとノックしてね？"

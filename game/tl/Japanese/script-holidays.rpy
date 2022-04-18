@@ -1337,7 +1337,7 @@ translate Japanese _call_mas_song_merry_christmas_baby_2bf254e7:
     m 1hua "…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese _call_mas_song_merry_christmas_baby_1_ad7eeb7e:
-    m 1huu "えへへ……  {w=0.2}メリークリスマス、[player]〜"
+    m 1huu "えへへ…… {w=0.2}メリークリスマス、[player]〜"
 
 translate Japanese monika_this_christmas_kiss_527ff374:
     m 2rubsa "あー、[player]……"

@@ -1157,6 +1157,9 @@ translate Japanese _call_mas_clothes_change_4_0186721e:
 translate Japanese _call_mas_clothes_change_4_7750e055:
     m 3eub "この服を着ていると、なんだか瞬きする間に何もかもをこなせるような気がするわ"
 
+translate Japanese _call_mas_clothes_change_4_e1f54fbd:
+    m 1eua "…忙しくさせない限りだけどね、えへへ～"
+
 translate Japanese _call_mas_clothes_change_4_be34e17e:
     m 1lkbfb "あなたともっとたくさんの時間を過ごせるといいわね、ご主人さ{nw}"
 
@@ -1210,6 +1213,9 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_2c8
 
 translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_fa1000e4:
     m 3eua "早速着てみるね"
+
+translate Japanese _call_mas_clothes_change_6_fc39eaf4:
+    m 2dkbsu "あぁ…… {w=1}ふかふか。 とっても気持ちいいわ。えへへ～"
 
 translate Japanese _call_mas_clothes_change_6_54255a56:
     m 1ekbsa "ありがとう、[player]！ 気に入っちゃった！"

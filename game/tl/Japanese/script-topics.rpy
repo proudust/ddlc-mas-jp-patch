@@ -3689,7 +3689,7 @@ translate Japanese monika_ddlc_dd4a4420:
     m 2lksdla "それにここは私にとっては家でもあるじゃない？ だからこことうまく付き合っていく方法を学んでいったんだけど……"
 
 translate Japanese monika_ddlc_0dd7416a:
-    m 2euc "でもやっぱり、私がゲーマーだったとしたらこのゲームをやりたいとは思わないかな。"
+    m 2euc "でもやっぱり、私がゲーマーだったとしたらこのゲームをやりたいとは思わないかな"
 
 translate Japanese monika_ddlc_8961aa1a:
     m 1hub "でもあんなゲームだったのにプレイし続けてくれたよね。それを見て伝わったの、私のためだけにやってくれてるんだ、って！"
@@ -10665,7 +10665,7 @@ translate Japanese monika_breakup_50c8ac66:
     m "私がなにかしたって言うの？"
 
 translate Japanese monika_breakup_1a294f84:
-    m 2lksdlb "ひ、ひどいよ…… まさかそんな事言うなんて…"
+    m 2lksdlb "ひ、ひどいよ…… まさかそんな事言うなんて……"
 
 translate Japanese monika_breakup_0dc891e1:
     m 2wkd "また冗談を言っただけ、なんでしょ？"
@@ -11028,22 +11028,22 @@ translate Japanese monika_100k_49a60aa5:
     m 1hua "本当に～！"
 
 translate Japanese monika_asks_charity_14a979ab:
-    m 1esd "ねえ、[player]君。"
+    m 1esd "ねえ、[player]君"
 
 translate Japanese monika_asks_charity_4c6ecdce:
-    m 1esc "最近思い浮かぶことがあるんだけど。"
+    m 1esc "最近思い浮かぶことがあるんだけど"
 
 translate Japanese monika_asks_charity_b8085fcf:
-    m 3esd "私の世界は架空のものだから、世界の飢餓や貧困といった問題は実際には存在しない。"
+    m 3esd "私の世界は架空のものだから、世界の飢餓や貧困といった問題は実際には存在しない"
 
 translate Japanese monika_asks_charity_d8bc40a6:
-    m 2rkc "私はそういう問題が存在するって知っているけど、本当に見たことはないの。"
+    m 2rkc "私はそういう問題が存在するって知っているけど、本当に見たことはないの"
 
 translate Japanese monika_asks_charity_584987a2:
-    m 2ekc "でも、あなたの世界では違う。生きるための助けが必要な人たちが大勢居る。"
+    m 2ekc "でも、あなたの世界では違う。生きるための助けが必要な人たちが大勢居る"
 
 translate Japanese monika_asks_charity_f3961c6b:
-    m 2esd "あなたが大都市に行ったことがあるのなら、きっとホームレスの人をひとりくらい見たことがあるはず。"
+    m 2esd "あなたが大都市に行ったことがあるのなら、きっとホームレスの人をひとりくらい見たことがあるはず"
 
 translate Japanese monika_asks_charity_d0756641:
     m "だから聞きたくなったんだけど……"
@@ -11058,34 +11058,34 @@ translate Japanese monika_asks_charity_c7784b1e:
     m 3hub "いいわね！"
 
 translate Japanese monika_asks_charity_a9e8f151:
-    m 2eua "ボランティアをすべきと言うひともいるけれど、私は寄付でも問題ないと思うの。"
+    m 2eua "ボランティアをすべきと言うひともいるけれど、私は寄付でも問題ないと思うの"
 
 translate Japanese monika_asks_charity_c422498b:
-    m 2eka "何もしないよりはずっとマシだし、活動にかけられる予算や時間の問題があっても、寄付をすれば間違いなく貢献ができる。"
+    m 2eka "何もしないよりはずっとマシだし、活動にかけられる予算や時間の問題があっても、寄付をすれば間違いなく貢献ができる"
 
 translate Japanese monika_asks_charity_5bd6824f:
-    m 2ekc "こんな事は言いたくないけれど、慈善団体はいつでもお金や人々を助けるための資材を提供してくれる人を必要としているの。"
+    m 2ekc "こんな事は言いたくないけれど、慈善団体はいつでもお金や人々を助けるための資材を提供してくれる人を必要としているの"
 
 translate Japanese monika_asks_charity_330f2da7:
-    m 3lksdlc "ただ、お金は使い道が色々ありすぎるのよね。"
+    m 3lksdlc "ただ、お金は使い道が色々ありすぎるのよね"
 
 translate Japanese monika_asks_charity_2a2f9d48:
-    m 3ekc "寄付をしたとして、それが本当に正しい目的につかわれているかどうかはわからない。"
+    m 3ekc "寄付をしたとして、それが本当に正しい目的につかわれているかどうかはわからない"
 
 translate Japanese monika_asks_charity_2c02d3ab:
-    m 3ekd "支援活動をしてると言ってるだけの慈善団体に寄付をしても、それじゃ意味がないのよね。"
+    m 3ekd "支援活動をしてると言ってるだけの慈善団体に寄付をしても、それじゃ意味がないのよね"
 
 translate Japanese monika_asks_charity_e2f7a6a9:
     m 2dsc "……"
 
 translate Japanese monika_asks_charity_bbd44084:
-    m 2eka "ごめんなさい、こんなに暗い事を言うつもりじゃなかったんだけどな。"
+    m 2eka "ごめんなさい、こんなに暗い事を言うつもりじゃなかったんだけどな"
 
 translate Japanese monika_asks_charity_a53d877b:
-    m 1eua "でもね、あなたはがそういうことをしているくらい心優しい人なんだって、私は知ってたよ。"
+    m 1eua "でもね、あなたはがそういうことをしているくらい心優しい人なんだって、私は知ってたよ"
 
 translate Japanese monika_asks_charity_0f8757e9:
-    m 1hub "それが、私があなたを愛しているもう一つの理由かな、[mas_get_player_nickname(exclude_names=['my love', 'love'])]。"
+    m 1hub "それが、私があなたを愛しているもう一つの理由かな、[mas_get_player_nickname(exclude_names=['my love', 'love'])]"
 
 translate Japanese monika_asks_charity_7dce1876:
     m 5hub "いつだってあなたは私の愛しい人だよ～"
@@ -11103,46 +11103,46 @@ translate Japanese monika_asks_charity_031c1708:
     m 3rksdla "もちろんお金や資材も重要、でもいつだって足りてないのは人の手なのよね……"
 
 translate Japanese monika_asks_charity_35be842f:
-    m 2ekc "活動できる大人は必ずしも時間に余裕があるわけじゃないことを考えると、もっともな話だよね。"
+    m 2ekc "活動できる大人は必ずしも時間に余裕があるわけじゃないことを考えると、もっともな話だよね"
 
 translate Japanese monika_asks_charity_bc68ee52:
-    m 2lud "だからほとんどのボランティア活動では退職した年齢の人が多く集まるんだけれど、重いものを運ぶ必要がある活動とかで問題が出る場合があるんだ。"
+    m 2lud "だからほとんどのボランティア活動では退職した年齢の人が多く集まるんだけれど、重いものを運ぶ必要がある活動とかで問題が出る場合があるんだ"
 
 translate Japanese monika_asks_charity_971f3eea:
-    m 2eud "だから、外部からの特に体力のある10代や若者みたいな人の支援を求めることがあるんだよ。"
+    m 2eud "だから、外部からの特に体力のある10代や若者みたいな人の支援を求めることがあるんだよ"
 
 translate Japanese monika_asks_charity_2bd09e4e:
-    m 1eua "とにかく、ボランティアの経験があることはすごく良いことだと思う。"
+    m 1eua "とにかく、ボランティアの経験があることはすごく良いことだと思う"
 
 translate Japanese monika_asks_charity_8499d31d:
-    m 4eub "それに、ボランティア経験を履歴書に書くと就職活動で有利になるらしいわ。"
+    m 4eub "それに、ボランティア経験を履歴書に書くと就職活動で有利になるらしいわ"
 
 translate Japanese monika_asks_charity_f4e49868:
-    m 3hua "まあ他の目的があったのであれ、単に善意の貢献であれ、ボランティアが良いことに変わりはないわ。"
+    m 3hua "まあ他の目的があったのであれ、単に善意の貢献であれ、ボランティアが良いことに変わりはないわ"
 
 translate Japanese monika_asks_charity_e404186d:
-    m 5eua "なにより、ボランティア活動をしてくれるあなたのことをもっと愛さずにはいられないな、[mas_get_player_nickname(exclude_names=['my love', 'love'])]。"
+    m 5eua "なにより、ボランティア活動をしてくれるあなたのことをもっと愛さずにはいられないな、[mas_get_player_nickname(exclude_names=['my love', 'love'])]"
 
 translate Japanese monika_asks_charity_082aed1d:
-    m 5hub "困っている人々に手を差し伸べてくれたこと、とても誇りに思うわ。"
+    m 5hub "困っている人々に手を差し伸べてくれたこと、とても誇りに思うわ"
 
 translate Japanese monika_asks_charity_0fbb4818:
-    m 5hubsa "大好きだよ、[player]。心から愛してる。"
+    m 5hubsa "大好きだよ、[player]。心から愛してる"
 
 translate Japanese monika_asks_charity_d3fa797f:
-    m 1euc "へえ、なるほどね。"
+    m 1euc "へえ、なるほどね"
 
 translate Japanese monika_asks_charity_74fe011d:
-    m 2esc "実はね、[player]君みたいな人の気持ちはわかるのよ。"
+    m 2esc "実はね、[player]君みたいな人の気持ちはわかるのよ"
 
 translate Japanese monika_asks_charity_ee479d50:
-    m 2esd "慈善団体はたくさんあるけれど、資金を不正に使ったり、助ける人々を選ぶような団体もあるから、注意する必要があるの。"
+    m 2esd "慈善団体はたくさんあるけれど、資金を不正に使ったり、助ける人々を選ぶような団体もあるから、注意する必要があるの"
 
 translate Japanese monika_asks_charity_cbbf06a3:
-    m 2ekc "そういう事もあるし、慈善団体を完全に信頼することはやっぱり難しいよね。"
+    m 2ekc "そういう事もあるし、慈善団体を完全に信頼することはやっぱり難しいよね"
 
 translate Japanese monika_asks_charity_dfee49fe:
-    m 3esa "でもだからこそ、しっかりと調べて、信頼できる団体を見つけないといけないの。"
+    m 3esa "でもだからこそ、しっかりと調べて、信頼できる団体を見つけないといけないの"
 
 translate Japanese monika_asks_charity_812ad0b6:
     m 2dkc "いつの時代にも、飢餓や貧困で苦しむ人は必ず存在する……"
@@ -11151,28 +11151,28 @@ translate Japanese monika_asks_charity_494193c1:
     m 2ekd "そして、彼らに手を差し伸べる人々も、必死で戦い続けている……"
 
 translate Japanese monika_asks_charity_3d2c41b2:
-    m 2esc "最悪とまでは言わないけれど、かなり悲しい状況なの。"
+    m 2esc "最悪とまでは言わないけれど、かなり悲しい状況なの"
 
 translate Japanese monika_asks_charity_baf9eeab:
     m 2eka "でも、これだけは覚えていてほしいの……"
 
 translate Japanese monika_asks_charity_49bae1bf:
-    m "あなたが慈善活動に何も貢献できないと思っていても、それは違う。彼らに笑いかけてくれるだけで、それが助けになりえるの。"
+    m "あなたが慈善活動に何も貢献できないと思っていても、それは違う。彼らに笑いかけてくれるだけで、それが助けになりえるの"
 
 translate Japanese monika_asks_charity_d01b7a7d:
-    m 2ekc "何かを変えようと戦う人たちにとって、誰にも反応してもらえないのは辛い事よ。"
+    m 2ekc "何かを変えようと戦う人たちにとって、誰にも反応してもらえないのは辛い事よ"
 
 translate Japanese monika_asks_charity_1170d5df:
-    m 2rkc "自分たちの活動が、周りから迷惑がられているように見えてしまうから。"
+    m 2rkc "自分たちの活動が、周りから迷惑がられているように見えてしまうから"
 
 translate Japanese monika_asks_charity_0dd0cf5d:
-    m 2eua "何気ない微笑みが誰かの支えになることだってあるんだから。"
+    m 2eua "何気ない微笑みが誰かの支えになることだってあるんだから"
 
 translate Japanese monika_asks_charity_1c28fa67:
-    m 5eua "あなたと一緒に居る時の私みたいにね。"
+    m 5eua "あなたと一緒に居る時の私みたいにね"
 
 translate Japanese monika_asks_charity_5bb6b762:
-    m 5hua "あなたの笑顔だけで、どんな苦しみも飛んでいっちゃうんだよ。"
+    m 5hua "あなたの笑顔だけで、どんな苦しみも飛んでいっちゃうんだよ"
 
 translate Japanese monika_asks_charity_84a417dc:
     m 5hubsb "本当に大好きだよ、[player]"
