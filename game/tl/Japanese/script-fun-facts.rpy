@@ -173,7 +173,7 @@ translate Japanese _call_mas_fun_facts_end_4_08f8fe92:
     m "ズルしたことを謝るつもりもないみたいだし"
 
 translate Japanese _call_mas_fun_facts_end_4_4e118ab3:
-    m 2lfc "…ふーんだ"
+    m 2lfc "……ふーんだ"
 
 translate Japanese _call_mas_fun_facts_end_4_8d008284:
     m 1euc "あ、これじゃなくって"
@@ -542,7 +542,7 @@ translate Japanese mas_fun_fact_photography_3884bb3d:
     m 1euc "それと、初期の写真を現像するときには化学薬品を使うたくさんの工程があったんだ……"
 
 translate Japanese mas_fun_fact_photography_0c9ea00b:
-    m 3eud "現像液、停止液、定着液。一枚の写真を仕上げるために暗室で何度も薬品の液に写真を通す必要があって…{w=0.3} {nw}"
+    m 3eud "現像液、停止液、定着液。一枚の写真を仕上げるために暗室で何度も薬品の液に写真を通す必要があって……{w=0.3}{nw}"
 
 translate Japanese mas_fun_fact_photography_74dcd1dd:
     extend 1wuo "そして出来上がるのが、白黒の写真！"

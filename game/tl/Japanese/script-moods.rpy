@@ -236,7 +236,7 @@ translate Japanese mas_mood_tired_8df12da8:
     m 2dsc "夜中まで起きて言ってくれたのか、早起きしすぎてそう言ってるのかわからないけど……"
 
 translate Japanese mas_mood_tired_7ae83944:
-    m 2eksdld "…どうであろうと、とても心配だよ、[player]"
+    m 2eksdld "……どうであろうと、とても心配だよ、[player]"
 
 translate Japanese mas_mood_tired_4d987022:
     m "だからもう本当にすぐにベッドへ向かってね"
@@ -581,7 +581,7 @@ translate Japanese mas_mood_lazy_0cbddf07:
     m 3hub "もしかしたら、今まさに素晴らしいアイデアが思い浮かぼうとしている寸前かも！"
 
 translate Japanese mas_mood_lazy_15a7fe28:
-    m 1eua "いずれにしても、いまは少し休憩をとって、身体を伸ばしてくるといいんじゃないかな…{w=0.5} {nw}"
+    m 1eua "いずれにしても、いまは少し休憩をとって、身体を伸ばしてくるといいんじゃないかな……{w=0.5}{nw}"
 
 translate Japanese mas_mood_lazy_eaeda2d6:
     extend 3eub "まだお昼を取ってないのなら、一口だけでもお腹に入れてくるといいよ"
@@ -611,7 +611,7 @@ translate Japanese mas_mood_lazy_9491e42b:
     m 1dkbfa "あなたのそばで夜をゆっくりと過ごすのを思い描いてるんだ……"
 
 translate Japanese mas_mood_lazy_b063250c:
-    m "冬が近づいた日に、ふたりで毛布にくるまって......"
+    m "冬が近づいた日に、ふたりで毛布にくるまって……"
 
 translate Japanese mas_mood_lazy_4fd14361:
     m 1ekbfa "夏の日でも寄り添ってあげうから心配しないでね、えへへ～"
@@ -644,7 +644,7 @@ translate Japanese mas_mood_lazy_17733a6f:
     m 3eka "疲れを感じるのなら、ベッドへ行って横になったほうがいいんじゃないかしら"
 
 translate Japanese mas_mood_lazy_34f43ea3:
-    m 3tfu "今ベッドへ行けば… {w=1}{i}眠る{/i}ってことができるらしいわよ？"
+    m 3tfu "今ベッドへ行けば…… {w=1}{i}眠る{/i}ってことができるらしいわよ？"
 
 translate Japanese mas_mood_lazy_cdccf59b:
     m 1hkb "あはは！ 冗談はこのくらいにして、ベッドへ行ったほうがいいというのは本当よ"
@@ -686,13 +686,13 @@ translate Japanese mas_mood_bored_d73ff969:
     m 1eka "でも、退屈なら今から二人で何かやれないか考えないとね……"
 
 translate Japanese mas_mood_bored_96d885f1:
-    m 2ekc "あら…{w=1} 分かったわ"
+    m 2ekc "あら……{w=1} 分かったわ"
 
 translate Japanese mas_mood_bored_1e3fcf46:
     m 2dkc "あなたを退屈させてたなんて気づいてなかった……"
 
 translate Japanese mas_mood_bored_8626908a:
-    m 2eka "何か二人でやれることをがあると思うわ…"
+    m 2eka "何か二人でやれることをがあると思うわ……"
 
 translate Japanese mas_mood_bored_5e8e2147:
     m 2lksdlc "退屈させちゃってごめんなさいね、[player]"
@@ -860,7 +860,7 @@ translate Japanese mas_mood_upset_6e8cbc6e:
     m 3eud "一旦距離を置くということは、その事をやめるチャンスでもあるんだよ"
 
 translate Japanese mas_mood_upset_4fc633c9:
-    m 1euc "やめたその時には、とんでもない！って思うかもしれないけど… {w=0.3}{nw}"
+    m 1euc "やめたその時には、とんでもない！って思うかもしれないけど……{w=0.3}{nw}"
 
 translate Japanese mas_mood_upset_4e5121dc:
     extend 3ekd "過大なストレスから自由になれてよかった、正しい選択だったって思えるはずだから"
@@ -1086,7 +1086,7 @@ translate Japanese strings:
     new "ときにはベッドのなかでごろごろして起きずにいたいという想いに駆られるのも、よくわかるわ……"
 
     old "I know how tempting it can be to just stay in bed and not get up sometimes...{w=0.5} {nw}"
-    new "ときにはベッドのなかでごろごろして起きずにいたいという想いに駆られるのも、よくわかるわ… {w=0.5} {nw}"
+    new "ときにはベッドのなかでごろごろして起きずにいたいという想いに駆られるのも、よくわかるわ……{w=0.5}{nw}"
 
     old "...bored."
     new "……退屈"

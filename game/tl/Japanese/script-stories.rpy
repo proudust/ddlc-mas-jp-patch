@@ -1,5 +1,5 @@
 translate Japanese monika_short_stories_menu_8e25506b:
-    m 1ekc "ごめんなさい… 今すぐには新しいお話は思い付けなくって……"
+    m 1ekc "ごめんなさい…… 今すぐには新しいお話は思い付けなくって……"
 
 translate Japanese monika_short_stories_menu_51483964:
     m 1eka "少し時間をくれれば、思い付くんじゃないかな…… それまでは、前のお話なら話してあげられるからいつでも言ってね～"

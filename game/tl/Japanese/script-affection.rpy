@@ -483,7 +483,7 @@ translate Japanese strings:
     new "私と会話したいわけ？"
 
     old "...Go ahead."
-    new "…いいわ、続けて"
+    new "……いいわ、続けて"
 
     old "Are you sure you want to talk to me?"
     new "私と話したいって、本当に思ってるの？"

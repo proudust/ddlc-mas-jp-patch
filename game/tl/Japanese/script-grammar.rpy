@@ -275,10 +275,10 @@ translate Japanese monika_gtod_tip006_a9233158:
     m 1eud "[player]君、文章中での『態』について知ってる？"
 
 translate Japanese monika_gtod_tip006_7c86cc90:
-    m 3eua "能動態と受動態があるのだけれど。"
+    m 3eua "能動態と受動態があるのだけれど"
 
 translate Japanese monika_gtod_tip006_900cb535:
-    m 3euc "主語と目的語についての話を思い出して。この2つの態の大きな違いは、主語と目的語のどちらが先に来るかよ。"
+    m 3euc "主語と目的語についての話を思い出して。この2つの態の大きな違いは、主語と目的語のどちらが先に来るかよ"
 
 translate Japanese monika_gtod_tip006_29631c65:
     m 1esd "主語が \"{b}Sayori（サヨリ）{/b}\" 、目的語が \"{b}cupcake（カップケーキ）{/b}\" だとして……"
@@ -290,22 +290,22 @@ translate Japanese monika_gtod_tip006_238b8f4a:
     m 3euc "今度は受動態。{w=0.5} \"{b}The last cupcake was eaten.（最後のカップケーキは食べられた。）{/b}\""
 
 translate Japanese monika_gtod_tip006_72c373e9:
-    m 1eub "こんな風に、受動態を使うと、主語を隠したまま完全文を作ることが出来るの。"
+    m 1eub "こんな風に、受動態を使うと、主語を隠したまま完全文を作ることが出来るの"
 
 translate Japanese monika_gtod_tip006_4a7ad033:
-    m 1tuu "確かに、受動態を使って卑屈に言うことも{i}できる{/i}わ。{w=0.5}でも、ほかの使い方もあるの。"
+    m 1tuu "確かに、受動態を使って卑屈に言うことも{i}できる{/i}わ。{w=0.5}でも、ほかの使い方もあるの"
 
 translate Japanese monika_gtod_tip006_b2a719e1:
-    m 3esd "例えば、いくつかの職に就いている人は、受動態を使って一般的に話す必要があるの。"
+    m 3esd "例えば、いくつかの職に就いている人は、受動態を使って一般的に話す必要があるの"
 
 translate Japanese monika_gtod_tip006_df980cd9:
-    m 3euc "科学者は実験について、 \"{b}the results were documented（結果を示す）{/b}...\" と書いているわ。重要なのはその研究であって、誰がやったかではないからね。"
+    m 3euc "科学者は実験について、 \"{b}the results were documented（結果を示す）{/b}...\" と書いているわ。重要なのはその研究であって、誰がやったかではないからね"
 
 translate Japanese monika_gtod_tip006_2d619292:
-    m 1esa "とにかく、ほとんどの場合、能動態を使うことで、読みやすい文章にできるし、誰がしたのかを直接伝えることも出来るわ。"
+    m 1esa "とにかく、ほとんどの場合、能動態を使うことで、読みやすい文章にできるし、誰がしたのかを直接伝えることも出来るわ"
 
 translate Japanese monika_gtod_tip006_4f8ac4f8:
-    m 1eub "今日はここまでにしよっか、[player]君。"
+    m 1eub "今日はここまでにしよっか、[player]君"
 
 translate Japanese monika_gtod_tip006_7566f426:
     m 3hub "ご清聴、ありがとうございました！"
@@ -407,49 +407,49 @@ translate Japanese monika_gtod_tip009_84efe7ba:
     m 1eua "今日はアポストロフィーについて話すね。かなり簡単だよ、ね？"
 
 translate Japanese monika_gtod_tip009_395010cd:
-    m 3eua "名詞を『所有格』、つまり所有者を示す形にするために付け加えるの。 \"{b}Sayori's fork （サヨリのフォーク） , Natsuki's spoon （ナツキのスプーン） , Yuri's knife （ユリのナイフ）{/b} ...\" みたいにね。"
+    m 3eua "名詞を『所有格』、つまり所有者を示す形にするために付け加えるの。 \"{b}Sayori's fork （サヨリのフォーク） , Natsuki's spoon （ナツキのスプーン） , Yuri's knife （ユリのナイフ）{/b} ...\" みたいにね"
 
 translate Japanese monika_gtod_tip009_6f9b19a4:
-    m 1esd "困るのは、 \"{b}s{/b}\" で終わる単語にアポストロフィーをつけなきゃいけないとき、じゃないかな。"
+    m 1esd "困るのは、 \"{b}s{/b}\" で終わる単語にアポストロフィーをつけなきゃいけないとき、じゃないかな"
 
 translate Japanese monika_gtod_tip009_0af44593:
-    m 3eub "複数形の名詞につけるなら簡単。最後にアポストロフィーを付けるだけよ。{w=0.5} \"{b}monkeys'{/b}\" みたいにね。"
+    m 3eub "複数形の名詞につけるなら簡単。最後にアポストロフィーを付けるだけよ。{w=0.5} \"{b}monkeys'{/b}\" みたいにね"
 
 translate Japanese monika_gtod_tip009_37dc1efb:
-    m 1hksdla "一匹のサルの所有物であることを示す \"{b}monkey's{/b}\" や、サルの複数形 \"{b}monkeys{/b}\" と同じ形にするのは間違い、っていうのは分かりやすいよね。"
+    m 1hksdla "一匹のサルの所有物であることを示す \"{b}monkey's{/b}\" や、サルの複数形 \"{b}monkeys{/b}\" と同じ形にするのは間違い、っていうのは分かりやすいよね"
 
 translate Japanese monika_gtod_tip009_1d0da10b:
-    m 1eud "微妙になってくるのが、 \"{b}Sanders{/b}\" や \"{b}[tempname]{/b}\" みたいに、人名にアポストロフィーを付ける時。"
+    m 1eud "微妙になってくるのが、 \"{b}Sanders{/b}\" や \"{b}[tempname]{/b}\" みたいに、人名にアポストロフィーを付ける時"
 
 translate Japanese monika_gtod_tip009_85b62dca:
-    m 1euc "前に読んだ文法書のうちの何冊かには、 \"{b}Sophocles{/b}\" とか \"{b}Zeus{/b}\" みたいな歴史上の人物でない限り、基本的にはいつも通りアポストロフィーと \"{b}s{/b}\" を付けるって載ってたわ。"
+    m 1euc "前に読んだ文法書のうちの何冊かには、 \"{b}Sophocles{/b}\" とか \"{b}Zeus{/b}\" みたいな歴史上の人物でない限り、基本的にはいつも通りアポストロフィーと \"{b}s{/b}\" を付けるって載ってたわ"
 
 translate Japanese monika_gtod_tip009_418cae0d:
     m 3eub "個人的には、一貫性が何より大事だと思うの！"
 
 translate Japanese monika_gtod_tip009_78120e5e:
-    m 3esd "\"{b}[tempname]'{/b}\" を使うなら、文章全体で \"{b}[tempname]'{/b}\" と表記すれば問題はない。"
+    m 3esd "\"{b}[tempname]'{/b}\" を使うなら、文章全体で \"{b}[tempname]'{/b}\" と表記すれば問題はない"
 
 translate Japanese monika_gtod_tip009_4b444bee:
-    m 1tuu "古代ギリシャ人に敬意を表するよりも重要かな、私には。"
+    m 1tuu "古代ギリシャ人に敬意を表するよりも重要かな、私には"
 
 translate Japanese monika_gtod_tip009_484088d0:
-    m 3eud "面白いことに、 \"{b}its{/b}\" と \"{b}it's{/b}\" は例外の一つなの。"
+    m 3eud "面白いことに、 \"{b}its{/b}\" と \"{b}it's{/b}\" は例外の一つなの"
 
 translate Japanese monika_gtod_tip009_c35edfcf:
     m 3etc "\"{b}it{/b}\" の所有格には、アポストロフィーを付けた \"{b}it's{/b}\" を使うと思うわよね？"
 
 translate Japanese monika_gtod_tip009_2ac5875f:
-    m 3euc "普通はそれでいいのだけれど、今回は単に \"{b}its{/b}\" とすると正しい所有格になるの。"
+    m 3euc "普通はそれでいいのだけれど、今回は単に \"{b}its{/b}\" とすると正しい所有格になるの"
 
 translate Japanese monika_gtod_tip009_41c5aee5:
-    m 1esd "これは、 \"{b}it's{/b}\" が \"{b}it is{/b}\" の短縮形として先に決められているからよ。"
+    m 1esd "これは、 \"{b}it's{/b}\" が \"{b}it is{/b}\" の短縮形として先に決められているからよ"
 
 translate Japanese monika_gtod_tip009_a564d647:
     m 1eua "不思議に思っているなら、こう考えてみたら？　短縮形は単に単語を縮めた形で、つづりが短縮された部分にアポストロフィーが目印に残っている、って。"
 
 translate Japanese monika_gtod_tip009_50e7b768:
-    m 1eub "さて[player]君、今回はそろそろ終わりにしようかな（{i}it's{/i} about time to wrap it up）……{w=0.5}このレッスンももうすぐ終わるんじゃないかな（I think this lesson has run {i}its{/i} course）。"
+    m 1eub "さて[player]君、今回はそろそろ終わりにしようかな（{i}it's{/i} about time to wrap it up）……{w=0.5}このレッスンももうすぐ終わるんじゃないかな（I think this lesson has run {i}its{/i} course）"
 
 translate Japanese monika_gtod_tip009_5ffdf762:
     m 3hub "エヘヘ。ご清聴、ありがとうございました！"

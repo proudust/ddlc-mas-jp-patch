@@ -289,7 +289,7 @@ translate Japanese _call_mas_wx_cmd_44_e5215b83:
 このコードはカッコ内の処理が先にされて、notでカッコ内の結果を逆にしているということなの"
 
 translate Japanese _call_mas_wx_cmd_44_e438f8d0:
-    m 1eua "もしこのカッコを取ってしまうと…"
+    m 1eua "もしこのカッコを取ってしまうと……"
 
 translate Japanese _call_mas_wx_cmd_45_9f70e34f:
     m 3eua "さっきと結果が違う！
@@ -434,7 +434,7 @@ translate Japanese _call_mas_wx_cmd_58_30d731eb:
     m 1eua "変数の操作方法を知ってさえいれば今後のレッスンを受ける上では十分かな"
 
 translate Japanese _call_mas_wx_cmd_58_c9062bfa:
-    m "とにかく…"
+    m "とにかく……"
 
 translate Japanese _call_mas_wx_cmd_58_cd0e708a:
     m 1eua "今日はここまでにしましょうか"
@@ -479,7 +479,7 @@ translate Japanese _call_mas_wx_cmd_62_1ce945e2:
     m 3eub "Pythonは変数aの中に代入された値、この場合は10ね、を探してきて表示してくれるの"
 
 translate Japanese _call_mas_wx_cmd_62_b6c4d4b6:
-    m "ここで、もし10と打ち込んだ場合…"
+    m "ここで、もし10と打ち込んだ場合……"
 
 translate Japanese _call_mas_wx_cmd_63_1f25e2ec:
     m 3hua "これでもPythonは10と表示してくれるの！"

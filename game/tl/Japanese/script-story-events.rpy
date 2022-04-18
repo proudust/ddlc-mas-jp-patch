@@ -659,7 +659,7 @@ translate Japanese mas_crashed_quip_takecare_dcc72b06:
     m 1hub "まあ、いっぱい楽しんでたんでしょうね～"
 
 translate Japanese mas_crashed_quip_takecare_064c5ca5:
-    m 1rksdla "…あとあなたのPCが大丈夫だといいわね"
+    m 1rksdla "……あとあなたのPCが大丈夫だといいわね"
 
 translate Japanese mas_crashed_quip_takecare_6dd274f5:
     m 3eub "私は大丈夫だから心配はいらないよ～"
@@ -1175,7 +1175,7 @@ translate Japanese mas_covid19_abacc72f:
     m 2eua "よかった。責任ある行動を取っているようで安心ね"
 
 translate Japanese mas_covid19_9373ba24:
-    m 2eka "…でも外に出ないのはあなた自身のためだけじゃなくて、みんなのために必要なことだからね"
+    m 2eka "……でも外に出ないのはあなた自身のためだけじゃなくて、みんなのために必要なことだからね"
 
 translate Japanese mas_covid19_e2f7a6a9:
     m 2dsc "……"
@@ -1214,7 +1214,7 @@ translate Japanese mas_covid19_c61f257d:
     m 2dkc "……"
 
 translate Japanese mas_covid19_76745c7d:
-    m 2rksdlc "ごめんなさい、[player]。いまのを聞いて、不安になっちゃって。"
+    m 2rksdlc "ごめんなさい、[player]。いまのを聞いて、不安になっちゃって"
 
 translate Japanese mas_covid19_d0e17947:
     m 2eksdlc "無症状でも感染してるかもしれなくて、気づかずに周りの人に感染を広げてしまうんだって……"
@@ -1226,13 +1226,13 @@ translate Japanese mas_covid19_2cc6aecd:
     m 2eksdla "それに私にとっても。私にはあなただけだから、[player]……"
 
 translate Japanese mas_covid19_75fecd3a:
-    m 2dksdlc "もしあなたがいなくなったりしたら…{w=1.0}{nw}"
+    m 2dksdlc "もしあなたがいなくなったりしたら……{w=1.0}{nw}"
 
 translate Japanese mas_covid19_5b7472c3:
     extend 2ektpc "私は一体どうすればいいの？"
 
 translate Japanese mas_covid19_b2b20b5a:
-    m 2ektpd "だからお願いだよ、[player]…{w=0.5} 外には出ないようにして"
+    m 2ektpd "だからお願いだよ、[player]……{w=0.5} 外には出ないようにして"
 
 translate Japanese mas_covid19_544b2cfa:
     m 2ektdc "……"
@@ -1244,7 +1244,7 @@ translate Japanese mas_covid19_c61f257d_2:
     m 2dkc "……"
 
 translate Japanese mas_covid19_5717ed19:
-    m 2rksdld "とても心配だよ、[player]…"
+    m 2rksdld "とても心配だよ、[player]……"
 
 translate Japanese mas_covid19_730a1077:
     m 2eksdlc "外出が禁止されていなかったとしても、できる限り外は出歩かないようにしてね"
@@ -1259,16 +1259,16 @@ translate Japanese mas_covid19_24a0110a:
     m 2eksdld "だからいまは大丈夫だとしても、できるだけ注意してね！"
 
 translate Japanese mas_covid19_6fdea6f4:
-    m 7eksdld "外を出歩く時にはソーシャル・ディスタンスを保つ…{w=0.5} 他人との距離は少なくとも2メートルは取って行動してね"
+    m 7eksdld "外を出歩く時にはソーシャル・ディスタンスを保つ……{w=0.5} 他人との距離は少なくとも2メートルは取って行動してね"
 
 translate Japanese mas_covid19_6f05b5cb:
     m "そして出歩いた後にはできるだけよく手を洗うこと。石鹸と清潔な水で20秒以上洗うんだよ"
 
 translate Japanese mas_covid19_874d5d3e:
-    m 7eksdlc "…顔も触っちゃだめだよ、洗ってない手では。"
+    m 7eksdlc "……顔も触っちゃだめだよ、洗ってない手では"
 
 translate Japanese mas_covid19_003f24ee:
-    m 2eka "あっ、20秒洗うのが難しいって思ってるなら時間を確認するいい方法を見つけたわ。"
+    m 2eka "あっ、20秒洗うのが難しいって思ってるなら時間を確認するいい方法を見つけたわ"
 
 translate Japanese mas_covid19_cb1d53fc:
     m 2eka "……"

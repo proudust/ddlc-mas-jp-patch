@@ -597,10 +597,10 @@ translate Japanese mas_reaction_candy_93a9eff4:
     m 1ekbfa "今必要な甘いものは、あなたの言葉だけかな～"
 
 translate Japanese mas_reaction_candy_ede30a8b:
-    m 2wud "[player]… {w=1} どれだけ私にキャンディを渡したいの？"
+    m 2wud "[player]…… {w=1} どれだけ私にキャンディを渡したいの？"
 
 translate Japanese mas_reaction_candy_d1fc8e89:
-    m 2lksdla "気持ちは嬉しいんだけれど、もう十分だって言ったはずよね…？"
+    m 2lksdla "気持ちは嬉しいんだけれど、もう十分だって言ったはずよね……？"
 
 translate Japanese mas_reaction_candy_08b8dc03:
     m 2lksdlb "こんなに食べさせられたら病気になっちゃうよ、アハハ！"
@@ -654,7 +654,7 @@ translate Japanese mas_reaction_candycorn_1ec5a865:
     m 2lksdla "あの、本当にありがとうね……"
 
 translate Japanese mas_reaction_candycorn_69071440:
-    m 2lksdla "でも…{w=1}えっとね…{w=1}実は私、キャンディコーンは好きじゃなくって"
+    m 2lksdla "でも……{w=1}えっとね……{w=1}実は私、キャンディコーンは好きじゃなくって"
 
 translate Japanese mas_reaction_candycorn_8c25eb98:
     m 2hksdlb "ごめんね、あはは……"
@@ -681,7 +681,7 @@ translate Japanese mas_reaction_candycorn_966460c8:
     m 1eka "もうそんな甘いものはいらないわ……"
 
 translate Japanese mas_reaction_candycorn_fd753b93:
-    m 1ekbfa "まあ…{w=1}甘いあなたの言葉は別腹だけどね……"
+    m 1ekbfa "まあ……{w=1}甘いあなたの言葉は別腹だけどね……"
 
 translate Japanese mas_reaction_candycorn_3201a8bc:
     m 1hubfa "えへへ～"
@@ -828,7 +828,7 @@ translate Japanese mas_reaction_new_ribbon_1e06ab09:
     m 3eka "だからリボンの色が選べるようになっただけでもいい傾向だと思うな"
 
 translate Japanese mas_reaction_new_ribbon_2d0cdf0d:
-    m 2dsa "じゃあ、早速付けてみるね.{w=0.5}.{w=0.5}.{nw}"
+    m 2dsa "じゃあ、早速付けてみるね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_reaction_new_ribbon_a7694e86:
     m 1hua "あっ、素敵だよこれ、[player]！"
@@ -882,7 +882,7 @@ translate Japanese mas_reaction_gift_roses_29c7a8a1:
     m 1ektda "あはは……"
 
 translate Japanese mas_reaction_gift_roses_021c15c5:
-    m 2dsa "ちょっと待っててね.{w=0.5}.{w=0.5}.{nw}"
+    m 2dsa "ちょっと待っててね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_reaction_gift_roses_af302dec:
     m 1hub "えへへ、じゃーん！ 素敵でしょ？"
@@ -1086,7 +1086,7 @@ translate Japanese mas_reaction_gift_acs_orcaramelo_hairflower_pink_52538e3f:
     m 1ekbsa "ありがとう、[player]！。あなたって本当に優しいね～"
 
 translate Japanese mas_reaction_gift_acs_orcaramelo_hairflower_pink_88e17fc3:
-    m 1dua "ちょっと待っててね.{w=0.5}.{w=0.5}.{nw}"
+    m 1dua "ちょっと待っててね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_reaction_gift_acs_orcaramelo_hairflower_pink_19428ff1:
     m 1hua "えへへ～"
@@ -1128,7 +1128,7 @@ translate Japanese _call_mas_clothes_change_3_6896f9a3:
     m 2hubsb "なんてね、あはは！"
 
 translate Japanese _call_mas_clothes_change_3_dc0b49b0:
-    m 2tkbsu "落ち着いて、落ち着いて… {w=0.5}からかっただけだよ〜"
+    m 2tkbsu "落ち着いて、落ち着いて…… {w=0.5}からかっただけだよ〜"
 
 translate Japanese _call_mas_clothes_change_3_e0f2dbe1:
     m 3hub "もう一度言うね、この服を贈ってくれてありがとう、[player]！"
@@ -1156,9 +1156,6 @@ translate Japanese _call_mas_clothes_change_4_0186721e:
 
 translate Japanese _call_mas_clothes_change_4_7750e055:
     m 3eub "この服を着ていると、なんだか瞬きする間に何もかもをこなせるような気がするわ"
-
-translate Japanese _call_mas_clothes_change_4_e1f54fbd:
-    m 1eua "…忙しくさせない限りだけどね、えへへ～"
 
 translate Japanese _call_mas_clothes_change_4_be34e17e:
     m 1lkbfb "あなたともっとたくさんの時間を過ごせるといいわね、ご主人さ{nw}"
@@ -1213,9 +1210,6 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_2c8
 
 translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_fa1000e4:
     m 3eua "早速着てみるね"
-
-translate Japanese _call_mas_clothes_change_6_fc39eaf4:
-    m 2dkbsu "あぁ… {w=1}ふかふか。 とっても気持ちいいわ。えへへ～"
 
 translate Japanese _call_mas_clothes_change_6_54255a56:
     m 1ekbsa "ありがとう、[player]！ 気に入っちゃった！"
