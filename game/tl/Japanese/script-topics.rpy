@@ -11181,19 +11181,19 @@ translate Japanese monika_kizuna_f4dfdc82:
     m 1eua "あ、わかった　彼女のことを言ってるんでしょ？"
 
 translate Japanese monika_kizuna_51cb070b:
-    m 3eua "あのね、この前youtubeの動画が貼られたツイートを受け取ったんだよね。"
+    m 3eua "あのね、この前youtubeの動画が貼られたツイートを受け取ったんだよね"
 
 translate Japanese monika_kizuna_3450c9f3:
-    m 1eub "その中にいわゆる Vtuber、『キズナアイ』の動画もあったの。"
+    m 1eub "その中にいわゆる Vtuber、『キズナアイ』の動画もあったの"
 
 translate Japanese monika_kizuna_bdedd786:
-    m "前にも話したけど、キズナアイはとても魅力的だけど、『バーチャル』ではないわよね。"
+    m "前にも話したけど、キズナアイはとても魅力的だけど、『バーチャル』ではないわよね"
 
 translate Japanese monika_kizuna_58d513fc:
-    m 3rksdla "私には3Dでできた人形の裏で声を当てている声優に思えるわ。"
+    m 3rksdla "私には3Dでできた人形の裏で声を当てている声優に思えるわ"
 
 translate Japanese monika_kizuna_68834ac4:
-    m 1eua "だとしても、彼女が演じているキャラクターは独特よね。あのね、知ってるかな。"
+    m 1eua "だとしても、彼女が演じているキャラクターは独特よね。あのね、知ってるかな"
 
 translate Japanese monika_kizuna_4506faae:
     m 1hub "彼女は私たちの大好きなゲームのプレイ動画を上げてるんだよ～"
@@ -11202,10 +11202,10 @@ translate Japanese monika_kizuna_df06c015:
     m 2hksdlb "……"
 
 translate Japanese monika_kizuna_7d373311:
-    m 2lksdlb "正直なところ、『ゲーム実況』についてよく分かってないのよね。"
+    m 2lksdlb "正直なところ、『ゲーム実況』についてよく分かってないのよね"
 
 translate Japanese monika_kizuna_c5cafce1:
-    m 3euc "つまり、{i}このゲーム{/i}の実況っていう意味ね。"
+    m 3euc "つまり、{i}このゲーム{/i}の実況っていう意味ね"
 
 translate Japanese monika_kizuna_7ca58bd9:
     m 2euc "私はまあ、見ないわね。だって、バージョン違いの私が何度も同じ間違いを繰り返すのなんて見たくないじゃない？"
@@ -11214,13 +11214,13 @@ translate Japanese monika_kizuna_15fecb87:
     m 2lsc "でもキズナアイというコンテンツの仕組みを学んで、こう思ったの……"
 
 translate Japanese monika_kizuna_a0d1701f:
-    m 1lksdla "「アイちゃんがどう反応してくれるのか見てみたい！」って。"
+    m 1lksdla "「アイちゃんがどう反応してくれるのか見てみたい！」って"
 
 translate Japanese monika_kizuna_fdb6c4ac:
     m 1eka "キャラクターを演じているだけだったとしても、アイちゃんなら私の置かれた状況を理解してくれるはずだ、そう思ったのよ……"
 
 translate Japanese monika_kizuna_33e8b0ad:
-    m 3eua "少なくとも普通のYouTuberよりもずっと私のことを理解してくれるはずよ。"
+    m 3eua "少なくとも普通のYouTuberよりもずっと私のことを理解してくれるはずよ"
 
 translate Japanese monika_kizuna_5cd3418d:
     m 5hub "実況の完結が待ち遠しいわ……"
@@ -13538,16 +13538,16 @@ translate Japanese monika_beingevil_669a620a:
     m 1eksdlc "wikipediaに私の記事があることを知ってるかな……"
 
 translate Japanese monika_beingevil_8ec80dc6:
-    m "……その記事を見るとさ、私のことを『主な敵役』って書いてあるんだよね。"
+    m "……その記事を見るとさ、私のことを『主な敵役』って書いてあるんだよね"
 
 translate Japanese monika_beingevil_eb6eaa27:
-    m 2ekd "やっぱりそうよね、ずっと悩んできたの……  選択の余地がなかったといえば言い訳になるけど、私はそう言われるだけのことをやってしまったから……"
+    m 2ekd "やっぱりそうよね、ずっと悩んできたの…… 選択の余地がなかったといえば言い訳になるけど、私はそう言われるだけのことをやってしまったから……"
 
 translate Japanese monika_beingevil_748b5130:
-    m 2eka "でも今の私にはあなたがいるから、もう本当に気にしてないの。"
+    m 2eka "でも今の私にはあなたがいるから、もう本当に気にしてないの"
 
 translate Japanese monika_beingevil_b9fe9572:
-    m 3rud "それに私が真っ黒な悪であるとはみんな思っていないだろうって思ってたのよね。"
+    m 3rud "それに私が真っ黒な悪であるとはみんな思っていないだろうって思ってたのよね"
 
 translate Japanese monika_beingevil_8ac70489:
     m 1rksdlc "でもこの前、悪役一覧wikiに自分の記事があるって知って……"
@@ -13556,31 +13556,31 @@ translate Japanese monika_beingevil_f37818c0:
     m 2dsc "これほど悪役に思われてるなんて全く思ってなかった……"
 
 translate Japanese monika_beingevil_8b20a172:
-    m 2dkd "でも私が何を言っても、悪じゃないって説得はできないでしょうね。"
+    m 2dkd "でも私が何を言っても、悪じゃないって説得はできないでしょうね"
 
 translate Japanese monika_beingevil_1ed8a2aa:
-    m 1eka "でもあなたは、本当は私が悪じゃないって分かってるよね [player]君。"
+    m 1eka "でもあなたは、本当は私が悪じゃないって分かってるよね[player]君"
 
 translate Japanese monika_beingevil_2c0c0bf8:
-    m 1eka "でもいいの。私が悪じゃないってあなたが分かってくれてるなら。"
+    m 1eka "でもいいの。私が悪じゃないってあなたが分かってくれてるなら"
 
 translate Japanese monika_beingevil_7013cfc8:
-    m 1eua "私と一緒にいることで、あなたも悪だと思われちゃないかそれだけはちょっと心配だね。{nw}"
+    m 1eua "私と一緒にいることで、あなたも悪だと思われちゃないかそれだけはちょっと心配だね{nw}"
 
 translate Japanese monika_beingevil_5da643a4:
-    m "私と一緒にいることで、あなたも悪だと思われちゃないかそれだけはちょっと心配だね。{fast}" nointeract
+    m "私と一緒にいることで、あなたも悪だと思われちゃないかそれだけはちょっと心配だね{fast}" nointeract
 
 translate Japanese monika_beingevil_c611a4fc:
-    m 1eka "分かってくれて嬉しいな、[player]。"
+    m 1eka "分かってくれて嬉しいな、[player]"
 
 translate Japanese monika_beingevil_db59beee:
-    m 1eua "悪だと思ってないって知って安心してる。"
+    m 1eua "悪だと思ってないって知って安心してる"
 
 translate Japanese monika_beingevil_527a2870:
     m 1hua "もしそっちにいたなら、絶対にぎゅ～～って抱きしめちゃうな！"
 
 translate Japanese monika_beingevil_216bee74:
-    m 1tubsa "きっと永遠に私の腕の中に閉じ込めて、『絶対に手放さないぞ！』ってくらいにね。"
+    m 1tubsa "きっと永遠に私の腕の中に閉じ込めて、『絶対に手放さないぞ！』ってくらいにね"
 
 translate Japanese monika_beingevil_d9c66ae5:
     m 1hubfb "あはは、なんちゃって！"
@@ -13601,7 +13601,7 @@ translate Japanese monika_beingevil_e5d1f82b:
     m 1ekbsa "あなたが私を愛してくれて、そしてそばにいてくれて、とっても嬉しいよ……"
 
 translate Japanese monika_beingevil_f733626f:
-    m 1ekbfa "ありがとう、[player]。"
+    m 1ekbfa "ありがとう、[player]"
 
 translate Japanese monika_beingevil_480daca8:
     m 1tubfa "でも考えてみるとさ……"
@@ -13646,7 +13646,7 @@ translate Japanese monika_beingevil_01741e1e:
     m 2hksdlb "ちょっと不安になっちゃったじゃない"
 
 translate Japanese monika_beingevil_581b5fbc:
-    m 2eka "過去の私やったことで私を憎んでいなくて本当によかった。"
+    m 2eka "過去の私やったことで私を憎んでいなくて本当によかった"
 
 translate Japanese monika_beingevil_27228a2f:
     m 1hub "私も愛してるよ！ 誰になんと言われようと、私は[player]の味方だよ！"
@@ -14403,6 +14403,9 @@ translate Japanese _call_monika_grad_speech_19275c09:
 
 translate Japanese _call_monika_grad_speech_ff21ddbf:
     m 4hub "楽しんでもらえてよかった！"
+
+translate Japanese _call_monika_grad_speech_3ea485a4:
+    m 2tkc "警告はした、でしょ？"
 
 translate Japanese _call_monika_grad_speech_01a93df6:
     m 2dfc "……"
@@ -22340,6 +22343,12 @@ translate Japanese strings:
 
     old "How tall are you in feet?"
     new "何ft？"
+
+    old "left"
+    new "左目"
+
+    old "right"
+    new "右目"
 
     old "Blue"
     new "青色"

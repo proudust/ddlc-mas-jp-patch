@@ -398,7 +398,7 @@ translate Japanese _call_mas_song_shelter_lyrics_1_bcf7c699:
     m 1esa "シミュレーションの世界の中でひとりぼっちの少女・凛の物語よ"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_0fba6598:
-    m 1rkc "彼女は孤独を紛らわすために、毎日自分の世界を空想し想像し続けてるの…… {w=0.3}{nw}"
+    m 1rkc "彼女は孤独を紛らわすために、毎日自分の世界を空想し想像し続けてるの……{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_fd691c38:
     extend 3wud "彼女がなぜそこに閉じ込められているかがわかるまでずっとよ！"

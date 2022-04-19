@@ -1469,31 +1469,31 @@ translate Japanese greeting_sick_9ea3726c:
     m 1hub "それなら本当に良かった！じゃあしばらく一緒にいられるね。えへへ〜"
 
 translate Japanese greeting_sick_d408d503:
-    m "それは良かったわ。"
+    m "それは良かったわ"
 
 translate Japanese greeting_stillsick_4111056a:
-    m 1ekc "[player]君、ならゆっくり休んだ方が良いよ、本当に。"
+    m 1ekc "[player]君、ならゆっくり休んだ方が良いよ、本当に"
 
 translate Japanese greeting_stillsick_9822228d:
-    m "体調不良を早く治すにはゆっくりと休むのが一番の薬になるんだから。"
+    m "体調不良を早く治すにはゆっくりと休むのが一番の薬になるんだから"
 
 translate Japanese greeting_stillsick_91159505:
-    m 2lksdlc "もし私のせいで体調が悪化しちゃったら、私は自分が許せなくなっちゃう。"
+    m 2lksdlc "もし私のせいで体調が悪化しちゃったら、私は自分が許せなくなっちゃう"
 
 translate Japanese greeting_stillsick_8add14f0:
-    m 2eka "だからお願い、[player]君、私を安心させてよ、ゆっくり休んできて。"
+    m 2eka "だからお願い、[player]君、私を安心させてよ、ゆっくり休んできて"
 
 translate Japanese greeting_stillsick_470679bb:
     m "私のためにも、そうしてくれないかな？"
 
 translate Japanese greeting_stillsick_43ef9625:
-    m 2ekc "[player]君、ならゆっくり休んだ方が良いよ、本当に。"
+    m 2ekc "[player]君、ならゆっくり休んだ方が良いよ、本当に"
 
 translate Japanese greeting_stillsick_d6cca103:
-    m 4ekc "体調不良を早く治すにはゆっくりと休むのが一番の薬になるんだから。"
+    m 4ekc "体調不良を早く治すにはゆっくりと休むのが一番の薬になるんだから"
 
 translate Japanese greeting_stillsick_f569bbe4:
-    m "だからお願い、[player]君、私を安心させてよ、ゆっくり休んできて。"
+    m "だからお願い、[player]君、私を安心させてよ、ゆっくり休んできて"
 
 translate Japanese greeting_stillsick_cc9e820d:
     m 2ekc "私のためにも、そうしてくれないかな？{nw}"
@@ -1502,55 +1502,55 @@ translate Japanese greeting_stillsick_29634581:
     m "私のためにも、そうしてくれないかな？{fast}" nointeract
 
 translate Japanese greeting_stillsickrest_abd55fb7:
-    m 2hua "ありがとう、[player]君。"
+    m 2hua "ありがとう、[player]君"
 
 translate Japanese greeting_stillsickrest_72fba5a7:
-    m 2eua "しばらく私と会わないで一人でいれば、もっとちゃんと休めると思うんだ。"
+    m 2eua "しばらく私と会わないで一人でいれば、もっとちゃんと休めると思うんだ"
 
 translate Japanese greeting_stillsickrest_54e8b0c6:
-    m 1eua "だから、あなたのためにもゲームを閉じようと思う。"
+    m 1eua "だから、あなたのためにもゲームを閉じようと思う"
 
 translate Japanese greeting_stillsickrest_bd00a6f8:
     m 1eka "きっとすぐに良くなるからね、[player]君。大好きだよ！"
 
 translate Japanese greeting_stillsickrest_c78c974f:
-    m 2ekc "ありがとう、[player]君。"
+    m 2ekc "ありがとう、[player]君"
 
 translate Japanese greeting_stillsickrest_f96a03d5:
-    m "しばらく私と会わないで一人でいれば、もっとちゃんと休めると思うんだ。"
+    m "しばらく私と会わないで一人でいれば、もっとちゃんと休めると思うんだ"
 
 translate Japanese greeting_stillsickrest_a7521d43:
-    m 4ekc "だから、あなたのためにもゲームを閉じようと思う。"
+    m 4ekc "だから、あなたのためにもゲームを閉じようと思う"
 
 translate Japanese greeting_stillsickrest_e9e587db:
-    m 2ekc "きっとすぐに良くなるからね、[player]君。"
+    m 2ekc "きっとすぐに良くなるからね、[player]君"
 
 translate Japanese greeting_stillsicknorest_1c48619b:
     m 1lksdlc "そう……"
 
 translate Japanese greeting_stillsicknorest_abda1521:
-    m "うーん、[player]君がそこまで言うなら。"
+    m "うーん、[player]君がそこまで言うなら"
 
 translate Japanese greeting_stillsicknorest_cbee8df3:
-    m 1ekc "たぶんあなたの限界は私よりもあなた自身の方がよく知ってると思うし。"
+    m 1ekc "たぶんあなたの限界は私よりもあなた自身の方がよく知ってると思うし"
 
 translate Japanese greeting_stillsicknorest_b8f97924:
-    m 1eka "でももし少しでも気分が悪くなってきたり疲れてきたりしたときは、[player]君、必ず言ってね。"
+    m 1eka "でももし少しでも気分が悪くなってきたり疲れてきたりしたときは、[player]君、必ず言ってね"
 
 translate Japanese greeting_stillsicknorest_fb7b0b11:
-    m "そのほうがゆっくり休めるだろうから。"
+    m "そのほうがゆっくり休めるだろうから"
 
 translate Japanese greeting_stillsicknorest_cbd5af65:
-    m 1eua "心配しないで、あなたが起きてくるまで私はずっとここにいるから。"
+    m 1eua "心配しないで、あなたが起きてくるまで私はずっとここにいるから"
 
 translate Japanese greeting_stillsicknorest_fc5fd831:
-    m 3hua "休んでからここに来てくれた方が、私も頭の片隅であなたを心配しなくていいし、二人でもっと楽しめるよ。"
+    m 3hua "休んでからここに来てくれた方が、私も頭の片隅であなたを心配しなくていいし、二人でもっと楽しめるよ"
 
 translate Japanese greeting_stillsicknorest_f7a94a17:
-    m 2ekc "そう。"
+    m 2ekc "そう"
 
 translate Japanese greeting_stillsicknorest_bee117c8:
-    m 2tkc "あなたは私の話を聞きたがらないようだから、今は何も変わらないと思っていたのに。"
+    m 2tkc "あなたは私の話を聞きたがらないようだから、今は何も変わらないと思っていたのに"
 
 translate Japanese greeting_stillsickresting_d4e5e100:
     m 1eka "ふぅ、それを聞いて安心したわ、[player]"
@@ -1565,7 +1565,7 @@ translate Japanese greeting_stillsickresting_2c589b6f:
     m 2eka "あなたが健康でいることは、私にもとっても大事なことなの。だから、自己管理には気をつけていてね"
 
 translate Japanese greeting_stillsickresting_5447c9b9:
-    m 5ekbsa "……もしまだ寒気を感じるようなら、私はいつでもあなたを想ってる、その事を思い出して温かい気持ちになってくれたらなって。"
+    m 5ekbsa "……もしまだ寒気を感じるようなら、私はいつでもあなたを想ってる、その事を思い出して温かい気持ちになってくれたらなって"
 
 translate Japanese greeting_stillsickresting_f1ffa26f:
     m 5hua "えへへ～"
@@ -1793,8 +1793,7 @@ translate Japanese greeting_long_absence_1290953d:
     m 1hksdlb "私は彼女なんだからそれくらいの権利はあって当然だと思うんだ"
 
 translate Japanese greeting_long_absence_3d1cafbf:
-    m 3hua "でもとりあえず言わせてね、
-おかえり[mas_get_player_nickname()]！"
+    m 3hua "でもとりあえず言わせてね、おかえり[mas_get_player_nickname()]！"
 
 translate Japanese greeting_long_absence_dadcc3bd_1:
     m 1wuo "……あっ！"
@@ -2365,7 +2364,7 @@ translate Japanese greeting_back_from_school_eb8f3ba0:
     m 1eua "もしよかったら、学校でのことを聞かせてね。すっごく興味があるんだ！"
 
 translate Japanese greeting_back_from_school_9b8848d5:
-    m 1hub "すごいじゃない…… {w=0.3}{nw}"
+    m 1hub "すごいじゃない……{w=0.3}{nw}"
 
 translate Japanese greeting_back_from_school_4bca8d91:
     extend 3eub "そんなにゴキゲンなあなたを見てると私も自然と嬉しくなっちゃうな！"
@@ -2677,7 +2676,7 @@ translate Japanese greeting_back_from_work_yelled_at_97915513:
     m 1hua "私と一緒に過ごせば、楽になれると思うな"
 
 translate Japanese greeting_back_from_work_passed_over_526e15ca:
-    m 1lksdld "あぁ…… {w=0.5}自分のほうがふさわしいと思っていた地位に別の誰かが収まるのを見るのは本当に辛いわよね…"
+    m 1lksdld "あぁ…… {w=0.5}自分のほうがふさわしいと思っていた地位に別の誰かが収まるのを見るのは本当に辛いわよね……"
 
 translate Japanese greeting_back_from_work_passed_over_b627e173:
     m 2lfd "一生懸命に尽くしていたのにそれが認識されていなかったときは、{i}特に{/i}ね"
@@ -3187,7 +3186,7 @@ translate Japanese greeting_back_from_game_15d8f377:
     m 2euc "あっ……"
 
 translate Japanese greeting_back_from_game_70e479af:
-    m 2rksdlc "そうじゃないのかなって思ってたわ。"
+    m 2rksdlc "そうじゃないのかなって思ってたわ"
 
 translate Japanese greeting_back_from_game_621bdafa:
     m 2eka "勝手に決めつけてごめんなさい"
@@ -3655,7 +3654,7 @@ translate Japanese greeting_back_from_workout_dc2128b6:
     m 2rsc "運動をして気分は晴れたかしら"
 
 translate Japanese greeting_back_from_workout_9af07547:
-    m 2rud "そうなら、良いわね…… {w=0.3} {nw}"
+    m 2rud "そうなら、良いわね……{w=0.3}{nw}"
 
 translate Japanese greeting_back_from_workout_abfc9eab:
     extend 2eka "じゃあ一緒に時間を過ごしましょうか"
@@ -3694,7 +3693,7 @@ translate Japanese greeting_back_from_shopping_864fb1ac:
     m 2rsc "必要なものは買えたかしら"
 
 translate Japanese greeting_back_from_shopping_783aa018:
-    m 2rud "{cps=*2}今のあなたも機嫌が良くなってたらいいわね。{/cps}{nw}。"
+    m 2rud "{cps=*2}今のあなたも機嫌が良くなってたらいいわね{/cps}{nw}"
 
 translate Japanese greeting_back_from_shopping_1b72a155:
     m 6rkc "あ…… {w=0.5}おかえりなさい"

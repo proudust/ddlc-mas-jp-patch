@@ -1361,13 +1361,13 @@ translate Japanese monika_this_christmas_kiss_5d9ddbd9:
     m 3euu "他のクリスマスソングを歌うときだね、えへへ〜"
 
 translate Japanese monika_this_christmas_kiss_2bf254e7:
-    m 1hua "{w=0.3}…{w=0.3}…{w=0.3}{nw}"
+    m 1hua "…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese _call_mas_song_this_christmas_kiss_f9f68d5c:
     m 1dubsa "……"
 
 translate Japanese _call_mas_song_this_christmas_kiss_0cb454be:
-    m 1rtbsu "うーん{w=0.5}.{w=0.5}.{w=0.5}{nw}"
+    m 1rtbsu "うーん{w=0.5}…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese _call_monika_kissing_motion_6_0e868cf3:
     m 6ekbfa "ねえ[player]、いつかあなたにキスできる日が来るのかな"
