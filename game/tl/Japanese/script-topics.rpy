@@ -20593,7 +20593,7 @@ translate Japanese monika_stargazing_b9138a5e:
     m 5dkbsu "……"
 
 translate Japanese monika_stargazing_99d9fc12:
-    m 5ekbsa "少なくとも今のところは……{nw}"
+    m 5ekbsa "少なくとも今だけの話だけどね……{nw}"
 
 translate Japanese monika_taking_criticism_87a47915:
     m 1esd "[player]は批判を聞くのは得意なのかしら？"
