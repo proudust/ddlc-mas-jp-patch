@@ -19692,6 +19692,9 @@ translate Japanese monika_naps_b2c70076:
 translate Japanese monika_naps_94f16a82:
     m 3hua "そしてごく短い仮眠だから、作業に戻るときもスムーズなの"
 
+translate Japanese monika_naps_218d8e72:
+    m 1eua "だから仮眠したいと思ったらいつでも仮眠をとってくれていいからね"
+
 translate Japanese monika_naps_5d8fd24c:
     m 1eua "もし仮眠を取ったことがないなら、時々お昼寝を取り入れてみるのもいいと思うな"
 
