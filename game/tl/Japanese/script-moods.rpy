@@ -340,6 +340,9 @@ translate Japanese mas_mood_angry_089158f3:
 translate Japanese mas_mood_angry_35b67941:
     m 3ekc "あなたの気分を良くする為ならなんでもやるわ"
 
+translate Japanese mas_mood_angry_42bbbff6:
+    m 1euc "でもその前に、まずは落ち着かなくちゃ"
+
 translate Japanese mas_mood_angry_596b4297:
     m 1lksdlc "興奮している時に合理的な判断はは下せないもの"
 

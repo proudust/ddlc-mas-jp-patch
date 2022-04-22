@@ -1672,7 +1672,7 @@ translate Japanese mas_d25_monika_christmas_eve_625bd0c6:
 translate Japanese _call_mas_d25_monika_second_time_lingerie_1_dc11f15d:
     m 5ekbfa "……"
 
-translate Japanese _call_mas_lingerie_intro_b2b16b20:
+translate Japanese _call_mas_lingerie_intro_1_b2b16b20:
     m 1ekbfa "あなたをとってもとっても愛してるの、 [player]～"
 
 translate Japanese mas_d25_monika_second_time_lingerie_6d6d2f46:
@@ -2839,7 +2839,7 @@ translate Japanese mas_player_bday_card_2b811737:
 translate Japanese mas_player_bday_card_0ce0c483:
     m 6ekbsu "わ……私、あなたのためにバースデーカードも作ってみたの。気に入ってくれるといいんだけど……"
 
-translate Japanese mas_player_bday_card_2b811737:
+translate Japanese mas_player_bday_card_2b811737_1:
     m 6ekbsu "あなたのためにバースデーカードを作ってみたの、[player]。気に入ってくれるといいんだけど……"
 
 translate Japanese _call_mas_showpoem_7_a531c7f2:

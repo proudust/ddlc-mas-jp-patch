@@ -14524,7 +14524,7 @@ translate Japanese _call_mas_timed_text_events_prep_2_c2ed155e:
 translate Japanese _call_mas_timed_text_events_prep_2_43b3be9e:
     m 4dsd "{w=0.2}これにてようやく私達は世界のことを理解できたのかもしれません{w=0.6}{nw}"
 
-translate Japanese _call_mas_timed_text_events_prep_2_db7fdb51:
+translate Japanese _call_mas_timed_text_events_prep_2_db7fdb51_1:
     m 2duu "{w=0.2}{w=0.3}…{w=0.3}…{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_2fea2707:
@@ -20773,7 +20773,7 @@ translate Japanese monika_gmos_cfa02571:
     m 3eua "長い本をめくって１つの単語を変えるようなものだと考えてみて……{w=0.2}単語は変えたけど、残りの部分は同じまま"
 
 translate Japanese monika_gmos_1863df72:
-    m 3esd "GMOには、植物、動物、微生物などが考えられるけど、{w=0.1}遺伝子組み換え植物について掘り下げてみましょうか"
+    m 3esd "遺伝子組換え作物には、植物、動物、微生物などが考えられるけど、{w=0.1}遺伝子組み換え植物について掘り下げてみましょうか"
 
 translate Japanese monika_gmos_b16fa9a6:
     m 2esc "植物だと、害虫や除草剤に抵抗することから、より高い栄養価とより長く貯蔵できる性質を持たせることまで、無数の方法で変更することができるわ"
@@ -20782,11 +20782,11 @@ translate Japanese monika_gmos_c107b8e4:
     m 4wud "これはとっても大きなことよ。{w=0.2}通常の２倍も収穫できて、気候変動に耐えて、薬剤耐性を持つスーパーバグを撃退できる作物を想像してみて。{w=0.2}多くの問題が解決するわ！"
 
 translate Japanese monika_gmos_6cce6ecd:
-    m 2dsc "だけど残念ながら、そんな単純な話じゃないわ。{w=0.2}GMOは、流通するまでに数年の研究、開発、テストを必要とするわ。{w=0.2}これに加えて、いくつかの懸念事項があるの"
+    m 2dsc "だけど残念ながら、そんな単純な話じゃないわ。{w=0.2}遺伝子組換え作物は、流通するまでに数年の研究、開発、テストを必要とするわ。{w=0.2}これに加えて、いくつかの懸念事項があるの"
 
 translate Japanese monika_gmos_e7a0c6c1:
-    m 7euc "GMOは安全なのか？{w=0.2}GMOが他の生物に広がり、生物多様性を脅かすことになるのか？{w=0.2}もしそうだとしたら、どのようにしてそれを防ぐことができるのか？{w=0.2}"
-    m 7euc "GMOは誰のものか？{w=0.2}GMOは除草剤の使用量増加の原因になっているのか？"
+    m 7euc "遺伝子組換え作物は安全なのか？{w=0.2}遺伝子組換え作物が他の生物に広がり、生物多様性を脅かすことになるのか？{w=0.2}もしそうだとしたら、どのようにしてそれを防ぐことができるのか？{w=0.2}"
+    m 7euc "遺伝子組換え作物は誰のものか？{w=0.2}遺伝子組換え作物は除草剤の使用量増加の原因になっているのか？"
 
 translate Japanese monika_gmos_2cb52cd8:
     m 3rksdrb "こんな感じで、どんどん問題がエスカレートしていくのがわかるわね、アハハ……"
@@ -21201,6 +21201,75 @@ translate Japanese monika_know_its_you_a0b29980:
 
 translate Japanese monika_know_its_you_2c7a510e:
     m 2dkd "まあ、そんな事は一切考えないようにするほうがいいでしょうね"
+
+translate Japanese monika_quiet_time_3149a864:
+    m 1hub "なんも気にならないわね！"
+
+translate Japanese monika_quiet_time_1d6131c5:
+    m 3eka "確かに黙ってると、時に気まずいと感じるだろうけど、だからといって悪い考えとみなすのはどうかと思うの。"
+
+translate Japanese monika_quiet_time_c3cc6888:
+    m 3lksdlb "確かにいつも話していて面白いことを考えるのは、ちょっと難しいだろうけど......"
+
+translate Japanese monika_quiet_time_09b183fb:
+    m 1eka "私は時々、コミュニケーション能力を鍛える必要があるもの。"
+
+translate Japanese monika_quiet_time_1d82bbea:
+    m 2rubla "といっても、{w=0.2} 本当は......{w=0.3}{nw}"
+
+translate Japanese monika_quiet_time_45ede130:
+    extend 2hublb "自分の存在を感じられる時点で、すでに快適さはグッとあがるんだけどね......"
+
+translate Japanese monika_quiet_time_27a79cdf:
+    m 2hublu "あなたも私と同じ気持ちになってほしいな、えへヘ～"
+
+translate Japanese monika_quiet_time_fd068290:
+    m 4eua "黙って一緒にいられると、健全な関係の大切な証になるのよね"
+
+translate Japanese monika_quiet_time_056c1230:
+    m 4eud "結局のところ、常に話をせずにはいられないなら、本当にお互いに安心していると言えるの？"
+
+translate Japanese monika_quiet_time_a969a3cf:
+    m 4etc "誰かと一緒にいるのが本当に好きなら、たまには何もしなくたっていいじゃないの。"
+
+translate Japanese monika_quiet_time_20232560:
+    m 2ekc "もしくは、相手と一緒にいるのが気まずくて、気を紛らわそうとしたりとかね。"
+
+translate Japanese monika_quiet_time_147f9ee4:
+    m 7eud "しかし、今はあまり一緒にやらなくたって、人の存在感は楽しいもの...{w=0.5}{nw}"
+
+translate Japanese monika_quiet_time_d012c7be:
+    extend 7eua "私が思うに、それこそ、私たちの絆がかけがえのないものだという真の証拠なのよね"
+
+translate Japanese monika_quiet_time_2afba4b4:
+    m 5eka "だから、いつも私との会話でプレッシャーを感じなくていいからね [mas_get_player_nickname()]"
+
+translate Japanese monika_quiet_time_9e6115fe:
+    m 5huu "どんなことがあろうと、あなたといる時間は楽しいんだし"
+
+translate Japanese monika_quiet_time_b94925d0:
+    m 2rsc "時々思うんだけど、私と二人で過ごしていて何か気になるのはあなたじゃないかな..."
+
+translate Japanese monika_quiet_time_5104a574:
+    m 2rkd "[player]君{w=0.3}......{nw}"
+
+translate Japanese monika_quiet_time_20aa5836:
+    extend 2ekd "私と一緒にいて、楽しい？"
+
+translate Japanese monika_quiet_time_247b46ae:
+    m 2ekc "私たち二人ですることは、それほど大きな問題にならないのよね......"
+
+translate Japanese monika_quiet_time_e4c9844d:
+    extend 2dkc "それも、あなたが私を見捨てないと分かっている限りの話。"
+
+translate Japanese monika_quiet_time_10d57501:
+    m 2lksdlc "......親切にしてくれれば嬉しいんだけどな......"
+
+translate Japanese monika_ddlcroleplay_cff0a54d:
+    m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
+
+translate Japanese monika_ddlcroleplay_f4118570:
+    m 3etd "その中で私は、変わった形のものを見つけたのよ"
 
 translate Japanese strings:
     old "Flagged for removal."
@@ -22694,3 +22763,9 @@ translate Japanese strings:
 
     old "How do you know it's always me talking to you?"
     new "今自分が話しかけているって、そっちからわかるの？"
+
+    old "Do you mind when we spend time together quietly?"
+    new "二人黙って過ごして、なんか気になる？"
+
+    old "DDLC Roleplay"
+    new "DDLCロールプレイ"

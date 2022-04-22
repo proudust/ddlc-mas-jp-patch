@@ -296,7 +296,7 @@ translate Japanese _call_mas_wx_cmd_45_9f70e34f:
 NOT演算子がandより前の部分、a==bのところで適用されてるからこうなるの"
 
 translate Japanese _call_mas_wx_cmd_45_f7da2ae4:
-    m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね。でもPythonじゃ感嘆符はあまり使われなくて、代わりにNOT演算子が使われてるのよ。こっちのほうが人の目にもわかりやすいからという理由ね"
+    m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね。\"\"でもPythonじゃ感嘆符はあまり使われなくて、代わりにNOT演算子が使われてるのよ。こっちのほうが人の目にもわかりやすいからという理由ね"
 
 translate Japanese _call_mas_wx_cmd_45_d1ec0705:
     m 1eua "最後に、論理演算子を使った結果はbool値で評価されるから、変数として格納できるの"

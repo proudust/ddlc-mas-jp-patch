@@ -79,9 +79,6 @@ translate Japanese mas_hangman_game_loop_17be01df:
 translate Japanese mas_hangman_game_loop_c7891309:
     m 1hua "わっ、ちゃんと[the_word]を当てられたね！"
 
-translate Japanese mas_hangman_game_loop_c7891309:
-    m 1hua "わっ、ちゃんと[the_word]を当てられたね！"
-
 translate Japanese mas_hangman_game_loop_73956dbf:
     m "すごいね、[player]君！"
 
