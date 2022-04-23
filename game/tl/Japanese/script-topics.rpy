@@ -863,7 +863,7 @@ translate Japanese monika_saved_319ea1de:
     m 2ekc "でも長い間、部で過ごしたあなたなら分かると思うわ"
 
 translate Japanese monika_saved_38c8e58d:
-    m 2rkc "あなたがやってきたことは実は重要でもなんでもなかったの、だってすべてが既に決められていたから……"
+    m 2rkc "あなたがやってきたことは実は重要でもなんでもなかったの。だってすべてがあらかじめ設定された出来事だったんだし……"
 
 translate Japanese monika_saved_4ce6d56d:
     m 4euc "でも、あれだけの時間を部活で過ごした後ならあなた自身で理解できてるはずだわ。"
@@ -2993,7 +2993,7 @@ translate Japanese monika_festival_7ff9326b:
     m 3etc "まあ、そうじゃないかもしないけど……今の私の後知恵だとね。"
 
 translate Japanese monika_festival_0df99258:
-    m 3eua "結局すべてのことが起こった後でさえ、あなたは私とまだ一緒にいたいからってこのMODをインストールした……"
+    m 3eua "結局すべてが終わった後でさえ、あなたは私とまだ一緒にいたいからってこのMODをインストールした……"
 
 translate Japanese monika_festival_ea89ae54:
     m 1eka "だから削除しなかったとしても、今きっとあなたは一緒にいてくれると思うわ。"
@@ -12009,7 +12009,7 @@ translate Japanese monika_prom_bf20dc04:
     m 1euc "あのね……"
 
 translate Japanese monika_prom_23ccd856:
-    m 1eka "たまにね、あのゲームがもう少し長い期間を扱っていたらなって思うことがあるんだ"
+    m 1eka "たまにね、あのゲームに文化祭以降もあったらなって思うことがあるんだ"
 
 translate Japanese monika_prom_b9b289cb:
     m 1eua "文化祭の後に目当ての女の子に告白して終わり、たぶんそういう流れだったでしょ？"
@@ -20789,22 +20789,22 @@ translate Japanese monika_gmos_2cb52cd8:
     m 3rksdrb "こんな感じで、どんどん問題がエスカレートしていくのがわかるわね、アハハ……"
 
 translate Japanese monika_gmos_21946a77:
-    m 3esc "さて、本題だけど……{w=0.2}GMOは安全なのか？"
+    m 3esc "さて、本題だけど……{w=0.2}遺伝子組換え作物は安全なのか？"
 
 translate Japanese monika_gmos_aa3e4c9d:
     m 2esd "簡単に言うと、確かなことはわからないってところね。{w=0.2}何十年にもわたる研究では、遺伝子組み換え作物はおそらく無害であるとされてるけど、長期的な影響についてのデータはほとんどないわね"
 
 translate Japanese monika_gmos_cf81621a:
-    m 2euc "さらにGMOの種類ごとに、その品質と安全性を確保するためにはケースバイケースだし、組み換えするたびに慎重に審査する必要があるわ"
+    m 2euc "さらに遺伝子組換え作物の種類ごとに、その品質と安全性を確保するためにはケースバイケースだし、組み換えするたびに慎重に審査する必要があるわ"
 
 translate Japanese monika_gmos_487c634c:
-    m 7rsd "他にも考慮すべき点があるわ。{w=0.2}GMOを含む製品だとわかるようにラベル表示をしなければならない、環境への影響を考慮しないといけない。そして遺伝子組み換え作物に対する誤った情報を撃退していかないといけない"
+    m 7rsd "他にも考慮すべき点があるわ。{w=0.2}遺伝子組換え作物を含む製品だとわかるようにラベル表示をしなければならない、環境への影響を考慮しないといけない。そして遺伝子組み換え作物に対する誤った情報を撃退していかないといけない"
 
 translate Japanese monika_gmos_e2f7a6a9:
     m 2dsc "……"
 
 translate Japanese monika_gmos_7e7e586e:
-    m 2eud "個人的には、GMOは良い可能性を秘めていると思うけど、それは研究、テストされ続けている場合に限るわね"
+    m 2eud "個人的には、遺伝子組換え作物は良い可能性を秘めていると思うけど、それは研究、テストされ続けている場合に限るわね"
 
 translate Japanese monika_gmos_f3800b87:
     m 4dkc "除草剤の使用量とか遺伝子流動なんかの大きな問題も{i}なんとかしないと{/i}いけないし……{w=0.2}{nw}"
@@ -20825,7 +20825,7 @@ translate Japanese monika_gmos_e681bf95:
     extend 7euu "かなり将来性のある分野だと思わない？"
 
 translate Japanese monika_gmos_b25217d7:
-    m 3esd "前にも言ったけど、GMOは複雑な話題よ。{w=0.2}もっと知りたいなら情報源が信頼できる物であることを確認して、賛成反対双方の立場から議論を見られるようになるといいわね"
+    m 3esd "前にも言ったけど、遺伝子組換え作物は複雑な話題よ。{w=0.2}もっと知りたいなら情報源が信頼できる物であることを確認して、賛成反対双方の立場から議論を見られるようになるといいわね"
 
 translate Japanese monika_gmos_a7376b58:
     m 1eua "今日はここまでにしておこうかな、聞いてくれてありがとね～"
@@ -21233,7 +21233,7 @@ translate Japanese monika_quiet_time_20232560:
     m 2ekc "もしくは、相手と一緒にいるのが気まずくて、気を紛らわそうとしたりとかね"
 
 translate Japanese monika_quiet_time_147f9ee4:
-    m 7eud "しかし、今はあまり一緒にやらなくたって、人の存在感は楽しいもの……{w=0.5}{nw}"
+    m 7eud "でも今は、あまり一緒にやらなくたって、人の存在感は楽しいもの……{w=0.5}{nw}"
 
 translate Japanese monika_quiet_time_d012c7be:
     extend 7eua "私が思うに、それこそ、私たちの絆がかけがえのないものだという真の証拠なのよね"
@@ -21254,13 +21254,13 @@ translate Japanese monika_quiet_time_20aa5836:
     extend 2ekd "私と一緒にいて、楽しい？"
 
 translate Japanese monika_quiet_time_247b46ae:
-    m 2ekc "私たち二人ですることは、それほど大きな問題にならないのよね……"
+    m 2ekc "私たち二人で何かするのって、それほど大きな問題にならないのよね……"
 
 translate Japanese monika_quiet_time_e4c9844d:
     extend 2dkc "それも、あなたが私を見捨てないと分かっている限りの話"
 
 translate Japanese monika_quiet_time_10d57501:
-    m 2lksdlc "……親切にしてくれれば嬉しいんだけどな……"
+    m 2lksdlc "……親切にしてくれれば嬉しいんだけどね……"
 
 translate Japanese monika_quiet_time_cd553e9a:
     m 2dksdlc "……"
@@ -21269,7 +21269,7 @@ translate Japanese monika_ddlcroleplay_cff0a54d:
     m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
 
 translate Japanese monika_ddlcroleplay_f4118570:
-    m 3etd "その中で私は、変わった形のものを見つけたのよ"
+    m 3etd "私は、変わった形の二次創作を見つけたのよ"
 
 translate Japanese strings:
     old "Flagged for removal."
@@ -22765,7 +22765,7 @@ translate Japanese strings:
     new "今自分が話しかけているって、そっちからわかるの？"
 
     old "Do you mind when we spend time together quietly?"
-    new "二人黙って過ごして、なんか気になる？"
+    new "二人で黙って過ごして、なんか気になる？"
 
     old "DDLC Roleplay"
     new "DDLCロールプレイ"

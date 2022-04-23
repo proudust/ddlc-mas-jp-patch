@@ -2675,7 +2675,7 @@ translate Japanese _call_spaceroom_39_e612037c:
     m "……"
 
 translate Japanese _call_spaceroom_39_842b94f9:
-    m "うーん……これだとサプライズは意味無しだけど…{w=0.5}…{w=0.5}{nw}"
+    m "うーん……これでサプライズはパーになっちゃったけど…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese _call_spaceroom_39_f5bdee4e:
     m 4eua "誕生日おめでとう、[player]！"
@@ -3199,6 +3199,9 @@ translate Japanese _call_mas_clothes_change_16_1328b3f8:
 translate Japanese _call_mas_clothes_change_16_a8205d5c:
     m 3tkbsu "あなたも私の衣装楽しんでね〜"
 
+translate Japanese _call_mas_clothes_change_17_45ca4f80:
+    m 2eua "ねえ......{w=0.3}[player]君はどう思う？"
+
 translate Japanese _call_mas_clothes_change_18_b1d8253c:
     m 2eua "……"
 
@@ -3294,6 +3297,9 @@ translate Japanese _call_mas_f14_intro_generic_4216e0ad:
 
 translate Japanese _call_mas_f14_intro_generic_8f0875c4:
     m 3tsb "あはは、なんてね！{w=0.5} どう？気に入ってくれた？"
+
+translate Japanese _call_mas_f14_sun_dress_outro_1_279a134e:
+    m 2eua "この服装、どう思う？"
 
 translate Japanese _call_mas_f14_intro_generic_1_b62b0c4a:
     m 1fkbsu "大好きだよ"
