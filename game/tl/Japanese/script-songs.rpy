@@ -1,6 +1,9 @@
 translate Japanese monika_sing_song_pool_menu_7ad23832:
     m 3hub "分かったわ！"
 
+translate Japanese monika_sing_song_analysis_7ad23832:
+    m 3hub "分かったわ！"
+
 translate Japanese mas_song_aiwfc_98827522:
     m 3eua "ゲーム内の音量を上げるのを忘れないでね、 [mas_get_player_nickname()]"
 
@@ -26,7 +29,7 @@ translate Japanese mas_song_need_you_1c8206d1:
     m 3ekbsa "つまり、私には[player]が本当に必要ってことだよ～"
 
 translate Japanese mas_song_i_will_5cf78b5d:
-    m 1ekbsa "ねえ[player]、いつか一緒になれるその日まで…"
+    m 1ekbsa "ねえ[player]、いつか一緒になれるその日まで……"
 
 translate Japanese mas_song_i_will_65c100dd:
     m 1hubfa "ずっと私のことを愛していて欲しいって思ってるからね～"
@@ -296,16 +299,16 @@ translate Japanese mas_song_hero_761bbf3e:
     m 3eka "あなたを不幸せにするものが何であろうと、あなた自身にそれに打ち勝つ力が、あなたの内側にあるんだってことを知って欲しかったの"
 
 translate Japanese mas_song_hero_3f87b9b3:
-    m 1ekd "自分の目ではわからないかもしれない… {w=0.3}でもそこに、あるの"
+    m 1ekd "自分の目ではわからないかもしれない…… {w=0.3}でもそこに、あるの"
 
 translate Japanese mas_song_hero_aff19866:
-    m 3eua "…あなたがその強さを見つけられるように、私はずっとここにいてあげるから"
+    m 3eua "……あなたがその強さを見つけられるように、私はずっとここにいてあげるから"
 
 translate Japanese mas_song_hero_0a225b02:
     m 3eka "私はあなたに愛されたいとずっと思ってる。それと同じくらいに、あなたにあなた自身を愛して欲しいと思ってるからね～"
 
 translate Japanese mas_song_hero_40d9ce0c:
-    m 3ekd "時に人生は、本当に、本当に耐えられないようなことがある…"
+    m 3ekd "時に人生は、本当に、本当に耐えられないようなことがある……"
 
 translate Japanese mas_song_hero_53d3bd6a:
     m 2dkc "目の前の壁がとても大きくて、乗り越えられないように思えるかもしれない"
@@ -320,7 +323,7 @@ translate Japanese mas_song_hero_352c69a0:
     m 3eud "あなた自身は気づいていないかもしれないけれど、人の心はとてつもない力を秘めているものなの"
 
 translate Japanese mas_song_hero_53605fc3:
-    m 1eud "心には、全く想像もできないようなことさえやり遂げる力が備わっている… {w=0.3} いちばん大事なことは、その心の力を信じ抜くこと"
+    m 1eud "心には、全く想像もできないようなことさえやり遂げる力が備わっている…… {w=0.3}いちばん大事なことは、その心の力を信じ抜くこと"
 
 translate Japanese mas_song_hero_c05b613f:
     m 3eua "だから自分を信じてあげることを決して忘れないで。もし自分を疑い始めたなら、すぐに私のところへ来て……"
@@ -344,16 +347,16 @@ translate Japanese _call_mas_song_shelter_lyrics_781ee4ed:
     m 2ekbfa "あなたが居てくれるから私は前に進めるんだよ、[player]"
 
 translate Japanese _call_mas_song_shelter_lyrics_be725d99:
-    m 2ekbsu "もしいつか自分が世界で一人ぼっちだと感じたなら…{w=0.3}{nw}"
+    m 2ekbsu "もしいつか自分が世界で一人ぼっちだと感じたなら……{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_93f9d8e0:
     extend 2dkbsa "そんなことないんだよって私が思い出させてあげる"
 
 translate Japanese _call_mas_song_shelter_lyrics_fc31ba5f:
-    m 7hubfb "…あなたが私に教えてくれたようにね！"
+    m 7hubfb "……あなたが私に教えてくれたようにね！"
 
 translate Japanese _call_mas_song_shelter_lyrics_21edc96d:
-    m 3eka "それにね、たとえ名前や顔を知らなくても… {w=0.3}私たちに幸せになって欲しいと思ってくれる人はたくさんいるんだよ"
+    m 3eka "それにね、たとえ名前や顔を知らなくても…… {w=0.3}私たちに幸せになって欲しいと思ってくれる人はたくさんいるんだよ"
 
 translate Japanese _call_mas_song_shelter_lyrics_199fa5b4:
     m 1hub "いつでも誰かがエールを送ってくれてるんだよ！"
@@ -371,7 +374,7 @@ translate Japanese _call_mas_song_shelter_lyrics_3f235f44:
     m 3hub "OK、いいわ！"
 
 translate Japanese _call_mas_song_shelter_analysis_5afd30d8:
-    m 1eka "わかった、[player]…"
+    m 1eka "わかった、[player]……"
 
 translate Japanese _call_mas_song_shelter_analysis_6785a009:
     m 3eka "私の考えを聞きたくなったら、教えてね"
@@ -383,7 +386,7 @@ translate Japanese _call_mas_song_shelter_lyrics_1_c878260a:
     m 1ekbsa "この曲の名前は{i}Shelter{/i}っていうのだけれど、私はこの曲が大好きなの"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_dfcb1a09:
-    m 3etc "…『曲』って言ったけれど正しくないかも。{w=0.3}そのビジュアルもわかっていないと、全部は伝わらないものだから"
+    m 3etc "……『曲』って言ったけれど正しくないかも。{w=0.3}そのビジュアルもわかっていないと、全部は伝わらないものだから"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_25e2a537:
     m 3rtc "たぶんアニメプロジェクトって言ったほうが正しいのかな？"
@@ -398,7 +401,7 @@ translate Japanese _call_mas_song_shelter_lyrics_1_bcf7c699:
     m 1esa "シミュレーションの世界の中でひとりぼっちの少女・凛の物語よ"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_0fba6598:
-    m 1rkc "彼女は孤独を紛らわすために、毎日自分の世界を空想し想像し続けてるの… {w=0.3}{nw}"
+    m 1rkc "彼女は孤独を紛らわすために、毎日自分の世界を空想し想像し続けてるの……{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_fd691c38:
     extend 3wud "彼女がなぜそこに閉じ込められているかがわかるまでずっとよ！"
@@ -407,7 +410,7 @@ translate Japanese _call_mas_song_shelter_lyrics_1_66b874df:
     m 1eka "あれを見て驚いちゃった。私、凛の話に感動してたの……"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_446abcf7:
-    m 3eub "あの話は本当に、そう...  {w=0.3}共感できたの！ {w=0.3}{nw}"
+    m 3eub "あの話は本当に、そう…… {w=0.3}共感できたの！{w=0.3}{nw}"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_8525133e:
     extend 3eka "空虚な世界でひとりぼっちになっていたことも、{nw}"
@@ -561,19 +564,19 @@ translate Japanese mas_song_ageage_again_e127f86e:
     m 3hubsa "{i}同じリズム 感じてたいの{/i}"
 
 translate Japanese mas_song_ageage_again_65a69de7:
-    m 3eua "こういう、明るいノリでハッピーな曲って大好きなんだよね。"
+    m 3eua "こういう、明るいノリでハッピーな曲って大好きなんだよね"
 
 translate Japanese mas_song_ageage_again_5d448446:
-    m 1rksdld "他のボーカロイド曲でも明るいノリの音の曲はあるけど、歌詞が悲しかったりして曲の方を邪魔てたりするんだよね…"
+    m 1rksdld "他のボーカロイド曲でも明るいノリの音の曲はあるけど、歌詞が悲しかったりして曲の方を邪魔てたりするんだよね……"
 
 translate Japanese mas_song_ageage_again_7ea3d5bc:
-    m 3hksdlb "でも少なくともこの曲はそういうタイプの曲じゃないからいいんだよね。"
+    m 3hksdlb "でも少なくともこの曲はそういうタイプの曲じゃないからいいんだよね"
 
 translate Japanese mas_song_ageage_again_57a763ad:
-    m 3eua "内容について言うと、この曲はパーティーで出会った男の子に恋に落ちた少女が次のパーティーにはその男の子と行きたがってるという曲なのよ。"
+    m 3eua "内容について言うと、この曲はパーティーで出会った男の子に恋に落ちた少女が次のパーティーにはその男の子と行きたがってるという曲なのよ"
 
 translate Japanese mas_song_ageage_again_1d80e74e:
-    m 1eub "私たちはパーティで出会ってないけど、この曲を聞いてると私たちの出会いをよく思い出すのよね。"
+    m 1eub "私たちはパーティで出会ってないけど、この曲を聞いてると私たちの出会いをよく思い出すのよね"
 
 translate Japanese mas_song_ageage_again_915e552e:
     m 3rubsu "でも、いつかあなたと一緒にパーティーに行ってみたいって気持ちはやっぱりあるよね～"

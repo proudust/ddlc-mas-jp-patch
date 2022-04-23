@@ -1,6 +1,9 @@
 translate Japanese mas_monikamovie_a8bb27b9:
     m 1eub "映画が見たいの？"
 
+translate Japanese mm_choose_movie_c739ccaa:
+    m "どんな映画が見たいの？"
+
 translate Japanese mm_found_movie_904eb62f:
     m 3eub "映画を私と同時に再生しようね。"
 

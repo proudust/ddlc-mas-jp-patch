@@ -289,14 +289,15 @@ translate Japanese _call_mas_wx_cmd_44_e5215b83:
 このコードはカッコ内の処理が先にされて、notでカッコ内の結果を逆にしているということなの"
 
 translate Japanese _call_mas_wx_cmd_44_e438f8d0:
-    m 1eua "もしこのカッコを取ってしまうと…"
+    m 1eua "もしこのカッコを取ってしまうと……"
 
 translate Japanese _call_mas_wx_cmd_45_9f70e34f:
     m 3eua "さっきと結果が違う！
 NOT演算子がandより前の部分、a==bのところで適用されてるからこうなるの"
 
 translate Japanese _call_mas_wx_cmd_45_f7da2ae4:
-    m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね。でもPythonじゃ感嘆符はあまり使われなくて、代わりにNOT演算子が使われてるのよ。こっちのほうが人の目にもわかりやすいからという理由ね"
+    m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね。"
+    m 3eka "でもPythonじゃ感嘆符はあまり使われなくて、代わりにNOT演算子が使われてるのよ。こっちのほうが人の目にもわかりやすいからという理由ね"
 
 translate Japanese _call_mas_wx_cmd_45_d1ec0705:
     m 1eua "最後に、論理演算子を使った結果はbool値で評価されるから、変数として格納できるの"
@@ -434,7 +435,7 @@ translate Japanese _call_mas_wx_cmd_58_30d731eb:
     m 1eua "変数の操作方法を知ってさえいれば今後のレッスンを受ける上では十分かな"
 
 translate Japanese _call_mas_wx_cmd_58_c9062bfa:
-    m "とにかく…"
+    m "とにかく……"
 
 translate Japanese _call_mas_wx_cmd_58_cd0e708a:
     m 1eua "今日はここまでにしましょうか"
@@ -479,7 +480,7 @@ translate Japanese _call_mas_wx_cmd_62_1ce945e2:
     m 3eub "Pythonは変数aの中に代入された値、この場合は10ね、を探してきて表示してくれるの"
 
 translate Japanese _call_mas_wx_cmd_62_b6c4d4b6:
-    m "ここで、もし10と打ち込んだ場合…"
+    m "ここで、もし10と打ち込んだ場合……"
 
 translate Japanese _call_mas_wx_cmd_63_1f25e2ec:
     m 3hua "これでもPythonは10と表示してくれるの！"

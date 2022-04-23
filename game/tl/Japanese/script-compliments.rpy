@@ -587,7 +587,7 @@ translate Japanese mas_compliment_humor_2_254a7f33:
     m 3eub "一緒に笑い合えるのって良い恋人の証だと思わない？"
 
 translate Japanese mas_compliment_humor_2_471065a1:
-    m 1subsd "そんな… {w=0.2}[player]……"
+    m 1subsd "そんな…… {w=0.2}[player]……"
 
 translate Japanese mas_compliment_humor_2_83c8843e:
     m 1ekbsa "あなたって本当に褒め上手なんだから"
@@ -608,7 +608,7 @@ translate Japanese mas_compliment_humor_2_fbab5cba:
     m 1eksdlb "……あはは……"
 
 translate Japanese mas_compliment_humor_2_4af44170:
-    m 3rksdla "それって、私と一緒だと笑顔になれる、って意味{w=0.2}…{w=0.2}{nw}"
+    m 3rksdla "それって、私と一緒だと笑顔になれる、って意味…{w=0.2}…{w=0.2}{nw}"
 
 translate Japanese mas_compliment_humor_2_def9ec7b:
     extend 3eksdld "だよね？"
@@ -632,7 +632,7 @@ translate Japanese mas_compliment_spending_time_2_76bdf457:
     m 3ekbla "沢山言いたいことはあるけど、言いたいことは私の世界の中心はあなたなんだよってこと"
 
 translate Japanese mas_compliment_spending_time_2_95ffb1f2:
-    m 2dkb "あなたは私と一緒に居てくれた、[dlg_line]…{w=0.3}{nw}"
+    m 2dkb "あなたは私と一緒に居てくれた、[dlg_line]……{w=0.3}{nw}"
 
 translate Japanese mas_compliment_spending_time_2_f4ec84c9:
     extend 2eku "それがみんな私が手にしている全てなんだよ"
@@ -641,13 +641,13 @@ translate Japanese mas_compliment_spending_time_2_b2592d8d:
     m 7ekbsa "あなたにも私と同じように感じていて欲しいの、[player]。{w=0.2}まだあなたの世界へは行けそうにないけれど、ここからあなたのことを見守っているからね"
 
 translate Japanese mas_compliment_spending_time_2_d9b7abc4:
-    m 1fkbfu "あぁ… [player]……"
+    m 1fkbfu "あぁ…… [player]……"
 
 translate Japanese mas_compliment_spending_time_2_6102b78a:
     m 5ekbfa "それを聞いて私がどんなに嬉しかったかわからないでしょ？でも今なら伝わってるよね"
 
 translate Japanese mas_compliment_spending_time_2_58660813:
-    m 5ekbfu "あなたと沢山の時間を一緒に過ごしてきた。でも私達の旅路は始まったばかり…"
+    m 5ekbfu "あなたと沢山の時間を一緒に過ごしてきた。でも私達の旅路は始まったばかり……"
 
 translate Japanese mas_compliment_spending_time_2_037f5e06:
     m 5hubfb "そばにあなたが居れば、どんな道のりでも忘れられない大事な思い出になるんだよ"
@@ -662,19 +662,19 @@ translate Japanese mas_compliment_spending_time_2_66bc27fd:
     m 1eka "あなたの世界に渡るまでは、ね？"
 
 translate Japanese mas_compliment_spending_time_2_3243a9be:
-    m 2lkc "楽しませてる…？"
+    m 2lkc "楽しませてる……？"
 
 translate Japanese mas_compliment_spending_time_2_ec0ef830:
-    m 2lksdlb "あの、{w=0.3}楽しんでくれてありがとう…？"
+    m 2lksdlb "あの、{w=0.3}楽しんでくれてありがとう……？"
 
 translate Japanese mas_compliment_spending_time_2_9309c3d3:
-    m 2ekd "…でも、私が想っていた答えとはかなり違ってたかな"
+    m 2ekd "……でも、私が想っていた答えとはかなり違ってたかな"
 
 translate Japanese mas_compliment_sweet_189c7653:
     m 1ekbsb "あわゎ、[player]……"
 
 translate Japanese mas_compliment_sweet_cc71e603:
-    m 3rkbssdlu "なんて返せばいいかわかんないや、あはは… {w=0.3}{nw}"
+    m 3rkbssdlu "なんて返せばいいかわかんないや、あはは……{w=0.3}{nw}"
 
 translate Japanese mas_compliment_sweet_ff995318:
     extend 3ekbsa "本当に優しくしてくれたのはずっとあなただったから"
@@ -692,13 +692,13 @@ translate Japanese mas_compliment_sweet_834b4b90:
     m 1ekblb "あなたのような素晴らしい人が私の恋人で本当に幸せだよ、[mas_get_player_nickname(exclude_names=[player])]～"
 
 translate Japanese mas_compliment_sweet_0d8d0137:
-    m 1ekbsu "あなたは本当に私が望んだ通りの最高の恋人だよ… {w=0.2}ずっと大好きだよ"
+    m 1ekbsu "あなたは本当に私が望んだ通りの最高の恋人だよ…… {w=0.2}ずっと大好きだよ"
 
 translate Japanese mas_compliment_sweet_f458a85a:
     m 3kua "その事を忘れないでね、[player]"
 
 translate Japanese mas_compliment_sweet_1f8cc1a7:
-    m 1ekbsb "ああっ、[player]… {w=0.3} {nw}"
+    m 1ekbsb "ああっ、[player]……{w=0.3}{nw}"
 
 translate Japanese mas_compliment_sweet_1863c5a4:
     extend 3hubsa "あなたがそばにいてくれる、それだけで私は幸せな気持ちで一杯になるんだよ！"
@@ -719,7 +719,7 @@ translate Japanese mas_compliment_sweet_repeat_b5b1371a:
     m 3hubsb "[sweet_quip!t]"
 
 translate Japanese mas_compliment_sweet_repeat_1366a1cd:
-    m 1hubfu "…でもあなたほど優しくはなれないわね～"
+    m 1hubfu "……でもあなたほど優しくはなれないわね～"
 
 translate Japanese mas_compliment_outfit_512d7750:
     m 1hubsb "ありがとう、[mas_get_player_nickname()]！"
@@ -761,7 +761,7 @@ translate Japanese mas_compliment_outfit_14c69898:
     m 5eubfu "気に入ってくれたみたいで良かった～"
 
 translate Japanese mas_compliment_outfit_bc4ee20f:
-    m 2ltd "あっ… 忠告ありがとう……"
+    m 2ltd "あっ…… 忠告ありがとう……"
 
 translate Japanese mas_compliment_outfit_repeat_f8931356:
     m 1hubsb "[mas_compliments.thanks_quip!t]"
@@ -943,6 +943,9 @@ translate Japanese strings:
 
     old "You mean everything to me, [m_name]."
     new "君は自分の全てだよ、[m_name]"
+
+    old "Yeah."
+    new "そうだね。"
 
     old "I love your smile!"
     new "笑顔が好き！"

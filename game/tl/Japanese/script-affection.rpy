@@ -55,6 +55,9 @@ translate Japanese monika_affection_nickname_yes_a1eb6b28:
 translate Japanese monika_affection_nickname_yes_1643033e:
     m 1eka "もう一回ね～"
 
+translate Japanese monika_affection_nickname_yes_394ece4d_1:
+    m 1euc "……"
+
 translate Japanese monika_affection_nickname_yes_ec2234e2:
     m 1hksdlb "私のニックネームを決めてるはずなんだけど、ばか"
 
@@ -483,7 +486,7 @@ translate Japanese strings:
     new "私と会話したいわけ？"
 
     old "...Go ahead."
-    new "…いいわ、続けて"
+    new "……いいわ、続けて"
 
     old "Are you sure you want to talk to me?"
     new "私と話したいって、本当に思ってるの？"

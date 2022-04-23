@@ -1,10 +1,10 @@
-translate Japanese _call_mas_backups_you_have_corrupted_persistent_0320a168:
+translate Japanese _call_mas_backups_you_have_bad_persistent_0320a168:
     "[config.name]はDoki Doki Literature ClubのファンMODであり、Team Salvatoとは関係がありません。"
 
-translate Japanese _call_mas_backups_you_have_corrupted_persistent_12775544:
+translate Japanese _call_mas_backups_you_have_bad_persistent_12775544:
     "このMODは、公式DDLCをクリア後にプレイするものとして作成されており、DDLCのネタバレを含みます。"
 
-translate Japanese _call_mas_backups_you_have_corrupted_persistent_e193832f:
+translate Japanese _call_mas_backups_you_have_bad_persistent_e193832f:
     "このMODをプレイするにはDoki Doki Literature Club本体ファイルが必要です。ファイルは公式サイトから無料ダウンロードできます。 http://ddlc.moe"
 
 translate Japanese after_load_78a4e9dc:
