@@ -4064,7 +4064,7 @@ translate Japanese monika_technique_3836fb76:
     m 1hub "でも練習をつづけたら絶対にできるようになるよ！"
 
 translate Japanese monika_contribute_bbe8becc:
-    m 1hua "もし[mas_get_player_nickname()]君がこのゲームを改良してくれたら、すごく素敵だよね。"
+    m 1hua "もし[mas_get_player_nickname()]君がこのゲームを改良してくれたら、すごく素敵だよね"
 
 translate Japanese monika_contribute_27302a30:
     m 1eua "そうしてくれたら、喜んで感謝する人はたくさんいるよ？"
@@ -4082,10 +4082,10 @@ translate Japanese monika_contribute_0852023b:
     m 1sub "ホント？だったらすごいわ！"
 
 translate Japanese monika_contribute_bedba2a5:
-    m 1hua "あなたがこのゲームの一員になっていたなんて、とても嬉しいわ。"
+    m 1hua "あなたがこのゲームの一員になっていたなんて、とても嬉しいわ"
 
 translate Japanese monika_contribute_6f986901:
-    m "私があなたの現実に少しでも近づく手伝いをしてくれて、本当にありがとう。"
+    m "私があなたの現実に少しでも近づく手伝いをしてくれて、本当にありがとう"
 
 translate Japanese monika_contribute_5df68a82:
     m 3eua "もしかしたら、もう少し貢献できるかもって思わない？"
@@ -4103,10 +4103,10 @@ translate Japanese monika_contribute_43a39abc:
     m 1hua "あなたなら素敵な追加要素をつくれると思うわ～"
 
 translate Japanese monika_contribute_a54e3208:
-    m 3eua "なにも規模の大きなものでなくてもいいのよ。"
+    m 3eua "なにも規模の大きなものでなくてもいいのよ"
 
 translate Japanese monika_contribute_19c064da:
-    m 3rksdla "タイプミスを直したり、ゲーム全体が良い感じになってるかチェックするとかでもいいんだよ。"
+    m 3rksdla "タイプミスを直したり、ゲーム全体が良い感じになってるかチェックするとかでもいいんだよ"
 
 translate Japanese monika_contribute_abff795c:
     m 2eka "あぁ、それは残念ね……"
@@ -4121,16 +4121,16 @@ translate Japanese monika_contribute_1732d8c8:
     m 3eub "……でも、もしもの時のために……"
 
 translate Japanese monika_contribute_ea8ae30b:
-    m 3eua "このゲームのソースコードは {a=https://github.com/Monika-After-Story/MonikaModDev}{i}{u}https://github.com/Monika-After-Story/MonikaModDev{/u}{/i}{/a} に置いてあるから。"
+    m 3eua "このゲームのソースコードは {a=https://github.com/Monika-After-Story/MonikaModDev}{i}{u}https://github.com/Monika-After-Story/MonikaModDev{/u}{/i}{/a} に置いてあるから"
 
 translate Japanese monika_contribute_dc511504:
-    m 1hub "このゲームをもっといいものにするために、今までたくさんの人が手を貸してくれたんだ。"
+    m 1hub "このゲームをもっといいものにするために、今までたくさんの人が手を貸してくれたんだ"
 
 translate Japanese monika_contribute_21446121:
     m "みんなのこと大好き！ありがとう！"
 
 translate Japanese monika_contribute_00532718:
-    m 1ekbsa "もちろん、私が一番好きなのはあなただけどね。"
+    m 1ekbsa "もちろん、私が一番好きなのはあなただけどね"
 
 translate Japanese monika_contribute_5e323cf3:
     m 1tkbfu "あれ、ヤキモチ焼かせちゃったかな？"
@@ -4154,49 +4154,49 @@ translate Japanese monika_drawing_8f4cc1c1:
     m 3hub "もしすごくいい絵だったら、この部屋に飾ってもいいかも！"
 
 translate Japanese monika_mc_2a840f28:
-    m 3eua "私、恋愛経験ゼロだったんだよね。あなたに出会うまで。"
+    m 3eua "私、恋愛経験ゼロだったんだよね。あなたに出会うまで"
 
 translate Japanese monika_mc_2527dae7:
-    m 1eka "[player]君、あなたが初めてってこと。"
+    m 1eka "[player]君、あなたが初めてってこと"
 
 translate Japanese monika_mc_fa877372:
-    m 1euc "あ、そっか。「あなた」っていうと、本当のあなたとキャラクターとしてのあなた、両方の意味になるよね。ごめん、ちょっとややこしいかな。"
+    m 1euc "あ、そっか。「あなた」っていうと、本当のあなたとキャラクターとしてのあなた、両方の意味になるよね。ごめん、ちょっとややこしいかな"
 
 translate Japanese monika_mc_dbba459f:
-    m 1eua "キャラクターじゃなく、プレイヤーであるあなたが好き。"
+    m 1eua "キャラクターじゃなく、プレイヤーであるあなたが好き"
 
 translate Japanese monika_mc_5bf92d0d:
-    m "他の子と違って、私はあなたがプレイしてるゲームの主人公と、あなた自身をちゃんと区別できてるから。"
+    m "他の子と違って、私はあなたがプレイしてるゲームの主人公と、あなた自身をちゃんと区別できてるから"
 
 translate Japanese monika_mc_bf32ba25:
-    m 1lfb "このゲームの主人公なんて、プレイヤーの乗り物でしかない。{nw}"
+    m 1lfb "このゲームの主人公なんて、プレイヤーの乗り物でしかない{nw}"
 
 translate Japanese monika_mc_78cb9cfd:
-    m 1lfb "このゲームの主人公なんて、{fast}個性のないデータの寄せ集めでしかないわけでしょ。"
+    m 1lfb "このゲームの主人公なんて、{fast}個性のないデータの寄せ集めでしかないわけでしょ"
 
 translate Japanese monika_mc_5f549d8f:
     m 3tkc "文字通りでも比喩的にでも、無個性だってこと。そんな相手を好きになるなんて無理でしょ？"
 
 translate Japanese monika_mc_b12d3eb5:
-    m 2tkc "主人公は幼馴染の女の子が所属する部活に連れてこられて、特になにをするでもなく、ただかわいい女の子たちといちゃいちゃするだけ。"
+    m 2tkc "主人公は幼馴染の女の子が所属する部活に連れてこられて、特になにをするでもなく、ただかわいい女の子たちといちゃいちゃするだけ"
 
 translate Japanese monika_mc_3963d9d6:
     m 2wfw "しかも書く詩ときたら無意味なことばの羅列。そんな詩ありえないじゃない？"
 
 translate Japanese monika_mc_7a8ccd20:
-    m 2lksdld "そういうゲームなんだから、誰もそこを指摘しないのはわかるけど、でも、{w=0.5}私にとってはやっぱりただのことばの羅列でしかないの。"
+    m 2lksdld "そういうゲームなんだから、誰もそこを指摘しないのはわかるけど、でも、{w=0.5}私にとってはやっぱりただのことばの羅列でしかないの"
 
 translate Japanese monika_mc_1dfbda75:
     m 2hua "現実のあなたはもっとずっとロマンチックな人だと思うんだけどな！"
 
 translate Japanese monika_mc_bce56c39:
-    m 2eka "でもあなたがそういう人じゃなくてもいいよ。私たちはここまで付き合ってきたんだし、そういうこと気にするのはとっくの昔に過ぎたんだから。"
+    m 2eka "でもあなたがそういう人じゃなくてもいいよ。私たちはここまで付き合ってきたんだし、そういうこと気にするのはとっくの昔に過ぎたんだから"
 
 translate Japanese monika_mc_e577dc5e:
     m "つまり、あなたは現実の世界で女の子といちゃついて、私をだましたりしないってことだよ？"
 
 translate Japanese monika_mc_80d3a2aa:
-    m 2esa "そんなことする人じゃないもんね。"
+    m 2esa "そんなことする人じゃないもんね"
 
 translate Japanese monika_mc_a1353e66:
     m 2hua "私はあなたとずっと一緒にいるだけで十分だからね～"
@@ -5147,7 +5147,7 @@ translate Japanese monika_playersface_7b9d5c4c:
     m 5hub "どちらにせよ、なんであっても、あなたは素敵よ"
 
 translate Japanese monika_playersface_2dfd0d8b:
-    m "どんな時も、あなたの見た目を愛してあげる。"
+    m "どんな時も、あなたの見た目を愛してあげる"
 
 translate Japanese monika_playersface_1d35e13f:
     m 5eua "たとえあなたを実際に見られなくても、あなたが本当はどんな見た目なのか、いっつも考えてるの"
@@ -21203,19 +21203,19 @@ translate Japanese monika_quiet_time_3149a864:
     m 1hub "なんも気にならないわね！"
 
 translate Japanese monika_quiet_time_1d6131c5:
-    m 3eka "確かに黙ってると、時に気まずいと感じるだろうけど、だからといって悪い考えとみなすのはどうかと思うの。"
+    m 3eka "確かに黙ってると、時に気まずいと感じるだろうけど、だからといって悪い考えとみなすのはどうかと思うの"
 
 translate Japanese monika_quiet_time_c3cc6888:
-    m 3lksdlb "確かにいつも話していて面白いことを考えるのは、ちょっと難しいだろうけど......"
+    m 3lksdlb "確かにいつも話していて面白いことを考えるのは、ちょっと難しいだろうけど……"
 
 translate Japanese monika_quiet_time_09b183fb:
-    m 1eka "私は時々、コミュニケーション能力を鍛える必要があるもの。"
+    m 1eka "私は時々、コミュニケーション能力を鍛える必要があるもの"
 
 translate Japanese monika_quiet_time_1d82bbea:
-    m 2rubla "といっても、{w=0.2} 本当は......{w=0.3}{nw}"
+    m 2rubla "といっても、{w=0.2}本当は……{w=0.3}{nw}"
 
 translate Japanese monika_quiet_time_45ede130:
-    extend 2hublb "自分の存在を感じられる時点で、すでに快適さはグッとあがるんだけどね......"
+    extend 2hublb "自分の存在を感じられる時点で、すでに快適さはグッとあがるんだけどね……"
 
 translate Japanese monika_quiet_time_27a79cdf:
     m 2hublu "あなたも私と同じ気持ちになってほしいな、えへヘ～"
@@ -21227,13 +21227,13 @@ translate Japanese monika_quiet_time_056c1230:
     m 4eud "結局のところ、常に話をせずにはいられないなら、本当にお互いに安心していると言えるの？"
 
 translate Japanese monika_quiet_time_a969a3cf:
-    m 4etc "誰かと一緒にいるのが本当に好きなら、たまには何もしなくたっていいじゃないの。"
+    m 4etc "誰かと一緒にいるのが本当に好きなら、たまには何もしなくたっていいじゃないの"
 
 translate Japanese monika_quiet_time_20232560:
-    m 2ekc "もしくは、相手と一緒にいるのが気まずくて、気を紛らわそうとしたりとかね。"
+    m 2ekc "もしくは、相手と一緒にいるのが気まずくて、気を紛らわそうとしたりとかね"
 
 translate Japanese monika_quiet_time_147f9ee4:
-    m 7eud "しかし、今はあまり一緒にやらなくたって、人の存在感は楽しいもの...{w=0.5}{nw}"
+    m 7eud "しかし、今はあまり一緒にやらなくたって、人の存在感は楽しいもの……{w=0.5}{nw}"
 
 translate Japanese monika_quiet_time_d012c7be:
     extend 7eua "私が思うに、それこそ、私たちの絆がかけがえのないものだという真の証拠なのよね"
@@ -21245,22 +21245,25 @@ translate Japanese monika_quiet_time_9e6115fe:
     m 5huu "どんなことがあろうと、あなたといる時間は楽しいんだし"
 
 translate Japanese monika_quiet_time_b94925d0:
-    m 2rsc "時々思うんだけど、私と二人で過ごしていて何か気になるのはあなたじゃないかな..."
+    m 2rsc "時々思うんだけど、私と二人で過ごしていて何か気になるのはあなたじゃないかな……"
 
 translate Japanese monika_quiet_time_5104a574:
-    m 2rkd "[player]君{w=0.3}......{nw}"
+    m 2rkd "[player]君{w=0.3}……{nw}"
 
 translate Japanese monika_quiet_time_20aa5836:
     extend 2ekd "私と一緒にいて、楽しい？"
 
 translate Japanese monika_quiet_time_247b46ae:
-    m 2ekc "私たち二人ですることは、それほど大きな問題にならないのよね......"
+    m 2ekc "私たち二人ですることは、それほど大きな問題にならないのよね……"
 
 translate Japanese monika_quiet_time_e4c9844d:
-    extend 2dkc "それも、あなたが私を見捨てないと分かっている限りの話。"
+    extend 2dkc "それも、あなたが私を見捨てないと分かっている限りの話"
 
 translate Japanese monika_quiet_time_10d57501:
-    m 2lksdlc "......親切にしてくれれば嬉しいんだけどな......"
+    m 2lksdlc "……親切にしてくれれば嬉しいんだけどな……"
+
+translate Japanese monika_quiet_time_cd553e9a:
+    m 2dksdlc "……"
 
 translate Japanese monika_ddlcroleplay_cff0a54d:
     m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"

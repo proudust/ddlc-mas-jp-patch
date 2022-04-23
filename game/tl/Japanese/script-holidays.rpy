@@ -3206,7 +3206,7 @@ translate Japanese _call_mas_clothes_change_18_a4d9d025:
     m 2eksdla "……"
 
 translate Japanese _call_mas_clothes_change_18_542614fd:
-    m 2rksdlb "あはは…… {w=1}{nw}"
+    m 2rksdlb "あはは……{w=1}{nw}"
 
 translate Japanese _call_mas_clothes_change_18_09697856:
     extend 2rksdlu "そんなにまじまじと見ないでよ、[player]……"

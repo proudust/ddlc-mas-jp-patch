@@ -606,7 +606,7 @@ translate Japanese mas_reaction_candy_93a9eff4:
     m 1ekbfa "今必要な甘いものは、あなたの言葉だけかな～"
 
 translate Japanese mas_reaction_candy_ede30a8b:
-    m 2wud "[player]…… {w=1} どれだけ私にキャンディを渡したいの？"
+    m 2wud "[player]…… {w=1}どれだけ私にキャンディを渡したいの？"
 
 translate Japanese mas_reaction_candy_d1fc8e89:
     m 2lksdla "気持ちは嬉しいんだけれど、もう十分だって言ったはずよね……？"
