@@ -938,9 +938,6 @@ translate Japanese strings:
     old "Goodbye."
     new "さようなら"
 
-    old "Yeah."
-    new "そうだね"
-
     old "Not yet."
     new "いや、まだ"
 

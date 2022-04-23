@@ -1,6 +1,9 @@
 translate Japanese monika_sing_song_pool_menu_7ad23832:
     m 3hub "分かったわ！"
 
+translate Japanese monika_sing_song_analysis_7ad23832:
+    m 3hub "分かったわ！"
+
 translate Japanese mas_song_aiwfc_98827522:
     m 3eua "ゲーム内の音量を上げるのを忘れないでね、 [mas_get_player_nickname()]"
 

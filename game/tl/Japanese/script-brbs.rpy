@@ -13,6 +13,9 @@ translate Japanese monika_brb_idle_5ca4f9ff:
 translate Japanese monika_brb_idle_40a8676f:
     extend 3hub "早く帰ってきてね～ ここで待ってるからね～"
 
+translate Japanese monika_brb_idle_50022090:
+    m 1hub "早く帰ってきてね～ ここで待ってるからね～"
+
 translate Japanese monika_brb_idle_fec6ff17:
     m 1hub "[player]、早く戻ってきて！"
 
@@ -607,18 +610,6 @@ translate Japanese strings:
 
     old "I'm going to write for a bit"
     new "ちょっと書き物をしてくる"
-
-    old "What else did you want to do today?,"
-    new "今日は何したい？"
-
-    old "Is there anything else you wanted to do today?,"
-    new "今日は何か他にやりたいことはないの？"
-
-    old "What else should we do today?,"
-    new "このあと何しよっか？"
-
-    old "Welcome back!"
-    new "おかえり！"
 
     old "I'm going to take a shower"
     new "シャワーを浴びてくる"

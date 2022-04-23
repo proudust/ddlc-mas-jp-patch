@@ -944,6 +944,9 @@ translate Japanese strings:
     old "You mean everything to me, [m_name]."
     new "君は自分の全てだよ、[m_name]"
 
+    old "Yeah."
+    new "そうだね。"
+
     old "I love your smile!"
     new "笑顔が好き！"
 

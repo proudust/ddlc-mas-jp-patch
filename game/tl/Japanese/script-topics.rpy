@@ -4198,6 +4198,9 @@ translate Japanese monika_mc_e577dc5e:
 translate Japanese monika_mc_80d3a2aa:
     m 2esa "そんなことする人じゃないもんね。"
 
+translate Japanese monika_mc_a1353e66:
+    m 2hua "私はあなたとずっと一緒にいるだけで十分だからね～"
+
 translate Japanese monika_heroism_7c4d869d:
     m 1lsc "ヒーローって、人それぞれのモノだと思うの"
 
@@ -5142,6 +5145,9 @@ translate Japanese monika_playersface_d3e251dc:
 
 translate Japanese monika_playersface_7b9d5c4c:
     m 5hub "どちらにせよ、なんであっても、あなたは素敵よ"
+
+translate Japanese monika_playersface_2dfd0d8b:
+    m "どんな時も、あなたの見た目を愛してあげる。"
 
 translate Japanese monika_playersface_1d35e13f:
     m 5eua "たとえあなたを実際に見られなくても、あなたが本当はどんな見た目なのか、いっつも考えてるの"
@@ -8307,9 +8313,6 @@ translate Japanese monika_daydream_b06579cc:
 
 translate Japanese monika_daydream_c9794fea:
     m 1hubfa "いつかそんな日が現実になればいいのにね。えへへ～"
-
-translate Japanese monika_daydream_638ddf6f_1:
-    m 2lsc "……"
 
 translate Japanese monika_daydream_638ddf6f_1:
     m 2lsc "……"
@@ -14633,7 +14636,7 @@ translate Japanese monika_justice_f7d48da1:
     m 1euc "その場を通り過ぎる他のみんなにとっては、彼らはただ浅ましい盗人に見えるでしょうね"
 
 translate Japanese monika_justice_c8db6777:
-    m 1esd "やがて「ヒーロー」的な立場の人がその場にやってきて、彼らを「欲深さ」の罪で裁くことになるでしょうね"
+    m 1esd "やがて「ヒーロー」的な立場の人がその場にやってきて、彼らを「欲深さ」の罪で裁くことになる"
 
 translate Japanese monika_justice_29c214da:
     m 2ekd "そして日が暮れても、その一家は空腹のまま困った状況は変わらず。ただ境遇が他の人と違っていただけでこうなるのよ……"
@@ -18137,12 +18140,6 @@ translate Japanese monika_social_norms_36408d59:
 
 translate Japanese monika_social_norms_de72e965:
     m 1dkbsu "理想のパートナーになろうとして、他の人の猿真似なんてしないでね。私はあなたが一番なんだから"
-
-translate Japanese monika_writing_idle_callback_2535a2b9:
-    m 1eua "書き終わった？"
-
-translate Japanese monika_writing_idle_callback_d55c57dc:
-    m 1eub "[wb_quip!t]"
 
 translate Japanese monika_intrusive_thoughts_52867f2b:
     m 1rsc "ねえ、[player]。"

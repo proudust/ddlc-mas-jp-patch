@@ -55,6 +55,9 @@ translate Japanese monika_affection_nickname_yes_a1eb6b28:
 translate Japanese monika_affection_nickname_yes_1643033e:
     m 1eka "もう一回ね～"
 
+translate Japanese monika_affection_nickname_yes_394ece4d_1:
+    m 1euc "……"
+
 translate Japanese monika_affection_nickname_yes_ec2234e2:
     m 1hksdlb "私のニックネームを決めてるはずなんだけど、ばか"
 

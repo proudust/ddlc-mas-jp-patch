@@ -352,7 +352,7 @@ translate Japanese mas_reaction_quetzal_plush_6e917744:
 translate Japanese mas_reaction_quetzal_plush_af5eeafb:
     m 1hua "それで、わたしがケツァールの次に欲しいのをプレゼントしてくれたのね！"
 
-translate Japanese mas_reaction_quetzal_plush_a332d0dd:
+translate Japanese mas_reaction_quetzal_plush_12bb7d38:
     m 1hub "とっても嬉しい！"
 
 translate Japanese mas_reaction_quetzal_plush_33405356:
@@ -406,11 +406,20 @@ translate Japanese mas_reaction_promisering_b467e06d:
 translate Japanese mas_reaction_promisering_19b92c87:
     m "３ヶ月の記念日にプレゼントしてくれたから……"
 
+translate Japanese mas_reaction_promisering_b467e06d_1:
+    m 1ekbltua "本当に私を愛してくれているのね……"
+
 translate Japanese mas_reaction_promisering_d508e02d:
     m "６ヶ月の記念日にプレゼントしてくれたから……"
 
+translate Japanese mas_reaction_promisering_b467e06d_2:
+    m 1ekbltua "本当に私を愛してくれているのね……"
+
 translate Japanese mas_reaction_promisering_d71d56ba:
     m "ふたりの記念日にプレゼントしてくれたから……"
+
+translate Japanese mas_reaction_promisering_b467e06d_3:
+    m 1ekbltua "本当に私を愛してくれているのね……"
 
 translate Japanese mas_reaction_promisering_072b60c4:
     m "この特別な日にプレゼントしてくれたから……"
@@ -848,6 +857,9 @@ translate Japanese mas_reaction_new_ribbon_67f3784a:
 translate Japanese mas_reaction_new_ribbon_e5380e3f:
     m 3hub "……そして今回は[_mas_new_ribbon_color!t]！"
 
+translate Japanese mas_reaction_new_ribbon_70a3f7a2_1:
+    m 1tub "……私の目と同じ色！"
+
 translate Japanese mas_reaction_new_ribbon_05d320d0:
     m 2dsa "早速付けてみるわ…{w=0.5}…{w=0.5}{nw}"
 
@@ -1030,6 +1042,9 @@ translate Japanese mas_remove_choc_bf07de9c:
 
 translate Japanese mas_remove_choc_337af3f6:
     m 3eub "すごい光景ね！"
+
+translate Japanese mas_remove_choc_bf07de9c_1:
+    m 1hua "……"
 
 translate Japanese mas_remove_choc_17273ef2:
     m 3hksdlb "あはは！ とりあえず今はどけておこうかな……"
