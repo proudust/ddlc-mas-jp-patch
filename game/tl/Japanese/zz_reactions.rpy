@@ -1230,7 +1230,7 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_fa1
     m 3eua "早速着てみるね"
 
 translate Japanese _call_mas_clothes_change_6_fc39eaf4:
-    m 2dkbsu "あぁ…… {w=1}ふかふか。 とっても気持ちいいわ。えへへ～"
+    m 2dkbsu "あぁ…… {w=1}ふかふか。とっても気持ちいいわ。えへへ～"
 
 translate Japanese _call_mas_clothes_change_6_54255a56:
     m 1ekbsa "ありがとう、[player]！ 気に入っちゃった！"

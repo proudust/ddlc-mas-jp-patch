@@ -285,18 +285,17 @@ translate Japanese _call_mas_x_cmd_12_8aae0f42:
     m 3eua "これが例ね"
 
 translate Japanese _call_mas_wx_cmd_44_e5215b83:
-    m "注意してほしいんだけど　今回はカッコで式を囲んでいるのがわかるかしら。
-このコードはカッコ内の処理が先にされて、notでカッコ内の結果を逆にしているということなの"
+    m "注意してほしいんだけど　今回はカッコで式を囲んでいるのがわかるかしら"
+    m "このコードはカッコ内の処理が先にされて、notでカッコ内の結果を逆にしているということなの"
 
 translate Japanese _call_mas_wx_cmd_44_e438f8d0:
     m 1eua "もしこのカッコを取ってしまうと……"
 
 translate Japanese _call_mas_wx_cmd_45_9f70e34f:
-    m 3eua "さっきと結果が違う！
-NOT演算子がandより前の部分、a==bのところで適用されてるからこうなるの"
+    m 3eua "さっきと結果が違う！NOT演算子がandより前の部分、a==bのところで適用されてるからこうなるの"
 
 translate Japanese _call_mas_wx_cmd_45_f7da2ae4:
-    m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね。"
+    m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね"
     m 3eka "でもPythonじゃ感嘆符はあまり使われなくて、代わりにNOT演算子が使われてるのよ。こっちのほうが人の目にもわかりやすいからという理由ね"
 
 translate Japanese _call_mas_wx_cmd_45_d1ec0705:

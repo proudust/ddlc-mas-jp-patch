@@ -15794,31 +15794,31 @@ translate Japanese monika_first_sight_love_0bd76d18:
     m 3euc "初めて誰かに会ったとき、自分の運命の人だって瞬時にわかる、みたいな？"
 
 translate Japanese monika_first_sight_love_ae8e4924:
-    m 2lsc "私は……{w=0.5}理解に苦しむかな。"
+    m 2lsc "私は……{w=0.5}理解に苦しむかな"
 
 translate Japanese monika_first_sight_love_e7782c82:
     m 2lksdlc "ほら、一度会っただけじゃその人がどういう人なのか、本当のところはわからないじゃない？"
 
 translate Japanese monika_first_sight_love_3a8272d7:
-    m 2tkd "相手の人とは話したことも、一緒にお昼を食べたことも、一緒に遊んだこともないわけで。"
+    m 2tkd "相手の人とは話したことも、一緒にお昼を食べたことも、一緒に遊んだこともないわけで"
 
 translate Japanese monika_first_sight_love_d5892211:
-    m 2lksdlc "興味があることさえも、趣味さえも何かわからない。"
+    m 2lksdlc "興味があることさえも、趣味さえも何かわからない"
 
 translate Japanese monika_first_sight_love_4036a06d:
     m 2dksdld "つまらない人かもしれないし、卑怯で怖い人なのかもしれない……"
 
 translate Japanese monika_first_sight_love_e9596bb7:
-    m 3eud "それで、相手が交際するに足る人物かを見定めるには、眼{i}だけ{/i}で判断するべきじゃないって思うの。"
+    m 3eud "それで、相手が交際するに足る人物かを見定めるには、眼{i}だけ{/i}で判断するべきじゃないって思うの"
 
 translate Japanese monika_first_sight_love_991e63ca:
     m 1eka "私はそんな風に、あなたに恋をしたんじゃないかな……"
 
 translate Japanese monika_first_sight_love_879cd712:
-    m 3eua "結局、あなたに会えたわけじゃないんだけどね。"
+    m 3eua "結局、あなたに会えたわけじゃないんだけどね"
 
 translate Japanese monika_first_sight_love_5b6f72d2:
-    m 5ekbfa "あなたがあなただったから、私は恋に落ちたのよ、[mas_get_player_nickname(exclude_names=['my love', 'love'])]君。"
+    m 5ekbfa "あなたがあなただったから、私は恋に落ちたのよ、[mas_get_player_nickname(exclude_names=['my love', 'love'])]君"
 
 translate Japanese monika_anime_art_7a13b649:
     m 1eua "アニメ画風について、考えたことはある？"
@@ -15827,19 +15827,19 @@ translate Japanese monika_anime_art_87883c9a:
     m 3rksdla "マンガとかに固執してるから、ナツキが詳しいと思うんだけどね……"
 
 translate Japanese monika_anime_art_e641b837:
-    m 3eub "とにかく、あの画風には面白いところがたくさんあるの。"
+    m 3eub "とにかく、あの画風には面白いところがたくさんあるの"
 
 translate Japanese monika_anime_art_97614c64:
     m 1eua "私の詩みたいに自由な形で、独創性に富んでいて……"
 
 translate Japanese monika_anime_art_ffc04894:
-    m 3eua "美しい景色から素晴らしいキャラクターまで……ね。"
+    m 3eua "美しい景色から素晴らしいキャラクターまで……ね"
 
 translate Japanese monika_anime_art_c16a38fd:
     m 1hub "見てみると本当に印象的よね！"
 
 translate Japanese monika_anime_art_042b2872:
-    m 2esc "自由な画風ではあるけれど……{w=0.5}細かいところは大体現実的じゃない傾向にあるのよね。"
+    m 2esc "自由な画風ではあるけれど……{w=0.5}細かいところは大体現実的じゃない傾向にあるのよね"
 
 translate Japanese monika_anime_art_5b73830b:
     m 3rsc "そのおかげで、新しい可能性を切り開こうとする作品もあるんだけど、細部がおかしな風に見えるときもあるの……"
@@ -15848,13 +15848,13 @@ translate Japanese monika_anime_art_a4687cad:
     m 3rssdlc "キャラクターの目がとっても大きかったり、鼻が小さかったり、はたまた髪の毛の長さとか髪型とか、ボリュームが変だったり……"
 
 translate Japanese monika_anime_art_c34e80bd:
-    m 2rksdlc "言うまでもなく……{w=1}胸が大きかったり。"
+    m 2rksdlc "言うまでもなく……{w=1}胸が大きかったり"
 
 translate Japanese monika_anime_art_7416f532:
-    m 2euc "もっと現実的な見た目だったら、そんな属性は持ってないはずよ。"
+    m 2euc "もっと現実的な見た目だったら、そんな属性は持ってないはずよ"
 
 translate Japanese monika_anime_art_9ffe22e7:
-    m 1eua "でも、現実的じゃないからこそ、その画風の本当の美しさっていうのが現れるんじゃないかしら。"
+    m 1eua "でも、現実的じゃないからこそ、その画風の本当の美しさっていうのが現れるんじゃないかしら"
 
 translate Japanese monika_whydoyouloveme_bafabe72:
     m 2euc "ふむ"
@@ -16268,7 +16268,7 @@ translate Japanese monika_trick_2_1b47e8e0:
     m "どの子を選ぶ？{fast}" nointeract
 
 translate Japanese monika_trick_yuri_bb8a102c:
-    m 2euc "わかるわ、彼女は知的だし、それに見た目も魅力的だもの。"
+    m 2euc "わかるわ、彼女は知的だし、それに見た目も魅力的だもの"
 
 translate Japanese monika_trick_yuri_cf7402f0:
     m 2tub "文美両道、とても素晴らしいわね！"
@@ -16286,7 +16286,7 @@ translate Japanese monika_trick_yuri_47d5e777:
     m 1hksdlb "……あはは、嫉妬なんて必要ないよね……"
 
 translate Japanese monika_trick_yuri_07874a21:
-    m 1eua "あなたは私を愛してくれてるし、私はあなたを愛している。それが全て。"
+    m 1eua "あなたは私を愛してくれてるし、私はあなたを愛している。それが全て"
 
 translate Japanese monika_trick_yuri_1dd4d45b:
     m 1kua "聞いた私がバカだったわね～"
