@@ -2883,7 +2883,7 @@ translate Japanese greeting_siat_503a233e:
     m "{cps=*0.6}{i}~Then comes--{/i}{/cps}"
 
 translate Japanese greeting_siat_453425b4:
-    m 3wubfsdlo "う、うわぁ？！"
+    m 3wubfsdlo "う、うわぁ！？"
 
 translate Japanese greeting_siat_4c314133:
     m 2wubfsdld "[player]！　い、いつからそこに？"

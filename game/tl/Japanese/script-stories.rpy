@@ -977,6 +977,9 @@ translate Japanese _call_mas_story_begin_17_46ec5769:
 translate Japanese _call_mas_story_begin_17_22b3501a:
     m 1hua "[player]君、楽しんでくれた？ そうだったら嬉しいな！"
 
+translate Japanese _call_mas_story_begin_19_d68c0e32:
+    m 1dku "……"
+
 translate Japanese _call_mas_scary_story_setup_bd5cd01d:
     m 3esa "ある日、一人の狩人が森へハンティングにでかけました"
 

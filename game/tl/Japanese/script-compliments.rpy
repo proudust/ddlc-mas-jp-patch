@@ -61,6 +61,12 @@ translate Japanese mas_compliment_eyes_3_f8931356:
 translate Japanese mas_compliment_eyes_3_56ed5f12:
     m 2ekbfb "[eyes_quip!t]"
 
+translate Japanese mas_compliment_goodmood_2_1e500e87:
+    m 1dkbsu "……"
+
+translate Japanese mas_compliment_goodmood_2_02b339a5:
+    m 2lkc "……"
+
 translate Japanese mas_compliment_awesome_2_8ca00a62:
     m 1hua "もぅ〜〜、[player]君ったら～"
 
@@ -618,6 +624,18 @@ translate Japanese mas_compliment_humor_3_f8931356:
 
 translate Japanese mas_compliment_humor_3_418dc515:
     m 1hubsu "[humor_quip!t]"
+
+translate Japanese mas_compliment_missed_3cd609c7:
+    m 2lsa "……"
+
+translate Japanese _call_monika_holdme_end_ce74f36c:
+    m 2wuo "……"
+
+translate Japanese _call_monika_holdme_end_2efc1dd4:
+    m 6dkc "……"
+
+translate Japanese _call_monika_holdme_end_0bd97190:
+    m 6ckc "……"
 
 translate Japanese _call_mas_compliment_spending_time_2_4d405905:
     m 3hubsb "[mas_compliments.thanks_quip!t]"

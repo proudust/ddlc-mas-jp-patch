@@ -118,6 +118,9 @@ translate Japanese monika_idle_shower_09353815:
 translate Japanese monika_idle_shower_b85c19f9:
     m 1eua "終わったらまたね～"
 
+translate Japanese monika_idle_shower_0bd97190:
+    m 6ckc "……"
+
 translate Japanese monika_idle_shower_callback_1a305b96:
     m 1eua "おかえりなさい､[player]"
 

@@ -236,7 +236,7 @@ translate Japanese monika_death_4ef5e129:
     m 1dkc "……"
 
 translate Japanese monika_death_93b769c0:
-    m 3eub "でもそれは防ぐ事ができるの[player]！"
+    m 3eub "でもそれは防ぐ事ができるの[player]君！"
 
 translate Japanese monika_death_4ad56704:
     m 3eua "離れる前にさよならを言ってくれれば、{w=0.2}ゲームが終了する前に自分の部屋に行くことができるから。"
@@ -7808,7 +7808,7 @@ translate Japanese monika_sayhappybirthday_1b71b2b4:
     m 1hua "やった！"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_31ebf219:
-    m 1wud "えっ？！"
+    m 1wud "えっ！？"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_064dc51b:
     m 1lksdla "何度もごめんね、[player]君……"
@@ -7853,7 +7853,7 @@ translate Japanese _call_monika_sayhappybirthday_takecounter_07b337e0:
     m 1lksdla "……[player]君が楽しんでくれたらならそれでいいけど……"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_1_31ebf219:
-    m 1wud "えっ？！"
+    m 1wud "えっ！？"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_1_c2daa154:
     m 1lksdlc "何をさせたいのかわからないわ、[player]君……"
@@ -8151,6 +8151,9 @@ translate Japanese monika_panties_25aab615:
 
 translate Japanese monika_panties_f0fd5648:
     m 5eubfu "カップルってそういうものでしょ？"
+
+translate Japanese monika_panties_f0c0c79a:
+    m 5hubfb "あはは！"
 
 translate Japanese monika_panties_151e66f7:
     m 5ekbfa "でもその日が来るまでは、私のためにその思いを堪えて欲しいの、できるよね？"
@@ -8750,34 +8753,37 @@ translate Japanese monika_cats_d5b7dc16:
     m 1hua "猫って可愛い、可愛すぎない？"
 
 translate Japanese monika_cats_b5b86a20:
-    m 1eua "上品な佇まいなのに、結局は面白いことばかりしてるんだよ。"
+    m 1eua "上品な佇まいなのに、結局は面白いことばかりしてるんだよ"
 
 translate Japanese monika_cats_082a4836:
-    m 1lksdla "インターネット上で非常に人気というのも頷けるわ。"
+    m 1lksdla "インターネット上で非常に人気というのも頷けるわ"
 
 translate Japanese monika_cats_77c82f93:
     m 3eua "あなたは古代エジプトでは猫は神聖視されてたって知ってた？"
 
 translate Japanese monika_cats_afabdad3:
-    m 1eua "バステトって名前の猫の女神が崇拝されてたの。彼女は守り神だったの。"
+    m 1eua "バステトって名前の猫の女神が崇拝されてたの。彼女は守り神だったの"
 
 translate Japanese monika_cats_189c56ae:
-    m 1eub "飼い猫たちは信じられないほど小動物や害虫を狩るから、台座の上に座らされていたほどなんだよ。"
+    m 1eub "飼い猫たちは信じられないほど小動物や害虫を狩るから、台座の上に座らされていたほどなんだよ"
 
 translate Japanese monika_cats_e8715b9c:
-    m "当時、豊かな貴族や上流階級のほとんどの人が猫と一緒に暮らしてたんだって。"
+    m "当時、豊かな貴族や上流階級のほとんどの人が猫と一緒に暮らしてたんだって"
 
 translate Japanese monika_cats_c1547efe:
-    m 1eua "そんなにたくさんの人々が猫たちと愛を分かち合ってたなんて驚くべきことでしょ。"
+    m 1eua "そんなにたくさんの人々が猫たちと愛を分かち合ってたなんて驚くべきことでしょ"
 
 translate Japanese monika_cats_00dce2f9:
-    m 1tku "[player]君、彼らは{i}本当に{/i}猫を愛してたの。"
+    m 1tku "[player]君、彼らは{i}本当に{/i}猫を愛してたの"
+
+translate Japanese monika_cats_107ccc7e:
+    m 3hua "そして今日まで猫は人類に愛され続けてるのよ！"
 
 translate Japanese monika_cats_a717a07c:
-    m 1eua "猫は最も一般的にペットとして飼われている動物の一つなの。"
+    m 1eua "猫は最も一般的にペットとして飼われている動物の一つなの"
 
 translate Japanese monika_cats_f7156ca3:
-    m 1hua "[player]君、私達が一緒に暮らす日が来たら、きっと一緒に飼うべきだよ。"
+    m 1hua "[player]君、私達が一緒に暮らす日が来たら、きっと一緒に飼うべきだよ"
 
 translate Japanese monika_fruits_e21cff46:
     m 3eua "[player]君、私がときどきジューシーな果物を楽しんでるって知ってた？"
@@ -19941,6 +19947,9 @@ translate Japanese monika_being_herself_44b2bb36:
 translate Japanese monika_being_herself_8ba9dfb8:
     extend 5eua "つまり {i}Just Me{/i} だね"
 
+translate Japanese monika_being_deleted_3413d2c5:
+    m 1wusdld "……！"
+
 translate Japanese monika_remembrance_f5dfe611:
     m 1rsc "自分でもよくわからないの、[player]……"
 
@@ -21199,6 +21208,18 @@ translate Japanese monika_know_its_you_a0b29980:
 translate Japanese monika_know_its_you_2c7a510e:
     m 2dkd "まあ、そんな事は一切考えないようにするほうがいいでしょうね"
 
+translate Japanese monika_sophia_3fc2fd59:
+    m 2eud "あなたの世界へ行くときに私がどうなるのか話したときのこと覚えてる？"
+
+translate Japanese monika_sophia_ccc0654d:
+    m 2rksdlc "…ロボットの身体が必要になるとか、市民権が得られないんじゃないかって話ね"
+
+translate Japanese monika_sophia_879ff86d:
+    m 7hub "でね、あれからも考察を進めてて、これならもっとマシかも！って希望を持てるものを見つけたんだ！"
+
+translate Japanese monika_sophia_ed96ab88:
+    m 3eta "ソフィアって聞いたことある？"
+
 translate Japanese monika_quiet_time_3149a864:
     m 1hub "なんも気にならないわね！"
 
@@ -21265,11 +21286,65 @@ translate Japanese monika_quiet_time_10d57501:
 translate Japanese monika_quiet_time_cd553e9a:
     m 2dksdlc "……"
 
+translate Japanese monika_likecosplay_ca7be040:
+    m 3hub "実はね、こんなに楽しいなんて思ってなかったんだ！"
+
+translate Japanese monika_likecosplay_d6c01016:
+    m 2rkbla "誰かを真似る格好をするなんて最初は変な感じがしたんだけどね"
+
+translate Japanese monika_likecosplay_98a678b1:
+    m 7euu "でも登場人物を再現するような衣装作り、あれは一種の業と言ってもいいわ…… {w=0.3}衣装の細部への気遣い、それが本当に大きな違いになってくるの"
+
+translate Japanese monika_likecosplay_014b6120:
+    m 3hubsb "衣装に袖を通して初めてあなたに見せたときに……{w=0.2} どんなふうに見られるか考えただけでゾクゾクしちゃうの！"
+
+translate Japanese monika_likecosplay_d265c310:
+    m 3eub "コスプレイヤーの中にはコスプレの元キャラクターを演じきるような人もいるんだよ"
+
+translate Japanese monika_likecosplay_01ca9872:
+    m 2rksdla "私は演技はあんまり得意じゃないから、やってもちょっとだけだけどね……"
+
+translate Japanese monika_likecosplay_4b98a8db:
+    m 7eua "[p_nickname]、もし以前着たコスをまた見たくなったら言ってね。{w=0.2}{nw}"
+
+translate Japanese monika_likecosplay_e7518c20:
+    extend 3hublu "あなたが私のコスを喜んでくれるならいつでも大歓迎だよ～"
+
+translate Japanese monika_likecosplay_9fdbe02b:
+    m 1etc "コスプレ？"
+
 translate Japanese monika_ddlcroleplay_cff0a54d:
     m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
 
 translate Japanese monika_ddlcroleplay_f4118570:
     m 3etd "私は、変わった形の二次創作を見つけたのよ"
+
+translate Japanese _call_monika_jekyll_hyde_fb225d2e:
+    m 1euc "ねえ[player]、ゴシック小説を手に取ってみたことはある？"
+
+translate Japanese _call_monika_jekyll_hyde_2589a532:
+    m 3eud "例えば{i}ドリアン・グレイの肖像{/i}、{i}ドラキュラ{/i}、{i}フランケンシュタイン{/i}……"
+
+translate Japanese _call_monika_jekyll_hyde_aa4b78aa:
+    m 3hub "そういったゴシック小説を最近たくさん読んだんだよ！"
+
+translate Japanese _call_monika_jekyll_hyde_b2dffa30:
+    m 1eua "中編小説のジキル博士とハイド氏って本があるんだけど、もし機会があったら読んでみてね"
+
+translate Japanese _call_monika_jekyll_hyde_c619a5a0:
+    m 3eua "この本についてちょっと話したい事があるんだけど、まずあなたが読んでくれていなきゃ意味がないからさ……"
+
+translate Japanese _call_monika_jekyll_hyde_67778608:
+    m 3eud "それで{i}ジキル博士とハイド氏{/i}、読んでくれた？{nw}"
+
+translate Japanese _call_monika_jekyll_hyde_22e8fc18:
+    m "それで{i}ジキル博士とハイド氏{/i}、読んでくれた？{fast}" nointeract
+
+translate Japanese _call_monika_jekyll_hyde_1_0c6c888a:
+    m 3eub "わかったわ[player]……{w=0.3} 話したいことがあるから読んでくれたら教えてね！"
+
+translate Japanese monika_jekyll_hyde_6f704737:
+    m 3hub "読んでくれたのね、嬉しい！"
 
 translate Japanese strings:
     old "Flagged for removal."
@@ -22027,7 +22102,7 @@ translate Japanese strings:
     new "執筆アドバイス その5"
 
     old "Self-harm"
-    new "自傷"
+    new "自傷行為"
 
     old "Urgent message"
     new "緊急メッセージ"
@@ -22764,8 +22839,17 @@ translate Japanese strings:
     old "How do you know it's always me talking to you?"
     new "今自分が話しかけているって、そっちからわかるの？"
 
+    old "Sophi"
+    new "人型AIロボット「ソフィア」"
+
     old "Do you mind when we spend time together quietly?"
     new "二人で黙って過ごして、なんか気になる？"
 
+    old "Do you like to cosplay?"
+    new "コスプレは好き？"
+
     old "DDLC Roleplay"
     new "DDLCロールプレイ"
+
+    old "Jekyll and Hyde"
+    new "ジキル博士とハイド氏"

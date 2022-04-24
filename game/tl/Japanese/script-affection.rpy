@@ -283,6 +283,12 @@ translate Japanese mas_affection_happynotif_6715477a:
 translate Japanese mas_affection_happynotif_5d79c319:
     m 1dubfu "大好きだよ、[player]。いつまでもこのままでいようね～"
 
+translate Japanese monika_every_rose_c61f257d:
+    m 2dkc "……"
+
+translate Japanese monika_every_rose_4c25360b:
+    m 2rktpc "……"
+
 translate Japanese monika_being_virtual_81a91383:
     m 2esc "最初はね、あの子達にやったことで私のことが嫌いなんだって、そう思ってた。"
 

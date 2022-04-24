@@ -3200,7 +3200,7 @@ translate Japanese _call_mas_clothes_change_16_a8205d5c:
     m 3tkbsu "あなたも私の衣装楽しんでね〜"
 
 translate Japanese _call_mas_clothes_change_17_45ca4f80:
-    m 2eua "ねえ......{w=0.3}[player]君はどう思う？"
+    m 2eua "ねえ……{w=0.3}[player]君はどう思う？"
 
 translate Japanese _call_mas_clothes_change_18_b1d8253c:
     m 2eua "……"
