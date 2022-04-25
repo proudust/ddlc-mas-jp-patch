@@ -977,6 +977,54 @@ translate Japanese _call_mas_story_begin_17_46ec5769:
 translate Japanese _call_mas_story_begin_17_22b3501a:
     m 1hua "[player]君、楽しんでくれた？ そうだったら嬉しいな！"
 
+translate Japanese _call_mas_story_begin_19_7d92ebc2:
+    m 3eud "これは2013年イギリスのロンドンで本当にあった話なの"
+
+translate Japanese _call_mas_story_begin_19_1a94286d:
+    m 2dkd "それはマーガレット・マッカラムという名前の女性がエンバンクメント駅で泣いていたことが始まりでした"
+
+translate Japanese _call_mas_story_begin_19_2cce694e:
+    m 2ekd "駅員がどうして泣いているのかと尋ねると、彼女は「あの声」はどこにいってしまったの？と駅員に応えました"
+
+translate Japanese _call_mas_story_begin_19_7241ba9e:
+    m 7ekd "声というのは、各列車の到着時に流れるアナウンスのことで、乗客に「足元にご注意ください」と呼びかけるものでした"
+
+translate Japanese _call_mas_story_begin_19_59b00113:
+    m 1eka "駅員は彼女に、「アナウンスはなくなっていませんよ」、と言います。「駅が新しいデジタルシステムに改新された際に、アナウンスは新しく撮り直されたんですよ。」"
+
+translate Japanese _call_mas_story_begin_19_2500c9f5:
+    m 1tkc "けれどその説明を聞いても彼女は泣き止みません。実は彼女が言った声というのは、彼女の夫の声のことだったのです"
+
+translate Japanese _call_mas_story_begin_19_1e5fafc4:
+    m 1eud "彼女の夫、オズワルド・ロランスは、有名になることなく引退した俳優でした。北部線のアナウンスの全ては彼の声で撮られていたのでした"
+
+translate Japanese _call_mas_story_begin_19_d6fabdb1:
+    m 2dkc "ですが5年前に、オズワルドは亡くなっていました"
+
+translate Japanese _call_mas_story_begin_19_d034042f:
+    m 2ekc "ふたりは心から愛し合っていたので、彼が死んでマーガレットはひどく悲しみました"
+
+translate Japanese _call_mas_story_begin_19_778876ca:
+    m 2euc "ですがひとつだけ、この5年の間、彼女の心の支えになったものがありました"
+
+translate Japanese _call_mas_story_begin_19_a29e8358:
+    m 7eka "毎日、彼女が仕事へ行く際に聞いていた駅のアナウンスです。ときどき彼女は名残惜しいように駅のベンチにずっと腰掛けていることがありました。駅で流れる彼の短いアナウンスを聞くために座り続けていたのです"
+
+translate Japanese _call_mas_story_begin_19_57563b82:
+    m 2dkc "ですがいまは……"
+
+translate Japanese _call_mas_story_begin_19_079a9445:
+    m 2dkd "駅員は申し訳無さそうな顔をしましたが、古い音声が今はどこへいってしまったのかわかりませんでした。もし見つけたら必ず連絡するとだけ彼女へ伝えました。"
+
+translate Japanese _call_mas_story_begin_19_be539d6a:
+    m 7eud "この話を聞いて、駅で働く沢山の人達が共感し、マーガレットが少しでも長く思い出に浸っていられるようにしてあげたいと思いました"
+
+translate Japanese _call_mas_story_begin_19_37cae73d:
+    m 3eua "マーガレットがいつものように通勤をしていたある日、ある声が駅のホームに響きました"
+
+translate Japanese _call_mas_story_begin_19_21abcedf:
+    m 1fkb "「足元にご注意ください。」 聞き馴染んだオズワルドの声でした"
+
 translate Japanese _call_mas_story_begin_19_d68c0e32:
     m 1dku "……"
 
@@ -2158,6 +2206,9 @@ translate Japanese strings:
 
     old "Having A Best Friend"
     new "親友"
+
+    old "Mind the Gap"
+    new "足元にご注意ください"
 
     old "The Hunter"
     new "とある狩人の話"

@@ -7573,6 +7573,9 @@ translate Japanese monika_surprise_0d527817:
 translate Japanese monika_surprise_8ce390fd:
     m 1eua "何を待っているの？さ、見てきて！"
 
+translate Japanese monika_surprise_f09f5cc1:
+    m "あなたのために書き上げたんだよ～"
+
 translate Japanese monika_surprise_c0d10813:
     m 1ekbsa "ほんとに、ほんっとに心から愛してるよ、[mas_get_player_nickname(exclude_names=['my love', 'love'])]〜"
 
