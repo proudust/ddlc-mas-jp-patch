@@ -934,6 +934,87 @@ translate Japanese bye_prompt_restart_0bd97190:
 translate Japanese bye_prompt_restart_edfc8cf0:
     m 2euc "わかったわ。"
 
+translate Japanese bye_prompt_workout_834d1736:
+    m 1eua "あら、ジムに行くの、[player]?{w=0.3}。それともジョギング？"
+
+translate Japanese bye_prompt_workout_770cf7e3:
+    m 3hub "自分の身体を大切にしているのは良いことよ！{w=0.3}。健全なる精神は健全なる身体に宿るとも言うしね"
+
+translate Japanese bye_prompt_workout_5d9af918:
+    m 3hua "私がそっちに行ったら、一緒にジョギングをしたいわ"
+
+translate Japanese bye_prompt_workout_f6029577:
+    m 3eua "もし私があなたの世界に行けたら、一緒にジョギングをやってみるのもいいわね！"
+
+translate Japanese bye_prompt_workout_e5d4def9:
+    m 5rubsb "それって、まるでカップルのようじゃない～？"
+
+translate Japanese bye_prompt_workout_141ee842:
+    m 5rubsu "えへへ..."
+
+translate Japanese bye_prompt_workout_8051a18f:
+    m 1eub "とにかく、終わったらまた会いに来てね！"
+
+translate Japanese bye_prompt_workout_080408f2:
+    m 2euc "それじゃあ、またね"
+
+translate Japanese bye_going_shopping_87e9dc6c:
+    m 1eud "買い物に行くの、 [player]?"
+
+translate Japanese bye_going_shopping_a52476a6:
+    m 1eua "いつかあなたと一緒にショッピングが出来たらいいな"
+
+translate Japanese bye_going_shopping_531720a1:
+    m 3rua "色んな服装に挑戦してみたり...{w=0.2}{nw}"
+
+translate Japanese bye_going_shopping_d7528df7:
+    extend 3tuu "ファスナーをしめるのは手伝ってもらったり"
+
+translate Japanese bye_going_shopping_239f35e2:
+    m 1hublb "なんちゃって！またね～"
+
+translate Japanese bye_going_shopping_79ec3b02:
+    m 3eua "じゃあ、また後でね"
+
+translate Japanese bye_going_shopping_6948a20f:
+    m 2eud "じゃあ[player]、またね"
+
+translate Japanese bye_prompt_hangout_bd219ce5:
+    m 1eua "分かったわ、[player]"
+
+translate Japanese bye_prompt_hangout_2af4a613:
+    m 3eub "機会があれば、私に紹介して！"
+
+translate Japanese bye_prompt_hangout_0228055b:
+    m 3hua "あなたのお友達なら、きっと良い関係になれると思うわ"
+
+translate Japanese bye_prompt_hangout_388e7181:
+    m 3eua "一緒に遊べる友達がいるようで嬉しいな、[player]。"
+
+translate Japanese bye_prompt_hangout_f65a24d0:
+    m 3eua "一緒に過ごせるお友達がいて嬉しいわ、[player]。"
+
+translate Japanese bye_prompt_hangout_022b038f:
+    m 1rka "あなたと少しでも長く一緒にいたいけれど、{w=0.2}{nw}"
+
+translate Japanese bye_prompt_hangout_15b7d0c1:
+    extend 1eub "同じ時間を過ごせるお友達を持つことがどれほど大切な事か、私は知っているわ"
+
+translate Japanese bye_prompt_hangout_c5197cdc:
+    m 3hub "楽しんできてね！"
+
+translate Japanese bye_prompt_hangout_bd219ce5_1:
+    m 1eua "分かったわ、[player]"
+
+translate Japanese bye_prompt_hangout_07b7c51b:
+    m 3etu "その人に私たちのことはもう話した？"
+
+translate Japanese bye_prompt_hangout_3772217d:
+    m 1hub "あはは！"
+
+translate Japanese bye_prompt_hangout_5dfc02e8:
+    m 1eub "楽しんできてね！"
+
 translate Japanese strings:
     old "Goodbye."
     new "さようなら"
@@ -1000,3 +1081,12 @@ translate Japanese strings:
 
     old "I'm going to restart."
     new "再起動"
+
+    old "I'm going to work out."
+    new "運動してくる"
+
+    old "I'm going shopping."
+    new "買い物に行く"
+
+    old "I'm going to hang out with friends."
+    new "友達と遊びに行く"

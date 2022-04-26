@@ -1019,14 +1019,23 @@ translate Japanese _call_mas_story_begin_19_079a9445:
 translate Japanese _call_mas_story_begin_19_be539d6a:
     m 7eud "この話を聞いて、駅で働く沢山の人達が共感し、マーガレットが少しでも長く思い出に浸っていられるようにしてあげたいと思いました"
 
+translate Japanese _call_mas_story_begin_19_5dbbb50b:
+    m 7ekb "そしてアーカイブに以前の音声を発見できたのですが、古い録音は新しいシステム上では使えません。ですが、彼らは残業をしてまで録音がシステム上でも動くようにアップデートしたのです"
+
 translate Japanese _call_mas_story_begin_19_37cae73d:
-    m 3eua "マーガレットがいつものように通勤をしていたある日、ある声が駅のホームに響きました"
+    m 3eua "マーガレットがいつものように通勤をしていたある日、とある声が駅のホームに響きます"
 
 translate Japanese _call_mas_story_begin_19_21abcedf:
     m 1fkb "「足元にご注意ください。」 聞き馴染んだオズワルドの声でした"
 
 translate Japanese _call_mas_story_begin_19_d68c0e32:
     m 1dku "……"
+
+translate Japanese _call_mas_story_begin_19_c47b578a:
+    m 3ekb "人の優しさについての素敵な話だよね。駅の人たちは前の低品質の短い録音を復元して使えるようにしてもなにも得られないんだからね"
+
+translate Japanese _call_mas_story_begin_19_4796a618:
+    m 1fka "でも彼らは誰かを失うことの辛さを知っていた。そして失うことでどんな思い出、写真でも音声でも、それがその人にとってどんなに大切なものになるのかをわかっていたのよ"
 
 translate Japanese _call_mas_scary_story_setup_bd5cd01d:
     m 3esa "ある日、一人の狩人が森へハンティングにでかけました"
