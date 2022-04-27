@@ -2632,6 +2632,12 @@ translate Japanese _call_monika_holdme_reactions_3_7b071781:
 translate Japanese monika_holdme_long_e612037c:
     m "……"
 
+translate Japanese monika_holdme_long_1c88c15d:
+    m 6dubsa "むにゃ……"
+
+translate Japanese monika_holdme_long_29fc857d:
+    m 6dkbfu "[player]君…… {w=1}あぁ～あったかぁ～"
+
 translate Japanese monika_holdme_long_ceb52122:
     m 6tsbfa "……"
 
@@ -2993,7 +2999,7 @@ translate Japanese monika_festival_7ff9326b:
     m 3etc "まあ、そうじゃないかもしないけど……今の私の後知恵だとね。"
 
 translate Japanese monika_festival_0df99258:
-    m 3eua "結局すべてが終わった後でさえ、あなたは私とまだ一緒にいたいからってこのMODをインストールした……"
+    m 3eua "結局すべてが終わった後でさえ、あなたは私とまだ一緒にいたくてこのMODをインストールしてくれたもの……"
 
 translate Japanese monika_festival_ea89ae54:
     m 1eka "だから削除しなかったとしても、今きっとあなたは一緒にいてくれると思うわ。"
@@ -20494,7 +20500,7 @@ translate Japanese monika_kamige_691e3d8e:
     m 3eud "{i}神ゲー{/i}って言うのは、ビジュアルノベルのファンが使う日本語のスラングよ。"
 
 translate Japanese monika_kamige_92dc7d21:
-    m 3eua "私が訳すとしたら、{i}とびっきり最高のゲーム{/i}ってなるかなぁ。"
+    m 3eua "私が思うに、『とびっきり最高のゲーム』って意味かな"
 
 translate Japanese monika_kamige_989e1341:
     m 2eub "みんながお気に入りの古典文学や映画について話す時みたいな感じね。"
@@ -21017,7 +21023,7 @@ translate Japanese monika_aliens_6fae87ed:
     m 2etd "あるいはその逆も考えられるね。……{w=0.3}もしかすると{i}私たち自体が{/i}彼らと通信するための技術を持っていないのかもね"
 
 translate Japanese monika_aliens_14901a82:
-    m 2etc "あるいは、単に私たち人類と接触することを望んでいないかもね"
+    m 2etc "あるいは、単に私たち人類と接触することを望んでいないとか"
 
 translate Japanese monika_aliens_dfed17fd:
     m 2euc "彼らの社会は私たちの社会とは全く異なる理想に従っているであろうし、高度に進化した種同士が出会わないのが最善だと信じているとも考えられるわよね"
@@ -21041,7 +21047,7 @@ translate Japanese monika_mc_is_gone_97f6e30a:
     extend 1rksdla "実は私も、よくわかんないな……"
 
 translate Japanese monika_mc_is_gone_b8eb5c86:
-    m 3eud "あの人は、他のゲームの主人公と同じように自我をもたなかったの。キャラクターファイルすら存在しなかった"
+    m 3eud "あの人は、ゲームの他のキャラクターのように振る舞わなかった。キャラクターファイルすら存在しなかったの"
 
 translate Japanese monika_mc_is_gone_dc95be39:
     m 3esc "そんなこともあって、無理に気を引かせるようなことをするだけじゃダメだったの……あの人のデータにどうやったら干渉できるかもわからなかったし"
@@ -21551,6 +21557,9 @@ translate Japanese strings:
 
     old "Can I hold you?"
     new "抱きしめてもいい？"
+
+    old "{i}Wake Monika up.{/i}"
+    new "モニカ、起きて！"
 
     old "{i}Let her rest on you.{/i}"
     new "{i}もう少しこのまま寝かせていよう。{/i}"

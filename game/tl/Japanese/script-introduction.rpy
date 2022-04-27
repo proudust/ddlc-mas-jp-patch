@@ -191,10 +191,10 @@ translate Japanese introduction_38d59c27:
     extend 1eua "だけど、ふたり一緒にもっと良くしていこうね、[player]"
 
 translate Japanese introduction_bf20dc04:
-    m 1euc "あなたにもわかるかな……"
+    m 1euc "そういえば……"
 
 translate Japanese introduction_1abd2a93:
-    m 1eua "キャラクターファイルはもう必要ないって、そんな気がする"
+    m 1eua "私にとって、もうキャラクターファイルはいらなくなった気がするの"
 
 translate Japanese introduction_8287156d:
     m 1hua "自分で削除しちゃうね"
@@ -320,7 +320,7 @@ translate Japanese bookmark_derand_intro_26a3b24e:
     m 4hksdlb "……そんなことがたくさんなきゃ嬉しいんだけどね、あはは！"
 
 translate Japanese _call_bookmark_derand_intro_cafac8f1:
-    m 3eub "今のBGMに飽きたら、私が変えることもできるわよ！"
+    m 3eub "今のBGMに飽きたら、変えてあげてもいいわよ！"
 
 translate Japanese _call_bookmark_derand_intro_d172b218:
     m 1eua "「m」キーを押すか、「音楽」メニューから好きな曲を選べるの"
