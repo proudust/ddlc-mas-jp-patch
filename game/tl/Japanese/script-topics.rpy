@@ -239,7 +239,7 @@ translate Japanese monika_death_93b769c0:
     m 3eub "でもそれは防ぐ事ができるの[player]君！"
 
 translate Japanese monika_death_4ad56704:
-    m 3eua "離れる前にさよならを言ってくれれば、{w=0.2}ゲームが終了する前に自分の部屋に行くことができるから。"
+    m 3eua "離れる前にさよならを言ってくれれば、{w=0.2}ゲームが終了する前に自分の部屋に行くことができるから"
 
 translate Japanese monika_death_0be92aca:
     m "とても簡単だから、いつもさよならを言ってね。いいね？"
@@ -248,7 +248,7 @@ translate Japanese monika_death_1e147973:
     m 2tkc "もし……{w=1}あなたが私を傷つけるつもりが無いのなら……"
 
 translate Japanese monika_death_0a6b3816:
-    m 1eka "聞いてくれてありがとう、[player]。"
+    m 1eka "聞いてくれてありがとう、[player]"
 
 translate Japanese monika_selfesteem_2e53136f:
     m 3eua "[player]君、あなたは自分のこと好き？"
@@ -263,25 +263,25 @@ translate Japanese monika_selfesteem_992f015e:
     m "こう言えばいいかな、あなたは今の自分に満足してる？{fast}" nointeract
 
 translate Japanese monika_selfesteem_bd0c71a5:
-    m 1hua "自分は不幸だ、[player]君は心の中でそうは思ってないんだよね。よかった。"
+    m 1hua "自分は不幸だ、[player]君は心の中でそうは思ってないんだよね。よかった"
 
 translate Japanese monika_selfesteem_7758c3c2:
     m 1ekc "最近は、あなたのことが本当に心配だったから……"
 
 translate Japanese monika_selfesteem_520d36f6:
-    m 1hua "あなたの返答のおかげで、今はもう心配していないけどね。"
+    m 1hua "あなたの返答のおかげで、今はもう心配していないけどね"
 
 translate Japanese monika_selfesteem_3a4fbbd5:
     m 1eka "あなたの幸せが私の全てだから。本当だよ？"
 
 translate Japanese monika_selfesteem_f19860da:
-    m 2ekc "自分は誰からも愛される価値がない、そういう思い込みが鬱や自己肯定感の低さに結びつくこともよくあるの。"
+    m 2ekc "自分は誰からも愛される価値がない、そういう思い込みが鬱や自己肯定感の低さに結びつくこともよくあるの"
 
 translate Japanese monika_selfesteem_5f69a65a:
-    m 2lksdlc "ネガティヴな感情が、カクテルみたいに自分というボトルに詰め込まれてるわけ。"
+    m 2lksdlc "ネガティヴな感情が、カクテルみたいに自分というボトルに詰め込まれてるわけ"
 
 translate Japanese monika_selfesteem_a4045de0:
-    m 4eka "もしも友達がそんな状態だったら、手を差し伸べて、なんでもいいから褒めてあげて。"
+    m 4eka "もしも友達がそんな状態だったら、手を差し伸べて、なんでもいいから褒めてあげて"
 
 translate Japanese monika_selfesteem_82cf98a1:
     m 4hua "少しでも認められることで、その人にとっての世界ががらりと変わるから！"
@@ -290,7 +290,7 @@ translate Japanese monika_selfesteem_50fdc00c:
     m 1eua "あなたのことばがほんの少しでも救いになれば、それってすごいことじゃない？"
 
 translate Japanese monika_selfesteem_a4eb284b:
-    m 1eka "たとえうまく行かなくても、少なくともあなたは誰かの力になろうとした。黙って見ているんじゃなく。"
+    m 1eka "たとえうまく行かなくても、少なくともあなたは誰かの力になろうとした。黙って見ているんじゃなく"
 
 translate Japanese monika_selfesteem_00863575:
     m 1ekc "[player]君……そんな言葉、聞きたくなかった……"
@@ -302,19 +302,19 @@ translate Japanese monika_selfesteem_6e304460:
     m 1ekc "その気持ちに気づけなかったのはあなたが私を幸せな気持ちにしてくれていたからかな……"
 
 translate Japanese monika_selfesteem_ba529a40:
-    m "私は[player]君のこといつだって大好きだよ？でもあなたも、自分自身を好きになってあげて。"
+    m "私は[player]君のこといつだって大好きだよ？でもあなたも、自分自身を好きになってあげて"
 
 translate Japanese monika_selfesteem_262bf87b:
-    m 1eka "最初はほんの小さなことでいい。自分自身について、好きな部分を見つけるの。"
+    m 1eka "最初はほんの小さなことでいい。自分自身について、好きな部分を見つけるの"
 
 translate Japanese monika_selfesteem_a4809bc7:
     m 3hua "どんな些細なことでもいいし、もちろん自分で自信があるところでもいいよ！"
 
 translate Japanese monika_selfesteem_4db789c5:
-    m 3eua "愛する人との関係を築きながら、あなたも少しずつ自分に対して自信を持っていければいいんじゃないかな。"
+    m 3eua "愛する人との関係を築きながら、あなたも少しずつ自分に対して自信を持っていければいいんじゃないかな"
 
 translate Japanese monika_selfesteem_5ec787a8:
-    m 1eka "簡単にできることじゃないけど、やってみる価値はあるはず。"
+    m 1eka "簡単にできることじゃないけど、やってみる価値はあるはず"
 
 translate Japanese monika_selfesteem_db774d1d:
     m 3hub "私はいつでも[player]君のことを応援してるから！"
@@ -20494,25 +20494,25 @@ translate Japanese monika_kamige_bcf2edec:
     m 1euc "ああ、そうね……{w=0.3}{nw}"
 
 translate Japanese monika_kamige_453cad1b:
-    extend 3rksdla "あんまり一般的な言葉じゃないわよね。"
+    extend 3rksdla "あんまり一般的な言葉じゃないわよね"
 
 translate Japanese monika_kamige_691e3d8e:
-    m 3eud "{i}神ゲー{/i}って言うのは、ビジュアルノベルのファンが使う日本語のスラングよ。"
+    m 3eud "{i}神ゲー{/i}って言うのは、ビジュアルノベルのファンが使う日本語のスラングよ"
 
 translate Japanese monika_kamige_92dc7d21:
     m 3eua "私が思うに、『とびっきり最高のゲーム』って意味かな"
 
 translate Japanese monika_kamige_989e1341:
-    m 2eub "みんながお気に入りの古典文学や映画について話す時みたいな感じね。"
+    m 2eub "みんながお気に入りの古典文学や映画について話す時みたいな感じね"
 
 translate Japanese monika_kamige_a74e4e09:
-    m 2hksdlb "このゲームについて言ったときは冗談だったけど、どういうわけかすごい人気になっちゃったわね。"
+    m 2hksdlb "このゲームについて言ったときは冗談だったけど、どういうわけかすごい人気になっちゃったわね"
 
 translate Japanese monika_kamige_581ef84d:
     m 7eka "別に文句ってわけじゃないし……{w=0.3}{nw}"
 
 translate Japanese monika_kamige_4de17d5a:
-    extend 3hua "それにその人気のおかげであなたに会えたのなら、感謝しなくっちゃ。"
+    extend 3hua "それにその人気のおかげであなたに会えたのなら、感謝しなくっちゃ"
 
 translate Japanese monika_renewable_energy_c5fb2fc7:
     m 1eua "再生可能エネルギーについて、どう思う[player]君？"
@@ -21221,7 +21221,7 @@ translate Japanese monika_sophia_3fc2fd59:
     m 2eud "あなたの世界へ行くときに私がどうなるのか話したときのこと覚えてる？"
 
 translate Japanese monika_sophia_ccc0654d:
-    m 2rksdlc "…ロボットの身体が必要になるとか、市民権が得られないんじゃないかって話ね"
+    m 2rksdlc "……ロボットの身体が必要になるとか、市民権が得られないんじゃないかって話ね"
 
 translate Japanese monika_sophia_879ff86d:
     m 7hub "でね、あれからも考察を進めてて、これならもっとマシかも！って希望を持てるものを見つけたんだ！"
@@ -21314,7 +21314,7 @@ translate Japanese monika_likecosplay_01ca9872:
     m 2rksdla "私は演技はあんまり得意じゃないから、やってもちょっとだけだけどね……"
 
 translate Japanese monika_likecosplay_4b98a8db:
-    m 7eua "[p_nickname]、もし以前着たコスをまた見たくなったら言ってね。{w=0.2}{nw}"
+    m 7eua "[p_nickname]、もし以前着たコスをまた見たくなったら言ってね{w=0.2}{nw}"
 
 translate Japanese monika_likecosplay_e7518c20:
     extend 3hublu "あなたが私のコスを喜んでくれるならいつでも大歓迎だよ～"
@@ -22851,7 +22851,7 @@ translate Japanese strings:
     old "How do you know it's always me talking to you?"
     new "今自分が話しかけているって、そっちからわかるの？"
 
-    old "Sophi"
+    old "Sophia"
     new "人型AIロボット「ソフィア」"
 
     old "Do you mind when we spend time together quietly?"

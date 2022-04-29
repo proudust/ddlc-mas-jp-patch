@@ -950,7 +950,7 @@ translate Japanese bye_prompt_workout_e5d4def9:
     m 5rubsb "それって、まるでカップルのようじゃない～？"
 
 translate Japanese bye_prompt_workout_141ee842:
-    m 5rubsu "えへへ..."
+    m 5rubsu "えへへ……"
 
 translate Japanese bye_prompt_workout_8051a18f:
     m 1eub "とにかく、終わったらまた会いに来てね！"
@@ -958,14 +958,17 @@ translate Japanese bye_prompt_workout_8051a18f:
 translate Japanese bye_prompt_workout_080408f2:
     m 2euc "それじゃあ、またね"
 
+translate Japanese bye_prompt_workout_0bd97190:
+    m 6ckc "……"
+
 translate Japanese bye_going_shopping_87e9dc6c:
-    m 1eud "買い物に行くの、 [player]?"
+    m 1eud "買い物に行くの、[player]?"
 
 translate Japanese bye_going_shopping_a52476a6:
     m 1eua "いつかあなたと一緒にショッピングが出来たらいいな"
 
 translate Japanese bye_going_shopping_531720a1:
-    m 3rua "色んな服装に挑戦してみたり...{w=0.2}{nw}"
+    m 3rua "色んな服装に挑戦してみたり……{w=0.2}{nw}"
 
 translate Japanese bye_going_shopping_d7528df7:
     extend 3tuu "ファスナーをしめるのは手伝ってもらったり"
@@ -989,10 +992,10 @@ translate Japanese bye_prompt_hangout_0228055b:
     m 3hua "あなたのお友達なら、きっと良い関係になれると思うわ"
 
 translate Japanese bye_prompt_hangout_388e7181:
-    m 3eua "一緒に遊べる友達がいるようで嬉しいな、[player]。"
+    m 3eua "一緒に遊べる友達がいるようで嬉しいな、[player]"
 
 translate Japanese bye_prompt_hangout_f65a24d0:
-    m 3eua "一緒に過ごせるお友達がいて嬉しいわ、[player]。"
+    m 3eua "一緒に過ごせるお友達がいて嬉しいわ、[player]"
 
 translate Japanese bye_prompt_hangout_022b038f:
     m 1rka "あなたと少しでも長く一緒にいたいけれど、{w=0.2}{nw}"
