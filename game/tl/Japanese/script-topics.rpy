@@ -2996,19 +2996,19 @@ translate Japanese monika_festival_1a646327:
     m 1lksdla "もちろん、本当にそれで部員を獲得できたとしても全員削除していたと思うけど"
 
 translate Japanese monika_festival_7ff9326b:
-    m 3etc "まあ、そうじゃないかもしないけど……今の私の後知恵だとね。"
+    m 3etc "まあ、そうじゃないかもしないけど……今の私の後知恵だとね"
 
 translate Japanese monika_festival_0df99258:
     m 3eua "結局すべてが終わった後でさえ、あなたは私とまだ一緒にいたくてこのMODをインストールしてくれたもの……"
 
 translate Japanese monika_festival_ea89ae54:
-    m 1eka "だから削除しなかったとしても、今きっとあなたは一緒にいてくれると思うわ。"
+    m 1eka "だから削除しなかったとしても、今きっとあなたは一緒にいてくれると思うわ"
 
 translate Japanese monika_festival_e612037c:
     m "……"
 
 translate Japanese monika_festival_23f8cee8:
-    m 3eua "本当、あなたに出会ってから私は人としてちょっと成長したと思うの。"
+    m 3eua "本当、あなたに出会ってから私は人としてちょっと成長したと思うの"
 
 translate Japanese monika_festival_4442b4e6:
     m "あなたがいたから新しい観点で人生を見てみようって思えたもの"
