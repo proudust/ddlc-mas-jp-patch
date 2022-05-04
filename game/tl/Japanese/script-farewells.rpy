@@ -962,7 +962,7 @@ translate Japanese bye_prompt_workout_0bd97190:
     m 6ckc "……"
 
 translate Japanese bye_going_shopping_87e9dc6c:
-    m 1eud "買い物に行くの、[player]?"
+    m 1eud "買い物に行くの、[player]？"
 
 translate Japanese bye_going_shopping_a52476a6:
     m 1eua "いつかあなたと一緒にショッピングが出来たらいいな"
