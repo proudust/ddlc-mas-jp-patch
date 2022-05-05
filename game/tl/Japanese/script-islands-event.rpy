@@ -4,6 +4,42 @@ translate Japanese mas_monika_islands_3e3b6f6f:
 translate Japanese _call_mas_islands_56293cf9:
     m 1eua "気に入ってくれるといいな、[mas_get_player_nickname()]君～"
 
+translate Japanese mas_monika_islands_progress_832346be:
+    m 1eub "ワクワクするようなしらせがあるの、[player]君！"
+
+translate Japanese mas_monika_islands_progress_e897b346:
+    m 3hub "島にいくつか新しいものを追加したの{w=0.2}{nw}"
+
+translate Japanese mas_monika_islands_progress_57f5ac34:
+    extend 1rua "。あなたに見せたくて"
+
+translate Japanese mas_monika_islands_progress_dc7aae08:
+    m 1hublb "結局、あの島々は私たちの物なんだしね～"
+
+translate Japanese mas_monika_islands_progress_e33fc90d:
+    m 3eua "どう?{nw}"
+
+translate Japanese mas_monika_islands_progress_03f838b4:
+    m "どう?{fast}" nointeract
+
+translate Japanese mas_monika_islands_progress_4c528d79:
+    m 2hub "やったー！"
+
+translate Japanese _call_mas_islands_1_bac21004:
+    m "気に入ったかな～"
+
+translate Japanese _call_mas_islands_1_43f07cc9:
+    m 1lusdlb "まだ未完成だけれど{w=0.2}{nw}"
+
+translate Japanese _call_mas_islands_1_ce0ffffc:
+    extend 1eka "、私の進歩をあなたに見せたくって"
+
+translate Japanese _call_mas_islands_1_305b7ce6:
+    m 2lsp "まだコーディングの勉強中だけど、このPythonっていうエンジンには一貫性がなくって......"
+
+translate Japanese _call_mas_islands_1_3873e363:
+    m 7hub "だけど、ここまではかなり進歩してきたと思うの！"
+
 translate Japanese mas_island_upsidedownisland_a8b836db:
     m "ああ、あれね"
 
@@ -290,7 +326,7 @@ translate Japanese mas_island_night2_35230d20:
     m "[mas_get_player_nickname()]君は、今までに星を眺めたことがるの？"
 
 translate Japanese mas_island_night2_2472b865:
-    m "遅くなってからの時間を、美しい夜空を眺めて過ごしてみると……"
+    m "日が暮れてからの時間を、美しい夜空を眺めて過ごしてみると……"
 
 translate Japanese mas_island_night2_c4d6c148:
     m "驚くほどリラックスできるんじゃない？"
@@ -462,3 +498,10 @@ translate Japanese mas_island_bookshelf2_49056641:
 
 translate Japanese mas_island_bookshelf2_88a83baa:
     m "最高のひと時になりそうだな～"
+
+translate Japanese strings:
+    old "I'm not interested."
+    new "興味ない"
+
+    old "Maybe later."
+    new "あとでいいよ"

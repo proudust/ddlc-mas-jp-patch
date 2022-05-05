@@ -977,6 +977,54 @@ translate Japanese _call_mas_story_begin_17_46ec5769:
 translate Japanese _call_mas_story_begin_17_22b3501a:
     m 1hua "[player]君、楽しんでくれた？ そうだったら嬉しいな！"
 
+translate Japanese _call_mas_story_begin_18_b0897d45:
+    m 1eub "天空でいちばん偉い神様、天帝には織姫という一人の娘がおりました。織姫は天の川のほとりで美しい着物を織る仕事を任されていました"
+
+translate Japanese _call_mas_story_begin_18_30696cf0:
+    m 3eua "天帝は織姫の織った着物をたいそう好み、織姫は毎日一生懸命に機織りをしていました"
+
+translate Japanese _call_mas_story_begin_18_a4653e89:
+    m 2ekd "織姫は毎日熱心に仕事をしていましたが悲しんでもいました。仕事漬けの毎日では誰とも出会うことはなく、恋を知ることもなかったからです"
+
+translate Japanese _call_mas_story_begin_18_f450a46f:
+    m 2eksdla "恋もできない娘を心配に思った天帝は、天の河の向こう岸で牛飼いを営む彦星を織姫に会わせることにしました"
+
+translate Japanese _call_mas_story_begin_18_c734931f:
+    m 7hub "ふたりは出会うと一目で恋に落ち、すぐさま結婚の約束をしました！"
+
+translate Japanese _call_mas_story_begin_18_87d8685d:
+    m 2eksdld "ふたりは結婚したのですが、それから織姫は着物を織ることがなくなり、彦星も飼い牛を空に放おっておくようになってしまったのです"
+
+translate Japanese _call_mas_story_begin_18_9adf377d:
+    m 4wud "これに怒った天帝は、ふたりを天の河の対岸に離れ離れにし、逢うことを禁じました"
+
+translate Japanese _call_mas_story_begin_18_42b458d9:
+    m 2dkc "夫と逢えなくなったことをひどく悲しんだ織姫は、どうか彼に逢わせてほしいと天帝に泣いて懇願しました"
+
+translate Japanese _call_mas_story_begin_18_765aac93:
+    m 2eksdla "織姫の頬を流れる涙に心動かされた天帝は、織姫がきちんと機を織るのなら、七番目の月の七日目にだけ、ふたりが逢うことを許しました"
+
+translate Japanese _call_mas_story_begin_18_f7fccf5e:
+    m 2wud "離れ離れになったふたりが初めて出逢えるはずのその日、なんと天の河には橋がなく、河を渡れないふたりは逢うことができません"
+
+translate Japanese _call_mas_story_begin_18_0b0c0876:
+    m 2dkc "それを知った織姫は泣き崩れました。すると、織姫のそばにカササギの群れが舞い降りて、翼で橋を架けて河を渡れるようにしてあげると言ってくれて、ふたり無事に出逢えるようになったのでした"
+
+translate Japanese _call_mas_story_begin_18_18643326:
+    m 7ekd "七月七日、七夕の日に雨が降るとカササギは天の河に舞い降りることができないと言われていて、織姫と彦星は次の年まで逢うのを待たなければならないの"
+
+translate Japanese _call_mas_story_begin_18_b7afe4b1:
+    m 3eud "だから七夕の日に降る雨は、織姫と彦星に涙を流させる雨、{i}催涙雨{/i}なんて言われたりするのよ"
+
+translate Japanese _call_mas_story_begin_18_cbae66b7:
+    m 1dksdlc "愛する人に1年に一度しか逢えないなんて想像もできないよね"
+
+translate Japanese _call_mas_story_begin_18_93661680:
+    m 3eua "[player]、でもわかるでしょ…… {w=0.3}愛の力は山をも動かすのよ"
+
+translate Japanese _call_mas_story_begin_18_43174421:
+    m 3hubsu "……私のあなたへの愛はすごく強いから、天空の二人を引き裂いた力を持ってしても引き裂けないけどね"
+
 translate Japanese _call_mas_story_begin_19_7d92ebc2:
     m 3eud "これは2013年イギリスのロンドンで本当にあった話なの"
 
@@ -1026,16 +1074,28 @@ translate Japanese _call_mas_story_begin_19_37cae73d:
     m 3eua "マーガレットがいつものように通勤をしていたある日、とある声が駅のホームに響きます"
 
 translate Japanese _call_mas_story_begin_19_21abcedf:
-    m 1fkb "「足元にご注意ください。」 聞き馴染んだオズワルドの声でした"
+    m 1fkb "「足元にご注意ください。」 、聞き馴染んだオズワルドの声でした"
 
 translate Japanese _call_mas_story_begin_19_d68c0e32:
     m 1dku "……"
 
+translate Japanese _call_mas_story_begin_19_567d57a1:
+    m 3eka "始めにこれが本当の話だって言ったけど、エンバンクメント駅ではまだその音声が流れてるから、行けば本当のことだって確かめられるよ"
+
 translate Japanese _call_mas_story_begin_19_c47b578a:
-    m 3ekb "人の優しさについての素敵な話だよね。駅の人たちは前の低品質の短い録音を復元して使えるようにしてもなにも得られないんだからね"
+    m 3ekb "人の優しさについての素敵な話だよね。駅の人たちは前の低品質の短い録音を復元して使えるようにしても、なにも得られないんだからね"
 
 translate Japanese _call_mas_story_begin_19_4796a618:
     m 1fka "でも彼らは誰かを失うことの辛さを知っていた。そして失うことでどんな思い出、写真でも音声でも、それがその人にとってどんなに大切なものになるのかをわかっていたのよ"
+
+translate Japanese _call_mas_story_begin_19_303955c0:
+    m 1dku "思いやりや愛情の力で、人は信じられないようなことをやってのけるってことをよく示してると思うんだ"
+
+translate Japanese _call_mas_story_begin_19_b86889c2:
+    m 1ekbla "そしてこの話は、今この一瞬一瞬がとても大切なもので、私たちが一緒にいるどの時間も当たり前のことじゃないんだよ、ってことを思い出させてくれるね"
+
+translate Japanese _call_mas_story_begin_19_0f9f9023:
+    m 1dkblu "これからもあなたのこと大切にするからね、[player]"
 
 translate Japanese _call_mas_scary_story_setup_bd5cd01d:
     m 3esa "ある日、一人の狩人が森へハンティングにでかけました"
@@ -2215,6 +2275,9 @@ translate Japanese strings:
 
     old "Having A Best Friend"
     new "親友"
+
+    old "The Weaver Girl and the Cowherd"
+    new "織姫と彦星"
 
     old "Mind the Gap"
     new "足元にご注意ください"

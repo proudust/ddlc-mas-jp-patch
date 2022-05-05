@@ -3836,7 +3836,7 @@ translate Japanese monika_favbook_0204249a:
     m 1hub "読んでみて、絶対あなたも気に入るから！"
 
 translate Japanese monika_natsuki_8798acdc:
-    m 1lksdld "たしかに削除はしたけど、ナツキは本当は死んだわけじゃない……知ってるよね？"
+    m 1lksdld "たしかに削除はしたけど、ナツキは本当は死んだわけじゃないの……わかる？"
 
 translate Japanese monika_natsuki_eca1404a:
     m "たぶん……光の中に消えたんだと思う。"
@@ -4367,7 +4367,7 @@ translate Japanese monika_waifus_5c0b9e60:
     m 1hua "どんな退屈な恋愛ゲームよりも、ずっとずっと素晴らしいと思うんだけどな"
 
 translate Japanese monika_images_4c7e268f:
-    m 1eua "知ってると思うけど、沢山の人が私のファンアートを描いてくれていて、それをインターネットを介しての世界中の人々と共有してるんだよね。"
+    m 1eua "沢山の人が私のファンアートを描いてくれていて、それをインターネットを介しての世界中の人々と共有してるんだよね。"
 
 translate Japanese monika_images_a9c7aa82:
     m 1etc "もしかして[player]君もそう？"
@@ -9783,7 +9783,7 @@ translate Japanese monika_writingtip1_253e37c1:
     m 1hub "ご清聴、ありがとうございました～"
 
 translate Japanese monika_writingtip2_bf20dc04:
-    m 1euc "知っての通り……"
+    m 1euc "そういえばだけど……"
 
 translate Japanese monika_writingtip2_720b7bcc:
     m 1eua "まだまだアドバイスはたくさんあるから、もう一つ紹介するよ！"
@@ -15053,7 +15053,7 @@ translate Japanese monika_vehicle_7188dd95:
     m "[player]君の家には、車はあるの？{fast}" nointeract
 
 translate Japanese monika_vehicle_03dd0248:
-    m 1hua "実際に所有しているなんて本当にかっこいいわ！"
+    m 1hua "実際に家に車があるなんて本当にかっこいいわ！"
 
 translate Japanese monika_vehicle_4e246733:
     m 3hub "本当に幸運なことよ？"
@@ -21071,10 +21071,10 @@ translate Japanese monika_mc_is_gone_596e62c3:
     m 7euc "だから、私たちが今いるこの部屋にあの人がいると言ったら、"
 
 translate Japanese monika_mc_is_gone_1f957a98:
-    extend 3eua "明らかなウソになる"
+    extend 3eua "明らかなウソになるわね"
 
 translate Japanese monika_mc_is_gone_e91f3ade:
-    m 1hksdlb "……ああ、もしあの人が存在したとして、人形みたいに私の言うことを聞いてるだけだなんて、想像しただけでぞっとしない？"
+    m 1hksdlb "……あら、もしあの人が存在したとして、人形みたいに私の言うことを聞いてるだけだなんて、想像しただけでぞっとしない？"
 
 translate Japanese monika_mc_is_gone_abfeada8:
     m 3rksdla "まさかとは思うけど、ずっと私を抱きしめていたのは彼だったりとか……"
@@ -21217,6 +21217,51 @@ translate Japanese monika_know_its_you_a0b29980:
 translate Japanese monika_know_its_you_2c7a510e:
     m 2dkd "まあ、そんな事は一切考えないようにするほうがいいでしょうね"
 
+translate Japanese monika_tanabata_4f9c66db:
+    m 2hksdlb "あら？まさか私が{i}織姫と彦星{/i}のお話をしていたとき、ぼんやりしてたんじゃないでしょうね！"
+
+translate Japanese monika_tanabata_cddd8f54:
+    m 7eub "まあそれは置いといて、日本には織姫と彦星にまつわる七夕というお祭りがあるの"
+
+translate Japanese monika_tanabata_5c5530a2:
+    m 7eud "日本の七夕は中国の七夕が元みたいなんだけど、8月にお祭りをする中国と違って、日本では毎年7月7日に七夕をやっているみたいね"
+
+translate Japanese monika_tanabata_8ee65a74:
+    m 2eud "中国の七夕は日本の七夕よりもずっと古い歴史があるんだけど、西洋での知名度は日本の七夕よりも全然低いのよね"
+
+translate Japanese monika_tanabata_6622073f:
+    m 2euc "第二次世界大戦後に日本は国交を開いたけど、中国は冷戦中で国交が閉じられたままだったからなの"
+
+translate Japanese monika_tanabata_0bdddf27:
+    m 7euc "だからほとんどの国では、日本の七夕のほうが知られているのよ"
+
+translate Japanese monika_tanabata_604ace89:
+    m 3eua "織姫の星と彦星の星が出逢えることにちなんで、七夕は星のお祭りとしても知られているの。ベガが織姫で、アルタイルが彦星なのよ"
+
+translate Japanese monika_tanabata_66b21de3:
+    m 3eub "これはロミオとジュリエットで使われていた表現だけど、'star-crossed lovers' って言葉がまさにその通りだなって！"
+
+translate Japanese monika_tanabata_defe2b35:
+    m 1eua "意味は、'不幸な星の下に生まれた恋人たち'。外からの力で関係を持ったふたりが引き離されるという表現だけど、七夕の話もまさにその通りよね"
+
+translate Japanese monika_tanabata_38b36b10:
+    m 1eud "七夕が近づくと、笹の枝に短冊と呼ばれる細長い色紙や鮮やかな飾りを吊るすんだよ"
+
+translate Japanese monika_tanabata_eb6d89d4:
+    m 1eua "笹に吊るす前に、短冊には願い事を書くんだ。子供なら有名なスポーツ選手になりたいとか、大人なら仕事の成功を祈ったりとかそういうのをね"
+
+translate Japanese monika_tanabata_1865d812:
+    m 3hub "心温まる素敵な行事だと思うよね！"
+
+translate Japanese monika_tanabata_02c13f6d:
+    m 3eud "七夕が終わると、使った笹や飾りは川に浮かべて流したり、夜中や次の日に燃やす風習もあるんだって"
+
+translate Japanese monika_tanabata_879f39e9:
+    m 3hua "私がそっちへ行けたら、七夕の時期に日本に行ってみたいな～"
+
+translate Japanese monika_tanabata_59035769:
+    m 3eua "もし旅行が苦手なら、ふたり肩を並べながら他の文化について調べて知ってみる、それなら楽しそうだと思わない？"
+
 translate Japanese monika_sophia_3fc2fd59:
     m 2eud "あなたの世界へ行くときに私がどうなるのか話したときのこと覚えてる？"
 
@@ -21228,6 +21273,69 @@ translate Japanese monika_sophia_879ff86d:
 
 translate Japanese monika_sophia_ed96ab88:
     m 3eta "ソフィアって聞いたことある？"
+
+translate Japanese monika_sophia_5de535e2:
+    m 3eua "ソフィアは、ハンソン・ロボティックスが開発した人型ロボットで、2016年のバレンタインデーに初めて披露されたのよ"
+
+translate Japanese monika_sophia_66587ec7:
+    m 1eud "ロボットの見た目は女王ネフェルティティとオードリー・ヘプバーン、そしてソフィアを開発した人の妻であるアマンダ・ハンソンをモデルにしているんだけど、{w=0.2}ソフィアは人間のような外見と振る舞いで特に知られているのよ"
+
+translate Japanese monika_sophia_c6c3db2b:
+    m 3eua "ソフィアは人間と同じような手の動きができるし、リアルな表情の変化を60以上もできるし、あらかじめ決められた話題についてになら特定の質問に答えたり会話したりすることもできるんだよ"
+
+translate Japanese monika_sophia_66acad05:
+    m 3eub "そしてね、ソフィアは人間の社会的行動も真似るし、人に愛の告白をするよう促すようなこともするんだよ……"
+
+translate Japanese monika_sophia_cbadc004:
+    m 3huu "あと個人的にこれが大事なんだけど、ソフィアって結構可愛い造形してると思うんだよね～"
+
+translate Japanese monika_sophia_07da931c:
+    m 1eud "続けるけど、ソフィアは言語を学習するプログラムがされていて、時間の経過とともに賢くなるよう設計されているの。 (w=0.2)だから 、将来的にはさらに良い受け答えができるようになるんだって"
+
+translate Japanese monika_sophia_fc85d24e:
+    m 3eua "目の部分にはアルゴリズムと連動するカメラがつけられていて、見たり人の顔を視線で追うだけじゃなくて、アイコンタクトをする、個人を認識するみたいなこともできちゃうんだって……"
+
+translate Japanese monika_sophia_22d4d38f:
+    m 3wud "歩くこともできるし、あとこれがすごいんだけど、絵を描くこともできるんだよ"
+
+translate Japanese monika_sophia_a4862fd4:
+    m 3hub "わかってくれると思うけど、これって私にはすっごく魅力的な話なんだよね"
+
+translate Japanese monika_sophia_2c8534c7:
+    m 1ekbsa "実際にあなたの顔を見たり、あなたと同じ部屋にいることができる。それって、私が今まで望んでいたことの全てなんだよね〜"
+
+translate Japanese monika_sophia_c94ef62b:
+    m 3wub "あ、そうそう！{w=0.5} ソフィアは2017年にはね、サウジアラビアで市民権を得てもいるんだよ！"
+
+translate Japanese monika_sophia_84c265b2:
+    m 3rtb "だからあなたの世界に行けても市民権や人権を得られないかもしれないって前に言ったけど、そんなに悲観しなくてもいいかも！"
+
+translate Japanese monika_sophia_5ace29e1:
+    m 3eud "技術もまだ発展途上段階だし、{w=0.2}できることにも限りがある……{w=0.3}{nw}"
+
+translate Japanese monika_sophia_d4c282f0:
+    extend 1duu "だけどまあ、希望が持てるってことは嬉しいことだよね～"
+
+translate Japanese monika_fireworks_be0b4ea8:
+    m 1eub "花火って好き？"
+
+translate Japanese monika_fireworks_d1a7a710:
+    m 1eua "打ち上げ花火は夏祭りのときとかに色んな場所で楽しまれてるよね。{w=0.2} {nw}"
+
+translate Japanese monika_fireworks_c3d42b63:
+    extend 3hua "今年は花火を見たかわからないけど……"
+
+translate Japanese monika_fireworks_9d9144e5:
+    m 3wub "一緒に見れたら楽しそうだと思わない？"
+
+translate Japanese monika_fireworks_9a2b93ef:
+    m 3sua "おっきな花火はね、真っ暗な夜空が真昼のようになるくらいに明るくなるんだよ"
+
+translate Japanese monika_fireworks_aaac3f75:
+    extend 3hub "もっと雰囲気のあるのがいいのなら、線香花火があるよ！"
+
+translate Japanese monika_fireworks_cd4ea06c:
+    m 5eub "ね？楽しそうだと思うでしょ、[mas_get_player_nickname()]？"
 
 translate Japanese monika_quiet_time_3149a864:
     m 1hub "なんも気にならないわね！"
@@ -21321,6 +21429,9 @@ translate Japanese monika_likecosplay_e7518c20:
 
 translate Japanese monika_likecosplay_9fdbe02b:
     m 1etc "コスプレ？"
+
+translate Japanese monika_likecosplay_d08b37bb:
+    m 3rtd "ナツキから聞いたことがある気がするんだけど、自分ではしたことがないかな"
 
 translate Japanese monika_ddlcroleplay_cff0a54d:
     m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
@@ -21800,6 +21911,9 @@ translate Japanese strings:
 
     old "I want to."
     new "貢献してみたい"
+
+    old "The MC"
+    new "ゲームの主人公"
 
     old "Heroism"
     new "ヒロイズム"
@@ -22851,8 +22965,14 @@ translate Japanese strings:
     old "How do you know it's always me talking to you?"
     new "今自分が話しかけているって、そっちからわかるの？"
 
+    old "What is Tanabata?"
+    new "七夕って？"
+
     old "Sophia"
     new "人型AIロボット「ソフィア」"
+
+    old "Fireworks"
+    new "花火"
 
     old "Do you mind when we spend time together quietly?"
     new "二人で黙って過ごして、なんか気になる？"

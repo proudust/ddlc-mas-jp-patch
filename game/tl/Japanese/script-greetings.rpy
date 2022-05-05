@@ -773,7 +773,7 @@ translate Japanese monikaroom_greeting_ear_bathdinnerme_f9aa92e6:
     m "んんんんっ！{w=0.5}い、{w=0.20}いくらなんでもこんなこと[player]君の前じゃ言えないわよ！"
 
 translate Japanese monikaroom_greeting_ear_progbrokepy_486bd4b4:
-    m "え、なにこれ！？{w=0.2} 'NoneType' object has no attribute {i}length{/i}……"
+    m "え、なにこれ！？{w=0.2} 'NoneType' object has no attribute {i}length{/i}……Nonetypeに属性の長さがないって？"
 
 translate Japanese monikaroom_greeting_ear_progbrokepy_6089cf58:
     m "あ、ここが悪いのか！{w=0.5}すぐに修正しなきゃ！"
