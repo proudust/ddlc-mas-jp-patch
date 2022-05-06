@@ -1194,7 +1194,7 @@ translate Japanese _call_mas_scary_story_setup_1_61b04c85:
     m 1esc "女の行為は武士の妻としてふさわしくなかったので、夫はたいそうひどく女をしかりつけました"
 
 translate Japanese _call_mas_scary_story_setup_1_4e3cb883:
-    m 2dsc "それから夫は美しさに奢った女を罰するために、女の口を耳まで開くように刀で切り裂きました"
+    m 2dsc "それから夫は美しさにおごった女を罰するために、女の口を耳まで開くように刀で切り裂きました"
 
 translate Japanese _call_mas_scary_story_setup_1_5300ce86:
     m 4efd "『こんなお前を誰が美しいと思うんだ？』、女の口にできた傷に言葉の塩を男は塗りつけました"

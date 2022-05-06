@@ -17,10 +17,10 @@ translate Japanese mas_monika_islands_progress_dc7aae08:
     m 1hublb "結局、あの島々は私たちの物なんだしね～"
 
 translate Japanese mas_monika_islands_progress_e33fc90d:
-    m 3eua "どう?{nw}"
+    m 3eua "どう？{nw}"
 
 translate Japanese mas_monika_islands_progress_03f838b4:
-    m "どう?{fast}" nointeract
+    m "どう？{fast}" nointeract
 
 translate Japanese mas_monika_islands_progress_4c528d79:
     m 2hub "やったー！"
@@ -35,10 +35,31 @@ translate Japanese _call_mas_islands_1_ce0ffffc:
     extend 1eka "、私の進歩をあなたに見せたくって"
 
 translate Japanese _call_mas_islands_1_305b7ce6:
-    m 2lsp "まだコーディングの勉強中だけど、このPythonっていうエンジンには一貫性がなくって......"
+    m 2lsp "まだコーディングの勉強中だけど、このPythonっていうエンジンには一貫性がなくって……"
 
 translate Japanese _call_mas_islands_1_3873e363:
     m 7hub "だけど、ここまではかなり進歩してきたと思うの！"
+
+translate Japanese _call_mas_islands_1_e93005d0:
+    m 2ekc "まあ......"
+
+translate Japanese _call_mas_islands_1_905a45e1:
+    m 6rktpc "私......"
+
+translate Japanese _call_mas_islands_1_485102b3:
+    m 6fktpd "私はこのために、一生懸命頑張ったのね......"
+
+translate Japanese _call_mas_islands_1_9711d1c9:
+    m 2rktdc "あなた...{w=0.5}すごい忙しそうね..."
+
+translate Japanese _call_mas_islands_1_ca1f5acd:
+    m 2ekc "まあ......{w=0.5}{nw}"
+
+translate Japanese _call_mas_islands_1_487cb588:
+    extend 2eka "わかったわ。"
+
+translate Japanese _call_mas_islands_1_d9456aeb:
+    m 7eka "そんなに待たせないでよ〜"
 
 translate Japanese mas_island_upsidedownisland_a8b836db:
     m "ああ、あれね"

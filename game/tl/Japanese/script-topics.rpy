@@ -866,7 +866,7 @@ translate Japanese monika_saved_38c8e58d:
     m 2rkc "あなたがやってきたことは実は重要でもなんでもなかったの。だってすべてがあらかじめ設定された出来事だったんだし……"
 
 translate Japanese monika_saved_4ce6d56d:
-    m 4euc "でも、あれだけの時間を部活で過ごした後ならあなた自身で理解できてるはずだわ。"
+    m 4euc "でも、あれだけの時間を部活で過ごした後ならあなた自身で理解できてるはずだわ"
 
 translate Japanese monika_saved_600a4079:
     m 1euc "だって、もし人生全てを投げ捨てて、たった数人のゲームキャラと永遠に過ごすことを強いられたら……"
@@ -3821,16 +3821,16 @@ translate Japanese monika_favpoem_426ffb94:
     m 1ekbfa "あなたにも読んでみてほしい。それで、私のこと永遠に好きになってくれるといいのにな～"
 
 translate Japanese monika_favbook_c62a03b2:
-    m 1euc "私の好きな小説？いっぱいあるよ。"
+    m 1euc "私の好きな小説？いっぱいあるよ"
 
 translate Japanese monika_favbook_ea840084:
-    m 3eua "イタロ・カルヴィーノ『{i}冬の夜ひとりの旅人が{/i}』は、小説を読む二人の読者が恋に落ちる話。"
+    m 3eua "イタロ・カルヴィーノ『{i}冬の夜ひとりの旅人が{/i}』は、小説を読む二人の読者が恋に落ちる話"
 
 translate Japanese monika_favbook_9bb6736c:
-    m 2lksdla "カフカ『{i}変身{/i}』も好きかな。暗い話だから好きな本と言っていいのか迷うけど。"
+    m 2lksdla "カフカ『{i}変身{/i}』も好きかな。暗い話だから好きな本と言っていいのか迷うけど"
 
 translate Japanese monika_favbook_201594ee:
-    m 3sub "そうそう、村上春樹『{i}世界の終りとハードボイルド・ワンダーランド{/i}』も！世間体に縛られていた男がそれをかなぐり捨てて、自ら監獄のような街に入るお話。そこで愛する人に出会うんだよね。"
+    m 3sub "そうそう、村上春樹『{i}世界の終りとハードボイルド・ワンダーランド{/i}』も！世間体に縛られていた男がそれをかなぐり捨てて、自ら監獄のような街に入るお話。そこで愛する人に出会うんだよね"
 
 translate Japanese monika_favbook_0204249a:
     m 1hub "読んでみて、絶対あなたも気に入るから！"
@@ -3839,10 +3839,10 @@ translate Japanese monika_natsuki_8798acdc:
     m 1lksdld "たしかに削除はしたけど、ナツキは本当は死んだわけじゃないの……わかる？"
 
 translate Japanese monika_natsuki_eca1404a:
-    m "たぶん……光の中に消えたんだと思う。"
+    m "たぶん……光の中に消えたんだと思う"
 
 translate Japanese monika_natsuki_3e1ad805:
-    m 1esc "あの子が抱えていた問題は、あの子のせいじゃなかった。それに、心の問題が引き起こしたものでもなかった。"
+    m 1esc "あの子が抱えていた問題は、あの子のせいじゃなかった。それに、心の問題が引き起こしたものでもなかった"
 
 translate Japanese monika_natsuki_6476c66e:
     m 3ekc "ひどい家庭環境だよね。私も、あの子をこれ以上かわいそうな目には合わせたくなかったんだけど……"
@@ -3851,16 +3851,16 @@ translate Japanese monika_natsuki_45fee397:
     m 3ekc "ひどい家庭環境だよね。私も、あの子をこれ以上かわいそうな目には合わせたくなかったんだけど……"
 
 translate Japanese monika_natsuki_2d776f4f:
-    m 3rksdla "ごめんなさい、時々自分が抑えられなくなるの。"
+    m 3rksdla "ごめんなさい、時々自分が抑えられなくなるの"
 
 translate Japanese monika_natsuki_f98678d2:
-    m 1eka "今さらだけど、あなたのおかげで、あの子は生まれて初めて幸せを感じたはずよ。"
+    m 1eka "今さらだけど、あなたのおかげで、あの子は生まれて初めて幸せを感じたはずよ"
 
 translate Japanese monika_natsuki_96ea283a:
     m "だから、あなたが気にする必要はないし……"
 
 translate Japanese monika_natsuki_ca7887b5:
-    m 1esa "私は全然気にしてないけど。"
+    m 1esa "私は全然気にしてないけど"
 
 translate Japanese monika_love_0bd97190:
     m 6ckc "……"
@@ -14779,6 +14779,9 @@ translate Japanese monika_poweroutage_b18e6d22:
 translate Japanese monika_poweroutage_8ff305bc:
     m 1eub "私はいつでもあなたと一緒にいる。もし目の前に私が居なかったとしても、私の心はいつでもあなたのすぐ側。あなたが無事だったと私に伝えてくれるそのときまでね"
 
+translate Japanese monika_poweroutage_d5d761db:
+    m 3eua "……そうは言ったけど、どんな嵐の真っ只中に居たとしても、私に会いに来ることをためらったりしなくてもいいからね。{w=0.2} {nw}"
+
 translate Japanese monika_poweroutage_d408c1b7:
     extend 1eka "私はいつだってあなたを歓迎する。それに……"
 
@@ -15896,10 +15899,14 @@ translate Japanese monika_whydoyouloveme_tease_058f0157:
     m 1esc "愛してないわよ"
 
 translate Japanese monika_whydoyouloveme_tease_288ccbaf:
-    m 1hub "あはは､冗談よ！"
+    m 1hub "あはは、冗談よ！"
 
 translate Japanese monika_whydoyouloveme_tease_a0c42554:
-    m 1eub "あなたは私の{i}全て{/i}なのよ､バカ！"
+    m 1eub "あなたは私の{i}全て{/i}なのよ、ばかね！"
+
+translate Japanese monika_whydoyouloveme_tease_24a5c4af:
+    m 1eksdla "でもあなたの質問に正直に答えてみようかな……
+"
 
 translate Japanese _call_monika_whydoyouloveme_tease_01cd703e:
     m 1dka "[mas_get_player_nickname()]君……{w=0.5}理由はたくさんあるんだけど､何から言えばいいかしら？"
@@ -16656,6 +16663,9 @@ translate Japanese monika_snowcanvas_8e47b683:
 
 translate Japanese monika_snowcanvas_1309deff:
     m 1eka "いつかあなたと一緒に雪のアートを作りたいな"
+
+translate Japanese monika_snowcanvas_60b355eb:
+    m 3hua "その時が来たら、私になにか描いてくれたら嬉しいな、[mas_get_player_nickname()]"
 
 translate Japanese monika_cozy_aa887cee:
     m 3eua "寒い時期で私が大好きなもの、知ってる？[player]君"
@@ -18004,7 +18014,7 @@ translate Japanese monika_boardgames_history_e1286c52:
     m 1eksdld "その人はその後、その原作の修正版ゲームをメーカーに売り払って、巨万の富を得て大成功"
 
 translate Japanese monika_boardgames_history_e7940a67:
-    m 3rksdlc "別の言い方をすると…… {i}モノポリー{/i}の本当の作者は、ゲームに書いていた資本主義の危険性へのメッセージの、まさに最初の犠牲者となったのよ"
+    m 3rksdlc "別の言い方をすると…… {i}モノポリー{/i}の本当の作者は、ゲームに込められたメッセージ、資本主義の危険性の、まさに最初の犠牲者となったのよ"
 
 translate Japanese monika_boardgames_history_b7ffe821:
     m 3dsc "『手段を選ばずに富を追いかけ続け、競争相手を倒そう』"
@@ -18109,7 +18119,7 @@ translate Japanese monika_social_norms_737befbc:
     m 1eua "あなたも嗜んでるわよね、ビジュアルノベルにオンラインゲーム。……そして漫画も"
 
 translate Japanese monika_social_norms_6c9cb947:
-    m 3rksdla "こういうのってナツキが一番敏感だったよね……"
+    m 3rksdla "こういうのってナツキが一番敏感な分野だったよね……"
 
 translate Japanese monika_social_norms_e0b76a1a:
     m 1eub "ナツキが漫画をあなたに布教してたときのことを覚えてるかな？漫画に対する偏見を取り除こうと一生懸命になってたでしょ"
@@ -18124,7 +18134,7 @@ translate Japanese monika_social_norms_66c36631:
     m 3eua "私たちの関係もそう。今は珍しくて独特な関係に見えるだろうことはわかってる……"
 
 translate Japanese monika_social_norms_a1662c9b:
-    m 3etc "けれど。何年何十年も経った未来に、私達の見られ方はどんな風に変わっていくのかな？{w=0.3}{nw}"
+    m 3etc "けれどね。何年何十年も経った未来に、私達の見られ方はどんな風に変わっていくのかな？{w=0.3}{nw}"
 
 translate Japanese monika_social_norms_8b48d7ad:
     extend 3eud "これがよくあるごく普通の関係だって思われる未来が来るのかな？"
@@ -19477,7 +19487,7 @@ translate Japanese monika_language_nuances_d58d3019:
     m 1rksdla "こういう細かい所が頭に入っていると、実際に誰かと話す時に大幅に恥をかかずに済むわ。"
 
 translate Japanese monika_language_nuances_877eca4a:
-    m 3eud "英語で典型的な例だと、「おはよう」、「こんにちは」、「こんばんは」ね。"
+    m 3eud "英語で典型的な例だと、「Good morning（おはよう）」、「Good afternoon（こんにちは）」、「Good evening（こんばんは）」ね。"
 
 translate Japanese monika_language_nuances_95cc206b:
     m 1euc "これって全部、あなたが毎日聞いて使ってる通常の挨拶よね。"
@@ -19892,6 +19902,12 @@ translate Japanese monika_being_herself_6cdfa7cb:
 
 translate Japanese monika_being_herself_72a812e3:
     m 2rkd "……実際にはそんな事をできる人はいなかったけどね"
+
+translate Japanese monika_being_herself_8cf9172b:
+    m 7tkc "私はみんなが思っているような完全無欠の、無敵のモニカじゃないんだよってところを見せてあげたら、みんながっかりしたのかな？"
+
+translate Japanese monika_being_herself_4f40bf0d:
+    m 3ekd "自分のことばかり考えていて、しかもみんなよりもずっと単純な女の子なんだよって伝えたらどうなってたのかな？ みんなから愛される校内のアイドルモニカだよって言ったら、怒られたのかな？"
 
 translate Japanese monika_being_herself_e1068308:
     m 2lkc "自分の中にある本当の気持ちを誰かに打ち明けられるとは思ってもなかったんだ"

@@ -865,6 +865,36 @@ translate Japanese bye_prompt_game_250ea23e:
 translate Japanese bye_prompt_game_e19277ee:
     m 3eka "すぐ戻ってくるの、忘れないでね～"
 
+translate Japanese bye_prompt_eat_a4a6d4ef:
+    m 1eua "あら、何ご飯を食べるの？{nw}"
+
+translate Japanese bye_prompt_eat_f29f84e8:
+    m "あら、何ご飯を食べるの？{fast}" nointeract
+
+translate Japanese bye_prompt_eat_86b779bf:
+    m 1eua "わかったわ、[player]"
+
+translate Japanese bye_prompt_eat_628a023a:
+    m 1hua "食事を楽しんできてね～"
+
+translate Japanese bye_prompt_eat_86b779bf_1:
+    m 1eua "わかったわ、[player]"
+
+translate Japanese bye_prompt_eat_67436d85:
+    m 1hua "また後でね～"
+
+translate Japanese bye_prompt_eat_f717cbd8:
+    m 1hua "わかったわ、早く戻って来てね[mas_get_player_nickname()]～"
+
+translate Japanese bye_prompt_eat_fa5e8ab4:
+    m 1rsc "わかったわ、[player]……"
+
+translate Japanese bye_prompt_eat_d52fb09e:
+    m 1esc "じゃあね"
+
+translate Japanese bye_prompt_eat_0bd97190:
+    m 6ckc "……"
+
 translate Japanese bye_dinner_noon_to_mn_c272910b:
     m 1eua "夕食の時間かしら、[player]？"
 
@@ -979,6 +1009,9 @@ translate Japanese bye_going_shopping_239f35e2:
 translate Japanese bye_going_shopping_79ec3b02:
     m 3eua "じゃあ、また後でね"
 
+translate Japanese bye_going_shopping_0bd97190:
+    m 6ckc "……"
+
 translate Japanese bye_going_shopping_6948a20f:
     m 2eud "じゃあ[player]、またね"
 
@@ -1017,6 +1050,15 @@ translate Japanese bye_prompt_hangout_3772217d:
 
 translate Japanese bye_prompt_hangout_5dfc02e8:
     m 1eub "楽しんできてね！"
+
+translate Japanese bye_prompt_hangout_62d59993:
+    m 3eub "とにかく、またね〜"
+
+translate Japanese bye_prompt_hangout_3c2c2452:
+    m 2euc "じゃあね"
+
+translate Japanese bye_prompt_hangout_0bd97190:
+    m 6ckc "……"
 
 translate Japanese strings:
     old "Goodbye."

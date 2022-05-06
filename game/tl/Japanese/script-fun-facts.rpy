@@ -898,6 +898,52 @@ translate Japanese mas_fun_fact_round_earth_a2b760a9:
 translate Japanese mas_fun_fact_round_earth_8df8d080:
     m 3hubsb "なんてね、あはは！"
 
+translate Japanese mas_fun_fact_maplesyrup_fb07cb1a:
+    m 3hksdlb "これから話すのはね、{w=0.2}{i}あまーい{/i}{w=0.2}豆知識だよ……"
+
+translate Japanese mas_fun_fact_maplesyrup_5a01c985:
+    m 1eua "どんな種類のカエデの木でも、シロップが作れるほど甘い樹液を流すんだって{w=0.1}{nw}
+"
+
+translate Japanese mas_fun_fact_maplesyrup_24183ad4:
+    extend 1eud "。でも市販されているメープルシロップは大抵、サトウカエデから作られているのよ"
+
+translate Japanese mas_fun_fact_maplesyrup_394c3f47:
+    m 3eua "カエデの木がどれかを見分けるには、その葉っぱの形を見るのが一番わかりやすいんだけど……"
+
+translate Japanese mas_fun_fact_maplesyrup_4e9c05e2:
+    m 3eub "サトウカエデの葉っぱは、カナダの国旗に描かれているからもう知ってるかもね！"
+
+translate Japanese mas_fun_fact_maplesyrup_185284a7:
+    m 1euc "とはいうものの、サトウカエデが育つ地域は限られているの。だからカナダの{i}全域{/i}で育つわけじゃないんだけどね"
+
+translate Japanese mas_fun_fact_maplesyrup_8a5da16c:
+    m 1wud "……それでもカナダは世界のメープルシロップ生産量の4分の3以上のシェアを占めているんだよ！"
+
+translate Japanese mas_fun_fact_maplesyrup_be59603d:
+    m 3wud "さらにね、これを知ったらもっと驚くかも。メープルシロップを1リットル作るには、{i}40{/ i}リットルの樹液が必要なんだって！"
+
+translate Japanese mas_fun_fact_maplesyrup_60c76c95:
+    m 1eua "あと調べたんだけど、メープルシロップを作るのは、私が想像していたよりもずっと大変だったの……"
+
+translate Japanese mas_fun_fact_maplesyrup_02b11777:
+    m 1esc "樹液をシロップにするには樹液を煮詰める作業がいるんだけど…… 蒸発する樹液の水分量を考えれば、かなり時間がかかるのは明白よね"
+
+translate Japanese mas_fun_fact_maplesyrup_7dbc5f35:
+    m 3eud "そして聞いた話によると、メープルシロップを少しだけ沸騰させてからきれいな雪の上に注ぐとね……{w=0.2}{nw}"
+
+translate Japanese mas_fun_fact_maplesyrup_e0762ad7:
+    extend 3hub "固まってキャンディになるんだって！"
+
+translate Japanese mas_fun_fact_maplesyrup_9c83407d:
+    m 3euu "一緒にできたら楽しそうだと思うでしょ？ ね、[player]？"
+
+translate Japanese mas_fun_fact_maplesyrup_defb5d0b:
+    m 1etc "キャンディを作れる機会が来るまでもう少し時間がかかるかもしれないけど……"
+
+translate Japanese mas_fun_fact_maplesyrup_2398496e:
+    m 1eua "でも少しくらい長く待たされても私は大丈夫だから……{w=0.3}{nw}"
+
 translate Japanese strings:
     old "Can you tell me a fun fact?"
     new "豆知識を教えてくれない？"
