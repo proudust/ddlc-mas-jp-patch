@@ -944,6 +944,15 @@ translate Japanese mas_fun_fact_maplesyrup_defb5d0b:
 translate Japanese mas_fun_fact_maplesyrup_2398496e:
     m 1eua "でも少しくらい長く待たされても私は大丈夫だから……{w=0.3}{nw}"
 
+translate Japanese mas_fun_fact_maplesyrup_f534405d:
+    extend 1hublu "待ってる間でもあなたには甘えられるからね～"
+
+translate Japanese mas_fun_fact_maplesyrup_2c90dd7e:
+    m 1eua "今回のは本当に甘い豆知識だったね……"
+
+translate Japanese mas_fun_fact_maplesyrup_43eed8b5:
+    m 1rkblu "でもあなたほどあまあまじゃないけどね～　えへへ～"
+
 translate Japanese strings:
     old "Can you tell me a fun fact?"
     new "豆知識を教えてくれない？"

@@ -167,10 +167,10 @@ translate Japanese monika_god_e963f882:
     m 3eud "神の存在もそんなに信じ難いことでもないと思うの。地球が神のオモチャだと考えたらね"
 
 translate Japanese monika_god_c5fd6be4:
-    m 1eua "あなたは神を信じる？{nw}"
+    m 1eua "ところで、あなたは神を信仰してる？{nw}"
 
 translate Japanese monika_god_211126be:
-    m "あなたは神を信じる？{fast}" nointeract
+    m "ところで、あなたは神を信仰してる？{fast}" nointeract
 
 translate Japanese monika_god_3ed1f6be:
     m 1hksdlb "あら……まぁ私の意見についてはあまり考えすぎないようにね"
@@ -9285,7 +9285,7 @@ translate Japanese monika_meditation_1af83161:
     m 1eua "私がどうやって、自分の時間を確保しながら色んな活動をこなせているのか、不思議に思っていたりするのかしら。"
 
 translate Japanese monika_meditation_ffc7ca49:
-    m 3eua "あなたも知っての通り、ディベート部にスポーツ、学業に、友達と遊びにでかけたりだとか……"
+    m 3eua "ディベート部にスポーツ、学業に、友達と遊びにでかけたりだとかってやつね……"
 
 translate Japanese monika_meditation_736c7a26:
     m 1ekc "実のところ、自分の時間を潰しちゃってたの。"
@@ -20085,6 +20085,9 @@ translate Japanese monika_why_do_you_read_00bb6c4c:
 
 translate Japanese monika_why_do_you_read_46411cf9:
     m 3eua "でもね、少なくとも読書ができたおかげで私の趣味を続けてこられたの"
+
+translate Japanese monika_why_do_you_read_1f540297:
+    m 1eub "だから…… {w=0.2}大丈夫！{w=0.3} {nw}"
 
 translate Japanese monika_discworld_0d19dc7f:
     m 1esa "あのさ[player]、巨大な亀の甲羅の上に四頭の象が立っていて、それが宇宙を漂っている世界観って聞いたことがある？"

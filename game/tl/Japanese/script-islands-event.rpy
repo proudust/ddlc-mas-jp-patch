@@ -32,10 +32,10 @@ translate Japanese _call_mas_islands_1_43f07cc9:
     m 1lusdlb "まだ未完成だけれど{w=0.2}{nw}"
 
 translate Japanese _call_mas_islands_1_ce0ffffc:
-    extend 1eka "、私の進歩をあなたに見せたくって"
+    extend 1eka "、私の進歩をあなたに見せたかったの"
 
 translate Japanese _call_mas_islands_1_305b7ce6:
-    m 2lsp "まだコーディングの勉強中だけど、このPythonっていうエンジンには一貫性がなくって……"
+    m 2lsp "ｋじいいいいいいいい"
 
 translate Japanese _call_mas_islands_1_3873e363:
     m 7hub "だけど、ここまではかなり進歩してきたと思うの！"

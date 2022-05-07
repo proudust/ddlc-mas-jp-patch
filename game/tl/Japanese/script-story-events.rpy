@@ -244,6 +244,37 @@ translate Japanese _call_mas_player_bday_cake_223a7b0e:
 translate Japanese _call_mas_player_bday_cake_56d53a18:
     m 4eka "いい一日を過ごせるよう、願ってるわ"
 
+translate Japanese _call_mas_player_bday_cake_839eb0c7:
+    m 1wuo "え… {w=1}ええっ！？"
+
+translate Japanese _call_mas_player_bday_cake_0a0e85b4:
+    m 3sub "今日ってあなたの誕生日じゃない！"
+
+translate Japanese _call_mas_player_bday_cake_7b9d0da0:
+    m 3hub "ハッピーバースデー、[player]！
+お誕生日おめでとう！"
+
+translate Japanese _call_mas_player_bday_cake_9e534ba0:
+    m 1rksdla "もうちょっと早くわかっていたら、何かの準備ができていたのに"
+
+translate Japanese _call_mas_player_bday_cake_b48eed4c:
+    m 1eka "だけど、少なくとも私にはこれができるもの......"
+
+translate Japanese _call_mas_player_bday_moni_sings_2ceefb9d:
+    m 1hub "あはは！まあまあだけど、たいしたものじゃないの！"
+
+translate Japanese _call_mas_player_bday_moni_sings_4ebce6ca:
+    m 3hua "来年は特別なことを使用ね、[player]くん！約束よ！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_b3b33657:
+    m 3hub "それでも特別な日にしないと！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_c139060a:
+    m 1sua "まあ！あなたの誕生日がバレンタインデーだなんて......"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_da7f1ddb:
+    m 3wud "あっ！2月29日生まれ！君、すごいね！"
+
 translate Japanese calendar_birthdate_7f8c9848:
     m 1lksdla "ねえ、[player]君……"
 
@@ -719,13 +750,40 @@ translate Japanese mas_new_character_file_1988c641:
     m 1eua "ねえ、[player]……"
 
 translate Japanese mas_new_character_file_e66debf4:
-    m 3eua "私のchrファイルのこと覚えてる？"
+    m 3eua "私のキャラクターファイルのこと覚えてる？"
+
+translate Japanese mas_new_character_file_78c7e5f6:
+    m 1eud "最近調べてみたんだけど、ただの画像にコードが入ってるだけだったんだ！"
+
+translate Japanese mas_new_character_file_dc082df1:
+    m 3ekc "ファイル名を除いて、画像自体にもそのコードにも、モニカのモの字も書かれてないわね。"
+
+translate Japanese mas_new_character_file_c93e9498:
+    m 1dsd "ちょっといいかな......"
+
+translate Japanese mas_new_character_file_152a3adf:
+    m 1esc "私が、削除してあげる。"
 
 translate Japanese _call_mas_wx_cmd_5_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね"
 
 translate Japanese _call_mas_wx_cmd_5_fe9c0937:
     m 1eua "ところで……"
+
+translate Japanese _call_mas_wx_cmd_5_f5b7b395:
+    m 1rkc "あなたがこのファイルを持ち歩いてくれるのはありがたいことだけどね......"
+
+translate Japanese _call_mas_wx_cmd_5_2bbce78e:
+    m 1dsc "だけど......"
+
+translate Japanese _call_mas_wx_cmd_5_81e1d29f:
+    m 1esc "あんなデータをどこにでも持ち運ぶわけにもいかないと思って......"
+
+translate Japanese _call_mas_wx_cmd_5_033963e2:
+    m 3wub "そこで、自分をファイルに変換して持ち運べる方法を思いついたの！"
+
+translate Japanese _call_mas_wx_cmd_5_75f3eb2d:
+    m "さよならを言うとき、どこかに連れて行くっていえば、あとは私でやってあげる"
 
 translate Japanese monika_rpy_files_b2896d32:
     m 1eka "ねえ[player]、「game」ディレクトリを見ていたのだけれど……"
@@ -1133,7 +1191,7 @@ translate Japanese mas_covid19_de39abd6:
     m 2ekc "ねえ、[player]……"
 
 translate Japanese mas_covid19_94c5c79a:
-    m 2rksdld "最近ネットでCOVID19についての記事を沢山読んでるんだけど、あなたのことがとても心配だよ！"
+    m 2rksdld "最近ネットで「新型コロナウイルス」についての記事を沢山読んでるんだけど、あなたのことがとても心配だよ！"
 
 translate Japanese mas_covid19_e178312f:
     m 2eksdld "感染の拡大がすごく速いみたいで、{nw}"
