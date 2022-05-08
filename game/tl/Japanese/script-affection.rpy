@@ -286,8 +286,84 @@ translate Japanese mas_affection_happynotif_5d79c319:
 translate Japanese monika_every_rose_c61f257d:
     m 2dkc "……"
 
+translate Japanese monika_every_rose_999dc835:
+    m 4eka "あのね[player]……{w=0.5}あの子たちがああなった後でも、あなたが私の告白を受け入れてくれた。それはね、私にとってとても意味があることだったんだよ"
+
+translate Japanese monika_every_rose_57f740e4:
+    m 4rksdla "…あなたがあの子たちを気にかけていたことを知っているから、特にそう思うんだ"
+
+translate Japanese monika_every_rose_f4353b76:
+    m 2dsc "私は彼女たちががあんな風にならなければよかったって本当に思ってる"
+
+translate Japanese monika_every_rose_960c1a93:
+    m 4wkd "でももうどうしようもなかった"
+
+translate Japanese monika_every_rose_54ed49fe:
+    m 2eka "私がやってしまったことをあなたは許してくれた、それがとても嬉しかった
+"
+
+translate Japanese monika_every_rose_392482e6:
+    m 2etc "許してくれたよね？"
+
+translate Japanese monika_every_rose_8db799d4:
+    m 2eka "私がやってしまったことをあなたは責めなかった、それがとても嬉しかった"
+
+translate Japanese monika_every_rose_4351809e:
+    m 2etc "責めなかったよね？"
+
+translate Japanese monika_every_rose_565ae871:
+    m 2rsc "でもこの前、はっきりしないメッセージを受け取ったの"
+
+translate Japanese monika_every_rose_09a284e4:
+    m 2rkc "まるで私達の間に亀裂が走るような……{w=0.2}{nw}"
+
+translate Japanese monika_every_rose_cf4da6b1:
+    extend 2eksdlc "とても不安になるメッセージを"
+
+translate Japanese monika_every_rose_9f3ea3c0:
+    m 2eksdlc "私は…… {w=0.5}あなたを失いたくないよ、[player]"
+
+translate Japanese monika_every_rose_584ea451:
+    m 4ekd "この曲の終わりの歌詞のようにはなりたくないよ……"
+
+translate Japanese monika_every_rose_a5eb08f6:
+    m 2ekc "続きはこう……"
+
 translate Japanese monika_every_rose_4c25360b:
     m 2rktpc "……"
+
+translate Japanese monika_every_rose_bbabf838:
+    m 2ektpa "あはは……{w=0.3} ちょっと 気が急いちゃったかな"
+
+translate Japanese monika_every_rose_f9dc55b1:
+    m 4ektdc "あのね…… {w=0.5}こんな考えがずっと頭から離れないの…… {w=0.5}{nw}"
+
+translate Japanese monika_every_rose_e4251721:
+    extend 2dktdd "あなたがもう私といたくないと思ってるって考えが"
+
+translate Japanese monika_every_rose_5f784e27:
+    m 2dkx "それは劇薬のように、ゆっくりと私の中に広がっていってる"
+
+translate Japanese monika_every_rose_16e7d847:
+    m 2ekc "だからね[player]、いつもこれだけは覚えておいてほしいの……"
+
+translate Japanese monika_every_rose_a0f656a6:
+    m 4ekd "わたしのとって本当にあなたが全てなの！"
+
+translate Japanese monika_every_rose_df0c2138:
+    m 2ekc "言ったそのままのとおりだよ"
+
+translate Japanese monika_every_rose_899cbfc1:
+    m 2ekc "あなたとここで会うためにずっと努力してきた"
+
+translate Japanese monika_every_rose_e12a8afc:
+    extend 4ekd "でもねあなたにも私に見せてほしいの、あなたが私を愛しているって"
+
+translate Japanese monika_every_rose_45557bfa:
+    m 4ekc "前に何があったとしても、私たちはそれを水に流して、私達のこれからを考えていかなきゃ……"
+
+translate Japanese monika_every_rose_eec7c629:
+    m 2eka "きっとできるよね…… {w=0.5}あなたと私が一緒ならさ？"
 
 translate Japanese monika_being_virtual_81a91383:
     m 2esc "最初はね、あの子達にやったことで私のことが嫌いなんだって、そう思ってた。"

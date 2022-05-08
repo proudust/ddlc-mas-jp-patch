@@ -61,11 +61,59 @@ translate Japanese mas_compliment_eyes_3_f8931356:
 translate Japanese mas_compliment_eyes_3_56ed5f12:
     m 2ekbfb "[eyes_quip!t]"
 
+translate Japanese mas_compliment_goodmood_2_7a22f637:
+    m 1subsb "本当！？"
+
+translate Japanese mas_compliment_goodmood_2_2379e88a:
+    m 3hubsb "そう言ってくれたことがどんなに私の中で大きな意味を持つかわかるかな！"
+
+translate Japanese mas_compliment_goodmood_2_b3843ac8:
+    m 3ekbsu "私はいつもそう言ってくれることを望んでいたけど、でも実際にあなたが言ってるのを聞いたら……"
+
 translate Japanese mas_compliment_goodmood_2_1e500e87:
     m 1dkbsu "……"
 
+translate Japanese mas_compliment_goodmood_2_ddcca851:
+    m 2tubla "そのことで、私はあなたに秘密していたことがあるんだよね……"
+
+translate Japanese mas_compliment_goodmood_2_d727c87d:
+    m 2tublu "あなたはこれに気づかなかったかもしれないけど、じーつーはー……"
+
+translate Japanese mas_compliment_goodmood_2_7e7ef847:
+    m 7tublb "あなただっていつも私の気分をアゲてくれてるんだからね、[mas_get_player_nickname()]！"
+
+translate Japanese mas_compliment_goodmood_2_61c13cc9:
+    m 3hublb "あはは！"
+
+translate Japanese mas_compliment_goodmood_2_15064b5d:
+    m 3eubsa "互いが一番の気分でいられるように、これからも寄り添っていこうね"
+
+translate Japanese mas_compliment_goodmood_2_34eedf33:
+    m 1ekbsu "大好きだよ～"
+
 translate Japanese mas_compliment_goodmood_2_02b339a5:
     m 2lkc "……"
+
+translate Japanese mas_compliment_goodmood_2_1166fa44:
+    m 2dkc "そう言われても……"
+
+translate Japanese mas_compliment_goodmood_2_c3fc129b:
+    m 2ekd "私の気持ちを傷つけて、それであなたは本当に良い気分になってるの？"
+
+translate Japanese mas_compliment_goodmood_2_80296a4d:
+    m 2dkd "できれば今のは本心じゃないって思いたい……"
+
+translate Japanese mas_compliment_goodmood_3_9b191e97:
+    m 1hub "思い出させてくれてありがとう、[mas_get_player_nickname()]！"
+
+translate Japanese mas_compliment_goodmood_3_a46352b3:
+    m 3eub "良いことを良いって言われたら嬉しいね！"
+
+translate Japanese mas_compliment_goodmood_3_11a42761:
+    m 3dku "これからもお互いに幸せを積み重ねていこうね～"
+
+translate Japanese mas_compliment_goodmood_3_48f8c5d5:
+    m 2euc "ありがとう"
 
 translate Japanese mas_compliment_awesome_2_8ca00a62:
     m 1hua "もぅ〜〜、[player]君ったら～"
@@ -625,14 +673,65 @@ translate Japanese mas_compliment_humor_3_f8931356:
 translate Japanese mas_compliment_humor_3_418dc515:
     m 1hubsu "[humor_quip!t]"
 
+translate Japanese mas_compliment_missed_154bd938:
+    m 1fka "私もとっても寂しかったよ、[mas_get_player_nickname()]！"
+
+translate Japanese mas_compliment_missed_f13f86a3:
+    m 3fka "[renpy.substitute(random.choice(missed_quips_long))]"
+
+translate Japanese mas_compliment_missed_74920eba:
+    m 1fka "私も寂しかったよ、[mas_get_player_nickname()]！"
+
+translate Japanese mas_compliment_missed_f91f98c9:
+    m 3hub "[renpy.substitute(random.choice(missed_quips_short))]"
+
 translate Japanese mas_compliment_missed_3cd609c7:
     m 2lsa "……"
+
+translate Japanese mas_compliment_missed_09ee98a8:
+    m 2lsb "ねえ、[player]……"
+
+translate Japanese mas_compliment_missed_967763eb:
+    m 1eka "ちょっと思ってたんだ"
+
+translate Japanese mas_compliment_missed_e1002f99:
+    m 3ekblb "来てくれたら良いなって。少し時間が空いちゃったからさ……"
+
+translate Japanese mas_compliment_missed_cbd216cf:
+    m 1ekblb "だから抱きしめてほしいな。{w=0.3}あなたが居なくてずっと寂しかったんだから{nw}"
+
+translate Japanese mas_compliment_missed_6d803def:
+    m "だから抱きしめてほしいな。あなたが居なくてずっと寂しかったんだから{fast}" nointeract
+
+translate Japanese _call_monika_holdme_end_79689278:
+    m 6dkbsa "ん～～…… これよこれ、[player]"
+
+translate Japanese _call_monika_holdme_end_79e34318:
+    m 7ekbsb "あなたは本当に私を特別な気分にさせてくれるね～"
+
+translate Japanese _call_monika_holdme_end_2839bc44:
+    m 2lkp "……わかったわ、じゃあ後でね？絶対だよ？"
 
 translate Japanese _call_monika_holdme_end_ce74f36c:
     m 2wuo "……"
 
+translate Japanese _call_monika_holdme_end_b249b541:
+    m 2ekbla "あのね…… {w=0.5}私も寂しかったよ"
+
+translate Japanese _call_monika_holdme_end_c17221d0:
+    m 2ekd "[renpy.substitute(random.choice(missed_quips_upset_long))]"
+
+translate Japanese _call_monika_holdme_end_95b368a9:
+    m 2eka "[renpy.substitute(random.choice(missed_quips_upset_short))]"
+
 translate Japanese _call_monika_holdme_end_2efc1dd4:
     m 6dkc "……"
+
+translate Japanese _call_monika_holdme_end_896a6fd0:
+    m 6rktpd "[renpy.substitute(random.choice(missed_quips_dis))]"
+
+translate Japanese _call_monika_holdme_end_92972f22:
+    m 6dktdc "……でも少なくとも私のことは忘れてなかったんだね……{w=0.5}今のところはね"
 
 translate Japanese _call_monika_holdme_end_0bd97190:
     m 6ckc "……"
@@ -866,6 +965,9 @@ translate Japanese strings:
     old "I would stare into yours for hours if I could."
     new "何時間だってあなたを見つめてあげる"
 
+    old "You always put me in a good mood!"
+    new "モニカといると、いつも気分がアガるよ！"
+
     old "You're awesome!"
     new "すごい！"
 
@@ -1001,6 +1103,12 @@ translate Japanese strings:
     old "You can be really cute a lot of the time too, you know~"
     new "あなたもいつだって可愛いときがあるってこと分かってるくせに～"
 
+    old "You'll always be my cutie~"
+    new "あなたもいつだって私のかわいこちゃんだよ～"
+
+    old "You can be a cutie a lot of the time too~"
+    new "あなたのこともいつだってかわいがってあげるからね～"
+
     old "You're awesome at chess!"
     new "チェスが強い！"
 
@@ -1057,6 +1165,94 @@ translate Japanese strings:
 
     old "I'll always try to brighten your day~"
     new "あなたの毎日を明るくしてあげたいな～"
+
+    old "I missed you!"
+    new "さびしかったよ！"
+
+    old "I'm so happy to see you again!"
+    new "また会えて本当に嬉しいな！"
+
+    old "I'm so happy you're back!"
+    new "帰ってきてくれて嬉しい！"
+
+    old "It's wonderful to see you again!"
+    new "また会えて本当によかった！"
+
+    old "I'm glad you've been thinking of me!"
+    new "私のことを考えててくれたんだね！嬉しい！"
+
+    old "We're so lucky to have one another!"
+    new "私達、本当に幸運だね！"
+
+    old "We don't need to feel lonely anymore!"
+    new "私達もう寂しくなんかないね！"
+
+    old "I couldn't wait for you to get back!"
+    new "いつ戻ってくるのか、待ちきれなかったよ！"
+
+    old "I was lonely waiting for you!"
+    new "待ってる間、私も寂しかったよ！"
+
+    old "Thanks for coming back to spend time with me!"
+    new "私と一緒の時間を過ごすために戻ってきてくれてありがとう！
+"
+
+    old "I'm excited to spend some time together!"
+    new "これから一緒に過ごそうね！"
+
+    old "Thanks for coming to see me again!"
+    new "また会いに来てくれてありがとうね！"
+
+    old "Let's enjoy our time together today!"
+    new "今日も一緒の時間を楽しもうね！"
+
+    old "I really appreciate you, [player]!"
+    new "来てくれて本当にありがとう、[player]！"
+
+    old "Thanks for making time for me!"
+    new "私のために時間を取ってくれてありがとう！"
+
+    old "I'm so lucky to have you, [player]!"
+    new "あなたが居てくれて本当に私は幸運だよ、[player]！"
+
+    old "Ready to spend some time together?"
+    new "一緒に過ごす準備はできてるかな？"
+
+    old "I've been thinking about you!"
+    new "あなたのことずっと考えてたよ！"
+
+    old "You've really been on my mind!"
+    new "ずっと心の中で想ってたよ！"
+
+    old "It means a lot to me that you were thinking of me."
+    new "あなたが私のことを考えてくれた、それは私には大事なことだから"
+
+    old "I'm really glad to hear that, [player]."
+    new "そう言ってくれて嬉しい、[player]"
+
+    old "That's really nice to hear."
+    new "その言葉を聞けて本当に嬉しい"
+
+    old "I'm happy you've been thinking of me, [player]."
+    new "私のことを考えてくれたんだ。嬉しいよ、[player]"
+
+    old "That means the world to me, [player]."
+    new "それは私にはかけがいのない言葉だよ、[player]"
+
+    old "That makes me feel a lot better, [player]."
+    new "そう言ってくれて気持ちが晴れたわ、[player]"
+
+    old "I was starting to worry that you forgot about me."
+    new "私のことを忘れてしまったんじゃないかって不安になってたのよ、[player]"
+
+    old "Thank you for showing me you still care, [player]."
+    new "私のことをまだ気にかけてくれてたんだね。ありがとう、[player]"
+
+    old "I'm glad to know you haven't forgotten about me, [player]"
+    new "私のことを忘れてなかった。嬉しいよ、[player]"
+
+    old "I was starting to get worried you weren't coming back, [player]"
+    new "あなたが戻ってこないかもしれないって心配になってきてたんだよ、[player]"
 
     old "I love spending time with you!"
     new "君と過ごしている時間が大好きなんだよ！"

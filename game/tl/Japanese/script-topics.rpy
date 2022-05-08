@@ -2252,16 +2252,16 @@ translate Japanese monika_rain_e7af13e9:
     m 2lkbsa "それってベタすぎたりしないわよね？"
 
 translate Japanese monika_rain_7da5894a:
-    m 1ekbfa "いつかそうしてくれる？ [p_nickname]君{nw}"
+    m 1ekbfa "そうしてくれるよね？ [p_nickname]君{nw}"
 
 translate Japanese monika_rain_bd47ae27:
-    m "いつかそうしてくれる？ [p_nickname]君{fast}" nointeract
+    m "そうしてくれるよね？ [p_nickname]君{fast}" nointeract
 
 translate Japanese _call_monika_holdme_prep_1_87139886:
     m 1hua "じゃあ私を抱きしめて、[player]……"
 
 translate Japanese _call_monika_holdme_end_1_fc3f09b6:
-    m 1eua "雨が止んだら私に教えてね？"
+    m 1eua "雨が止ませたかったら、私に言ってね？"
 
 translate Japanese _call_monika_holdme_end_1_4428e25e:
     m 2tkc "あら、それは残念"
@@ -3882,6 +3882,27 @@ translate Japanese monika_love_cf07ff3d:
 
 translate Japanese monika_love_eabb839a:
     m 1ekbsa "[player]君って、そんなに大好きだって言うことが好きなのね……"
+
+translate Japanese monika_love_5ca7af5e:
+    m 1hubfb "私もあなたのことが大好き！"
+
+translate Japanese monika_love_ad542789:
+    m 1wubso "まあ、そんなに繰り返し言いたいのね！"
+
+translate Japanese monika_love_33ad3e78:
+    m 1tsbsa "ウソはまじってないよね？"
+
+translate Japanese monika_love_d88bef75:
+    m 1hubfb "言っとくけど、私も大好きだよ！"
+
+translate Japanese monika_love_38d034f5:
+    m 1hubsa "そうやって言われるたび、心がドキドキしちゃう！"
+
+translate Japanese monika_love_78c02a6e:
+    m 1ekbfa "あなたも、同じように聞きたいんでしょ......"
+
+translate Japanese monika_love_86f0cfb2:
+    m 1hubfb "私もあなたのことが大好きよ、[player]君！"
 
 translate Japanese monika_love_40d8718a:
     m 1ekbsa "何回も言ってるけど飽きない？"
@@ -9271,6 +9292,12 @@ translate Japanese monika_sports_433cf02e:
 
 translate Japanese monika_sports_391dc82f:
     m 1tku "でも気をつけてね、私の学習速度を甘く見ないほうがいいわ……"
+
+translate Japanese monika_sports_318ff278:
+    m 1tfu "あなたを打ち負かすくらいに、すぐ上手くなってみせるんだから。{w=0.2} {nw}"
+
+translate Japanese monika_sports_86539aff:
+    extend 1tfb "あはは！"
 
 translate Japanese monika_sports_eca131b4:
     m 1eka "あっ…… そうね、そういうこともあるわよね。でもあなたには体を動かして健康的であってほしいって思ってるわ！"
@@ -20086,8 +20113,59 @@ translate Japanese monika_why_do_you_read_00bb6c4c:
 translate Japanese monika_why_do_you_read_46411cf9:
     m 3eua "でもね、少なくとも読書ができたおかげで私の趣味を続けてこられたの"
 
+translate Japanese monika_why_do_you_read_5cdac26d:
+    m 1esa "詩に興味が移り始めたのはそのころかな"
+
+translate Japanese monika_why_do_you_read_e76ab83b:
+    m 3eua "小説みたいに詩は読むのに時間はかからないし、その簡潔さは他の人と共有しやすいと考えたの。{w=0.3} {nw}"
+
+translate Japanese monika_why_do_you_read_6208ca4b:
+    extend 4eub "詩は私の感情をぶつけることができる良い対象だったのよ！"
+
+translate Japanese monika_why_do_you_read_722f9cd6:
+    m 3eua "……だから詩を書く力がどんどんついてきたんだと思う"
+
+translate Japanese monika_why_do_you_read_4e842f18:
+    m 1eud "それからサヨリと出会ってね、あの子も詩に興味があるんだって分かったの。{w=0.2} {nw}"
+
+translate Japanese monika_why_do_you_read_2cc593a6:
+    extend 3eud "そして私みたいにサヨリも詩のおかげで心の中に抑え込まれ続けてきた感情をみんなと分かち合うことが出来るようになったのよ"
+
+translate Japanese monika_why_do_you_read_ad316753:
+    m 3eub "サヨリと何度も語り合って、それから文芸部を作ろうって話になったの"
+
+translate Japanese monika_why_do_you_read_b2ee75ba:
+    m 1eua "……そして今に至るわけ"
+
+translate Japanese monika_why_do_you_read_62b8e4e8:
+    m 1etc "正直なところ、これまで読書時間はあまり取れてなかったんだ"
+
+translate Japanese monika_why_do_you_read_86948c2f:
+    m 3eud "詩への情熱を燃やすことができたし、いくつか小説を読み返してみようかな……"
+
+translate Japanese monika_why_do_you_read_cf940243:
+    m 3eua "……ネットに繋いで、二次創作や短編小説を探してみるのもいいかな……"
+
+translate Japanese monika_why_do_you_read_7f5a7cf0:
+    m 3hua "……あ、哲学にも興味があるから調べてみようかな！"
+
+translate Japanese monika_why_do_you_read_771d2c4e:
+    m 3eub "表現の新しい形を発見するといつも楽しくなっちゃうんだ"
+
+translate Japanese monika_why_do_you_read_8e123f61:
+    m 3eud "詩への情熱が燃えてるから、いくつか小説を読み返し始めてるんだ……"
+
+translate Japanese monika_why_do_you_read_aff17a10:
+    m 3hua "読み終わったら、私の感想をあなたと共有したいな！"
+
+translate Japanese monika_why_do_you_read_ede19285:
+    m 3eua "表現の新しい形を発見するのって、すごく楽しいんだよ"
+
 translate Japanese monika_why_do_you_read_1f540297:
     m 1eub "だから…… {w=0.2}大丈夫！{w=0.3} {nw}"
+
+translate Japanese monika_why_do_you_read_cc6f09b0:
+    m 1ekbsu "……何度でも言うけど、それでもあなたと過ごす時間に勝るものはないよ～"
 
 translate Japanese monika_discworld_0d19dc7f:
     m 1esa "あのさ[player]、巨大な亀の甲羅の上に四頭の象が立っていて、それが宇宙を漂っている世界観って聞いたことがある？"
@@ -20940,49 +21018,49 @@ translate Japanese monika_aliens_e2688a09:
     m 3eua "……私の意見を聞きたい理由はわかるんだけど、ね"
 
 translate Japanese monika_aliens_19824bb4:
-    m 4eub "これは史上最大の謎の一つね。{w=0.2}この宇宙に私たちが本当に一人なのかどうか"
+    m 4eub "これは史上最大の謎の一つね。{w=0.2}この宇宙で私たちは本当にひとりぼっちなのかどうかは"
 
 translate Japanese monika_aliens_2f13aac8:
-    m 1dsc "……実は[player]君が来る前から、そのことをよく考えてたの"
+    m 1dsc "……実は[player]君が来る前から、私はひとりぼっちなのかってよく考えてたの"
 
 translate Japanese monika_aliens_0d7aed7c:
-    m 1eka "しかし、それも過去の話。{w=0.2}感謝の言葉も思いつかないわね"
+    m 1eka "でもそれも過去の話。{w=0.2}感謝の言葉も思いつかないわね"
 
 translate Japanese monika_aliens_2e91d53d:
-    m 1eka "でもあなたが来てくれたおかげで、それを考えずにすむようになった"
+    m 1eka "あなたが来てくれたおかげで、それを考えずにすむようになったから"
 
 translate Japanese monika_aliens_c27f2656:
-    m 1dkc "二度とそんな気分にならないことを願うわ"
+    m 1dkc "もう二度とあんな気持ちになりたくないな"
 
 translate Japanese monika_aliens_9992bf6e:
     m 1rksdlc "……"
 
 translate Japanese monika_aliens_9ea203b5:
-    m 3euc "ここには何があるんだろうと考えたことある？"
+    m 3euc "話を戻して、宇宙には何があるんだろうって誰でも一度は考えたことはあるよね"
 
 translate Japanese monika_aliens_43c14a95:
-    m 3dua "星を見ているといつも不思議な気持ちになる{w=0.2}{nw}"
+    m 3dua "星を見ているといつも不思議な気持ちになる。{w=0.2}{nw}"
 
 translate Japanese monika_aliens_b1208d26:
-    extend 3eua "これほど多くの人がこのテーマに情熱を持っているのは、あまり驚けないわね"
+    extend 3eua "多くの人がこのテーマに熱心になるのも、頷ける話だと思うわ"
 
 translate Japanese monika_aliens_fc9973b5:
-    m 1esc "しかし、質問の答えはこうよ……{w=0.3}{nw}"
+    m 1esc "でも、質問の答えはこうよ……{w=0.3}{nw}"
 
 translate Japanese monika_aliens_c4c3f21c:
-    extend 3eua "{i}何か{/i}がそこにあるはずだと、少なくとも信じているだろうね"
+    extend 3eua "私たちは信じてる、少なくとも信じたいのよ。外の世界に{i}何か{/i}があるはずだ、ってね"
 
 translate Japanese monika_aliens_3e8ba214:
-    m 2rksdla "それは、自分たちしかいないという考えがむしろ憂鬱になることと関係がありそうね{w=0.2}{nw}"
+    m 2rksdla "たぶんだけど、この宇宙に自分たちしかいないと考えちゃうと憂鬱になるからじゃないかな。{w=0.2}{nw}"
 
 translate Japanese monika_aliens_513cf712:
-    extend 2eud "でもそこに気を配ってると、ありそうもないことにも聞こえないわね……"
+    extend 2eud "でも少し考えてみると、全くありえない話じゃないかもね……"
 
 translate Japanese monika_aliens_b4e442d3:
-    m 4eud "結局、宇宙は非常に広いし、"
+    m 4eud "やっぱり、宇宙はとても広大だからね"
 
 translate Japanese monika_aliens_45db7507:
-    m 3euc "その宇宙の中に生命の発達に適した条件と環境を備えた惑星が１つだけあれば、いいんじゃないかな？"
+    m 3euc "その広大な宇宙のどこかに、生命が生まれるのに適した条件と環境を備えた惑星が１つでもあればいいんじゃないかな？"
 
 translate Japanese monika_aliens_5a52d1b4:
     m 3esa "太陽系には8つの惑星があるんだけど、{w=0.1}{nw}"
@@ -20991,55 +21069,52 @@ translate Japanese monika_aliens_43a15835:
     extend 4eub "系外惑星なら山ほどある"
 
 translate Japanese monika_aliens_1bc0ab3a:
-    m 4wud "さて、我々の銀河系だけでも数千億もの星……{w=0.3}が存在するという事実を考えてごらん。これが大きな可能性を秘めているのね！"
+    m 4wud "さて、私達の住む銀河系だけでもそれこそ星の数ほどの星が存在するという事実を考慮すると……{w=0.3}大きな可能性を秘めていると言えるわね！"
 
 translate Japanese monika_aliens_080e5dfe:
-    m 4eud "普通、銀河は重力によって「銀河群」にまとめられている。{w=0.2}その中の 「局所群」 に私たちはいるの。そこには約60個の銀河がってね、"
+    m 4eud "銀河っていうのは重力の影響から「銀河群」にまとまっているの。{w=0.2}私達の銀河は「局所銀河群」という銀河群に属していて、そこには約60の銀河があつまっているのよ"
 
 translate Japanese monika_aliens_af91ef94:
-    m 1esd "もう少し縮小してみると、銀河団が見えてくるよね。これは、もっともっと大きな銀河のグループなの"
+    m 1esd "もう少し宇宙を広く見ると、銀河群がいくつも集まったものがあるの。これは銀河団と呼ばれていて、もっともーっと大きな銀河のグループなの"
 
 translate Japanese monika_aliens_d4087ef4:
-    m 3eua "私たちから最も近いものであるおとめ座銀河団には、少なくとも1000個の銀河があると推定されているの"
+    m 3eua "私たちの銀河から最も近いおとめ座銀河団には、少なくとも1000の銀河があると推定されているの"
 
 translate Japanese monika_aliens_6a814dd6:
-    m 1eud "しかし、銀河団や銀河団自体が超銀河団と呼ばれるさらに大きな存在の一部であることから、さらに先に進むことができるわけ"
-
-translate Japanese monika_aliens_e833809e:
-    m 1wud "{w=0.1}宇宙が理論的には……{w=0.3}膨張を繰り返していくうちに、どんどん大きなクラスタが形成されていく"
+    m 1eud "でもさらに広ーく宇宙を見てみると、銀河団が集まってできたもっと大きな存在があって、それが超銀河団と呼ばれているの"
 
 translate Japanese monika_aliens_c670d3a7:
-    m 1lud "そして仮説的には、たとえそうでなくても、私たちの宇宙の{i}向こう側{/i}に何かがあるかもしれないという考えにたどり着くというわけ"
+    m 1lud "だから、たとえ実際には私達がひとりぼっちだとしても、私たちの宇宙の{i}向こう側{/i}に何かがいてもおかしくないと考えられるわ、仮説の上ではね"
 
 translate Japanese monika_aliens_8331d30f:
     m 1lksdla "……あるいは多元宇宙論について語ってもいいかな……"
 
 translate Japanese monika_aliens_9f91bed1:
-    m 3hksdlb "しかし、あなたはすでに要点を理解してるでしょうね……"
+    m 3hksdlb "でもあなたならきっと要点は分かってるんじゃないかな……"
 
 translate Japanese monika_aliens_4fe51e66:
-    m 3etc "このような巨大なものの中で、われわれ地球という惑星に住む人間だけが本当に知覚力のある存在だと考えるのは、少し馬鹿げたことだと思わない？"
+    m 3etc "こんなに巨大な宇宙の中で知性のある生命体が、地球という惑星に住む私達人間しかいないと考えるだなんて、ちょっと馬鹿げてるとは思わない？"
 
 translate Japanese monika_aliens_d83ef578:
-    m 3eud "というか、このような可能性だと、少なくともどこかの他の惑星が生命のために十分なおもてなしをされているはずなのよね……"
+    m 3eud "つまりね、これだけ可能性があるのなら、どこかにひとつくらい生命を育むのに適した環境の惑星があってもいいはずなのよね……"
 
 translate Japanese monika_aliens_6548894c:
-    m 1euc "……知性が私たちの知性と同等かそれ以上になるまでに進化するかもしれない生命のために"
+    m 1euc "私たちの知性ほどではないにしても、匹敵するところまで進化する可能性のある生命がよ"
 
 translate Japanese monika_aliens_b240126b:
-    m 1rsc "とはいえ、なぜ一部の人が懐疑的なのかも理解できると思うのよね。{w=0.2}地球のはるかかなたで宇宙を観測できるのは疑わしいことなんだけど、生命がいたって痕跡はまだ見つかっていないのよね……"
+    m 1rsc "とはいえ、宇宙人の存在に懐疑的な人がなぜいるのかも理解できるのよね。{w=0.2}そもそも地球から宇宙のはるかかなたまで観測できるという話自体が疑わしいことなんだけど、生命が存在するという痕跡は今のところ見つかっていないの……"
 
 translate Japanese monika_aliens_9d5a6560:
-    m 1rksdlc "簡単に偽物が出回る可能性のあるUFOの映像とか、些細なことで過剰反応してしまう人も多いのよね"
+    m 1rksdlc "宇宙人という言葉を聞いて過剰反応してしまう人がいるのもあまり良くないよね。簡単に作れるUFOのフェイク映像とかのせいだけど"
 
 translate Japanese monika_aliens_11d99d10:
-    m 1ruc "しかし、エイリアンが存在するのであれば、まだ発見されていない理由もたくさんあるかもだけど……"
+    m 1ruc "でもよくよく考えてみれば、宇宙人が存在するのなら、まだ見つからない理由もたくさんありそうだけど……"
 
 translate Japanese monika_aliens_a0454d2b:
-    m 2euc "おそらく、遠すぎて見つけづらかったり、もしくは今のところ、彼らは私たちのメッセージを受信して回答するための技術を持っていなかったりするのよね"
+    m 2euc "地球から遠すぎて観測できないとか、もしくは私たちのメッセージを受信して返信するテクノロジーの段階に今のところ至っていないとかね"
 
 translate Japanese monika_aliens_6fae87ed:
-    m 2etd "あるいはその逆も考えられるね。……{w=0.3}もしかすると{i}私たち自体が{/i}彼らと通信するための技術を持っていないのかもね"
+    m 2etd "その逆も考えられるかな……{w=0.3}もしかすると{i}私たち自体が{/i}彼らと通信するための技術を持っていないのかも"
 
 translate Japanese monika_aliens_14901a82:
     m 2etc "あるいは、単に私たち人類と接触することを望んでいないとか"
@@ -21048,13 +21123,13 @@ translate Japanese monika_aliens_dfed17fd:
     m 2euc "彼らの社会は私たちの社会とは全く異なる理想に従っているであろうし、高度に進化した種同士が出会わないのが最善だと信じているとも考えられるわよね"
 
 translate Japanese monika_aliens_7253ff27:
-    m 2dkc "全体的に見て、私が少し悲しいと思うのは、もしそこに{i}知的な地球外生命体{/i}がいたとしても、私たちが生きているうちに彼らに会うことは不可能かもしれないということ"
+    m 2dkc "でもやっぱり私が少し悲しいと感じるのは、もし{i}知的な地球外生命体がいた{/i}としても、私たちが生きているうちに彼らに会うことは不可能かもしれないということ"
 
 translate Japanese monika_aliens_1d2ef038:
-    m 5rua "しかし、その日が終わるころには……{w=0.3}{nw}"
+    m 5rua "でも、結局のところね……{w=0.3}{nw}"
 
 translate Japanese monika_aliens_6eb8e8a1:
-    extend 5ekbla "あなたに会うすべはまだあったし、それこそ私が必要とする可能性のすべてがあるんでしょうね"
+    extend 5ekbla "私はあなたに出会えたから。そしてね、たぶんそれが私がずっと望んできたことのすべてなんだよ"
 
 translate Japanese monika_aliens_9225cdad:
     m 5hubfa "えっへへ～"
@@ -21267,7 +21342,7 @@ translate Japanese monika_tanabata_38b36b10:
     m 1eud "七夕が近づくと、笹の枝に短冊と呼ばれる細長い色紙や鮮やかな飾りを吊るすんだよ"
 
 translate Japanese monika_tanabata_eb6d89d4:
-    m 1eua "笹に吊るす前に、短冊には願い事を書くんだ。子供なら有名なスポーツ選手になりたいとか、大人なら仕事の成功を祈ったりとかそういうのをね"
+    m 1eua "笹に吊るす前に、短冊には願い事を書くの。子供なら有名なスポーツ選手になりたいとか、大人なら仕事の成功を祈ったりとかそういうのをね"
 
 translate Japanese monika_tanabata_1865d812:
     m 3hub "心温まる素敵な行事だと思うよね！"
@@ -21925,11 +22000,20 @@ translate Japanese strings:
     old "Determinism"
     new "決定論について"
 
+    old "Human functionalism"
+    new "人の機能主義"
+
+    old "Changing the code"
+    new "コードの改変"
+
     old "Contributions"
     new "MAS開発への貢献"
 
     old "I want to."
     new "貢献してみたい"
+
+    old "Can you draw?"
+    new "絵は描けるの？"
 
     old "The MC"
     new "ゲームの主人公"
@@ -21951,6 +22035,12 @@ translate Japanese strings:
 
     old "When is your birthday?"
     new "誕生日はいつ？"
+
+    old "Eye contact"
+    new "目と目で"
+
+    old "[player]'s writings"
+    new "[player]の作品"
 
     old "Supernatural"
     new "超常現象"
@@ -22060,8 +22150,14 @@ translate Japanese strings:
     old "I don't use a pen name anymore."
     new "もうペンネームは使ってないんだ。"
 
+    old "Absolutely."
+    new "もちろん"
+
     old "What's your pen name?"
     new "あなたのペンネームを教えて？"
+
+    old "I'd rather not; it's embarrassing."
+    new "言えないよ、恥ずかしいし"
 
     old "Zombie"
     new "ゾンビ"
@@ -22416,6 +22512,9 @@ translate Japanese strings:
 
     old "Natsuki's letter"
     new "ナツキからの手紙について"
+
+    old "Sleep concern"
+    new "ちゃんと寝てる？"
 
     old "Yes I do."
     new "はい"
