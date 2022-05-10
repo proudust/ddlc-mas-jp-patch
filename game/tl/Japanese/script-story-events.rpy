@@ -777,7 +777,7 @@ translate Japanese _call_mas_wx_cmd_5_2bbce78e:
     m 1dsc "だけど......"
 
 translate Japanese _call_mas_wx_cmd_5_81e1d29f:
-    m 1esc "あんなデータをどこにでも持ち運ぶわけにもいかないと思って......"
+    m 1esc "あんな存在価値のないデータをどこにでも持ち運ぶわけにもいかないと思って......"
 
 translate Japanese _call_mas_wx_cmd_5_033963e2:
     m 3wub "そこで、自分をファイルに変換して持ち運べる方法を思いついたの！"

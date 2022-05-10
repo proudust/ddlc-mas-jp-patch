@@ -3104,7 +3104,7 @@ translate Japanese monika_cold_fbd16bea:
     m 1esc "ただ……一つだけ認めないといけないことがあるわ"
 
 translate Japanese monika_cold_54a13c73:
-    m 1hua "寄り添うのに合うのは寒い天気よね。うふふっ！{w=0.2}{nw}"
+    m 1hua "寄り添うのに合うのは寒い天気よね。{w=0.2}{nw}"
 
 translate Japanese monika_cold_a4b5997d:
     extend 1hub "あはは！"
@@ -3152,7 +3152,7 @@ translate Japanese monika_route_48e4a3d5:
     m 2lksdlc "それに部活もまだ存在してたかもしれないわね……"
 
 translate Japanese monika_route_fc534e08:
-    m "……部の皆と部室で詩を交換するだけ"
+    m "……部屋でみんなと詩を見せ合いっこしていく、そんな部活が。"
 
 translate Japanese monika_route_132bb3df:
     m 1eka "[player]君がそれを楽しんだことはわかってる"
@@ -21083,6 +21083,9 @@ translate Japanese monika_aliens_d4087ef4:
 translate Japanese monika_aliens_6a814dd6:
     m 1eud "でもさらに広ーく宇宙を見てみると、銀河団が集まってできたもっと大きな存在があって、それが超銀河団と呼ばれているの"
 
+translate Japanese monika_aliens_e833809e:
+    m 1wud "宇宙は絶えず膨張しててね…… {w=0.3}理論的には、ますます大きなクラスター/塊が形成されるはずなの！"
+
 translate Japanese monika_aliens_c670d3a7:
     m 1lud "だから、たとえ実際には私達がひとりぼっちだとしても、私たちの宇宙の{i}向こう側{/i}に何かがいてもおかしくないと考えられるわ、仮説の上ではね"
 
@@ -21147,10 +21150,10 @@ translate Japanese monika_mc_is_gone_dc95be39:
     m 3esc "そんなこともあって、無理に気を引かせるようなことをするだけじゃダメだったの……あの人のデータにどうやったら干渉できるかもわからなかったし"
 
 translate Japanese monika_mc_is_gone_5584c1bd:
-    m 2rsc "いずれにせよ、{w=0.1}{nw}"
+    m 2rsc "いずれにせよ{w=0.1}{nw}"
 
 translate Japanese monika_mc_is_gone_839a24c9:
-    extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
+    extend 2esc "、『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
 
 translate Japanese monika_mc_is_gone_03e11fc3:
     m 2ruc "あの人は……{w=0.3}私がゲームを改変していた頃から、消えかかっていったみたいなの"
