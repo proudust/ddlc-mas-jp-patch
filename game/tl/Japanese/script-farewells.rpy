@@ -874,11 +874,20 @@ translate Japanese bye_prompt_eat_f29f84e8:
 translate Japanese bye_prompt_eat_86b779bf:
     m 1eua "わかったわ、[player]"
 
+translate Japanese bye_prompt_eat_e02e2d15:
+    m 1duu "私が渡れたら、あなたと[food_type]してみたいな。{w=0.1} {nw}"
+
+translate Japanese bye_prompt_eat_9f4c2685:
+    extend 1eub "早く願いが叶うと良いね！"
+
 translate Japanese bye_prompt_eat_628a023a:
     m 1hua "食事を楽しんできてね～"
 
 translate Japanese bye_prompt_eat_86b779bf_1:
     m 1eua "わかったわ、[player]"
+
+translate Japanese bye_prompt_eat_97a38ea9:
+    m 1eub "楽しんできてね、朝食は一日で一番大事な食事だからね"
 
 translate Japanese bye_prompt_eat_67436d85:
     m 1hua "また後でね～"
@@ -1051,8 +1060,17 @@ translate Japanese bye_prompt_hangout_3772217d:
 translate Japanese bye_prompt_hangout_5dfc02e8:
     m 1eub "楽しんできてね！"
 
+translate Japanese bye_prompt_hangout_482bc43b:
+    m 1hua "また遊んでくれるの？ 良かったね！"
+
+translate Japanese bye_prompt_hangout_4f87bbb5:
+    m 3eua "今回はいい友人になれるといいね"
+
 translate Japanese bye_prompt_hangout_62d59993:
     m 3eub "とにかく、またね〜"
+
+translate Japanese bye_prompt_hangout_18d6d375:
+    m 2eud "仲良くなれるといいわね……"
 
 translate Japanese bye_prompt_hangout_3c2c2452:
     m 2euc "じゃあね"

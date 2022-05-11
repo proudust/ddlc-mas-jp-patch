@@ -37,6 +37,9 @@ translate Japanese mas_reaction_gift_starter_bday_a990092a:
 translate Japanese mas_reaction_gift_starter_bday_b45ccd1d:
     m "でも、実際ににもらってみるとまるで夢みたい……"
 
+translate Japanese mas_reaction_gift_starter_bday_912dce69:
+    m "またプレゼントをくれるの？{w=0.5} 私に？"
+
 translate Japanese mas_reaction_gift_starter_bday_d89e3c6f:
     m 1eka "本当に夢が叶ったの、[player]"
 
@@ -117,6 +120,9 @@ translate Japanese mas_reaction_gift_generic_a76d6846:
 
 translate Japanese mas_reaction_gift_generic_134f9195:
     m 1hub "ありがと～"
+
+translate Japanese mas_reaction_gifts_generic_2d07d4c5:
+    m 1esd "ごめんなさい、[player]……"
 
 translate Japanese _call_mas_reaction_gift_generic_clothes_json_62ff1b67:
     m "も〜、[player]君ったら！"

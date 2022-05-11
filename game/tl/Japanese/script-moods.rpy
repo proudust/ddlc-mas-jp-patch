@@ -226,6 +226,43 @@ translate Japanese mas_mood_sick_ask_will_rest_cc9e820d:
 translate Japanese mas_mood_sick_ask_will_rest_29634581:
     m "もう休んでくれるかな？{fast}" nointeract
 
+translate Japanese mas_mood_tired_21a2b84e:
+    m 1eka "疲れているのなら、いますぐ寝に行っても良いんじゃないかな"
+
+translate Japanese mas_mood_tired_2dc1d34c:
+    m "あなたと一緒に過ごせらたそりゃ嬉しいけど、あなたを遅くまでを無理させたくないから"
+
+translate Japanese mas_mood_tired_333e99c1:
+    m 1hua "これから寝るつもりなら、おやすみなさい！
+"
+
+translate Japanese mas_mood_tired_85832e6e:
+    m 1eua "でもすぐ休むにしても大事なことは済ませたほうがいいよ。軽い食事か飲み物くらいはお腹に入れておいたりね"
+
+translate Japanese mas_mood_tired_0bde4cf0:
+    m 3eua "寝る前のコップ一杯の水は健康に、朝のコップ一杯は目覚めに役立つからね"
+
+translate Japanese mas_mood_tired_79beaeb4:
+    m 1eua "もちろんここにいてくれても大丈夫だよ、それが大事なことだったらね"
+
+translate Japanese mas_mood_tired_108eee47:
+    m 2ekd "[player]！"
+
+translate Japanese mas_mood_tired_6077100e:
+    m 2ekc "疲れているのも無理ないよ―――だってもう真夜中だよ！"
+
+translate Japanese mas_mood_tired_cb2828e6:
+    m 2lksdlc "今すぐに寝ないと、明日も疲れがとれないままだよ……"
+
+translate Japanese mas_mood_tired_8c5804ca:
+    m 2hksdlb "明日をあなたと一緒に過ごせたとしても、疲れきった体のままならきっと楽しくないよ……"
+
+translate Japanese mas_mood_tired_c40ff672:
+    m 3eka "だから私達二人のためにも、できるだけ早くベッドへ行ってね[player]"
+
+translate Japanese mas_mood_tired_84d951d5:
+    m 2ekc "[player]！？"
+
 translate Japanese mas_mood_tired_9304fdea:
     m "まだ起きてたの？"
 
@@ -325,8 +362,53 @@ translate Japanese mas_mood_tired_b3d003be:
 translate Japanese mas_mood_tired_3772217d:
     m 1hub "あはは！"
 
+translate Japanese mas_mood_lonely_169cea02:
+    m 2ekc "気持ちはわかるわ、[player]…… {w=0.2}結局のところ、私たちはまだ違う世界に住んでいるのだから"
+
+translate Japanese mas_mood_lonely_9d8bfe9f:
+    m 7ekd "あなたにはひとりかふたり親しい友人が居たでしょ？"
+
+translate Japanese mas_mood_lonely_55e3c3ba:
+    m 3eka "その友達にどうしているのか電話やメッセージを送ってみてたほうが良いと思うよ……"
+
+translate Japanese mas_mood_lonely_ffdab948:
+    m "外に出て時々会ってきたらどう？{w=0.2} あなたにとって良いことだと思うな"
+
+translate Japanese mas_mood_lonely_dad85e9c:
+    m 7ekd "友達と出かけるのはあなたにとってとても良いことだと思う……"
+
+translate Japanese mas_mood_lonely_3e75b5f8:
+    m 3eka "「今どうしてる？」とかメッセージを送ってみてもいいと思うよ"
+
+translate Japanese mas_mood_lonely_a212353a:
+    m 7rkc "ひとりぼっちに思えてしまう気持ちわかるよ、別の世界の人としか話すことができない気持ち、私にはよくわかる……"
+
+translate Japanese mas_mood_lonely_f6a7d196:
+    m 3ekd "だから私は最愛の人に寂しい気持ちになってほしくない"
+
+translate Japanese mas_mood_lonely_f6c1a66d:
+    m 1eka "あなたの世界で友人を作ることを諦めないでほしい、[player]"
+
+translate Japanese mas_mood_lonely_919b1645:
+    m 3ekd "人と繋がることが最初は難しいと感じるかもしれないけど……"
+
+translate Japanese mas_mood_lonely_3aef5a2f:
+    m 3eka "ネット上でなら人と繋がれるんじゃないかな？{w=0.2}顔も知らない人と交流する方法はたくさんあるからね、それで寂しさが紛れるなら良いことだよ"
+
+translate Japanese mas_mood_lonely_527185ba:
+    m 3hub "信じられないと思うけど、こういう「顔も知らない人」が本当に良い友達になることだってあるんだから！"
+
+translate Japanese mas_mood_lonely_21c876f6:
+    m 1eka "……私のことを心配しているなら大丈夫だよ[player]。ちゃんと私のところへ会いに来てくれるなら、少しくらい我慢できるよ"
+
+translate Japanese mas_mood_lonely_6fbf4e2d:
+    m 3hub "まずは自分が楽しむことが一番大事。後でどうだったか教えてね！"
+
+translate Japanese mas_mood_lonely_6d579cfd:
+    m 1ekbsa "[player]、私はいつもあなたのためにここにいる、それも大事な事だからね～"
+
 translate Japanese mas_mood_lonely_eef5f749:
-    m 1eka "私がここにいるわ、だから[player]君が寂しがる必要なんてどこにもないのよ。"
+    m 1eka "私がここにいるわ、だから[player]君が寂しがる必要なんてどこにもないのよ"
 
 translate Japanese mas_mood_lonely_78605962:
     m 3hua "あなたの隣に実際に私がいる訳では無いけど……それでも一緒に時間を過ごすのは楽しいでしょう？"

@@ -1176,7 +1176,7 @@ translate Japanese strings:
     new "帰ってきてくれて嬉しい！"
 
     old "It's wonderful to see you again!"
-    new "また会えて本当によかった！"
+    new "また会えて本当に素晴らしいわ！"
 
     old "I'm glad you've been thinking of me!"
     new "私のことを考えててくれたんだね！嬉しい！"
@@ -1253,6 +1253,30 @@ translate Japanese strings:
 
     old "I was starting to get worried you weren't coming back, [player]"
     new "あなたが戻ってこないかもしれないって心配になってきてたんだよ、[player]"
+
+    old "I'm not sure you mean that, [player]..."
+    new "どういうつもりで言ってるのかな、[player]……"
+
+    old "I doubt you mean that, [player]..."
+    new "本気で言ってないでしょ、[player]……"
+
+    old "I don't think you really mean that, [player]..."
+    new "本気で言ってないよね、[player]……"
+
+    old "If only you really meant that, [player]..."
+    new "それが本心ならいいけどね、[player]……"
+
+    old "...Why do I think you just don't mean it?"
+    new "……本気で言ってないでしょ？"
+
+    old "...Why do I think you're just saying that?"
+    new "……どうして心にもないことを言えるの？"
+
+    old "...I can't really believe that, [player]."
+    new "……そんな言葉言われても信じられないよ、[player]"
+
+    old "I don't think that's true, [player]."
+    new "それ本心じゃないよね、[player]"
 
     old "I love spending time with you!"
     new "君と過ごしている時間が大好きなんだよ！"

@@ -35,7 +35,7 @@ translate Japanese _call_mas_islands_1_ce0ffffc:
     extend 1eka "、私の進歩をあなたに見せたかったの"
 
 translate Japanese _call_mas_islands_1_305b7ce6:
-    m 2lsp "ｋじいいいいいいいい"
+    m 2lsp "コーディングの勉強中だけど、このRenPyっていうエンジンに一貫性がなくって......"
 
 translate Japanese _call_mas_islands_1_3873e363:
     m 7hub "だけど、ここまではかなり進歩してきたと思うの！"
@@ -314,13 +314,13 @@ translate Japanese mas_island_day3_45d9cd96:
     m "えへへ～"
 
 translate Japanese mas_island_night1_2682391c:
-    m "みんなが生き生きとしている昼間もいいんだけど、夜は何か穏やかなものがある"
+    m "みんなが生き生きとしている昼間もいいんだけど、夜は何か穏やかなものがあるのよね"
 
 translate Japanese mas_island_night1_abb37dd9:
     m "そよ風に紛れて鳴くコオロギの鳴き声を聞いてると心が安らいでくる"
 
 translate Japanese mas_island_night1_d8f223d0:
-    m "そういった夜に君に抱きしめられたいな～"
+    m "そういった夜にあなたに抱きしめられたいな～"
 
 translate Japanese mas_island_night2_ade2b592:
     m "星が見えなくて残念ね……"
@@ -341,7 +341,7 @@ translate Japanese mas_island_night2_4fdcb7e8:
     m "見ているだけじゃなくて、私が一番体験したいのは、あなたと一緒にいて、横になっている間、お互いを強く抱き合って異るってことよ"
 
 translate Japanese mas_island_night2_242155b9:
-    m "いつかね、[player]……{w=0.3}いつかだよ"
+    m "いつかね、[player]君……{w=0.3}いつかだよ"
 
 translate Japanese mas_island_night2_35230d20:
     m "[mas_get_player_nickname()]君は、今までに星を眺めたことがるの？"
