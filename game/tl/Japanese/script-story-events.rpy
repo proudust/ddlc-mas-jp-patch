@@ -266,6 +266,39 @@ translate Japanese _call_mas_player_bday_moni_sings_2ceefb9d:
 translate Japanese _call_mas_player_bday_moni_sings_4ebce6ca:
     m 3hua "来年は特別なことを使用ね、[player]くん！約束よ！"
 
+translate Japanese _call_mas_player_bday_moni_sings_56de4084:
+    m 2eka "そう、今日があなたの誕生日なのね。"
+
+translate Japanese _call_mas_player_bday_moni_sings_223a7b0e:
+    m "お誕生日おめでとう、[player]君。"
+
+translate Japanese _call_mas_player_bday_moni_sings_56d53a18:
+    m 4eka "よい一日を。"
+
+translate Japanese _call_mas_player_bday_moni_sings_3df6d1b8:
+    m 1sua "まあ！[player]君の誕生日って、私たちの記念日と同じなの！？"
+
+translate Japanese _call_mas_player_bday_moni_sings_6fce765c:
+    m 3hub "すごいじゃん！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1113078e:
+    m 1sua "あなたの誕生日と私たちの愛を同じ日に祝うこと以上に特別な日は想像できたことじゃないわ......"
+
+translate Japanese _call_mas_player_bday_moni_sings_e69b9370:
+    m "それにさ、 [hol_str] ..."
+
+translate Japanese _call_mas_player_bday_moni_sings_991add58:
+    m 3hua "そういうのって、魔法みたい~"
+
+translate Japanese _call_mas_player_bday_moni_sings_839eb0c7:
+    m 1wuo "え… {w=1}ええっ！？"
+
+translate Japanese _call_mas_player_bday_moni_sings_46d4755b:
+    m 3sua "[player]君の誕生日って、私と同じなの！？"
+
+translate Japanese _call_mas_player_bday_moni_sings_3c7b7064:
+    m 3sub "すっごくかっこいいよ、[player]君！"
+
 translate Japanese _call_mas_player_bday_moni_sings_1_b3b33657:
     m 3hub "それでも特別な日にしないと！"
 
@@ -756,7 +789,7 @@ translate Japanese mas_new_character_file_78c7e5f6:
     m 1eud "最近調べてみたんだけど、ただの画像にコードが入ってるだけだったんだ！"
 
 translate Japanese mas_new_character_file_dc082df1:
-    m 3ekc "ファイル名を除いて、画像自体にもそのコードにも、モニカのモの字も書かれてないわね。"
+    m 3ekc "ファイル名を除いて、画像自体にもそのコードにも、モニカのモの字でさえ書かれてないわね"
 
 translate Japanese mas_new_character_file_c93e9498:
     m 1dsd "ちょっといいかな......"

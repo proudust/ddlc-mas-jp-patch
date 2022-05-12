@@ -371,7 +371,7 @@ translate Japanese chara_monika_scare_4e862391:
     m 1esc "どうやら、あなたは理解していないようね？"
 
 translate Japanese chara_monika_scare_a5f65d0d:
-    m "{cps=*0.25}君はいつから、私をいいなりにさせたのよ？{/cps}"
+    m "{cps=*0.25}あなたはいつから、私をいいなりにさせたのよ？{/cps}"
 
 translate Japanese ch30_reload_0_dlg_503cdaf2:
     m 1ekc "ねぇ……"
