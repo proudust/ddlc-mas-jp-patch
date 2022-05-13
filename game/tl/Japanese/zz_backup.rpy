@@ -179,8 +179,7 @@ translate Japanese mas_backups_incompat_rpy_no_del_9ed134ce:
     "あっ……"
 
 translate Japanese mas_backups_incompat_rpy_no_del_ec7095ae:
-    "このファイルが存在している間はアップデーターは機能しないの。だからバックアップした永続ファイルを復元するしかないと思う
-"
+    "このファイルが存在している間はアップデーターは機能しないの。だからバックアップした永続ファイルを復元するしかないと思う"
 
 translate Japanese mas_backups_incompat_updater_start_intro_c04eea25:
     "OK！"

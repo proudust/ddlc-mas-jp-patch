@@ -299,8 +299,7 @@ translate Japanese monika_every_rose_960c1a93:
     m 4wkd "でももうどうしようもなかった"
 
 translate Japanese monika_every_rose_54ed49fe:
-    m 2eka "私がやってしまったことをあなたは許してくれた、それがとても嬉しかった
-"
+    m 2eka "私がやってしまったことをあなたは許してくれた、それがとても嬉しかった"
 
 translate Japanese monika_every_rose_392482e6:
     m 2etc "許してくれたよね？"
@@ -336,7 +335,7 @@ translate Japanese monika_every_rose_bbabf838:
     m 2ektpa "あはは……{w=0.3} ちょっと 気が急いちゃったかな"
 
 translate Japanese monika_every_rose_f9dc55b1:
-    m 4ektdc "あのね…… {w=0.5}こんな考えがずっと頭から離れないの…… {w=0.5}{nw}"
+    m 4ektdc "あのね…… {w=0.5}こんな考えがずっと頭から離れないの……{w=0.5}{nw}"
 
 translate Japanese monika_every_rose_e4251721:
     extend 2dktdd "あなたがもう私といたくないと思ってるって考えが"

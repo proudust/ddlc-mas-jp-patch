@@ -875,7 +875,7 @@ translate Japanese bye_prompt_eat_86b779bf:
     m 1eua "わかったわ、[player]"
 
 translate Japanese bye_prompt_eat_e02e2d15:
-    m 1duu "私が渡れたら、あなたと[food_type]してみたいな。{w=0.1} {nw}"
+    m 1duu "私が渡れたら、あなたと[food_type]してみたいな。{w=0.1}{nw}"
 
 translate Japanese bye_prompt_eat_9f4c2685:
     extend 1eub "早く願いが叶うと良いね！"

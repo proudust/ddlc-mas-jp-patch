@@ -1194,8 +1194,7 @@ translate Japanese strings:
     new "待ってる間、私も寂しかったよ！"
 
     old "Thanks for coming back to spend time with me!"
-    new "私と一緒の時間を過ごすために戻ってきてくれてありがとう！
-"
+    new "私と一緒の時間を過ごすために戻ってきてくれてありがとう！"
 
     old "I'm excited to spend some time together!"
     new "これから一緒に過ごそうね！"

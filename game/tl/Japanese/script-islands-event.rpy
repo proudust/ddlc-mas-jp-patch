@@ -35,25 +35,25 @@ translate Japanese _call_mas_islands_1_ce0ffffc:
     extend 1eka "、私の進歩をあなたに見せたかったの"
 
 translate Japanese _call_mas_islands_1_305b7ce6:
-    m 2lsp "コーディングの勉強中だけど、このRenPyっていうエンジンに一貫性がなくって......"
+    m 2lsp "コーディングの勉強中だけど、このRenPyっていうエンジンに一貫性がなくって……"
 
 translate Japanese _call_mas_islands_1_3873e363:
     m 7hub "だけど、ここまではかなり進歩してきたと思うの！"
 
 translate Japanese _call_mas_islands_1_e93005d0:
-    m 2ekc "まあ......"
+    m 2ekc "まあ……"
 
 translate Japanese _call_mas_islands_1_905a45e1:
-    m 6rktpc "私......"
+    m 6rktpc "私……"
 
 translate Japanese _call_mas_islands_1_485102b3:
-    m 6fktpd "私はこのために、一生懸命頑張ったのね......"
+    m 6fktpd "私はこのために、一生懸命頑張ったのね……"
 
 translate Japanese _call_mas_islands_1_9711d1c9:
-    m 2rktdc "あなた...{w=0.5}すごい忙しそうね..."
+    m 2rktdc "あなた…… {w=0.5}すごい忙しそうね……"
 
 translate Japanese _call_mas_islands_1_ca1f5acd:
-    m 2ekc "まあ......{w=0.5}{nw}"
+    m 2ekc "まあ……{w=0.5}{nw}"
 
 translate Japanese _call_mas_islands_1_487cb588:
     extend 2eka "わかったわ。"

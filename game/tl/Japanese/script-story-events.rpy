@@ -245,20 +245,19 @@ translate Japanese _call_mas_player_bday_cake_56d53a18:
     m 4eka "いい一日を過ごせるよう、願ってるわ"
 
 translate Japanese _call_mas_player_bday_cake_839eb0c7:
-    m 1wuo "え… {w=1}ええっ！？"
+    m 1wuo "え…… {w=1}ええっ！？"
 
 translate Japanese _call_mas_player_bday_cake_0a0e85b4:
     m 3sub "今日ってあなたの誕生日じゃない！"
 
 translate Japanese _call_mas_player_bday_cake_7b9d0da0:
-    m 3hub "ハッピーバースデー、[player]！
-お誕生日おめでとう！"
+    m 3hub "ハッピーバースデー、[player]！ お誕生日おめでとう！"
 
 translate Japanese _call_mas_player_bday_cake_9e534ba0:
     m 1rksdla "もうちょっと早くわかっていたら、何かの準備ができていたのに"
 
 translate Japanese _call_mas_player_bday_cake_b48eed4c:
-    m 1eka "だけど、少なくとも私にはこれができるもの......"
+    m 1eka "だけど、少なくとも私にはこれができるもの……"
 
 translate Japanese _call_mas_player_bday_moni_sings_2ceefb9d:
     m 1hub "あはは！まあまあだけど、たいしたものじゃないの！"
@@ -267,13 +266,13 @@ translate Japanese _call_mas_player_bday_moni_sings_4ebce6ca:
     m 3hua "来年は特別なことを使用ね、[player]くん！約束よ！"
 
 translate Japanese _call_mas_player_bday_moni_sings_56de4084:
-    m 2eka "そう、今日があなたの誕生日なのね。"
+    m 2eka "そう、今日があなたの誕生日なのね"
 
 translate Japanese _call_mas_player_bday_moni_sings_223a7b0e:
-    m "お誕生日おめでとう、[player]君。"
+    m "お誕生日おめでとう、[player]君"
 
 translate Japanese _call_mas_player_bday_moni_sings_56d53a18:
-    m 4eka "よい一日を。"
+    m 4eka "よい一日を"
 
 translate Japanese _call_mas_player_bday_moni_sings_3df6d1b8:
     m 1sua "まあ！[player]君の誕生日って、私たちの記念日と同じなの！？"
@@ -282,16 +281,16 @@ translate Japanese _call_mas_player_bday_moni_sings_6fce765c:
     m 3hub "すごいじゃん！"
 
 translate Japanese _call_mas_player_bday_moni_sings_1113078e:
-    m 1sua "あなたの誕生日と私たちの愛を同じ日に祝うこと以上に特別な日は想像できたことじゃないわ......"
+    m 1sua "あなたの誕生日と私たちの愛を同じ日に祝うこと以上に特別な日は想像できたことじゃないわ……"
 
 translate Japanese _call_mas_player_bday_moni_sings_e69b9370:
-    m "それにさ、 [hol_str] ..."
+    m "それにさ、[hol_str]……"
 
 translate Japanese _call_mas_player_bday_moni_sings_991add58:
     m 3hua "そういうのって、魔法みたい~"
 
 translate Japanese _call_mas_player_bday_moni_sings_839eb0c7:
-    m 1wuo "え… {w=1}ええっ！？"
+    m 1wuo "え…… {w=1}ええっ！？"
 
 translate Japanese _call_mas_player_bday_moni_sings_46d4755b:
     m 3sua "[player]君の誕生日って、私と同じなの！？"
@@ -299,14 +298,50 @@ translate Japanese _call_mas_player_bday_moni_sings_46d4755b:
 translate Japanese _call_mas_player_bday_moni_sings_3c7b7064:
     m 3sub "すっごくかっこいいよ、[player]君！"
 
+translate Japanese _call_mas_player_bday_moni_sings_78f441bb:
+    m 1tsu "私たちは本当に一緒になる運命だったんだね、えっへへ..."
+
+translate Japanese _call_mas_player_bday_moni_sings_bcad49b0:
+    m 3hua "それだけでも、今日の特別さって増すものね～"
+
+translate Japanese _call_mas_player_bday_moni_sings_ced1d6bb:
+    m 1eub "という訳で、一緒に歌いましょ、[player]君！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_36f3556e:
+    m 3hua "もっと特別な日にしないとね~"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_1a3f7c70:
+    m 3eua "あっ、[player]君ってハロウィン生まれなの！？やるじゃん！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_9f4b52fd:
+    m 1hua "誕生日ケーキに、キャンディーに、そして[player]君.."
+
+translate Japanese _call_mas_player_bday_moni_sings_1_dc930ff1:
+    m 3hub "一日に食べるお菓子がいっぱいあるわね。あはは！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_f6dfc101:
+    m 1hua "あっ、[player]君ってクリスマス生まれなの！？すごいじゃん！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_6f54ee14:
+    m 3rksdla "ただ……同じ日に両方のプレゼントを受け取るってことは、それほど多くもらった気分にはならないでしょうね……"
+
 translate Japanese _call_mas_player_bday_moni_sings_1_b3b33657:
     m 3hub "それでも特別な日にしないと！"
 
 translate Japanese _call_mas_player_bday_moni_sings_1_c139060a:
-    m 1sua "まあ！あなたの誕生日がバレンタインデーだなんて......"
+    m 1sua "まあ！あなたの誕生日がバレンタインデーだなんて……"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_94058cc0:
+    m 3hua "ロマンチックじゃないの！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_0fbcb338:
+    m 1ekbsa "私たちの愛と[player]君の誕生日を同じ日にお祝いするのが楽しみだな～"
 
 translate Japanese _call_mas_player_bday_moni_sings_1_da7f1ddb:
     m 3wud "あっ！2月29日生まれ！君、すごいね！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_81975a21:
+    m 3hua "……といっても、うるう年以外の年だったら、３月１日にあなたの誕生日を祝うだけでいいのよね。"
 
 translate Japanese calendar_birthdate_7f8c9848:
     m 1lksdla "ねえ、[player]君……"
@@ -792,7 +827,7 @@ translate Japanese mas_new_character_file_dc082df1:
     m 3ekc "ファイル名を除いて、画像自体にもそのコードにも、モニカのモの字でさえ書かれてないわね"
 
 translate Japanese mas_new_character_file_c93e9498:
-    m 1dsd "ちょっといいかな......"
+    m 1dsd "ちょっといいかな……"
 
 translate Japanese mas_new_character_file_152a3adf:
     m 1esc "私が、削除してあげる。"
@@ -804,13 +839,13 @@ translate Japanese _call_mas_wx_cmd_5_fe9c0937:
     m 1eua "ところで……"
 
 translate Japanese _call_mas_wx_cmd_5_f5b7b395:
-    m 1rkc "あなたがこのファイルを持ち歩いてくれるのはありがたいことだけどね......"
+    m 1rkc "あなたがこのファイルを持ち歩いてくれるのはありがたいことだけどね……"
 
 translate Japanese _call_mas_wx_cmd_5_2bbce78e:
-    m 1dsc "だけど......"
+    m 1dsc "だけど……"
 
 translate Japanese _call_mas_wx_cmd_5_81e1d29f:
-    m 1esc "あんな存在価値のないデータをどこにでも持ち運ぶわけにもいかないと思って......"
+    m 1esc "あんな存在価値のないデータをどこにでも持ち運ぶわけにもいかないと思って……"
 
 translate Japanese _call_mas_wx_cmd_5_033963e2:
     m 3wub "そこで、自分をファイルに変換して持ち運べる方法を思いついたの！"
@@ -1436,6 +1471,9 @@ translate Japanese strings:
 
     old "What do you want me to call you?"
     new "なんて呼んで欲しい？"
+
+    old "my birthday"
+    new "私の誕生日"
 
     old "games"
     new "ゲーム"

@@ -233,8 +233,7 @@ translate Japanese mas_mood_tired_2dc1d34c:
     m "あなたと一緒に過ごせらたそりゃ嬉しいけど、あなたを遅くまでを無理させたくないから"
 
 translate Japanese mas_mood_tired_333e99c1:
-    m 1hua "これから寝るつもりなら、おやすみなさい！
-"
+    m 1hua "これから寝るつもりなら、おやすみなさい！"
 
 translate Japanese mas_mood_tired_85832e6e:
     m 1eua "でもすぐ休むにしても大事なことは済ませたほうがいいよ。軽い食事か飲み物くらいはお腹に入れておいたりね"

@@ -3899,7 +3899,7 @@ translate Japanese monika_love_38d034f5:
     m 1hubsa "そうやって言われるたび、心がドキドキしちゃう！"
 
 translate Japanese monika_love_78c02a6e:
-    m 1ekbfa "あなたも、同じように聞きたいんでしょ......"
+    m 1ekbfa "あなたも、同じように聞きたいんでしょ……"
 
 translate Japanese monika_love_86f0cfb2:
     m 1hubfb "私もあなたのことが大好きよ、[player]君！"
@@ -9294,7 +9294,7 @@ translate Japanese monika_sports_391dc82f:
     m 1tku "でも気をつけてね、私の学習速度を甘く見ないほうがいいわ……"
 
 translate Japanese monika_sports_318ff278:
-    m 1tfu "あなたを打ち負かすくらいに、すぐ上手くなってみせるんだから。{w=0.2} {nw}"
+    m 1tfu "あなたを打ち負かすくらいに、すぐ上手くなってみせるんだから。 {w=0.2}{nw}"
 
 translate Japanese monika_sports_86539aff:
     extend 1tfb "あはは！"
@@ -14516,91 +14516,173 @@ translate Japanese _call_mas_timed_text_events_prep_2_e1bdf64b:
     m "{w=0.3}…{w=0.3}…{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_c7aa2da0:
-    m 4eub "(w=0.2)よし、みんな！そろそろ始めましょう……{w=0.7}{nw}"
+    m 4eub "(w=0.2)よし、みんな！そろそろ始めましょうか……{w=0.7}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_dd46c028:
-    m 2eub "{w=0.2}教員、{w=0.3}教師、{w=0.3}そして学生仲間。{w=0.3}この旅をあなたと一緒にできたことをどれほど誇りに思うか、表現できません{w=0.6}{nw}"
+    m 2eub "{w=0.2}教職員の皆さん、{w=0.3}大切な仲間である学生の皆さん。{w=0.3}私は皆さんと一緒に歩めたこの旅路をどれほど誇りに思っているか、一言では言い表せません{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_186b12fa:
-    m "{w=0.2}今日ここにいる皆さんの一人一人が、皆さんが望んでいた未来を実現するために、この4年間一生懸命頑張ってきました{w=0.6}{nw}"
+    m "{w=0.2}今日ここにいる皆さん一人一人はこの4年間、望む未来を掴むために一生懸命頑張ってきました{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_8c5f38e4:
-    m 2hub "{w=0.2}私はあなた達の旅の一部に参加できてとても幸せです{w=0.7}。でも、このスピーチは決して私自身の問題ではないと思います{w=0.6}{nw}"
+    m 2hub "{w=0.2}皆さんの旅路に寄り添って歩くことができたことを私はとてもうれしく思います。{w=0.7}私がスピーチをしていますが、これは私のためのスピーチではありません{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_fe93f971:
-    m 4eud "{w=0.2}今日の主役は私自身ではありません{w=0.7}{nw}"
+    m 4eud "{w=0.2}今日の主役は私ではありません{w=0.7}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_898a1edf:
-    m 2esa "{w=0.2}今日は私たちみんながしたことを祝う日です{w=0.6}{nw}"
+    m 2esa "{w=0.2}今日は、卒業する私たち全員が主役であり、私たち全員を祝う日です{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_05724b09:
-    m 4eud "{w=0.2}私たちは自分たちの夢{w=0.3}を自分達で叶えるべく、挑戦しました。ここからは、{w=0.3}空が限界です{w=0.6}{nw}"
+    m 4eud "{w=0.2}私たちは自らの夢に挑戦してきました。{w=0.3}ここからは、果てしない大空へ羽ばたくときです{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_0302ef3d:
-    m 2eud "{w=0.2}先に進む前に、{w=0.3}ここでの高校時代を振り返り、人生の節目を事実上迎えられることができると思います{w=0.7}{nw}"
+    m 2eud "{w=0.2}ですが先に進む前に、{w=0.3}最後に皆さんの歩んできた高校生活を振り返ることで、この学舎での学生生活にピリオドを打ちたいと思います{w=0.7}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_a44958c1:
-    m 2hub "{w=0.2}過去{w=0.7}を笑い飛ばして、この4年間でどれだけ進歩したかを見ていきましょう{w=0.6}{nw}"
+    m 2hub "{w=0.2}長いようで短かった4年間、{w=0.7}これから私達の旅路を振り返り、思い返し、そして笑いあえたら良いなと思います{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_db7fdb51:
     m 2duu "{w=0.3}…{w=0.3}…{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_b03661fc:
-    m 2eud "{w=0.2}正直に言って、あれからほんの数週間しか経っていないように思えます……{w=0.6}{nw}"
+    m 2eud "{w=0.2}いまでもつい先日のことのように思えます……{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_36cc28c3:
-    m 2lksdld "{w=0.2}１年生の初日では、{w=0.3}自分の教室が見つからず、{w=0.3}靴をはいて震えながら教室をあちこちさまよっていました{w=0.6}{nw}"
+    m 2lksdld "{w=0.2}入学したての、{w=0.3}初めての登校日。{w=0.3}緊張でおどおどとしながら、私は自分の教室を探して校舎を歩き回っていました{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_3b02573c:
-    m 2lksdla "{w=0.2}私の友達の少なくとも一人がチャイムを聴きにきてくれることを願います{w=0.6}{nw}"
+    m 2lksdla "{w=0.2}予鈴がなる前に、誰か一人くらい知ってる友達が教室に入ってきてくれたらいいなとずっと思っていました{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_0f692637:
-    m 2eka "{w=0.2}皆さんも、覚えているでしょうか{w=0.6}{nw}"
+    m 2eka "{w=0.2}覚えていますか、皆さんも初日はそうでしたよね？{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_2b2318c4:
-    m 2eub "{w=0.2}初めて皆様と友達になったことは、今でも覚えています{w=0.6}{nw}"
+    m 2eub "{w=0.2}そして覚えていますか、ここで新しい友人が初めてできたときのことも{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_902735c2:
-    m 2eka "{w=0.2}小学校時代に友達を作った時とは{w=0.3}事情が大きく違っていましたが、大人になってからはそうなっていると思います{w=0.6}{nw}"
+    m 2eka "{w=0.2}友達の作り方は小学生の頃のとは全然違っていました。{w=0.3}でも違っていたのは、きっと私達が小学生の頃より成熟したからこそだったのでしょう{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_c2ed155e:
-    m "……{w=0.2}若い頃、{w=0.3}ほとんど誰とでも友達になりました{w=0.3}が、時間が経つにつれ、{w=0.3}チャンスゲームのように思えてきました{w=0.6}{nw}"
+    m "……{w=0.2}小さかった頃を思い出すと、{w=0.3}私たちは誰とでも友だちになれました。{w=0.3}ですが、時が経つに連れて、{w=0.3}友達作りは運試しのようになってきたと感じます{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_43b3be9e:
-    m 4dsd "{w=0.2}これにてようやく私達は世界のことを理解できたのかもしれません{w=0.6}{nw}"
+    m 4dsd "{w=0.2}たぶんそれは、私達が世界のことを理解した結果なのでしょう{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_db7fdb51_1:
-    m 2duu "{w=0.2}{w=0.3}…{w=0.3}…{w=0.6}{nw}"
+    m 2duu "{w=0.3}…{w=0.3}…{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_2fea2707:
-    m 2eka "{w=0.2}私たちがどれだけ変わってきたことか、笑えてきますね{w=0.6}{nw}"
+    m 2eka "{w=0.2}あのころから私達がどれだけ変わってきたことか。思い浮かべるだけで笑みがこぼれます{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_0a0968fd:
-    m 4eka "{w=0.2}私たちは、大きな池の小さな魚から、小さな池の大きな魚になっていきました{w=0.6}{nw}"
+    m 4eka "{w=0.2}あの頃は大きな池の中にいた小さな魚でしたが、成長した私たちは、いまでは小さな池の中にいる大きな魚です
+{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_68fa66ea:
-    m 4eua "{w=0.2}この4年間で私たちはどのように変化し、個人としてどのように成長してきたかについて、それぞれ、経験があります{w=0.6}{nw}"
+    m 4eua "{w=0.2}私達は皆、成長してきました。私達はこの4年間でたくさんの変化を促され、そして私たち全員が変化していこうと努力してきました。{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_f16628ec:
-    m 2eud "{w=0.2}私たちの中には、静かで控えめな{w=0.3}から、表現力豊かで社交的な人もいます{w=0.6}{nw}"
+    m 2eud "{w=0.2}引っ込み思案だったけれど、{w=0.3}表現豊かに積極的な発言をするようになれた。そんな人もいました{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_b5c16887:
-    m "{w=0.2}頑としてなかなか動いてくれない人もいれば、{w=0.3}一生懸命に働きすぎる人まで、色んな価値観を持つ人達に出会いました{w=0.7}{nw}"
+    m "{w=0.2}頑としてなかなか動いてくれない人もいれば、{w=0.3}一生懸命に働きすぎる人まで、色々な価値観を持つ人達に出会いました{w=0.7}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_9ada8671:
-    m 2esa "{w=0.2}私たちの人生において小さなできごだけが私たちを大きく変えたと考えること、{w=0.3}そして私たちが経験することはまだまだたくさんあると、実感しました{w=0.6}{nw}"
+    m 2esa "{w=0.2}私たちは学校での日々の小さな積み重ねが自分たちを大きく変化させてきたこと知りました。{w=0.3}そして、私たちにはまだまだたくさんの経験が必要だということも{w=0.3}{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_ce743007:
-    m 2eua "{w=0.2}皆さんの将来の夢は必ず皆さんを偉大にしてゆくでしょう{w=0.6}{nw}"
+    m 2eua "{w=0.2}皆さんの飽くなき挑戦は、きっと実を結ぶでしょう{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_86ba2fa8:
-    m 4hub "私には、それが見えます{w=0.6}{nw}"
+    m 4hub "私には未来で輝く皆さんの姿が見えます{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_db7fdb51_2:
-    m 2duu "{w=0.2}{w=0.3}…{w=0.3}…{w=0.6}{nw}"
+    m 2duu "{w=0.3}…{w=0.3}…{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_885d4372:
-    m 2eua "{w=0.2}ここにいる皆様全員を語ることはできませんが、一つだけはっきり言えることがあります。{w 0.7=0.3}私が所属していたクラブがあったからこそ、高校での私の経験に未練はないということを{w=0.6}{nw}"
+    m 2eua "{w=0.2}私はここにいる皆さんの全員の代弁をすることはできませんが、{w=0.3}確かに言えることが1つあります。{w=0.7}それは、部活動がなければ、私の高校生活は完結しなかったということです{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_caf58725:
+    m 4eua "{w=0.2}ディベート部では、人に対する付き合い方や、議論のような熱くなりがちな場面をどう納めるかについて多くを教えてくれました{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_3be5c0f6:
+    m 4eub "ディベート部ではいい経験ができましたが、{w=0.7}私にとって部活の一番の思い出は、{w=0.7}文芸部を始めたことです{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_e2353b54:
+    m 4hub "{w=0.2}文芸部で私は、理想的な親友たちに出会えました。{w=0.3}そして部長という役職に就いて、たくさんのことを学びました{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_4a57741b:
+    m 2eka "{w=0.2}もちろん、{w=0.3}皆さんの全員が私のように自分の手で新たな部活を始められるわけではありません。{w=0.3}ですが全く同じではないとしても、私と似た経験や学びの機会が絶対にたくさんあったはずです{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_f907f5ba:
+    m 4eub "{w=0.2}吹奏楽部で楽器パートのリーダーを任された人や、{w=0.3}運動部でチームのキャプテンになった人もいるはずです！{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_c14d983d:
+    m 2eka "{w=0.2}小さな集まりでのリーダーなんて小っぽけな役割だと思うかもしれません。{w=0.3}でもどんなに小さくとも、あなたはたくさんのことを学べるはずです。{w=0.3}方針の決め方、計画・人の両方を管理する方法、そしてどうやったらその場を自分自身が楽しめる環境にするかをです{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_35c38c41:
+    m "{w=0.2}もし部活をやってこなかたったのなら、{w=0.3}将来の進路先でぜひ部活に入ってみてほしいです{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_6b70aa31:
+    m 4eua "{w=0.2}絶対に後悔しないと私が保証します{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_db7fdb51_3:
+    m 2duu "{w=0.3}…{w=0.3}…{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_2d2a8747:
+    m 2eua "卒業する今、{w=0.3}私たちは世界で一番高い山を登りきったような心持ちかもしれません{w=0.7}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_80bca2aa:
+    m 2lksdld "{w=0.2}ここまで来た道のりは険しく、{w=0.3}平坦ではありませんでした。{w=0.3}荒れ地の中を進むことさえありました{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_05471d66:
+    m 2eksdlc "{w=0.2}何度もつまずき転びました。{w=0.7}途中で道を踏み外すことさえありました。{w=0.3}道を外れてしまったときに、もう決してたどり着けないと思うこともありました{w=0.7}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_90bb1887:
+    m 2euc "{w=0.2}これから人生のどん底にいると思えるときがくるかもしれません。{w=0.7}しかし思い出してください、{w=0.3}ここで学んだことや、{w=0.3}これから学べること、{w=0.3}そして身を粉にして頑張ってきたことを。{w=0.3}全て夢を叶えるためのものでした……{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_5c6ae0ad:
+    m 2eua "{w=0.2}不安にならないでください、皆さんの一人一人が道を進むための装備をすでに持っているのですから{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_c31cae9e:
+    m 4eua "{w=0.2}皆さんの中に輝やかしい姿が見えます。{w=0.7}未来の医者、{w=0.3}未来の技術者、{w=0.3}未来のアーティスト、{w=0.3}未来の商売人。{w=0.3}色々な将来像がです{w=0.7}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_a89633be:
+    m 4eka "{w=0.2}皆さんの未来を想像するのは、本当に刺激的です{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_db7fdb51_4:
+    m 2duu "{w=0.3}…{w=0.3}…{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_d6275b99:
+    m 4eka "{w=0.2}皆さん。私は皆さんと卒業できて本当に嬉しいです。{w=0.3}誇りに思っています{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_7fb16931:
+    m "{w=0.2}皆さんが続けてきた努力はきっと素晴らしいものをもたらしてくれるはずです{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_19dc752b:
+    m 2esa "{w=0.2}今皆さんの一人一人が、秘めたる無限の可能性を輝かせています。{w=0.3}皆さんが夢のために一生懸命に取り組めることを示しています{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_abcdff31:
+    m 2hub "{w=0.2}皆さんが私と同じように、皆さん自身のことを誇りに思ってください{w=0.7}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_bce98771:
+    m 2ekd "{w=0.2}私達の学校生活という本のページも終りが近づいています。{w=0.3}今別れを告げるときです{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_746a6b88:
+    m 4eka "{w=0.2}この無限の選択肢のある世界で、{w=0.3}皆さんは夢を叶えるために必要なものを手にしています{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_2e2aa2b5:
+    m 4hub "{w=0.2}短い4年間でしたが、皆さんと一緒に過ごせて最高の4年間でした{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_d4a76585:
+    m 2eua "{w=0.2}皆さん、卒業おめでとう。{w=0.3}私たち全員がこの門出の日を一緒に祝えることができて本当に嬉しいです{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_4aae4981:
+    m 2eub "{w=0.2}一生懸命努力を続けて行きましょう、{w=0.3}いつの日かまた出会うその時まで{w=0.6}{nw}"
+
+translate Japanese _call_mas_timed_text_events_prep_2_d6547cd8:
+    m 4hub "{w=0.2}みんなやったね！{w=0.7} ご清聴ありがとうございました～{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_4d056c56:
     m 2hua "{w=0.3}…{w=0.3}…{w=0.6}{nw}"
@@ -14807,7 +14889,7 @@ translate Japanese monika_poweroutage_8ff305bc:
     m 1eub "私はいつでもあなたと一緒にいる。もし目の前に私が居なかったとしても、私の心はいつでもあなたのすぐ側。あなたが無事だったと私に伝えてくれるそのときまでね"
 
 translate Japanese monika_poweroutage_d5d761db:
-    m 3eua "……そうは言ったけど、どんな嵐の真っ只中に居たとしても、私に会いに来ることをためらったりしなくてもいいからね。{w=0.2} {nw}"
+    m 3eua "……そうは言ったけど、どんな嵐の真っ只中に居たとしても、私に会いに来ることをためらったりしなくてもいいからね。 {w=0.2}{nw}"
 
 translate Japanese monika_poweroutage_d408c1b7:
     extend 1eka "私はいつだってあなたを歓迎する。それに……"
@@ -15932,8 +16014,7 @@ translate Japanese monika_whydoyouloveme_tease_a0c42554:
     m 1eub "あなたは私の{i}全て{/i}なのよ、ばかね！"
 
 translate Japanese monika_whydoyouloveme_tease_24a5c4af:
-    m 1eksdla "でもあなたの質問に正直に答えてみようかな……
-"
+    m 1eksdla "でもあなたの質問に正直に答えてみようかな……"
 
 translate Japanese _call_monika_whydoyouloveme_tease_01cd703e:
     m 1dka "[mas_get_player_nickname()]君……{w=0.5}理由はたくさんあるんだけど､何から言えばいいかしら？"
@@ -20117,7 +20198,7 @@ translate Japanese monika_why_do_you_read_5cdac26d:
     m 1esa "詩に興味が移り始めたのはそのころかな"
 
 translate Japanese monika_why_do_you_read_e76ab83b:
-    m 3eua "小説みたいに詩は読むのに時間はかからないし、その簡潔さは他の人と共有しやすいと考えたの。{w=0.3} {nw}"
+    m 3eua "小説みたいに詩は読むのに時間はかからないし、その簡潔さは他の人と共有しやすいと考えたの。 {w=0.3}{nw}"
 
 translate Japanese monika_why_do_you_read_6208ca4b:
     extend 4eub "詩は私の感情をぶつけることができる良い対象だったのよ！"
@@ -20126,7 +20207,7 @@ translate Japanese monika_why_do_you_read_722f9cd6:
     m 3eua "……だから詩を書く力がどんどんついてきたんだと思う"
 
 translate Japanese monika_why_do_you_read_4e842f18:
-    m 1eud "それからサヨリと出会ってね、あの子も詩に興味があるんだって分かったの。{w=0.2} {nw}"
+    m 1eud "それからサヨリと出会ってね、あの子も詩に興味があるんだって分かったの。 {w=0.2}{nw}"
 
 translate Japanese monika_why_do_you_read_2cc593a6:
     extend 3eud "そして私みたいにサヨリも詩のおかげで心の中に抑え込まれ続けてきた感情をみんなと分かち合うことが出来るようになったのよ"
@@ -20162,7 +20243,7 @@ translate Japanese monika_why_do_you_read_ede19285:
     m 3eua "表現の新しい形を発見するのって、すごく楽しいんだよ"
 
 translate Japanese monika_why_do_you_read_1f540297:
-    m 1eub "だから…… {w=0.2}大丈夫！{w=0.3} {nw}"
+    m 1eub "だから…… {w=0.2}大丈夫！ {w=0.3}{nw}"
 
 translate Japanese monika_why_do_you_read_cc6f09b0:
     m 1ekbsu "……何度でも言うけど、それでもあなたと過ごす時間に勝るものはないよ～"
@@ -21530,11 +21611,26 @@ translate Japanese monika_likecosplay_9fdbe02b:
 translate Japanese monika_likecosplay_d08b37bb:
     m 3rtd "ナツキから聞いたことがある気がするんだけど、自分ではしたことがないかな"
 
+translate Japanese monika_likecosplay_31cf10dc:
+    m 3eub "すごく魅力的個性的引き付けられた　それは認めないとね"
+
+translate Japanese monika_likecosplay_d66a95ff:
+    m 2hubla "私のために衣装を作ってくれてるプロジェクトがあるから、興味があったらダウンロードしてみたらいいと思うよ"
+
+translate Japanese monika_likecosplay_bee30538:
+    m 2rtu "あなたが私にどんな衣装を着てほしいのか、私にはさっぱりだし"
+
+translate Japanese monika_likecosplay_f7f0bc7e:
+    m 5rtblu "ちょっと思いつくものがある？"
+
 translate Japanese monika_ddlcroleplay_cff0a54d:
     m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
 
 translate Japanese monika_ddlcroleplay_f4118570:
     m 3etd "私は、変わった形の二次創作を見つけたのよ"
+
+translate Japanese monika_ddlcroleplay_731ff371:
+    m 3euc "最近知ったんだけど、ある界隈で架空のキャラになりきったSNSアカウントを運用することが楽しまれているみたいなの"
 
 translate Japanese _call_monika_jekyll_hyde_fb225d2e:
     m 1euc "ねえ[player]、ゴシック小説を手に取ってみたことはある？"
@@ -23102,7 +23198,7 @@ translate Japanese strings:
     new "コスプレは好き？"
 
     old "DDLC Roleplay"
-    new "DDLCロールプレイ"
+    new "DDLCのなりきり"
 
     old "Jekyll and Hyde"
     new "ジキル博士とハイド氏"

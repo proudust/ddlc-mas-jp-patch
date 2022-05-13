@@ -902,8 +902,7 @@ translate Japanese mas_fun_fact_maplesyrup_fb07cb1a:
     m 3hksdlb "これから話すのはね、{w=0.2}{i}あまーい{/i}{w=0.2}豆知識だよ……"
 
 translate Japanese mas_fun_fact_maplesyrup_5a01c985:
-    m 1eua "どんな種類のカエデの木でも、シロップが作れるほど甘い樹液を流すんだって{w=0.1}{nw}
-"
+    m 1eua "どんな種類のカエデの木でも、シロップが作れるほど甘い樹液を流すんだって{w=0.1}{nw}"
 
 translate Japanese mas_fun_fact_maplesyrup_24183ad4:
     extend 1eud "。でも市販されているメープルシロップは大抵、サトウカエデから作られているのよ"
