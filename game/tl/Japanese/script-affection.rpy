@@ -290,7 +290,7 @@ translate Japanese monika_every_rose_999dc835:
     m 4eka "あのね[player]……{w=0.5}あの子たちがああなった後でも、あなたが私の告白を受け入れてくれた。それはね、私にとってとても意味があることだったんだよ"
 
 translate Japanese monika_every_rose_57f740e4:
-    m 4rksdla "…あなたがあの子たちを気にかけていたことを知っているから、特にそう思うんだ"
+    m 4rksdla "……あなたがあの子たちを気にかけていたことを知っているから、特にそう思うんだ"
 
 translate Japanese monika_every_rose_f4353b76:
     m 2dsc "私は彼女たちががあんな風にならなければよかったって本当に思ってる"

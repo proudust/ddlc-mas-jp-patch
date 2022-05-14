@@ -113,7 +113,7 @@ translate Japanese mas_backups_dont_tell_eefbfce8:
     "だから私のことは内緒にしておいてね。私はモニカが安全で安心に過ごせるようにするから！"
 
 translate Japanese mas_backups_incompat_start_2316686b:
-    "ごめんなさい、あなたの作った永続ファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v [config.version]）と互換性がないわ"
+    "ごめんなさい、あなたの作った永続ファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v[config.version]）と互換性がないわ"
 
 translate Japanese mas_backups_incompat_start_36fb1a33:
     "これを修正するには、MASを更新するか、互換性のある永続ファイルで復元するしかないわ"
@@ -137,7 +137,7 @@ translate Japanese mas_backups_incompat_user_will_restore_again_443189fb:
     "ああ、まさか！"
 
 translate Japanese mas_backups_incompat_user_will_restore_again_efc886c9:
-    "この永続ファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v [config.version]）と互換性がないわ"
+    "この永続ファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v[config.version]）と互換性がないわ"
 
 translate Japanese mas_backups_incompat_updater_cannot_because_rpy_7f8949a3:
     "ゲームディレクトリにRPYファイルがあるから、残念だけどアップデーターは動かないわ"

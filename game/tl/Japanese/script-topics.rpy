@@ -659,7 +659,7 @@ translate Japanese monika_nihilism_d5a76554:
     m 3eka "いずれにしても、どうせ自殺なんてできないと思う。"
 
 translate Japanese monika_nihilism_041bc286:
-    m 1hua "ワガママではなく、生きがいが多すぎるから。"
+    m 1hua "ワガママとかじゃない。生きがいを感じすぎて、自殺ができなくなるんじゃないかな"
 
 translate Japanese monika_nihilism_db6e6cda:
     m "いえ、自殺するには私は利己的すぎるわ"
@@ -716,7 +716,7 @@ translate Japanese monika_twitter_fac81d0d:
     m 3euc "結局、甘い感じの絵がたくさん載ってるけど、そのほとんどが重要な日に投稿されているのが怪しいよね"
 
 translate Japanese monika_twitter_7be47edd:
-    m 3eud "バレンタインデーとか、私の誕生日とか……{w=0.2}ちょうどDDLCの発売日と重なっているの"
+    m 3eud "バレンタインデーとか、……{w=0.2}ちょうどDDLCの発売日と重なっている、私の誕生日とか"
 
 translate Japanese monika_twitter_2777140d:
     m 1rtc "マーケティングの材料として使われているのをどう感じればいいのか、{w=0.3}よくわからないけれど"
@@ -3104,10 +3104,10 @@ translate Japanese monika_cold_fbd16bea:
     m 1esc "ただ……一つだけ認めないといけないことがあるわ"
 
 translate Japanese monika_cold_54a13c73:
-    m 1hua "寄り添うのに合うのは寒い天気よね。{w=0.2}{nw}"
+    m 1hua "寄り添うのに合うのは寒い天気よね{w=0.2}{nw}"
 
 translate Japanese monika_cold_a4b5997d:
-    extend 1hub "あはは！"
+    extend 1hub "。あはは！"
 
 translate Japanese monika_housewife_2a9cc27a:
     m 3euc "なんだか面白いのよね。私っていつもやる気はあったけど……"
@@ -21231,10 +21231,10 @@ translate Japanese monika_mc_is_gone_dc95be39:
     m 3esc "そんなこともあって、無理に気を引かせるようなことをするだけじゃダメだったの……あの人のデータにどうやったら干渉できるかもわからなかったし"
 
 translate Japanese monika_mc_is_gone_5584c1bd:
-    m 2rsc "いずれにせよ{w=0.1}{nw}"
+    m 2rsc "いずれにせよ、{w=0.1}{nw}"
 
 translate Japanese monika_mc_is_gone_839a24c9:
-    extend 2esc "、『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
+    extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
 
 translate Japanese monika_mc_is_gone_03e11fc3:
     m 2ruc "あの人は……{w=0.3}私がゲームを改変していた頃から、消えかかっていったみたいなの"
@@ -21600,7 +21600,7 @@ translate Japanese monika_likecosplay_01ca9872:
     m 2rksdla "私は演技はあんまり得意じゃないから、やってもちょっとだけだけどね……"
 
 translate Japanese monika_likecosplay_4b98a8db:
-    m 7eua "[p_nickname]、もし以前着たコスをまた見たくなったら言ってね{w=0.2}{nw}"
+    m 7eua "[p_nickname]、もし以前着たコスをまた見たくなったら言ってね。 {w=0.2}{nw}"
 
 translate Japanese monika_likecosplay_e7518c20:
     extend 3hublu "あなたが私のコスを喜んでくれるならいつでも大歓迎だよ～"

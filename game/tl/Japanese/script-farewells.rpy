@@ -974,10 +974,10 @@ translate Japanese bye_prompt_restart_edfc8cf0:
     m 2euc "わかったわ。"
 
 translate Japanese bye_prompt_workout_834d1736:
-    m 1eua "あら、ジムに行くの、[player]？{w=0.3}。それともジョギング？"
+    m 1eua "あら、ジムに行くの、[player]？ {w=0.3}それともジョギング？"
 
 translate Japanese bye_prompt_workout_770cf7e3:
-    m 3hub "自分の身体を大切にしているのは良いことよ！{w=0.3}。健全なる精神は健全なる身体に宿るとも言うしね"
+    m 3hub "自分の身体を大切にしているのは良いことよ！ {w=0.3}健全なる精神は健全なる身体に宿るとも言うしね"
 
 translate Japanese bye_prompt_workout_5d9af918:
     m 3hua "私がそっちに行ったら、一緒にジョギングをしたいわ"

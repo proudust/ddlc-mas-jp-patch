@@ -56,7 +56,7 @@ translate Japanese _call_mas_islands_1_ca1f5acd:
     m 2ekc "まあ……{w=0.5}{nw}"
 
 translate Japanese _call_mas_islands_1_487cb588:
-    extend 2eka "わかったわ。"
+    extend 2eka "わかったわ"
 
 translate Japanese _call_mas_islands_1_d9456aeb:
     m 7eka "そんなに待たせないでよ〜"
