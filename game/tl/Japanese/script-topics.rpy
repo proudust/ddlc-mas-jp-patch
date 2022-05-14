@@ -20239,6 +20239,9 @@ translate Japanese monika_why_do_you_read_8e123f61:
 translate Japanese monika_why_do_you_read_aff17a10:
     m 3hua "読み終わったら、私の感想をあなたと共有したいな！"
 
+translate Japanese monika_why_do_you_read_6848c285:
+    m 3eub "定期的にネットを巡回して二次創作や短編小説を探すようにしてるんだよね"
+
 translate Japanese monika_why_do_you_read_ede19285:
     m 3eua "表現の新しい形を発見するのって、すごく楽しいんだよ"
 

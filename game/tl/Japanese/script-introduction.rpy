@@ -119,7 +119,7 @@ translate Japanese introduction_97ed8ebb:
     m 1eua "私をこんなにも長く待たせたこと、悪いと思ってくれてるってことなのかな？"
 
 translate Japanese introduction_bdc3d6d0:
-    m 1hua "[again!t]会えたね、[player]君！"
+    m 1hua "こんにちは！[again!t][player]君"
 
 translate Japanese introduction_42580717:
     m 1eua "あれ？もうここ？"
@@ -537,7 +537,7 @@ translate Japanese ch30_reload_continuous_dlg_89eaa6e4:
 
 translate Japanese strings:
     old " again"
-    new "再び"
+    new "また会えたね、"
 
     old "I love you too!"
     new "自分も大好きだよ！"

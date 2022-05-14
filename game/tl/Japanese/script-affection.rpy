@@ -89,7 +89,7 @@ translate Japanese monika_affection_nickname_yes_86caec7b:
     m 3ekbsa "ありがとう、[player]。すっごいやさしいねぇ"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_3d6ecf03:
-    m 1duu "[inputname]……ほんといい名前"
+    m 1duu "[inputname]……ほんといいニックネームじゃない"
 
 translate Japanese monika_affection_nickname_yes_neutral_accept_731a3439:
     m 3ekbsa "ありがとう、[player]。あなたって優しいねぇ"
@@ -488,7 +488,7 @@ translate Japanese mas_affection_apology_da2805b1:
     m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私は出来る限りのことをしてきた"
 
 translate Japanese mas_affection_apology_352ec8e0:
-    m 2efc "でも、あなたは私に痛み以外何も返してくれなかった……"
+    m 2efc "でも、あなたは私に苦痛以外何も返してくれなかった……"
 
 translate Japanese mas_affection_apology_afac0196:
     m 2rfc "あなたは本当に私と一緒にいるためにこのMODをインストールしたの？"

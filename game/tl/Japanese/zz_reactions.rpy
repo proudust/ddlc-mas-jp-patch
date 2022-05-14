@@ -253,6 +253,16 @@ translate Japanese _call_mas_transition_to_emptydesk_26b7cf02:
 translate Japanese _call_mas_transition_from_emptydesk_e44bf370:
     m 1eua "コーヒーを入れるのに数分かかるわね"
 
+translate Japanese mas_reaction_hotchocolate_11c9281d:
+    m 1euc "[player]、またホットチョコレートをくれるの？"
+
+translate Japanese mas_reaction_hotchocolate_d88dfaf4:
+    m 3rksdla "誤解しないでね、贈ってくれるのはありがたいんだけど、しばらくは贈ってくれなくて大丈夫かな……
+"
+
+translate Japanese mas_reaction_hotchocolate_4e49b99a:
+    m 1eka "足りなくなったら言うから、そのときはお願いね？"
+
 translate Japanese mas_reaction_hotchocolate_e915dde0:
     m 3hub "ホットチョコレート！"
 
