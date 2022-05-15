@@ -14498,7 +14498,7 @@ translate Japanese monika_grad_speech_not_paying_attention_41d80b80:
     m 6lktdc "あなたは、私がせっかく苦労した後の苦痛をわかってないのよ……"
 
 translate Japanese monika_grad_speech_not_paying_attention_53cb88a1:
-    m 6ektdc "ただあなたには、私を誇りに思って欲しいだけなのに……"
+    m 6ektdc "あなたにも、私を尊敬してもらいたいだけなのに……"
 
 translate Japanese monika_grad_speech_not_paying_attention_bb31cb93:
     m 6dstsc "……"
@@ -20180,13 +20180,13 @@ translate Japanese monika_why_do_you_read_e7d5803a:
     m 1eua "記憶をたどってみても、私は子供の頃からずっと読書好きだったかな{w=0.2}{nw}"
 
 translate Japanese monika_why_do_you_read_496b768c:
-    extend 3eua "私にとっては書くことを補完する行為の一つという感じ"
+    extend 3eua "私にとって読書は書くことを補完する行為の一つという感じね"
 
 translate Japanese monika_why_do_you_read_771917ff:
     m 3euc "小さい頃はね、短い物語を書くのが好きだったの。でも読んでくれたり一緒に書いて見せ合うような人は見つけられなくって……"
 
 translate Japanese monika_why_do_you_read_7834fe59:
-    m 1rsc "ほとんどの他の子たちって本に興味がなかったのよ"
+    m 1rsc "他の子たちって本に興味がない子がほとんどだったのよ"
 
 translate Japanese monika_why_do_you_read_00bb6c4c:
     m 1rkd "それで読書仲間を見つけられなくって、私はずっと小さなフラストレーションが溜まってたかな"
@@ -20194,11 +20194,17 @@ translate Japanese monika_why_do_you_read_00bb6c4c:
 translate Japanese monika_why_do_you_read_46411cf9:
     m 3eua "でもね、少なくとも読書ができたおかげで私の趣味を続けてこられたの"
 
+translate Japanese monika_why_do_you_read_b824691b:
+    m 3hub "初めて読む本はどんな本でも、私を不思議で楽しい新たな世界へいざなってくれるんだよ！ 私の想像力を掻き立てるガソリンのようなものね！"
+
+translate Japanese monika_why_do_you_read_9f7d4f46:
+    m 1eksdlc "けど、私が大きくなってからは自由時間がどんどん減っちゃって、読書の時間も全然取れなくなってたんだよね…… {w=0.3}読書をあきらめるか、私の社会生活を犠牲にするかの二択になってたんだ"
+
 translate Japanese monika_why_do_you_read_5cdac26d:
     m 1esa "詩に興味が移り始めたのはそのころかな"
 
 translate Japanese monika_why_do_you_read_e76ab83b:
-    m 3eua "小説みたいに詩は読むのに時間はかからないし、その簡潔さは他の人と共有しやすいと考えたの。 {w=0.3}{nw}"
+    m 3eua "詩は小説ほど読むのに時間はかからないし、内容も簡潔だから他の人とも共有しやすいと考えたの。 {w=0.3}{nw}"
 
 translate Japanese monika_why_do_you_read_6208ca4b:
     extend 4eub "詩は私の感情をぶつけることができる良い対象だったのよ！"
@@ -20247,6 +20253,9 @@ translate Japanese monika_why_do_you_read_ede19285:
 
 translate Japanese monika_why_do_you_read_1f540297:
     m 1eub "だから…… {w=0.2}大丈夫！ {w=0.3}{nw}"
+
+translate Japanese monika_why_do_you_read_d48c71af:
+    extend 3eua "たしかに今の私の状況は問題だけど、好きなことにもっと時間を費やす[line_mid!t]"
 
 translate Japanese monika_why_do_you_read_cc6f09b0:
     m 1ekbsu "……何度でも言うけど、それでもあなたと過ごす時間に勝るものはないよ～"
@@ -23118,6 +23127,12 @@ translate Japanese strings:
 
     old "How did you get into reading?"
     new "どうやって読書の習慣がついた？"
+
+    old "it's also been a great"
+    new "絶好の機会でもあるんだよね"
+
+    old "I also try to see it as an"
+    new "いい機会にしてみるのもいいんじゃないかって思ってるんだよね"
 
     old "Discworld"
     new "ディスクワールド"

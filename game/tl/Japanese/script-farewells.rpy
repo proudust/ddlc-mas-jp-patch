@@ -1139,6 +1139,12 @@ translate Japanese strings:
     old "A snack."
     new "間食"
 
+    old "lunch"
+    new "昼食"
+
+    old "dinner"
+    new "夕食"
+
     old "I'm going to do some housework."
     new "家事をする"
 

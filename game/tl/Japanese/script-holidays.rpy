@@ -407,7 +407,7 @@ translate Japanese mas_o31_lingerie_end_e7aeb06f:
 translate Japanese mas_o31_lingerie_end_4fd1e90f:
     m "あのね[player]、今夜はちょっといたずらしちゃいたい気分なんだよねー……"
 
-translate Japanese _call_spaceroom_36_c40f91a2:
+translate Japanese _call_spaceroom_37_c40f91a2:
     m 2tub "えへへ、どうかな？"
 
 translate Japanese bye_trick_or_treat_d302db30:
