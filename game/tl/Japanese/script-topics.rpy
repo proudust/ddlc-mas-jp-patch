@@ -12356,6 +12356,12 @@ translate Japanese monika_natsuki_letter_2e349891:
 translate Japanese monika_natsuki_letter_611cf25d:
     m 1eud "それ、本当？"
 
+translate Japanese monika_natsuki_letter_9356c330:
+    m 1ekc "気分が落ち込んでるのは良くないことだわ..."
+
+translate Japanese monika_natsuki_letter_5d4d4f18:
+    m 1hua "だけど私は、あなた自身が改善に向かって頑張ってくれて嬉しいな"
+
 translate Japanese monika_natsuki_letter_7f04979e:
     m 1eua "自分のメンタルに気を配ることはとても重要なことよ、[player]"
 

@@ -494,7 +494,7 @@ translate Japanese mas_island_bookshelf2_26116031:
     m "[player]君、もしかして違う？"
 
 translate Japanese mas_island_bookshelf2_5e66c502:
-    m "雨の日に窓を開けたまま、家で読書をすると、とっても心が安らぐのよ"
+    m "外で雨が降っているとき、家で読書をすると、とっても心が安らぐのよ"
 
 translate Japanese mas_island_bookshelf2_5325f703:
     m "本を外に置いたりしなければの話だけどね……"
@@ -515,7 +515,7 @@ translate Japanese mas_island_bookshelf2_24df9cce:
     m "桜の木の下にテーブルを置いたほうがいいかもね"
 
 translate Japanese mas_island_bookshelf2_49056641:
-    m "本のついでに、コーヒーをのみながら、おやつを食べてもいいよね"
+    m "あと、本のついでに、コーヒーをのみながら、おやつを食べたりとか"
 
 translate Japanese mas_island_bookshelf2_88a83baa:
     m "最高のひと時になりそうだな～"

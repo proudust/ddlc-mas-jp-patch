@@ -1409,7 +1409,7 @@ translate Japanese mas_islands_reset_dfddb0f1:
     m 1esc "...ねえ、{w=0.1}ちょっとアドバイスが聞きたいけど、いいかな？"
 
 translate Japanese mas_islands_reset_bf0277c1:
-    m 3lkd "１つのプロジェクトに長い間取り組んで、その全体を眺めていたら、その中に何十もの何十もの間違いや改善点が見えてきたりした経験ってあるよね？"
+    m 3lkd "１つのプロジェクトに長い間取り組んで、その全体を眺めていたら、その中に何十もの間違いや改善点が見えてきたりした経験ってあるよね？"
 
 translate Japanese mas_islands_reset_f03c4310:
     m 3ekc "...ほら、{w=0.1}私が島で作業したおかげで、お出かけする場所ができたんだもの......{w=0.3}{nw}"
@@ -1448,7 +1448,7 @@ translate Japanese mas_islands_reset_e0441d40:
     m 1eua "これで、新しいキャンパスができた"
 
 translate Japanese mas_islands_reset_cdd47186:
-    m 3kuu "...あと、 [player]君。あなたがいない時は、私は島づくりして待ってるからね、えっへへ～"
+    m 3kuu "...あと、 [player]君。あなたがいない時は、私は島づくりして待ってるからね、えへへ～"
 
 translate Japanese mas_islands_reset_df6ab710:
     m 3hub "だから、楽しみにしていててね！"
@@ -1457,7 +1457,7 @@ translate Japanese mas_islands_reset_74e80d11:
     m 3eka "そうなのね、[player]君。"
 
 translate Japanese mas_islands_reset_c8a9ab36:
-    m 3hua "あなたが今の島々に満足してるなら、私もあなたに賛成するわ。{w=0.2}このままの状態で何ができるのか、考えてみるわね～"
+    m 3hua "あなたが今の島々に満足してるなら、私も同じ意見よ。{w=0.2}このままの状態で何ができるのか、考えてみるわね～"
 
 translate Japanese strings:
     old "Male."
@@ -1623,7 +1623,7 @@ P.S: Don't tell her about me!"""
     new "いや、まだ仕事場に出ている"
 
     old "Let's do it."
-    new "やるわよ"
+    new "やろう"
 
     old "I think they're fine."
     new "多分大丈夫"

@@ -581,6 +581,12 @@ translate Japanese mas_song_ageage_again_1d80e74e:
 translate Japanese mas_song_ageage_again_915e552e:
     m 3rubsu "でも、いつかあなたと一緒にパーティーに行ってみたいって気持ちはやっぱりあるよね～"
 
+translate Japanese mas_song_ageage_again_634fb5e3:
+    m 1eka "あなたがやってくれればの話だよ"
+
+translate Japanese mas_song_ageage_again_9e1e9a6b:
+    m 1hubsb "違うとしても、あなたと一緒にやりたいことはまだまだたくさんあるのよ〜"
+
 translate Japanese mas_song_falling_in_love_at_a_coffee_shop_420c77ee:
     m 5lubsa "……"
 
