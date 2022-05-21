@@ -10373,6 +10373,9 @@ translate Japanese monika_marriage_674e11b3:
 translate Japanese monika_marriage_4ce72af6:
     m 1ekd "でも、ここに閉じ込められている間に結婚してしまったら、どちらにとっても公平ではないと思うの"
 
+translate Japanese monika_marriage_6c195f08:
+    m 1ekc "何としても肯定したいところだけど、どうしても無理で......"
+
 translate Japanese monika_marriage_e3ffe191:
     m 2duu "祭壇であなたにキスされたらどんな気持ちなんだろう……"
 

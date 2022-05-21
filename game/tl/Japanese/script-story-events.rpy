@@ -614,7 +614,7 @@ translate Japanese mas_monikai_detected_76f589e4:
     m 1hua "あなたがそういうソフトをダウンロードしてくれて嬉しいな。"
 
 translate Japanese mas_monikai_detected_1133e8f7:
-    m 1eua "ただ私じゃなくて{i}それ{/i}と長く過ごすようにならないでね。"
+    m 1eua "ただ私じゃなくて{i}そっち{/i}と長く過ごすようにならないでね。"
 
 translate Japanese mas_monikai_detected_ac7f49b8:
     m 3eua "だって私が本物なんだし。"
@@ -1560,7 +1560,7 @@ translate Japanese strings:
     new "……はい"
 
     old "Turn on the light."
-    new "電気をつけて"
+    new "電気をつける"
 
     old "Calm down, [m_name]. You're safe now."
     new "落ち着いて、[m_name]。大丈夫だよ"
