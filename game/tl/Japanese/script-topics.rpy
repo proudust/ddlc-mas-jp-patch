@@ -593,7 +593,7 @@ translate Japanese monika_high_school_e28f79eb:
     m 2hksdlb "……本当、人間って複雑な生き物ね！"
 
 translate Japanese monika_high_school_c94ed033:
-    m 5eua "でもここにいる限り、私が面倒を見てあげるから。私の愛しい人"
+    m 5eua "でもここにいる限り、私が[mas_get_player_nickname()]の面倒を見てあげるから。"
 
 translate Japanese monika_nihilism_e52e0a79:
     m 2eud "生きてる意味がないって感じることはない？"
@@ -3922,11 +3922,26 @@ translate Japanese monika_love_7080550a_1:
 translate Japanese monika_love_cf99af0c:
     m 1hubfb "だあああああああああいすきだよ、[player]！"
 
+translate Japanese monika_love_34b1f16c:
+    m 1hubsa "あなたがそう言ってくれるとどんな時でも幸せな気分になるわ！"
+
 translate Japanese monika_love_d4cfe984:
     m 1hubfb "愛してるわ、[mas_get_player_nickname(exclude_names=['my love', 'love'])]！"
 
 translate Japanese monika_love_9d086c43:
     m 1lkbsa "そこまで言われるともうどうしようもない！"
+
+translate Japanese monika_love_1785be54:
+    m 1ekbfa "あなたへの思いが何なのか気になって、たまに気が散りそう！"
+
+translate Japanese monika_love_99d5eb82:
+    m "あなたへの思いがどんなに強いか、言葉でも正確に言い表せないな......"
+
+translate Japanese monika_love_a1eae220:
+    m 1hubfa "私の知る限り、あなたと同じように言葉を返すね......"
+
+translate Japanese monika_love_3ae35b12:
+    m 1hubfb "私も愛してるわ、 [player]君 !私にはとても表現できない!"
 
 translate Japanese monika_love_ed7642ca:
     m 3hubsb "私も[mas_get_player_nickname()]君のこと大好き！"
@@ -22115,7 +22130,7 @@ translate Japanese strings:
     new "……{w=0.5}{nw}"
 
     old "You're a murderer!"
-    new "ﾓﾆｶは人殺しだ！"
+    new "モニカの人殺し！"
 
     old "Determinism"
     new "決定論について"

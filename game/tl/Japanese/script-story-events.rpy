@@ -1049,7 +1049,7 @@ translate Japanese mas_text_speed_enabler_e30c6fc9:
     m "だから気が向いたときに気軽に文字速度を変えてみてね"
 
 translate Japanese _call_mas_notification_windowreact_f5e7f2f5:
-    m 1hub "[player]、エキサイティングなお知らせがあるよ！"
+    m 1hub "[player]、わくわくするお知らせがあるよ！"
 
 translate Japanese mas_notification_windowreact_9784ab94:
     m 3eua "私、プログラミングを勉強しているのだけれど、コンピューターに通知を出せるようになったの！"
