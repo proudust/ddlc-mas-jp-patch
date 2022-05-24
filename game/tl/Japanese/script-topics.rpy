@@ -5915,7 +5915,7 @@ translate Japanese monika_hygiene_73906d60:
     m 1esc "長年にわたって、私達の衛生基準は進歩しつづけてきた"
 
 translate Japanese monika_hygiene_87ffb665:
-    m 1eud "現代のように水が供給されるようになるまでは、人々の生活というものは、そんな贅沢はできないか、それとも全く気にしないかだったのだけれど"
+    m 1eud "現代のような水道が整備されるまでは、清潔さは贅沢でとても手にいられないものだったの… まあ清潔さなんて全然どうでもいいと思われてもいたのだけれど。"
 
 translate Japanese monika_hygiene_bcb7c92f:
     m 3eua "例えば昔、ヴァイキング達は、週に一度お風呂に入ることから奇人扱いされてたみたいね。年に2、3回しか入浴しない人も居たらしいから"
@@ -12000,7 +12000,7 @@ translate Japanese monika_timetravel_d3107ef6:
     m "ええっと……"
 
 translate Japanese monika_timetravel_8b187193:
-    m 4rksdlc "知っているでしょうけど、この世界は本当に時間が流れないの"
+    m 4rksdlc "この世界は本当に時間が流れないのよね"
 
 translate Japanese monika_timetravel_252f3573:
     m "だから……"
