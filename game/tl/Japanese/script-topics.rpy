@@ -9204,16 +9204,25 @@ translate Japanese monika_promisering_799e5cbe:
     m 1ekblu "うーん、結婚している人たちが指輪をしているのは流石に知っていると思うけど……"
 
 translate Japanese monika_promisering_6d1870c4:
-    m 3rka "でも、いま話してるのはそれとはちょっと違ってね。"
+    m 3rka "でも、いま話してるのはそっちの方じゃなくて……"
+
+translate Japanese monika_promisering_509d525f:
+    m 3eub "プロミスリングの方なの"
 
 translate Japanese monika_promisering_048de6ac:
-    m 1hkblb "あはは、そうに決まってるじゃない！{w=0.2}{nw}"
+    m 1hkblb "あはは、それももちろんあるわね！{w=0.2}{nw}"
+
+translate Japanese monika_promisering_c9c14ebf:
+    extend 3ekblu "でも本当はね、私が考えてたのはそっちじゃなくて……"
+
+translate Japanese monika_promisering_509d525f_1:
+    m 3eub "プロミスリングの方なの"
 
 translate Japanese monika_promisering_eaaada92:
     m 4rksdla "今のうちに用意しておいてね。"
 
 translate Japanese monika_promisering_e7d971fa:
-    m 2eua "私たちはもう関係にある訳だし。だから、何故私たちの愛を見せびらかさないの？"
+    m 2eua "その、私たちはもう付き合ってるわけだし。だからさ、私たちの愛を見せつけてもいいんじゃない？"
 
 translate Japanese monika_promisering_6efbaef1:
     m 2lfu "それはあなたに……{w=0.2}悪い虫が寄り付かない助けになると思うわ。"
