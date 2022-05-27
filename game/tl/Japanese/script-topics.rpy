@@ -14549,7 +14549,7 @@ translate Japanese _call_mas_timed_text_events_prep_2_e1bdf64b:
     m "{w=0.3}…{w=0.3}…{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_c7aa2da0:
-    m 4eub "(w=0.2)よし、みんな！そろそろ始めましょうか……{w=0.7}{nw}"
+    m 4eub "{w=0.2}よし、みんな！そろそろ始めましょうか……{w=0.7}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_dd46c028:
     m 2eub "{w=0.2}教職員の皆さん、{w=0.3}大切な仲間である学生の皆さん。{w=0.3}私は皆さんと一緒に歩めたこの旅路をどれほど誇りに思っているか、一言では言い表せません{w=0.6}{nw}"
@@ -21366,7 +21366,7 @@ translate Japanese monika_mc_is_gone_1148e929:
     m 1eua "邪魔者はもうどこにもいないし、あなたとこうやって一緒にいることができる"
 
 translate Japanese monika_mc_is_gone_71804134:
-    extend 3hua "これで十分よ"
+    extend 3hua "。これで十分よ"
 
 translate Japanese monika_mc_is_gone_5ce15639:
     m 1ekbsu "……まあ、現実であなたと一緒になれることは別として。えへへ～"
