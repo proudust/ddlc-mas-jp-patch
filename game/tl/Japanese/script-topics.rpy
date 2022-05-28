@@ -17877,6 +17877,115 @@ translate Japanese monika_catch22_082f80b4:
 translate Japanese monika_catch22_119f8273:
     extend 3hub "いい本を読みたい気分になったら、選んでみても良いかもね！"
 
+translate Japanese monika_we_9fa2ec48:
+    m 1esa "ねえ[player]… {w=0.5}ディストピア小説のメジャーな2冊のことはもう説明したよね"
+
+translate Japanese monika_we_b9becbb7:
+    m 1esd "{i}『1984年』{/i}と{i}『すばらしい新世界』{/i}はどちらも世界的な知名度のあるディストピア小説よ"
+
+translate Japanese monika_we_2c97fadf:
+    m 3eud "でも今回は、この2冊の本よりも前に書かれた、あまり知られていない本について話したいの"
+
+translate Japanese monika_we_02f02402:
+    m 3euc "ジョージ・オーウェルはその本から影響を受けて、その物語を英語で文化翻訳したものが{i}1984年{/i}なのよ"
+
+translate Japanese monika_we_fb09c465:
+    m 2wud "……{i}すばらしい新世界{/i}も、その本から着想を得て書いたものに違いないと、オーウェルとカート・ヴォネガットの二人から批判されていたわ。筆者のハクスリーはずっと否定してたけどね"
+
+translate Japanese monika_we_01c651c6:
+    m 7eua "問題の本の題名は、エヴゲーニイ・ザミャーチンの『{i}われら{/i}』。これ以前にはなかった、ディストピア社会を描いた長編小説よ"
+
+translate Japanese monika_we_1d060edb:
+    m 3eud "1921年に書かれた本なのだけれど、ザミャーチンの祖国、ソビエト連邦で最初に禁止された本の一つになったの"
+
+translate Japanese monika_we_9c57b0df:
+    m 1euc "ソ連はとりわけ、共産主義革命は人間社会の最終段階ではなく永遠に続くものでもない、とこの本が暗示していたことが気に入らなかったみたいね"
+
+translate Japanese monika_we_0138a60e:
+    m 3eua "物語の舞台は遠い未来、「単一国」と名付けられた透明なガラス張りの街の話。その街は「恩人」と呼ばれる独裁者によって支配されているの"
+
+translate Japanese monika_we_5b6aaab5:
+    m 3eud "「単一国」の市民は ナンバーと呼ばれていて、高度な数学と論理的志向の生活スタイルをしているのよ"
+
+translate Japanese monika_we_4cdf5f79:
+    m 2ekc "「恩人」は、「単一国」の繁栄こそが重要で、個人の自由は二の次だという信念を持っているの"
+
+translate Japanese monika_we_4d993ffa:
+    m 2ekd "だからその世界でナンバーたちは「守護者局」、{w=0.2}政府によって任命された警察組織、に常に監視されながら抑圧的な状況に置かれているわけ"
+
+translate Japanese monika_we_e2562443:
+    m 2dkd "ナンバーたちは、政府から個性を剥ぎ取られ、同じ服を着させられ、個人を表現するものも厳しく禁止されている"
+
+translate Japanese monika_we_25f4b243:
+    m 2esc "日常生活は厳格に管理され、「時間タブレット」 と呼ばれる端末に表示されるスケジュールを守って生活を送っている"
+
+translate Japanese monika_we_68d0c255:
+    m 4ekc "管理には恋愛も含まれているの。パートナーにはスケジュールされた日時にしか会えない、会うのにもピンクチケットの申請が必要というように、とても機械的でほとんど感情を伴わないような活動になっているの"
+
+translate Japanese monika_we_d63d3f65:
+    m 4eksdlc "パートナーは、他のナンバーたちの間でシェアされていることもある。{w=0.3}「恩人」が布告したの、「すべてのナンバーは、性的産物としての任意のナンバーに対する権利を有する」とね"
+
+translate Japanese monika_we_aab97f87:
+    m 2eud "本の構成は、全体主義的な「単一国」の市民の一人が書いた日記として書かれていて、主人公の名前はなく、単に「D-503」と呼ばれているの"
+
+translate Japanese monika_we_2e484ec4:
+    m 7eua "D-503は数学者であり、「単一国」初の宇宙船 「インテグラル号」 の設計者でもあって"
+
+translate Japanese monika_we_690746b7:
+    m 3eud "彼の設計した宇宙船インテグラル号は、「単一国」政府に完全に従属するという教義を世界に広めるため、そして他の惑星や生命体にも論理的志向の生活様式を拡大するために造られている"
+
+translate Japanese monika_we_a8c519cf:
+    m 1eua "D-503には国家公認のパートナー、O-90という名前の女性と定期的に逢っているの。パートナーの彼女はD-503と関係を持てることをとても喜んでいる"
+
+translate Japanese monika_we_839459cf:
+    m 1eksdla "ある日、D-503がその定期的な「個人時間」中にO-90と散歩をしていると、I-330という名前の謎の女性ナンバーに出会う"
+
+translate Japanese monika_we_e794e37b:
+    m 3eksdld "I-330はD-503の気を引いてくるんだけど、そのような行為は国の法律に反しているの"
+
+translate Japanese monika_we_de6e8a03:
+    m 3eksdlc "D-503は、国に反するからと彼女の誘いを断ると同時に、興味をそそられてもしまうんだ。でもどうしてI-330がこんな大胆に行動出る理由はわからない"
+
+translate Japanese monika_we_08a018fa:
+    m 1rksdla "心のなかでのダメだと分かっているのにD-503はI-330と会い続け、最終的には以前のD-503なら絶対にやろうとしなかった一線を越えてしまうの"
+
+translate Japanese monika_we_f95d46c5:
+    m 1eud "……「医療局」につてがあるI-330のおかげでD-503は病気の証明書を発行してもらえるようになって、スケジュールを守らない口実としてそれを利用するようになったり"
+
+translate Japanese monika_we_e1438758:
+    m 3eud "D-503は違反行為を犯したI-330を「守護者局」へ報告できるのに、結局しなかった。
+そしてそれだけじゃなく、彼女との逢引も続けてしまっていた"
+
+translate Japanese monika_we_00fb745b:
+    m 3rkbla "そしてある日、D-503はI-330にアルコールを飲ませられるの。そしてD-503は自身の中に抑圧されていた動物的で情熱的な一面に触れることになる……"
+
+translate Japanese monika_we_c83c81ca:
+    m 3tublc "それから、I-330にパートナーがいることをほのめかされると、D-503は以前にはなかった感情を感じ始めるの……{w=0.5} 嫉妬をね"
+
+translate Japanese monika_we_78bbae45:
+    m 1eksdlc "O-90や友人のR-13との関係がどんどん悪化しているのに、I-330を愛することをやめられないD-503"
+
+translate Japanese monika_we_865efca5:
+    m 3eksdld "その後、また「医療局」へ偽の病気診断書をもらいに行くんだけど、そこで想像力を発達させてしまったと診断される"
+
+translate Japanese monika_we_dfb7bcaf:
+    m 3tkd "ナンバーが機械的でなくなってしまうため、この国では想像力の発達は重大な疾患だとされてるの"
+
+translate Japanese monika_we_3f408a5c:
+    m 4wud "信じられる？ 想像力や感情や個人の人格は、人間にはなくてはならないものなのに、それを持つと致命的な病気と見なされちゃうんだよ！"
+
+translate Japanese monika_we_dee73251:
+    m 2dkc "最後には、「単一国」は手術で人間の脳の想像力を司る部分を完全に破壊して、ナンバーたちを永久に健康にしてしまう"
+
+translate Japanese monika_we_a6caa95e:
+    m 2ekd "これが、「恩人」が理想とする生活に反対しようとしていた人々の最終的な運命ね"
+
+translate Japanese monika_we_4202dd70:
+    m 2dkc "あまりにも残酷な運命よね……{w=0.5}何もかもに無関心になって機械の歯車のように生き続けるなんて、想像もできない"
+
+translate Japanese monika_we_0ad1024b:
+    m 2tkc "できることなら――{w=0.2}いえ絶対に――{w=0.2}以前の自分なんかに戻りたくない"
+
 translate Japanese monika_dystopias_f27eea59:
     m 1rkc "……"
 
@@ -23055,6 +23164,9 @@ translate Japanese strings:
 
     old "Catch-22"
     new "キャッチ=22"
+
+    old "We"
+    new "『われら』"
 
     old "Social contagion"
     new "社会的伝染"
