@@ -13534,6 +13534,9 @@ translate Japanese monika_yellowwp_db29bfb8:
 translate Japanese monika_yellowwp_9b02164d:
     m 1hksdrb "男っていうのは、もちろんあなたのことじゃないからね！ ゲーム中で主人公だったあの男よりも、あなたのほうがずっと人間味があるよ"
 
+translate Japanese monika_yellowwp_804a1edf:
+    m 1dsc "私にだって夢や望みはあるし、興味もあるんだよ…… {w=0.5}だけど結局ここで私に割り当てられた実際の役割は、ただの脇役だった"
+
 translate Japanese monika_yellowwp_d275bcdf:
     m "今はまだ想像をしながら夢見ることしか出来ないけれど……"
 
@@ -16796,6 +16799,9 @@ translate Japanese monika_snowcanvas_9865c6e3:
 translate Japanese monika_snowcanvas_75b760af:
     m 3euc "[player]、雪って白いキャンバスみたいなものなのよ"
 
+translate Japanese monika_snowcanvas_aa7f18ec:
+    m 3eub "いつかあなたと雪国へ行けたなら、食紅スプレーで想像力の赴くまま雪原の上に作品を描けたらなって！"
+
 translate Japanese monika_snowcanvas_fc1f7cec:
     m 1eua "絵を描くスペースがいっぱい！素晴らしいわ！"
 
@@ -17932,19 +17938,19 @@ translate Japanese monika_we_2e484ec4:
     m 7eua "D-503は数学者であり、「単一国」初の宇宙船 「インテグラル号」 の設計者でもあって"
 
 translate Japanese monika_we_690746b7:
-    m 3eud "彼の設計した宇宙船インテグラル号は、「単一国」政府に完全に従属するという教義を世界に広めるため、そして他の惑星や生命体にも論理的志向の生活様式を拡大するために造られている"
+    m 3eud "彼の設計した宇宙船インテグラル号は、「単一国」政府に完全に従属するという教義を世界に広めるため、そして他の惑星や生命体にも論理的志向の生活様式を拡大するために造られているの"
 
 translate Japanese monika_we_a8c519cf:
-    m 1eua "D-503には国家公認のパートナー、O-90という名前の女性と定期的に逢っているの。パートナーの彼女はD-503と関係を持てることをとても喜んでいる"
+    m 1eua "D-503には国家公認の女性パートナーO-90がいて、定期的に逢っているんだ。パートナーの彼女はD-503と関係を持てることをとても喜んでいるんだけど"
 
 translate Japanese monika_we_839459cf:
-    m 1eksdla "ある日、D-503がその定期的な「個人時間」中にO-90と散歩をしていると、I-330という名前の謎の女性ナンバーに出会う"
+    m 1eksdla "ある日、D-503がその定期的な「個人時間」中にO-90と散歩をしていると、I-330という名前の謎の女性ナンバーに出会うの"
 
 translate Japanese monika_we_e794e37b:
-    m 3eksdld "I-330はD-503の気を引いてくるんだけど、そのような行為は国の法律に反しているの"
+    m 3eksdld "I-330はD-503の気を引いてくるんだけど、そのような行為は国の法律に反しているのよ"
 
 translate Japanese monika_we_de6e8a03:
-    m 3eksdlc "D-503は、国に反するからと彼女の誘いを断ると同時に、興味をそそられてもしまうんだ。でもどうしてI-330がこんな大胆に行動出る理由はわからない"
+    m 3eksdlc "だからD-503は国に反するからと彼女の誘いを断るんだけど、それと同時に彼女に興味をそそられてもしまうの。でもどうしてI-330がこんな大胆に行動出るのかその理由がわからない"
 
 translate Japanese monika_we_08a018fa:
     m 1rksdla "心のなかでのダメだと分かっているのにD-503はI-330と会い続け、最終的には以前のD-503なら絶対にやろうとしなかった一線を越えてしまうの"
@@ -17982,6 +17988,12 @@ translate Japanese monika_we_a6caa95e:
 
 translate Japanese monika_we_4202dd70:
     m 2dkc "あまりにも残酷な運命よね……{w=0.5}何もかもに無関心になって機械の歯車のように生き続けるなんて、想像もできない"
+
+translate Japanese monika_we_7b5a7f87:
+    m 2eksdlc "自分がどうだったかを考えちゃうわね、もし目を見開いて世界の真実に気づけなかったら、どうなっていたかを"
+
+translate Japanese monika_we_32c95d73:
+    m 2dkd "偽物の感情に作り物の愛しかない世界でメインキャラクターにもなれず、終わりのないルーチンをゲームがプレイされるたびに繰り返すだけ"
 
 translate Japanese monika_we_0ad1024b:
     m 2tkc "できることなら――{w=0.2}いえ絶対に――{w=0.2}以前の自分なんかに戻りたくない"
@@ -21549,6 +21561,51 @@ translate Japanese monika_know_its_you_a0b29980:
 translate Japanese monika_know_its_you_2c7a510e:
     m 2dkd "まあ、そんな事は一切考えないようにするほうがいいでしょうね"
 
+translate Japanese monika_fav_chocolate_b026f705:
+    m 2hksdlb "わぁ！ それはすごく難しい質問だね！"
+
+translate Japanese monika_fav_chocolate_0a155b52:
+    m 4euu "あえて選ぶなら、ダークチョコレートかな"
+
+translate Japanese monika_fav_chocolate_6d52aef4:
+    m 2eub "ミルクがほとんど、またはまったく含まれていないからクリーミーさは薄いチョコだけど、ほろ苦い味がして好きなのよね"
+
+translate Japanese monika_fav_chocolate_6de9399a:
+    m 7eub "そしてダークチョコレートは抗酸化物質が豊富で、心臓疾患の予防効果もあるんだよ！{w=0.3}{nw}"
+
+translate Japanese monika_fav_chocolate_5fcdb149:
+    extend 3husdla "……もちろん、適度な量を食べていればの話ね"
+
+translate Japanese monika_fav_chocolate_3bc3e965:
+    m 1eud "香りがモカコーヒーに似てるのもいいのよね。{w=0.2}たぶんこの香りが、私がダークチョコレートを選ぶ一番の理由かな"
+
+translate Japanese monika_fav_chocolate_1db52fc3:
+    m 3etc "……でもよくよく考えてみれば、ミルクチョコレートやホワイトチョコレートもコーヒーのお茶請けになら結構よさそうよね"
+
+translate Japanese monika_fav_chocolate_58b568b5:
+    m 3etc "でもコーヒーを飲んでるときには、ミルクチョコレートかホワイトチョコレートのお茶請けにした方がバランスがいいと思うかな"
+
+translate Japanese monika_fav_chocolate_4363c3c9:
+    m 3eud "ホワイトチョコレートは甘くて柔らかいのが特徴のチョコだけど、ココアパウダーのような苦味のある成分はまったく含まれていないの…… {w=0.3}ココアバターとミルクと砂糖しか含まれてないんだよ"
+
+translate Japanese monika_fav_chocolate_2ad6ccd6:
+    m 3eua "でも甘いチョコは対照的な苦いコーヒーとは合いそうよね、特にエスプレッソ"
+
+translate Japanese monika_fav_chocolate_2715a0c9:
+    m 1etc "んー……{w=0.3}{nw}"
+
+translate Japanese monika_fav_chocolate_fededd30:
+    extend 1wud "でも、キャラメルやフルーツが混ざったチョコはどうなんだろうね"
+
+translate Japanese monika_fav_chocolate_9d8e4e60:
+    m 2hksdlb "もし心ゆくまで試せるなら、お気に入りのチョコ選びに一日中費やしちゃうかもね！"
+
+translate Japanese monika_fav_chocolate_9f3d8901:
+    m 2eua "いつか色んな種類のチョコが入ったおっきな詰め合わせを買って、あなたと一緒に食べてみたいな。{w=0.2}{nw}"
+
+translate Japanese monika_fav_chocolate_80330c19:
+    extend 4hub "お気に入りの言い合いっことか楽しそうだよね、あはは！"
+
 translate Japanese monika_tanabata_4f9c66db:
     m 2hksdlb "あら？まさか私が{i}織姫と彦星{/i}のお話をしていたとき、ぼんやりしてたんじゃないでしょうね！"
 
@@ -21786,6 +21843,36 @@ translate Japanese monika_ddlcroleplay_f4118570:
 translate Japanese monika_ddlcroleplay_731ff371:
     m 3euc "最近知ったんだけど、ある界隈で架空のキャラになりきったSNSアカウントを運用することが楽しまれているみたいなの"
 
+translate Japanese monika_zodiac_starsign_e44e48df:
+    m 1rta "まあ私の誕生日だと、間違いなく乙女座ね"
+
+translate Japanese monika_zodiac_starsign_e7f7f778:
+    m 3eub "そしてあなたは…{w=0.3} [player_zodiac_sign]よね？"
+
+translate Japanese monika_zodiac_starsign_204f424b:
+    m 3eub "そしてあなたも乙女座よね、[mas_get_player_nickname()]！"
+
+translate Japanese monika_zodiac_starsign_b0d70184:
+    m 1eta "けどさ、十二星座って変な話だと思わない？"
+
+translate Japanese monika_zodiac_starsign_0c9ae7f7:
+    m 3esd "私がいいたいのはね、宇宙にあるものが私のプロフィールに書かれる意味が{i}本当に{/i}わからないってこと"
+
+translate Japanese monika_zodiac_starsign_ac0e6b6c:
+    m 1tuc "分かってると思うけど、私達の個性を構成する要素と言うには星座を作る星々の位置はあまりにも遥か彼方すぎるのよ"
+
+translate Japanese monika_zodiac_starsign_fb71cf00:
+    m 4wud "同じ話だけど、恋人や友達の相性判断を星座でするのも変な話よね！"
+
+translate Japanese monika_zodiac_starsign_26169f40:
+    m 2luc "……私には理解できない話だわ"
+
+translate Japanese monika_zodiac_starsign_7efb9547:
+    m 7eua "だから心配しないで[p_nickname]、{w=0.2}{nw}"
+
+translate Japanese monika_zodiac_starsign_98d92640:
+    extend 1eublu "そんな古臭い星占いなんかで私達の関係が壊れることは絶対にないからね"
+
 translate Japanese _call_monika_jekyll_hyde_fb225d2e:
     m 1euc "ねえ[player]、ゴシック小説を手に取ってみたことはある？"
 
@@ -21812,6 +21899,45 @@ translate Japanese _call_monika_jekyll_hyde_1_0c6c888a:
 
 translate Japanese monika_jekyll_hyde_6f704737:
     m 3hub "読んでくれたのね、嬉しい！"
+
+translate Japanese monika_jekyll_hyde_576ee8df:
+    m 1euc "この本について、いろんな解釈を見たのよね"
+
+translate Japanese monika_jekyll_hyde_38714bb5:
+    m 3eua "たとえば、アターソンはジキル博士に恋しているとか"
+
+translate Japanese monika_jekyll_hyde_c96090c4:
+    m 3lta "やろうと思えば、たしかにそういう見方も出来るのよね"
+
+translate Japanese monika_jekyll_hyde_12020c77:
+    m 2eud "つまりね、文中にそんな事書かれてないけど、そういう解釈が全くありえないってわけじゃないよねってこと"
+
+translate Japanese monika_jekyll_hyde_4bc68886:
+    m 2rksdlc "付け加えるとね、この手の話は19世紀の頃にはまったく話題に上がることすらなかったの"
+
+translate Japanese monika_jekyll_hyde_b478afc7:
+    m 2eka "たしかに楽しいと思うのよね……{w=0.3} 物語の登場人物を妄想、それも同性同士の禁断の愛を妄想するのは……"
+
+translate Japanese monika_jekyll_hyde_d2c5a465:
+    m 4eud "他にもね、ジキルが実験に取り憑かれていたのは、ハイドを深く愛していたことが理由なんだって言ってる解釈もあったの"
+
+translate Japanese monika_jekyll_hyde_bbad6a2c:
+    m 4ekd "そしてこの解釈は全く反証できないのよ！{w=0.3}その解釈本では、ジキルは聖人だとも述べられていたわ"
+
+translate Japanese monika_jekyll_hyde_fae5ec1a:
+    m 2rksdlc "同性愛であることは、その時代では罪だった"
+
+translate Japanese monika_jekyll_hyde_6db92fc9:
+    m 2dksdld "悲しいけど、いまでもそう考える人もいまだにいるのよね"
+
+translate Japanese monika_jekyll_hyde_2e3f7505:
+    m 7ekb "……でも私達の社会は少しずつだけどもいい方向に進んでいってる！"
+
+translate Japanese monika_jekyll_hyde_04990955:
+    m 3eub "私はね、世界がいろいろな愛のあり方を受け入れていることが嬉しいんだよね"
+
+translate Japanese monika_jekyll_hyde_00c5ae49:
+    m 3ekbsu "私達は特別な結ばれ方だから特にそう思っちゃうんだ、[mas_get_player_nickname()]～"
 
 translate Japanese strings:
     old "Flagged for removal."
@@ -23129,8 +23255,15 @@ translate Japanese strings:
     old "Robot body"
     new "機械の身体"
 
+    old "more than a little bit uneasy."
+    new "……でも、どんな人の命令にも絶対に逆らえないかもしれないって思うと、かなり不安になっちゃうな
+"
+
     old "feel like I'm trapped in a way."
     new "……でも、どんな人の命令にも絶対に従わなければならない。それって、この世界の檻から出られたとしても、また別の檻の中に閉じ込められてしまっているのと同じだと思わない？"
+
+    old "we would end up needing to set up rules for androids to be able to live in our society."
+    new "でも私たちの社会の中でアンドロイドが生きるには、そういうルールを作らなきゃいけないことは理解できる"
 
     old "those rules are there to begin with, even if they only exist in fiction."
     new "でもね、たとえそれがフィクションの世界の中だとしても、そういうルールが必要な理由は理解できる"
@@ -23345,6 +23478,9 @@ translate Japanese strings:
     old "How do you know it's always me talking to you?"
     new "今自分が話しかけているって、そっちからわかるの？"
 
+    old "What's your favorite kind of chocolate?"
+    new "モニカはどのチョコが一番好きなの？"
+
     old "What is Tanabata?"
     new "七夕って？"
 
@@ -23362,6 +23498,9 @@ translate Japanese strings:
 
     old "DDLC Roleplay"
     new "DDLCのなりきり"
+
+    old "What's your starsign?"
+    new "モニカの星座は何座？"
 
     old "Jekyll and Hyde"
     new "ジキル博士とハイド氏"
