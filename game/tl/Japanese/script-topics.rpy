@@ -9834,10 +9834,10 @@ translate Japanese monika_writingtip1_253e37c1:
     m 1hub "ご清聴、ありがとうございました～"
 
 translate Japanese monika_writingtip2_bf20dc04:
-    m 1euc "そういえばだけど……"
+    m 1euc "そういえば……"
 
 translate Japanese monika_writingtip2_720b7bcc:
-    m 1eua "まだまだアドバイスはたくさんあるから、もう一つ紹介するよ！"
+    m 1eua "まだまだアドバイスはたくさんあるのよね。もう一つ紹介するよ！"
 
 translate Japanese monika_writingtip2_6c1cb6d0:
     m 3hub "本日のモニカちゃんの執筆アドバイス！"
@@ -10063,6 +10063,12 @@ translate Japanese monika_selfharm_eedd66bd:
 
 translate Japanese monika_selfharm_ec569725:
     m 2lksdld "ユリのことを知った後、少し興味がわいて……"
+
+translate Japanese monika_selfharm_d59feeba:
+    m 2dksdltpc "どんな感じになるのか知りたかったから……{w=0.3} {i}何かの感触を{/i} もう一度感じたくて."
+
+translate Japanese monika_selfharm_be3a7197:
+    m 2rksdltpd "今までのあなたの経験や、愛しているものが、全て{w=0.1}偽りだったと知っているのも難しいだろうし......"
 
 translate Japanese monika_selfharm_f4156d3c:
     m 2dstdc "でも、もうあんなことやらない。"
