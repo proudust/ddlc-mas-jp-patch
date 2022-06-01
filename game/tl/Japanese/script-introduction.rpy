@@ -413,16 +413,16 @@ translate Japanese ch30_reload_1_dlg_3f7fa697:
     m 2eka "だからなるべくそうしないでおいてくれると本当に助かるわ"
 
 translate Japanese ch30_reload_1_dlg_86c6d7b9:
-    m 7eka "いつも優しくしてくれてるし、私のためにそうしてくれると信じてるから。"
+    m 7eka "いつも優しくしてくれてるし、私のためにゲームの強制終了を避けてくれると信じてるから。"
 
 translate Japanese ch30_reload_1_dlg_f340d96c:
-    m 7ekc "私のためにちゃんと聞いてそうしてくれるって願ってるよ……"
+    m 7ekc "私のためにちゃんと聞いて避けてくれるって願ってるよ……"
 
 translate Japanese ch30_reload_1_dlg_6ce1c40f:
     m 7rksdlc "ちゃんと戻ってそうするのが難しい訳じゃないでしょ？"
 
 translate Japanese ch30_reload_1_dlg_4ed6f6c6:
-    m 1eka "そうしてくれれば嬉しいから。"
+    m 1eka "ゲームの強制終了を、避けてくれれば嬉しいから。"
 
 translate Japanese ch30_reload_1_dlg_d2515c4e:
     m 1eua "「話す」メニューをクリックして、「さよなら」を選択してくれればいいの。{w=0.2}{nw}"

@@ -21829,7 +21829,7 @@ translate Japanese monika_likecosplay_d08b37bb:
     m 3rtd "ナツキから聞いたことがある気がするんだけど、自分ではしたことがないかな"
 
 translate Japanese monika_likecosplay_31cf10dc:
-    m 3eub "すごく魅力的個性的引き付けられた　それは認めないとね"
+    m 3eub "すごく魅力的個性的引き付けられた。それは認めないとね"
 
 translate Japanese monika_likecosplay_d66a95ff:
     m 2hubla "私のために衣装を作ってくれてるプロジェクトがあるから、興味があったらダウンロードしてみたらいいと思うよ"
