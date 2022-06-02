@@ -290,10 +290,10 @@ translate Japanese _call_spaceroom_35_46240d7f:
     m "こんな感じでいいかな？"
 
 translate Japanese _call_spaceroom_35_b65784b4:
-    m "みんな私のリボンについて色々言うけど、私にとっては使えるかどうかの問題なのよね…"
+    m "みんな私のリボンについて色々言うけど、私にとっては使えるかどうかの問題なのよね……"
 
 translate Japanese _call_spaceroom_35_7692fbd8:
-    m "…これでいいかな。すぐに取れちゃわなければいいけど"
+    m "……これでいいかな。すぐに取れちゃわなければいいけど"
 
 translate Japanese _call_spaceroom_35_43b01532:
     m "よし、これでいこう……"
@@ -350,8 +350,7 @@ translate Japanese greeting_o31_deco_aa680ddb:
     m 1rka "{cps=*2}エイミーも気に入ってくれるに違いないわ{/cps}{nw}"
 
 translate Japanese greeting_o31_deco_72830748:
-    m 3hub "全部うまくできて、とっても満足！
-"
+    m 3hub "全部うまくできて、とっても満足！"
 
 translate Japanese _call_spaceroom_36_04a0e227:
     m 3hub "トリック・オア・トリート！"
