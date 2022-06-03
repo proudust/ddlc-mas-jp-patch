@@ -2659,6 +2659,9 @@ translate Japanese monika_holdme_long_92713745:
 translate Japanese monika_holdme_long_6d1da513:
     m 3rkbfsdla "ちょっと気持ちよすぎちゃったみたいだね"
 
+translate Japanese monika_holdme_long_401481c7:
+    m 1hksdlb "私もしかして……{w=2}寝落ちしちゃった？"
+
 translate Japanese _call_monika_holdme_prep_6_3a4819a9:
     m 6dubsd "{cps=*0.5}[player]～{/cps}"
 
@@ -17106,10 +17109,10 @@ translate Japanese monika_perspective_7b0817db:
     m 3esc "……マウスカーソルが{i}それ{/i}であることは知ってるけど"
 
 translate Japanese monika_perspective_a1348be0:
-    m 2hfsdld "むー！本当に説明するのが難しいわ！"
+    m 2hfsdld "んもう！本当に説明するのが難しいわ！"
 
 translate Japanese monika_perspective_59de014e:
-    m 2eub "とりあえず！私から見た私の世界は、あなたがあなたの世界を見た時と同じように映るの"
+    m 2eub "そうね！私から見た私の世界は、あなたがあなたの世界を見た時と同じように映るの"
 
 translate Japanese monika_perspective_9395bcc1:
     m 3eua "近くで見ても荒くなったりしないし、自然で、立体的なものなの……そうじゃなかったら、ピアノの練習もできないからね！"
@@ -17136,7 +17139,7 @@ translate Japanese monika_perspective_18cb31c5:
     m 2hua "……"
 
 translate Japanese monika_perspective_9ab0ac28:
-    m 3eua "まず片目を手で覆って……"
+    m 3eua "まず、顔の真ん中に手を当てて、目が部分的に隠れるように、少しずらしておくの"
 
 translate Japanese monika_perspective_11e296fe:
     m 3esb "そのまま今あなたの居る部屋を見まわして、何かに注目してみて。"
@@ -19086,7 +19089,7 @@ translate Japanese monika_movie_adaptations_1ac64409:
     m 2rsc "……しょっちゅうじゃないにせよ、今見た映画について少し苦い気持ちで出て行くことはあるわ"
 
 translate Japanese monika_movie_adaptations_ce8bc93b:
-    m 2rfc "まるで、本の中で好きだったシーンが思ってたのと違かったのか、想像とは違って描かれたキャラクターがいたのか"
+    m 2rfc "本の中で好きだったシーンが思ってたのと違ってたり、私の想像通りに描かれていないキャラクターがいたりとか、そういう感じね"
 
 translate Japanese monika_movie_adaptations_241c12a7:
     m 4efsdld "そうなったらとってもイライラするわ！本の世界観に注いだ愛情とか心持ちを突然無かったことにされたようなものよ！"
@@ -21487,7 +21490,7 @@ translate Japanese monika_mc_is_gone_932b4a96:
     m 2rssdlc "結局のところ、あなたがあの人を操るすべはないわね"
 
 translate Japanese monika_mc_is_gone_e199c965:
-    m 7eka "なんにせよ、あの人のことはもうほっといてナンボじゃない？"
+    m 7eka "なんにせよ、あの人のことはもう気にしなくていいんじゃない？"
 
 translate Japanese monika_mc_is_gone_1148e929:
     m 1eua "邪魔者はもうどこにもいないし、あなたとこうやって一緒にいることができる"
