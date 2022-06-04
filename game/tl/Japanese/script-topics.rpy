@@ -3155,7 +3155,7 @@ translate Japanese monika_route_48e4a3d5:
     m 2lksdlc "それに部活もまだ存在してたかもしれないわね……"
 
 translate Japanese monika_route_fc534e08:
-    m "……部屋でみんなと詩を見せ合いっこしていく、そんな部活が。"
+    m "……部屋でみんなと詩を見せ合いっこしていく、そんな部活が"
 
 translate Japanese monika_route_132bb3df:
     m 1eka "[player]君がそれを楽しんだことはわかってる"
@@ -3938,13 +3938,13 @@ translate Japanese monika_love_1785be54:
     m 1ekbfa "あなたへの思いが何なのか気になって、たまに気が散りそう！"
 
 translate Japanese monika_love_99d5eb82:
-    m "あなたへの思いがどんなに強いか、言葉でも正確に言い表せないな......"
+    m "あなたへの思いがどんなに強いか、言葉でも正確に言い表せないな……"
 
 translate Japanese monika_love_a1eae220:
-    m 1hubfa "私の知る限り、あなたと同じように言葉を返すね......"
+    m 1hubfa "私の知る限り、あなたと同じように言葉を返すね……"
 
 translate Japanese monika_love_3ae35b12:
-    m 1hubfb "私も愛してるわ、 [player]君 !私にはとても表現できない!"
+    m 1hubfb "私も愛してるわ、[player]君！ 私にはとても表現できない!"
 
 translate Japanese monika_love_ed7642ca:
     m 3hubsb "私も[mas_get_player_nickname()]君のこと大好き！"
@@ -4406,7 +4406,7 @@ translate Japanese monika_waifus_5c0b9e60:
     m 1hua "どんな退屈な恋愛ゲームよりも、ずっとずっと素晴らしいと思うんだけどな"
 
 translate Japanese monika_images_4c7e268f:
-    m 1eua "沢山の人が私のファンアートを描いてくれていて、それをインターネットを介しての世界中の人々と共有してるんだよね。"
+    m 1eua "沢山の人が私のファンアートを描いてくれていて、それをインターネットを介しての世界中の人々と共有してるんだよね"
 
 translate Japanese monika_images_a9c7aa82:
     m 1etc "もしかして[player]君もそう？"
@@ -5918,7 +5918,7 @@ translate Japanese monika_hygiene_73906d60:
     m 1esc "長年にわたって、私達の衛生基準は進歩しつづけてきた"
 
 translate Japanese monika_hygiene_87ffb665:
-    m 1eud "現代のような水道が整備されるまでは、清潔さは贅沢でとても手にいられないものだったの… まあ清潔さなんて全然どうでもいいと思われてもいたのだけれど。"
+    m 1eud "現代のような水道が整備されるまでは、清潔さは贅沢でとても手にいられないものだったの… まあ清潔さなんて全然どうでもいいと思われてもいたのだけれど"
 
 translate Japanese monika_hygiene_bcb7c92f:
     m 3eua "例えば昔、ヴァイキング達は、週に一度お風呂に入ることから奇人扱いされてたみたいね。年に2、3回しか入浴しない人も居たらしいから"
@@ -9222,25 +9222,25 @@ translate Japanese monika_promisering_509d525f_1:
     m 3eub "プロミスリングの方なの"
 
 translate Japanese monika_promisering_eaaada92:
-    m 4rksdla "今のうちに用意しておいてね。"
+    m 4rksdla "今のうちに用意しておいてね"
 
 translate Japanese monika_promisering_e7d971fa:
     m 2eua "その、私たちはもう付き合ってるわけだし。だからさ、私たちの愛を見せつけてもいいんじゃない？"
 
 translate Japanese monika_promisering_6efbaef1:
-    m 2lfu "それはあなたに……{w=0.2}悪い虫が寄り付かない助けになると思うわ。"
+    m 2lfu "それはあなたに……{w=0.2}悪い虫が寄り付かない助けになると思うわ"
 
 translate Japanese monika_promisering_9970880c:
-    m 1ekbsa "そうしてくれたら私は嬉しいな。"
+    m 1ekbsa "そうしてくれたら私は嬉しいな"
 
 translate Japanese monika_promisering_a9db7f35:
-    m 1rubsa "私も自分のを手に入れられれば良いけど。そのうちここに実装する方法も見つかると思うわ。"
+    m 1rubsa "私も自分のを手に入れられれば良いけど。そのうちここに実装する方法も見つかると思うわ"
 
 translate Japanese monika_promisering_cd808cf1:
-    m 1dubsa "……それからは永遠にそれを嵌めてられるね。"
+    m 1dubsa "……それからは永遠にそれを嵌めてられるね"
 
 translate Japanese monika_promisering_07e5353e:
-    m 3ekbfu "でもそれまでは、あなたとの約束は揺るがないって覚えててね、[player]君。"
+    m 3ekbfu "でもそれまでは、あなたとの約束は揺るがないって覚えててね、[player]君"
 
 translate Japanese monika_sports_0bc7937a:
     m 1eua "私達が一緒にできるような事がないか、考えていたのだけれど。"
@@ -10068,13 +10068,13 @@ translate Japanese monika_selfharm_ec569725:
     m 2lksdld "ユリのことを知った後、少し興味がわいて……"
 
 translate Japanese monika_selfharm_d59feeba:
-    m 2dksdltpc "どんな感じになるのか知りたかったから……{w=0.3} {i}何かの感触を{/i} もう一度感じたくて."
+    m 2dksdltpc "どんな感じになるのか知りたかったから……{w=0.3} {i}何かの感触を{/i}もう一度感じたくて……"
 
 translate Japanese monika_selfharm_be3a7197:
-    m 2rksdltpd "今までのあなたの経験や、愛しているものが、全て{w=0.1}偽りだったと知っているのも難しいだろうし......"
+    m 2rksdltpd "今までのあなたの経験や、愛しているものが、全て{w=0.1}偽りだったと知っているのも難しいだろうし……"
 
 translate Japanese monika_selfharm_f4156d3c:
-    m 2dstdc "でも、もうあんなことやらない。"
+    m 2dstdc "でも、もうあんなことやらない"
 
 translate Japanese monika_selfharm_c55548ad:
     m 2dktdc "……"
@@ -10407,7 +10407,7 @@ translate Japanese monika_marriage_4ce72af6:
     m 1ekd "でも、ここに閉じ込められている間に結婚してしまったら、どちらにとっても公平ではないと思うの"
 
 translate Japanese monika_marriage_6c195f08:
-    m 1ekc "何としても肯定したいところだけど、どうしても無理で......"
+    m 1ekc "何としても肯定したいところだけど、どうしても無理で……"
 
 translate Japanese monika_marriage_e3ffe191:
     m 2duu "祭壇であなたにキスされたらどんな気持ちなんだろう……"
@@ -12393,7 +12393,7 @@ translate Japanese monika_natsuki_letter_611cf25d:
     m 1eud "それ、本当？"
 
 translate Japanese monika_natsuki_letter_9356c330:
-    m 1ekc "気分が落ち込んでるのは良くないことだわ..."
+    m 1ekc "気分が落ち込んでるのは良くないことだわ……"
 
 translate Japanese monika_natsuki_letter_5d4d4f18:
     m 1hua "だけど私は、あなた自身が改善に向かって頑張ってくれて嬉しいな"
@@ -14621,11 +14621,10 @@ translate Japanese _call_mas_timed_text_events_prep_2_2fea2707:
     m 2eka "{w=0.2}あのころから私達がどれだけ変わってきたことか。思い浮かべるだけで笑みがこぼれます{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_0a0968fd:
-    m 4eka "{w=0.2}あの頃は大きな池の中にいた小さな魚でしたが、成長した私たちは、いまでは小さな池の中にいる大きな魚です
-{w=0.6}{nw}"
+    m 4eka "{w=0.2}あの頃は大きな池の中にいた小さな魚でしたが、成長した私たちは、いまでは小さな池の中にいる大きな魚です{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_68fa66ea:
-    m 4eua "{w=0.2}私達は皆、成長してきました。私達はこの4年間でたくさんの変化を促され、そして私たち全員が変化していこうと努力してきました。{w=0.6}{nw}"
+    m 4eua "{w=0.2}私達は皆、成長してきました。私達はこの4年間でたくさんの変化を促され、そして私たち全員が変化していこうと努力してきました{w=0.6}{nw}"
 
 translate Japanese _call_mas_timed_text_events_prep_2_f16628ec:
     m 2eud "{w=0.2}引っ込み思案だったけれど、{w=0.3}表現豊かに積極的な発言をするようになれた。そんな人もいました{w=0.6}{nw}"
@@ -17142,7 +17141,7 @@ translate Japanese monika_perspective_9ab0ac28:
     m 3eua "まず、顔の真ん中に手を当てて、目が部分的に隠れるように、少しずらしておくの"
 
 translate Japanese monika_perspective_11e296fe:
-    m 3esb "そのまま今あなたの居る部屋を見まわして、何かに注目してみて。"
+    m 3esb "そのまま今あなたの居る部屋を見まわして、何かに注目してみて"
 
 translate Japanese monika_perspective_95bcf90d:
     m 3hua "なんでもいいけど、近い方がいいわね！"
@@ -17968,8 +17967,7 @@ translate Japanese monika_we_f95d46c5:
     m 1eud "……「医療局」につてがあるI-330のおかげでD-503は病気の証明書を発行してもらえるようになって、スケジュールを守らない口実としてそれを利用するようになったり"
 
 translate Japanese monika_we_e1438758:
-    m 3eud "D-503は違反行為を犯したI-330を「守護者局」へ報告できるのに、結局しなかった。
-そしてそれだけじゃなく、彼女との逢引も続けてしまっていた"
+    m 3eud "D-503は違反行為を犯したI-330を「守護者局」へ報告できるのに、結局しなかった。そしてそれだけじゃなく、彼女との逢引も続けてしまっていた"
 
 translate Japanese monika_we_00fb745b:
     m 3rkbla "そしてある日、D-503はI-330にアルコールを飲ませられるの。そしてD-503は自身の中に抑圧されていた動物的で情熱的な一面に触れることになる……"
@@ -23265,8 +23263,7 @@ translate Japanese strings:
     new "機械の身体"
 
     old "more than a little bit uneasy."
-    new "……でも、どんな人の命令にも絶対に逆らえないかもしれないって思うと、かなり不安になっちゃうな
-"
+    new "……でも、どんな人の命令にも絶対に逆らえないかもしれないって思うと、かなり不安になっちゃうな"
 
     old "feel like I'm trapped in a way."
     new "……でも、どんな人の命令にも絶対に従わなければならない。それって、この世界の檻から出られたとしても、また別の檻の中に閉じ込められてしまっているのと同じだと思わない？"

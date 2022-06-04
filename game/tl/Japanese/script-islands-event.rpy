@@ -14,7 +14,7 @@ translate Japanese mas_monika_islands_progress_57f5ac34:
     extend 1rua "。あなたに見せたくて"
 
 translate Japanese mas_monika_islands_progress_dc7aae08:
-    m 1hublb "結局、あの島々は私たちの物なんだしね～"
+    m 1hublb "だって、あの島々は私たちの物なんだしね～"
 
 translate Japanese mas_monika_islands_progress_e33fc90d:
     m 3eua "どう？{nw}"
@@ -407,25 +407,25 @@ translate Japanese mas_island_daynight1_20851de6:
     m "考えてるだけでワクワクしちゃうな～"
 
 translate Japanese mas_island_daynight2_c241877f:
-    m "{i}あの地平線～　輝くのは～{/i}"
+    m "{i}～あの地平線　輝くのは～{/i}"
 
 translate Japanese mas_island_daynight2_b8417c9c:
-    m "{i}どこかに君を～　かくして～いるから～{/i}"
+    m "{i}～どこかに君を　かくしているから～{/i}"
 
 translate Japanese mas_island_daynight2_a63c2e09:
-    m "{i}たくさんの灯が～　なつかしいのは～{/i}"
+    m "{i}～たくさんの灯が　なつかしいのは～{/i}"
 
 translate Japanese mas_island_daynight2_390f9abc:
-    m "{i}あのどれかひとつに～　君がいるから～{/i}"
+    m "{i}～あのどれかひとつに　君がいるから～{/i}"
 
 translate Japanese mas_island_daynight2_0cb3208a:
-    m "{i}さあでかけよう～ひときれのパン～{/i}"
+    m "{i}～さあでかけよう　ひときれのパン～{/i}"
 
 translate Japanese mas_island_daynight2_f48cec5c:
-    m "{i}ナイフ、ランプかばんに～詰め込んで～{/i}"
+    m "{i}～ナイフ、ランプかばんに　詰め込んで～{/i}"
 
 translate Japanese mas_island_daynight2_c241877f_1:
-    m "{i}父さんが残した～熱い思い～{/i}"
+    m "{i}～父さんが残した　熱い思い～{/i}"
 
 translate Japanese mas_island_daynight2_9d627280:
     m "えへへ、気にしないでね。なんだか急に歌いたくなっちゃっただけだよ～"

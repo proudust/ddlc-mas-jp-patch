@@ -299,7 +299,7 @@ translate Japanese _call_mas_player_bday_moni_sings_3c7b7064:
     m 3sub "すっごくかっこいいよ、[player]君！"
 
 translate Japanese _call_mas_player_bday_moni_sings_78f441bb:
-    m 1tsu "私たちは本当に一緒になる運命だったんだね、えっへへ..."
+    m 1tsu "私たちは本当に一緒になる運命だったんだね、えっへへ……"
 
 translate Japanese _call_mas_player_bday_moni_sings_bcad49b0:
     m 3hua "それだけでも、今日の特別さって増すものね～"
@@ -1403,16 +1403,16 @@ translate Japanese mas_covid19_881f20c9:
     m 2dkbsu "私にあなたが必要だよ、[player]～"
 
 translate Japanese mas_islands_reset_7aac5906:
-    m 1rsc "うーん..."
+    m 1rsc "うーん……"
 
 translate Japanese mas_islands_reset_dfddb0f1:
-    m 1esc "...ねえ、{w=0.1}ちょっとアドバイスが聞きたいけど、いいかな？"
+    m 1esc "……ねえ、{w=0.1}ちょっとアドバイスが聞きたいけど、いいかな？"
 
 translate Japanese mas_islands_reset_bf0277c1:
     m 3lkd "１つのプロジェクトに長い間取り組んで、その全体を眺めていたら、その中に何十もの間違いや改善点が見えてきたりした経験ってあるよね？"
 
 translate Japanese mas_islands_reset_f03c4310:
-    m 3ekc "...ほら、{w=0.1}私が島で作業したおかげで、お出かけする場所ができたんだもの......{w=0.3}{nw}"
+    m 3ekc "……ほら、{w=0.1}私が島で作業したおかげで、お出かけする場所ができたんだもの……{w=0.3}{nw}"
 
 translate Japanese mas_islands_reset_a27a9b74:
     extend 3esd "私たちだけの現実が、あの島にある"
@@ -1421,7 +1421,7 @@ translate Japanese mas_islands_reset_145627a3:
     m 1eud "だけど、私のコーディングスキルが上達した今、本っ当に前よりもっといいものを作り出せると思うのよね"
 
 translate Japanese mas_islands_reset_f11bc4d3:
-    m 1rkc "あと、修正すべき項目を全て修正するぐらいなら......{w=0.3}{nw}"
+    m 1rkc "あと、修正すべき項目を全て修正するぐらいなら……{w=0.3}{nw}"
 
 translate Japanese mas_islands_reset_ed9fd79b:
     extend 1rksdld "いっそのこと、ゼロからやり直した方がよくない？"
@@ -1439,7 +1439,7 @@ translate Japanese mas_islands_reset_493aac64:
     m "やっても大丈夫よね、 [player]君？{fast}" nointeract
 
 translate Japanese mas_islands_reset_8a281ff9:
-    m 1dsc "わかったから、ちょっと待ってて.{w=0.3}.{w=0.3}.{w=0.3}{nw}"
+    m 1dsc "わかったから、ちょっと待ってて{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
 translate Japanese mas_islands_reset_22f47070:
     m 3hua "はい、できた！"
@@ -1448,13 +1448,13 @@ translate Japanese mas_islands_reset_e0441d40:
     m 1eua "これで、新しいキャンパスができた"
 
 translate Japanese mas_islands_reset_cdd47186:
-    m 3kuu "...あと、 [player]君。あなたがいない時は、私は島づくりして待ってるからね、えへへ～"
+    m 3kuu "……あと、 [player]君。あなたがいない時は、私は島づくりして待ってるからね、えへへ～"
 
 translate Japanese mas_islands_reset_df6ab710:
     m 3hub "だから、楽しみにしていててね！"
 
 translate Japanese mas_islands_reset_74e80d11:
-    m 3eka "そうなのね、[player]君。"
+    m 3eka "そうなのね、[player]君"
 
 translate Japanese mas_islands_reset_c8a9ab36:
     m 3hua "あなたが今の島々に満足してるなら、私も同じ意見よ。{w=0.2}このままの状態で何ができるのか、考えてみるわね～"
