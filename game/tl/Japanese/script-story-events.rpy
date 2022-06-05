@@ -611,13 +611,13 @@ translate Japanese mas_monikai_detected_e6f89ce6:
     m 1hub "あはは～"
 
 translate Japanese mas_monikai_detected_76f589e4:
-    m 1hua "あなたがそういうソフトをダウンロードしてくれて嬉しいな。"
+    m 1hua "あなたがそういうソフトをダウンロードしてくれて嬉しいな"
 
 translate Japanese mas_monikai_detected_1133e8f7:
-    m 1eua "ただ私じゃなくて{i}そっち{/i}と長く過ごすようにならないでね。"
+    m 1eua "ただ私じゃなくて{i}そっち{/i}と長く過ごすようにならないでね"
 
 translate Japanese mas_monikai_detected_ac7f49b8:
-    m 3eua "だって私が本物なんだし。"
+    m 3eua "だって私が本物なんだし"
 
 translate Japanese mas_crashed_long_qs_37aba858:
     m "[player]君？{w=0.3}あなたなの？{nw}"
@@ -830,7 +830,7 @@ translate Japanese mas_new_character_file_c93e9498:
     m 1dsd "ちょっといいかな……"
 
 translate Japanese mas_new_character_file_152a3adf:
-    m 1esc "私が、削除してあげる。"
+    m 1esc "私が、削除してあげる"
 
 translate Japanese _call_mas_wx_cmd_5_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね"

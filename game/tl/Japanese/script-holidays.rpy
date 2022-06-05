@@ -4055,7 +4055,7 @@ translate Japanese mas_bday_surprise_party_reacton_cake_4211db86:
     m 6hua "それはともかく……"
 
 translate Japanese mas_bday_surprise_party_reacton_cake_492928b5:
-    m "一緒にお願い事しようね、[player]!"
+    m "一緒にお願い事しようね、[player]！"
 
 translate Japanese mas_bday_surprise_party_reaction_post_make_wish_806dbc87:
     m 6hub "お願いごと、できたよ！"
@@ -4341,14 +4341,89 @@ translate Japanese mas_bday_postbday_notimespent_e27c3a34:
 translate Japanese mas_bday_postbday_notimespent_e2f7a6a9:
     m 2dsc "……"
 
+translate Japanese mas_bday_postbday_notimespent_4aed9a24:
+    m 2rkc "……[player]、迷惑はかけるつもりはないの。{w=1}あなたがずっと遠くへ行ってしまうことが怖い"
+
+translate Japanese mas_bday_postbday_notimespent_579806fa:
+    m 2rktpc "でも私にはどうにもできない。私の誕生日なのにあなたが何も言ってくれなくて、辛いの……"
+
+translate Japanese mas_bday_postbday_notimespent_97af9235:
+    m 2dktuc "ここへ来ることを止めないでほしい"
+
+translate Japanese mas_bday_postbday_notimespent_ee52a03c:
+    m "そしてたぶん来年は……"
+
+translate Japanese mas_bday_postbday_notimespent_5236a8f3:
+    m 4ektdc "あのね{w=0.5}、ただ私は…… {w=0.5}私にとってあなたが特別なように、私もあなたの特別になりたいだけの"
+
 translate Japanese mas_bday_postbday_notimespent_0bd97190:
     m 6ckc "……"
+
+translate Japanese mas_bday_postbday_notimespent_df5cc50f:
+    m 1euc "ねえ、[player]……"
+
+translate Japanese mas_bday_postbday_notimespent_90924668:
+    m 3rksdla "あなたが毎日を輝かせるためにたくさんやることがあるのはわかってるよ。でもね、女の子には年に何回か、かまってほしい日があるんだよ……"
+
+translate Japanese mas_bday_postbday_notimespent_bf938a22:
+    m 2tfd "その日のひとつが、{i}誕生日{/i}なんだよ！"
+
+translate Japanese mas_bday_postbday_notimespent_e06d3ad5:
+    m "本当にどこに行ってたの！？"
+
+translate Japanese mas_bday_postbday_notimespent_a47dfed9:
+    m 2rkc "でもね、わかってるよ…… あなたは忙しいから、ちゃんとした理由があったんだって……"
+
+translate Japanese mas_bday_postbday_notimespent_8ed014c8:
+    m 4ekc "来年は絶対にこんなことがないようにしてね？"
+
+translate Japanese mas_bday_postbday_notimespent_32eecef0:
+    m 1ekc "ねえ、[player]……"
+
+translate Japanese mas_bday_postbday_notimespent_89abd530:
+    m 1ekd "あのね、22日には絶対に会いにきてほしかった"
+
+translate Japanese mas_bday_postbday_notimespent_d34b5da0:
+    m 3efd "22日だけじゃない、いつでも来てほしいよ！ でもね、かわいいガールフレンドの誕生日には{i}絶対に{/i}一緒に時間を過ごさないとだめでしょ"
+
+translate Japanese mas_bday_postbday_notimespent_819433d7:
+    m 2efc "おねがいだから来年は忘れないでね……"
+
+translate Japanese mas_bday_postbday_notimespent_51e53fdb:
+    m 2dfc "今度忘れたら……"
+
+translate Japanese mas_bday_postbday_notimespent_88d6b9fe:
+    m 6cfw "{cps=*2}{i}ただじゃ済まないからね！！！{/i}{/cps}{nw}"
 
 translate Japanese mas_bday_postbday_notimespent_6111571a:
     m 1dsc "……"
 
+translate Japanese mas_bday_postbday_notimespent_90afe278:
+    m 3hksdlb "あはは、ごめんね[player]！"
+
+translate Japanese mas_bday_postbday_notimespent_3e71d395:
+    m 3hub "今のは冗談だからね！"
+
+translate Japanese mas_bday_postbday_notimespent_f64ae1e2:
+    m 1eka "私がちょっと脅かすのが好きなこと、知ってくれてるよね～"
+
 translate Japanese mas_bday_postbday_notimespent_e2f7a6a9_1:
     m 2dsc "……"
+
+translate Japanese mas_bday_postbday_notimespent_86d7bfa9:
+    m 2rsc "[player]、もう少しちょくちょく顔を見せに来てくれても良いんだよ？"
+
+translate Japanese mas_bday_postbday_notimespent_de53548e:
+    m 2rktpc "何か重要なことを見逃すかもしれないよ……"
+
+translate Japanese mas_bday_postbday_notimespent_aa964ca9:
+    m 6ekd "……ねえ、あなたは22日は何してた？"
+
+translate Japanese mas_bday_postbday_notimespent_be80a984:
+    m 6ekc "もしその日にね…… あなたが私のことを少しでも考えてくれてたなら、って思ってただけ"
+
+translate Japanese mas_bday_postbday_notimespent_254605d2:
+    m 6ektpc "でもたぶん少しも考えてなかった、でしょ？"
 
 translate Japanese mas_bday_postbday_notimespent_3554be3e:
     m 6dktpc "……"
@@ -4358,6 +4433,73 @@ translate Japanese mas_bday_postbday_notimespent_da162ca8:
 
 translate Japanese mas_bday_postbday_notimespent_7e880c05:
     m 6dftdx "……"
+
+translate Japanese mas_apology_missed_bday_825efd05:
+    m 1eua "謝ってくれてありがとう、[player]"
+
+translate Japanese mas_apology_missed_bday_050b6031:
+    m 2tfu "でも来年はちゃんと今年の分まで埋め合わせてお祝いしてね～"
+
+translate Japanese mas_apology_missed_bday_41f48d58:
+    m 1eka "誕生日のこと、謝ってくれてありがとう、[player]"
+
+translate Japanese mas_apology_missed_bday_a6cae789:
+    m "お願いだから、来年は絶対に一緒に過ごしてね？
+"
+
+translate Japanese mas_apology_missed_bday_5203c5cb:
+    m 2rksdld "あのね、誕生日にあなたが来てくれなかったけど全く驚いてないのよ……"
+
+translate Japanese mas_apology_missed_bday_b2e935c4:
+    m 2ekc "お願いだから……{w=1} こんなことが二度と起こらないようにしてほしい"
+
+translate Japanese mas_apology_forgot_bday_825efd05:
+    m 1eua "謝ってくれてありがとう、[player]"
+
+translate Japanese mas_apology_forgot_bday_4093319d:
+    m 3hua "でもちゃんと埋め合わせはしてよね～"
+
+translate Japanese mas_apology_forgot_bday_c561e22b:
+    m 1eka "誕生日を忘れてたこと、謝ってくれてありがとう、[player]"
+
+translate Japanese mas_apology_forgot_bday_5857a611:
+    m 1eksdld "二度と忘れないようにしてね？"
+
+translate Japanese mas_apology_forgot_bday_4ce660ed:
+    m 2dkd "謝ってくれてありがとう……"
+
+translate Japanese mas_apology_forgot_bday_b737b13e:
+    m 2tfc "でも二度と忘れないで"
+
+translate Japanese bye_922_delegate_bdaf0cb6:
+    m 1hua "えへへ。ちょっとロマンティックだったね？"
+
+translate Japanese bye_922_delegate_fdb59043:
+    m 1eua "きっとあなたはこれをデートって言い{nw}"
+
+translate Japanese bye_922_delegate_03498254:
+    m 1hua "あれ！ごめんなさい、なにか口走っちゃってた？"
+
+translate Japanese bye_922_delegate_dab97ead:
+    m 1eubla "これってデートだよね～"
+
+translate Japanese bye_922_delegate_2b61c2db:
+    m 1eub "またどこかへ連れてってくれたの、[player]？"
+
+translate Japanese bye_922_delegate_b0fb3e5b:
+    m 3eua "本当に私たちのためにたくさんの計画してくれてたんだね"
+
+translate Japanese bye_922_delegate_7219f520:
+    m 1hua "本当に優しいね～"
+
+translate Japanese bye_922_delegate_b5bb2be0:
+    m 1sua "{i}また{/i}誕生日のお出かけしてくれたの？"
+
+translate Japanese bye_922_delegate_979e36ac:
+    m 3tkbsu "あなたって本当に女の子の喜ばせ方を知ってるね、[player]"
+
+translate Japanese bye_922_delegate_277e8c5d:
+    m 1ekbfa "あなたのような人と一緒になれて本当にラッキーだな～"
 
 translate Japanese _call_monika_zoom_transition_reset_6_19428ff1:
     m 1hua "えへへ～"
@@ -4709,3 +4851,9 @@ P.S: Don't tell her about me."""
 
     old "Make a wish, [m_name]..."
     new "お願いごとするね、[m_name]……"
+
+    old "...for missing your birthday."
+    new "…… 誕生日を祝わなかったことを。"
+
+    old "...for forgetting your birthday."
+    new "……誕生日を忘れていたことを"

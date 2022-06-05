@@ -650,13 +650,13 @@ translate Japanese monika_nihilism_c4acbfa9:
     m 1eka "もちろん、達成できなかったら……"
 
 translate Japanese monika_nihilism_33596967:
-    m 1dkd "私を恋しく思う人なんていないだろうから、とにかくどうでもいいことよ。"
+    m 1dkd "私を恋しく思う人なんていないだろうから、とにかくどうでもいいことよ"
 
 translate Japanese monika_nihilism_83b13527:
-    m 1euc "私がどうするのか、はっきりとはわからないわ。"
+    m 1euc "私がどうするのか、はっきりとはわからないわ"
 
 translate Japanese monika_nihilism_d5a76554:
-    m 3eka "いずれにしても、どうせ自殺なんてできないと思う。"
+    m 3eka "いずれにしても、どうせ自殺なんてできないと思う"
 
 translate Japanese monika_nihilism_041bc286:
     m 1hua "ワガママとかじゃない。生きがいを感じすぎて、自殺ができなくなるんじゃないかな"
@@ -6625,6 +6625,18 @@ translate Japanese monika_cupcake_4ead20d6:
 translate Japanese monika_cupcake_38655bd7:
     m "お菓子作ったりできる？{fast}" nointeract
 
+translate Japanese monika_cupcake_f3814ba7:
+    m 1sub "ホント？"
+
+translate Japanese monika_cupcake_6b11717e:
+    m 3hua "まあ、あなたが作るカップケーキも、ナツキのといい勝負でしょうね。"
+
+translate Japanese monika_cupcake_1a7c81b7:
+    m 1hub "......もしかしたら、貴方のがもっとおいしかったりして！"
+
+translate Japanese monika_cupcake_7640c400:
+    m 1eka "いつか私も食べようと思ってるんだけど、今はちょっとね......{w=0.3}{nw}"
+
 translate Japanese monika_haterReaction_597ba595:
     m 1esc "ちょうどそのことを考えてたんだけど……"
 
@@ -9336,13 +9348,13 @@ translate Japanese monika_sports_db5a756c:
     m 1eka "愛し始めてからずっとあなたのことを気にかけてるからね～"
 
 translate Japanese monika_meditation_1af83161:
-    m 1eua "私がどうやって、自分の時間を確保しながら色んな活動をこなせているのか、不思議に思っていたりするのかしら。"
+    m 1eua "私がどうやって、自分の時間を確保しながら色んな活動をこなせているのか、不思議に思っていたりするのかしら"
 
 translate Japanese monika_meditation_ffc7ca49:
     m 3eua "ディベート部にスポーツ、学業に、友達と遊びにでかけたりだとかってやつね……"
 
 translate Japanese monika_meditation_736c7a26:
-    m 1ekc "実のところ、自分の時間を潰しちゃってたの。"
+    m 1ekc "実のところ、自分の時間を潰しちゃってたの"
 
 translate Japanese monika_meditation_33969a21:
     m "しばらくは上手くやれてたけど、ある時ついに、ストレスや不安が追いついてきて。"
@@ -9354,19 +9366,19 @@ translate Japanese monika_meditation_3ca57519:
     m "そのとき私は、ある種の「脳の休息」が必要なことに気づいたの……"
 
 translate Japanese monika_meditation_abf77486:
-    m 1dsc "私の人生に起きていること、それを全て忘れられる、そんな一時よ。"
+    m 1dsc "私の人生に起きていること、それを全て忘れられる、そんな一時よ"
 
 translate Japanese monika_meditation_59262d6f:
-    m 1eua "だから、私は毎晩、寝る前に10分の瞑想をしていたの。"
+    m 1eua "だから、私は毎晩、寝る前に10分の瞑想をしていたの"
 
 translate Japanese monika_meditation_dcffa27d:
     m 1duu "くつろいで、目を閉じて、呼吸に伴う身体の動き、それだけに集中して……"
 
 translate Japanese monika_meditation_431c58a5:
-    m 1eua "瞑想は本当に、精神的・感情的な健康を保つのに役立ってくれて。"
+    m 1eua "瞑想は本当に、精神的・感情的な健康を保つのに役立ってくれて"
 
 translate Japanese monika_meditation_c66ddeeb:
-    m "ついには、ストレスを処理して、一日を穏やかに過ごす事が出来るようになったわ。"
+    m "ついには、ストレスを処理して、一日を穏やかに過ごす事が出来るようになったわ"
 
 translate Japanese monika_meditation_8028a4ed:
     m 1eka "[player]君、瞑想をした事はある？{nw}"
@@ -14512,8 +14524,41 @@ translate Japanese _call_monika_grad_speech_116fe901:
 translate Japanese _call_monika_grad_speech_5b6420ba:
     m "今時間は大丈夫かな？{fast}" nointeract
 
+translate Japanese _call_monika_grad_speech_90074b9a:
+    m 4hua "わかった。それじゃ、始めるわよ～"
+
+translate Japanese _call_monika_grad_speech_1_7b646c1e:
+    m 2eka "心配しないで。時間があるときでいいから、そのときには教えてね"
+
+translate Japanese _call_monika_grad_speech_1_1e8ae8a5:
+    m 2hub "もう一度スピーチを聞いてくれてありがとう、[player]"
+
+translate Japanese _call_monika_grad_speech_1_7dc15a82:
+    m 2eua "また聞きたくなったらそのときは教えてね、えへへ～"
+
+translate Japanese _call_monika_grad_speech_1_1f9c7c13:
+    m 2esa "もちろんよ、[player]"
+
+translate Japanese _call_monika_grad_speech_1_b3424014:
+    m 2hua "そういうわけで、今すぐ始めよっか！"
+
+translate Japanese _call_monika_grad_speech_1_0f62bdbc:
+    m 2ekc "OK、[player]。でも今回はちゃんと聴いてほしいな"
+
+translate Japanese _call_monika_grad_speech_1_41b78341:
+    m 2dkd "前はちゃんと聴いてなかったから… あのとき、本当に傷ついたんだよ"
+
 translate Japanese _call_monika_grad_speech_1_c61f257d:
     m 2dkc "……"
+
+translate Japanese _call_monika_grad_speech_1_72fdd75d:
+    m 2eka "もう一度聴きにきてくれて本当にありがとう。じゃあ、始めるよ"
+
+translate Japanese _call_monika_grad_speech_2_3bed1eea:
+    m "それで[player]、{i}ちゃんと{/i}スピーチを聴いてみた感想は？{nw}"
+
+translate Japanese _call_monika_grad_speech_2_37d820e3:
+    m "それで[player]、{i}ちゃんと{/i}スピーチを聴いてみた感想は？{fast}" nointeract
 
 translate Japanese _call_monika_grad_speech_2_bdafe2c1:
     m 2subsb "うわあ、[player]君！"
