@@ -6632,7 +6632,7 @@ translate Japanese monika_cupcake_6b11717e:
     m 3hua "まあ、あなたが作るカップケーキも、ナツキのといい勝負でしょうね。"
 
 translate Japanese monika_cupcake_1a7c81b7:
-    m 1hub "......もしかしたら、貴方のがもっとおいしかったりして！"
+    m 1hub "......もしかしたら、あなたのがもっとおいしかったりして！"
 
 translate Japanese monika_cupcake_7640c400:
     m 1eka "いつか私も食べようと思ってるんだけど、今はちょっとね......{w=0.3}{nw}"
