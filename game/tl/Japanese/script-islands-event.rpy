@@ -335,7 +335,7 @@ translate Japanese mas_island_night2_e54131d9:
     m "星はそんなにきれいじゃない？"
 
 translate Japanese mas_island_night2_37f2a01c:
-    m "といっても、これは私が以前星を眺めると言ったときに思っていたものとは{i}少し{/i}違うかな……"
+    m "といっても、これは私が[player]君と一緒に星を見に来る話をした時に思っていたものとは{i}少し{/i}違うかな……"
 
 translate Japanese mas_island_night2_4fdcb7e8:
     m "見ているだけじゃなくて、私が一番体験したいのは、あなたと一緒にいて、横になっている間、お互いを強く抱き合って異るってことよ"
@@ -464,7 +464,7 @@ translate Japanese mas_island_bookshelf1_5a65ed86:
     m "そうやって待ってる間……"
 
 translate Japanese mas_island_bookshelf1_c0e20b26:
-    m "ちょっとだけ[player]君のそばによってもいいかな？"
+    m "ちょっとだけ[player]君のそばによってもいいかしら？"
 
 translate Japanese mas_island_bookshelf1_45d9cd96:
     m "えへへ～"

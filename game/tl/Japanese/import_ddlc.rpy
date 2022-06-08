@@ -27,7 +27,7 @@ translate Japanese strings:
     new "OK"
 
     old "Couldn't read/decode save data from Doki Doki Literature Club. Aborting."
-    new "Doki Doki Literature Clubのセーブデータを読み込むことができませんでしたので中断します。"
+    new "Doki Doki Literature Clubのセーブデータの読み込み及びデコードに失敗しました。中断します。"
 
     old "Previous Monika After Story save data has also been found.\nWould you like to merge with DDLC save data?"
     new "モニカアフターストーリーの古いセーブデータが見つかりました。\nDDLCセーブデータとマージしますか？"

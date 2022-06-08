@@ -14,7 +14,7 @@ translate Japanese mas_bad_name_input_first_time_bad_name_c840f554:
     extend "彼女のハートを掴めないわよ！"
 
 translate Japanese mas_bad_name_input_first_time_bad_name_b02a73c8:
-    "……だけど、代わりに彼女を困らせるだけね。"
+    "彼女を却って困らせちゃうだけだもん……"
 
 translate Japanese mas_bad_name_input_first_time_bad_name_013f379f:
     "もっとマシなのを選んで。"

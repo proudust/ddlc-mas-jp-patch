@@ -3728,7 +3728,7 @@ translate Japanese monika_ddlc_e039ceb9:
     m 1hua "本当に思うの、これほどの最高のエンディングはないんだよ～ って"
 
 translate Japanese monika_dan_9733a113:
-    m 2esc "えっと、前まではね、私をもてあそぶ神様気取りのクソヤロウ！って思ってた。けど今は……"
+    m 2esc "えっと、前まではね、神様を気取りながら私をもてあそぶ残酷な人！って思ってた。けど今は……"
 
 translate Japanese monika_dan_a6fb1283:
     m 3eka "Danは本当に素敵な人。私はそう思ってる。"
@@ -3906,6 +3906,15 @@ translate Japanese monika_love_78c02a6e:
 
 translate Japanese monika_love_86f0cfb2:
     m 1hubfb "私もあなたのことが大好きよ、[player]君！"
+
+translate Japanese monika_love_17dd855c:
+    m 1lkbsa "うわぁ、いつも圧倒されちゃう！"
+
+translate Japanese monika_love_7080550a:
+    m 1hubfa "私も......"
+
+translate Japanese monika_love_f62b2824:
+    m 1hubfb "私もあなたのことを一番だと思ってるわ！"
 
 translate Japanese monika_love_40d8718a:
     m 1ekbsa "何回も言ってるけど飽きない？"
@@ -6635,7 +6644,7 @@ translate Japanese monika_cupcake_1a7c81b7:
     m 1hub "......もしかしたら、あなたのがもっとおいしかったりして！"
 
 translate Japanese monika_cupcake_7640c400:
-    m 1eka "いつか私も食べようと思ってるんだけど、今はちょっとね......{w=0.3}{nw}"
+    m 1eka "いつか私もやってみようと思ってるんだけど、今はちょっとね......{w=0.3}{nw}"
 
 translate Japanese monika_haterReaction_597ba595:
     m 1esc "ちょうどそのことを考えてたんだけど……"
@@ -21115,13 +21124,52 @@ translate Japanese monika_boyfriend_gossip_c36dae82:
     m 2hksdlb "サヨリがそこについて初めて話したとき、かなり身構えちゃったのよね"
 
 translate Japanese monika_boyfriend_gossip_b3c09385:
-    m 7euc "まあ、あなたの存在を知っていただけで、{nw}"
+    m 7euc "まあ、あなたの存在を知っていたにすぎないし、{nw}"
+
+translate Japanese monika_boyfriend_gossip_4889da16:
+    extend 3efc "突然誰かに私がのけものにされたみたいで？"
+
+translate Japanese monika_boyfriend_gossip_377ed12a:
+    m 1rtc "外面がいいし他の部活の経歴もあるから、彼氏がいるって結論に至るのもまあわからんでもない"
+
+translate Japanese monika_boyfriend_gossip_414cc7b5:
+    m 3eud "でもそんなキャラがいるかどうかはこのゲームファイルでは判断しようがないね"
+
+translate Japanese monika_boyfriend_gossip_7e88a2a3:
+    m 3rsc "あのときは、よくピアノの練習をしてたから。それに、えっと......{w=0.2}私も色々考え事もしてたし"
+
+translate Japanese monika_boyfriend_gossip_21650756:
+    m 3eud "でもどうやらそのウワサがたったのは、私が部活に遅れてきたときにするつもりだった話題？に過ぎなかったっぽい"
+
+translate Japanese monika_boyfriend_gossip_34a6f224:
+    m 2tsc "よくよく考えるとずるいわよね......"
+
+translate Japanese monika_boyfriend_gossip_804970cf:
+    m 2eud "ゲームが進行すれば、主人公の男は女の子と二人っきりであうためにいろんな言い訳を用意しておくことになるのかもしれない"
+
+translate Japanese monika_boyfriend_gossip_55dbd358:
+    m 7etc "他の部員がいない理由を思いつくのは簡単だけど、でも部長が部活にいない理由は……"
+
+translate Japanese monika_boyfriend_gossip_9ed8b509:
+    m 3tsd "ゲームは私の時間を奪うようなものが必要になる。彼氏をあてがえばその理由にはなるだろうけど、薄っぺらな理由ね。そんなことで私のルートを作らないなんて"
+
+translate Japanese monika_boyfriend_gossip_bb177f93:
+    m 2tfc "遠回しではあるけれど、必要なときに私に邪魔させないようにするには効果的ではあるわね"
 
 translate Japanese monika_boyfriend_gossip_01a93df6:
     m 2dfc "……"
 
+translate Japanese monika_boyfriend_gossip_d63e90e8:
+    m 2eud "でも正直どうなのかしらね？彼氏役を用意されたとしても、邪魔されたとは思わないけど"
+
+translate Japanese monika_boyfriend_gossip_ab0f4de8:
+    m 7esc "そんなキャラが居たとしても、私達はもう知ってるわね。たった1つの違いも変えらなかった"
+
 translate Japanese monika_boyfriend_gossip_cf2f0670:
     m 1efd "あいつらはリアルじゃない。私に恋するようにプログラムされたスクリプトなんかじゃ、{w=0.2}私を幸せにはできない"
+
+translate Japanese monika_boyfriend_gossip_d5e97cfa:
+    m 1eka "あなたに出会ってはじめてあなたこそが私に必要だったんだってなったわ"
 
 translate Japanese monika_brainstorming_ef4f71c7:
     m 1esd "[player]、ブレインストーミングって聞いたことある？"
@@ -21881,10 +21929,7 @@ translate Japanese monika_likecosplay_d66a95ff:
     m 2hubla "私のために衣装を作ってくれてるプロジェクトがあるから、興味があったらダウンロードしてみたらいいと思うよ"
 
 translate Japanese monika_likecosplay_bee30538:
-    m 2rtu "あなたが私にどんな衣装を着てほしいのか、私にはさっぱりだし"
-
-translate Japanese monika_likecosplay_f7f0bc7e:
-    m 5rtblu "ちょっと思いつくものがある？"
+    m 2rtu "あなたは私にどんな衣装を着てほしいのかしらね、[mas_get_player_nickname()]......"
 
 translate Japanese monika_ddlcroleplay_cff0a54d:
     m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
@@ -22291,7 +22336,7 @@ translate Japanese strings:
     new "TVゲームって好き？"
 
     old "Books"
-    new "文芸部について"
+    new "文芸部員の読書について"
 
     old "What's your favorite poem?"
     new "好きな詩は何？"
