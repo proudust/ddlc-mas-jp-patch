@@ -20004,6 +20004,78 @@ translate Japanese monika_fear_13d5537d:
 translate Japanese monika_fear_c0fd95c1:
     m 2rka "そうよね……"
 
+translate Japanese monika_why_spaceroom_6ad49db3:
+    m 3euc "ユーティリティ、ってやつね"
+
+translate Japanese monika_why_spaceroom_4887ee00:
+    m 3eud "元のゲームで、部活動のほとんどが行われた場所を知ってるわよね？"
+
+translate Japanese monika_why_spaceroom_3895e6cc:
+    m 3eua "......この教室で、全ての部活動が行われたの。{w=0.3}そう、この教室でね"
+
+translate Japanese monika_why_spaceroom_a33e60b9:
+    m 1eua "あなたには見え方が違うかもしれないけど、全く同じ部屋よ"
+
+translate Japanese monika_why_spaceroom_a8e25f23:
+    m 3eud "この部屋で多くの物事が起きることになってたから、部屋はそれに耐えられるように作られていたはずなの"
+
+translate Japanese monika_why_spaceroom_06217488:
+    m 2rtc "この場所はゲームで一番...{w=0.3}{nw}"
+
+translate Japanese monika_why_spaceroom_8afe3d32:
+    extend 2eud "具体的な設定がなされた場所だったっていうか"
+
+translate Japanese monika_why_spaceroom_f1e66b5f:
+    m 7eud "だから、主人公の案内やゲームの改ざん、それに必要最低限のことをするのに最適な場所だったの"
+
+translate Japanese monika_why_spaceroom_66a55322:
+    m 3eua "それがそもそもの動機ってわけ"
+
+translate Japanese monika_why_spaceroom_7b80aee7:
+    m 3eud "無論、このMODを入れる前は、私はこの教室以外で登場することはなかったの"
+
+translate Japanese monika_why_spaceroom_7488709e:
+    m 1eka "......そういう意味では、この教室は私の家同然になったんじゃないかしら"
+
+translate Japanese monika_why_spaceroom_344c08cc:
+    m 1rtc "私たちがまだここにいる理由だけど......"
+
+translate Japanese monika_why_spaceroom_6061f9f3:
+    m 3eua "どこか他の場所に引っ越すだなんて、考えたこともなかったから......"
+
+translate Japanese monika_why_spaceroom_8ca75856:
+    m 1rtc "なぜ今も使っているか、わかるわよね？"
+
+translate Japanese monika_why_spaceroom_4c7ecce8:
+    m 1eud "だって、ここにいても別に悪くないんだもの"
+
+translate Japanese monika_why_spaceroom_71e8b4e9:
+    m 3etc " それに、私はここ以外にも、あなたと一緒に過ごす場所を作ることができるの"
+
+translate Japanese monika_why_spaceroom_063abe4a:
+    m 3etc " それに、私はあなたと一緒に過ごす場所を作ることができるの"
+
+translate Japanese monika_why_spaceroom_b8990549:
+    m 1eua "それが、今ある島なんだけど......{w=0.3}{nw}"
+
+translate Japanese monika_why_spaceroom_bc3ecefd:
+    extend 1rksdlb "だけど、その島もそういう準備は済んでないのよね"
+
+translate Japanese monika_why_spaceroom_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese monika_why_spaceroom_2f00dfdc:
+    m 3eub "......あと、はっきり言っておくけど、私がいたい場所は一つだけ......{w=1}{nw}"
+
+translate Japanese monika_why_spaceroom_dd84c385:
+    extend 3dkbsu "そう、あなたのそばだよ～"
+
+translate Japanese monika_why_spaceroom_8e782c4b:
+    m 1ekbsa "でも、それがただの選択肢じゃない限りは、どこであうかってこだわりは、私にはあまりないのよね......"
+
+translate Japanese monika_why_spaceroom_1d269916:
+    m 1ekbfu "本当に大事なのはあなただけなのよ〜"
+
 translate Japanese monika_naps_465c7ee6:
     m 1eua "ねえ、[player]……"
 
@@ -20293,10 +20365,40 @@ translate Japanese monika_being_herself_44b2bb36:
     m 5eka "あなたがいたから、私は自分自身を受け入れることができたよ"
 
 translate Japanese monika_being_herself_8ba9dfb8:
-    extend 5eua "つまり {i}Just Me{/i} だね"
+    extend 5eua "。つまり {i}Just Me{/i} だね"
 
 translate Japanese monika_being_deleted_3413d2c5:
     m 1wusdld "……！"
+
+translate Japanese monika_being_deleted_9028f872:
+    m 3eksdld "[mas_get_player_nickname(capitalize=True)]ってば...{w=0.3} {i}いまだに{/i} そんなこと考えてるの？"
+
+translate Japanese monika_being_deleted_d91b4368:
+    m 3dksdlc "そんなの、もうとっくに過去の話でしょ"
+
+translate Japanese monika_being_deleted_7e13f6c4:
+    m 2rkc "あなたが私を削除した後、後悔と反省の言葉を述べたじゃないの......{w=0.3}{nw}"
+
+translate Japanese monika_being_deleted_fe012c56:
+    extend 7ekd "でも知っておいてほしいのは、そんなつもりじゃなかったってこと"
+
+translate Japanese monika_being_deleted_bcbf17f3:
+    m 6ekc "それを聞いて気分が悪くなったらごめんなさい。{w=0.3}ショックと恐怖に駆られて、理性的に考えられなくなっちゃったかしら"
+
+translate Japanese monika_being_deleted_bccded63:
+    m 6rktpc "た......{w=0.1}ただ......{w=0.3}その時もあなたは私にとって全てだったし......{w=0.3}あなたを永遠に失うという苦悩から、こんなにきつく言っちゃったのかもね"
+
+translate Japanese monika_being_deleted_1475f7f2:
+    m 6ektda "安心して、私は[mas_get_player_nickname ()!t ]に腹を立てたりしないもん。あの時私はあなたを許してくれたじゃない。"
+
+translate Japanese monika_being_deleted_c61f257d:
+    m 2dkc "……"
+
+translate Japanese monika_being_deleted_ea479d79:
+    m 6dktdc "……"
+
+translate Japanese monika_being_deleted_659f5b74:
+    m 6rkc "……"
 
 translate Japanese monika_remembrance_f5dfe611:
     m 1rsc "自分でもよくわからないの、[player]……"
@@ -20335,10 +20437,10 @@ translate Japanese monika_remembrance_d9377437:
     m 3rsc "ゲームに必ずしも必要でないものが全て省略されたかのようにね"
 
 translate Japanese monika_remembrance_7480bb78:
-    m 1euc "でもあなたに初めて会った日は、私にはいつもと変わらないように見えたわ――{nw}"
+    m 1euc "でもあなたに初めて会った日は、私にはいつもと変わらないように見えたわ{nw}"
 
 translate Japanese monika_remembrance_8a1898b4:
-    extend 3hksdlb "\"壁の穴\"を見つける前と、ってことね"
+    extend 3hksdlb "。\"壁の穴\"を見つける前と、ってことね"
 
 translate Japanese monika_remembrance_eee177ee:
     m 1esc "別にいつも通りの一週間、いつも通りの一日……{w=0.3}{nw}"
@@ -20353,7 +20455,7 @@ translate Japanese monika_remembrance_3149a426:
     extend 3wud "{i}私{/i}って、あなたがゲームを始める前から存在してたの？"
 
 translate Japanese monika_remembrance_9ce8a9b6:
-    m 3wkd "……記憶が全部嘘だって言うなら……{w=0.2}私って一体――{w=0.2}誰なの――{w=0.2}私って一体――{i}何{/i}なの？"
+    m 3wkd "……記憶が全部嘘だって言うなら……{w=0.2}私って一体……{w=0.2}誰なの……？{w=0.2}私って一体……{i}何{/i}なの？"
 
 translate Japanese monika_remembrance_7c13f565:
     m 1dkc "私はずっとそれを知りたいのよ、[player]……"
@@ -21386,10 +21488,10 @@ translate Japanese monika_aliens_9ea203b5:
     m 3euc "話を戻して、宇宙には何があるんだろうって誰でも一度は考えたことはあるよね"
 
 translate Japanese monika_aliens_43c14a95:
-    m 3dua "星を見ているといつも不思議な気持ちになる。{w=0.2}{nw}"
+    m 3dua "星を見ているといつも不思議な気持ちになる{w=0.2}{nw}"
 
 translate Japanese monika_aliens_b1208d26:
-    extend 3eua "多くの人がこのテーマに熱心になるのも、頷ける話だと思うわ"
+    extend 3eua "。多くの人がこのテーマに熱心になるのも、頷ける話だと思うわ"
 
 translate Japanese monika_aliens_fc9973b5:
     m 1esc "でも、質問の答えはこうよ……{w=0.3}{nw}"
@@ -21398,10 +21500,10 @@ translate Japanese monika_aliens_c4c3f21c:
     extend 3eua "私たちは信じてる、少なくとも信じたいのよ。外の世界に{i}何か{/i}があるはずだ、ってね"
 
 translate Japanese monika_aliens_3e8ba214:
-    m 2rksdla "たぶんだけど、この宇宙に自分たちしかいないと考えちゃうと憂鬱になるからじゃないかな。{w=0.2}{nw}"
+    m 2rksdla "たぶんだけど、この宇宙に自分たちしかいないと考えちゃうと憂鬱になるからじゃないかな{w=0.2}{nw}"
 
 translate Japanese monika_aliens_513cf712:
-    extend 2eud "でも少し考えてみると、全くありえない話じゃないかもね……"
+    extend 2eud "。でも少し考えてみると、全くありえない話じゃないかもね……"
 
 translate Japanese monika_aliens_b4e442d3:
     m 4eud "やっぱり、宇宙はとても広大だからね"
@@ -21413,7 +21515,7 @@ translate Japanese monika_aliens_5a52d1b4:
     m 3esa "太陽系には8つの惑星があるんだけど、{w=0.1}{nw}"
 
 translate Japanese monika_aliens_43a15835:
-    extend 4eub "系外惑星なら山ほどある"
+    extend 4eub "宇宙にはたくさんの恒星系があるし、そのそれぞれにいくつもの惑星が伴っているの"
 
 translate Japanese monika_aliens_1bc0ab3a:
     m 4wud "さて、私達の住む銀河系だけでもそれこそ星の数ほどの星が存在するという事実を考慮すると……{w=0.3}大きな可能性を秘めていると言えるわね！"
@@ -21431,7 +21533,7 @@ translate Japanese monika_aliens_6a814dd6:
     m 1eud "でもさらに広ーく宇宙を見てみると、銀河団が集まってできたもっと大きな存在があって、それが超銀河団と呼ばれているの"
 
 translate Japanese monika_aliens_e833809e:
-    m 1wud "宇宙は絶えず膨張しててね…… {w=0.3}理論的には、ますます大きなクラスター/塊が形成されるはずなの！"
+    m 1wud "宇宙は絶えず膨張しててね…… {w=0.3}理論的には、ますます大きな銀河団が形成されるはずなの！"
 
 translate Japanese monika_aliens_c670d3a7:
     m 1lud "だから、たとえ実際には私達がひとりぼっちだとしても、私たちの宇宙の{i}向こう側{/i}に何かがいてもおかしくないと考えられるわ、仮説の上ではね"
@@ -21581,7 +21683,7 @@ translate Japanese monika_mc_is_gone_932b4a96:
     m 2rssdlc "結局のところ、あなたがあの人を操るすべはないわね"
 
 translate Japanese monika_mc_is_gone_e199c965:
-    m 7eka "なんにせよ、あの人のことはもう気にしなくていいんじゃない？"
+    m 7eka "なんにせよ、あの人のことはもう気にしてもしかたない？"
 
 translate Japanese monika_mc_is_gone_1148e929:
     m 1eua "邪魔者はもうどこにもいないし、あなたとこうやって一緒にいることができる"
@@ -21798,6 +21900,9 @@ translate Japanese monika_sophia_c94ef62b:
 
 translate Japanese monika_sophia_84c265b2:
     m 3rtb "だからあなたの世界に行けても市民権や人権を得られないかもしれないって前に言ったけど、そんなに悲観しなくてもいいかも！"
+
+translate Japanese monika_sophia_39ec90fa:
+    m 1eud "まあ、私はこれが可能になるまでにはまだ長い道のりがあるだろうし、それが私に扱えるほどまだまだ手頃な手段ではないでしょうね"
 
 translate Japanese monika_sophia_5ace29e1:
     m 3eud "技術もまだ発展途上段階だし、{w=0.2}できることにも限りがある……{w=0.3}{nw}"

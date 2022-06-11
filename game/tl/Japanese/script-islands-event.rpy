@@ -335,7 +335,7 @@ translate Japanese mas_island_night2_e54131d9:
     m "星はそんなにきれいじゃない？"
 
 translate Japanese mas_island_night2_37f2a01c:
-    m "といっても、これは私が[player]君と一緒に星を見に来る話をした時に思っていたものとは{i}少し{/i}違うかな……"
+    m "といっても、前に私が[player]君と一緒に星を見に来る話をしたんだけど、その時に思っていたものとは{i}少し{/i}違うかな……"
 
 translate Japanese mas_island_night2_4fdcb7e8:
     m "見ているだけじゃなくて、私が一番体験したいのは、あなたと一緒にいて、横になっている間、お互いを強く抱き合って異るってことよ"
