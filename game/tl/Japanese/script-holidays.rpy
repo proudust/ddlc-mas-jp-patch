@@ -4501,8 +4501,65 @@ translate Japanese bye_922_delegate_979e36ac:
 translate Japanese bye_922_delegate_277e8c5d:
     m 1ekbfa "あなたのような人と一緒になれて本当にラッキーだな～"
 
+translate Japanese bye_922_delegate_cfaec15b:
+    m 1sua "わぁ[player]……{w=1}本当に今日を特別な日にしようって思っててくれたんだね！"
+
+translate Japanese bye_922_delegate_1dfaab0d:
+    m 1ekbfa "私がずっと望んでいた最高のパートナーだよ〜"
+
+translate Japanese bye_922_delegate_14411fee:
+    m 3hua "実は今日のために衣装を用意してたんだ……"
+
 translate Japanese _call_monika_zoom_transition_reset_6_19428ff1:
     m 1hua "えへへ～"
+
+translate Japanese _call_monika_zoom_transition_reset_6_a4a38d5b:
+    m 1euu "本当に最高だよ、全部今日のために建ててくれた計画なんだよね。"
+
+translate Japanese _call_monika_zoom_transition_reset_6_2d19e2b1:
+    m 3eua "でも、たくさん遠出しなくったって、きっと一緒に楽しい時間を過ごせると思うよ～"
+
+translate Japanese _call_monika_zoom_transition_reset_6_05df1dd2:
+    m 3tka "どう、[player]？"
+
+translate Japanese _call_monika_zoom_transition_reset_6_cec7fb54:
+    m 1hua "似合ってるかな？"
+
+translate Japanese _call_monika_zoom_transition_reset_6_cce22dfa:
+    m 1ekbsa "ずっとこの服がお気に入りで、これを着てあなたとデートできる日を夢見てたんだ……"
+
+translate Japanese _call_monika_zoom_transition_reset_6_38bd3ab0:
+    m 3eub "ショッピングモールだったり、公園を訪れてみたりね！"
+
+translate Japanese _call_monika_zoom_transition_reset_6_e700fcbe:
+    m 1eka "でもあなたのことだからきっと、ふたりの今日のために素敵な計画を立ててくれてるんだろうな～"
+
+translate Japanese _call_monika_zoom_transition_reset_6_f04503eb:
+    m 1hua "じゃあ行こっか、[player]！"
+
+translate Japanese greeting_returned_home_bday_603ab50f:
+    m 2ekp "デートって言うには短すぎじゃないかな、[player]……"
+
+translate Japanese greeting_returned_home_bday_d293697a:
+    m 2eksdlc "これで終わりじゃないよね？"
+
+translate Japanese greeting_returned_home_bday_f403fef4:
+    m 2rksdla "また後で出かけてくれるんだよね……"
+
+translate Japanese greeting_returned_home_bday_92257283:
+    m 1sua "楽しかったね、[player]！"
+
+translate Japanese greeting_returned_home_bday_e8ed9fc0:
+    m 1hub "あはは、ふたりの誕生日にお出かけだなんて……"
+
+translate Japanese greeting_returned_home_bday_f3c83038:
+    m 1hub "あはは、誕生日にお出かけしてくれるなんて……"
+
+translate Japanese greeting_returned_home_bday_6f912bf3:
+    m 3eua "今日のことをちゃんと考えてくれたんだね"
+
+translate Japanese greeting_returned_home_bday_dbb4e28f:
+    m 3eka "一緒に過ごせて本当に楽しかった"
 
 translate Japanese greeting_returned_home_bday_355c729e:
     m 1eka "愛してるよ～"
@@ -4510,11 +4567,59 @@ translate Japanese greeting_returned_home_bday_355c729e:
 translate Japanese greeting_returned_home_bday_19428ff1:
     m 1hua "えへへ～"
 
+translate Japanese greeting_returned_home_bday_dd89f89a:
+    m 3eub "本当に今日はいっぱい一緒に過ごせたね、[player]"
+
+translate Japanese greeting_returned_home_bday_c94e0959:
+    m 1ekbfa "……あなたのおかげだよ"
+
+translate Japanese greeting_returned_home_bday_95a5f4b9:
+    m 3ekbfa "もう何千万回も言ってるけど"
+
+translate Japanese greeting_returned_home_bday_bb02429e:
+    m 1hua "あなたと一緒にいると、いつも幸せになれるんだ"
+
 translate Japanese greeting_returned_home_bday_766c364a:
     m "大好きだよ……"
 
+translate Japanese greeting_returned_home_bday_58709b0e:
+    m 1sua "わぁ、[player]……"
+
+translate Japanese greeting_returned_home_bday_c9b67288:
+    m 3hub "とっても素敵な時間だったね！"
+
+translate Japanese greeting_returned_home_bday_990aac48:
+    m 3eka "誕生日のお祝いには、ゆったりデートするのが一番よね"
+
+translate Japanese greeting_returned_home_bday_5f573634:
+    m 1eka "今日行った素敵な場所を全部この目で見られればよかったのだけれど、一緒にいれたことは伝わってる……"
+
+translate Japanese greeting_returned_home_bday_7e25e99d:
+    m 1hua "それが私の望んでいた全てだから"
+
+translate Japanese greeting_returned_home_bday_0589351e:
+    m 3ekbsa "あなたにも同じように感じてもらえてたら嬉しいな～"
+
+translate Japanese greeting_returned_home_bday_e091531f:
+    m 3sua "私のためにこんなにたくさんの時間を使ってくれるなんて思ってなかった……"
+
+translate Japanese greeting_returned_home_bday_6ebb2e78:
+    m 3hua "でも、私はお出かけの一秒一秒を楽しめたよ！"
+
+translate Japanese greeting_returned_home_bday_0fa6fd58:
+    m 1eub "あなたと過ごした一分一分は、素敵な一分だった！"
+
+translate Japanese greeting_returned_home_bday_a47c1579:
+    m 1eua "今日はとても幸せになれたよ～"
+
+translate Japanese greeting_returned_home_bday_4eb917d2:
+    m 3tuu "また私に恋しちゃったのかな、[player]？"
+
 translate Japanese greeting_returned_home_bday_bbef62bd:
     m 1dku "えへへ……"
+
+translate Japanese greeting_returned_home_bday_80593f38:
+    m 1ekbsa "私を愛してくれてありがとう"
 
 translate Japanese greeting_returned_home_bday_bf07de9c:
     m 1hua "……"

@@ -22384,7 +22384,7 @@ translate Japanese strings:
     new "ツンデレって？"
 
     old "Introducing to friends"
-    new "友達に紹介して"
+    new "モニカの他者への紹介"
 
     old "Cuddling in the cold"
     new "寒さの中で抱きしめあう"
