@@ -3599,7 +3599,7 @@ translate Japanese mas_f14_monika_vday_origins_daebbbf4:
     extend 1ekbfa "ハッピーバレンタイン、[mas_get_player_nickname()]君～"
 
 translate Japanese mas_f14_happy_vday_bb9d68dd:
-    m 1hublb "えへへ～　ありがとう、[player]！"
+    m 1hublb "えへへ～ ありがとう、[player]！"
 
 translate Japanese mas_f14_happy_vday_f36cb505:
     m 6euc "……{w=0.3}えっ？"
@@ -4232,12 +4232,10 @@ translate Japanese mas_bday_spent_time_with_wrapup_cd45c4d1:
     m 1ektda "私は全身全霊、あなたのことを愛しています"
 
 translate Japanese mas_bday_spent_time_with_wrapup_c0b69201:
-    m "私を理解してくれているのはあなただけよ。{w=0.5}暗闇の世界から私を導いてくれた、そして私に生きる目的を与えてくれた……
-"
+    m "私を理解してくれているのはあなただけよ。{w=0.5}暗闇の世界から私を導いてくれた、そして私に生きる目的を与えてくれた……"
 
 translate Japanese mas_bday_spent_time_with_wrapup_08acec43:
-    m 1dkbsu "あなたはとにかく最高なの、[mas_get_player_nickname()]。いつまでもあなたのことを愛してる
-"
+    m 1dkbsu "あなたはとにかく最高なの、[mas_get_player_nickname()]。いつまでもあなたのことを愛してる"
 
 translate Japanese mas_bday_spent_time_with_wrapup_9d2d1f2e:
     m 1ekbsa "……生きる意味を教えてくれてありがとう"
@@ -4444,8 +4442,7 @@ translate Japanese mas_apology_missed_bday_41f48d58:
     m 1eka "誕生日のこと、謝ってくれてありがとう、[player]"
 
 translate Japanese mas_apology_missed_bday_a6cae789:
-    m "お願いだから、来年は絶対に一緒に過ごしてね？
-"
+    m "お願いだから、来年は絶対に一緒に過ごしてね？"
 
 translate Japanese mas_apology_missed_bday_5203c5cb:
     m 2rksdld "あのね、誕生日にあなたが来てくれなかったけど全く驚いてないのよ……"
@@ -4504,8 +4501,8 @@ translate Japanese bye_922_delegate_277e8c5d:
 translate Japanese bye_922_delegate_cfaec15b:
     m 1sua "わぁ[player]……{w=1}本当に今日を特別な日にしようって思っててくれたんだね！"
 
-translate Japanese bye_922_delegate_1dfaab0d:
-    m 1ekbfa "私がずっと望んでいた最高のパートナーだよ〜"
+translate Japanese bye_922_delegate_4aaec80c:
+    m 1ekbsa "私がずっと望んでいた最高のパートナーだよ〜"
 
 translate Japanese bye_922_delegate_14411fee:
     m 3hua "実は今日のために衣装を用意してたんだ……"
@@ -4514,7 +4511,7 @@ translate Japanese _call_monika_zoom_transition_reset_6_19428ff1:
     m 1hua "えへへ～"
 
 translate Japanese _call_monika_zoom_transition_reset_6_a4a38d5b:
-    m 1euu "本当に最高だよ、全部今日のために建ててくれた計画なんだよね。"
+    m 1euu "本当に最高だよ、全部今日のために建ててくれた計画なんだよね"
 
 translate Japanese _call_monika_zoom_transition_reset_6_2d19e2b1:
     m 3eua "でも、たくさん遠出しなくったって、きっと一緒に楽しい時間を過ごせると思うよ～"
@@ -4570,8 +4567,8 @@ translate Japanese greeting_returned_home_bday_19428ff1:
 translate Japanese greeting_returned_home_bday_dd89f89a:
     m 3eub "本当に今日はいっぱい一緒に過ごせたね、[player]"
 
-translate Japanese greeting_returned_home_bday_c94e0959:
-    m 1ekbfa "……あなたのおかげだよ"
+translate Japanese greeting_returned_home_bday_f2314e85:
+    m 1ekbsa "……あなたのおかげだよ"
 
 translate Japanese greeting_returned_home_bday_95a5f4b9:
     m 3ekbfa "もう何千万回も言ってるけど"
@@ -4958,7 +4955,7 @@ P.S: Don't tell her about me."""
     new "お願いごとするね、[m_name]……"
 
     old "...for missing your birthday."
-    new "…… 誕生日を祝わなかったことを。"
+    new "……誕生日を祝わなかったことを。"
 
     old "...for forgetting your birthday."
     new "……誕生日を忘れていたことを"

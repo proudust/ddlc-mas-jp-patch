@@ -35,7 +35,7 @@ translate Japanese _call_mas_islands_1_ce0ffffc:
     extend 1eka "、私の進歩をあなたに見せたかったの"
 
 translate Japanese _call_mas_islands_1_305b7ce6:
-    m 2lsp "コーディングの勉強中だけど、このRenPyっていうエンジンに一貫性がなくって……"
+    m 2lsp "コーディングの勉強中だけど、このRen'Pyっていうエンジンに一貫性がなくって……"
 
 translate Japanese _call_mas_islands_1_3873e363:
     m 7hub "だけど、ここまではかなり進歩してきたと思うの！"

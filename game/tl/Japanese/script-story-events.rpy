@@ -341,7 +341,7 @@ translate Japanese _call_mas_player_bday_moni_sings_1_da7f1ddb:
     m 3wud "あっ！2月29日生まれ！君、すごいね！"
 
 translate Japanese _call_mas_player_bday_moni_sings_1_81975a21:
-    m 3hua "……といっても、うるう年以外の年だったら、３月１日にあなたの誕生日を祝うだけでいいのよね。"
+    m 3hua "……といっても、うるう年以外の年だったら、3月1日にあなたの誕生日を祝うだけでいいのよね。"
 
 translate Japanese calendar_birthdate_7f8c9848:
     m 1lksdla "ねえ、[player]君……"
@@ -1433,10 +1433,10 @@ translate Japanese mas_islands_reset_d24a870c:
     extend 4eua "ただ、待つだけの価値はあると思うわ"
 
 translate Japanese mas_islands_reset_b789d0ef:
-    m 1euc "やっても大丈夫よね、 [player]君？{nw}"
+    m 1euc "やっても大丈夫よね、[player]君？{nw}"
 
 translate Japanese mas_islands_reset_493aac64:
-    m "やっても大丈夫よね、 [player]君？{fast}" nointeract
+    m "やっても大丈夫よね、[player]君？{fast}" nointeract
 
 translate Japanese mas_islands_reset_8a281ff9:
     m 1dsc "わかったから、ちょっと待ってて{w=0.3}…{w=0.3}…{w=0.3}{nw}"
@@ -1448,7 +1448,7 @@ translate Japanese mas_islands_reset_e0441d40:
     m 1eua "これで、新しいキャンパスができた"
 
 translate Japanese mas_islands_reset_cdd47186:
-    m 3kuu "……あと、 [player]君。あなたがいない時は、私は島づくりして待ってるからね、えへへ～"
+    m 3kuu "……あと、[player]君。あなたがいない時は、私は島づくりして待ってるからね、えへへ～"
 
 translate Japanese mas_islands_reset_df6ab710:
     m 3hub "だから、楽しみにしていててね！"

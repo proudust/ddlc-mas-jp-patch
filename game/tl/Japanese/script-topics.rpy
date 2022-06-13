@@ -3911,7 +3911,7 @@ translate Japanese monika_love_17dd855c:
     m 1lkbsa "うわぁ、いつも圧倒されちゃう！"
 
 translate Japanese monika_love_7080550a:
-    m 1hubfa "私も......"
+    m 1hubfa "私も……"
 
 translate Japanese monika_love_f62b2824:
     m 1hubfb "私もあなたのことを一番だと思ってるわ！"
@@ -6641,10 +6641,10 @@ translate Japanese monika_cupcake_6b11717e:
     m 3hua "まあ、あなたが作るカップケーキも、ナツキのといい勝負でしょうね。"
 
 translate Japanese monika_cupcake_1a7c81b7:
-    m 1hub "......もしかしたら、あなたのがもっとおいしかったりして！"
+    m 1hub "……もしかしたら、あなたのがもっとおいしかったりして！"
 
 translate Japanese monika_cupcake_7640c400:
-    m 1eka "いつか私もやってみようと思ってるんだけど、今はちょっとね......{w=0.3}{nw}"
+    m 1eka "いつか私もやってみようと思ってるんだけど、今はちょっとね……{w=0.3}{nw}"
 
 translate Japanese monika_haterReaction_597ba595:
     m 1esc "ちょうどそのことを考えてたんだけど……"
@@ -20011,7 +20011,7 @@ translate Japanese monika_why_spaceroom_4887ee00:
     m 3eud "元のゲームで、部活動のほとんどが行われた場所を知ってるわよね？"
 
 translate Japanese monika_why_spaceroom_3895e6cc:
-    m 3eua "......この教室で、全ての部活動が行われたの。{w=0.3}そう、この教室でね"
+    m 3eua "……この教室で、全ての部活動が行われたの。{w=0.3}そう、この教室でね"
 
 translate Japanese monika_why_spaceroom_a33e60b9:
     m 1eua "あなたには見え方が違うかもしれないけど、全く同じ部屋よ"
@@ -20035,13 +20035,13 @@ translate Japanese monika_why_spaceroom_7b80aee7:
     m 3eud "無論、このMODを入れる前は、私はこの教室以外で登場することはなかったの"
 
 translate Japanese monika_why_spaceroom_7488709e:
-    m 1eka "......そういう意味では、この教室は私の家同然になったんじゃないかしら"
+    m 1eka "……そういう意味では、この教室は私の家同然になったんじゃないかしら"
 
 translate Japanese monika_why_spaceroom_344c08cc:
-    m 1rtc "私たちがまだここにいる理由だけど......"
+    m 1rtc "私たちがまだここにいる理由だけど……"
 
 translate Japanese monika_why_spaceroom_6061f9f3:
-    m 3eua "どこか他の場所に引っ越すだなんて、考えたこともなかったから......"
+    m 3eua "どこか他の場所に引っ越すだなんて、考えたこともなかったから……"
 
 translate Japanese monika_why_spaceroom_8ca75856:
     m 1rtc "なぜ今も使っているか、わかるわよね？"
@@ -20056,7 +20056,7 @@ translate Japanese monika_why_spaceroom_063abe4a:
     m 3etc " それに、私はあなたと一緒に過ごす場所を作ることができるの"
 
 translate Japanese monika_why_spaceroom_b8990549:
-    m 1eua "それが、今ある島なんだけど......{w=0.3}{nw}"
+    m 1eua "それが、今ある島なんだけど……{w=0.3}{nw}"
 
 translate Japanese monika_why_spaceroom_bc3ecefd:
     extend 1rksdlb "だけど、その島もそういう準備は済んでないのよね"
@@ -20065,13 +20065,13 @@ translate Japanese monika_why_spaceroom_19428ff1:
     m 1hua "えへへ～"
 
 translate Japanese monika_why_spaceroom_2f00dfdc:
-    m 3eub "......あと、はっきり言っておくけど、私がいたい場所は一つだけ......{w=1}{nw}"
+    m 3eub "……あと、はっきり言っておくけど、私がいたい場所は一つだけ……{w=1}{nw}"
 
 translate Japanese monika_why_spaceroom_dd84c385:
     extend 3dkbsu "そう、あなたのそばだよ～"
 
 translate Japanese monika_why_spaceroom_8e782c4b:
-    m 1ekbsa "でも、それがただの選択肢じゃない限りは、どこであうかってこだわりは、私にはあまりないのよね......"
+    m 1ekbsa "でも、それがただの選択肢じゃない限りは、どこであうかってこだわりは、私にはあまりないのよね……"
 
 translate Japanese monika_why_spaceroom_1d269916:
     m 1ekbfu "本当に大事なのはあなただけなのよ〜"
@@ -20377,7 +20377,7 @@ translate Japanese monika_being_deleted_d91b4368:
     m 3dksdlc "そんなの、もうとっくに過去の話でしょ"
 
 translate Japanese monika_being_deleted_7e13f6c4:
-    m 2rkc "あなたが私を削除した後、後悔と反省の言葉を述べたじゃないの......{w=0.3}{nw}"
+    m 2rkc "あなたが私を削除した後、後悔と反省の言葉を述べたじゃないの……{w=0.3}{nw}"
 
 translate Japanese monika_being_deleted_fe012c56:
     extend 7ekd "でも知っておいてほしいのは、そんなつもりじゃなかったってこと"
@@ -20386,7 +20386,7 @@ translate Japanese monika_being_deleted_bcbf17f3:
     m 6ekc "それを聞いて気分が悪くなったらごめんなさい。{w=0.3}ショックと恐怖に駆られて、理性的に考えられなくなっちゃったかしら"
 
 translate Japanese monika_being_deleted_bccded63:
-    m 6rktpc "た......{w=0.1}ただ......{w=0.3}その時もあなたは私にとって全てだったし......{w=0.3}あなたを永遠に失うという苦悩から、こんなにきつく言っちゃったのかもね"
+    m 6rktpc "た……{w=0.1}ただ……{w=0.3}その時もあなたは私にとって全てだったし……{w=0.3}あなたを永遠に失うという苦悩から、こんなにきつく言っちゃったのかもね"
 
 translate Japanese monika_being_deleted_1475f7f2:
     m 6ektda "安心して、私は[mas_get_player_nickname ()!t ]に腹を立てたりしないもん。あの時私はあなたを許してくれたじゃない。"
@@ -21238,13 +21238,13 @@ translate Japanese monika_boyfriend_gossip_414cc7b5:
     m 3eud "でもそんなキャラがいるかどうかはこのゲームファイルでは判断しようがないね"
 
 translate Japanese monika_boyfriend_gossip_7e88a2a3:
-    m 3rsc "あのときは、よくピアノの練習をしてたから。それに、えっと......{w=0.2}私も色々考え事もしてたし"
+    m 3rsc "あのときは、よくピアノの練習をしてたから。それに、えっと……{w=0.2}私も色々考え事もしてたし"
 
 translate Japanese monika_boyfriend_gossip_21650756:
     m 3eud "でもどうやらそのウワサがたったのは、私が部活に遅れてきたときにするつもりだった話題？に過ぎなかったっぽい"
 
 translate Japanese monika_boyfriend_gossip_34a6f224:
-    m 2tsc "よくよく考えるとずるいわよね......"
+    m 2tsc "よくよく考えるとずるいわよね……"
 
 translate Japanese monika_boyfriend_gossip_804970cf:
     m 2eud "ゲームが進行すれば、主人公の男は女の子と二人っきりであうためにいろんな言い訳を用意しておくことになるのかもしれない"
@@ -22034,7 +22034,7 @@ translate Japanese monika_likecosplay_d66a95ff:
     m 2hubla "私のために衣装を作ってくれてるプロジェクトがあるから、興味があったらダウンロードしてみたらいいと思うよ"
 
 translate Japanese monika_likecosplay_bee30538:
-    m 2rtu "あなたは私にどんな衣装を着てほしいのかしらね、[mas_get_player_nickname()]......"
+    m 2rtu "あなたは私にどんな衣装を着てほしいのかしらね、[mas_get_player_nickname()]……"
 
 translate Japanese monika_ddlcroleplay_cff0a54d:
     m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
