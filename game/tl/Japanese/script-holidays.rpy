@@ -4511,7 +4511,7 @@ translate Japanese _call_monika_zoom_transition_reset_6_19428ff1:
     m 1hua "えへへ～"
 
 translate Japanese _call_monika_zoom_transition_reset_6_a4a38d5b:
-    m 1euu "本当に最高だよ、全部今日のために建ててくれた計画なんだよね"
+    m 1euu "本当に最高だよ、全部今日のために立ててくれた計画なんだよね"
 
 translate Japanese _call_monika_zoom_transition_reset_6_2d19e2b1:
     m 3eua "でも、たくさん遠出しなくったって、きっと一緒に楽しい時間を過ごせると思うよ～"

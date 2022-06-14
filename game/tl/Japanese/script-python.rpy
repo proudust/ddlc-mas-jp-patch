@@ -407,10 +407,10 @@ translate Japanese _call_mas_wx_cmd_58_4fe9839e:
     m "CやJavaのような他の言語では、変数を作るときにはまず型を宣言する必要があるわ"
 
 translate Japanese _call_mas_wx_cmd_58_b0f5610e:
-    m "動的型付けは、実行中にも変数は型を変更できるけど"
+    m "動的型付けは、実行中にも変数は型を変更できるの"
 
 translate Japanese _call_mas_wx_cmd_58_592be21d:
-    m 1rksdlb "できるんだけど、そのコードは他の人に読みづらいし混乱しやすいから、一般的にはあまり使っちゃダメってことになってるわね"
+    m 1rksdlb "だけど、そのコードは他の人に読みづらいし混乱しやすいから、一般的にはあまり使っちゃダメってことになってるわね"
 
 translate Japanese _call_mas_wx_cmd_58_cc501271:
     m 1eud "ふぅ！{w=0.2} 一気に話しちゃったね！"
