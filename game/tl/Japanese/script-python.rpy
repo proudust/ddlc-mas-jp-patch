@@ -476,7 +476,7 @@ translate Japanese _call_mas_wx_cmd_61_5c70abfb:
     m "ここでインタープリタにaと打ち込むと……"
 
 translate Japanese _call_mas_wx_cmd_62_1ce945e2:
-    m 3eub "Pythonは変数aの中に代入された値、この場合は10ね、を探してきて表示してくれるの"
+    m 3eub "Pythonは変数aの中に代入された値を探してきて表示してくれるの。この場合は10ね"
 
 translate Japanese _call_mas_wx_cmd_62_b6c4d4b6:
     m "ここで、もし10と打ち込んだ場合……"
@@ -485,7 +485,7 @@ translate Japanese _call_mas_wx_cmd_63_1f25e2ec:
     m 3hua "これでもPythonは10と表示してくれるの！"
 
 translate Japanese _call_mas_wx_cmd_63_5e3c67ad:
-    m 3eua "これは、Pythonインタープリタが10という値をそのまま返したということよ。aと打ち込んだときと違って、変数に代入された値を探して表示してるわけじゃない"
+    m 3eua "これは、Pythonインタープリタが10という値をそのまま返したということよ。aと打ち込んだときと違って、変数に代入された値を探して表示してるわけじゃないの"
 
 translate Japanese _call_mas_wx_cmd_63_64a9ce78:
     m "Pythonが受け取った値をそのまま表示できる、今みたいな書き方のことをリテラルと言うの"
