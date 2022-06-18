@@ -853,6 +853,12 @@ translate Japanese _call_mas_wx_cmd_5_033963e2:
 translate Japanese _call_mas_wx_cmd_5_75f3eb2d:
     m "さよならを言うとき、どこかに連れて行くっていえば、あとは私でやってあげる"
 
+translate Japanese _call_mas_wx_cmd_5_8643d2fa:
+    m 1hua "素晴らしいアイデアじゃない？"
+
+translate Japanese _call_mas_wx_cmd_5_42a4b258:
+    m 3hub "あなたと一緒にどこにでも行くのが待ちきれないな～"
+
 translate Japanese monika_rpy_files_b2896d32:
     m 1eka "ねえ[player]、「game」ディレクトリを見ていたのだけれど……"
 
@@ -1457,7 +1463,7 @@ translate Japanese mas_islands_reset_74e80d11:
     m 3eka "そうなのね、[player]君"
 
 translate Japanese mas_islands_reset_c8a9ab36:
-    m 3hua "あなたが今の島々に満足してるなら、私も同じ意見よ。{w=0.2}このままの状態で何ができるのか、考えてみるわね～"
+    m 3hua "あなたが今の島々の状態に満足してるなら、私も同じ意見よ。{w=0.2}このままの状態で何ができるのか、考えてみるわね～"
 
 translate Japanese strings:
     old "Male."

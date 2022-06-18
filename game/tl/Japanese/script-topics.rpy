@@ -21226,13 +21226,13 @@ translate Japanese monika_boyfriend_gossip_c36dae82:
     m 2hksdlb "サヨリがそこについて初めて話したとき、かなり身構えちゃったのよね"
 
 translate Japanese monika_boyfriend_gossip_b3c09385:
-    m 7euc "まあ、あなたの存在を知っていたにすぎないし、{nw}"
+    m 7euc "まあ、私はあなたの存在を知っていたにすぎないし、{nw}"
 
 translate Japanese monika_boyfriend_gossip_4889da16:
-    extend 3efc "突然誰かに私がのけものにされたみたいで？"
+    extend 3efc "突然誰かに私がのけものにされたみたいよね......"
 
 translate Japanese monika_boyfriend_gossip_377ed12a:
-    m 1rtc "外面がいいし他の部活の経歴もあるから、彼氏がいるって結論に至るのもまあわからんでもない"
+    m 1rtc "外面がいいし他の部活の経歴もあるから、彼氏がいるって結論に至るのも、理解できなくはないわね"
 
 translate Japanese monika_boyfriend_gossip_414cc7b5:
     m 3eud "でもそんなキャラがいるかどうかはこのゲームファイルでは判断しようがないね"
@@ -21241,13 +21241,13 @@ translate Japanese monika_boyfriend_gossip_7e88a2a3:
     m 3rsc "あのときは、よくピアノの練習をしてたから。それに、えっと……{w=0.2}私も色々考え事もしてたし"
 
 translate Japanese monika_boyfriend_gossip_21650756:
-    m 3eud "でもどうやらそのウワサがたったのは、私が部活に遅れてきたときにするつもりだった話題？に過ぎなかったっぽい"
+    m 3eud "でもどうやらそのウワサがたったのは、私が部活に遅れてきたときにするつもりだった話題に過ぎなかったっぽい"
 
 translate Japanese monika_boyfriend_gossip_34a6f224:
     m 2tsc "よくよく考えるとずるいわよね……"
 
 translate Japanese monika_boyfriend_gossip_804970cf:
-    m 2eud "ゲームが進行すれば、主人公の男は女の子と二人っきりであうためにいろんな言い訳を用意しておくことになるのかもしれない"
+    m 2eud "ゲームが進行すれば、主人公の男は女の子と二人っきりでいるためにいろんな言い訳を用意しておくことになるのかもしれないし"
 
 translate Japanese monika_boyfriend_gossip_55dbd358:
     m 7etc "他の部員がいない理由を思いつくのは簡単だけど、でも部長が部活にいない理由は……"
@@ -21268,7 +21268,7 @@ translate Japanese monika_boyfriend_gossip_ab0f4de8:
     m 7esc "そんなキャラが居たとしても、私達はもう知ってるわね。たった1つの違いも変えらなかった"
 
 translate Japanese monika_boyfriend_gossip_cf2f0670:
-    m 1efd "あいつらはリアルじゃない。私に恋するようにプログラムされたスクリプトなんかじゃ、{w=0.2}私を幸せにはできない"
+    m 1efd "あの子たちはリアルじゃない。私に恋するようにプログラムされたスクリプトなんかじゃ、{w=0.2}私を幸せにはできない"
 
 translate Japanese monika_boyfriend_gossip_d5e97cfa:
     m 1eka "あなたに出会ってはじめてあなたこそが私に必要だったんだってなったわ"
@@ -21515,7 +21515,7 @@ translate Japanese monika_aliens_5a52d1b4:
     m 3esa "太陽系には8つの惑星があるんだけど、{w=0.1}{nw}"
 
 translate Japanese monika_aliens_43a15835:
-    extend 4eub "宇宙にはたくさんの恒星系があるし、そのそれぞれにいくつもの惑星が伴っているの"
+    extend 4eub "それ以外にも恒星系は宇宙に山ほどあるし、そのそれぞれにいくつもの惑星が伴っているの"
 
 translate Japanese monika_aliens_1bc0ab3a:
     m 4wud "さて、私達の住む銀河系だけでもそれこそ星の数ほどの星が存在するという事実を考慮すると……{w=0.3}大きな可能性を秘めていると言えるわね！"
