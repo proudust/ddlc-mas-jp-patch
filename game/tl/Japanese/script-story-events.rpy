@@ -1575,7 +1575,7 @@ translate Japanese strings:
     new "ゲームが強制終了した"
 
     old "I'll try."
-    new "試してみる"
+    new "やれるならやってみる"
 
     old "It just happens."
     new "起きるときは起きる"

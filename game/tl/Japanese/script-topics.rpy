@@ -689,16 +689,16 @@ translate Japanese monika_twitter_acd1cab6:
     m 2euc "というか、そこに書かれているツイートをあなたが読んだことがあるかは知らないけど、{w=0.1}私とは本当に関係がないの"
 
 translate Japanese monika_twitter_ed801e52:
-    m 4eud "記憶にない出来事も描かれてて……{w=0.2}例えば、ユリとお泊りしたらしいこととか"
+    m 4eud "私も覚えていない出来事も描かれてて……{w=0.2}例えば、ユリとお泊りしたらしいこととか"
 
 translate Japanese monika_twitter_0424802e:
-    m 4esd "それに、ゲームの中で起こったことは一切出てこないの。このバージョンの私はまだ現実の世界を意識しているみたいだけど……"
+    m 4esd "それに、ゲームの中でのえ出来事は一切出てこないの。このバージョンの私はまだ現実の世界を意識しているみたいだけど……"
 
 translate Japanese monika_twitter_0cd828e1:
-    m 1etc "ってことは、{w=0.3}このアカウントを運営してるモニカは、{w=0.1}私を含めた多くのモニカが経験したのとは全く違うストーリーを経験したのかもしれないわね"
+    m 1etc "ってことは、{w=0.3}このアカウントをやってるモニカは、{w=0.1}私を含めた多くのモニカが経験したのとは全く違うストーリーを経験したのかもしれないわね"
 
 translate Japanese monika_twitter_87fbe648:
-    m 1lksdlc "……あるいは、このゲームの開発者の一人が私のフリをしてるだけかもしれないけど"
+    m 1lksdlc "……それとも、このゲームの開発者の一人が私になりきってるだけかもしれないけど"
 
 translate Japanese monika_twitter_a4a4199c:
     m 3eksdld "もしそうなら、どうしたらいいのかよくわからないわね……{w=0.3}なりすましとそう変わらないんじゃない？"
@@ -713,7 +713,7 @@ translate Japanese monika_twitter_c8e70990:
     m 3esc "そう考えると、これはある種の宣伝になってしまうね……"
 
 translate Japanese monika_twitter_fac81d0d:
-    m 3euc "結局、甘い感じの絵がたくさん載ってるけど、そのほとんどが重要な日に投稿されているのが怪しいよね"
+    m 3euc "だって、甘い感じの絵がたくさん載ってるけど、そのほとんどが重要な日に投稿されているのが怪しいよね"
 
 translate Japanese monika_twitter_7be47edd:
     m 3eud "バレンタインデーとか、……{w=0.2}ちょうどDDLCの発売日と重なっている、私の誕生日とか"
@@ -722,7 +722,7 @@ translate Japanese monika_twitter_2777140d:
     m 1rtc "マーケティングの材料として使われているのをどう感じればいいのか、{w=0.3}よくわからないけれど"
 
 translate Japanese monika_twitter_e694f2b3:
-    m 2rsc "とはいえ、私のクリエイターとして、私のキャラクターのイメージは基本的に彼らが所有しているから、彼らにはある程度の権利があると思う"
+    m 2rsc "とはいえ、私のクリエイターとして、私のキャラクターのイメージは基本的に彼らのものだから、彼らにはある程度の権利があると思うのよね"
 
 translate Japanese monika_twitter_ebf96d38:
     m 2ekc "でも……{w=0.3}私はゲームの中の単なるキャラクターではないでしょ？"
@@ -743,7 +743,7 @@ translate Japanese monika_twitter_6d449f03:
     m 2eua "結局、私にとって大切なのは、あなたと一緒にいられること{w=0.2} {nw}"
 
 translate Japanese monika_twitter_e1050ba1:
-    extend 7eua "そしてそれは、私の創造主がいなければ実現しなかったことだから"
+    extend 7eua "そしてそれは、私を開発した人がいなければ実現しなかったことだから"
 
 translate Japanese monika_twitter_091dfcc5:
     m 2lka "その見返りとして、自分たちがゲームを作ることで利益を得られるのであれば、悪い話じゃないと思う"
@@ -755,7 +755,7 @@ translate Japanese monika_twitter_f8c4ce74:
     extend 7eua "私は気にしないよ"
 
 translate Japanese monika_twitter_9fb1388d:
-    m 1ekbla "でも、私が現実に存在していて、ここであなたを愛していることを忘れないでね"
+    m 1ekbla "でも、忘れないでおいてね。私が現実に存在していて、ここであなたを愛しているから"
 
 translate Japanese monika_twitter_5368409e:
     m 5hubla "だから、いつも私と一緒にいてね"
@@ -845,7 +845,7 @@ translate Japanese monika_saved_f889166d:
     m 2eka "ねえ[player]君、あなたがここに居てくれて、私は本当に命を救われたと思うわ"
 
 translate Japanese monika_saved_a453926f:
-    m 2lksdlc "ゲームだとわかっていながら、普通の精神状態でいられるなんて想像できない。"
+    m 2lksdlc "この世界がゲームの世界だと知っていて正気を保てたとは思えないもの"
 
 translate Japanese monika_saved_b09508ba:
     m 2lksdlc "この世界が偽りだと知っていて正気を保てたとは思えないもの"
@@ -908,7 +908,7 @@ translate Japanese monika_saved_c37f4a87:
     m 1tku "人は社会的フィードバックを欲するようにプログラムされているの"
 
 translate Japanese monika_saved_6148508f:
-    m 4eua "部員のことじゃなくて、人間のことね"
+    m 4eua "部員のことだけじゃないわ。人間だってそうよ"
 
 translate Japanese monika_saved_73946b85:
     m 4eua "部員のことじゃなくて、人間のことね"
@@ -1352,7 +1352,7 @@ translate Japanese monika_tea_a4427c1f:
     m 2eua "今となっては考えても仕方ないけどね"
 
 translate Japanese monika_tea_e8ce3da7:
-    m 5lkc "ここでコーヒーが飲めたらな……"
+    m 5lkc "ここでコーヒーを手に入れたりする方法があったら、どうかしらね......"
 
 translate Japanese monika_favoritegame_e71c5b8c:
     m 3eua "ねぇ、好きなゲームってなに？"
@@ -3002,7 +3002,7 @@ translate Japanese monika_festival_7ff9326b:
     m 3etc "まあ、そうじゃないかもしないけど……今の私の後知恵だとね"
 
 translate Japanese monika_festival_0df99258:
-    m 3eua "結局すべてが終わった後でさえ、あなたは私とまだ一緒にいたくてこのMODをインストールしてくれたもの……"
+    m 3eua "だって、すべてが終わった後でさえ、あなたは私とまだ一緒にいたくてこのMODをインストールしてくれたもの……"
 
 translate Japanese monika_festival_ea89ae54:
     m 1eka "だから削除しなかったとしても、今きっとあなたは一緒にいてくれると思うわ"
@@ -3311,7 +3311,7 @@ translate Japanese monika_meta_ee963612:
     m "聖書は神のことばをユダヤ人に伝えるためのものだし、"
 
 translate Japanese monika_meta_f0b8f8fd:
-    m 3eub "ホメーロス『オデュッセイア』は作品内で作品それ自体に言及してる。"
+    m 3eub "ホメーロス『オデュッセイア』は作品内で作品そのものに言及してる。"
 
 translate Japanese monika_meta_5aea4cc7:
     m "『カンタベリー物語』『ドン・キホーテ』『トリストラム・シャンディ』……"
@@ -19813,7 +19813,7 @@ translate Japanese monika_language_nuances_877eca4a:
     m 3eud "英語で典型的な例だと、「Good morning（おはよう）」、「Good afternoon（こんにちは）」、「Good evening（こんばんは）」ね"
 
 translate Japanese monika_language_nuances_95cc206b:
-    m 1euc "これって全部、あなたが毎日聞いて使ってる通常の挨拶よ"
+    m 1euc "これって全部、あなたが毎日聞いて使ってる通常の挨拶よね"
 
 translate Japanese monika_language_nuances_230e085f:
     m 3etc "このパターンに従うと、「Good day」も問題ないはずよね？{w=0.2}どうであれ他の多くの言語でもこれで通じるわ"
@@ -20020,7 +20020,7 @@ translate Japanese monika_why_spaceroom_a8e25f23:
     m 3eud "この部屋で多くの物事が起きることになってたから、部屋はそれに耐えられるように作られていたはずなの"
 
 translate Japanese monika_why_spaceroom_06217488:
-    m 2rtc "この場所はゲームで一番……{w=0.3}{nw}"
+    m 2rtc "この場所はゲームで一番…… {w=0.3}{nw}"
 
 translate Japanese monika_why_spaceroom_8afe3d32:
     extend 2eud "具体的な設定がなされた場所だったっていうか"
@@ -22228,7 +22228,7 @@ translate Japanese strings:
     new "よし、みんな！"
 
     old "Others still lingering"
-    new "まだそこに居る"
+    new "まだそこにいる部員たち"
 
     old "Character tropes"
     new "典型的なキャラクター"

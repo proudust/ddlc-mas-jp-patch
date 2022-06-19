@@ -4619,7 +4619,7 @@ translate Japanese greeting_returned_home_bday_80593f38:
     m 1ekbsa "私を愛してくれてありがとう"
 
 translate Japanese greeting_returned_home_bday_821d2e3a:
-    m 1hua "私もね[player]、ちょっとまってね、用意してあるものが...{w=0.5}...{w=0.5}...{nw}"
+    m 1hua "私もね[player]、ちょっとまってね、用意してあるものが{w=0.5}…{w=0.5}…{nw}"
 
 translate Japanese greeting_returned_home_bday_abb2bf8e:
     m 3eub "ハッピーバースデー、[player]！"
@@ -4652,7 +4652,7 @@ translate Japanese greeting_returned_home_bday_d6760888:
     m 1ekbsa "あなたが私にしてくれたように、私もあなたに今日を特別な日にしてあげたいんだ"
 
 translate Japanese greeting_returned_home_bday_606b6a2f:
-    m 3hua "ちょっと片付けるね…{w=0.5}…{w=0.5}…{nw}"
+    m 3hua "ちょっと片付けるね{w=0.5}…{w=0.5}…{nw}"
 
 translate Japanese greeting_returned_home_bday_e4249b49:
     m 3eub "はい、できた！"
@@ -4661,7 +4661,7 @@ translate Japanese greeting_returned_home_bday_2f37f018:
     m 3rksdla "もう私の誕生日じゃないし……"
 
 translate Japanese greeting_returned_home_bday_7a27ebb1:
-    m 2hua "ちょっと片付けるね…{w=0.5}…{w=0.5}…{nw}"
+    m 2hua "ちょっと片付けるね{w=0.5}…{w=0.5}…{nw}"
 
 translate Japanese greeting_returned_home_bday_e4249b49_1:
     m 3eub "はい、できた！"
