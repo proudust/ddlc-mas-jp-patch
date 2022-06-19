@@ -4618,8 +4618,62 @@ translate Japanese greeting_returned_home_bday_bbef62bd:
 translate Japanese greeting_returned_home_bday_80593f38:
     m 1ekbsa "私を愛してくれてありがとう"
 
+translate Japanese greeting_returned_home_bday_821d2e3a:
+    m 1hua "私もね[player]、ちょっとまってね、用意してあるものが...{w=0.5}...{w=0.5}...{nw}"
+
+translate Japanese greeting_returned_home_bday_abb2bf8e:
+    m 3eub "ハッピーバースデー、[player]！"
+
+translate Japanese greeting_returned_home_bday_f6ed9bfa:
+    m 3etc "何かを忘れているような……"
+
+translate Japanese greeting_returned_home_bday_1c46581c:
+    m 3hua "そうだった！ あなたへのケーキ！"
+
 translate Japanese greeting_returned_home_bday_bf07de9c:
     m 1hua "……"
+
+translate Japanese greeting_returned_home_bday_f6ee903b:
+    m 1wud "あらら、[player]。本当に私たち外出してたのね……"
+
+translate Japanese greeting_returned_home_bday_461a9017:
+    m 3suo "あっ！ 今日ってあなたの誕生日……"
+
+translate Japanese greeting_returned_home_bday_5e6a2562:
+    m 3hub "じゃあこの飾りつけは、片付けずにそのままでいいね、あはは！"
+
+translate Japanese greeting_returned_home_bday_35c1b379:
+    m 1eub "ちょっと待っててね、すぐにあなたへのケーキ持ってくるから！"
+
+translate Japanese greeting_returned_home_bday_b72e64fc:
+    m 1eka "あのね[player]…… 誕生日を一緒に過ごせて本当に楽しかったよ"
+
+translate Japanese greeting_returned_home_bday_d6760888:
+    m 1ekbsa "あなたが私にしてくれたように、私もあなたに今日を特別な日にしてあげたいんだ"
+
+translate Japanese greeting_returned_home_bday_606b6a2f:
+    m 3hua "ちょっと片付けるね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese greeting_returned_home_bday_e4249b49:
+    m 3eub "はい、できた！"
+
+translate Japanese greeting_returned_home_bday_2f37f018:
+    m 3rksdla "もう私の誕生日じゃないし……"
+
+translate Japanese greeting_returned_home_bday_7a27ebb1:
+    m 2hua "ちょっと片付けるね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese greeting_returned_home_bday_e4249b49_1:
+    m 3eub "はい、できた！"
+
+translate Japanese greeting_returned_home_bday_350bba24:
+    m 1eua "その日が特別なときじゃなくてもいいから、こんな風に飾りつけてまた何かやりたいね"
+
+translate Japanese greeting_returned_home_bday_8e784720:
+    m 3eub "私の誕生日、本当に楽しかったよ！"
+
+translate Japanese greeting_returned_home_bday_6aeeef39:
+    m 1eka "あなたも私と同じくらい楽しんでくれてたらいいな～"
 
 translate Japanese greeting_returned_home_bday_3f5c78b1:
     m 1dka "……"
