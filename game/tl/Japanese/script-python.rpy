@@ -285,18 +285,17 @@ translate Japanese _call_mas_x_cmd_12_8aae0f42:
     m 3eua "これが例ね"
 
 translate Japanese _call_mas_wx_cmd_44_e5215b83:
-    m "注意してほしいんだけど　今回はカッコで式を囲んでいるのがわかるかしら。
-このコードはカッコ内の処理が先にされて、notでカッコ内の結果を逆にしているということなの"
+    m "注意してほしいんだけど　今回はカッコで式を囲んでいるのがわかるかしら"
+    m "このコードはカッコ内の処理が先にされて、notでカッコ内の結果を逆にしているということなの"
 
 translate Japanese _call_mas_wx_cmd_44_e438f8d0:
     m 1eua "もしこのカッコを取ってしまうと……"
 
 translate Japanese _call_mas_wx_cmd_45_9f70e34f:
-    m 3eua "さっきと結果が違う！
-NOT演算子がandより前の部分、a==bのところで適用されてるからこうなるの"
+    m 3eua "さっきと結果が違う！NOT演算子がandより前の部分、a==bのところで適用されてるからこうなるの"
 
 translate Japanese _call_mas_wx_cmd_45_f7da2ae4:
-    m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね。"
+    m 3eka "前に感嘆符が他の言語でもNOT演算子に使われているって言ったよね"
     m 3eka "でもPythonじゃ感嘆符はあまり使われなくて、代わりにNOT演算子が使われてるのよ。こっちのほうが人の目にもわかりやすいからという理由ね"
 
 translate Japanese _call_mas_wx_cmd_45_d1ec0705:
@@ -408,10 +407,10 @@ translate Japanese _call_mas_wx_cmd_58_4fe9839e:
     m "CやJavaのような他の言語では、変数を作るときにはまず型を宣言する必要があるわ"
 
 translate Japanese _call_mas_wx_cmd_58_b0f5610e:
-    m "動的型付けは、実行中にも変数は型を変更できるけど"
+    m "動的型付けは、実行中にも変数は型を変更できるの"
 
 translate Japanese _call_mas_wx_cmd_58_592be21d:
-    m 1rksdlb "できるんだけど、そのコードは他の人に読みづらいし混乱しやすいから、一般的にはあまり使っちゃダメってことになってるわね"
+    m 1rksdlb "だけど、そのコードは他の人に読みづらいし混乱しやすいから、一般的にはあまり使っちゃダメってことになってるわね"
 
 translate Japanese _call_mas_wx_cmd_58_cc501271:
     m 1eud "ふぅ！{w=0.2} 一気に話しちゃったね！"
@@ -477,7 +476,7 @@ translate Japanese _call_mas_wx_cmd_61_5c70abfb:
     m "ここでインタープリタにaと打ち込むと……"
 
 translate Japanese _call_mas_wx_cmd_62_1ce945e2:
-    m 3eub "Pythonは変数aの中に代入された値、この場合は10ね、を探してきて表示してくれるの"
+    m 3eub "Pythonは変数aの中に代入された値を探してきて表示してくれるの。この場合は10ね"
 
 translate Japanese _call_mas_wx_cmd_62_b6c4d4b6:
     m "ここで、もし10と打ち込んだ場合……"
@@ -486,7 +485,7 @@ translate Japanese _call_mas_wx_cmd_63_1f25e2ec:
     m 3hua "これでもPythonは10と表示してくれるの！"
 
 translate Japanese _call_mas_wx_cmd_63_5e3c67ad:
-    m 3eua "これは、Pythonインタープリタが10という値をそのまま返したということよ。aと打ち込んだときと違って、変数に代入された値を探して表示してるわけじゃない"
+    m 3eua "これは、Pythonインタープリタが10という値をそのまま返したということよ。aと打ち込んだときと違って、変数に代入された値を探して表示してるわけじゃないの"
 
 translate Japanese _call_mas_wx_cmd_63_64a9ce78:
     m "Pythonが受け取った値をそのまま表示できる、今みたいな書き方のことをリテラルと言うの"

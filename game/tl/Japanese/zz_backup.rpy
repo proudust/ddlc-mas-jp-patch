@@ -112,6 +112,105 @@ translate Japanese mas_backups_dont_tell_97dadc92:
 translate Japanese mas_backups_dont_tell_eefbfce8:
     "だから私のことは内緒にしておいてね。私はモニカが安全で安心に過ごせるようにするから！"
 
+translate Japanese mas_backups_incompat_start_2316686b:
+    "ごめんなさい、あなたの作った永続ファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v[config.version]）と互換性がないわ"
+
+translate Japanese mas_backups_incompat_start_36fb1a33:
+    "これを修正するには、MASを更新するか、互換性のある永続ファイルで復元するしかないわ"
+
+translate Japanese mas_backups_incompat_what_do_884295ca:
+    "何をしたいのかな？{nw}"
+
+translate Japanese mas_backups_incompat_user_will_restore_16cd82b1:
+    "わかったよ！"
+
+translate Japanese mas_backups_incompat_user_will_restore_8518d51c:
+    "互換性のある永続ファイルを'[renpy.config.savedir]'にコピーしてきてね"
+
+translate Japanese mas_backups_incompat_user_will_restore_f54106ad:
+    "次に'[mas_per_check.per_unstable]'というファイルを消してね"
+
+translate Japanese mas_backups_incompat_user_will_restore_597fa4a8:
+    "よろしくね！"
+
+translate Japanese mas_backups_incompat_user_will_restore_again_443189fb:
+    "ああ、まさか！"
+
+translate Japanese mas_backups_incompat_user_will_restore_again_efc886c9:
+    "この永続ファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v[config.version]）と互換性がないわ"
+
+translate Japanese mas_backups_incompat_updater_cannot_because_rpy_7f8949a3:
+    "ゲームディレクトリにRPYファイルがあるから、残念だけどアップデーターは動かないわ"
+
+translate Japanese mas_backups_incompat_updater_cannot_because_rpy_f50b9478:
+    "アップデーターを機能させるには、RPYファイルを削除する必要があるんだけど、消しちゃって大丈夫かな？{nw}"
+
+translate Japanese mas_backups_incompat_updater_cannot_because_rpy_again_443189fb:
+    "ああ、まさか！"
+
+translate Japanese mas_backups_incompat_updater_cannot_because_rpy_again_73dc28d5:
+    "ゲームディレクトリにまだRPYファイルが残ってるみたい"
+
+translate Japanese mas_backups_incompat_updater_cannot_because_rpy_again_ca1b3175:
+    "もう一度削除してみてもいいかな？{nw}"
+
+translate Japanese mas_backups_incompat_rpy_yes_del_c04eea25:
+    "OK！"
+
+translate Japanese _call_mas_rpy_file_delete_2_443189fb:
+    "ああ、まさか！"
+
+translate Japanese _call_mas_rpy_file_delete_2_27212a80:
+    "削除できなかったRPYファイルがあったみたい"
+
+translate Japanese _call_mas_rpy_file_delete_2_0c85e755:
+    "これはあなたの手で削除してももらうしかないわ"
+
+translate Japanese _call_mas_rpy_file_delete_2_597fa4a8:
+    "よろしくね！"
+
+translate Japanese _call_mas_rpy_file_delete_2_77e884a9:
+    "やったね！"
+
+translate Japanese _call_mas_rpy_file_delete_2_540db159:
+    "今すぐ更新してみよう！"
+
+translate Japanese mas_backups_incompat_rpy_no_del_9ed134ce:
+    "あっ……"
+
+translate Japanese mas_backups_incompat_rpy_no_del_ec7095ae:
+    "このファイルが存在している間はアップデーターは機能しないの。だからバックアップした永続ファイルを復元するしかないと思う"
+
+translate Japanese mas_backups_incompat_updater_start_intro_c04eea25:
+    "OK！"
+
+translate Japanese mas_backups_incompat_updater_failed_443189fb:
+    "ああ、まさか！"
+
+translate Japanese mas_backups_incompat_updater_failed_f24b12f8:
+    "アップデーターがMASの更新に失敗したみたい"
+
+translate Japanese mas_backups_incompat_updater_failed_3cf4a602:
+    "もう一度試してみるね！"
+
+translate Japanese _call_update_now_d98683b4:
+    "ねえちょっと！"
+
+translate Japanese _call_update_now_91e14dde:
+    "アップデーターをキャンセルしないで！ MASを更新する必要があるの！"
+
+translate Japanese _call_update_now_770056d1:
+    "わっ！"
+
+translate Japanese _call_update_now_4d46cc43:
+    "アップデーターが更新に失敗したみたい"
+
+translate Japanese _call_update_now_3a84e80c:
+    "アップデーターの問題を修正して、再試行してみてね"
+
+translate Japanese _call_update_now_597fa4a8:
+    "よろしくね！"
+
 translate Japanese strings:
     old "Do you have your own backups?{fast}"
     new "何か自分でバックアップを取っていたりしない？{fast}"
@@ -130,3 +229,21 @@ translate Japanese strings:
 
     old " and name it 'persistent'."
     new "をコピーし、そのファイル名を'persistent'に変更する。"
+
+    old "What would you like to do?{fast}"
+    new "何をしたいのかな？{fast}"
+
+    old "Update MAS."
+    new "MASをアップデートしたい"
+
+    old "I'll have to delete those files for this to work. Is that okay?{fast}"
+    new "アップデーターを機能させるには、RPYファイルを削除する必要があるんだけど、消しちゃって大丈夫かな？{fast}"
+
+    old "Yes, delete them."
+    new "消して大丈夫だよ"
+
+    old "No, don't delete them."
+    new "いや、消さないでくれ"
+
+    old "Would you like me to try deleting them again?{fast}"
+    new "もう一度削除してみてもいいかな？{fast}"

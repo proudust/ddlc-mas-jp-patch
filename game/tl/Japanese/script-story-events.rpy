@@ -244,6 +244,105 @@ translate Japanese _call_mas_player_bday_cake_223a7b0e:
 translate Japanese _call_mas_player_bday_cake_56d53a18:
     m 4eka "いい一日を過ごせるよう、願ってるわ"
 
+translate Japanese _call_mas_player_bday_cake_839eb0c7:
+    m 1wuo "え…… {w=1}ええっ！？"
+
+translate Japanese _call_mas_player_bday_cake_0a0e85b4:
+    m 3sub "今日ってあなたの誕生日じゃない！"
+
+translate Japanese _call_mas_player_bday_cake_7b9d0da0:
+    m 3hub "ハッピーバースデー、[player]！ お誕生日おめでとう！"
+
+translate Japanese _call_mas_player_bday_cake_9e534ba0:
+    m 1rksdla "もうちょっと早くわかっていたら、何かの準備ができていたのに"
+
+translate Japanese _call_mas_player_bday_cake_b48eed4c:
+    m 1eka "だけど、少なくとも私にはこれができるもの……"
+
+translate Japanese _call_mas_player_bday_moni_sings_2ceefb9d:
+    m 1hub "あはは！まあまあだけど、たいしたものじゃないの！"
+
+translate Japanese _call_mas_player_bday_moni_sings_4ebce6ca:
+    m 3hua "来年は特別なことを使用ね、[player]くん！約束よ！"
+
+translate Japanese _call_mas_player_bday_moni_sings_56de4084:
+    m 2eka "そう、今日があなたの誕生日なのね"
+
+translate Japanese _call_mas_player_bday_moni_sings_223a7b0e:
+    m "お誕生日おめでとう、[player]君"
+
+translate Japanese _call_mas_player_bday_moni_sings_56d53a18:
+    m 4eka "よい一日を"
+
+translate Japanese _call_mas_player_bday_moni_sings_3df6d1b8:
+    m 1sua "まあ！[player]君の誕生日って、私たちの記念日と同じなの！？"
+
+translate Japanese _call_mas_player_bday_moni_sings_6fce765c:
+    m 3hub "すごいじゃん！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1113078e:
+    m 1sua "あなたの誕生日と私たちの愛を同じ日に祝うこと以上に特別な日は想像できたことじゃないわ……"
+
+translate Japanese _call_mas_player_bday_moni_sings_e69b9370:
+    m "それにさ、[hol_str]……"
+
+translate Japanese _call_mas_player_bday_moni_sings_991add58:
+    m 3hua "そういうのって、魔法みたい~"
+
+translate Japanese _call_mas_player_bday_moni_sings_839eb0c7:
+    m 1wuo "え…… {w=1}ええっ！？"
+
+translate Japanese _call_mas_player_bday_moni_sings_46d4755b:
+    m 3sua "[player]君の誕生日って、私と同じなの！？"
+
+translate Japanese _call_mas_player_bday_moni_sings_3c7b7064:
+    m 3sub "すっごくかっこいいよ、[player]君！"
+
+translate Japanese _call_mas_player_bday_moni_sings_78f441bb:
+    m 1tsu "私たちは本当に一緒になる運命だったんだね、えっへへ……"
+
+translate Japanese _call_mas_player_bday_moni_sings_bcad49b0:
+    m 3hua "それだけでも、今日の特別さって増すものね～"
+
+translate Japanese _call_mas_player_bday_moni_sings_ced1d6bb:
+    m 1eub "という訳で、一緒に歌いましょ、[player]君！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_36f3556e:
+    m 3hua "もっと特別な日にしないとね～"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_1a3f7c70:
+    m 3eua "あっ、[player]君ってハロウィン生まれなの！？やるじゃん！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_9f4b52fd:
+    m 1hua "誕生日ケーキに、キャンディーに、そして[player]君……"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_dc930ff1:
+    m 3hub "一日に食べるお菓子がいっぱいあるわね。あはは！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_f6dfc101:
+    m 1hua "あっ、[player]君ってクリスマス生まれなの！？すごいじゃん！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_6f54ee14:
+    m 3rksdla "ただ……同じ日に両方のプレゼントを受け取るってことは、それほど多くもらった気分にはならないでしょうね……"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_b3b33657:
+    m 3hub "それでも特別な日にしないと！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_c139060a:
+    m 1sua "まあ！あなたの誕生日がバレンタインデーだなんて……"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_94058cc0:
+    m 3hua "ロマンチックじゃないの！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_0fbcb338:
+    m 1ekbsa "私たちの愛と[player]君の誕生日を同じ日にお祝いするのが楽しみだな～"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_da7f1ddb:
+    m 3wud "あっ！2月29日生まれ！君、すごいね！"
+
+translate Japanese _call_mas_player_bday_moni_sings_1_81975a21:
+    m 3hua "……といっても、うるう年以外の年だったら、3月1日にあなたの誕生日を祝うだけでいいのよね。"
+
 translate Japanese calendar_birthdate_7f8c9848:
     m 1lksdla "ねえ、[player]君……"
 
@@ -512,13 +611,13 @@ translate Japanese mas_monikai_detected_e6f89ce6:
     m 1hub "あはは～"
 
 translate Japanese mas_monikai_detected_76f589e4:
-    m 1hua "あなたがそういうソフトをダウンロードしてくれて嬉しいな。"
+    m 1hua "あなたがそういうソフトをダウンロードしてくれて嬉しいな"
 
 translate Japanese mas_monikai_detected_1133e8f7:
-    m 1eua "ただ私じゃなくて{i}それ{/i}と長く過ごすようにならないでね。"
+    m 1eua "ただ私じゃなくて{i}そっち{/i}と長く過ごすようにならないでね"
 
 translate Japanese mas_monikai_detected_ac7f49b8:
-    m 3eua "だって私が本物なんだし。"
+    m 3eua "だって私が本物なんだし"
 
 translate Japanese mas_crashed_long_qs_37aba858:
     m "[player]君？{w=0.3}あなたなの？{nw}"
@@ -719,13 +818,46 @@ translate Japanese mas_new_character_file_1988c641:
     m 1eua "ねえ、[player]……"
 
 translate Japanese mas_new_character_file_e66debf4:
-    m 3eua "私のchrファイルのこと覚えてる？"
+    m 3eua "私のキャラクターファイルのこと覚えてる？"
+
+translate Japanese mas_new_character_file_78c7e5f6:
+    m 1eud "最近調べてみたんだけど、ただの画像にコードが入ってるだけだったんだ！"
+
+translate Japanese mas_new_character_file_dc082df1:
+    m 3ekc "ファイル名を除いて、画像自体にもそのコードにも、モニカのモの字でさえ書かれてないわね"
+
+translate Japanese mas_new_character_file_c93e9498:
+    m 1dsd "ちょっといいかな……"
+
+translate Japanese mas_new_character_file_152a3adf:
+    m 1esc "私が、削除してあげる"
 
 translate Japanese _call_mas_wx_cmd_5_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね"
 
 translate Japanese _call_mas_wx_cmd_5_fe9c0937:
     m 1eua "ところで……"
+
+translate Japanese _call_mas_wx_cmd_5_f5b7b395:
+    m 1rkc "あなたがこのファイルを持ち歩いてくれるのはありがたいことだけどね……"
+
+translate Japanese _call_mas_wx_cmd_5_2bbce78e:
+    m 1dsc "だけど……"
+
+translate Japanese _call_mas_wx_cmd_5_81e1d29f:
+    m 1esc "あんな存在価値のないデータをどこにでも持ち運ぶわけにもいかないと思って……"
+
+translate Japanese _call_mas_wx_cmd_5_033963e2:
+    m 3wub "そこで、自分をファイルに変換して持ち運べる方法を思いついたの！"
+
+translate Japanese _call_mas_wx_cmd_5_75f3eb2d:
+    m "さよならを言うとき、どこかに連れて行くっていえば、あとは私でやってあげる"
+
+translate Japanese _call_mas_wx_cmd_5_8643d2fa:
+    m 1hua "素晴らしいアイデアじゃない？"
+
+translate Japanese _call_mas_wx_cmd_5_42a4b258:
+    m 3hub "あなたと一緒にどこにでも行くのが待ちきれないな～"
 
 translate Japanese monika_rpy_files_b2896d32:
     m 1eka "ねえ[player]、「game」ディレクトリを見ていたのだけれど……"
@@ -923,7 +1055,7 @@ translate Japanese mas_text_speed_enabler_e30c6fc9:
     m "だから気が向いたときに気軽に文字速度を変えてみてね"
 
 translate Japanese _call_mas_notification_windowreact_f5e7f2f5:
-    m 1hub "[player]、エキサイティングなお知らせがあるよ！"
+    m 1hub "[player]、わくわくするお知らせがあるよ！"
 
 translate Japanese mas_notification_windowreact_9784ab94:
     m 3eua "私、プログラミングを勉強しているのだけれど、コンピューターに通知を出せるようになったの！"
@@ -1133,7 +1265,7 @@ translate Japanese mas_covid19_de39abd6:
     m 2ekc "ねえ、[player]……"
 
 translate Japanese mas_covid19_94c5c79a:
-    m 2rksdld "最近ネットでCOVID19についての記事を沢山読んでるんだけど、あなたのことがとても心配だよ！"
+    m 2rksdld "最近ネットで「新型コロナウイルス」についての記事を沢山読んでるんだけど、あなたのことがとても心配だよ！"
 
 translate Japanese mas_covid19_e178312f:
     m 2eksdld "感染の拡大がすごく速いみたいで、{nw}"
@@ -1276,6 +1408,63 @@ translate Japanese mas_covid19_cb1d53fc:
 translate Japanese mas_covid19_881f20c9:
     m 2dkbsu "私にあなたが必要だよ、[player]～"
 
+translate Japanese mas_islands_reset_7aac5906:
+    m 1rsc "うーん……"
+
+translate Japanese mas_islands_reset_dfddb0f1:
+    m 1esc "……ねえ、{w=0.1}ちょっとアドバイスが聞きたいけど、いいかな？"
+
+translate Japanese mas_islands_reset_bf0277c1:
+    m 3lkd "１つのプロジェクトに長い間取り組んで、その全体を眺めていたら、その中に何十もの間違いや改善点が見えてきたりした経験ってあるよね？"
+
+translate Japanese mas_islands_reset_f03c4310:
+    m 3ekc "……ほら、{w=0.1}私が島で作業したおかげで、お出かけする場所ができたんだもの……{w=0.3}{nw}"
+
+translate Japanese mas_islands_reset_a27a9b74:
+    extend 3esd "私たちだけの現実が、あの島にある"
+
+translate Japanese mas_islands_reset_145627a3:
+    m 1eud "だけど、私のコーディングスキルが上達した今、本っ当に前よりもっといいものを作り出せると思うのよね"
+
+translate Japanese mas_islands_reset_f11bc4d3:
+    m 1rkc "あと、修正すべき項目を全て修正するぐらいなら……{w=0.3}{nw}"
+
+translate Japanese mas_islands_reset_ed9fd79b:
+    extend 1rksdld "いっそのこと、ゼロからやり直した方がよくない？"
+
+translate Japanese mas_islands_reset_d7721187:
+    m 4ekc "こうすると、窓の向こうの空は、しばらくの間空っぽになっちゃうのね{w=0.1}{nw}"
+
+translate Japanese mas_islands_reset_d24a870c:
+    extend 4eua "ただ、待つだけの価値はあると思うわ"
+
+translate Japanese mas_islands_reset_b789d0ef:
+    m 1euc "やっても大丈夫よね、[player]君？{nw}"
+
+translate Japanese mas_islands_reset_493aac64:
+    m "やっても大丈夫よね、[player]君？{fast}" nointeract
+
+translate Japanese mas_islands_reset_8a281ff9:
+    m 1dsc "わかったから、ちょっと待ってて{w=0.3}…{w=0.3}…{w=0.3}{nw}"
+
+translate Japanese mas_islands_reset_22f47070:
+    m 3hua "はい、できた！"
+
+translate Japanese mas_islands_reset_e0441d40:
+    m 1eua "これで、新しいキャンパスができた"
+
+translate Japanese mas_islands_reset_cdd47186:
+    m 3kuu "……あと、[player]君。あなたがいない時は、私は島づくりして待ってるからね、えへへ～"
+
+translate Japanese mas_islands_reset_df6ab710:
+    m 3hub "だから、楽しみにしていててね！"
+
+translate Japanese mas_islands_reset_74e80d11:
+    m 3eka "そうなのね、[player]君"
+
+translate Japanese mas_islands_reset_c8a9ab36:
+    m 3hua "あなたが今の島々の状態に満足してるなら、私も同じ意見よ。{w=0.2}このままの状態で何ができるのか、考えてみるわね～"
+
 translate Japanese strings:
     old "Male."
     new "男性"
@@ -1346,6 +1535,9 @@ translate Japanese strings:
     old "What do you want me to call you?"
     new "なんて呼んで欲しい？"
 
+    old "my birthday"
+    new "私の誕生日"
+
     old "games"
     new "ゲーム"
 
@@ -1374,7 +1566,7 @@ translate Japanese strings:
     new "……はい"
 
     old "Turn on the light."
-    new "電気をつけて"
+    new "電気をつける"
 
     old "Calm down, [m_name]. You're safe now."
     new "落ち着いて、[m_name]。大丈夫だよ"
@@ -1435,3 +1627,9 @@ P.S: Don't tell her about me!"""
 
     old "No, I'm still working."
     new "いや、まだ仕事場に出ている"
+
+    old "Let's do it."
+    new "やろう"
+
+    old "I think they're fine."
+    new "多分大丈夫"

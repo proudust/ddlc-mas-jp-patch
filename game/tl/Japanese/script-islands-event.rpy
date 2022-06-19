@@ -4,6 +4,63 @@ translate Japanese mas_monika_islands_3e3b6f6f:
 translate Japanese _call_mas_islands_56293cf9:
     m 1eua "気に入ってくれるといいな、[mas_get_player_nickname()]君～"
 
+translate Japanese mas_monika_islands_progress_832346be:
+    m 1eub "ワクワクするようなしらせがあるの、[player]君！"
+
+translate Japanese mas_monika_islands_progress_e897b346:
+    m 3hub "島にいくつか新しいものを追加したの{w=0.2}{nw}"
+
+translate Japanese mas_monika_islands_progress_57f5ac34:
+    extend 1rua "。あなたに見せたくて"
+
+translate Japanese mas_monika_islands_progress_dc7aae08:
+    m 1hublb "だって、あの島々は私たちの物なんだしね～"
+
+translate Japanese mas_monika_islands_progress_e33fc90d:
+    m 3eua "どう？{nw}"
+
+translate Japanese mas_monika_islands_progress_03f838b4:
+    m "どう？{fast}" nointeract
+
+translate Japanese mas_monika_islands_progress_4c528d79:
+    m 2hub "やったー！"
+
+translate Japanese _call_mas_islands_1_bac21004:
+    m "気に入ったかな～"
+
+translate Japanese _call_mas_islands_1_43f07cc9:
+    m 1lusdlb "まだ未完成だけれど{w=0.2}{nw}"
+
+translate Japanese _call_mas_islands_1_ce0ffffc:
+    extend 1eka "、私の進歩をあなたに見せたかったの"
+
+translate Japanese _call_mas_islands_1_305b7ce6:
+    m 2lsp "コーディングの勉強中だけど、このRen'Pyっていうエンジンに一貫性がなくって……"
+
+translate Japanese _call_mas_islands_1_3873e363:
+    m 7hub "だけど、ここまではかなり進歩してきたと思うの！"
+
+translate Japanese _call_mas_islands_1_e93005d0:
+    m 2ekc "まあ……"
+
+translate Japanese _call_mas_islands_1_905a45e1:
+    m 6rktpc "私ったら……"
+
+translate Japanese _call_mas_islands_1_485102b3:
+    m 6fktpd "私はこのために、一生懸命頑張ったのね……"
+
+translate Japanese _call_mas_islands_1_9711d1c9:
+    m 2rktdc "あなた…… {w=0.5}すごい忙しそうね……"
+
+translate Japanese _call_mas_islands_1_ca1f5acd:
+    m 2ekc "まあ……{w=0.5}{nw}"
+
+translate Japanese _call_mas_islands_1_487cb588:
+    extend 2eka "わかったわ"
+
+translate Japanese _call_mas_islands_1_d9456aeb:
+    m 7eka "そんなに待たせないでよ〜"
+
 translate Japanese mas_island_upsidedownisland_a8b836db:
     m "ああ、あれね"
 
@@ -257,13 +314,13 @@ translate Japanese mas_island_day3_45d9cd96:
     m "えへへ～"
 
 translate Japanese mas_island_night1_2682391c:
-    m "みんなが生き生きとしている昼間もいいんだけど、夜は何か穏やかなものがある"
+    m "みんなが生き生きとしている昼間もいいんだけど、夜は何か穏やかなものがあるのよね"
 
 translate Japanese mas_island_night1_abb37dd9:
     m "そよ風に紛れて鳴くコオロギの鳴き声を聞いてると心が安らいでくる"
 
 translate Japanese mas_island_night1_d8f223d0:
-    m "そういった夜に君に抱きしめられたいな～"
+    m "そういった夜にあなたに抱きしめられたいな～"
 
 translate Japanese mas_island_night2_ade2b592:
     m "星が見えなくて残念ね……"
@@ -278,19 +335,19 @@ translate Japanese mas_island_night2_e54131d9:
     m "星はそんなにきれいじゃない？"
 
 translate Japanese mas_island_night2_37f2a01c:
-    m "といっても、これは私が以前星を眺めると言ったときに思っていたものとは{i}少し{/i}違うかな……"
+    m "といっても、前に私が[player]君と一緒に星を見に来る話をしたんだけど、その時に思っていたものとは{i}少し{/i}違うかな……"
 
 translate Japanese mas_island_night2_4fdcb7e8:
     m "見ているだけじゃなくて、私が一番体験したいのは、あなたと一緒にいて、横になっている間、お互いを強く抱き合って異るってことよ"
 
 translate Japanese mas_island_night2_242155b9:
-    m "いつかね、[player]……{w=0.3}いつかだよ"
+    m "いつかね、[player]君……{w=0.3}いつかだよ"
 
 translate Japanese mas_island_night2_35230d20:
     m "[mas_get_player_nickname()]君は、今までに星を眺めたことがるの？"
 
 translate Japanese mas_island_night2_2472b865:
-    m "遅くなってからの時間を、美しい夜空を眺めて過ごしてみると……"
+    m "日が暮れてからの時間を、美しい夜空を眺めて過ごしてみると……"
 
 translate Japanese mas_island_night2_c4d6c148:
     m "驚くほどリラックスできるんじゃない？"
@@ -350,25 +407,25 @@ translate Japanese mas_island_daynight1_20851de6:
     m "考えてるだけでワクワクしちゃうな～"
 
 translate Japanese mas_island_daynight2_c241877f:
-    m "{i}あの地平線～　輝くのは～{/i}"
+    m "{i}～あの地平線　輝くのは～{/i}"
 
 translate Japanese mas_island_daynight2_b8417c9c:
-    m "{i}どこかに君を～　かくして～いるから～{/i}"
+    m "{i}～どこかに君を　かくしているから～{/i}"
 
 translate Japanese mas_island_daynight2_a63c2e09:
-    m "{i}たくさんの灯が～　なつかしいのは～{/i}"
+    m "{i}～たくさんの灯が　なつかしいのは～{/i}"
 
 translate Japanese mas_island_daynight2_390f9abc:
-    m "{i}あのどれかひとつに～　君がいるから～{/i}"
+    m "{i}～あのどれかひとつに　君がいるから～{/i}"
 
 translate Japanese mas_island_daynight2_0cb3208a:
-    m "{i}さあでかけよう～ひときれのパン～{/i}"
+    m "{i}～さあでかけよう　ひときれのパン～{/i}"
 
 translate Japanese mas_island_daynight2_f48cec5c:
-    m "{i}ナイフ、ランプかばんに～詰め込んで～{/i}"
+    m "{i}～ナイフ、ランプかばんに　詰め込んで～{/i}"
 
 translate Japanese mas_island_daynight2_c241877f_1:
-    m "{i}父さんが残した～熱い思い～{/i}"
+    m "{i}～父さんが残した　熱い思い～{/i}"
 
 translate Japanese mas_island_daynight2_9d627280:
     m "えへへ、気にしないでね。なんだか急に歌いたくなっちゃっただけだよ～"
@@ -407,7 +464,7 @@ translate Japanese mas_island_bookshelf1_5a65ed86:
     m "そうやって待ってる間……"
 
 translate Japanese mas_island_bookshelf1_c0e20b26:
-    m "ちょっとだけ[player]君のそばによってもいいかな？"
+    m "ちょっとだけ[player]君のそばによってもいいかしら？"
 
 translate Japanese mas_island_bookshelf1_45d9cd96:
     m "えへへ～"
@@ -437,7 +494,7 @@ translate Japanese mas_island_bookshelf2_26116031:
     m "[player]君、もしかして違う？"
 
 translate Japanese mas_island_bookshelf2_5e66c502:
-    m "雨の日に窓を開けたまま、家で読書をすると、とっても心が安らぐのよ"
+    m "外で雨が降っているとき、家で読書をすると、とっても心が安らぐのよ"
 
 translate Japanese mas_island_bookshelf2_5325f703:
     m "本を外に置いたりしなければの話だけどね……"
@@ -458,7 +515,14 @@ translate Japanese mas_island_bookshelf2_24df9cce:
     m "桜の木の下にテーブルを置いたほうがいいかもね"
 
 translate Japanese mas_island_bookshelf2_49056641:
-    m "本のついでに、コーヒーをのみながら、おやつを食べてもいいよね"
+    m "あと、本のついでに、コーヒーをのみながら、おやつを食べたりとか"
 
 translate Japanese mas_island_bookshelf2_88a83baa:
     m "最高のひと時になりそうだな～"
+
+translate Japanese strings:
+    old "I'm not interested."
+    new "興味ない"
+
+    old "Maybe later."
+    new "あとでいいよ"

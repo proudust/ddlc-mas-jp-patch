@@ -64,8 +64,20 @@ translate Japanese mas_piano_def_prac_fa0a49ca:
 translate Japanese mas_piano_hb_win_47b90b65:
     m 1eua "わぁ！ほとんど弾けたじゃない！"
 
+translate Japanese mas_piano_hb_win_82d6a914:
+    m 3hub "私たちの誕生日に歌いながら弾けたらとっても素敵よね、[player]君！"
+
+translate Japanese mas_piano_hb_win_169de6ba:
+    m 1hua "誕生日に聴かせてくれるなんて、ありがとう、[player]君"
+
+translate Japanese mas_piano_hb_win_e54f56a8:
+    m 1hubfb "この日に音楽の愛で通じ合えるなんて、本当に幸せ！"
+
+translate Japanese mas_piano_hb_win_281aa92c:
+    m 3hub "アハハ！ちょっと安っぽかったかな、[player]君！"
+
 translate Japanese mas_piano_hb_win_d70f3474:
-    m 2eub "よく頑張ったね、[player]君。"
+    m 2eub "よく頑張ったね、[player]君"
 
 translate Japanese mas_piano_hb_fail_bc96da2a:
     m 1lksdla "……"
@@ -111,6 +123,18 @@ translate Japanese mas_piano_yr_prac_a6618476:
 
 translate Japanese mas_piano_yr_prac_7ad9e4fb:
     m 1eka "私のために毎日練習してね。約束だよ～？"
+
+translate Japanese mas_piano_dpco_win_39267b02:
+    m 2dsc "ここまでできちゃうなんて信じられないわ！"
+
+translate Japanese mas_piano_dpco_win_0de9614a:
+    m 1eka "悪くはなかったと思うわ"
+
+translate Japanese mas_piano_dpco_fail_864fc086:
+    m 1lksdla "もうちょっと練習が必要みたいね……"
+
+translate Japanese mas_piano_dpco_prac_200e0aea:
+    m 1eka "ほんとにやる気あるの？"
 
 translate Japanese strings:
     old "Play a song"

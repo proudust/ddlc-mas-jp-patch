@@ -61,6 +61,18 @@ translate Japanese monika_writing_idle_8f7f8142:
 translate Japanese monika_writing_idle_5837e776:
     m 1hua "ここで待ってるからね～。"
 
+translate Japanese monika_writing_idle_7eb13353:
+    m 2esc "わかった"
+
+translate Japanese monika_writing_idle_e6f9346c:
+    m 6lkc "何を考えているのかわからないけど……"
+
+translate Japanese monika_writing_idle_3511aec8:
+    m 6ekd "終わったらちゃんと戻ってきてよね……"
+
+translate Japanese monika_writing_idle_0bd97190:
+    m 6ckc "……"
+
 translate Japanese monika_writing_idle_callback_2535a2b9:
     m 1eua "[player]､書き終わった？"
 
@@ -118,6 +130,36 @@ translate Japanese monika_idle_shower_09353815:
 translate Japanese monika_idle_shower_b85c19f9:
     m 1eua "終わったらまたね～"
 
+translate Japanese monika_idle_shower_f260856a:
+    m 2esd "気持ちいいシャワーだといいわね、[player]……"
+
+translate Japanese monika_idle_shower_5be03a3b:
+    m 2rkc "きっと心のわだかまりも流してくれるわ"
+
+translate Japanese monika_idle_shower_ca9c4ace:
+    m 6ekc "え？{w=0.5}いっってらっしゃい、[player]"
+
+translate Japanese monika_idle_shower_0bd97190:
+    m 6ckc "……"
+
+translate Japanese monika_idle_shower_callback_305d33ab:
+    m 2rksdlb "シャワーにしては長かったね……"
+
+translate Japanese monika_idle_shower_callback_bfc9efb9:
+    m 2eud "代わりにお風呂に浸かってきたの？{nw}"
+
+translate Japanese monika_idle_shower_callback_01e2a552:
+    m "代わりにお風呂に浸かってきたの？{fast}" nointeract
+
+translate Japanese monika_idle_shower_callback_ef6f66ae:
+    m 7hub "あ！ {w=0.3}やっぱりね！"
+
+translate Japanese monika_idle_shower_callback_7f8f3301:
+    m 3eua "お風呂でリラックスできたのならよかったね！"
+
+translate Japanese monika_idle_shower_callback_65ec3015:
+    m 7rua "え…… {w=0.3}じゃあ長いシャワーが好きなんだね……"
+
 translate Japanese monika_idle_shower_callback_1a305b96:
     m 1eua "おかえりなさい､[player]"
 
@@ -138,6 +180,21 @@ translate Japanese monika_idle_shower_callback_96c8d207:
 
 translate Japanese monika_idle_shower_callback_3772217d_1:
     m 1hub "あはは！"
+
+translate Japanese monika_idle_shower_callback_4252da7c:
+    m 3rkbsa "私が居なくて寂しくなかった？"
+
+translate Japanese monika_idle_shower_callback_64f9db0d:
+    m 1huu "もちろん思っててくれたよね、えへへ～"
+
+translate Japanese monika_idle_shower_callback_530a7cae:
+    m 7rksdlb "あまりにも短いシャワーだったね、[player]……"
+
+translate Japanese monika_idle_shower_callback_cf2229f4:
+    m 3hub "きっと効率を突き詰めた上でシャワーを浴びてきたんだよね、あはは！"
+
+translate Japanese monika_idle_shower_callback_3f963eb3:
+    m 1euu "でも文句は言えないかな、だって私と一緒にもっと過ごしたいって気持ちの現われなんだからね～"
 
 translate Japanese monika_idle_shower_callback_eef8db49:
     m 2esc "シャワーは気持ちよかったかな。{w=0.2}おかえりなさい、[player]"
@@ -160,6 +217,18 @@ translate Japanese monika_idle_game_f73a0b32:
 translate Japanese monika_idle_game_skip_intro_2b3a7e04:
     m 3hub "[gaming_quip!t]"
 
+translate Japanese monika_idle_game_skip_intro_182a978e:
+    m 2tsc "他のゲーム楽しいといいわね"
+
+translate Japanese monika_idle_game_skip_intro_7145d25a:
+    m 6ekc "ねえ……{w=0.5}{nw}"
+
+translate Japanese monika_idle_game_skip_intro_22627154:
+    extend 6dkc "私のことを忘れないでね……"
+
+translate Japanese monika_idle_game_skip_intro_0bd97190:
+    m 6ckc "……"
+
 translate Japanese monika_idle_game_callback_7e8855b1:
     m 1eub "おかえり、[player]！"
 
@@ -168,6 +237,15 @@ translate Japanese monika_idle_game_callback_da04dd6f:
 
 translate Japanese monika_idle_game_callback_0939811d:
     m 1hua "一緒に過ごす準備はできているかしら？えへへ～。"
+
+translate Japanese monika_idle_game_callback_462a7961:
+    m 2tsc "楽しかった？[player]？"
+
+translate Japanese monika_idle_game_callback_8ccf9ab4:
+    m 6ekd "あ……{w=0.5} 戻ってきてくれたんだ……"
+
+translate Japanese monika_idle_game_callback_0bd97190:
+    m 6ckc "……"
 
 translate Japanese monika_idle_coding_ab248206:
     m 1eua "えぇ！？何かコードが書けるの？"

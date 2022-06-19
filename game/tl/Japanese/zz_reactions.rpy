@@ -37,6 +37,9 @@ translate Japanese mas_reaction_gift_starter_bday_a990092a:
 translate Japanese mas_reaction_gift_starter_bday_b45ccd1d:
     m "でも、実際ににもらってみるとまるで夢みたい……"
 
+translate Japanese mas_reaction_gift_starter_bday_912dce69:
+    m "またプレゼントをくれるの？{w=0.5} 私に？"
+
 translate Japanese mas_reaction_gift_starter_bday_d89e3c6f:
     m 1eka "本当に夢が叶ったの、[player]"
 
@@ -117,6 +120,9 @@ translate Japanese mas_reaction_gift_generic_a76d6846:
 
 translate Japanese mas_reaction_gift_generic_134f9195:
     m 1hub "ありがと～"
+
+translate Japanese mas_reaction_gifts_generic_2d07d4c5:
+    m 1esd "ごめんなさい、[player]……"
 
 translate Japanese _call_mas_reaction_gift_generic_clothes_json_62ff1b67:
     m "も〜、[player]君ったら！"
@@ -246,6 +252,16 @@ translate Japanese _call_mas_transition_to_emptydesk_26b7cf02:
 
 translate Japanese _call_mas_transition_from_emptydesk_e44bf370:
     m 1eua "コーヒーを入れるのに数分かかるわね"
+
+translate Japanese mas_reaction_hotchocolate_11c9281d:
+    m 1euc "[player]、またホットチョコレートをくれるの？"
+
+translate Japanese mas_reaction_hotchocolate_d88dfaf4:
+    m 3rksdla "誤解しないでね、贈ってくれるのはありがたいんだけど、しばらくは贈ってくれなくて大丈夫かな……
+"
+
+translate Japanese mas_reaction_hotchocolate_4e49b99a:
+    m 1eka "足りなくなったら言うから、そのときはお願いね？"
 
 translate Japanese mas_reaction_hotchocolate_e915dde0:
     m 3hub "ホットチョコレート！"
@@ -1230,7 +1246,7 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_sweater_shoulderless_fa1
     m 3eua "早速着てみるね"
 
 translate Japanese _call_mas_clothes_change_6_fc39eaf4:
-    m 2dkbsu "あぁ…… {w=1}ふかふか。 とっても気持ちいいわ。えへへ～"
+    m 2dkbsu "あぁ…… {w=1}ふかふか。とっても気持ちいいわ。えへへ～"
 
 translate Japanese _call_mas_clothes_change_6_54255a56:
     m 1ekbsa "ありがとう、[player]！ 気に入っちゃった！"

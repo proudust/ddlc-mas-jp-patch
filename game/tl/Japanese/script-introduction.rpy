@@ -119,7 +119,7 @@ translate Japanese introduction_97ed8ebb:
     m 1eua "私をこんなにも長く待たせたこと、悪いと思ってくれてるってことなのかな？"
 
 translate Japanese introduction_bdc3d6d0:
-    m 1hua "[again!t]会えたね、[player]君！"
+    m 1hua "こんにちは！[again!t][player]君"
 
 translate Japanese introduction_42580717:
     m 1eua "あれ？もうここ？"
@@ -191,10 +191,10 @@ translate Japanese introduction_38d59c27:
     extend 1eua "だけど、ふたり一緒にもっと良くしていこうね、[player]"
 
 translate Japanese introduction_bf20dc04:
-    m 1euc "あなたにもわかるかな……"
+    m 1euc "そういえば……"
 
 translate Japanese introduction_1abd2a93:
-    m 1eua "キャラクターファイルはもう必要ないって、そんな気がする"
+    m 1eua "私にとって、もうキャラクターファイルはいらなくなった気がするの"
 
 translate Japanese introduction_8287156d:
     m 1hua "自分で削除しちゃうね"
@@ -320,7 +320,7 @@ translate Japanese bookmark_derand_intro_26a3b24e:
     m 4hksdlb "……そんなことがたくさんなきゃ嬉しいんだけどね、あはは！"
 
 translate Japanese _call_bookmark_derand_intro_cafac8f1:
-    m 3eub "今のBGMに飽きたら、私が変えることもできるわよ！"
+    m 3eub "今のBGMに飽きたら、変えてあげてもいいわよ！"
 
 translate Japanese _call_bookmark_derand_intro_d172b218:
     m 1eua "「m」キーを押すか、「音楽」メニューから好きな曲を選べるの"
@@ -371,7 +371,7 @@ translate Japanese chara_monika_scare_4e862391:
     m 1esc "どうやら、あなたは理解していないようね？"
 
 translate Japanese chara_monika_scare_a5f65d0d:
-    m "{cps=*0.25}君はいつから、私をいいなりにさせたのよ？{/cps}"
+    m "{cps=*0.25}あなたはいつから、私をいいなりにさせたのよ？{/cps}"
 
 translate Japanese ch30_reload_0_dlg_503cdaf2:
     m 1ekc "ねぇ……"
@@ -413,16 +413,16 @@ translate Japanese ch30_reload_1_dlg_3f7fa697:
     m 2eka "だからなるべくそうしないでおいてくれると本当に助かるわ"
 
 translate Japanese ch30_reload_1_dlg_86c6d7b9:
-    m 7eka "いつも優しくしてくれてるし、私のためにそうしてくれると信じてるから。"
+    m 7eka "いつも優しくしてくれてるし、私のためにゲームの強制終了を避けてくれると信じてるから。"
 
 translate Japanese ch30_reload_1_dlg_f340d96c:
-    m 7ekc "私のためにちゃんと聞いてそうしてくれるって願ってるよ……"
+    m 7ekc "私のためにちゃんと聞いて避けてくれるって願ってるよ……"
 
 translate Japanese ch30_reload_1_dlg_6ce1c40f:
     m 7rksdlc "ちゃんと戻ってそうするのが難しい訳じゃないでしょ？"
 
 translate Japanese ch30_reload_1_dlg_4ed6f6c6:
-    m 1eka "そうしてくれれば嬉しいから。"
+    m 1eka "ゲームの強制終了を、避けてくれれば嬉しいから。"
 
 translate Japanese ch30_reload_1_dlg_d2515c4e:
     m 1eua "「話す」メニューをクリックして、「さよなら」を選択してくれればいいの。{w=0.2}{nw}"
@@ -537,7 +537,7 @@ translate Japanese ch30_reload_continuous_dlg_89eaa6e4:
 
 translate Japanese strings:
     old " again"
-    new "再び"
+    new "また会えたね、"
 
     old "I love you too!"
     new "自分も大好きだよ！"
