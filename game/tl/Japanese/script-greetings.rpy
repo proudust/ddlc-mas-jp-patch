@@ -1256,7 +1256,7 @@ translate Japanese greeting_youarereal_37af2e45:
     m 1dsd "よくわからない……"
 
 translate Japanese greeting_japan_7ab08b37:
-    m 1hub "あら、ｺﾝﾆﾁﾜ、[player]君！"
+    m 1hub "あら、コンニチワ、[player]君！"
 
 translate Japanese greeting_japan_45d9cd96:
     m "えへへ～"
@@ -1277,7 +1277,7 @@ translate Japanese greeting_japan_4cee06b7:
     m 2hksdlb "意味がわからなかったらごめんね！"
 
 translate Japanese greeting_japan_310d5370:
-    m 3eua "[mas_get_player_nickname()]君、どういう意味かわかる？"
+    m 3eua "ていうか、[mas_get_player_nickname()]はたぶん日本人だし、どういう意味かはもちろんわかるわよね？"
 
 translate Japanese greeting_japan_6bd70721:
     m 4ekbsa "{i}'私は永遠にあなたのもの'{/i}って意味よ"
