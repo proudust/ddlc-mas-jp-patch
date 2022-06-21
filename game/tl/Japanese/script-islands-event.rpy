@@ -44,10 +44,10 @@ translate Japanese _call_mas_islands_1_e93005d0:
     m 2ekc "まあ……"
 
 translate Japanese _call_mas_islands_1_905a45e1:
-    m 6rktpc "私ったら……"
+    m 6rktpc "私……"
 
 translate Japanese _call_mas_islands_1_485102b3:
-    m 6fktpd "私はこのために、一生懸命頑張ったのね……"
+    m 6fktpd "私はこのために、一生懸命頑張ったのに……"
 
 translate Japanese _call_mas_islands_1_9711d1c9:
     m 2rktdc "あなた…… {w=0.5}すごい忙しそうね……"

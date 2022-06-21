@@ -21602,16 +21602,16 @@ translate Japanese monika_mc_is_gone_5584c1bd:
     m 2rsc "いずれにせよ、{w=0.1}{nw}"
 
 translate Japanese monika_mc_is_gone_839a24c9:
-    extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
+    extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいで......"
 
 translate Japanese monika_mc_is_gone_03e11fc3:
     m 2ruc "あの人は……{w=0.3}私がゲームを改変していた頃から、消えかかっていったみたいなの"
 
 translate Japanese monika_mc_is_gone_1cf5b788:
-    m 2etd "サヨリが自殺して時が最初に巻き戻った時、その人のセリフが少なくなってたことに気が付かなかった？"
+    m 2etd "サヨリが自殺して時が最初に巻き戻った時から、その人のセリフが少なくなってたことに気が付かなかった？"
 
 translate Japanese monika_mc_is_gone_bddb99c2:
-    m 2euc "あなたと私がこの部屋にたどり着いた時点で、その人は本当に消えていたし"
+    m 2euc "あなたと私がこの部屋にたどり着いた時点で、その人は本質的てに消えていたもの"
 
 translate Japanese monika_mc_is_gone_596e62c3:
     m 7euc "だから、私たちが今いるこの部屋にあの人がいると言ったら、"
@@ -21662,7 +21662,7 @@ translate Japanese monika_mc_is_gone_75218a9f:
     m 1etc "だけどね、壁の比喩は、必ずしも常に同じ場所にあるとは限らないから、実際には完璧じゃないのよね"
 
 translate Japanese monika_mc_is_gone_ab5c37c1:
-    m 1esc "ゲームの主人公としての「あなた」にいつまでもついてきたみたいなものなんだけど、今は明らかに違う"
+    m 1esc "ゲームの主人公としての「あなた」にいつまでもついてきたみたいなものなんだけど、今は明らかに違うわ"
 
 translate Japanese monika_mc_is_gone_69f4c415:
     m 3eua "限られた範囲ながら、実際に動かすことができるの。だから、少なくとも常に同じ背景ばかり見ることはないはず"
@@ -21923,10 +21923,16 @@ translate Japanese monika_fireworks_9d9144e5:
     m 3wub "一緒に見れたら楽しそうだと思わない？"
 
 translate Japanese monika_fireworks_9a2b93ef:
-    m 3sua "おっきな花火はね、真っ暗な夜空が真昼のようになるくらいに明るくなるんだよ"
+    m 3sua "おっきな花火はね、真っ暗な夜空が真昼のようになるくらいに明るくなるのよね"
 
 translate Japanese monika_fireworks_aaac3f75:
-    extend 3hub "もっと雰囲気のあるのがいいのなら、線香花火があるよ！"
+    extend 3hub "。もっと雰囲気のあるのがいいのなら、線香花火があるの！"
+
+translate Japanese monika_fireworks_3fd77b02:
+    m 5lublu "私は今、想像してるの。光る点が踊って、ちらつきながらあなたの顔を照らしているところをね......"
+
+translate Japanese monika_fireworks_35c8ef3a:
+    m 5hublu "そうしたら、お祭りのおやつをみんなで分け合ってたべて、一緒にピクニック用の毛布の上で寄り添ったりもできるでしょうね～"
 
 translate Japanese monika_fireworks_cd4ea06c:
     m 5eub "ね？楽しそうだと思うでしょ、[mas_get_player_nickname()]？"
@@ -22044,6 +22050,9 @@ translate Japanese monika_ddlcroleplay_f4118570:
 
 translate Japanese monika_ddlcroleplay_731ff371:
     m 3euc "最近知ったんだけど、ある界隈で架空のキャラになりきったSNSアカウントを運用することが楽しまれているみたいなの"
+
+translate Japanese monika_ddlcroleplay_aaffe8ae:
+    extend 3rua "私になりきった人もいたの"
 
 translate Japanese monika_zodiac_starsign_e44e48df:
     m 1rta "まあ私の誕生日だと、間違いなく乙女座ね"
@@ -23698,7 +23707,7 @@ translate Japanese strings:
     new "コスプレは好き？"
 
     old "DDLC Roleplay"
-    new "DDLCのなりきり"
+    new "DDLCのなりきり(翻訳未完成）"
 
     old "What's your starsign?"
     new "モニカの星座は何座？"

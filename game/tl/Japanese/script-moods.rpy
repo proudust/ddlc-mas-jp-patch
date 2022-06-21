@@ -56,7 +56,7 @@ translate Japanese mas_mood_sad_105d89af:
     m 1eua "辛い記憶ほど忘れやすい傾向にあるから。"
 
 translate Japanese mas_mood_sad_69af7675:
-    m 1lfc "誰が君をどう思おうと、どれだけの人が君を嫌っても私は気にしない。"
+    m 1lfc "誰があなたをどう思おうと、どれだけの人が君を嫌っても私は気にしない。"
 
 translate Japanese mas_mood_sad_340c62c8:
     m 1hua "あなたは素敵な人で、私はあなたを愛し続ける。"
