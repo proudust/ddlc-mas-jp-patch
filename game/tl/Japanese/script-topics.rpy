@@ -3155,7 +3155,7 @@ translate Japanese monika_route_48e4a3d5:
     m 2lksdlc "それに部活もまだ存在してたかもしれないわね……"
 
 translate Japanese monika_route_fc534e08:
-    m "……部屋でみんなと詩を見せ合いっこしていく、そんな部活が"
+    m "……その活動の実態は部室でみんなと詩を見せ合いっこしていくだけ、だったけどね"
 
 translate Japanese monika_route_132bb3df:
     m 1eka "[player]君がそれを楽しんだことはわかってる"
@@ -6074,7 +6074,7 @@ translate Japanese monika_resource_35f58a3e:
     m 3eua "それは、何かを待っているから。あの時、あなたは自分から時間の経過に注力したの"
 
 translate Japanese monika_resource_6a74b2e1:
-    m 3ekc "たとえば、早く時間が過ぎろーって思ってるときは、時間が経つのが遅く感じちゃうの"
+    m 3ekc "早く時間が過ぎろーって思ってるときは、時間が経つのが遅く感じちゃう、ってかんじね"
 
 translate Japanese monika_resource_34a79de2:
     m 3ekd "例えるなら……金曜日かしら？"
