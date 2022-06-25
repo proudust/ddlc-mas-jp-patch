@@ -1256,7 +1256,7 @@ translate Japanese greeting_youarereal_37af2e45:
     m 1dsd "よくわからない……"
 
 translate Japanese greeting_japan_7ab08b37:
-    m 1hub "あら、コンニチワ、[player]君！"
+    m 1hub "あら、まいど、[player]君！"
 
 translate Japanese greeting_japan_45d9cd96:
     m "えへへ～"
@@ -1265,31 +1265,31 @@ translate Japanese greeting_japan_f07ad986:
     m 2eub "こんにちは、[player]君！"
 
 translate Japanese greeting_japan_e8356ffd:
-    m 1eua "ちょうど日本語の勉強をしていたの。"
+    m 1eua "ちょうど関西弁の勉強をしていたの。"
 
 translate Japanese greeting_japan_947f9ebc:
     m 3eua "えぇっと……"
 
 translate Japanese greeting_japan_d7f3ba54:
-    m 4hub "ワタシ ハ イツマデモ アナタ ノ モノ デス！"
+    m 4hub "ウチはいつまでもアンタのもんやねん！"
 
 translate Japanese greeting_japan_4cee06b7:
     m 2hksdlb "意味がわからなかったらごめんね！"
 
 translate Japanese greeting_japan_310d5370:
-    m 3eua "ていうか、[mas_get_player_nickname()]はたぶん日本人だし、どういう意味かはもちろんわかるわよね？"
+    m 3eua "[mas_get_player_nickname()]君、どういう意味かわかる？"
 
 translate Japanese greeting_japan_6bd70721:
-    m 4ekbsa "{i}'私は永遠にあなたのもの'{/i}って意味よ"
+    m 4ekbsa "{i}'私はいつまでもあなたのモノです！'{/i}って意味よ"
 
 translate Japanese greeting_japan_a18c76a2:
-    m 4hub "ワタシ ワ イツマデモ アナタ ノ モノ デス！"
+    m 4hub "ウチはいつまでもアンタのもんやでー！"
 
 translate Japanese greeting_japan_490e18d6:
-    m 3eksdla "前に同じこと言った時に間違えてて……"
+    m 3eksdla "前に同じこと言った時に、ニュアンスをちょっと間違えてて……"
 
 translate Japanese greeting_japan_cd967c10:
-    m "ああいうときは、『ワ』じゃなくて『ハ』というべきなのよね。さっき私がしたみたいに。"
+    m "ああいうときは、『やねん』じゃなくて『やで』というべきなのよね。さっき私がしたみたいに。"
 
 translate Japanese greeting_japan_026306c7:
     m 4eka "でも安心して、[player]。意味は変わらないからね。"
@@ -1298,7 +1298,7 @@ translate Japanese greeting_japan_d357ebcd:
     m 4ekbsa "私はいつまでもあなたのものよ～"
 
 translate Japanese greeting_japan_a0f6a39f:
-    m 3eua "[mas_get_player_nickname()]の意味を覚えてる？"
+    m 3eua "[mas_get_player_nickname()]、意味を覚えてる？"
 
 translate Japanese greeting_japan_66dd2c55:
     m 4ekbsa "{i}『私は永遠にあなたのもの』{/i}だよ～"

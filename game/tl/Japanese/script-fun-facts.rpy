@@ -404,7 +404,7 @@ translate Japanese mas_fun_fact_density_bb93d935:
     m 1tku "地球が一番密度が高くなってるのはとある主人公のせいだと思っているの。"
 
 translate Japanese mas_fun_fact_density_6f11581a:
-    m 1tfu "でーもー、私から言えるのはここまでよ～"
+    m 1tfu "でーもね、私から言えるのはここまでよ～"
 
 translate Japanese mas_fun_fact_binky_8afd4e3d:
     m 3hub "あ！この話はかわいくて良さそう！"
