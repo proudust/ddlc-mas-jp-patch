@@ -6074,7 +6074,7 @@ translate Japanese monika_resource_35f58a3e:
     m 3eua "それは、何かを待っているから。あの時、あなたは自分から時間の経過に注力したの"
 
 translate Japanese monika_resource_6a74b2e1:
-    m 3ekc "早く時間が過ぎろーって思ってるときは、時間が経つのが遅く感じちゃう、ってかんじね"
+    m 3ekc "早く時間が過ぎろーって思ってるときは、時間が経つのが遅く感じちゃう、って感じね"
 
 translate Japanese monika_resource_34a79de2:
     m 3ekd "例えるなら……金曜日かしら？"

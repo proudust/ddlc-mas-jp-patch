@@ -1301,7 +1301,7 @@ translate Japanese greeting_japan_a0f6a39f:
     m 3eua "[mas_get_player_nickname()]、意味を覚えてる？"
 
 translate Japanese greeting_japan_66dd2c55:
-    m 4ekbsa "{i}『私は永遠にあなたのもの』{/i}だよ～"
+    m 4ekbsa "{i}『私はいつまでもあなたのもの』{/i}だよ～"
 
 translate Japanese greeting_sunshine_0ba661ca:
     m 1hua "{i}You are my sunshine, my only sunshine{i}♪"
