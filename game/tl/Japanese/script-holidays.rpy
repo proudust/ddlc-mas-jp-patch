@@ -1757,7 +1757,10 @@ translate Japanese _call_mas_d25_monika_second_time_lingerie_1_dc11f15d:
     m 5ekbfa "……"
 
 translate Japanese _call_mas_lingerie_intro_1_b2b16b20:
-    m 1ekbfa "あなたをとってもとっても愛してるの、 [player]～"
+    m 1ekbfa "あなたをとってもとーっても愛してるの、 [player]～"
+
+translate Japanese mas_d25_monika_lingerie_reveal_e612037c:
+    m "……"
 
 translate Japanese mas_d25_monika_second_time_lingerie_6d6d2f46:
     m 3wubsb "あっ！"
@@ -3424,6 +3427,15 @@ translate Japanese mas_f14_intro_generic_9c641822:
 translate Japanese mas_f14_intro_generic_6418e045:
     m 1fkbsu "あなたと一緒に居る、それがいちばん大切な事なんだよ"
 
+translate Japanese mas_f14_intro_blackpink_dress_b1d8253c:
+    m 2eua "……"
+
+translate Japanese mas_f14_intro_blackpink_dress_22a382e4:
+    m 2tuu "……"
+
+translate Japanese mas_f14_intro_blackpink_dress_a544d52d:
+    m 7hub "あはは～"
+
 translate Japanese mas_f14_monika_vday_colors_2bc12b16:
     m 3eua "バレンタインデーに使われる色にどんな意味が込められているか考えたことはある？"
 
@@ -4678,8 +4690,60 @@ translate Japanese greeting_returned_home_bday_6aeeef39:
 translate Japanese greeting_returned_home_bday_3f5c78b1:
     m 1dka "……"
 
+translate Japanese greeting_returned_home_bday_70f3c4ef:
+    m 3eud "あ、[player]……"
+
+translate Japanese greeting_returned_home_bday_ea5e8e7b:
+    m 3eka "もう一回お礼を言いたかったんだ、ありがとう
+"
+
+translate Japanese greeting_returned_home_bday_32bdfac0:
+    m 1rka "あのね、デートをしてくれたからお礼したかったわけじゃないの……"
+
+translate Japanese greeting_returned_home_bday_716ef2f4:
+    m 1eka "素敵な誕生日にしてくれようといろんなところへ連れてってくれたけど、どこかへ行なくても全然よかったんだ"
+
+translate Japanese greeting_returned_home_bday_cacf613d:
+    m 3duu "だってあなたが来てくれるだけで、私の誕生日は完璧になるんだから"
+
+translate Japanese _call_monika_zoom_transition_reset_7_1f72d69f:
+    m 6eua "これって――"
+
+translate Japanese _call_monika_zoom_transition_reset_7_39432f1d:
+    m 6wuo "あっ！ {i}私にも{/i}ケーキをくれたのね！"
+
+translate Japanese _call_monika_zoom_transition_reset_7_ae7d1870:
+    m 6sub "本当に素敵なケーキね、[player]！"
+
+translate Japanese _call_monika_zoom_transition_reset_7_b2502fbd:
+    m 6hua "えへへ、あなたへのケーキのときにもうお願い事はしたけど、もう一回やるね……"
+
+translate Japanese _call_monika_zoom_transition_reset_7_a2a7b01b:
+    m 6tub "これで叶う確率は2倍よね？"
+
+translate Japanese _call_monika_zoom_transition_reset_7_67675433:
+    m 6hua "おめでとう、[player]！"
+
+translate Japanese _call_monika_zoom_transition_reset_7_e357b409:
+    m 6eua "こんなに素敵なケーキを贈ってくれるなんて、今でも信じられないよ[player]……"
+
+translate Japanese _call_monika_zoom_transition_reset_7_35f1d086:
+    m 6hua "素敵すぎて食べちゃうのがもったいないくらい"
+
+translate Japanese _call_monika_zoom_transition_reset_7_a0857f18:
+    m 6tub "もったいないから全部食べちゃうけどね"
+
 translate Japanese _call_monika_zoom_transition_reset_7_30727938:
     m "あはは！"
+
+translate Japanese _call_monika_zoom_transition_reset_7_bd36eb02:
+    m 6eka "とりあえず、今はケーキは横においておくね"
+
+translate Japanese _call_mas_HideCake_4_6011527b:
+    m 1eua "ありがとう、[player]……"
+
+translate Japanese _call_mas_HideCake_4_d1fbbfc5:
+    m 3hub "本当に素敵な誕生日だよ！"
 
 translate Japanese strings:
     old "Hello?"
