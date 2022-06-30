@@ -2252,7 +2252,7 @@ translate Japanese monika_rain_e7af13e9:
     m 2lkbsa "それってベタすぎたりしないわよね？"
 
 translate Japanese monika_rain_7da5894a:
-    m 1ekbfa "そうしてくれるよね？ [p_nickname]君{nw}"
+    m 1ekbfa "そうしてくれるよね？ [p_nickname]君{nw} "
 
 translate Japanese monika_rain_bd47ae27:
     m "そうしてくれるよね？ [p_nickname]君{fast}" nointeract
