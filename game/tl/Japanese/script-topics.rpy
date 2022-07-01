@@ -3155,13 +3155,13 @@ translate Japanese monika_route_48e4a3d5:
     m 2lksdlc "それに部活もまだ存在してたかもしれないわね……"
 
 translate Japanese monika_route_fc534e08:
-    m "……その活動の実態は部室でみんなと詩を見せ合いっこしていくだけ、だったけどね"
+    m "……部室でみんなと詩を見せ合いっこしていくだけが活動内容の、そんな部活が"
 
 translate Japanese monika_route_132bb3df:
-    m 1eka "[player]君がそれを楽しんだことはわかってる"
+    m 1eka "[player]君なら、楽しめたでしょうね"
 
 translate Japanese monika_route_08ded2f3:
-    m 3eka "正直にいうと……{w=0.5}私も少しだけ楽しかったわ"
+    m 3eka "正直にいうと……{w=0.5}私も心の一部から、楽しいと思ってたの"
 
 translate Japanese monika_route_2319d6fb:
     m 2eka "それも大して関係のないことだけども"
@@ -23384,12 +23384,6 @@ translate Japanese strings:
 
     old "I'm kidding."
     new "冗談よ"
-
-    old "Yes, I'm sure!"
-    new "うん、合ってるよ！"
-
-    old "Actually..."
-    new "やっぱり……"
 
     old "Love at first sight"
     new "一目惚れ"

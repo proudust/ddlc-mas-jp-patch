@@ -1592,6 +1592,12 @@ translate Japanese strings:
     old "No thanks"
     new "結構"
 
+    old "Yes, I'm sure!"
+    new "うん、合ってるよ！"
+
+    old "Actually..."
+    new "やっぱり……"
+
     old "No thanks."
     new "要らない"
 
