@@ -76,14 +76,53 @@ translate Japanese mas_piano_hb_win_e54f56a8:
 translate Japanese mas_piano_hb_win_281aa92c:
     m 3hub "アハハ！ちょっと安っぽかったかな、[player]君！"
 
+translate Japanese mas_piano_hb_win_c15312ab:
+    m 1hua "ちょっとだとしても伴奏用の音楽があるにこしたことはないよね！"
+
 translate Japanese mas_piano_hb_win_d70f3474:
     m 2eub "よく頑張ったね、[player]君"
+
+translate Japanese mas_piano_hb_win_a4cce50d:
+    m 3eub "これからも練習を続けてね。そうすれば次はきっと完璧に演奏できると思うよ！"
+
+translate Japanese mas_piano_hb_fail_f2e08031:
+    m 1dsd "あのね、もしこれを私の誕生日に演奏したいのなら……"
+
+translate Japanese mas_piano_hb_fail_acce927d:
+    m 3tsd "すぐにもっと練習を始めないとね"
+
+translate Japanese mas_piano_hb_fail_c5b66d76:
+    m 1eka "あー。 いいわ、[player]……"
+
+translate Japanese mas_piano_hb_fail_d06df547:
+    m 3hub "私たちの誕生日に演奏するってアイデアはとっても良いと思うよ！"
+
+translate Japanese mas_piano_hb_fail_1c553166:
+    m 1hua "あとは練習を続ければ、完璧な誕生日になるはずだよ！"
+
+translate Japanese mas_piano_hb_fail_8470dd56:
+    m 1lksdla "そのアイデアには感謝するわ、[player]"
+
+translate Japanese mas_piano_hb_fail_08312ef9:
+    m 3eka "誕生日のまでに上手くなれなくても、次の年にはきっともっと上手にできるはずだから"
+
+translate Japanese mas_piano_hb_fail_4b4ca925:
+    m 1eka "大丈夫、[player]！"
+
+translate Japanese mas_piano_hb_fail_87242bca:
+    m 3hub "あなたの誕生日に私の歌にあわせて伴奏してくれるってアイデアはとっても良いと思うよ！"
+
+translate Japanese mas_piano_hb_fail_1c553166_1:
+    m 1hua "あとは練習を続ければ、完璧な誕生日になるはずだよ！"
 
 translate Japanese mas_piano_hb_fail_bc96da2a:
     m 1lksdla "……"
 
 translate Japanese mas_piano_hb_fail_75473d85:
     m 1lksdlb "ベストを尽くせたわね、[player]君……"
+
+translate Japanese mas_piano_hb_fail_6c2f3260:
+    m "簡単な曲だとしても、習得するのには時間がかかるからね"
 
 translate Japanese mas_piano_yr_win_522db508:
     m 1lksdla "[player]君、良かったよ～"

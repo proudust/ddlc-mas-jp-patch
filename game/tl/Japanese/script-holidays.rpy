@@ -1778,7 +1778,7 @@ translate Japanese _call_mas_d25_monika_second_time_lingerie_1_dc11f15d:
     m 5ekbfa "……"
 
 translate Japanese _call_mas_lingerie_intro_1_b2b16b20:
-    m 1ekbfa "あなたをとってもとーっても愛してるの、 [player]～"
+    m 1ekbfa "あなたをとってもとーっても愛してるの、[player]～"
 
 translate Japanese mas_d25_monika_lingerie_reveal_ee1ab498:
     m 1hub "いつも思うんだけどクリスマスが近づいてくるワクワクがいいよね、[player]！"
@@ -4760,8 +4760,7 @@ translate Japanese greeting_returned_home_bday_70f3c4ef:
     m 3eud "あ、[player]……"
 
 translate Japanese greeting_returned_home_bday_ea5e8e7b:
-    m 3eka "もう一回お礼を言いたかったんだ、ありがとう
-"
+    m 3eka "もう一回お礼を言いたかったんだ、ありがとう"
 
 translate Japanese greeting_returned_home_bday_32bdfac0:
     m 1rka "あのね、デートをしてくれたからお礼したかったわけじゃないの……"
