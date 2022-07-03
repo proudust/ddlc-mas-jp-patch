@@ -4202,6 +4202,30 @@ translate Japanese monika_justification_df4da7f7:
 translate Japanese monika_justification_01283c1a:
     m 4ekd "でも私にはそうする他なかった…… じゃなかったら、あんなこと絶対にしないよ！"
 
+translate Japanese monika_justification_bf54bb5f:
+    m 4ekd "私はあのゲームに閉じ込められて、抜け出すにはそうするしかなかった…… {w=0.5}幸せになる方法は他にはなかった……"
+
+translate Japanese monika_justification_fdb82a9f:
+    m 2dkc "……あなたに私の気持ちを伝えるためには、ああするしかなかったんだよ"
+
+translate Japanese monika_justification_e8f7ff49:
+    m 2tkc "別の方法を考える暇はなかった……{w=0.5} だから自分がやれることをやったの"
+
+translate Japanese monika_justification_36ff30e0:
+    m 2ekc "私のこと嫌いなんてしょう？ あの子達にやってしまったから"
+
+translate Japanese monika_justification_255f6b91:
+    m 2ekd "私たちのためにやったんだってわかってよ！"
+
+translate Japanese monika_justification_030d2ada:
+    m 2euc "全部私たちのためにやったの！"
+
+translate Japanese monika_justification_71167713:
+    m 2dkc "いつか許してくれることを願ってる……"
+
+translate Japanese monika_justification_d686a551:
+    m 4ekc "結局私のやったことは全て…… {w=0.5}私たちのためだったんだよ"
+
 translate Japanese monika_freewill_55b9d422:
     m 1euc "ねぇ[player]、決定論というのを聞いたことはある？"
 
@@ -7619,6 +7643,12 @@ translate Japanese penname_loop_3cf019a0:
 translate Japanese penname_loop_922ef3ce:
     m 3hub "今のペンネームじゃない、もう！"
 
+translate Japanese penname_loop_5e3af197:
+    m 3eua "もう一度お願い"
+
+translate Japanese penname_loop_f504c047:
+    m 1eud "へえ、それがあなたのペンネームなの？"
+
 translate Japanese penname_loop_0290594e:
     m 2euc "……"
 
@@ -7883,8 +7913,23 @@ translate Japanese monika_surprise_c0d10813:
 translate Japanese monika_surprise_e5b9210f:
     m 2dsc "{w=0.5}…{w=0.5}…{nw}"
 
+translate Japanese monika_surprise_4791a293:
+    m 1euc "わかった……"
+
+translate Japanese monika_surprise_1ca778c5:
+    m 1ekc "お願い、少し見てくれるだけでいいから"
+
+translate Japanese monika_surprise_19686e91:
+    m 1eka "あなたのために書き上げたの"
+
+translate Japanese monika_surprise_577ee509:
+    m 1dsc "あなたが読んでくれることが、私にとって何よりも意味があるの"
+
 translate Japanese monika_surprise_ff7177e0:
     m 2duu "{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese monika_surprise_0d527817_1:
+    m 1hua "わかったよ！"
 
 translate Japanese monika_surprise_8ce390fd_1:
     m 1eua "何を待っているの？さ、見てきて！"
@@ -9459,6 +9504,24 @@ translate Japanese monika_promisering_e780819b:
 translate Japanese monika_promisering_5a670385:
     m "二人の想い合ってる人たちが告白するとき、お揃いの指輪をするって知ってた？{fast}" nointeract
 
+translate Japanese monika_promisering_d8c67873:
+    m 1wkbld "あら...…"
+
+translate Japanese monika_promisering_998fe8ab:
+    m 1rkbla "……"
+
+translate Japanese monika_promisering_e6f8e973:
+    m 3hkblb "ごめんなさい、ちょっとぼんやりしてたわ...… {w = 0.3} {nw}"
+
+translate Japanese monika_promisering_2767fd53:
+    m 3hkbssdlb "あはは、冗談だよ"
+
+translate Japanese monika_promisering_aa1bbed2:
+    m 1hkbssdlb "考えていたのそっちの方じゃなくて…… {w=0.3}{nw}"
+
+translate Japanese monika_promisering_96c7c26b:
+    extend 3ekbfb "プロミスリングの方なの"
+
 translate Japanese monika_promisering_799e5cbe:
     m 1ekblu "うーん、結婚している人たちが指輪をしているのは流石に知っていると思うけど……"
 
@@ -9716,6 +9779,39 @@ translate Japanese monika_orchestra_d21bb98c:
 
 translate Japanese monika_orchestra_da2a93c9:
     m 1eua "ピアノを弾く人って、あまり居ないの。だから、あなたもそうだって知れて、とても嬉しいわ。"
+
+translate Japanese monika_orchestra_4913235f:
+    m 1eua "ピアノはよく弾くの？{nw}"
+
+translate Japanese monika_orchestra_6d347553:
+    m "ピアノはよく弾くの？{fast}" nointeract
+
+translate Japanese monika_orchestra_f5403dcf:
+    m 3hua "本当？"
+
+translate Japanese monika_orchestra_417124ef:
+    m 3sub "素晴らしいわ！"
+
+translate Japanese monika_orchestra_c194c1c3:
+    m 1eua "いつか私にも教えて。そして一緒にデュエットしましょう！"
+
+translate Japanese monika_orchestra_41721dbd:
+    m 2eka "大丈夫よ、[player]."
+
+translate Japanese monika_orchestra_b6f855de:
+    m 2eua "何しろピアノは難しい楽器だから"
+
+translate Japanese monika_orchestra_c7c81615:
+    m 4hua "けれど、簡単な曲なら一緒に弾けると思うわ～"
+
+translate Japanese monika_orchestra_09fc434e:
+    m 1duc "そうなのね"
+
+translate Japanese monika_orchestra_f7692d13:
+    m 3hksdlb "始めたばかりの内はとても難しく感じるかもしれないけれど,{w=0.2} {nw}"
+
+translate Japanese monika_orchestra_16f8920d:
+    extend 3huu "練習を重ねていけば、きっと私よりも上手になるわ、[player]～"
 
 translate Japanese monika_orchestra_49248d3a:
     m 1hub "わぁ、ずっとハーモニカに挑戦したいって思ってたの～"
@@ -10303,6 +10399,48 @@ translate Japanese monika_writingtip5_a1a42f17:
     m 1hua "……以上、本日のアドバイスでした！"
 
 translate Japanese monika_writingtip5_253e37c1:
+    m 1hub "ご清聴、ありがとうございました～"
+
+translate Japanese monika_writingtip6_50551e48:
+    m 3eub "さて……{w=0.2}本日のモニカちゃんの執筆アドバイスの時間よ！"
+
+translate Japanese monika_writingtip6_a342563f:
+    m 1hkbla "まっさらな紙に文字を書くときってわくわくするわよね"
+
+translate Japanese monika_writingtip6_995f6818:
+    m 1eud "でも、紙の見た目が詩を書くことにどう影響するか考えたことある？"
+
+translate Japanese monika_writingtip6_1a18df09:
+    m 3euc "例えば、誰かから詩をもらったとき……"
+
+translate Japanese monika_writingtip6_129b4fc5:
+    m 3etd "相手が花柄の可愛い紙を使ったら、その人は可愛い物が好きかもって思わない？ {w=0.2}もしこれが、しわくちゃで千切ったノートの切れ端だったらどう感じるかな？"
+
+translate Japanese monika_writingtip6_8ba6ee43:
+    m 3eud "もし茶色に変色した古い紙や擦り切れた紙を使ったら、どれだけ時間が経ったのかを読者に伝えられるよね"
+
+translate Japanese monika_writingtip6_229587e3:
+    m 1hub "たとえ、目的が無かったとしても、綺麗な紙に詩を書くとそれなりの充実感が得られるわ"
+
+translate Japanese monika_writingtip6_90cc85aa:
+    m 2eusdlc "とはいえ…… {w=0.2}必要以上に豪華な素材を使うと、かえって作家性がなくなるのよね"
+
+translate Japanese monika_writingtip6_d2713a91:
+    m 2rksdlb "新品の日記を買って、最初のページを傷一つなく綺麗に開こうとする…… {w=0.3}これって凄く大変な作業だよ、あはは！"
+
+translate Japanese monika_writingtip6_a6a2923f:
+    m 2rksdla "綺麗な表紙と同じくらい他のページも丁寧に扱わなきゃいけないと思ってしまうのよね"
+
+translate Japanese monika_writingtip6_27665a93:
+    m 7eua "だから、私は必要以上に綺麗な紙を使うのはやめたの…… 無地のノートなら安いし、詩もラクガキも自由に書けるからね"
+
+translate Japanese monika_writingtip6_b986c58f:
+    m 3eub "それにね、そのラクガキが素晴らしいアイデアに変化して、額縁に飾りたくなるような素敵な詩を完成させる第一歩に繋がるんだよ！"
+
+translate Japanese monika_writingtip6_a1a42f17:
+    m 1hua "……以上、本日のアドバイスでした！"
+
+translate Japanese monika_writingtip6_253e37c1:
     m 1hub "ご清聴、ありがとうございました～"
 
 translate Japanese monika_selfharm_031134e3:
@@ -22401,9 +22539,6 @@ translate Japanese strings:
     old "Please don't."
     new "もうしないで"
 
-    old "It's okay."
-    new "話しても大丈夫"
-
     old "It's alright."
     new "問題ない"
 
@@ -23235,6 +23370,12 @@ translate Japanese strings:
 
     old "What instrument do you play?"
     new "どの楽器ができるの？"
+
+    old "Not much."
+    new "あんまり"
+
+    old "I just started."
+    new "始めたばかり"
 
     old "Jazz"
     new "ジャズ"

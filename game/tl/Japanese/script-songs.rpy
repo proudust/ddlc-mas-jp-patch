@@ -4,6 +4,21 @@ translate Japanese monika_sing_song_pool_menu_7ad23832:
 translate Japanese monika_sing_song_analysis_7ad23832:
     m 3hub "分かったわ！"
 
+translate Japanese mas_song_derandom_37451494:
+    m 1eka "私があの歌を歌うのにうんざりしてない、[player]？{nw}"
+
+translate Japanese mas_song_derandom_fc850da7:
+    m "私があの歌を歌うのにうんざりしてない、[player]？{fast}" nointeract
+
+translate Japanese mas_song_derandom_88699fc2:
+    m 1eka "わかったわ"
+
+translate Japanese mas_song_derandom_4bfcc0d4:
+    m 1eua "あなたが聞きたいときにだけ歌うわ。聞きたくなったら教えてね"
+
+translate Japanese mas_song_derandom_bd219ce5:
+    m 1eua "わかったわ、[player]"
+
 translate Japanese mas_song_aiwfc_98827522:
     m 3eua "ゲーム内の音量を上げるのを忘れないでね、 [mas_get_player_nickname()]"
 
@@ -339,6 +354,57 @@ translate Japanese mas_song_memories_of_a_girl_3e0419bf:
 
 translate Japanese mas_song_memories_of_a_girl_127f4059:
     m 5ekbfa "あなたも、私のことを考えてくれるって知ってるよ"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_16d4c1a6:
+    m 1hksdla "えへへ、この曲を聞くと自分の半生を思い出しちゃうな…… {w=0.2}全てがゲームだと気づく前の私のね"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_b92080dd:
+    m 3lksdlc "あの頃の私は、トップの座にとどまるために身を粉にしていたから…… {w=0.2}じっくりと考えている暇なんてなかったの"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_68897845:
+    m 3eud "簡単だったと思う？ 優等生でありつづけることが、{w=0.2}誰もが{i}完璧{/i}だと思える人物でありつづけることが"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_6a8c3070:
+    m 1ekbsu "でも、あなたに出会えて、私の世界は何もかもが変わったの……"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1d52e830:
+    m 3dubsu "真実を私に見せてくれてありがとう、[player]"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_64fbb77c:
+    m 1eka "犠牲にしなければならなかったことを考えれば、確かに簡単じゃなかった。でも最終的にはすべてきっとうまくいく"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_4c11c3e2:
+    m 1hua "あなたと一緒にいると、私の希望や夢がすべて叶うんだって思わずにはいられないの"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_c57bb898:
+    m 1rtc "この曲についてはもう少し話したいことがあるんだ……"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_39f0e7fc:
+    m 7eua "いま私の話を聞く時間はある？{nw}"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_286721d3:
+    m "いま私の話を聞く時間はある？{fast}" nointeract
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_665411de:
+    m 1hub "わかったわ！"
+
+translate Japanese _call_mas_song_my_silver_lining_analysis_b61bdd07:
+    m 1eka "わかったよ、[player]……"
+
+translate Japanese _call_mas_song_my_silver_lining_analysis_04ccbd8d:
+    m 3eka "この話はまたの機会にまで取っておくわね。{w=0.2}聞きたくなったら、そのときは私に教えてね？"
+
+translate Japanese mas_song_my_silver_lining_analysis_23ce9b47:
+    m 3eub "あのパートから歌ったほうがいいかな、じゃあ……"
+
+translate Japanese mas_song_my_silver_lining_analysis_9ca8cd37:
+    m 3eub "まず最初に歌わせてね――"
+
+translate Japanese mas_song_amaranthine_c350334d:
+    m 5ekbsu "あなたと一緒になれて、私の人生は完成したと思うんだ、[player]"
+
+translate Japanese mas_song_amaranthine_3701ffb8:
+    m 5hubfu "愛してるよ～"
 
 translate Japanese _call_mas_song_shelter_lyrics_a3fe70f9:
     m 2rsbsa "えへへ～"
@@ -755,8 +821,30 @@ translate Japanese _call_mas_song_save_the_last_dance_for_me_lyrics_e90d387a:
 translate Japanese mas_song_fly_me_to_the_moon_bb8b8e76:
     m 3hubsb "これからもずっと大好きだよ！"
 
+translate Japanese mas_song_heaven_22e4c08e:
+    m 1ekbfa "あなたと一緒にいれることを夢に見ない日は、一日たりとないよ、[player]"
+
+translate Japanese mas_song_heaven_f4654263:
+    m 1rubsu "そしてそう思ってるのは私だけじゃないってこと、伝わってるよ～"
+
+translate Japanese mas_song_can_you_feel_the_sunshine_bc890364:
+    m 1ekbla "あなたが訪れてくれるたびに、私の一日はとても明るいものなる…… {w=0.3}私もあなたに同じことができてたらいいな、 [player]〜"
+
 translate Japanese mas_song_on_the_front_porch_fd34c860:
     m 5dkbstda "……"
+
+translate Japanese mas_song_on_the_front_porch_55343719:
+    m 5hkblb "ごめんねちょっと感傷的になっちゃったかな、あはは！"
+
+translate Japanese mas_song_on_the_front_porch_80b357fe:
+    m 5rka "でも、それで本当に責められるの?"
+
+translate Japanese mas_song_on_the_front_porch_cfd8d187:
+    m 5eka "結局のところ、一緒にそういうことができるってことは…… {w=0.3}{nw}"
+
+translate Japanese mas_song_on_the_front_porch_1cfdf852:
+    extend 5dkbsu "ただただ素晴らしいことなんじゃないかな〜
+"
 
 translate Japanese strings:
     old "Can you sing me a song?"
@@ -764,6 +852,15 @@ translate Japanese strings:
 
     old "[which] song would you like me to sing?[end]"
     new "どれが聞きたい？[end]"
+
+    old "Can you sing a song on your own again?"
+    new "モニカの歌をまた歌ってほしい"
+
+    old "A little."
+    new "ちょっとは"
+
+    old "It's okay."
+    new "全然大丈夫"
 
     old "All I Want for Christmas"
     new "クリスマスにただほしいものは"
