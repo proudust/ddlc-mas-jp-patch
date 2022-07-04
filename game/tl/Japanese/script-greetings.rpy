@@ -1265,7 +1265,7 @@ translate Japanese greeting_japan_f07ad986:
     m 2eub "こんにちは、[player]君！"
 
 translate Japanese greeting_japan_e8356ffd:
-    m 1eua "ちょうど関西弁の勉強をしていたの。"
+    m 1eua "ちょうど関西弁の勉強をしていたの"
 
 translate Japanese greeting_japan_947f9ebc:
     m 3eua "えぇっと……"
@@ -1289,10 +1289,10 @@ translate Japanese greeting_japan_490e18d6:
     m 3eksdla "前に同じこと言った時に、ニュアンスをちょっと間違えてて……"
 
 translate Japanese greeting_japan_cd967c10:
-    m "ああいうときは、『やねん』じゃなくて『やで』というべきなのよね。さっき私がしたみたいに。"
+    m "ああいうときは、『やねん』じゃなくて『やで』というべきなのよね。さっき私がしたみたいに"
 
 translate Japanese greeting_japan_026306c7:
-    m 4eka "でも安心して、[player]。意味は変わらないからね。"
+    m 4eka "でも安心して、[player]。意味は変わらないからね"
 
 translate Japanese greeting_japan_d357ebcd:
     m 4ekbsa "私はいつまでもあなたのものよ～"

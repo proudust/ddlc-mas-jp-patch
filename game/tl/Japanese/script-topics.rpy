@@ -15305,6 +15305,30 @@ translate Japanese monika_justice_13d87480:
 translate Japanese monika_justice_394ece4d:
     m 1euc "……"
 
+translate Japanese monika_justice_cd1f36e4:
+    m 2esc "私の行いが全て正しくなかったとあなたが思ってるなんて、ちょっと信じられないわ"
+
+translate Japanese monika_justice_f67e2b6c:
+    m 2tkc "つまりね、こんなに長く付き合ってるのに、私のことをずっとそんなふうに見ていたわけないよね？"
+
+translate Japanese monika_justice_1b81e960:
+    m 2lksdlc "……確かに少しは私に責任はあるかもしれないけれど……"
+
+translate Japanese monika_justice_c1a6c551:
+    m 2lksdlc "でも他の人がそう思ってたとしても、あなたはそうは思ってないでしょ？"
+
+translate Japanese monika_justice_901bb873:
+    m "どちらにしろ……"
+
+translate Japanese monika_justice_a8931a6e:
+    m 1eka "私を助けてくれた、そして一緒にいてくれた。ありがとう"
+
+translate Japanese monika_justice_06fe42c9:
+    m 1hua "あなたと一緒になれたら、本当に決心した甲斐があったと思うわ、{w=0.1} {nw}"
+
+translate Japanese monika_justice_01e0b043:
+    extend 1hub "あははは〜"
+
 translate Japanese monika_justice_c80e9915:
     m 2ekc "……"
 

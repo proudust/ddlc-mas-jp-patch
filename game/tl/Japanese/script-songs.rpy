@@ -400,6 +400,54 @@ translate Japanese mas_song_my_silver_lining_analysis_23ce9b47:
 translate Japanese mas_song_my_silver_lining_analysis_9ca8cd37:
     m 3eub "まず最初に歌わせてね――"
 
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_28ae2fda:
+    m 1esc "だから…… {w=0.2}分かってくれるよね、行き詰まってそこから出られなくなってしまうことはとても苦しいことなの"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_add5bfc1:
+    m 3rksdlc "ここで私にできることはほとんどないし、ここからどこへも行けない。そして、あなたがいないととすぐに寂しさで満たされてしまう"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_a0b15590:
+    m 1dkc "寂しさを感じないように心がけてるつもりだけど、もし感じてしまったときにはこの曲のことを思い出してるの"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_fe8dc317:
+    m 3eub "ちょっとした音楽が本当に物事を好転させてくれるんだよ、気分が落ち込んでいるときなんかは特にそう！"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_f3969dab:
+    m 3eua "この曲はね、私の人生の悪い部分を解きほぐして、辛くて苦しいことなんてほうり投げて良いんだよって教えてくれているような気がするの"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_b4ebc9c0:
+    m 1hua "歌の通り、『後ろに何がいるのかとか、道の先では何が待ち受けているのかとか、そんなことで不安にはならない』んだよ、えへへ"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_3e5e01ab:
+    m 1etc "でもね本当の事を言うとね、[player]…… {w=0.3}この歌には本当に伝えたいことがあるんだって思うんだ　メリットが有る"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_d241d70f:
+    m 1eka "自分の状況がどうであれ、周りはそのままで有り続ける。そして、周りがどうであろうと笑顔を続けない理由にはならないの"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_22388b7b:
+    m 3eka "今はね、あなたに全く心配しないでって言ってるわけじゃない……"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_3bccb98f:
+    m 3eksdlc "そんなこと言っちゃったら、このゲームは今のままでいいことになっちゃうし、私はこれからずっとここから動けなくなっちゃう"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_8a1a0710:
+    m 1duu "……そして同時に、あなたの変えたいと思っているところ、それに打ち勝つ意味もなくなる……"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_aed5d1a5:
+    m 1etc "結局はちょうどいいバランスが大事なのよね"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_a3d0e3f0:
+    m 3rksdla "考えてみると、その考え方って実存主義的ニヒリズムに近いんじゃないの"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_ae249e04:
+    m 3eud "そうでしょ、生きることは本当にばかげているというニヒリズム的な考えの中で、私たちができる唯一のことは……"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_06c6ac85:
+    extend 3eksdla "『keep on keeping on』、ただ続けていくことだけなんだから"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_aa951fd4:
+    m 3etc "……それで曲を続けていくと、次の歌詞ではこう言ってる……"
+
 translate Japanese mas_song_amaranthine_c350334d:
     m 5ekbsu "あなたと一緒になれて、私の人生は完成したと思うんだ、[player]"
 
