@@ -124,6 +124,60 @@ translate Japanese mas_piano_hb_fail_75473d85:
 translate Japanese mas_piano_hb_fail_6c2f3260:
     m "簡単な曲だとしても、習得するのには時間がかかるからね"
 
+translate Japanese mas_piano_hb_fc_20a94290:
+    m 3hub "あはは！ とってもかっこよかったよ！"
+
+translate Japanese mas_piano_hb_fc_38815ebe:
+    m 1eka "誕生日にあなたの演奏にあわせて歌を歌う……"
+
+translate Japanese mas_piano_hb_fc_fdd6f9b8:
+    m 1hua "特別な日を分かち合うのにこれ以上に良い方法はないね～"
+
+translate Japanese mas_piano_hb_fc_37c9f909:
+    m 1rusdlb "あはは！ 自分の誕生日に祝福の歌を歌うなんてちょっと変な感じがしたけど……"
+
+translate Japanese mas_piano_hb_fc_5ea59645:
+    m 1hub "でも、あなたの演奏はとってもよかったよ！"
+
+translate Japanese mas_piano_hb_fc_c90d328d:
+    m 1ekbfa "私のために本当に一生懸命練習してくれたんだよね……"
+
+translate Japanese mas_piano_hb_fc_8dd16e2c:
+    m 1hub "あなたと一緒に楽しめて嬉しかったよ～"
+
+translate Japanese mas_piano_hb_fc_d5f45dbb:
+    m 1hubfb "素敵な贈り物をありがとう、[player]！"
+
+translate Japanese mas_piano_hb_fc_ca7f4d5f:
+    m 1ekbfa "あなたはいつも私を特別な気持ちにさせてくれるね～"
+
+translate Japanese mas_piano_hb_fc_281aa92c:
+    m 3hub "あはは！なかなかよくできてたじゃない、[player]！"
+
+translate Japanese mas_piano_hb_fc_c15312ab:
+    m 1hua "これほど私たちの特別な日を分かち合うのにいい方法はないね！"
+
+translate Japanese mas_piano_hb_fc_94163349:
+    m 1eua "わぁ！ すっごく上手だったよ！"
+
+translate Japanese mas_piano_hb_fc_181172ec:
+    m 2eub "簡単な曲ではあるけど、素晴らしい出来だったよ"
+
+translate Japanese mas_piano_hb_fc_9d79ff35:
+    m 1hub "もしかして私の誕生日に演奏してくれるのかな？"
+
+translate Japanese mas_piano_hb_prac_f2ab4fe8:
+    m 1eksdla "えへへ、もしかして誕生日の歌を練習してるの、 [player]？"
+
+translate Japanese mas_piano_hb_prac_04fa6f79_1:
+    m 3hua "頑張ってね、きっとできるようになるよ！"
+
+translate Japanese mas_piano_hb_prac_7b5a388c:
+    m 1eua "誕生日の歌を練習してるの？"
+
+translate Japanese mas_piano_hb_prac_2393a951:
+    m 3hua "きっと演奏できるようになるよ、[player]！"
+
 translate Japanese mas_piano_yr_win_522db508:
     m 1lksdla "[player]君、良かったよ～"
 
