@@ -112,11 +112,20 @@ translate Japanese mas_backups_dont_tell_97dadc92:
 translate Japanese mas_backups_dont_tell_eefbfce8:
     "だから私のことは内緒にしておいてね。私はモニカが安全で安心に過ごせるようにするから！"
 
+translate Japanese mas_backups_incompat_start_a60c4b04:
+    "やっほー！"
+
+translate Japanese mas_backups_incompat_start_8694b358:
+    "もう一度更新してみるね！"
+
+translate Japanese mas_backups_incompat_start_59952f15:
+    "やっほー！{nw}"
+
 translate Japanese mas_backups_incompat_start_2316686b:
-    "ごめんなさい、あなたの作った永続ファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v[config.version]）と互換性がないわ"
+    "ごめんなさい、あなたの作ったpersistentファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v[config.version]）と互換性がないわ"
 
 translate Japanese mas_backups_incompat_start_36fb1a33:
-    "これを修正するには、MASを更新するか、互換性のある永続ファイルで復元するしかないわ"
+    "これを修正するには、MASを更新するか、互換性のあるpersistentファイルで復元するしかないわ"
 
 translate Japanese mas_backups_incompat_what_do_884295ca:
     "何をしたいのかな？{nw}"
@@ -125,7 +134,7 @@ translate Japanese mas_backups_incompat_user_will_restore_16cd82b1:
     "わかったよ！"
 
 translate Japanese mas_backups_incompat_user_will_restore_8518d51c:
-    "互換性のある永続ファイルを'[renpy.config.savedir]'にコピーしてきてね"
+    "互換性のあるpersistentファイルを'[renpy.config.savedir]'にコピーしてきてね"
 
 translate Japanese mas_backups_incompat_user_will_restore_f54106ad:
     "次に'[mas_per_check.per_unstable]'というファイルを消してね"
@@ -137,7 +146,7 @@ translate Japanese mas_backups_incompat_user_will_restore_again_443189fb:
     "ああ、まさか！"
 
 translate Japanese mas_backups_incompat_user_will_restore_again_efc886c9:
-    "この永続ファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v[config.version]）と互換性がないわ"
+    "このpersistentファイルはバージョンv[mas_per_check.mas_per_version]を実行しているみたいだけれど、これはまだこのMASのビルド（v[config.version]）と互換性がないわ"
 
 translate Japanese mas_backups_incompat_updater_cannot_because_rpy_7f8949a3:
     "ゲームディレクトリにRPYファイルがあるから、残念だけどアップデーターは動かないわ"
@@ -179,7 +188,7 @@ translate Japanese mas_backups_incompat_rpy_no_del_9ed134ce:
     "あっ……"
 
 translate Japanese mas_backups_incompat_rpy_no_del_ec7095ae:
-    "このファイルが存在している間はアップデーターは機能しないの。だからバックアップした永続ファイルを復元するしかないと思う"
+    "このファイルが存在している間はアップデーターは機能しないの。だからバックアップしたpersistentファイルを復元するしかないと思う"
 
 translate Japanese mas_backups_incompat_updater_start_intro_c04eea25:
     "OK！"
@@ -230,11 +239,23 @@ translate Japanese strings:
     old " and name it 'persistent'."
     new "をコピーし、そのファイル名を'persistent'に変更する。"
 
+    old "Hello there!{fast}"
+    new "やっほー！{fast}"
+
+    old "What happened?"
+    new "どうしたんだ？"
+
+    old "Take me to the updater."
+    new "アップデーターを起動させてみてくれ"
+
     old "What would you like to do?{fast}"
     new "何をしたいのかな？{fast}"
 
     old "Update MAS."
     new "MASをアップデートしたい"
+
+    old "Restore a compatible persistent."
+    new "互換性のあるpersistentを復元したい"
 
     old "I'll have to delete those files for this to work. Is that okay?{fast}"
     new "アップデーターを機能させるには、RPYファイルを削除する必要があるんだけど、消しちゃって大丈夫かな？{fast}"

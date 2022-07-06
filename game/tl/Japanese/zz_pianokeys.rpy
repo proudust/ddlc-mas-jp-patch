@@ -166,6 +166,19 @@ translate Japanese mas_piano_hb_fc_181172ec:
 translate Japanese mas_piano_hb_fc_9d79ff35:
     m 1hub "もしかして私の誕生日に演奏してくれるのかな？"
 
+translate Japanese mas_piano_hb_prac_ae921fa3:
+    m 1eka "ああっ！ あなたって誕生日にその曲を弾いてくれようとしてるのね！"
+
+translate Japanese mas_piano_hb_prac_04fa6f79:
+    m 3hua "頑張って練習を続ければ、きっとできるようになるよ！"
+
+translate Japanese mas_piano_hb_prac_e1d86d39:
+    m 1eua "私の誕生日に演奏しようとしてくれてありがとう！
+"
+
+translate Japanese mas_piano_hb_prac_8ea6fd6e:
+    m 1hub "頑張ったね！"
+
 translate Japanese mas_piano_hb_prac_f2ab4fe8:
     m 1eksdla "えへへ、もしかして誕生日の歌を練習してるの、 [player]？"
 

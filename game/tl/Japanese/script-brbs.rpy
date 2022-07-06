@@ -160,6 +160,12 @@ translate Japanese monika_idle_shower_callback_7f8f3301:
 translate Japanese monika_idle_shower_callback_65ec3015:
     m 7rua "え…… {w=0.3}じゃあ長いシャワーが好きなんだね……"
 
+translate Japanese monika_idle_shower_callback_2ca5e984:
+    m 3duu "たまには滝に打たれるようにシャワーを浴びるのもいいかもね…… {w=0.3}心も穏やかになうだろうし"
+
+translate Japanese monika_idle_shower_callback_5a677e53:
+    m 1hksdlb "……というか私の思い込みで、戻って来るのが遅かっただけかな、あはは！"
+
 translate Japanese monika_idle_shower_callback_1a305b96:
     m 1eua "おかえりなさい､[player]"
 
