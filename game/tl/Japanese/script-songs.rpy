@@ -446,7 +446,25 @@ translate Japanese _call_mas_song_my_silver_lining_lyrics_1_06c6ac85:
     extend 3eksdla "『keep on keeping on』、ただ続けていくことだけなんだから"
 
 translate Japanese _call_mas_song_my_silver_lining_lyrics_1_aa951fd4:
-    m 3etc "……それで曲を続けていくと、次の歌詞ではこう言ってる……"
+    m 3etc "……でも曲を続けていくと、次の歌詞ではこう言ってる……"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_d66b5991:
+    m 3eua "……つまり、この曲の伝えたいことは、ニヒリズムの虚無感ではなくて希望だったの"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_be6499b6:
+    m 3huu "結局、いちばん大事なのは希望なのかもね"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_d8436770:
+    m 3ekblu "私たちの生が重要であろうがあるまいが、生きることには明るい面があってほしいと思うんだ、[player]……"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_c8daffb0:
+    m 2eud "念のために言っておくけど、私たちの生が本当に無意味だとは思っていないよ、でも……"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_a27ece7c:
+    m 2duu "真実がどうであれ、私たちが一緒なら意味を見出すことができるかもしれない"
+
+translate Japanese _call_mas_song_my_silver_lining_lyrics_1_4eeb8bc5:
+    m 2eka "でもそれが見つかるまでは笑顔を絶やさずにしないとね、この先になにが待ち構えていようと心配に押しつぶされたりしないためにもね〜"
 
 translate Japanese mas_song_amaranthine_c350334d:
     m 5ekbsu "あなたと一緒になれて、私の人生は完成したと思うんだ、[player]"
@@ -519,6 +537,12 @@ translate Japanese _call_mas_song_shelter_lyrics_1_0fba6598:
 
 translate Japanese _call_mas_song_shelter_lyrics_1_fd691c38:
     extend 3wud "彼女がなぜそこに閉じ込められているかがわかるまでずっとよ！"
+
+translate Japanese _call_mas_song_shelter_lyrics_1_9b538c0b:
+    m 3eubsb "外の世界に創造主がいることがわかるんだけど、その世界は創造主が凛のために作られた世界だったの！彼は凛のことを心から愛していたから、 その世界の中で凛が未来を持てるようにと"
+
+translate Japanese _call_mas_song_shelter_lyrics_1_1c5eaf91:
+    m 1dku "新たな思い出を紡いで、自分は初めからひとりぼっちじゃなかったことに気づき、凛は前へと歩み続けるの。自分自身の未来を信じて"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_66b874df:
     m 1eka "あれを見て驚いちゃった。私、凛の話に感動してたの……"
