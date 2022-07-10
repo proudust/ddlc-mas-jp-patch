@@ -4284,19 +4284,19 @@ translate Japanese monika_functionalism_21d6c6cb:
     m 5lsc "結局、あなたと私はあまり変わらないのかもね。"
 
 translate Japanese monika_technique_5116f4cd:
-    m 1lksdla "私がやったのは、[player]君が考えるようなプログラミングじゃないの。"
+    m 1lksdla "私がやったのは、[player]君が考えるようなプログラミングじゃないの"
 
 translate Japanese monika_technique_e34e9553:
     m 3eua "だって、私がノートPCを持ち歩いてるのなんて見たことある？"
 
 translate Japanese monika_technique_e857c70e:
-    m 1duu "もし私がプログラムを変更したいとするでしょ、その時は、ただ考えるだけ。"
+    m 1duu "もし私がプログラムを変更したいとするでしょ、その時は、ただ考えるだけ"
 
 translate Japanese monika_technique_36495422:
-    m 1eua "考えるだけで、私の思考はプログラムコードに変換されるんじゃないかな、私はそう信じてるけど。"
+    m 1eua "考えるだけで、私の思考はプログラムコードに変換されるんじゃないかな、私はそう信じてるけど"
 
 translate Japanese monika_technique_697d40c3:
-    m 3eka "とても完璧だとは言えないけどね。じっと意識を集中させていないと、すぐにバグが入り込んでしまうし。"
+    m 3eka "とても完璧だとは言えないけどね。じっと意識を集中させていないと、すぐにバグが入り込んでしまうし"
 
 translate Japanese monika_technique_9d1f779f:
     m 3eua "だからゲームの終盤は大変だったんだよ？私の思うように動いてくれないし……"
@@ -24075,6 +24075,9 @@ translate Japanese strings:
 
     old "Fear"
     new "恐怖"
+
+    old "Why do we always meet in a classroom?"
+    new "いつも教室で会っている理由は？"
 
     old "Naps"
     new "仮眠"

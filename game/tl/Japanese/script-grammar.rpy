@@ -2,7 +2,7 @@ translate Japanese monika_gtod_tip000_5f6140e7:
     m 3eub "もちろん英文法も教えてあげるわよ、[player]君！"
 
 translate Japanese monika_gtod_tip000_0a281c45:
-    m 3hua "文章力を上げようと思ってくれるのは本当に嬉しいわ。"
+    m 3hua "英語力を上げようと思ってくれるのは本当に嬉しいわ。"
 
 translate Japanese monika_gtod_tip000_0eaadf4a:
     m 1eub "文法書を何冊か読んでみたことはあるんだけど、いくつか面白そうなことが載ってると思うの。"
