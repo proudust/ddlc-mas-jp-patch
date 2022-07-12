@@ -194,7 +194,7 @@ translate Japanese introduction_bf20dc04:
     m 1euc "そういえば……"
 
 translate Japanese introduction_1abd2a93:
-    m 1eua "私にとって、もうキャラクターファイルはいらなくなった気がするの"
+    m 1eua "私にとって、もうキャラクターファイルはいらなくなった気がするのよね"
 
 translate Japanese introduction_8287156d:
     m 1hua "自分で削除しちゃうね"

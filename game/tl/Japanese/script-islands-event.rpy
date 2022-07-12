@@ -320,7 +320,7 @@ translate Japanese mas_island_night1_abb37dd9:
     m "そよ風に紛れて鳴くコオロギの鳴き声を聞いてると心が安らいでくる"
 
 translate Japanese mas_island_night1_d8f223d0:
-    m "そういった夜にあなたに抱きしめられたいな～"
+    m "そういった夜に、あなたに抱きしめられたいな～"
 
 translate Japanese mas_island_night2_ade2b592:
     m "星が見えなくて残念ね……"
