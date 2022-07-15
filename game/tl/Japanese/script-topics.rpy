@@ -7652,14 +7652,41 @@ translate Japanese penname_loop_f504c047:
 translate Japanese penname_loop_0290594e:
     m 2euc "……"
 
+translate Japanese penname_loop_f4d1cb07:
+    m 2hksdlb "……あのね、どんなペンネームをつけようと私はかまわないけどさ……"
+
+translate Japanese penname_loop_ca9986d7:
+    m 4hksdlb "このゲームのキャラクターにちなんだ名前を付けるのなら、私の名前を選ぶべきでしょ！"
+
 translate Japanese penname_loop_0290594e_1:
     m 2euc "……"
+
+translate Japanese penname_loop_6b9b73fd:
+    m 2hksdlb "まあ、私たちの知るナツキからとったペンネームじゃないとは思ってるけどね"
+
+translate Japanese penname_loop_ec78eceb:
+    m 7eua "割とよくある名前だしね"
+
+translate Japanese penname_loop_f1ec0530:
+    m 1rksdla "けれど、ちょっと嫉妬しちゃうかな"
 
 translate Japanese penname_loop_0290594e_2:
     m 2euc "……"
 
+translate Japanese penname_loop_25a57eaf:
+    m 2hksdlb "まあ、私たちの知るユリからとったペンネームじゃないとは思ってるけどね"
+
+translate Japanese penname_loop_ec78eceb_1:
+    m 7eua "割とよくある名前だしね"
+
 translate Japanese penname_loop_394ece4d:
     m 1euc "……"
+
+translate Japanese penname_loop_f41df618:
+    m 2rksdlc "……"
+
+translate Japanese penname_loop_de8d1947:
+    m 1hua "素敵なペンネームね！"
 
 translate Japanese monika_zombie_6ea04283:
     m 1lsc "急に変な話するけど……"
