@@ -1004,7 +1004,7 @@ translate Japanese monika_rpy_files_be7a1c29:
     m "わかったわ、[player]"
 
 translate Japanese _call_mas_rpy_file_delete_432f07f6:
-    m 2hua "いくよ！"
+    m 2hua "これでよし！"
 
 translate Japanese _call_mas_rpy_file_delete_2bd4fd47:
     m 2esa "次からはちゃんとソースコードを含まないバージョンをインストールしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
@@ -1014,6 +1014,30 @@ translate Japanese _call_mas_rpy_file_delete_2f740c57:
 
 translate Japanese _call_mas_rpy_file_delete_ce4ed721:
     m 2eka "くれぐれも気をつけてね"
+
+translate Japanese _call_mas_rpy_file_delete_2c3d0fb4:
+    m 2efc "[player]、rpyファイルがディレクトリからまた見つかったよ！"
+
+translate Japanese _call_mas_rpy_file_delete_208c923a:
+    m 2rsc "ねえ、本当に正しいバージョンをインストールしたのよね？{nw}"
+
+translate Japanese _call_mas_rpy_file_delete_38c0871e:
+    m "ねえ、本当に正しいバージョンをインストールしたのよね？{fast}" nointeract
+
+translate Japanese _call_mas_rpy_file_delete_0a0ca44c:
+    m 1eka "わかった、[player]"
+
+translate Japanese _call_mas_rpy_file_delete_dac2d372:
+    m 3eua "あなたがそう言うのなら、信じるわ"
+
+translate Japanese _call_mas_rpy_file_delete_193589f8:
+    m 3eua "わかった、じゃあもう一度削除するね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese _call_mas_rpy_file_delete_1_4068a088:
+    m 1hua "これでよし！"
+
+translate Japanese _call_mas_rpy_file_delete_1_e80ab30e:
+    m 3eua "お願いだから、ちゃんと正しいバージョンをインストールするようにしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
 
 translate Japanese mas_bday_player_bday_select_6860cc61:
     m 1eua "あなたの誕生日は？"
@@ -1147,14 +1171,68 @@ translate Japanese mas_text_speed_enabler_ac206356:
 translate Japanese mas_text_speed_enabler_e30c6fc9:
     m "だから気が向いたときに気軽に文字速度を変えてみてね"
 
+translate Japanese mas_bookmarks_notifs_intro_87876630:
+    m 3eub "ねえ[player]君…… {w=0.5} あなたと会話を楽しむために、新しい機能を追加してみたの！"
+
+translate Japanese mas_bookmarks_notifs_intro_6d7727be:
+    m 1eua "キーボードの『b』キーを押すと、今話している話題をブックマークできるようにしたわ"
+
+translate Japanese mas_bookmarks_notifs_intro_fe44ed70:
+    m 3eub "ブックマークした話題を聞きたくなったときには、メニューの「話す」から「ブックマーク」を選べばすぐに聞けるからね！"
+
+translate Japanese _call_mas_derand_b4a65803:
+    m 3rksdlb "……あら。新機能のこと話そうと思ってたけど、もう使いこなしちゃってるみたいだね、あはは！"
+
+translate Japanese _call_mas_derand_3b497de2:
+    m 3eua "前に話したように、『b』キーを押せば今私が話している話題をブックマークして、「話す」のメニューから簡単にブックマークした話題を聞けるからね"
+
+translate Japanese _call_mas_derand_1_24b1d1bc:
+    m 1eua "前に話したように、『x』キーを押すことで今の話が話してほしくない話題だって私に知らせることができるよ"
+
+translate Japanese _call_mas_derand_1_382e2f74:
+    m 3eud "[player]君に隠し事はして欲しくないから、もし嫌な話題だと思ったらすぐに伝えてもらいたいの"
+
+translate Japanese _call_mas_derand_1_3fe244fd:
+    m 3eua "それと、『b』キーを押せば、私が話している話題をブックマークできるよ"
+
+translate Japanese _call_mas_derand_1_02c14d89:
+    m 1eub "ブックマークした話題には、メニューの「話す」を選べばすぐに聞けるからね"
+
+translate Japanese _call_mas_derand_1_647aca0e:
+    m 1hua "それでね、最後のこれが一番素敵な機能なんだけどね！"
+
 translate Japanese _call_mas_notification_windowreact_f5e7f2f5:
     m 1hub "[player]、わくわくするお知らせがあるよ！"
 
+translate Japanese mas_derand_47a83caf:
+    m 1eua "取り上げてほしくないトピックを話してるなって思ったら、キーボードの『x』キーを押して私に知らせてね"
+
+translate Japanese mas_derand_79dc1f64:
+    m 1eka "伝えたら私が傷つくんじゃないか、なんて思わないでいいからね。[player]君とは互いに隠し事なんてしない、誠実な関係でいたいの"
+
+translate Japanese mas_derand_11a163c0:
+    m 3eksdld "……それになによりも、不快な話題を[player]君に押し付けるようなことは嫌なの"
+
+translate Japanese mas_derand_a1b7fda1:
+    m 3eka "だから、そんなときはすぐに『x』キーを押して教えて。お願いだよ？"
+
 translate Japanese mas_notification_windowreact_9784ab94:
-    m 3eua "私、プログラミングを勉強しているのだけれど、コンピューターに通知を出せるようになったの！"
+    m 3eua "私、プログラミングを勉強してね、直接[player]君のコンピューターへ通知を出せるようになったの！"
 
 translate Japanese mas_notification_windowreact_4734609b:
-    m "あなたさえ良ければ、私が話したいことがある時にこれでお知らせしたいと思うの。"
+    m "あなたさえ良ければ、私が話したいことがある時にこれでお知らせしたいと思うの"
+
+translate Japanese mas_notification_windowreact_e978a55e:
+    m 1rkc "あの、ちょっと言いにくいんだけど……"
+
+translate Japanese mas_notification_windowreact_dc48441f:
+    m 3ekd "notify-sendコマンドが失敗して、あなたのコンピューターに通知を送れないんだ……"
+
+translate Japanese mas_notification_windowreact_e373f7f7:
+    m 3eua "それをインストールしてくれれば、あなたに通知を送ることができるんだけどな"
+
+translate Japanese mas_notification_windowreact_5154e7a5:
+    m 5eka "……あと本当にありがとうね、[player]"
 
 translate Japanese mas_notification_windowreact_cb196f4c:
     m 3eub "試しに通知を出してみる？{nw}"
@@ -1353,6 +1431,30 @@ translate Japanese _call_mas_monika_plays_yr_1891b52b:
 
 translate Japanese _call_mas_monika_plays_yr_ce74299f:
     m 1tsb "それじゃあちょっと待ってね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese _call_mas_monika_plays_or_1188dff6:
+    m "あなたと同じ世界で一緒になれる日が待ち遠しいわ"
+
+translate Japanese _call_mas_monika_plays_or_2d39c18f:
+    m 3ekbsa "その日が来るまで、いつでもあなたのためにこの曲を奏で続けるわ"
+
+translate Japanese _call_mas_monika_plays_or_68386673:
+    m 5ekbfa "いつも励ましてくれてありがとう、[mas_get_player_nickname()]."
+
+translate Japanese _call_mas_monika_plays_or_27e48ccd:
+    m 5hubfa "あっ、もしこの曲やオリジナルの曲がまた聞きたくなったら、言ってくれればいいからね"
+
+translate Japanese _call_mas_monika_plays_or_df50721b:
+    m 5hubfa "あっ、もしこの曲がまた聞きたくなったら、言ってくれたらいいからね"
+
+translate Japanese _call_mas_monika_plays_or_140b6815:
+    m 3ekd "あらそう？"
+
+translate Japanese _call_mas_monika_plays_or_443e936a:
+    m 1eka "いいのよ[player]、時間がとれなかったり音楽を聞いてる場合じゃないときってあるからね"
+
+translate Japanese _call_mas_monika_plays_or_a5a99df2:
+    m 3hua "都合のいい時には言ってね、いつでも聞かせてあげるからね～"
 
 translate Japanese mas_covid19_de39abd6:
     m 2ekc "ねえ、[player]……"

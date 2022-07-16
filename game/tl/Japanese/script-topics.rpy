@@ -14187,7 +14187,7 @@ translate Japanese monika_beingevil_5c52245d:
     m 2dkd "……"
 
 translate Japanese monika_beingevil_49134bb7:
-    m 2dktsd "わかったわ……"
+    m 2dktsd "そうみたいね……"
 
 translate Japanese monika_beingevil_d19ea751:
     m 2dktsd "ごめんなさい、[player]"
@@ -16127,6 +16127,21 @@ translate Japanese monika_player_appearance_eye_color_other_e7d46ab1:
 translate Japanese monika_player_appearance_eye_color_other_fc66e6ac:
     m 7hua "さて、次の質問だけど……"
 
+translate Japanese monika_player_appearance_eye_color_heterochromia_1b80a03c:
+    m 1sub "それって本当？{w=0.2} {nw}"
+
+translate Japanese monika_player_appearance_eye_color_heterochromia_ca9b1e2f:
+    extend 3hua "ちょっとビックリだよ、[player]～"
+
+translate Japanese monika_player_appearance_eye_color_heterochromia_7906a7e1:
+    m 3wud "私の記憶が正しければ、左右の目の色が違う人って世界中で1パーセントも居ないんだって！"
+
+translate Japanese monika_player_appearance_eye_color_heterochromia_f47cd6a3:
+    m 1eka "……もしよかったら色を聞いても良いかな……？"
+
+translate Japanese _call_monika_player_appearance_eye_color_ask_1_b2b06bba:
+    m 1hua "ありがとう！{w=0.2} {nw}"
+
 translate Japanese _call_monika_player_appearance_eye_color_ask_1_81e0cd37:
     extend 3eua "それでは、次の質問よ"
 
@@ -16194,7 +16209,7 @@ translate Japanese monika_players_control_aba07d7f:
     m 5eubla "[line!t]"
 
 translate Japanese monika_players_control_10f5859e:
-    m 5ekbfa "愛する人のそばでやることほど、ゲームを楽しむ方法なんて存在しないわ"
+    m 5ekbfa "愛しいあなたと一緒にゲームができるなんて、この上ない幸せよ"
 
 translate Japanese monika_backpacking_4a65f3a5:
     m 1esa "私ね、ずっとやりたかったことがあるんだよね"

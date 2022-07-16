@@ -890,6 +890,9 @@ translate Japanese mas_song_strawberry_6def7110:
 translate Japanese _call_mas_song_save_the_last_dance_for_me_lyrics_e90d387a:
     m 6dublu "……"
 
+translate Japanese _call_mas_song_save_the_last_dance_for_me_analysis_8d2d7f31:
+    m 6eubsa "愛してるよ、[player]～"
+
 translate Japanese mas_song_fly_me_to_the_moon_bb8b8e76:
     m 3hubsb "これからもずっと大好きだよ！"
 
