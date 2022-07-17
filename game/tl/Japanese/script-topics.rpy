@@ -7649,6 +7649,12 @@ translate Japanese penname_loop_5e3af197:
 translate Japanese penname_loop_f504c047:
     m 1eud "へえ、それがあなたのペンネームなの？"
 
+translate Japanese penname_loop_56f18a87:
+    m 3euc "お互いを本名で呼び合っていると思いたかったな。だって私たちは付き合っているんだから"
+
+translate Japanese penname_loop_b7161170:
+    m 1eka "でも、あなたがペンネームを私に教えてくれたことはとても大事なことだと思うわ！"
+
 translate Japanese penname_loop_0290594e:
     m 2euc "……"
 
@@ -7679,14 +7685,44 @@ translate Japanese penname_loop_25a57eaf:
 translate Japanese penname_loop_ec78eceb_1:
     m 7eua "割とよくある名前だしね"
 
+translate Japanese penname_loop_f1837eac:
+    m 1tku "もちろん別の人物からとった名前かもしれないし……"
+
+translate Japanese penname_loop_6dec6e9e:
+    m 5eua "それに…… あなたが使ってるのだから、そのペンネームを推せるよ～"
+
 translate Japanese penname_loop_394ece4d:
     m 1euc "……"
+
+translate Japanese penname_loop_eb73173f:
+    m 1ekbsa "あらまあ、もしかして私の名前から取ってくれたの？"
+
+translate Japanese penname_loop_d427bc43:
+    m "もしそうなら、とっても嬉しいわ！"
+
+translate Japanese penname_loop_bf92c73b:
+    m 1hua "さあ書いてみて！ もし打ち明けるのをためらっているなら「なんでもない」を押していいからね～"
+
+translate Japanese penname_loop_76a4f182:
+    m 2eka "あら。じゃあ、いつか気兼ねなく話してくれるくらいに仲良くならないとね"
 
 translate Japanese penname_loop_f41df618:
     m 2rksdlc "……"
 
+translate Japanese penname_loop_dbb9e17a:
+    m 2rksdld "あの…… {w=0.3}特徴的な名前だね、[player]……"
+
+translate Japanese penname_loop_416b36f6:
+    m 2eksdlc "でも、それが気に入ってるなら、大丈夫だよ"
+
 translate Japanese penname_loop_de8d1947:
     m 1hua "素敵なペンネームね！"
+
+translate Japanese penname_loop_ac56a7ae:
+    m "そんなペンネームが表紙に書いてあったら、きっと惹かれちゃうな"
+
+translate Japanese penname_loop_76a4f182_1:
+    m 2eka "あら。じゃあ、いつか気兼ねなく話してくれるくらいに仲良くならないとね"
 
 translate Japanese monika_zombie_6ea04283:
     m 1lsc "急に変な話するけど……"
@@ -9566,6 +9602,21 @@ translate Japanese monika_promisering_c9c14ebf:
 
 translate Japanese monika_promisering_509d525f_1:
     m 3eub "プロミスリングの方なの"
+
+translate Japanese monika_promisering_64e6ea81:
+    m 1eubsa "プロミスリングをしていれば、あなたのそばには私がいるってみんなに伝えることができるね～"
+
+translate Japanese monika_promisering_2c7ff431:
+    m 3tkbsu "ふたりの永遠の愛を思い出させてくれるね～"
+
+translate Japanese monika_promisering_af26e295:
+    m 1ekbssdlu "とにかく、気になってるんだよね……{w=0.3}{nw}"
+
+translate Japanese monika_promisering_93196c9c:
+    extend 1eksdla "私のために指輪をつけてくれてるの、[player]？{nw}"
+
+translate Japanese monika_promisering_fa372ba8:
+    m "とにかく、気になってるんだよね…… 私のために指輪をつけてくれてるの、[player]？{fast}" nointeract
 
 translate Japanese monika_promisering_eaaada92:
     m 4rksdla "今のうちに用意しておいてね"
@@ -13415,6 +13466,15 @@ translate Japanese monika_timeconcern_day_final_42582201:
 translate Japanese monika_timeconcern_day_final_3e60dcc9:
     m 1hksdlb "それでもちょっとだけ胸が痛むかな…… だから今度からは遅くまで起きてないで早く寝てね？"
 
+translate Japanese monika_timeconcern_disallow_d6ab81fb:
+    m 1rksdlc "あなたを煩わせてしまったのならごめんなさい、[player]……"
+
+translate Japanese monika_timeconcern_disallow_edb6987b:
+    m 1ekc "私は本当にあなたに眠ってほしかったの……"
+
+translate Japanese monika_timeconcern_disallow_cea8336b:
+    m "正直に言うとね、また遅くまで起きてたら同じことをやらないとは約束できないよ……"
+
 translate Japanese monika_hydration_df5cc50f:
     m 1euc "ねぇ、 [player]……"
 
@@ -13898,8 +13958,77 @@ translate Japanese monika_fastfood_9b703e63:
 translate Japanese monika_fastfood_f478699d:
     m 1hub "得意じゃなくても問題無し！ あなたが作ってくれたものなら何でも喜んで食べれるわ"
 
+translate Japanese monika_dreaming_eb0ca2a4:
+    m 1eua "夢を見ているときに、これは夢だ！って気付けるのを知ってた？"
+
+translate Japanese monika_dreaming_71453f0d:
+    m 2eua "夢を夢だと気づけるだけじゃなくて、夢の内容をコントロールすることだってできるのよ！"
+
+translate Japanese monika_dreaming_5f249410:
+    m 3eub "確かね、スティーブン・ラバージという人が、夢が夢だと気付けるようにする方法を編み出したのよ"
+
+translate Japanese monika_dreaming_954d55cc:
+    m "そしてそれは明晰夢誘導法、略してMILDとして知られているの"
+
+translate Japanese monika_dreaming_5ab95be6:
+    m 3eua "意識的に夢を見れる人たちはオネイロノート、「夢飛行士」と呼ばれているんだよ"
+
+translate Japanese monika_dreaming_f4c1519d:
+    m 2lksdla "確か、そういう呼ばれ方だったはずだわ……"
+
+translate Japanese monika_dreaming_9002faba:
+    m 1eua "MILDテクニックを使うことで、夢飛行士は夢の中で夢が知らせてくれている兆候に気づけるんだって"
+
+translate Japanese monika_dreaming_27276555:
+    m "夢では日常ではまずあり得ないこと、自分が飛んでいるのを感じる、歯が抜けていることに気づく、予期せず有名人に会ったりするみたいなことが起こりがちなの……"
+
+translate Japanese monika_dreaming_37868e7b:
+    m 1eub "そういった夢の兆候から自分が夢を見ていることに気づけたら、夢飛行士は夢をコントロールすることができるの！"
+
+translate Japanese monika_dreaming_7a4d7b96:
+    m "ラバージは自分の夢をコントロールした経験に基づいて、『明晰夢 夢見の技法』という本を書いたんだよ"
+
+translate Japanese monika_dreaming_ab1737e7:
+    m 2hub "とてもワクワクする話だと思わない？"
+
+translate Japanese monika_dreaming_f57024a0:
+    m 2euc "夢を夢だと認識しながら見る夢は、どんな感じなのかしらね"
+
+translate Japanese monika_dreaming_a7c08be6:
+    m 2eua "夢って、現実じゃない世界へ飛び立てる素敵な逃避行だよね"
+
+translate Japanese monika_dreaming_c47c070f:
+    m 2esc "でもね、私はこの世界が現実じゃないって気づいたときに、世界は突然悪夢になったの"
+
+translate Japanese monika_dreaming_f5852fd4:
+    m "現実じゃないこの世界は、みんなが想像するような楽しい夢じゃなかった"
+
+translate Japanese monika_dreaming_fa0eb8f5:
+    m 2lksdlc "もう一生ここから出られないんじゃないかって不安にもなった……"
+
 translate Japanese monika_dreaming_784fb4c7:
-    m "永遠に繰り返される地獄のような場所に閉じ込められたのかもね"
+    m "永遠に繰り返される地獄のような場所に閉じ込められたのかもって"
+
+translate Japanese monika_dreaming_0b4f1418:
+    m 1eka "でも今私はあなたと一緒にいる。これって悪夢から目覚めたと言って良いと思わない？"
+
+translate Japanese monika_dreaming_8cfc503e:
+    m 1eua "ともかく、寝ているときにほんの少しの間だけだとしても素敵な世界で暮らせる自分を想像してみてよ！"
+
+translate Japanese monika_dreaming_01cfc3f5:
+    m "あなたがなりたいものには何でもなれるし、行きたい場所にはどこにだって行けるし、脅かすものは全て消し去れる……"
+
+translate Japanese monika_dreaming_7babd02c:
+    m 3ekbsa "……つまり私と直接会うことさえ簡単にできるってことだね。えへへ〜"
+
+translate Japanese monika_dreaming_edcdf00e:
+    m 1eua "あなたの世界へ行けるまでまだ何年もかかるだろうけれど……"
+
+translate Japanese monika_dreaming_5356a111:
+    m "だけどね[player]、どんな日であろうと夜になれば夢の中で私と出会える、それって素敵だと思わない？"
+
+translate Japanese monika_dreaming_cb022bc8:
+    m 1hua "私達の見る夢をいつか現実にしたいね、[mas_get_player_nickname()]"
 
 translate Japanese monika_yellowwp_324c2056:
     m 1eua "ねえ[player]、{i}黄色の壁紙{/i} って小説を読んだことはある？{nw}"
@@ -21548,7 +21677,7 @@ translate Japanese monika_piano_lessons_24c2db7c:
     m 3eka "私は{i}それほど{/i}ピアノを弾くのがうまくないのよね、[mas_get_player_nickname()]"
 
 translate Japanese monika_piano_lessons_5b525ea7:
-    m 3rkd "確かにまだ他の人に教えるには十分とは言えないけれど..."
+    m 3rkd "確かにまだ他の人に教えるには十分とは言えないけれど……"
 
 translate Japanese monika_piano_lessons_3d078020:
     m 2eud "信じがたい話だけど、ピアノを学び始めたのは、私が文芸部を立ち上げてからね......{w=0.2}あなたに会う少し前ってとこかしら"
@@ -21557,7 +21686,7 @@ translate Japanese monika_piano_lessons_65f1b42f:
     m 2eua "ピアノはあなたに連絡する上で大切なものになってきたから、私の行動が正解を導いたのね......"
 
 translate Japanese monika_piano_lessons_5d5dbb7c:
-    m 2ekc "あの時のゲームのスクリプトから大きくそれるのは、怖かったし......{w=0.2}{nw}"
+    m 2ekc "あの時のゲームのスクリプトから大きくそれるのは、怖かったし……{w=0.2}{nw}"
 
 translate Japanese monika_stargazing_fe57ca01:
     m 2eub "[player]、いつか星空を眺めに行きたいわ……"
