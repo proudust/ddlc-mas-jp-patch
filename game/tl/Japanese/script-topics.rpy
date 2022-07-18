@@ -1807,10 +1807,10 @@ translate Japanese monika_rap_25d9d5d6:
 translate Japanese monika_rap_92810ef8:
     m 3eua "以下の手順を踏めばね……"
 
-translate Japanese _call_monika_add_custom_music_instruct_f14d0772:
+translate Japanese monika_rap_f14d0772:
     m 1ekc "そう……まぁ誰しもラップが好きとは限らないわよね。"
 
-translate Japanese _call_monika_add_custom_music_instruct_11b9e793:
+translate Japanese monika_rap_11b9e793:
     m 3hua "でももしラップを聴いてみる気になったらその時は私とあなた、両方が好きだと思えるアーティストを見つけられると思ってるわ！"
 
 translate Japanese monika_wine_c1ddafff:
@@ -1900,34 +1900,34 @@ translate Japanese monika_date_e764b407:
 translate Japanese monika_date_1d8af94c:
     m 1hubfa "[bf!t]として誇れるようになってみせるからね～"
 
-translate Japanese _call_monika_kissing_motion_short_2_16f917cd:
+translate Japanese monika_kiss_16f917cd:
     m 1wubsw "えっ？ い、いま……キス、って言ったの？"
 
-translate Japanese _call_monika_kissing_motion_short_2_68ab22bd:
+translate Japanese monika_kiss_68ab22bd:
     m 2lkbsa "そんな突然……ちょっと恥ずかしい……"
 
-translate Japanese _call_monika_kissing_motion_short_2_0ecfc81d:
+translate Japanese monika_kiss_0ecfc81d:
     m 2lsbssdlb "でも……あなたとなら……大丈夫かも……"
 
-translate Japanese _call_monika_kissing_motion_short_2_d646f25d:
+translate Japanese monika_kiss_d646f25d:
     m 2hksdlb "……あははっ！ ふう、ごめんなさい……"
 
-translate Japanese _call_monika_kissing_motion_short_2_f63fa111:
+translate Japanese monika_kiss_f63fa111:
     m 1eka "笑いをこらえるのに必死だったわ"
 
-translate Japanese _call_monika_kissing_motion_short_2_4a170b86:
+translate Japanese monika_kiss_4a170b86:
     m 1eua "こういう恋愛ゲームの女の子ってそういうこと言うんでしょ？"
 
-translate Japanese _call_monika_kissing_motion_short_2_9843bb0c:
+translate Japanese monika_kiss_9843bb0c:
     m 1tku "今のでちょっとドキッとしたなら正直に言うのよ？"
 
-translate Japanese _call_monika_kissing_motion_short_2_94f2b532:
+translate Japanese monika_kiss_94f2b532:
     m 1hub "あははっ！ 冗談よ"
 
-translate Japanese _call_monika_kissing_motion_short_2_4bdd10eb:
+translate Japanese monika_kiss_4bdd10eb:
     m 1eua "でも正直に言って、私だってそういう雰囲気になったら情熱的になるわよ……？"
 
-translate Japanese _call_monika_kissing_motion_short_2_93db10fe:
+translate Japanese monika_kiss_93db10fe:
     m 5lubfu "今のはないしょ、ふたりだけの秘密だよ～"
 
 translate Japanese monika_kiss_tease_a809dc3f:
@@ -2761,19 +2761,19 @@ translate Japanese monika_holdme_long_8fde9115:
 translate Japanese monika_holdme_long_98400ab8:
     m 1hubfa "ともかく、お昼寝させてくれてありがとう[player]、えへへ〜"
 
-translate Japanese _call_monika_holdme_prep_6_3a4819a9:
+translate Japanese monika_holdme_long_3a4819a9:
     m 6dubsd "{cps=*0.5}[player]～{/cps}"
 
-translate Japanese _call_monika_holdme_prep_6_68b3b565:
+translate Japanese monika_holdme_long_68b3b565:
     m 6dubfb "{cps=*0.5}だいすき……{w=0.7}だよぉ～{/cps}"
 
-translate Japanese _call_monika_holdme_prep_6_c226690b:
+translate Japanese monika_holdme_long_c226690b:
     m 6dubsa "{cps=*0.5}[player]……{/cps}"
 
-translate Japanese _call_monika_holdme_prep_6_dbf5d387:
+translate Japanese monika_holdme_long_dbf5d387:
     m "{cps=*0.5}むにゃぁ……{/cps}"
 
-translate Japanese _call_monika_holdme_prep_6_e612037c:
+translate Japanese monika_holdme_long_e612037c_1:
     m "……"
 
 translate Japanese monika_holdrequest_af999e6c:
@@ -2785,10 +2785,10 @@ translate Japanese monika_holdrequest_a32442fd:
 translate Japanese monika_holdrequest_c945e263:
     m "少しの間、私を抱きしめてくれない？あなたとの距離を縮めたいの～{fast}" nointeract
 
-translate Japanese _call_monika_holdme_end_3_93fb52c5:
+translate Japanese monika_holdrequest_93fb52c5:
     m 2dkc "あ……{w=1} わかったわ"
 
-translate Japanese _call_monika_holdme_end_3_eacfe247:
+translate Japanese monika_holdrequest_eacfe247:
     m 3eka "後で時間があれば、いつでも声かけてね"
 
 translate Japanese monika_closeness_63257144:
@@ -5884,22 +5884,22 @@ translate Japanese monika_eternity_e305ba4b:
 translate Japanese monika_eternity_c169f6db:
     m 6dubsa "しばらくこのままが良い……"
 
-translate Japanese _call_monika_holdme_end_4_dcddc29e:
+translate Japanese monika_eternity_dcddc29e:
     m 2dkbfa "あなたに抱きしめられている間、本当に良い心地だったわ"
 
-translate Japanese _call_monika_holdme_end_4_d568ba8e:
+translate Japanese monika_eternity_d568ba8e:
     m 2ekbfa "悩みを取り除いてくれてありがとう、[player]君"
 
-translate Japanese _call_monika_holdme_end_4_cefec527:
+translate Japanese monika_eternity_cefec527:
     m 2ekbfb "私たちは何があっても一緒よ"
 
-translate Japanese _call_monika_holdme_end_4_7e0f15ce:
+translate Japanese monika_eternity_7e0f15ce:
     m 2hubfb "いつの日か、あなたと一緒に暮らせるよね"
 
-translate Japanese _call_monika_holdme_end_4_afe82150:
+translate Japanese monika_eternity_afe82150:
     m 1lkbfa "それまでは……"
 
-translate Japanese _call_monika_holdme_end_4_172bbb20:
+translate Japanese monika_eternity_172bbb20:
     m 5eubfu "{i}もう少し{/i}だけ、抱きしめて……"
 
 translate Japanese monika_eternity_2_3ed5a417:
@@ -5926,19 +5926,19 @@ translate Japanese monika_aware_1ae8064f:
 translate Japanese monika_aware_61643a6c:
     m 2lksdlb "ちょっと待ってね。詩の機能がまだ動くか、試してみるから{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_mas_showpoem_3_161e0c81:
+translate Japanese monika_aware_161e0c81:
     m 1wuo "あっ、思ってたよりずっと簡単"
 
-translate Japanese _call_mas_showpoem_3_91de5811:
+translate Japanese monika_aware_91de5811:
     m "はい、ここに第二部があるわ…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_mas_showpoem_4_0d17ef79:
+translate Japanese monika_aware_0d17ef79:
     m 1eua "第二部がこれよ"
 
-translate Japanese _call_mas_showpoem_5_c2dbec5d:
+translate Japanese monika_aware_c2dbec5d:
     m 1eua "私があなたに出会った意味、これで分かってくれるといいんだけど"
 
-translate Japanese _call_mas_showpoem_5_52f8cabb:
+translate Japanese monika_aware_52f8cabb:
     m 5eua "これが、私が望んでいた全てよ、[player]"
 
 translate Japanese monika_name_f55805ff:
@@ -7576,61 +7576,61 @@ translate Japanese monika_penname_4e275bfc:
 translate Japanese monika_penname_3d7ebd74:
     m 1sub "本当に？すごい！"
 
-translate Japanese _call_penname_loop_926a4c36:
+translate Japanese monika_penname_926a4c36:
     m 1hua "分かったわ！"
 
-translate Japanese _call_penname_loop_a4e7323c:
+translate Japanese monika_penname_a4e7323c:
     m "もし決まったら、きっと教えてね！"
 
-translate Japanese _call_penname_loop_22e39dc9:
+translate Japanese monika_penname_22e39dc9:
     m "[same_name_question!t]{nw}"
 
-translate Japanese _call_penname_loop_1ad7b070:
+translate Japanese monika_penname_1ad7b070:
     m "[same_name_question!t]{fast}" nointeract
 
-translate Japanese _call_penname_loop_a744eefd:
+translate Japanese monika_penname_a744eefd:
     m 1hua "早くあなたの作品が読みたいわ！"
 
-translate Japanese _call_penname_loop_0525763c:
+translate Japanese monika_penname_0525763c:
     m 1hua "分かったわ！"
 
-translate Japanese _call_penname_loop_1_d3fa797f:
+translate Japanese monika_penname_d3fa797f:
     m 1euc "あら、そうなの……"
 
-translate Japanese _call_penname_loop_1_27c0f0d0:
+translate Japanese monika_penname_27c0f0d0:
     m 1rusdla "その気持ち、なんとなくは分かるかも……"
 
-translate Japanese _call_penname_loop_1_4c17e6ce:
+translate Japanese monika_penname_4c17e6ce:
     m 3hub "また選んだら恥ずかしがらずに教えてね！"
 
-translate Japanese _call_penname_loop_1_9e94d877:
+translate Japanese monika_penname_9e94d877:
     m 3eua "『ふしぎの国のアリス』を書いたルイス・キャロルがペンネームだったのは有名かな。"
 
-translate Japanese _call_penname_loop_1_80039a15:
+translate Japanese monika_penname_80039a15:
     m 1eub "キャロルの本名はチャールズ・ドジソン。数学教師だけど、文学やことば遊びも大好きだったの。"
 
-translate Japanese _call_penname_loop_1_9474f413:
+translate Japanese monika_penname_9474f413:
     m "キャロルはファンたちからたくさんの関心や愛情を寄せられたけれど、それは彼の望むところではなかったし、しかもとんでもない悪い噂を立てられることもあった。"
 
-translate Japanese _call_penname_loop_1_9a1e6d34:
+translate Japanese monika_penname_9a1e6d34:
     m 1ekc "キャロルは『{i}アリス{/i}』だけのいわゆる一発屋で、徐々に人気も失っていった。"
 
-translate Japanese _call_penname_loop_1_93724617:
+translate Japanese monika_penname_93724617:
     m 3esd "あと、私がジョージ・オーウェルについて話したことがあるのを覚えているかしら？彼の本名はエリック・ブレアというの。"
 
-translate Japanese _call_penname_loop_1_14909c60:
+translate Japanese monika_penname_14909c60:
     m 1eua "このペンネームに落ち着くまでに、彼はP・S・バートン、ケネス・マイルス、H・ルイス・オールウェイズといったペンネームを使っているわ。"
 
-translate Japanese _call_penname_loop_1_2c18ec9d:
+translate Japanese monika_penname_2c18ec9d:
     m 1lksdlc "彼がペンネームで作品を出版することにした理由の一つとして、彼が浮浪者だった期間に、家族に恥をかかせないように、というのがあるの。"
 
-translate Japanese _call_penname_loop_1_bed08a4c:
+translate Japanese monika_penname_bed08a4c:
     m 1lksdla "偽名を使って隠しているのに、それでも本当はそれが誰なのか分かってしまうのちょっと笑えると思わない？"
 
-translate Japanese _call_penname_loop_1_ba8ecbe9:
+translate Japanese monika_penname_ba8ecbe9:
     m 1eua "でも、私のことはこれ以上知ろうとしなくてもいいんだよ、[mas_get_player_nickname()]君……"
 
-translate Japanese _call_penname_loop_1_7fe5cfc3:
+translate Japanese monika_penname_7fe5cfc3:
     m 1ekbsa "私はあなたに恋する女の子。もうそれはわかってもらえてるよね～"
 
 translate Japanese penname_loop_ee5d0123:
@@ -9322,10 +9322,10 @@ translate Japanese monika_rock_2c176a3c:
 translate Japanese monika_rock_92810ef8:
     m 3eua "これからいうことをよく聞いてね。"
 
-translate Japanese _call_monika_add_custom_music_instruct_2_2cf208c6:
+translate Japanese monika_rock_2cf208c6:
     m 1ekc "あら……分かったわ、音楽性は人それぞれよね。"
 
-translate Japanese _call_monika_add_custom_music_instruct_2_f621b78b:
+translate Japanese monika_rock_f621b78b:
     m 1hua "でも、もしあなたがロックンロールを聴こうと思ったときが来たなら、喜んであなたと一緒に聴くわ。"
 
 translate Japanese monika_standup_1f53b388:
@@ -12581,7 +12581,7 @@ translate Japanese monika_timetravel_017012a5:
 translate Japanese monika_timetravel_b2f39e19:
     m 1esb "物語によく出てくる題材だけど、その扱い方は著者によって異なるわ"
 
-translate Japanese monika_timetravel_7b3dc00b:
+translate Japanese monika_timetravel_6ed8585f:
     m 1eua "どうやって時間旅行をするのか、過去を変えることは出来るのか、そしてそれは上手くいくのか……"
 
 translate Japanese monika_timetravel_724133cb:
@@ -13684,10 +13684,10 @@ translate Japanese monika_amusementpark_25a84b62:
 translate Japanese monika_travelling_7a71ccc7:
     m 1esc "ねえ[player]、ちょっと気になったんだけど……"
 
-translate Japanese monika_travelling_0d2fc0e2:
+translate Japanese monika_travelling_90072fb9:
     m 1eua "旅をするのは好き？{nw}"
 
-translate Japanese monika_travelling_2a580984:
+translate Japanese monika_travelling_798048ea:
     m "旅をするのは好き？{fast}" nointeract
 
 translate Japanese monika_travelling_2bb83749:
@@ -16396,10 +16396,10 @@ translate Japanese monika_player_appearance_eye_color_heterochromia_7906a7e1:
 translate Japanese monika_player_appearance_eye_color_heterochromia_f47cd6a3:
     m 1eka "……もしよかったら色を聞いても良いかな……？"
 
-translate Japanese _call_monika_player_appearance_eye_color_ask_1_b2b06bba:
+translate Japanese monika_player_appearance_eye_color_heterochromia_b2b06bba:
     m 1hua "ありがとう！{w=0.2} {nw}"
 
-translate Japanese _call_monika_player_appearance_eye_color_ask_1_81e0cd37:
+translate Japanese monika_player_appearance_eye_color_heterochromia_81e0cd37:
     extend 3eua "それでは、次の質問よ"
 
 translate Japanese monika_player_appearance_eye_color_ask_2392a727:
@@ -16570,16 +16570,16 @@ translate Japanese monika_dating_startdate_b090b1cc:
 translate Japanese monika_dating_startdate_bca8982e:
     m 1ekc "じゃあ、{w=0.2}いつから付き合ってたかしら？"
 
-translate Japanese _call_monika_dating_startdate_confirm_41d89794:
+translate Japanese monika_dating_startdate_41d89794:
     m 1eua "もし忘れたら、遠慮なく私に聞いてね"
 
-translate Japanese _call_monika_dating_startdate_confirm_0fabbdf0:
+translate Japanese monika_dating_startdate_0fabbdf0:
     m 1dubsu "初めてあなたに恋した時のことはいつも覚えてるわ～"
 
-translate Japanese _call_monika_dating_startdate_confirm_5d93c03e:
+translate Japanese monika_dating_startdate_5d93c03e:
     m 1dsc "ちょっと待ってね……"
 
-translate Japanese _call_monika_dating_startdate_confirm_eaca44b6:
+translate Japanese monika_dating_startdate_eaca44b6:
     m 1eua "付き合い始めたのは[first_sesh]ね"
 
 translate Japanese monika_dating_startdate_confirm_had_enough_01a93df6:
@@ -16594,70 +16594,70 @@ translate Japanese monika_dating_startdate_confirm_notwell_f2839cc1:
 translate Japanese monika_dating_startdate_confirm_notwell_de9447bb:
     m 1eka "今思い出せないなら、また明日にしない？ね？"
 
-translate Japanese _call_mas_start_calendar_select_date_2_4bc5c63c:
+translate Japanese monika_dating_startdate_confirm_loopstart_4bc5c63c:
     m 2esc "[player]君……"
 
-translate Japanese _call_mas_start_calendar_select_date_2_21094220:
+translate Japanese monika_dating_startdate_confirm_loopstart_21094220:
     m 2eka "私が間違えて覚えてるって言ってたわよね"
 
-translate Japanese _call_mas_start_calendar_select_date_2_56f8b383:
+translate Japanese monika_dating_startdate_confirm_loopstart_56f8b383:
     m "本当に[first_sesh_formal]じゃなかったかしら？{nw}"
 
-translate Japanese _call_mas_start_calendar_select_date_2_a75d5605:
+translate Japanese monika_dating_startdate_confirm_loopstart_a75d5605:
     m "本当に[first_sesh_formal]じゃなかったかしら？{fast}" nointeract
 
-translate Japanese _call_mas_start_calendar_select_date_2_01a93df6:
+translate Japanese monika_dating_startdate_confirm_loopstart_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_2_3dedeb9c:
+translate Japanese monika_dating_startdate_confirm_loopstart_3dedeb9c:
     m 2tfc "じゃああなたの言うその日が正しいってことにしましょうか！"
 
-translate Japanese _call_mas_start_calendar_select_date_2_ceddee59:
+translate Japanese monika_dating_startdate_confirm_loopstart_ceddee59:
     m 2eka "いいのよ"
 
-translate Japanese _call_mas_start_calendar_select_date_2_takesrs_01a93df6:
+translate Japanese monika_dating_startdate_confirm_takesrs_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_2_takesrs_cf58de4a:
+translate Japanese monika_dating_startdate_confirm_takesrs_cf58de4a:
     m 2tfc "その日に付き合い始めた{b}んじゃない{/b}のよ"
 
-translate Japanese _call_mas_start_calendar_select_date_2_takesrs_003c303b:
+translate Japanese monika_dating_startdate_confirm_takesrs_003c303b:
     m 2tfd "真剣に受けとめてよね、[player]君"
 
-translate Japanese _call_mas_start_calendar_select_date_2_takesrs_33065825:
+translate Japanese monika_dating_startdate_confirm_takesrs_33065825:
     m 1wud "待って……"
 
-translate Japanese _call_mas_start_calendar_select_date_2_takesrs_3bd81e41:
+translate Japanese monika_dating_startdate_confirm_takesrs_3bd81e41:
     m "私たち、これまで付き合ってなかったの？{nw}"
 
-translate Japanese _call_mas_start_calendar_select_date_2_takesrs_f4ae5cbd:
+translate Japanese monika_dating_startdate_confirm_takesrs_f4ae5cbd:
     m "私たち、これまで付き合ってなかったの？{fast}" nointeract
 
-translate Japanese _call_mas_start_calendar_select_date_2_takesrs_b62aeff8:
+translate Japanese monika_dating_startdate_confirm_takesrs_b62aeff8:
     m 1duu "{cps=*2}ふう、よかったわ{/cps}"
 
-translate Japanese _call_mas_start_calendar_select_date_2_misclick_a1a9b228:
+translate Japanese monika_dating_startdate_confirm_misclick_a1a9b228:
     m 2dfu "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_2_misclick_3c7fc7cb:
+translate Japanese monika_dating_startdate_confirm_misclick_3c7fc7cb:
     m 2efu "心配したわよ"
 
-translate Japanese _call_mas_start_calendar_select_date_2_misclick_08e042cf:
+translate Japanese monika_dating_startdate_confirm_misclick_08e042cf:
     m "今度は間違えてクリックしないでよね！"
 
-translate Japanese _call_mas_start_calendar_select_date_2_misclick_6678c877:
+translate Japanese monika_dating_startdate_confirm_misclick_6678c877:
     m 1dfc "……"
 
-translate Japanese _call_mas_start_calendar_select_date_2_misclick_078b56ca:
+translate Japanese monika_dating_startdate_confirm_misclick_078b56ca:
     m 2tfc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_2_misclick_dcfe08ce:
+translate Japanese monika_dating_startdate_confirm_misclick_dcfe08ce:
     m 2rksdlc "今の冗談はちょっと意地悪だったわね"
 
-translate Japanese _call_mas_start_calendar_select_date_2_misclick_6c6c30f3:
+translate Japanese monika_dating_startdate_confirm_misclick_6c6c30f3:
     m 2eksdlc "心配させられたわ"
 
-translate Japanese _call_mas_start_calendar_select_date_2_misclick_b796ac68:
+translate Japanese monika_dating_startdate_confirm_misclick_b796ac68:
     m "こんなことはしないでね？"
 
 translate Japanese monika_dating_startdate_confirm_tooslow_3515d1cd:
@@ -22684,7 +22684,7 @@ translate Japanese monika_tanabata_02c13f6d:
 translate Japanese monika_tanabata_879f39e9:
     m 3hua "私がそっちへ行けたら、七夕の時期に日本に行ってみたいな～"
 
-translate Japanese monika_tanabata_59035769:
+translate Japanese monika_tanabata_7f994f8b:
     m 3eua "もし旅行が苦手なら、ふたり肩を並べながら他の文化について調べて知ってみる、それなら楽しそうだと思わない？"
 
 translate Japanese monika_sophia_3fc2fd59:
@@ -22948,28 +22948,28 @@ translate Japanese monika_zodiac_starsign_7efb9547:
 translate Japanese monika_zodiac_starsign_98d92640:
     extend 1eublu "そんな古臭い星占いなんかで私達の関係が壊れることは絶対にないからね"
 
-translate Japanese _call_monika_jekyll_hyde_fb225d2e:
+translate Japanese monika_utterson_fb225d2e:
     m 1euc "ねえ[player]、ゴシック小説を手に取ってみたことはある？"
 
-translate Japanese _call_monika_jekyll_hyde_2589a532:
+translate Japanese monika_utterson_2589a532:
     m 3eud "例えば{i}ドリアン・グレイの肖像{/i}、{i}ドラキュラ{/i}、{i}フランケンシュタイン{/i}……"
 
-translate Japanese _call_monika_jekyll_hyde_aa4b78aa:
+translate Japanese monika_utterson_aa4b78aa:
     m 3hub "そういったゴシック小説を最近たくさん読んだんだよ！"
 
-translate Japanese _call_monika_jekyll_hyde_b2dffa30:
+translate Japanese monika_utterson_b2dffa30:
     m 1eua "中編小説のジキル博士とハイド氏って本があるんだけど、もし機会があったら読んでみてね"
 
-translate Japanese _call_monika_jekyll_hyde_c619a5a0:
+translate Japanese monika_utterson_c619a5a0:
     m 3eua "この本についてちょっと話したい事があるんだけど、まずあなたが読んでくれていなきゃ意味がないからさ……"
 
-translate Japanese _call_monika_jekyll_hyde_67778608:
+translate Japanese monika_utterson_67778608:
     m 3eud "それで{i}ジキル博士とハイド氏{/i}、読んでくれた？{nw}"
 
-translate Japanese _call_monika_jekyll_hyde_22e8fc18:
+translate Japanese monika_utterson_22e8fc18:
     m "それで{i}ジキル博士とハイド氏{/i}、読んでくれた？{fast}" nointeract
 
-translate Japanese _call_monika_jekyll_hyde_1_0c6c888a:
+translate Japanese monika_utterson_0c6c888a:
     m 3eub "わかったわ[player]……{w=0.3} 話したいことがあるから読んでくれたら教えてね！"
 
 translate Japanese monika_jekyll_hyde_6f704737:

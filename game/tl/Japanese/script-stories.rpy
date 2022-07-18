@@ -10,10 +10,10 @@ translate Japanese mas_story_begin_b26f2657:
 translate Japanese mas_story_begin_457306b2:
     m 1duu "コホン"
 
-translate Japanese _call_spaceroom_19_b26f2657:
+translate Japanese mas_scary_story_setup_b26f2657:
     m 3eua "[story_begin_quip!t]"
 
-translate Japanese _call_spaceroom_19_457306b2:
+translate Japanese mas_scary_story_setup_457306b2:
     m 1duu "コホン"
 
 translate Japanese mas_scary_story_cleanup_8cb2c0e4:

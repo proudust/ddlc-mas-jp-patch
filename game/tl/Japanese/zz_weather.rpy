@@ -34,7 +34,7 @@ translate Japanese monika_change_weather_3d8a873d:
 translate Japanese monika_change_weather_3576c811_1:
     m 1dsc "ちょっと待っててね{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_mas_change_weather_c889c235:
+translate Japanese monika_change_weather_c889c235_1:
     m 1eua "これでよし！"
 
 translate Japanese strings:

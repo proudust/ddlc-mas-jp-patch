@@ -4,7 +4,7 @@ translate Japanese mas_brb_generic_low_aff_callback_b6ca521c:
 translate Japanese mas_brb_generic_low_aff_callback_0bd97190:
     m 6ckc "……"
 
-translate Japanese monika_brb_idle_bd219ce5:
+translate Japanese monika_idle_brb_bd219ce5:
     m 1eua "わかったわ、[player]"
 
 translate Japanese monika_brb_idle_5ca4f9ff:
@@ -346,8 +346,8 @@ translate Japanese monika_idle_workout_callback_32919a77:
 translate Japanese monika_idle_workout_callback_d74a4f23:
     extend 2eub "かなりハードな運動だったんじゃないかな？"
 
-translate Japanese monika_idle_workout_callback_44f060ef:
-    m 2eka "自分の限界に挑戦するのはいいことだけど、やりすぎは良くないよ？"
+translate Japanese monika_idle_workout_callback_78641bd0:
+    m 7eka "自分の限界に挑戦するのはいいことだけど、やりすぎは良くないよ？"
 
 translate Japanese monika_idle_workout_callback_bf8f5a90:
     m 1esa "運動は終わったのかな、[player]？"
@@ -376,11 +376,11 @@ translate Japanese monika_idle_workout_callback_6c65dc70:
 translate Japanese monika_idle_workout_callback_d4bc6dc9:
     m 1hub "その調子だよ！"
 
-translate Japanese monika_idle_workout_callback_9140e9e0:
-    m 7eua "しっかり休憩をとって、おやつを食べて元気を取り戻そうね～"
+translate Japanese monika_idle_workout_callback_7e531da5:
+    m 3eua "しっかり休憩をとって、おやつを食べて元気を取り戻そうね～"
 
-translate Japanese monika_idle_workout_callback_544f26d5:
-    m 7eub "[wb_quip!t]"
+translate Japanese monika_idle_workout_callback_5d17f0c3:
+    m 3eub "[wb_quip!t]"
 
 translate Japanese monika_idle_workout_callback_c7930828:
     m 2euc "運動は終わったの、[player]？"

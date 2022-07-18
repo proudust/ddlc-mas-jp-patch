@@ -136,25 +136,25 @@ translate Japanese mas_reaction_gifts_generic_f35f0a51:
 translate Japanese mas_reaction_gifts_generic_8a256633:
     m 1hub "私のことを想ってくれて本当にありがとう、[player]！"
 
-translate Japanese _call_mas_reaction_gift_generic_clothes_json_62ff1b67:
+translate Japanese mas_reaction_gift_generic_sprite_json_62ff1b67:
     m "も〜、[player]君ったら！"
 
-translate Japanese _call_mas_reaction_gift_generic_clothes_json_4dc5dcf5:
+translate Japanese mas_reaction_gift_generic_sprite_json_4dc5dcf5:
     m 1hua "とっても優しいね！"
 
-translate Japanese _call_mas_reaction_gift_generic_clothes_json_551c24a3:
+translate Japanese mas_reaction_gift_generic_sprite_json_551c24a3:
     m 1eua "プレゼント、ありがとね！"
 
-translate Japanese _call_mas_reaction_gift_generic_clothes_json_fe7f8bf6:
+translate Japanese mas_reaction_gift_generic_sprite_json_fe7f8bf6:
     m 3ekbsa "本当に私を甘やかすのが大好きよね。"
 
-translate Japanese _call_mas_reaction_gift_generic_clothes_json_c2f9ee8b:
+translate Japanese mas_reaction_gift_generic_sprite_json_c2f9ee8b:
     m 1hubfa "えへへ！"
 
-translate Japanese _call_mas_reaction_gift_generic_clothes_json_0aeb08fa:
+translate Japanese mas_reaction_gift_generic_sprite_json_0aeb08fa:
     m 1hua "[spr_obj.dlg_desc!t]、[acs_quip]"
 
-translate Japanese _call_mas_reaction_gift_generic_clothes_json_83b49ce5:
+translate Japanese mas_reaction_gift_generic_sprite_json_83b49ce5:
     m 3hub "試すのが待ちきれないわ！"
 
 translate Japanese mas_reaction_gift_generic_clothes_json_9b7667f3:
@@ -175,13 +175,13 @@ translate Japanese mas_reaction_gift_generic_clothes_json_c3d263b2:
 translate Japanese mas_reaction_gift_generic_clothes_json_dccef013:
     m 1hub "ありがとう、 [player]！{w=0.5}早速着てみるね！"
 
-translate Japanese _call_mas_clothes_change_52925ef2:
+translate Japanese mas_reaction_gift_generic_clothes_json_52925ef2:
     m 2eka "えっと……{w=0.5} どうかな？"
 
-translate Japanese _call_mas_clothes_change_e700f64e:
+translate Japanese mas_reaction_gift_generic_clothes_json_e700f64e:
     m 2eksdla "似合う？"
 
-translate Japanese _call_mas_clothes_change_155b4010:
+translate Japanese mas_reaction_gift_generic_clothes_json_155b4010:
     m 1eua "改めてありがとうね"
 
 translate Japanese mas_reaction_gift_hairclip_99cd7451:
@@ -253,16 +253,16 @@ translate Japanese mas_reaction_gift_coffee_17df1737:
 translate Japanese mas_reaction_gift_coffee_5034c871:
     m 1eua "だってこの初体験あなたと分かち合いたいもの"
 
-translate Japanese _call_mas_transition_to_emptydesk_47df51b9:
+translate Japanese mas_reaction_gift_coffee_47df51b9:
     m "このあたりにコーヒーマシンがあったはず……{w=2}{nw}"
 
-translate Japanese _call_mas_transition_to_emptydesk_01d81027:
+translate Japanese mas_reaction_gift_coffee_01d81027:
     m "ああ、あった！{w=2}{nw}"
 
-translate Japanese _call_mas_transition_to_emptydesk_26b7cf02:
+translate Japanese mas_reaction_gift_coffee_26b7cf02:
     m "さあ、始めるわよ！{w=2}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_e44bf370:
+translate Japanese mas_reaction_gift_coffee_e44bf370:
     m 1eua "コーヒーを入れるのに数分かかるわね"
 
 translate Japanese mas_reaction_hotchocolate_11c9281d:
@@ -326,7 +326,7 @@ translate Japanese mas_reaction_hotchocolate_995c4839:
 translate Japanese mas_reaction_hotchocolate_1fd5a84a:
     m 3eua "実のところ、今いれようと思うの！"
 
-translate Japanese _call_mas_transition_from_emptydesk_1_cb1cad3f:
+translate Japanese mas_reaction_hotchocolate_cb1cad3f:
     m 1hua "そうね、数分で準備出来るわ"
 
 translate Japanese mas_thermos_mug_handler_ce02bbb4:
@@ -339,13 +339,13 @@ translate Japanese mas_thermos_mug_handler_fdbfb853:
     m 1wud "あら！{w=0.3}違う魔法瓶じゃない！"
 
 translate Japanese mas_thermos_mug_handler_c69e1cf6:
-    m 1hua "今回は[disp_name!t]なのね"
+    m 1hua "今回は[mas_a_an_str(disp_name, ignore_case)]なのね"
 
 translate Japanese mas_thermos_mug_handler_f65d69cd:
     m 1hub "ありがとね、[player]、早く使ってみたいわ！"
 
-translate Japanese mas_thermos_mug_handler_5f28cdba:
-    m 1wud "うわ！{w=0.3}[disp_name!t]魔法瓶だ！"
+translate Japanese mas_thermos_mug_handler_eedbed8d:
+    m 1wud "うわ！{w=0.3}[mas_a_an_str(disp_name, ignore_case)]魔法瓶だ！"
 
 translate Japanese mas_thermos_mug_handler_834a7778:
     m 1hua "これでふたりで出かける時には何か飲み物を持っていけるわ～"

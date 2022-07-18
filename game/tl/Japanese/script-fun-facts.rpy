@@ -160,25 +160,25 @@ translate Japanese mas_fun_fact_chess_a7288f90:
 translate Japanese mas_fun_fact_chess_a69f4220:
     m 1hua "チェスやりたくない？ 今日の私なら少し手加減しちゃうかもよ、えへへ～"
 
-translate Japanese _call_mas_fun_facts_end_4_581820c1:
+translate Japanese mas_fun_fact_chess_581820c1:
     m 1dsc "あ、チェスかあ……"
 
-translate Japanese _call_mas_fun_facts_end_4_01a93df6:
+translate Japanese mas_fun_fact_chess_01a93df6:
     m 2dfc "……"
 
-translate Japanese _call_mas_fun_facts_end_4_303adace:
+translate Japanese mas_fun_fact_chess_303adace:
     m 2rfd "[player]はズルをするから、今の話はなかったことにしてね"
 
-translate Japanese _call_mas_fun_facts_end_4_08f8fe92:
+translate Japanese mas_fun_fact_chess_08f8fe92:
     m "ズルしたことを謝るつもりもないみたいだし"
 
-translate Japanese _call_mas_fun_facts_end_4_4e118ab3:
+translate Japanese mas_fun_fact_chess_4e118ab3:
     m 2lfc "……ふーんだ"
 
-translate Japanese _call_mas_fun_facts_end_4_8d008284:
+translate Japanese mas_fun_fact_chess_8d008284:
     m 1euc "あ、これじゃなくって"
 
-translate Japanese _call_mas_fun_facts_end_4_b06a90a8:
+translate Japanese mas_fun_fact_chess_b06a90a8:
     m 3hksdlb "ちょっとまってね、もう少しだけ"
 
 translate Japanese mas_fun_fact_struck_by_lightning_460053c7:

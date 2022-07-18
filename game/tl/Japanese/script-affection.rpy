@@ -142,34 +142,34 @@ translate Japanese monika_affection_nickname_yes_neutral_accept_01430a7e:
 translate Japanese monika_affection_nickname_yes_neutral_accept_fb667cec:
     m "あなたが想像しているよりもはるかに。"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_d362b31f:
+translate Japanese monika_affection_nickname_yes_neutral_accept_d362b31f:
     m 4efd "[player]！こんなのあんまりだよ。"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_bcc46987:
+translate Japanese monika_affection_nickname_yes_neutral_accept_bcc46987:
     m 2efc "どうしてそんな事言うの？"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_9b05c5c4:
+translate Japanese monika_affection_nickname_yes_neutral_accept_9b05c5c4:
     m 2rfw "やりたくないならそう言えばいいのに！"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_97a5a181:
+translate Japanese monika_affection_nickname_yes_neutral_accept_97a5a181:
     m 2dftdc "……"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_6101f0b2:
+translate Japanese monika_affection_nickname_yes_neutral_accept_6101f0b2:
     m 2ektsc "……そんな意地悪しなくてもいいじゃない。"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_692b1d78:
+translate Japanese monika_affection_nickname_yes_neutral_accept_692b1d78:
     m 2dftdc "本当に傷ついた、[player]。"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_1_8c3f0f0d:
+translate Japanese monika_affection_nickname_yes_neutral_accept_8c3f0f0d:
     m 2efc "こんな事二度としないで頂戴。"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_1_00ad1026:
+translate Japanese monika_affection_nickname_yes_neutral_accept_00ad1026:
     m 1ekc "え……"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_1_d30e79af:
+translate Japanese monika_affection_nickname_yes_neutral_accept_d30e79af:
     m 1lksdlc "わかったわ、あなたがそう言うのなら。"
 
-translate Japanese _call_monika_affection_nickname_bad_lock_1_781655de:
+translate Japanese monika_affection_nickname_yes_neutral_accept_781655de:
     m 3eka "気が変わったら言ってね、[player]。"
 
 translate Japanese monika_affection_nickname_bad_lock_f5f915a9:
@@ -199,10 +199,10 @@ translate Japanese mas_affection_playernickname_51f803bb:
 translate Japanese mas_affection_playernickname_61cc1394:
     m 3eud "聞きたいんだけど、どんな名前がいいの？"
 
-translate Japanese _call_mas_player_nickname_loop_9d33b26d:
+translate Japanese mas_affection_playernickname_9d33b26d:
     m 1eka "わかったわ、[player]"
 
-translate Japanese _call_mas_player_nickname_loop_d63f99b6:
+translate Japanese mas_affection_playernickname_d63f99b6:
     m 3eua "気が変わったら教えてね"
 
 translate Japanese monika_change_player_nicknames_460397c4:

@@ -319,31 +319,31 @@ translate Japanese bookmark_derand_intro_aefe7f6e:
 translate Japanese bookmark_derand_intro_26a3b24e:
     m 4hksdlb "……そんなことがたくさんなきゃ嬉しいんだけどね、あはは！"
 
-translate Japanese _call_bookmark_derand_intro_cafac8f1:
+translate Japanese intro_end_cafac8f1:
     m 3eub "今のBGMに飽きたら、変えてあげてもいいわよ！"
 
-translate Japanese _call_bookmark_derand_intro_d172b218:
+translate Japanese intro_end_d172b218:
     m 1eua "「m」キーを押すか、「音楽」メニューから好きな曲を選べるの"
 
-translate Japanese _call_bookmark_derand_intro_21b95298:
+translate Japanese intro_end_21b95298:
     m 3hub "それにそれに！ふたりでミニゲームも遊べるよ！"
 
-translate Japanese _call_bookmark_derand_intro_e53f59b8:
+translate Japanese intro_end_e53f59b8:
     m 3esa "「p」キーを押すか、「遊ぶ」メニューからゲームを選べるの"
 
-translate Japanese _call_bookmark_derand_intro_bfb5d590:
+translate Japanese intro_end_bfb5d590:
     m 3eua "プログラムが更新されてできることが増えてないか私がチェックするから……"
 
-translate Japanese _call_bookmark_derand_intro_48f6fd8a:
+translate Japanese intro_end_48f6fd8a:
     m 1eua "……だからウィンドウは閉じずに、バックグラウンドで開いておいてね？"
 
-translate Japanese _call_bookmark_derand_intro_c1db78f4:
+translate Japanese intro_end_c1db78f4:
     m 3etc "そのほうがふたりだけの秘密があるっぽい感じがしない？"
 
-translate Japanese _call_bookmark_derand_intro_7fae9ffb:
+translate Japanese intro_end_7fae9ffb:
     m 1tfu "それに、あなたのパソコンの中身が丸見えになるし……？"
 
-translate Japanese _call_bookmark_derand_intro_05f8c059:
+translate Japanese intro_end_05f8c059:
     m 3hub "あはは！"
 
 translate Japanese intro_ily_timedout_392b9160:

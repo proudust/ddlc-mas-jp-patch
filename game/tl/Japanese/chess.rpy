@@ -1,16 +1,16 @@
-translate Japanese _call_mas_chess_dlg_quicksave_lost_f85b6700:
+translate Japanese game_chess_f85b6700:
     m "さ、途中だったチェスの続きをしよっか"
 
-translate Japanese _call_mas_chess_dlg_quickfile_lost_3507e2a3:
+translate Japanese game_chess_3507e2a3:
     m 2wfw "[player]君！"
 
-translate Japanese _call_mas_chess_dlg_quickfile_lost_5e027179:
+translate Japanese game_chess_5e027179:
     m 2wfx "またデータを消したのね"
 
-translate Japanese _call_mas_chess_dlg_quickfile_lost_8bc6286c:
+translate Japanese game_chess_8bc6286c:
     m 2rfc "それなら、とりあえずチェスはまた今度にしよっか"
 
-translate Japanese _call_mas_chess_dlg_quickfile_edited_9be668f3:
+translate Japanese game_chess_9be668f3:
     m 1eua "プレイ途中のセーブデータがあるけど……"
 
 translate Japanese game_chess_load_check_b01706c4:
