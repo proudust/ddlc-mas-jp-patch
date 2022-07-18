@@ -134,8 +134,7 @@ translate Japanese mas_reaction_gifts_generic_f35f0a51:
     m 1eka "結局のところ、いちばん大事なのは贈り物をしたいって想ってくれてる気持ちだからね～"
 
 translate Japanese mas_reaction_gifts_generic_8a256633:
-    m 1hub "私のことを想ってくれて本当にありがとう
-、[player]！"
+    m 1hub "私のことを想ってくれて本当にありがとう、[player]！"
 
 translate Japanese _call_mas_reaction_gift_generic_clothes_json_62ff1b67:
     m "も〜、[player]君ったら！"

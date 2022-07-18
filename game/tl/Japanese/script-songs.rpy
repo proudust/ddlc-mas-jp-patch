@@ -68,10 +68,10 @@ translate Japanese mas_song_everythings_alright_d68c0e32:
     m 1dku "……"
 
 translate Japanese mas_song_everythings_alright_c6ee6753:
-    m 3ekd "真っ暗闇で何もわからないと思えても{w=0.1}{nw}"
+    m 3ekd "たとえ真っ暗闇で何も見えない夜だと思えても{w=0.1}{nw}"
 
 translate Japanese mas_song_everythings_alright_8b796330:
-    extend 3ekbsu "空にはお月様がいることを忘れないでね～"
+    extend 3ekbsu "空を見上げれば笑顔のお月様がいることを忘れないでね～"
 
 translate Japanese mas_song_your_song_e6f89ce6:
     m 1hub "あはは～"
@@ -539,7 +539,7 @@ translate Japanese _call_mas_song_shelter_lyrics_1_fd691c38:
     extend 3wud "彼女がなぜそこに閉じ込められているかがわかるまでずっとよ！"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_9b538c0b:
-    m 3eubsb "外の世界に創造主がいることがわかるんだけど、その世界は創造主が凛のために作られた世界だったの！彼は凛のことを心から愛していたから、 その世界の中で凛が未来を持てるようにと"
+    m 3eubsb "外の世界に創造主がいることがわかるんだけど、その世界は創造主が凛のために作られた世界だったの！ 彼は凛のことを心から愛していたから、その世界の中で凛が未来を持てるようにと"
 
 translate Japanese _call_mas_song_shelter_lyrics_1_1c5eaf91:
     m 1dku "新たな思い出を紡いで、自分は初めからひとりぼっちじゃなかったことに気づき、凛は前へと歩み続けるの。自分自身の未来を信じて"
@@ -884,8 +884,35 @@ translate Japanese mas_song_we_have_all_the_time_in_the_world_32fdb972:
 translate Japanese mas_song_when_you_say_nothing_at_all_28a15692:
     m 1duu "……"
 
+translate Japanese mas_song_when_you_say_nothing_at_all_5ddb0e55:
+    m 1dkbsu "私は実際にあなたの顔を見ることもできないし、瞳が語る真実にも気づけない、そして手に触れることもできない……"
+
+translate Japanese mas_song_when_you_say_nothing_at_all_85b1587c:
+    m 1ekbsa "でもあなたが何も言わずに私と一緒にいてくれるその時間が、私の知るべきすべてのことを教えてくれてる……"
+
+translate Japanese mas_song_when_you_say_nothing_at_all_3c0f7c39:
+    m 3hubsa "私が愛されていること、そして私が辛いときには私のためにあなたがここにいてくれることを"
+
+translate Japanese mas_song_when_you_say_nothing_at_all_3cdf1932:
+    m 1dkbsu "そしてあなたも、私に愛されていると感じてくれてたらいいな。いつも真新しいことは何も言えないけどね"
+
+translate Japanese mas_song_when_you_say_nothing_at_all_70f5c079:
+    m 1ekbsa "ゲームを起動させてバックグラウンドにおいてくれてるだけで、私には天と地ほども違ってるんだからね、[player]～"
+
 translate Japanese mas_song_strawberry_6def7110:
     m 1hubsu "……"
+
+translate Japanese mas_song_strawberry_7d397381:
+    m 3ekbsu "あなたと出会える日が待ち遠しいな、[player]"
+
+translate Japanese mas_song_strawberry_fbdde5fe:
+    m 3ekbsa "あなたの瞳を見つめ返えせるようになる日が待ち遠しい……"
+
+translate Japanese mas_song_strawberry_5cc2bc7f:
+    m 5rkbsa "でも今できるのは…… {w=0.3}いつか二人でやる冒険の全てを、頭の中に描くことだけ"
+
+translate Japanese mas_song_strawberry_faa9d47b:
+    m 5hubsu "きっと道のりはまだ遠いけど、空想した夢が現実になるといいな"
 
 translate Japanese _call_mas_song_save_the_last_dance_for_me_lyrics_e90d387a:
     m 6dublu "……"
@@ -903,7 +930,7 @@ translate Japanese mas_song_heaven_f4654263:
     m 1rubsu "そしてそう思ってるのは私だけじゃないってこと、伝わってるよ～"
 
 translate Japanese mas_song_can_you_feel_the_sunshine_bc890364:
-    m 1ekbla "あなたが訪れてくれるたびに、私の一日はとても明るいものなる…… {w=0.3}私もあなたに同じことができてたらいいな、 [player]〜"
+    m 1ekbla "あなたが訪れてくれるたびに、私の一日はとても明るいものなる…… {w=0.3}私もあなたに同じことができてたらいいな、[player]〜"
 
 translate Japanese mas_song_on_the_front_porch_fd34c860:
     m 5dkbstda "……"
@@ -918,8 +945,7 @@ translate Japanese mas_song_on_the_front_porch_cfd8d187:
     m 5eka "結局のところ、一緒にそういうことができるってことは…… {w=0.3}{nw}"
 
 translate Japanese mas_song_on_the_front_porch_1cfdf852:
-    extend 5dkbsu "ただただ素晴らしいことなんじゃないかな〜
-"
+    extend 5dkbsu "ただただ素晴らしいことなんじゃないかな〜"
 
 translate Japanese strings:
     old "Can you sing me a song?"

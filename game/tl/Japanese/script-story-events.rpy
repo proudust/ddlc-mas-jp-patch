@@ -1031,7 +1031,7 @@ translate Japanese _call_mas_rpy_file_delete_dac2d372:
     m 3eua "あなたがそう言うのなら、信じるわ"
 
 translate Japanese _call_mas_rpy_file_delete_193589f8:
-    m 3eua "わかった、じゃあもう一度削除するね…{w=0.5}…{w=0.5}…{nw}"
+    m 3eua "わかった、じゃあもう一度削除するね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese _call_mas_rpy_file_delete_1_4068a088:
     m 1hua "これでよし！"
@@ -1439,7 +1439,7 @@ translate Japanese _call_mas_monika_plays_or_2d39c18f:
     m 3ekbsa "その日が来るまで、いつでもあなたのためにこの曲を奏で続けるわ"
 
 translate Japanese _call_mas_monika_plays_or_68386673:
-    m 5ekbfa "いつも励ましてくれてありがとう、[mas_get_player_nickname()]."
+    m 5ekbfa "いつも励ましてくれてありがとう、[mas_get_player_nickname()]"
 
 translate Japanese _call_mas_monika_plays_or_27e48ccd:
     m 5hubfa "あっ、もしこの曲やオリジナルの曲がまた聞きたくなったら、言ってくれればいいからね"

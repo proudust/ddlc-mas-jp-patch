@@ -3659,10 +3659,10 @@ translate Japanese mas_f14_happy_vday_ef3898a3:
     m 5hkbla "素敵なことだと思わない？ 愛する人に感謝の気持ちを込めて一日を過ごすのってさ"
 
 translate Japanese mas_f14_happy_vday_c19cf8fc:
-    m 5lublb "一緒に甘いおやつを楽しんだり、素敵なデートに出かけたりして……{w=0.2}{nw}"
+    m 5lublb "一緒に甘いおやつを楽しんだり、素敵なデートに出かけたりして…… {w=0.2}{nw}"
 
 translate Japanese mas_f14_happy_vday_82d1bf30:
-    extend 5tubla " 一緒に過ごす時間を楽しむの"
+    extend 5tubla "一緒に過ごす時間を楽しむの"
 
 translate Japanese mas_f14_happy_vday_fd36fcbb:
     m 5dublb "バレンタインデーをあなたと過ごせることに、とても感謝しているわ"

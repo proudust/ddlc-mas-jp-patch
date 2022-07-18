@@ -173,8 +173,7 @@ translate Japanese mas_piano_hb_prac_04fa6f79:
     m 3hua "頑張って練習を続ければ、きっとできるようになるよ！"
 
 translate Japanese mas_piano_hb_prac_e1d86d39:
-    m 1eua "私の誕生日に演奏しようとしてくれてありがとう！
-"
+    m 1eua "私の誕生日に演奏しようとしてくれてありがとう！"
 
 translate Japanese mas_piano_hb_prac_8ea6fd6e:
     m 1hub "頑張ったね！"

@@ -68,6 +68,9 @@ translate Japanese strings:
     old "[[Often]"
     new "[頻繁]"
 
+    old "[[Very Often]"
+    new "[とても頻繁]"
+
     old "morning"
     new "朝"
 
