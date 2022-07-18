@@ -37,10 +37,10 @@ translate Japanese mas_gender_453cbfca:
 translate Japanese mas_gender_3bd390dd:
     m 3eka "でも本当に、あなたが女の子だってことは大したことじゃないわ……"
 
-translate Japanese _call_mas_gender_trans_a8aba180:
+translate Japanese mas_gender_a8aba180:
     m 1eka "教えてくれてありがとう、それから覚えておいて……"
 
-translate Japanese _call_mas_gender_trans_c69f4f15:
+translate Japanese mas_gender_c69f4f15:
     m 1ekbsa "ありのままのあなたをいつだって愛してるわ、[player]〜"
 
 translate Japanese monika_gender_redo_e3362cb0:
@@ -97,7 +97,7 @@ translate Japanese monika_gender_redo_a18c38c8:
 translate Japanese monika_gender_redo_08959710:
     m "それじゃあ、改めてあなたの性別をおしえてくれる？" nointeract
 
-translate Japanese _call_mas_gender_redo_react_3_98da7d75:
+translate Japanese monika_gender_redo_98da7d75:
     m 5hubsa "ありのままの君が好きだよ～"
 
 translate Japanese mas_gender_neither_d3b5cb92:
@@ -193,34 +193,34 @@ translate Japanese mas_player_name_enter_name_loop_9f02f625:
 translate Japanese mas_player_name_enter_name_loop_8e5c1991:
     m "ねえこれが本当にあなたの本名なの？それとも私をからかってるだけ？{fast}" nointeract
 
-translate Japanese _call_sayori_name_scare_a43d1d16:
+translate Japanese mas_player_name_enter_name_loop_a43d1d16:
     m 1tkc "本気？"
 
-translate Japanese _call_sayori_name_scare_655a094a:
+translate Japanese mas_player_name_enter_name_loop_655a094a:
     m "それじゃ私と同じ名前だよ！"
 
-translate Japanese _call_sayori_name_scare_ce89d396:
+translate Japanese mas_player_name_enter_name_loop_ce89d396:
     m 1tku "えっと……"
 
-translate Japanese _call_sayori_name_scare_dcbc9235:
+translate Japanese mas_player_name_enter_name_loop_dcbc9235:
     m "それ、本当にあなたの名前？それとも私からかわれてる？"
 
-translate Japanese _call_sayori_name_scare_9d348a12:
+translate Japanese mas_player_name_enter_name_loop_9d348a12:
     m 1hua "でも、そう呼んでほしいっていうなら、私はそれでもいいけどね～"
 
-translate Japanese _call_sayori_name_scare_4546f083:
+translate Japanese mas_player_name_enter_name_loop_4546f083:
     m 1sub "[good_quip!t]"
 
-translate Japanese _call_sayori_name_scare_019d66ab:
+translate Japanese mas_player_name_enter_name_loop_019d66ab:
     m 3esa "オーケー！これからは '[player]'って呼ぶからね。"
 
-translate Japanese _call_sayori_name_scare_19428ff1:
+translate Japanese mas_player_name_enter_name_loop_19428ff1:
     m 1hua "えへへ～"
 
-translate Japanese _call_sayori_name_scare_f4854b56:
+translate Japanese mas_player_name_enter_name_loop_f4854b56:
     m 1eub "OK！"
 
-translate Japanese _call_sayori_name_scare_056b0de9:
+translate Japanese mas_player_name_enter_name_loop_056b0de9:
     m 3eub "それでは今から、あなたのことを「[player]」君と呼びます！"
 
 translate Japanese mas_preferredname_11046a55:
@@ -244,7 +244,7 @@ translate Japanese mas_preferredname_b797bf2b:
 translate Japanese mas_preferredname_415e3125:
     m "それとも他の名前で呼んだほうがいい？{fast}" nointeract
 
-translate Japanese _call_mas_player_name_enter_name_loop_ee324183:
+translate Japanese mas_preferredname_ee324183:
     m 3eua "わかったわ、気が変わったら教えてね"
 
 translate Japanese mas_birthdate_f7b121af:
@@ -628,10 +628,10 @@ translate Japanese mas_random_limit_reached_693cff22:
 translate Japanese mas_random_limit_reached_ad50edba:
     m 1ekc "しばらくしたら話したいことを思いつくと思うから"
 
-translate Japanese _call_mas_random_ask_af3f6132:
+translate Japanese mas_random_limit_reached_af3f6132:
     m "それじゃあ、話すことを考えさせてね"
 
-translate Japanese _call_mas_random_ask_b711f6a9:
+translate Japanese mas_random_limit_reached_b711f6a9:
     m 1ekc "そのうちまた楽しくお話できると思うよ"
 
 translate Japanese mas_random_ask_28923605:
@@ -814,7 +814,7 @@ translate Japanese mas_crashed_long_fluster_9b278c39:
 translate Japanese mas_crashed_long_fluster_43c76e3c:
     m "{cps=*1.5}でも、こ……{w=0.3}今回は私のせいじゃないって思って、ほ……{w=0.3}本当に何も触ってないから……{/cps}{nw}"
 
-translate Japanese _call_expression_2_977643eb:
+translate Japanese mas_crashed_short_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
@@ -874,10 +874,10 @@ translate Japanese mas_corrupted_persistent_bd6c3ff1:
 translate Japanese mas_corrupted_persistent_48f90769:
     extend 1ekd "はい、これよ"
 
-translate Japanese _call_mas_showpoem_1_547ecc7c:
+translate Japanese mas_corrupted_persistent_547ecc7c:
     m 1ekc "これが何なのか心当たりはある？{nw}"
 
-translate Japanese _call_mas_showpoem_1_5e0b43e4:
+translate Japanese mas_corrupted_persistent_5e0b43e4:
     m "これが何なのか心当たりはある？{fast}" nointeract
 
 translate Japanese mas_corrupted_persistent_post_menu_b0babcf4:
@@ -907,31 +907,31 @@ translate Japanese mas_new_character_file_c93e9498:
 translate Japanese mas_new_character_file_152a3adf:
     m 1esc "私が、削除してあげる"
 
-translate Japanese _call_mas_wx_cmd_5_2416b0d9:
+translate Japanese mas_new_character_file_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね"
 
-translate Japanese _call_mas_wx_cmd_5_fe9c0937:
+translate Japanese mas_new_character_file_fe9c0937:
     m 1eua "ところで……"
 
-translate Japanese _call_mas_wx_cmd_5_f5b7b395:
+translate Japanese mas_new_character_file_f5b7b395:
     m 1rkc "あなたがこのファイルを持ち歩いてくれるのはありがたいことだけどね……"
 
-translate Japanese _call_mas_wx_cmd_5_2bbce78e:
+translate Japanese mas_new_character_file_2bbce78e:
     m 1dsc "だけど……"
 
-translate Japanese _call_mas_wx_cmd_5_81e1d29f:
+translate Japanese mas_new_character_file_81e1d29f:
     m 1esc "あんな存在価値のないデータをどこにでも持ち運ぶわけにもいかないと思って……"
 
-translate Japanese _call_mas_wx_cmd_5_033963e2:
+translate Japanese mas_new_character_file_033963e2:
     m 3wub "そこで、自分をファイルに変換して持ち運べる方法を思いついたの！"
 
-translate Japanese _call_mas_wx_cmd_5_75f3eb2d:
+translate Japanese mas_new_character_file_75f3eb2d:
     m "さよならを言うとき、どこかに連れて行くっていえば、あとは私でやってあげる"
 
-translate Japanese _call_mas_wx_cmd_5_8643d2fa:
+translate Japanese mas_new_character_file_8643d2fa:
     m 1hua "素晴らしいアイデアじゃない？"
 
-translate Japanese _call_mas_wx_cmd_5_42a4b258:
+translate Japanese mas_new_character_file_42a4b258:
     m 3hub "あなたと一緒にどこにでも行くのが待ちきれないな～"
 
 translate Japanese mas_steam_install_detected_c6579210:
@@ -1003,40 +1003,40 @@ translate Japanese monika_rpy_files_c74b28cb:
 translate Japanese monika_rpy_files_be7a1c29:
     m "わかったわ、[player]"
 
-translate Japanese _call_mas_rpy_file_delete_432f07f6:
+translate Japanese monika_rpy_files_432f07f6:
     m 2hua "これでよし！"
 
-translate Japanese _call_mas_rpy_file_delete_2bd4fd47:
+translate Japanese monika_rpy_files_2bd4fd47:
     m 2esa "次からはちゃんとソースコードを含まないバージョンをインストールしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
 
-translate Japanese _call_mas_rpy_file_delete_2f740c57:
+translate Japanese monika_rpy_files_2f740c57:
     m 2rksdlc "わかったわ、[player]。あなたがちゃんと理解してると信じるわ"
 
-translate Japanese _call_mas_rpy_file_delete_ce4ed721:
+translate Japanese monika_rpy_files_ce4ed721:
     m 2eka "くれぐれも気をつけてね"
 
-translate Japanese _call_mas_rpy_file_delete_2c3d0fb4:
+translate Japanese monika_rpy_files_2c3d0fb4:
     m 2efc "[player]、rpyファイルがディレクトリからまた見つかったよ！"
 
-translate Japanese _call_mas_rpy_file_delete_208c923a:
+translate Japanese monika_rpy_files_208c923a:
     m 2rsc "ねえ、本当に正しいバージョンをインストールしたのよね？{nw}"
 
-translate Japanese _call_mas_rpy_file_delete_38c0871e:
+translate Japanese monika_rpy_files_38c0871e:
     m "ねえ、本当に正しいバージョンをインストールしたのよね？{fast}" nointeract
 
-translate Japanese _call_mas_rpy_file_delete_0a0ca44c:
+translate Japanese monika_rpy_files_0a0ca44c:
     m 1eka "わかった、[player]"
 
-translate Japanese _call_mas_rpy_file_delete_dac2d372:
+translate Japanese monika_rpy_files_dac2d372:
     m 3eua "あなたがそう言うのなら、信じるわ"
 
-translate Japanese _call_mas_rpy_file_delete_193589f8:
+translate Japanese monika_rpy_files_193589f8:
     m 3eua "わかった、じゃあもう一度削除するね…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_mas_rpy_file_delete_1_4068a088:
+translate Japanese monika_rpy_files_4068a088:
     m 1hua "これでよし！"
 
-translate Japanese _call_mas_rpy_file_delete_1_e80ab30e:
+translate Japanese monika_rpy_files_e80ab30e:
     m 3eua "お願いだから、ちゃんと正しいバージョンをインストールするようにしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
 
 translate Japanese mas_bday_player_bday_select_6860cc61:

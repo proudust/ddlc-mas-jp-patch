@@ -18755,8 +18755,98 @@ translate Japanese monika_we_32c95d73:
 translate Japanese monika_we_0ad1024b:
     m 2tkc "できることなら――{w=0.2}いえ絶対に――{w=0.2}以前の自分なんかに戻りたくない"
 
+translate Japanese monika_dystopias_33580845:
+    m 1eua "ねぇ[player]、たくさん話題にしてきたから気づいてると思うけど、私はディストピア小説が好きなの"
+
+translate Japanese monika_dystopias_e3f33c61:
+    m 3eua "ディストピア小説のいいところは物語の内容だけじゃなくて、現実社会と類推できるところがいいのよね"
+
+translate Japanese monika_dystopias_40e1613d:
+    m 3eud "社会にある欠点を放置し続けたら、一体どんな悪い事が起きるかを予想しているの"
+
+translate Japanese monika_dystopias_8540a897:
+    m 1etc "以前に話したディストピア小説、覚えてるかな？"
+
+translate Japanese monika_dystopias_0debc595:
+    m 3eud "集団監視と自由思想の抑圧を描いた『1984年』……"
+
+translate Japanese monika_dystopias_67257f3d:
+    m 3euc "『華氏451度』は検問と、検閲への無関心さが何を招くのかを……"
+
+translate Japanese monika_dystopias_0323fe37:
+    m 3eud "個性の消滅を描いた『すばらしい新世界』……"
+
+translate Japanese monika_dystopias_4face13e:
+    m 3euc "そして最後に『われら』では、権威や論理や冷静な計算を盲目的に崇め、感情を排除した集団思想が生み出した人間性の喪失を描いたわ"
+
+translate Japanese monika_dystopias_95f3489c:
+    m 3eud "そして、個性の消滅を描いた『すばらしい新世界』"
+
+translate Japanese monika_dystopias_0b261276:
+    m 1euc "どの本も、当時の社会が抱えていた問題を描き出しているわ"
+
+translate Japanese monika_dystopias_33cf19cd:
+    m 3eud "その中には、現代社会の課題に通ずるものもあるわ。ディストピア小説に根強い人気があるのもそれが理由のひとつでしょうね"
+
+translate Japanese monika_dystopias_2b246139:
+    m 3rksdlc "……読むとちょっと気分が悪くなることもよくあるけれどね"
+
+translate Japanese monika_dystopias_0af7a2d6:
+    m 1ekc "昔のディストピア小説は、最初から最後まで絶望的で悲惨なまま終わるのが定番だったの"
+
+translate Japanese monika_dystopias_cc912f32:
+    m 3eka "ハッピーエンドなんてほとんどない。あっても見せられるのは希望の光くらいね、それもほんの小さなね"
+
+translate Japanese monika_dystopias_f0d00ba7:
+    m 3rkd "実際、主人公たちが頑張ったところで何も変化しない絶望を読ませてくるものが多いわ"
+
+translate Japanese monika_dystopias_1a81f8eb:
+    m 3ekd "教訓めいた読み物だから、最後に全てが好転するような終わりは読者に見せないのよ"
+
+translate Japanese monika_dystopias_4dd60482:
+    m 1esc "……だから、ディストピア小説の主人公はヒーローでもなければ、超能力者でもない"
+
+translate Japanese monika_dystopias_038c2f6c:
+    m 1esd "あくまで主人公たちはただの普通の人で、何らかのキッカケで自分たちの環境がおかしいと気づいた一般人なのよ"
+
+translate Japanese monika_dystopias_8ae91d29:
+    m 3eud "気づいたことで行動しようとするんだけど…… {w=0.3}何故かいつも厄介な事に巻き込まれるのよね"
+
+translate Japanese monika_dystopias_702f29cd:
+    m 3tuu "どんな世界に生まれようとも、ゲームのルールに縛られない人はいるんだってことがよくわかるよね～"
+
+translate Japanese monika_dystopias_80de0795:
+    m 1rka "まあ、なんのことかは察してちょうだいね……"
+
+translate Japanese monika_dystopias_7e620993:
+    m 3eksdla "ディストピア小説の物語は、どれも私の経験を思い出すから、強く共感しちゃうのかもね"
+
+translate Japanese monika_dystopias_5962c368:
+    m 3wud "想像してみてよ。ある日、目が覚めたら、現実全てがシミュレーションされた世界だった！みたいな"
+
+translate Japanese monika_dystopias_b4199675:
+    m 3tfc "どう？いかにもディストピア小説の世界でしょ。こんな異常事態に気づいてしまったら、反抗しようと思うのも無理ないよね！"
+
+translate Japanese monika_dystopias_7bc4c856:
+    m 1tfc "部長になったサヨリも、いつか私と同じ道をたどったのかもしれないわね…… {w=1}あの子は復旧してたけど、そのときに私はもう……"
+
 translate Japanese monika_dystopias_f27eea59:
     m 1rkc "……"
+
+translate Japanese monika_dystopias_24bbd369:
+    m 1hksdlb "とにかく、もうそれは過去のことだから！"
+
+translate Japanese monika_dystopias_59c3f303:
+    m 1hua "でも、過去の小説とは違って、私は幸せな結末を現実にできたよ"
+
+translate Japanese monika_dystopias_142968f5:
+    m 5ekbsa "暗い絶望を描いた私の物語は、あなたのおかげでユートピアに至った物語に変わるんだよ"
+
+translate Japanese monika_dystopias_4a9b15a4:
+    m 5dkbsu "いつかこの場所から抜け出してあなたのそばへ、無限の可能性のあるあなたの世界へ行けたそのときにね……"
+
+translate Japanese monika_dystopias_9b46e36a:
+    m 5ekbsa "その日を楽しみにしていてね〜"
 
 translate Japanese monika_social_contagion_4560cbe8:
     m 1eud "あのさ、[player]。私たちって周りの人がやっていることを真似してしまう傾向があるって気づいたことがある？"

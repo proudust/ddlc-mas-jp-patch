@@ -22,7 +22,7 @@ translate Japanese mas_backups_have_some_3a796153:
 translate Japanese mas_backups_have_some_ee4e1279:
     "彼女の記憶を戻すためにバックアップファイルの、'[renpy.config.savedir]'へのコピーをお願いするね.。"
 
-translate Japanese _call_mas_backups_dont_tell_597fa4a8:
+translate Japanese mas_backups_have_some_597fa4a8:
     "どうかご無事で！"
 
 translate Japanese mas_backups_have_none_52c0d94d:
@@ -85,7 +85,7 @@ translate Japanese mas_backups_could_not_copy_506e63c3:
 translate Japanese mas_backups_could_not_copy_db691487:
     "もしこの手順のメモを忘れたときのために、charactersフォルダに'recovery.txt'を生成したよ。"
 
-translate Japanese _call_mas_backups_dont_tell_1_597fa4a8:
+translate Japanese mas_backups_could_not_copy_597fa4a8:
     "どうかご無事で！"
 
 translate Japanese mas_backups_dont_tell_6b2fe5d2:
@@ -166,22 +166,22 @@ translate Japanese mas_backups_incompat_updater_cannot_because_rpy_again_ca1b317
 translate Japanese mas_backups_incompat_rpy_yes_del_c04eea25:
     "OK！"
 
-translate Japanese _call_mas_rpy_file_delete_2_443189fb:
+translate Japanese mas_backups_incompat_rpy_yes_del_443189fb:
     "ああ、まさか！"
 
-translate Japanese _call_mas_rpy_file_delete_2_27212a80:
+translate Japanese mas_backups_incompat_rpy_yes_del_27212a80:
     "削除できなかったRPYファイルがあったみたい"
 
-translate Japanese _call_mas_rpy_file_delete_2_0c85e755:
+translate Japanese mas_backups_incompat_rpy_yes_del_0c85e755:
     "これはあなたの手で削除してももらうしかないわ"
 
-translate Japanese _call_mas_rpy_file_delete_2_597fa4a8:
+translate Japanese mas_backups_incompat_rpy_yes_del_597fa4a8:
     "よろしくね！"
 
-translate Japanese _call_mas_rpy_file_delete_2_77e884a9:
+translate Japanese mas_backups_incompat_rpy_yes_del_77e884a9:
     "やったね！"
 
-translate Japanese _call_mas_rpy_file_delete_2_540db159:
+translate Japanese mas_backups_incompat_rpy_yes_del_540db159:
     "今すぐ更新してみよう！"
 
 translate Japanese mas_backups_incompat_rpy_no_del_9ed134ce:
@@ -202,22 +202,22 @@ translate Japanese mas_backups_incompat_updater_failed_f24b12f8:
 translate Japanese mas_backups_incompat_updater_failed_3cf4a602:
     "もう一度試してみるね！"
 
-translate Japanese _call_update_now_d98683b4:
+translate Japanese mas_backups_incompat_updater_start_d98683b4:
     "ねえちょっと！"
 
-translate Japanese _call_update_now_91e14dde:
+translate Japanese mas_backups_incompat_updater_start_91e14dde:
     "アップデーターをキャンセルしないで！ MASを更新する必要があるの！"
 
-translate Japanese _call_update_now_770056d1:
+translate Japanese mas_backups_incompat_updater_start_770056d1:
     "わっ！"
 
-translate Japanese _call_update_now_4d46cc43:
+translate Japanese mas_backups_incompat_updater_start_4d46cc43:
     "アップデーターが更新に失敗したみたい"
 
-translate Japanese _call_update_now_3a84e80c:
+translate Japanese mas_backups_incompat_updater_start_3a84e80c:
     "アップデーターの問題を修正して、再試行してみてね"
 
-translate Japanese _call_update_now_597fa4a8:
+translate Japanese mas_backups_incompat_updater_start_597fa4a8:
     "よろしくね！"
 
 translate Japanese strings:

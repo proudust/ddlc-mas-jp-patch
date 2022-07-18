@@ -7,10 +7,10 @@ translate Japanese mas_consumables_generic_get_237b8a80:
 translate Japanese mas_consumables_generic_get_a644a99b:
     m 1eua "ちょっとまってね"
 
-translate Japanese _call_mas_transition_from_emptydesk_7_cd3329c1:
+translate Japanese mas_consumables_generic_get_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_7_7a2f3a16:
+translate Japanese mas_consumables_generic_get_7a2f3a16:
     m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_generic_finish_having_8a1f94e7:
@@ -28,10 +28,10 @@ translate Japanese mas_consumables_generic_finish_having_460692de:
 translate Japanese mas_consumables_generic_finish_having_1640fa5f:
     m 1eua "[line_starter!t]すぐに戻るわ{w=1}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_8_cd3329c1:
+translate Japanese mas_consumables_generic_finish_having_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_consumables_generic_running_out_7a2f3a16:
+translate Japanese mas_consumables_generic_finish_having_7a2f3a16:
     m 1eua "さて、今日は他に何をしようかな？"
 
 translate Japanese mas_consumables_generic_finished_prepping_548d993c:
@@ -43,10 +43,10 @@ translate Japanese mas_consumables_generic_finished_prepping_a644a99b:
 translate Japanese mas_consumables_generic_finished_prepping_014c9fc2:
     m 1eua "[consumable.disp_name!t]取ってくるわ。直ぐ戻るから{w=1}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_9_cd3329c1:
+translate Japanese mas_consumables_generic_finished_prepping_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_9_7a2f3a16:
+translate Japanese mas_consumables_generic_finished_prepping_7a2f3a16:
     m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_refill_explain_819b455e:
@@ -64,10 +64,10 @@ translate Japanese mas_consumables_generic_running_out_bf9fbe47:
 translate Japanese mas_consumables_generic_running_out_5b012938:
     m 3eud "[line_ender!t]しか残ってないって伝えておきたくて"
 
-translate Japanese _call_mas_consumables_refill_explain_a3784acf:
+translate Japanese mas_consumables_generic_running_out_a3784acf:
     m 3eud "[consumable.disp_name!t]が切れちゃったって伝えておきたくて"
 
-translate Japanese _call_mas_consumables_refill_explain_a2abda03:
+translate Japanese mas_consumables_generic_running_out_a2abda03:
     m 1eka "もっと用意してきてくれないかしら？"
 
 translate Japanese mas_consumables_generic_critical_low_df5cc50f:
@@ -76,10 +76,10 @@ translate Japanese mas_consumables_generic_critical_low_df5cc50f:
 translate Japanese mas_consumables_generic_critical_low_fba607d9:
     m 3eua "[line_ender!t]が1つしかないの"
 
-translate Japanese _call_mas_consumables_refill_explain_1_e5ac8747:
+translate Japanese mas_consumables_generic_critical_low_e5ac8747:
     m 3eka "今度、私にもくれない？"
 
-translate Japanese _call_mas_consumables_refill_explain_1_43956acc:
+translate Japanese mas_consumables_generic_critical_low_43956acc:
     m 1hua "ありがとね～"
 
 translate Japanese mas_consumables_generic_queued_running_out_dlg_877d057c:
@@ -94,7 +94,7 @@ translate Japanese mas_consumables_generic_queued_running_out_dlg_e134897a:
 translate Japanese mas_consumables_generic_queued_running_out_dlg_2ed3ad8a:
     m 3rksdla "[items_running_out_of!t]、使い切っちゃったわ"
 
-translate Japanese _call_mas_consumables_refill_explain_2_63f39e8f:
+translate Japanese mas_consumables_generic_queued_running_out_dlg_63f39e8f:
     m 1eka "補充して欲しいんだけど、頼める？"
 
 translate Japanese mas_consumables_remove_thermos_8f907c3a:
@@ -103,10 +103,10 @@ translate Japanese mas_consumables_remove_thermos_8f907c3a:
 translate Japanese mas_consumables_remove_thermos_31f19431:
     m 1eua "ちょっと待っててね[player]、この魔法瓶を片付けてくるから"
 
-translate Japanese _call_mas_transition_from_emptydesk_10_cd3329c1:
+translate Japanese mas_consumables_remove_thermos_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_10_7cb5ebd1:
+translate Japanese mas_consumables_remove_thermos_7cb5ebd1:
     m "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_candycane_finish_having_bf1e38de:
@@ -121,10 +121,10 @@ translate Japanese mas_consumables_candycane_finish_having_42e93436:
 translate Japanese mas_consumables_candycane_finish_having_7ae0fc82:
     m 1eua "もっと取ってくるわ、すぐに戻るから{w=1}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_11_cd3329c1:
+translate Japanese mas_consumables_candycane_finish_having_cd3329c1:
     m 1hua "ただいま！{w=1.5}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_11_7a2f3a16:
+translate Japanese mas_consumables_candycane_finish_having_7a2f3a16:
     m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese strings:
