@@ -124,6 +124,18 @@ translate Japanese mas_reaction_gift_generic_134f9195:
 translate Japanese mas_reaction_gifts_generic_2d07d4c5:
     m 1esd "ごめんなさい、[player]……"
 
+translate Japanese mas_reaction_gifts_generic_656213ec:
+    m 3rksdla "贈ろうとしてくれたものがあるのはわかったんだけど、うまく読み込めなかったみたいなの"
+
+translate Japanese mas_reaction_gifts_generic_08dc0ce1:
+    m 3eub "だけど、大丈夫だからね！"
+
+translate Japanese mas_reaction_gifts_generic_f35f0a51:
+    m 1eka "結局のところ、いちばん大事なのは贈り物をしたいって想ってくれてる気持ちだからね～"
+
+translate Japanese mas_reaction_gifts_generic_8a256633:
+    m 1hub "私のことを想ってくれて本当にありがとう、[player]！"
+
 translate Japanese _call_mas_reaction_gift_generic_clothes_json_62ff1b67:
     m "も〜、[player]君ったら！"
 

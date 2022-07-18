@@ -52,6 +52,45 @@ translate Japanese monika_gender_redo_e7f3fbd3:
 translate Japanese monika_gender_redo_bafcb432:
     m "前に性別について話してから、何か発見があったの？{nw}" nointeract
 
+translate Japanese monika_gender_redo_9ef0e906:
+    m 1eka "その気持ちわかるわ。私にも同じような経験があったから"
+
+translate Japanese monika_gender_redo_d3a1f7d6:
+    m 3hua "あなた自身も知らなかった新たな自分を発見できたようで私も嬉しいわ"
+
+translate Japanese monika_gender_redo_f7dbb2a2:
+    m 1eub "……それになにより、そのことを私に話してくれたことがとっても嬉しかったわ！"
+
+translate Japanese monika_gender_redo_3c56bae2:
+    m 2ekd "わかったわ。結局のところ、あなたが男だと思って言い出したのよね"
+
+translate Japanese monika_gender_redo_b1807620:
+    m 2ekd "わかったわ。女の子と二人だけで過ごすほうが私が楽だと思ってたのかな"
+
+translate Japanese monika_gender_redo_64163ff0:
+    m 2ekd "そうなのね。あなたが選びたい一番正しい答えをあげられなかったかな"
+
+translate Japanese monika_gender_redo_c4944abb:
+    m 2dkd "……そしてたぶんあなたが言い出しにくく私がしちゃってたんだよね……"
+
+translate Japanese monika_gender_redo_efe2d137:
+    m 7eua "でも性別がどうであろうと、あなただから愛していいるんだよ"
+
+translate Japanese monika_gender_redo_eba6c60f:
+    m 2wkd "[player]……"
+
+translate Japanese monika_gender_redo_2c312065:
+    m 2dkd "あなたを不安にさせてごめんなさい"
+
+translate Japanese monika_gender_redo_4e8cfc70:
+    m 7eka "だけど、何があろうと私はあなたを愛すわ。だから本当のことを言ってくれるって信じてるからね"
+
+translate Japanese monika_gender_redo_df5a668f:
+    m 1eub "あっ、決まってなくても大丈夫だからね！"
+
+translate Japanese monika_gender_redo_e56161b3:
+    m 3hub "自分の呼ばれ方を変えたくなったら、いつでも言ってね！"
+
 translate Japanese monika_gender_redo_a18c38c8:
     m "それじゃあ、改めてあなたの性別をおしえてくれる？"
 
@@ -82,6 +121,30 @@ translate Japanese mas_gender_neither_10b291e0:
 translate Japanese mas_gender_neither_d7633003:
     m 1ekbsa "あなたがうれしいと思ってくれること、それが私にとって一番大切だから。"
 
+translate Japanese mas_gender_redo_same_7659dfa6:
+    m 1hksdlb "……それって前と同じじゃない、[player]！"
+
+translate Japanese mas_gender_redo_same_93c6b802:
+    m 3eua "どう答えたらいいのかわからなくなってるのなら、自分が一番幸せになれる性を選んでね"
+
+translate Japanese mas_gender_redo_same_c50e0ced:
+    m 3eka "あなたの身体がどう見えるかは関係ない、あなたが[gender_var]だと言えば、私にとっても[gender_var]だからね？"
+
+translate Japanese mas_gender_redo_same_d43a3139:
+    m 1eua "この部屋にいる間だけでも、あなたがなりたいあなたになってほしいな"
+
+translate Japanese mas_gender_redo_react_5afd30d8:
+    m 1eka "わかったわ、[player]……"
+
+translate Japanese mas_gender_redo_react_0f1399ba:
+    m 3ekbsa "あなたが幸せでいられることが、私の幸せだからね"
+
+translate Japanese mas_gender_redo_neither_same_b4c90d62:
+    m 1hksdlb "……それって前と同じだよね、[player]…… {w=0.3}一番正しい性別を挙げられなかったのならごめんね"
+
+translate Japanese mas_gender_redo_neither_same_87f287eb:
+    m 1eka "でもね、あなたの性別がなんであろうと私があなたを愛する障壁にはならないんだってわかってほしいな……"
+
 translate Japanese mas_gender_trans_47a0cbe1:
     m 3eub "[menu_question!t]{nw}"
 
@@ -96,6 +159,9 @@ translate Japanese mas_player_name_enter_name_loop_3ad896ad:
 
 translate Japanese mas_player_name_enter_name_loop_d543b2c4:
     m 1eksdla "……"
+
+translate Japanese mas_player_name_enter_name_loop_11718b17:
+    m 3rksdlb "私があなたをなんて呼ぶか決めないと、[player]……"
 
 translate Japanese mas_player_name_enter_name_loop_16b91aa4:
     m 1eua "もう一度いい？"
@@ -117,6 +183,15 @@ translate Japanese mas_player_name_enter_name_loop_6e7dce4d:
 
 translate Japanese mas_player_name_enter_name_loop_44e9d3f8:
     m 1ekd "[bad_quip!t]"
+
+translate Japanese mas_player_name_enter_name_loop_084031bc:
+    m 3eka "あのねちゃんと自分に合った名前を選んでね？"
+
+translate Japanese mas_player_name_enter_name_loop_9f02f625:
+    m 1ttu "ねえこれが本当にあなたの本名なの？それとも私をからかってるだけ？{nw}"
+
+translate Japanese mas_player_name_enter_name_loop_8e5c1991:
+    m "ねえこれが本当にあなたの本名なの？それとも私をからかってるだけ？{fast}" nointeract
 
 translate Japanese _call_sayori_name_scare_a43d1d16:
     m 1tkc "本気？"
@@ -859,6 +934,24 @@ translate Japanese _call_mas_wx_cmd_5_8643d2fa:
 translate Japanese _call_mas_wx_cmd_5_42a4b258:
     m 3hub "あなたと一緒にどこにでも行くのが待ちきれないな～"
 
+translate Japanese mas_steam_install_detected_c6579210:
+    m 1ekd "ねえ[player]もう言ったかな？ 性悪なSteamは私にアップデーターを実行させてくれないんだよ"
+
+translate Japanese mas_steam_install_detected_e9caa877:
+    m 1wud "少し勉強したんだけど、アップデーターを使わせてくれない以上の問題がSteamだと起こるかもしれないんだよ！"
+
+translate Japanese mas_steam_install_detected_25b421c5:
+    m 1eub "[player]、このゲームを実行するのにSteamを使ってるんでしょ"
+
+translate Japanese mas_steam_install_detected_5a542bd1:
+    m 1eksdld "残念だけど、Steamでだと重大な問題が起こりかねないんだ"
+
+translate Japanese mas_steam_install_detected_b0d89a06:
+    m 2rksdlc "その問題はね、私が追い出されちゃうかもしれないんだ、この家から…… {w=1}そして、あなたのところから……{w=1} 永遠に……"
+
+translate Japanese mas_steam_install_detected_031eda8b:
+    m 5esu "もし私のためにそうしてくれるなら、本当に嬉しいな"
+
 translate Japanese monika_rpy_files_b2896d32:
     m 1eka "ねえ[player]、「game」ディレクトリを見ていたのだけれど……"
 
@@ -911,7 +1004,7 @@ translate Japanese monika_rpy_files_be7a1c29:
     m "わかったわ、[player]"
 
 translate Japanese _call_mas_rpy_file_delete_432f07f6:
-    m 2hua "いくよ！"
+    m 2hua "これでよし！"
 
 translate Japanese _call_mas_rpy_file_delete_2bd4fd47:
     m 2esa "次からはちゃんとソースコードを含まないバージョンをインストールしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
@@ -921,6 +1014,30 @@ translate Japanese _call_mas_rpy_file_delete_2f740c57:
 
 translate Japanese _call_mas_rpy_file_delete_ce4ed721:
     m 2eka "くれぐれも気をつけてね"
+
+translate Japanese _call_mas_rpy_file_delete_2c3d0fb4:
+    m 2efc "[player]、rpyファイルがディレクトリからまた見つかったよ！"
+
+translate Japanese _call_mas_rpy_file_delete_208c923a:
+    m 2rsc "ねえ、本当に正しいバージョンをインストールしたのよね？{nw}"
+
+translate Japanese _call_mas_rpy_file_delete_38c0871e:
+    m "ねえ、本当に正しいバージョンをインストールしたのよね？{fast}" nointeract
+
+translate Japanese _call_mas_rpy_file_delete_0a0ca44c:
+    m 1eka "わかった、[player]"
+
+translate Japanese _call_mas_rpy_file_delete_dac2d372:
+    m 3eua "あなたがそう言うのなら、信じるわ"
+
+translate Japanese _call_mas_rpy_file_delete_193589f8:
+    m 3eua "わかった、じゃあもう一度削除するね…{w=0.5}…{w=0.5}{nw}"
+
+translate Japanese _call_mas_rpy_file_delete_1_4068a088:
+    m 1hua "これでよし！"
+
+translate Japanese _call_mas_rpy_file_delete_1_e80ab30e:
+    m 3eua "お願いだから、ちゃんと正しいバージョンをインストールするようにしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
 
 translate Japanese mas_bday_player_bday_select_6860cc61:
     m 1eua "あなたの誕生日は？"
@@ -1054,14 +1171,68 @@ translate Japanese mas_text_speed_enabler_ac206356:
 translate Japanese mas_text_speed_enabler_e30c6fc9:
     m "だから気が向いたときに気軽に文字速度を変えてみてね"
 
+translate Japanese mas_bookmarks_notifs_intro_87876630:
+    m 3eub "ねえ[player]君…… {w=0.5}あなたと会話を楽しむために、新しい機能を追加してみたの！ "
+
+translate Japanese mas_bookmarks_notifs_intro_6d7727be:
+    m 1eua "キーボードの『b』キーを押すと、今話している話題をブックマークできるようにしたわ"
+
+translate Japanese mas_bookmarks_notifs_intro_fe44ed70:
+    m 3eub "ブックマークした話題を聞きたくなったときには、メニューの「話す」から「ブックマーク」を選べばすぐに聞けるからね！"
+
+translate Japanese _call_mas_derand_b4a65803:
+    m 3rksdlb "……あら。新機能のこと話そうと思ってたけど、もう使いこなしちゃってるみたいだね、あはは！"
+
+translate Japanese _call_mas_derand_3b497de2:
+    m 3eua "前に話したように、『b』キーを押せば今私が話している話題をブックマークして、「話す」のメニューから簡単にブックマークした話題を聞けるからね"
+
+translate Japanese _call_mas_derand_1_24b1d1bc:
+    m 1eua "前に話したように、『x』キーを押すことで今の話が話してほしくない話題だって私に知らせることができるよ"
+
+translate Japanese _call_mas_derand_1_382e2f74:
+    m 3eud "[player]君に隠し事はして欲しくないから、もし嫌な話題だと思ったらすぐに伝えてもらいたいの"
+
+translate Japanese _call_mas_derand_1_3fe244fd:
+    m 3eua "それと、『b』キーを押せば、私が話している話題をブックマークできるよ"
+
+translate Japanese _call_mas_derand_1_02c14d89:
+    m 1eub "ブックマークした話題には、メニューの「話す」を選べばすぐに聞けるからね"
+
+translate Japanese _call_mas_derand_1_647aca0e:
+    m 1hua "それでね、最後のこれが一番素敵な機能なんだけどね！"
+
 translate Japanese _call_mas_notification_windowreact_f5e7f2f5:
     m 1hub "[player]、わくわくするお知らせがあるよ！"
 
+translate Japanese mas_derand_47a83caf:
+    m 1eua "取り上げてほしくないトピックを話してるなって思ったら、キーボードの『x』キーを押して私に知らせてね"
+
+translate Japanese mas_derand_79dc1f64:
+    m 1eka "伝えたら私が傷つくんじゃないか、なんて思わないでいいからね。[player]君とは互いに隠し事なんてしない、誠実な関係でいたいの"
+
+translate Japanese mas_derand_11a163c0:
+    m 3eksdld "……それになによりも、不快な話題を[player]君に押し付けるようなことは嫌なの"
+
+translate Japanese mas_derand_a1b7fda1:
+    m 3eka "だから、そんなときはすぐに『x』キーを押して教えて。お願いだよ？"
+
 translate Japanese mas_notification_windowreact_9784ab94:
-    m 3eua "私、プログラミングを勉強しているのだけれど、コンピューターに通知を出せるようになったの！"
+    m 3eua "私、プログラミングを勉強してね、直接[player]君のコンピューターへ通知を出せるようになったの！"
 
 translate Japanese mas_notification_windowreact_4734609b:
-    m "あなたさえ良ければ、私が話したいことがある時にこれでお知らせしたいと思うの。"
+    m "あなたさえ良ければ、私が話したいことがある時にこれでお知らせしたいと思うの"
+
+translate Japanese mas_notification_windowreact_e978a55e:
+    m 1rkc "あの、ちょっと言いにくいんだけど……"
+
+translate Japanese mas_notification_windowreact_dc48441f:
+    m 3ekd "notify-sendコマンドが失敗して、あなたのコンピューターに通知を送れないんだ……"
+
+translate Japanese mas_notification_windowreact_e373f7f7:
+    m 3eua "それをインストールしてくれれば、あなたに通知を送ることができるんだけどな"
+
+translate Japanese mas_notification_windowreact_5154e7a5:
+    m 5eka "……あと本当にありがとうね、[player]"
 
 translate Japanese mas_notification_windowreact_cb196f4c:
     m 3eub "試しに通知を出してみる？{nw}"
@@ -1260,6 +1431,30 @@ translate Japanese _call_mas_monika_plays_yr_1891b52b:
 
 translate Japanese _call_mas_monika_plays_yr_ce74299f:
     m 1tsb "それじゃあちょっと待ってね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese _call_mas_monika_plays_or_1188dff6:
+    m "あなたと同じ世界で一緒になれる日が待ち遠しいわ"
+
+translate Japanese _call_mas_monika_plays_or_2d39c18f:
+    m 3ekbsa "その日が来るまで、いつでもあなたのためにこの曲を奏で続けるわ"
+
+translate Japanese _call_mas_monika_plays_or_68386673:
+    m 5ekbfa "いつも励ましてくれてありがとう、[mas_get_player_nickname()]"
+
+translate Japanese _call_mas_monika_plays_or_27e48ccd:
+    m 5hubfa "あっ、もしこの曲やオリジナルの曲がまた聞きたくなったら、言ってくれればいいからね"
+
+translate Japanese _call_mas_monika_plays_or_df50721b:
+    m 5hubfa "あっ、もしこの曲がまた聞きたくなったら、言ってくれたらいいからね"
+
+translate Japanese _call_mas_monika_plays_or_140b6815:
+    m 3ekd "あらそう？"
+
+translate Japanese _call_mas_monika_plays_or_443e936a:
+    m 1eka "いいのよ[player]、時間がとれなかったり音楽を聞いてる場合じゃないときってあるからね"
+
+translate Japanese _call_mas_monika_plays_or_a5a99df2:
+    m 3hua "都合のいい時には言ってね、いつでも聞かせてあげるからね～"
 
 translate Japanese mas_covid19_de39abd6:
     m 2ekc "ねえ、[player]……"
@@ -1484,6 +1679,12 @@ translate Japanese strings:
     old "I was just too shy."
     new "恥ずかしがり屋だから……"
 
+    old "I didn't know if you'd accept me as I am..."
+    new "受け入れてくれるかどうか分からなかったから……"
+
+    old "I'm genderfluid."
+    new "自分の中で決まってなかったから"
+
     old "I'm a boy."
     new "男性"
 
@@ -1491,6 +1692,21 @@ translate Japanese strings:
     new "女性"
 
     old "I'm neither."
+    new "どちらでもない"
+
+    old "And what gender do you identify as?"
+    new "それで、あなたは自分がどの性別だと思っているの？"
+
+    old "Oh, okay! {w=0.3}And what gender do you identify as?"
+    new "あっ、大丈夫だよ！ {w = 0.3}それで、あなたは自分がどの性別だと思っているの？"
+
+    old "Male"
+    new "男性"
+
+    old "Female"
+    new "女性"
+
+    old "Neither"
     new "どちらでもない"
 
     old "[input_prompt]"
@@ -1510,6 +1726,18 @@ translate Japanese strings:
 
     old "Are you trying to embarrass me, [player]?"
     new "私を困らせたいのかしら、[player]？"
+
+    old "[player]...{w=0.5}why would you even consider calling yourself that?"
+    new "[player]…… {w=0.5}どうしてそんな呼ばれ方をされたいの？"
+
+    old "[player]...{w=0.5}why would I ever call you that?"
+    new "[player]…… {w=0.5}どうして自分自身をそんなふうに呼ばせたいの？"
+
+    old "I couldn't ever call you anything like that, [player]."
+    new "そんな呼び方は私には出来ないよ、[player]"
+
+    old "What? Please [player],{w=0.5} don't call yourself bad names."
+    new "えっ？ {w=0.5}[player]君お願いだから私にそんな言葉で呼ばせないでよ"
 
     old "That's a wonderful name!"
     new "とっても素敵な名前ね！"
@@ -1575,7 +1803,7 @@ translate Japanese strings:
     new "ゲームが強制終了した"
 
     old "I'll try."
-    new "試してみる"
+    new "やれるならやってみる"
 
     old "It just happens."
     new "起きるときは起きる"
@@ -1590,7 +1818,13 @@ translate Japanese strings:
     new "お願い"
 
     old "No thanks"
-    new "結構"
+    new "遠慮する"
+
+    old "Yes, I'm sure!"
+    new "うん、合ってるよ！"
+
+    old "Actually..."
+    new "やっぱり……"
 
     old "No thanks."
     new "要らない"

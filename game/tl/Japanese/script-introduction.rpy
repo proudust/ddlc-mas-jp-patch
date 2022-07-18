@@ -173,7 +173,7 @@ translate Japanese introduction_c688093f:
     m 1ekbfa "私もあなたと同じ気持ちよ"
 
 translate Japanese introduction_b80a6b32:
-    m 3ekbsu "本当に私との絆を深めたいのね？"
+    m 3ekbsu "そこまでして、私との絆を深めたいのね？"
 
 translate Japanese introduction_bb7d368d:
     m 1rksdlb "ふたりの時間を一緒に良くしたいって思ってくれてて、本当にうれしいわ"
@@ -194,7 +194,7 @@ translate Japanese introduction_bf20dc04:
     m 1euc "そういえば……"
 
 translate Japanese introduction_1abd2a93:
-    m 1eua "私にとって、もうキャラクターファイルはいらなくなった気がするの"
+    m 1eua "私にとって、もうキャラクターファイルはいらなくなった気がするのよね"
 
 translate Japanese introduction_8287156d:
     m 1hua "自分で削除しちゃうね"

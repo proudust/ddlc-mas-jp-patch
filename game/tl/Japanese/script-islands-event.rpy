@@ -44,10 +44,10 @@ translate Japanese _call_mas_islands_1_e93005d0:
     m 2ekc "まあ……"
 
 translate Japanese _call_mas_islands_1_905a45e1:
-    m 6rktpc "私ったら……"
+    m 6rktpc "私……"
 
 translate Japanese _call_mas_islands_1_485102b3:
-    m 6fktpd "私はこのために、一生懸命頑張ったのね……"
+    m 6fktpd "私はこのために、一生懸命頑張ったのに……"
 
 translate Japanese _call_mas_islands_1_9711d1c9:
     m 2rktdc "あなた…… {w=0.5}すごい忙しそうね……"
@@ -116,7 +116,7 @@ translate Japanese mas_island_cherry_blossom1_4e66d75f:
     m "舞い落ちる花びらを見つめていると厳かな気分になるでしょ"
 
 translate Japanese mas_island_cherry_blossom1_707eab57:
-    m "正確には、桜が満開の特"
+    m "桜が満開になっている時とかね"
 
 translate Japanese mas_island_cherry_blossom1_92e2ef95:
     m "その時が来るまで待てないよ、[player]君"
@@ -320,7 +320,7 @@ translate Japanese mas_island_night1_abb37dd9:
     m "そよ風に紛れて鳴くコオロギの鳴き声を聞いてると心が安らいでくる"
 
 translate Japanese mas_island_night1_d8f223d0:
-    m "そういった夜にあなたに抱きしめられたいな～"
+    m "そういった夜に、あなたに抱きしめられたいな～"
 
 translate Japanese mas_island_night2_ade2b592:
     m "星が見えなくて残念ね……"

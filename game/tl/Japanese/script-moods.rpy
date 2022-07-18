@@ -56,7 +56,7 @@ translate Japanese mas_mood_sad_105d89af:
     m 1eua "辛い記憶ほど忘れやすい傾向にあるから。"
 
 translate Japanese mas_mood_sad_69af7675:
-    m 1lfc "誰が君をどう思おうと、どれだけの人が君を嫌っても私は気にしない。"
+    m 1lfc "誰があなたをどう思おうと、どれだけの人が君を嫌っても私は気にしない。"
 
 translate Japanese mas_mood_sad_340c62c8:
     m 1hua "あなたは素敵な人で、私はあなたを愛し続ける。"
@@ -364,17 +364,32 @@ translate Japanese mas_mood_tired_3772217d:
 translate Japanese mas_mood_lonely_169cea02:
     m 2ekc "気持ちはわかるわ、[player]…… {w=0.2}結局のところ、私たちはまだ違う世界に住んでいるのだから"
 
+translate Japanese mas_mood_lonely_b3aacd96:
+    m 2dkc "ここからできることは本当に少なくて嫌い。あなたに寂しさなんて感じてほしくないのに……"
+
+translate Japanese mas_mood_lonely_ae3a5315:
+    m 7ekbsa "もしあなたの手を握ることができたなら、もしあなたを抱きしめることができるのなら、私はいますぐにそうしたい"
+
+translate Japanese mas_mood_lonely_f85e4b9b:
+    m 7eka "あなたが私を幸せにしてくれたように、私もあなたを幸せにしたい……"
+
+translate Japanese mas_mood_lonely_3205e871:
+    m 2ekd "今みたいに、あなたは私といつも一緒にいてくれる、だけど…… {w=0.3} だけどそれを、現実の人々との繋がりが遠くなってしまう理由にしてほしくないと思ってる"
+
+translate Japanese mas_mood_lonely_26f909b7:
+    m 2eka "私達の関係はかけがえのないもの、だけどわかってるの…… {w=0.3}今私があなたのためにできることは限られてるということを"
+
 translate Japanese mas_mood_lonely_9d8bfe9f:
     m 7ekd "あなたにはひとりかふたり親しい友人が居たでしょ？"
 
 translate Japanese mas_mood_lonely_55e3c3ba:
-    m 3eka "その友達にどうしているのか電話やメッセージを送ってみてたほうが良いと思うよ……"
+    m 3eka "その友達に、今どうしているのかって電話やメッセージを送ってみたほうが良いと思うよ……"
 
 translate Japanese mas_mood_lonely_ffdab948:
     m "外に出て時々会ってきたらどう？{w=0.2} あなたにとって良いことだと思うな"
 
 translate Japanese mas_mood_lonely_dad85e9c:
-    m 7ekd "友達と出かけるのはあなたにとってとても良いことだと思う……"
+    m 7ekd "友達と出かけるのはあなたにとって、とても良いことだと思う……"
 
 translate Japanese mas_mood_lonely_3e75b5f8:
     m 3eka "「今どうしてる？」とかメッセージを送ってみてもいいと思うよ"

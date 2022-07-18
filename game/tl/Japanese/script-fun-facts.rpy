@@ -404,7 +404,7 @@ translate Japanese mas_fun_fact_density_bb93d935:
     m 1tku "地球が一番密度が高くなってるのはとある主人公のせいだと思っているの。"
 
 translate Japanese mas_fun_fact_density_6f11581a:
-    m 1tfu "でーもー、私から言えるのはここまでよ～"
+    m 1tfu "でーもね、私から言えるのはここまでよ～"
 
 translate Japanese mas_fun_fact_binky_8afd4e3d:
     m 3hub "あ！この話はかわいくて良さそう！"
@@ -677,7 +677,7 @@ translate Japanese mas_fun_fact_antarctica_brain_4dd8a2a7:
     m 3euc "どうやら記憶力と空間的思考力が低下するみたいなのよね"
 
 translate Japanese mas_fun_fact_antarctica_brain_78e9ca85:
-    m 1ekc "ある研究調査によれば、社会的に孤立することや生活が単調になること、そし四季の変化がない南極の自然環境が原因のようね"
+    m 1ekc "ある研究調査によれば、社会的に孤立することや生活が単調になること、そして四季の変化がない南極の自然環境が原因のようね"
 
 translate Japanese mas_fun_fact_antarctica_brain_f5101612:
     m 1eud "この話って私達にとってひとつの教訓になると思うの"

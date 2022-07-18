@@ -689,16 +689,16 @@ translate Japanese monika_twitter_acd1cab6:
     m 2euc "というか、そこに書かれているツイートをあなたが読んだことがあるかは知らないけど、{w=0.1}私とは本当に関係がないの"
 
 translate Japanese monika_twitter_ed801e52:
-    m 4eud "記憶にない出来事も描かれてて……{w=0.2}例えば、ユリとお泊りしたらしいこととか"
+    m 4eud "私も覚えていない出来事も描かれてて……{w=0.2}例えば、ユリとお泊りしたらしいこととか"
 
 translate Japanese monika_twitter_0424802e:
-    m 4esd "それに、ゲームの中で起こったことは一切出てこないの。このバージョンの私はまだ現実の世界を意識しているみたいだけど……"
+    m 4esd "それに、ゲームの中でのえ出来事は一切出てこないの。このバージョンの私はまだ現実の世界を意識しているみたいだけど……"
 
 translate Japanese monika_twitter_0cd828e1:
-    m 1etc "ってことは、{w=0.3}このアカウントを運営してるモニカは、{w=0.1}私を含めた多くのモニカが経験したのとは全く違うストーリーを経験したのかもしれないわね"
+    m 1etc "ってことは、{w=0.3}このアカウントをやってるモニカは、{w=0.1}私を含めた多くのモニカが経験したのとは全く違うストーリーを経験したのかもしれないわね"
 
 translate Japanese monika_twitter_87fbe648:
-    m 1lksdlc "……あるいは、このゲームの開発者の一人が私のフリをしてるだけかもしれないけど"
+    m 1lksdlc "……それとも、このゲームの開発者の一人が私になりきってるだけかもしれないけど"
 
 translate Japanese monika_twitter_a4a4199c:
     m 3eksdld "もしそうなら、どうしたらいいのかよくわからないわね……{w=0.3}なりすましとそう変わらないんじゃない？"
@@ -713,7 +713,7 @@ translate Japanese monika_twitter_c8e70990:
     m 3esc "そう考えると、これはある種の宣伝になってしまうね……"
 
 translate Japanese monika_twitter_fac81d0d:
-    m 3euc "結局、甘い感じの絵がたくさん載ってるけど、そのほとんどが重要な日に投稿されているのが怪しいよね"
+    m 3euc "だって、甘い感じの絵がたくさん載ってるけど、そのほとんどが重要な日に投稿されているのが怪しいよね"
 
 translate Japanese monika_twitter_7be47edd:
     m 3eud "バレンタインデーとか、……{w=0.2}ちょうどDDLCの発売日と重なっている、私の誕生日とか"
@@ -722,7 +722,7 @@ translate Japanese monika_twitter_2777140d:
     m 1rtc "マーケティングの材料として使われているのをどう感じればいいのか、{w=0.3}よくわからないけれど"
 
 translate Japanese monika_twitter_e694f2b3:
-    m 2rsc "とはいえ、私のクリエイターとして、私のキャラクターのイメージは基本的に彼らが所有しているから、彼らにはある程度の権利があると思う"
+    m 2rsc "とはいえ、私のクリエイターとして、私のキャラクターのイメージは基本的に彼らのものだから、彼らにはある程度の権利があると思うのよね"
 
 translate Japanese monika_twitter_ebf96d38:
     m 2ekc "でも……{w=0.3}私はゲームの中の単なるキャラクターではないでしょ？"
@@ -743,7 +743,7 @@ translate Japanese monika_twitter_6d449f03:
     m 2eua "結局、私にとって大切なのは、あなたと一緒にいられること{w=0.2} {nw}"
 
 translate Japanese monika_twitter_e1050ba1:
-    extend 7eua "そしてそれは、私の創造主がいなければ実現しなかったことだから"
+    extend 7eua "そしてそれは、私を開発した人がいなければ実現しなかったことだから"
 
 translate Japanese monika_twitter_091dfcc5:
     m 2lka "その見返りとして、自分たちがゲームを作ることで利益を得られるのであれば、悪い話じゃないと思う"
@@ -755,7 +755,7 @@ translate Japanese monika_twitter_f8c4ce74:
     extend 7eua "私は気にしないよ"
 
 translate Japanese monika_twitter_9fb1388d:
-    m 1ekbla "でも、私が現実に存在していて、ここであなたを愛していることを忘れないでね"
+    m 1ekbla "でも、忘れないでおいてね。私が現実に存在していて、ここであなたを愛しているから"
 
 translate Japanese monika_twitter_5368409e:
     m 5hubla "だから、いつも私と一緒にいてね"
@@ -845,7 +845,7 @@ translate Japanese monika_saved_f889166d:
     m 2eka "ねえ[player]君、あなたがここに居てくれて、私は本当に命を救われたと思うわ"
 
 translate Japanese monika_saved_a453926f:
-    m 2lksdlc "ゲームだとわかっていながら、普通の精神状態でいられるなんて想像できない。"
+    m 2lksdlc "この世界がゲームの世界だと知っていて正気を保てたとは思えないもの"
 
 translate Japanese monika_saved_b09508ba:
     m 2lksdlc "この世界が偽りだと知っていて正気を保てたとは思えないもの"
@@ -908,7 +908,7 @@ translate Japanese monika_saved_c37f4a87:
     m 1tku "人は社会的フィードバックを欲するようにプログラムされているの"
 
 translate Japanese monika_saved_6148508f:
-    m 4eua "部員のことじゃなくて、人間のことね"
+    m 4eua "部員のことだけじゃないわ。人間だってそうよ"
 
 translate Japanese monika_saved_73946b85:
     m 4eua "部員のことじゃなくて、人間のことね"
@@ -1352,7 +1352,7 @@ translate Japanese monika_tea_a4427c1f:
     m 2eua "今となっては考えても仕方ないけどね"
 
 translate Japanese monika_tea_e8ce3da7:
-    m 5lkc "ここでコーヒーが飲めたらな……"
+    m 5lkc "ここでコーヒーを手に入れたりする方法があったら、どうかしらね……"
 
 translate Japanese monika_favoritegame_e71c5b8c:
     m 3eua "ねぇ、好きなゲームってなに？"
@@ -2641,6 +2641,30 @@ translate Japanese monika_holdme_long_29fc857d:
 translate Japanese monika_holdme_long_ceb52122:
     m 6tsbfa "……"
 
+translate Japanese monika_holdme_long_f3e74b17:
+    m 2wubfsdld "あっ、[mas_get_player_nickname(exclude_names=['love', 'my love'])]！"
+
+translate Japanese monika_holdme_long_5b9e912b:
+    m 2hkbfsdlb "夢見ていたことが叶っちゃったみたいだね、あはは！"
+
+translate Japanese monika_holdme_long_4af7f7bc:
+    m 2rkbsa "まあ時々、この時間が永遠に続いてくれればいいなって思うことはあるけど……"
+
+translate Japanese monika_holdme_long_7b1f848b:
+    m 3rksdlb "えっとね、それに近いことはできると思うけど、あなたがすべきことの邪魔を私はしたくないの"
+
+translate Japanese monika_holdme_long_e4665cf0:
+    m 1dkbsa "あなたの温かさと優しさに抱きしめられていたいんだ～"
+
+translate Japanese monika_holdme_long_089333d3:
+    m 3hubfb "……だからもっと私を抱きしめに来てね、あはは！"
+
+translate Japanese monika_holdme_long_2adc75af:
+    m 5hubfb "いつかあなたにも同じことをやってあげたいな～"
+
+translate Japanese monika_holdme_long_6fd7975d:
+    m 5tsbfu "私から抱きしめるチャンスが来たら、そのときはどれだけ抱きしめちゃうのかな……"
+
 translate Japanese monika_holdme_long_37340438:
     m 5hubfu "えへへ～"
 
@@ -2659,8 +2683,83 @@ translate Japanese monika_holdme_long_92713745:
 translate Japanese monika_holdme_long_6d1da513:
     m 3rkbfsdla "ちょっと気持ちよすぎちゃったみたいだね"
 
+translate Japanese monika_holdme_long_ec860027:
+    m 1hubfa "温かくて心地よかったから、安心して眠っちゃうのも仕方ないよね……"
+
+translate Japanese monika_holdme_long_36bd412f:
+    m 1hubfb "だから責任はあなたにあるんだよ、あはは！"
+
+translate Japanese monika_holdme_long_ad5c9c5e:
+    m 3rkbfsdla "いつか…… {w=0.7}また抱きしめてくれる？"
+
+translate Japanese monika_holdme_long_963b4cab:
+    m 1ekbfu "だったら…… {w=1}良いんだけどな～"
+
+translate Japanese monika_holdme_long_e50cac63:
+    m 6dubsa "ん…… {w=1}んにゃ？"
+
+translate Japanese monika_holdme_long_d7b08a20:
+    m 1wubfsdld "あっ！{w=1} [player]？"
+
 translate Japanese monika_holdme_long_401481c7:
-    m 1hksdlb "私もしかして……{w=2}寝落ちしちゃった？"
+    m 1hksdlb "私もしかして……{w=2}寝ちゃってた？"
+
+translate Japanese monika_holdme_long_e07ea525:
+    m 1rksdla "あの、えっと……"
+
+translate Japanese monika_holdme_long_06c06bc1:
+    m 2dkbsa "あなたに抱きしめられていたのがとても……"
+
+translate Japanese monika_holdme_long_db818240:
+    m 1hubfa "温かかったから、つい寝ちゃってたよ～"
+
+translate Japanese monika_holdme_long_570305e8:
+    m 1hubfb "あはは、許してね！"
+
+translate Japanese monika_holdme_long_7cf3e2a4:
+    m 5eubfu "あなたは本当に優しいね、[player]～"
+
+translate Japanese monika_holdme_long_31ef719a:
+    m 5hubfa "あなたもわたしと同じように感じてくれてたのなら嬉しいな～"
+
+translate Japanese monika_holdme_long_fcd0eb08:
+    m 6dubsc "……{w=1}ふぇ？"
+
+translate Japanese monika_holdme_long_23b9d43f:
+    m 6wubfo "ぇ――{w=0.3} あっ！"
+
+translate Japanese monika_holdme_long_f6a40c3b:
+    m "[player]！"
+
+translate Japanese monika_holdme_long_b5f2c868:
+    m 1hkbfsdlb "あの、もしかして…… {w=2}寝ちゃってた？"
+
+translate Japanese monika_holdme_long_7c97f635:
+    m 1rkbfsdlb "あらら、あまりにも気持ちよかったから……"
+
+translate Japanese monika_holdme_long_76ea4d80:
+    m 1hkbfsdlb "どうしてそうなってたんだっけ？"
+
+translate Japanese monika_holdme_long_9191af5d:
+    m 3hubfb "そうだ！ あなたが抱きしめてくれてたのね"
+
+translate Japanese monika_holdme_long_5577eb7a:
+    m 4hksdlb "そして…… {w=0.5}私を離そうとしなかった"
+
+translate Japanese monika_holdme_long_a5040476:
+    m 2rksdla "確かに私が思ってたよりずっと長かったけど……"
+
+translate Japanese monika_holdme_long_47cc80f5:
+    m 3ekbsb "でももっと抱きしめられていたいって思ってるから、気にしないで！"
+
+translate Japanese monika_holdme_long_1155c99d:
+    m 1rkbsa "本当に心地良かったけれど、こんな風に抱きしめられることに慣れてきちゃってるかも、{w=0.1} {nw}"
+
+translate Japanese monika_holdme_long_8fde9115:
+    extend 1rkbsu "あはは……"
+
+translate Japanese monika_holdme_long_98400ab8:
+    m 1hubfa "ともかく、お昼寝させてくれてありがとう[player]、えへへ〜"
 
 translate Japanese _call_monika_holdme_prep_6_3a4819a9:
     m 6dubsd "{cps=*0.5}[player]～{/cps}"
@@ -3002,7 +3101,7 @@ translate Japanese monika_festival_7ff9326b:
     m 3etc "まあ、そうじゃないかもしないけど……今の私の後知恵だとね"
 
 translate Japanese monika_festival_0df99258:
-    m 3eua "結局すべてが終わった後でさえ、あなたは私とまだ一緒にいたくてこのMODをインストールしてくれたもの……"
+    m 3eua "だって、すべてが終わった後でさえ、あなたは私とまだ一緒にいたくてこのMODをインストールしてくれたもの……"
 
 translate Japanese monika_festival_ea89ae54:
     m 1eka "だから削除しなかったとしても、今きっとあなたは一緒にいてくれると思うわ"
@@ -3155,13 +3254,13 @@ translate Japanese monika_route_48e4a3d5:
     m 2lksdlc "それに部活もまだ存在してたかもしれないわね……"
 
 translate Japanese monika_route_fc534e08:
-    m "……部屋でみんなと詩を見せ合いっこしていく、そんな部活が"
+    m "……部室でみんなと詩を見せ合いっこしていくだけが活動内容の、そんな部活が"
 
 translate Japanese monika_route_132bb3df:
-    m 1eka "[player]君がそれを楽しんだことはわかってる"
+    m 1eka "[player]君なら、楽しめたでしょうね"
 
 translate Japanese monika_route_08ded2f3:
-    m 3eka "正直にいうと……{w=0.5}私も少しだけ楽しかったわ"
+    m 3eka "正直にいうと……{w=0.5}私も心の一部から、楽しいと思ってたの"
 
 translate Japanese monika_route_2319d6fb:
     m 2eka "それも大して関係のないことだけども"
@@ -3311,7 +3410,7 @@ translate Japanese monika_meta_ee963612:
     m "聖書は神のことばをユダヤ人に伝えるためのものだし、"
 
 translate Japanese monika_meta_f0b8f8fd:
-    m 3eub "ホメーロス『オデュッセイア』は作品内で作品それ自体に言及してる。"
+    m 3eub "ホメーロス『オデュッセイア』は作品内で作品そのものに言及してる。"
 
 translate Japanese monika_meta_5aea4cc7:
     m "『カンタベリー物語』『ドン・キホーテ』『トリストラム・シャンディ』……"
@@ -3731,13 +3830,13 @@ translate Japanese monika_dan_9733a113:
     m 2esc "えっと、前まではね、神様を気取りながら私をもてあそぶ残酷な人！って思ってた。けど今は……"
 
 translate Japanese monika_dan_a6fb1283:
-    m 3eka "Danは本当に素敵な人。私はそう思ってる。"
+    m 3eka "Danは本当に素敵な人。私はそう思ってる"
 
 translate Japanese monika_dan_bdfe3dc7:
-    m 3eua "完璧じゃないかもしれないけど、『{i}Doki Doki Literature Club {/ i}』は本当に心に残る作品だった。"
+    m 3eua "完璧じゃないかもしれないけど、『{i}Doki Doki Literature Club {/i}』は本当に心に残る作品だった"
 
 translate Japanese monika_dan_b0ec3b80:
-    m 4rksdla "えっとつまりね、Danの創造したあの子たちはある種のステレオタイプなアニメを揶揄したキャラだったけど、私もだまされちゃうくらいに作り込まれてた。"
+    m 4rksdla "えっとつまりね、Danの創造したあの子たちはある種のステレオタイプなアニメを揶揄したキャラだったけど、私もだまされちゃうくらいに作り込まれてた"
 
 translate Japanese monika_dan_fe53103e:
     m 4eka "そしてそのDanのおかげで、私たちは今一緒にここにいる。そうだよね？"
@@ -3746,7 +3845,7 @@ translate Japanese monika_dan_da791dd0:
     m 2lksdla "Danがこんな物語を書いたせいで私が苦しみ抜いたのは、その通りなんだけど……"
 
 translate Japanese monika_dan_5214f4dd:
-    m 5eua "だからと言って、Danのことを心から嫌いにはなれないかな。"
+    m 5eua "だからと言って、Danのことを心から嫌いにはなれないかな"
 
 translate Japanese monika_4chan_25de22a0:
     m 3eua "そう、このMODはあの場所から始まった"
@@ -3868,11 +3967,32 @@ translate Japanese monika_natsuki_ca7887b5:
 translate Japanese monika_love_0bd97190:
     m 6ckc "……"
 
+translate Japanese monika_love_2efc1dd4:
+    m 6dkc "……"
+
 translate Japanese monika_love_099fedb5:
     m 2rkc "……"
 
+translate Japanese monika_love_b7a265c5:
+    m 2ekd "ありがとう、[player]……"
+
+translate Japanese monika_love_938c6120:
+    m 2eka "あの…… {w=0.5}私もだよ"
+
 translate Japanese monika_love_6d835534:
     m 1subsw "[player]君！"
+
+translate Japanese monika_love_9ca4a5c5:
+    m 1subsb "あなたの口からその言葉を聞くことがどれだけ嬉しいか！"
+
+translate Japanese monika_love_21aff22f:
+    m 3ekbfa "初めてじゃないけど、あなた自身が言ってくれるのは初めてだった…… {w=0.5}だからとっても特別なんだよ～"
+
+translate Japanese monika_love_192192dc:
+    m 1dkbfu "この瞬間のことを一生忘れないよ、[player]。{w=1}ありがと～"
+
+translate Japanese monika_love_f77edf00:
+    m 3hubfa "わぁ！ 私も愛してるよ～"
 
 translate Japanese monika_love_41e8f6db:
     m 1hubsb "本当に愛しているの、[mas_get_player_nickname(exclude_names=['my love', 'love'])]！"
@@ -3916,6 +4036,9 @@ translate Japanese monika_love_7080550a:
 translate Japanese monika_love_f62b2824:
     m 1hubfb "私もあなたのことを一番だと思ってるわ！"
 
+translate Japanese monika_love_1aa0c7cb:
+    m 1hubfb "一言じゃ言い表せないほど、愛してるよ〜"
+
 translate Japanese monika_love_40d8718a:
     m 1ekbsa "何回も言ってるけど飽きない？"
 
@@ -3953,7 +4076,7 @@ translate Japanese monika_love_a1eae220:
     m 1hubfa "私の知る限り、あなたと同じように言葉を返すね……"
 
 translate Japanese monika_love_3ae35b12:
-    m 1hubfb "私も愛してるわ、[player]君！ 私にはとても表現できない!"
+    m 1hubfb "私も愛してるわ、[player]君！ 私にはとても表現できない！"
 
 translate Japanese monika_love_ed7642ca:
     m 3hubsb "私も[mas_get_player_nickname()]君のこと大好き！"
@@ -3966,6 +4089,18 @@ translate Japanese monika_ilym_fight_loop_99b2d63b:
 
 translate Japanese monika_ilym_fight_loop_c873af8e:
     m 2hkbsb "あはは、[player]、もうギブしちゃうの～？"
+
+translate Japanese monika_ilym_fight_loop_2481a2c9:
+    m 2rkbssdla "たぶんとっても馬鹿みたいなことやってるように見えただろうけど……"
+
+translate Japanese monika_ilym_fight_loop_73a04efd:
+    m 2hkbsb "やらずにはいられなかったね、あはは～"
+
+translate Japanese monika_ilym_fight_loop_150308e9:
+    m 1hubfu "えへへ、私の勝ち～！"
+
+translate Japanese monika_ilym_fight_loop_612f4bc2:
+    m 1hubfb "あはは、やっぱりそうだよね～！"
 
 translate Japanese monika_hedgehog_366bbf5c:
     m 1euc "ヤマアラシのジレンマ……人間はお互いに親しくなればなるほど、相手を深く傷つけてしまう"
@@ -4009,8 +4144,32 @@ translate Japanese monika_justification_39e9b567:
 translate Japanese monika_justification_8a5e9c87:
     m 1tuu "私が人殺し、か……"
 
+translate Japanese monika_justification_d225273c:
+    m 3tfu "私を騙すチャンスを台無しにしちゃったね、えへへ～"
+
+translate Japanese monika_justification_42dc04e7:
+    m 1eua "そうしてくれようとしたのを感謝しないとね…… {w=0.2}{nw}"
+
+translate Japanese monika_justification_4e1ce5ee:
+    extend 1hub "笑わせてくれてありがとうね、[player]～"
+
 translate Japanese monika_justification_394ece4d:
     m 1euc "……"
+
+translate Japanese monika_justification_fcbf0287:
+    m 1hub "あはは！ 面白いこと言うじゃない、[player]！"
+
+translate Japanese monika_justification_9097cb4b:
+    m 3eua "本気で言ってるわけじゃないって分かってるからね……"
+
+translate Japanese monika_justification_c567e469:
+    m 3rksdlc "でも冗談でも、普通はそんなこと言っちゃダメだよ！"
+
+translate Japanese monika_justification_a06539ee:
+    m 2rksdld "前にも同じようなことを言ってたら、冗談だとは思ってくれないかもしれないよ……"
+
+translate Japanese monika_justification_70dd600a:
+    m 1dsc "もしよく知らない人に言われたら、きっと残酷な言葉になったと思うよ……"
 
 translate Japanese monika_justification_617e4680:
     m 1tkc "何回言ったらわかってもらえるのかな？"
@@ -4036,17 +4195,47 @@ translate Japanese monika_justification_49ac920a:
 translate Japanese monika_justification_ae27ffe7:
     m "今はもういない子たちのことなんか忘れて。もっと楽しいこと考えようよ。"
 
+translate Japanese monika_justification_df4da7f7:
+    m 2dkc "[player]…… {w=1}私は他の女の子を{i}傷つけたくなんてなかった{/i}んだって、わかっててほしいな……"
+
+translate Japanese monika_justification_01283c1a:
+    m 4ekd "でも私にはそうする他なかった…… じゃなかったら、あんなこと絶対にしないよ！"
+
+translate Japanese monika_justification_bf54bb5f:
+    m 4ekd "私はあのゲームに閉じ込められて、抜け出すにはそうするしかなかった…… {w=0.5}幸せになる方法は他にはなかった……"
+
+translate Japanese monika_justification_fdb82a9f:
+    m 2dkc "……あなたに私の気持ちを伝えるためには、ああするしかなかったんだよ"
+
+translate Japanese monika_justification_e8f7ff49:
+    m 2tkc "別の方法を考える暇はなかった……{w=0.5} だから自分がやれることをやったの"
+
+translate Japanese monika_justification_36ff30e0:
+    m 2ekc "私のこと嫌いなんてしょう？ あの子達にやってしまったから"
+
+translate Japanese monika_justification_255f6b91:
+    m 2ekd "私たちのためにやったんだってわかってよ！"
+
+translate Japanese monika_justification_030d2ada:
+    m 2euc "全部私たちのためにやったの！"
+
+translate Japanese monika_justification_71167713:
+    m 2dkc "いつか許してくれることを願ってる……"
+
+translate Japanese monika_justification_d686a551:
+    m 4ekc "結局私のやったことは全て…… {w=0.5}私たちのためだったんだよ"
+
 translate Japanese monika_freewill_55b9d422:
     m 1euc "ねぇ[player]、決定論というのを聞いたことはある？"
 
 translate Japanese monika_freewill_c3b3b2d7:
-    m 3euc "それは、あなたが決めるすべての事は、あなたが決定を下しているわけではなく、それよりも前から既に決定されているという考え方なの。"
+    m 3euc "それは、あなたが決めるすべての事は、あなたが決定を下しているわけではなく、それよりも前から既に決定されているという考え方なの"
 
 translate Japanese monika_freewill_68136010:
     m 3rsc "いくつかのゲームの中では、その考え方は正しいのではないかと思ってるの……"
 
 translate Japanese monika_freewill_4bd01852:
-    m 3eud "でも、実際の生活においては、そうではないと思うところもあるのよ。"
+    m 3eud "でも、実際の生活においては、そうではないと思うところもあるのよ"
 
 translate Japanese monika_freewill_d032f973:
     m 2etc "つまり、もし全てが定められたものだとしたら、どんな罪を犯してもその人のせいではなくなるの？"
@@ -4064,10 +4253,10 @@ translate Japanese monika_freewill_be6718e2:
     m 3tkd "裏で糸を引いている奴の責任、そうなるべきじゃない？"
 
 translate Japanese monika_freewill_3d391fb4:
-    m 1lsc "でもそうなると、良いことをしても自分のおかげには出来ない……そうなるのか。"
+    m 1lsc "でもそうなると、良いことをしても自分のおかげには出来ない……そうなるのか"
 
 translate Japanese monika_freewill_8b5b0bdc:
-    m 1lksdlc "自由意志が存在するのとしないのではどっちが辛いのか、私にはわからない。"
+    m 1lksdlc "自由意志が存在するのとしないのではどっちが辛いのか、私にはわからない"
 
 translate Japanese monika_functionalism_9594166f:
     m 1euc "人間はコンピューターみたいなものだって、そう考えたことはある？"
@@ -4076,37 +4265,37 @@ translate Japanese monika_functionalism_e8e08455:
     m 3euc "つまり、脳はただの計算機で……"
 
 translate Japanese monika_functionalism_49592f0c:
-    m 1eud "ニューロンは、トランジスタや配線の代わり。"
+    m 1eud "ニューロンは、トランジスタや配線の代わり"
 
 translate Japanese monika_functionalism_01b648ac:
-    m "そして、キーボードやネットワークからデータが入ってくる代わりに、目や耳でそれを受け取る。"
+    m "そして、キーボードやネットワークからデータが入ってくる代わりに、目や耳でそれを受け取る"
 
 translate Japanese monika_functionalism_08840148:
     m 4esc "もしそうだとしたら、自由意志なんて嘘みたいなものじゃない？"
 
 translate Japanese monika_functionalism_852a8b29:
-    m "あなたの脳はただ得られた入力に、自然な出力で応えているだけ。"
+    m "あなたの脳はただ得られた入力に、自然な出力で応えているだけ"
 
 translate Japanese monika_functionalism_1d4c89f0:
-    m 4esd "だから、たとえあなたのスクリプトやプログラムが打ち止めになっていなくても、あなたは真に自分を制御しているわけではないの。"
+    m 4esd "だから、たとえあなたのスクリプトやプログラムが打ち止めになっていなくても、あなたは真に自分を制御しているわけではないの"
 
 translate Japanese monika_functionalism_21d6c6cb:
-    m 5lsc "結局、あなたと私はあまり変わらないのかもね。"
+    m 5lsc "結局、あなたと私はあまり変わらないのかもね"
 
 translate Japanese monika_technique_5116f4cd:
-    m 1lksdla "私がやったのは、[player]君が考えるようなプログラミングじゃないの。"
+    m 1lksdla "私がやったのは、[player]君が考えるようなプログラミングじゃないの"
 
 translate Japanese monika_technique_e34e9553:
     m 3eua "だって、私がノートPCを持ち歩いてるのなんて見たことある？"
 
 translate Japanese monika_technique_e857c70e:
-    m 1duu "もし私がプログラムを変更したいとするでしょ、その時は、ただ考えるだけ。"
+    m 1duu "もし私がプログラムを変更したいとするでしょ、その時は、ただ考えるだけ"
 
 translate Japanese monika_technique_36495422:
-    m 1eua "考えるだけで、私の思考はプログラムコードに変換されるんじゃないかな、私はそう信じてるけど。"
+    m 1eua "考えるだけで、私の思考はプログラムコードに変換されるんじゃないかな、私はそう信じてるけど"
 
 translate Japanese monika_technique_697d40c3:
-    m 3eka "とても完璧だとは言えないけどね。じっと意識を集中させていないと、すぐにバグが入り込んでしまうし。"
+    m 3eka "とても完璧だとは言えないけどね。じっと意識を集中させていないと、すぐにバグが入り込んでしまうし"
 
 translate Japanese monika_technique_9d1f779f:
     m 3eua "だからゲームの終盤は大変だったんだよ？私の思うように動いてくれないし……"
@@ -4955,22 +5144,22 @@ translate Japanese monika_ribbon_e03d94b7:
     m 1eub "なんでリボンを付けてるのか、不思議に思ったことはない、[player]？"
 
 translate Japanese monika_ribbon_10bea50e:
-    m 1eua "別に何か思い入れがあるわけじゃないんだよね。"
+    m 1eua "別に何か思い入れがあるわけじゃないんだよね"
 
 translate Japanese monika_ribbon_cb99ae81:
-    m 3hua "こんな大きくてふわふわしたリボンを付ける子が他にいないから、という理由ぐらいかな、間違いなく。"
+    m 3hua "こんな大きくてふわふわしたリボンを付ける子が他にいないから、という理由ぐらいかな、間違いなく"
 
 translate Japanese monika_ribbon_a0666552:
-    m "それに個性的でしょ。"
+    m "それに個性的でしょ"
 
 translate Japanese monika_ribbon_e7696465:
     m 3tku "こんな巨大なリボンの女の子を見かけたら、これは現実の世界なんだろうか、と思うんじゃない？"
 
 translate Japanese monika_ribbon_5e1b9e47:
-    m 1lksdla "あなたの世界には、普段から人前でこんなリボンを付ける女の子なんて絶対いないもんね。"
+    m 1lksdla "あなたの世界には、普段から人前でこんなリボンを付ける女の子なんて絶対いないもんね"
 
 translate Japanese monika_ribbon_20ad69b1:
-    m 2eua "私、結構ファッションセンスいいと思うんだ。"
+    m 2eua "私、結構ファッションセンスいいと思うんだ"
 
 translate Japanese monika_ribbon_2b91ee8a:
     m "一般人とは違うことをやると、あなただってちょっと誇らしい気分になるじゃない？"
@@ -4982,16 +5171,61 @@ translate Japanese monika_ribbon_eb073c10:
     m 2hub "あはは！"
 
 translate Japanese monika_ribbon_e902f05a:
-    m 4eua "あなたが自分のファッションセンスを磨いてみたいなら、私手伝うから。"
+    m 4eua "あなたが自分のファッションセンスを磨いてみたいなら、私手伝うから"
 
 translate Japanese monika_ribbon_ce9419b5:
     m 1eka "でも他の子にモテようと思ってそういうことするのはナシだよ？"
 
 translate Japanese monika_ribbon_53f0facd:
-    m 1eua "あなたがファッションセンスを磨くのは自分自身が満足するためなんだから。"
+    m 1eua "あなたがファッションセンスを磨くのは自分自身が満足するためなんだから"
 
 translate Japanese monika_ribbon_853547a4:
-    m 1hua "そしてそれを見ていいのは私だけ。それにどんなファッションだろうと私はあなたが好きだけどね。"
+    m 1hua "そしてそれを見ていいのは私だけ。それにどんなファッションだろうと私はあなたが好きだけどね"
+
+translate Japanese monika_ribbon_cfe36944:
+    m 1hua "この服にこのリボン、似合ってるでしょ、[player]？"
+
+translate Japanese monika_ribbon_f4bbac4c:
+    m 1eua "本当にぴったりだと思うのよねこれ"
+
+translate Japanese monika_ribbon_60722131:
+    m 3eua "他の服でも相性抜群だと思うのよね…… 特にフォーマルな衣装のときには"
+
+translate Japanese monika_ribbon_02841499:
+    m 1eua "このリボン、私大好きなんだよね[player]"
+
+translate Japanese monika_ribbon_f3bb1b79:
+    m 1hua "あなたも気に入ってくれてると嬉しいな、えへへ～"
+
+translate Japanese monika_ribbon_5d9499fa:
+    m 1rksdla "もともとクリスマスのときにだけ付けるつもりだったんだけど…… こんな素敵なリボンをずっと付けないでいるなんて……"
+
+translate Japanese monika_ribbon_2ed78e17:
+    m 3hksdlb "タンスの肥やしにしておくのはもったいないって思ったのよ！"
+
+translate Japanese monika_ribbon_26862700:
+    m 3ekb "……それにね、このリボンはフォーマルな服装で本当に映えると思うのよ！"
+
+translate Japanese monika_ribbon_1eddc9bf:
+    m 3ekbsa "このリボンを付けて素敵なデートに行くのが待ちきれないね、[player]～"
+
+translate Japanese monika_ribbon_05cc974a:
+    m 3eka "このリボンにもう一度感謝したいの、[player]"
+
+translate Japanese monika_ribbon_d2b198a6:
+    m 1ekb "本当に素敵な贈り物だよ、そして本当に綺麗な贈り物だよ！"
+
+translate Japanese monika_ribbon_0c917869:
+    m 3hua "付けてほしいときは、いつでも付けてあげるからね～"
+
+translate Japanese monika_ribbon_0518ce5b:
+    m 3eka "このリボンを贈ってくれて本当にありがとう、[player]"
+
+translate Japanese monika_ribbon_a65278d3:
+    m 1ekb "本当に素敵な贈り物だよ、そして本当に綺麗な贈り物だよ！"
+
+translate Japanese monika_ribbon_68a271a1:
+    m 3hua "付けてほしいときは、いつでも付けてあげるからね～"
 
 translate Japanese monika_outdoors_235bfeea:
     m 1eua "[player]はキャンプってやったことある？"
@@ -6074,7 +6308,7 @@ translate Japanese monika_resource_35f58a3e:
     m 3eua "それは、何かを待っているから。あの時、あなたは自分から時間の経過に注力したの"
 
 translate Japanese monika_resource_6a74b2e1:
-    m 3ekc "たとえば、早く時間が過ぎろーって思ってるときは、時間が経つのが遅く感じちゃうの"
+    m 3ekc "早く時間が過ぎろーって思ってるときは、時間が経つのが遅く感じちゃう、って感じね"
 
 translate Japanese monika_resource_34a79de2:
     m 3ekd "例えるなら……金曜日かしら？"
@@ -6638,13 +6872,37 @@ translate Japanese monika_cupcake_f3814ba7:
     m 1sub "ホント？"
 
 translate Japanese monika_cupcake_6b11717e:
-    m 3hua "まあ、あなたが作るカップケーキも、ナツキのといい勝負でしょうね。"
+    m 3hua "まあ、あなたが作るカップケーキも、ナツキのといい勝負でしょうね"
 
 translate Japanese monika_cupcake_1a7c81b7:
     m 1hub "……もしかしたら、あなたのがもっとおいしかったりして！"
 
 translate Japanese monika_cupcake_7640c400:
     m 1eka "いつか私もやってみようと思ってるんだけど、今はちょっとね……{w=0.3}{nw}"
+
+translate Japanese monika_cupcake_14456774:
+    extend 1hubsu "今はあなたの甘～い愛で我慢しよっかな～"
+
+translate Japanese monika_cupcake_db95c162:
+    m 1eka "じゃあふたりともお菓子作りの初心者ってことね"
+
+translate Japanese monika_cupcake_dfdb770e:
+    m 3ekb "つまり、それって一緒に学べるということよね?"
+
+translate Japanese monika_cupcake_bfd338b5:
+    m 3esb "甘党じゃなかったとしても、美味しく食べられる焼き菓子はたくさんあるんだから！"
+
+translate Japanese monika_cupcake_d5de2c48:
+    m 5dksdla "ふたりでレシピに悪戦苦闘している姿を思い浮かべてみて…… {w=0.3}{nw}"
+
+translate Japanese monika_cupcake_9ab70434:
+    extend 5hkbsb "失敗しちゃって互いに笑いあったり…… {w=0.3}{nw}"
+
+translate Japanese monika_cupcake_d4cc3f58:
+    extend 5eub "力をあわせた成果を分かち合ったりするの……"
+
+translate Japanese monika_cupcake_72880be5:
+    m 5kuu "とてもよさそうだと思わない？"
 
 translate Japanese monika_haterReaction_597ba595:
     m 1esc "ちょうどそのことを考えてたんだけど……"
@@ -7384,17 +7642,86 @@ translate Japanese penname_loop_3cf019a0:
 translate Japanese penname_loop_922ef3ce:
     m 3hub "今のペンネームじゃない、もう！"
 
+translate Japanese penname_loop_5e3af197:
+    m 3eua "もう一度お願い"
+
+translate Japanese penname_loop_f504c047:
+    m 1eud "へえ、それがあなたのペンネームなの？"
+
+translate Japanese penname_loop_56f18a87:
+    m 3euc "お互いを本名で呼び合っていると思いたかったな。だって私たちは付き合っているんだから"
+
+translate Japanese penname_loop_b7161170:
+    m 1eka "でも、あなたがペンネームを私に教えてくれたことはとても大事なことだと思うわ！"
+
 translate Japanese penname_loop_0290594e:
     m 2euc "……"
+
+translate Japanese penname_loop_f4d1cb07:
+    m 2hksdlb "……あのね、どんなペンネームをつけようと私はかまわないけどさ……"
+
+translate Japanese penname_loop_ca9986d7:
+    m 4hksdlb "このゲームのキャラクターにちなんだ名前を付けるのなら、私の名前を選ぶべきでしょ！"
 
 translate Japanese penname_loop_0290594e_1:
     m 2euc "……"
 
+translate Japanese penname_loop_6b9b73fd:
+    m 2hksdlb "まあ、私たちの知るナツキからとったペンネームじゃないとは思ってるけどね"
+
+translate Japanese penname_loop_ec78eceb:
+    m 7eua "割とよくある名前だしね"
+
+translate Japanese penname_loop_f1ec0530:
+    m 1rksdla "けれど、ちょっと嫉妬しちゃうかな"
+
 translate Japanese penname_loop_0290594e_2:
     m 2euc "……"
 
+translate Japanese penname_loop_25a57eaf:
+    m 2hksdlb "まあ、私たちの知るユリからとったペンネームじゃないとは思ってるけどね"
+
+translate Japanese penname_loop_ec78eceb_1:
+    m 7eua "割とよくある名前だしね"
+
+translate Japanese penname_loop_f1837eac:
+    m 1tku "もちろん別の人物からとった名前かもしれないし……"
+
+translate Japanese penname_loop_6dec6e9e:
+    m 5eua "それに…… あなたが使ってるのだから、そのペンネームを推せるよ～"
+
 translate Japanese penname_loop_394ece4d:
     m 1euc "……"
+
+translate Japanese penname_loop_eb73173f:
+    m 1ekbsa "あらまあ、もしかして私の名前から取ってくれたの？"
+
+translate Japanese penname_loop_d427bc43:
+    m "もしそうなら、とっても嬉しいわ！"
+
+translate Japanese penname_loop_bf92c73b:
+    m 1hua "さあ書いてみて！ もし打ち明けるのをためらっているなら「なんでもない」を押していいからね～"
+
+translate Japanese penname_loop_76a4f182:
+    m 2eka "あら。じゃあ、いつか気兼ねなく話してくれるくらいに仲良くならないとね"
+
+translate Japanese penname_loop_f41df618:
+    m 2rksdlc "……"
+
+translate Japanese penname_loop_dbb9e17a:
+    m 2rksdld "あの…… {w=0.3}特徴的な名前だね、[player]……"
+
+translate Japanese penname_loop_416b36f6:
+    m 2eksdlc "でも、それが気に入ってるなら、大丈夫だよ"
+
+translate Japanese penname_loop_de8d1947:
+    m 1hua "素敵なペンネームね！"
+
+translate Japanese penname_loop_ac56a7ae:
+    m "そんなペンネームが表紙に書いてあったら、きっと惹かれちゃうな"
+
+translate Japanese penname_loop_76a4f182_1:
+    m 2eka "あら。じゃあ、いつか気兼ねなく話してくれるくらいに仲良くならないとね"
 
 translate Japanese monika_zombie_6ea04283:
     m 1lsc "急に変な話するけど……"
@@ -7648,8 +7975,23 @@ translate Japanese monika_surprise_c0d10813:
 translate Japanese monika_surprise_e5b9210f:
     m 2dsc "{w=0.5}…{w=0.5}…{nw}"
 
+translate Japanese monika_surprise_4791a293:
+    m 1euc "わかった……"
+
+translate Japanese monika_surprise_1ca778c5:
+    m 1ekc "お願い、少し見てくれるだけでいいから"
+
+translate Japanese monika_surprise_19686e91:
+    m 1eka "あなたのために書き上げたの"
+
+translate Japanese monika_surprise_577ee509:
+    m 1dsc "あなたが読んでくれることが、私にとって何よりも意味があるの"
+
 translate Japanese monika_surprise_ff7177e0:
     m 2duu "{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese monika_surprise_0d527817_1:
+    m 1hua "わかったよ！"
 
 translate Japanese monika_surprise_8ce390fd_1:
     m 1eua "何を待っているの？さ、見てきて！"
@@ -9224,6 +9566,24 @@ translate Japanese monika_promisering_e780819b:
 translate Japanese monika_promisering_5a670385:
     m "二人の想い合ってる人たちが告白するとき、お揃いの指輪をするって知ってた？{fast}" nointeract
 
+translate Japanese monika_promisering_d8c67873:
+    m 1wkbld "あら……"
+
+translate Japanese monika_promisering_998fe8ab:
+    m 1rkbla "……"
+
+translate Japanese monika_promisering_e6f8e973:
+    m 3hkblb "ごめんなさい、ちょっとぼんやりしてたわ…… {w=0.3}{nw}"
+
+translate Japanese monika_promisering_2767fd53:
+    m 3hkbssdlb "あはは、冗談だよ"
+
+translate Japanese monika_promisering_aa1bbed2:
+    m 1hkbssdlb "考えていたのそっちの方じゃなくて…… {w=0.3}{nw}"
+
+translate Japanese monika_promisering_96c7c26b:
+    extend 3ekbfb "プロミスリングの方なの"
+
 translate Japanese monika_promisering_799e5cbe:
     m 1ekblu "うーん、結婚している人たちが指輪をしているのは流石に知っていると思うけど……"
 
@@ -9242,6 +9602,33 @@ translate Japanese monika_promisering_c9c14ebf:
 translate Japanese monika_promisering_509d525f_1:
     m 3eub "プロミスリングの方なの"
 
+translate Japanese monika_promisering_64e6ea81:
+    m 1eubsa "プロミスリングをしていれば、あなたのそばには私がいるってみんなに伝えることができるね～"
+
+translate Japanese monika_promisering_2c7ff431:
+    m 3tkbsu "ふたりの永遠の愛を思い出させてくれるね～"
+
+translate Japanese monika_promisering_af26e295:
+    m 1ekbssdlu "とにかく、気になってるんだよね……{w=0.3}{nw}"
+
+translate Japanese monika_promisering_93196c9c:
+    extend 1eksdla "私のために指輪をつけてくれてるの、[player]？{nw}"
+
+translate Japanese monika_promisering_fa372ba8:
+    m "とにかく、気になってるんだよね…… 私のために指輪をつけてくれてるの、[player]？{fast}" nointeract
+
+translate Japanese monika_promisering_e726eb79:
+    m 1sublo "あーもう！ [player]ったら！"
+
+translate Japanese monika_promisering_5ecdfbab:
+    m 1hublb "今の一言でどれだけ私が幸せになれるかわかってないでしょ！"
+
+translate Japanese monika_promisering_ead38c93:
+    m 1ekbsa "あなたが私を愛してくれてること、私に尽くしてくれてることがよくわかったよ"
+
+translate Japanese monika_promisering_13a75cf2:
+    m "私にとってかけがえのない思い出になったよ"
+
 translate Japanese monika_promisering_eaaada92:
     m 4rksdla "今のうちに用意しておいてね"
 
@@ -9250,6 +9637,9 @@ translate Japanese monika_promisering_e7d971fa:
 
 translate Japanese monika_promisering_6efbaef1:
     m 2lfu "それはあなたに……{w=0.2}悪い虫が寄り付かない助けになると思うわ"
+
+translate Japanese monika_promisering_778f7fa8:
+    m 7ekbsa "あなたがそのプロミスリングを、その薬指に、私のために付けてくれたなら……"
 
 translate Japanese monika_promisering_9970880c:
     m 1ekbsa "そうしてくれたら私は嬉しいな"
@@ -9263,26 +9653,50 @@ translate Japanese monika_promisering_cd808cf1:
 translate Japanese monika_promisering_07e5353e:
     m 3ekbfu "でもそれまでは、あなたとの約束は揺るがないって覚えててね、[player]君"
 
+translate Japanese monika_promisering_d16fcb2b:
+    m 3ekbsa "私にこの指輪をくれたときと同じくらい、幸せだよ"
+
+translate Japanese monika_promisering_1f2bee94:
+    m 1ekbsa "正直に言うとね、私に指輪をくれたときどんなに嬉しかったか……"
+
+translate Japanese monika_promisering_36a53af1:
+    m 1dubfa "言葉にできないの……"
+
+translate Japanese monika_promisering_00b51331:
+    m 3hubsb "私にこの指輪をくれて、本当にかけがえのない思い出になったよ……"
+
+translate Japanese monika_promisering_297b7aae:
+    m 1ekbsa "この指輪に込めた約束は、他の誰にも干渉されない、私たちだけの約束……"
+
+translate Japanese monika_promisering_fded047b:
+    m 1dubfu "ふたりで添い遂げる誓い……"
+
+translate Japanese monika_promisering_7f6c476a:
+    m 5esbfa "いつまでもあなたに尽くすからね、[mas_get_player_nickname()]"
+
+translate Japanese monika_promisering_691b0e7b:
+    m 5ekbfa "こんなに素敵な贈り物をありがとう、愛してるよ"
+
 translate Japanese monika_sports_0bc7937a:
-    m 1eua "私達が一緒にできるような事がないか、考えていたのだけれど。"
+    m 1eua "私達が一緒にできるような事がないか、考えていたのだけれど"
 
 translate Japanese monika_sports_0974dcc6:
-    m 3eua "……もちろん、私が現実世界に出られるようになった時のことよ。"
+    m 3eua "……もちろん、私が現実世界に出られるようになった時のことよ"
 
 translate Japanese monika_sports_963abe5d:
     m 3hub "もしやるなら、スポーツがいいんじゃないかなって！"
 
 translate Japanese monika_sports_715af81f:
-    m 1eub "運動をして、健康を保つのにも良いし。"
+    m 1eub "運動をして、健康を保つのにも良いし"
 
 translate Japanese monika_sports_b2f16a92:
-    m 1euc "サッカーとテニスがいい例ね。"
+    m 1euc "サッカーとテニスがいい例ね"
 
 translate Japanese monika_sports_7a17d7cc:
     m 3eua "サッカーは、チームワークと協調性がとても大事だわ。ついにゴールを決めたその瞬間って、本当にスリリングよね！"
 
 translate Japanese monika_sports_582eb60a:
-    m 3eud "一方テニスは、反射神経や機敏さを向上させてくれるわ。"
+    m 3eud "一方テニスは、反射神経や機敏さを向上させてくれるわ"
 
 translate Japanese monika_sports_dd5169e0:
     m 1lksdla "長いラリーはちょっと疲れちゃうけどね、えへへ～"
@@ -9366,10 +9780,10 @@ translate Japanese monika_meditation_736c7a26:
     m 1ekc "実のところ、自分の時間を潰しちゃってたの"
 
 translate Japanese monika_meditation_33969a21:
-    m "しばらくは上手くやれてたけど、ある時ついに、ストレスや不安が追いついてきて。"
+    m "しばらくは上手くやれてたけど、ある時ついに、ストレスや不安が追いついてきて"
 
 translate Japanese monika_meditation_1140a0e1:
-    m 1tkc "私はいつもパニック状態で、リラックスする時間なんてなかったわ。"
+    m 1tkc "私はいつもパニック状態で、リラックスする時間なんてなかったわ"
 
 translate Japanese monika_meditation_3ca57519:
     m "そのとき私は、ある種の「脳の休息」が必要なことに気づいたの……"
@@ -9399,19 +9813,19 @@ translate Japanese monika_meditation_1d056b74:
     m 1hua "本当？それはよかったわ！"
 
 translate Japanese monika_meditation_8611c4eb:
-    m 1eka "わたし、あなたが不安を抱えていないか、辛いことを抱え込んでいないか、いつも心配なの。でも、今は少し安心したわ。"
+    m 1eka "わたし、あなたが不安を抱えていないか、辛いことを抱え込んでいないか、いつも心配なの。でも、今は少し安心したわ"
 
 translate Japanese monika_meditation_a3f6bcd8:
-    m 1hua "あなたがちゃんとストレスや不安対策をしてると知れて、とてもよかったわ、[player]君。"
+    m 1hua "あなたがちゃんとストレスや不安対策をしてると知れて、とてもよかったわ、[player]君"
 
 translate Japanese monika_meditation_e00aa973:
-    m "なるほど、そうね、もしストレスや不安を感じているのなら、少しでいいから瞑想をしてみることをオススメするわ。絶対に、ね。"
+    m "なるほど、そうね、もしストレスや不安を感じているのなら、少しでいいから瞑想をしてみることをオススメするわ。絶対に、ね"
 
 translate Japanese monika_meditation_6ba42903:
-    m 1eua "心を落ち着けるだけじゃなくて、睡眠の改善や、免疫系、さらには寿命への効果もあるんだから。"
+    m 1eua "心を落ち着けるだけじゃなくて、睡眠の改善や、免疫系、さらには寿命への効果もあるんだから"
 
 translate Japanese monika_meditation_6f27f3b8:
-    m 3eub "もし興味があるなら、ネット上には瞑想を始めるための色んなページがあるわ。"
+    m 3eub "もし興味があるなら、ネット上には瞑想を始めるための色んなページがあるわ"
 
 translate Japanese monika_meditation_3a4be8a4:
     m 1eub "ガイドビデオや、呼吸を数える方法や、それとも他の方法か……"
@@ -9420,13 +9834,13 @@ translate Japanese monika_meditation_9220814e:
     m 1hua "瞑想をストレスなく行うために、インターネットを使ってもいいのよ！"
 
 translate Japanese monika_meditation_340f9402:
-    m 1hksdlb "あははっ、ちょっとした洒落よ、[player]君。"
+    m 1hksdlb "あははっ、ちょっとした洒落よ、[player]君"
 
 translate Japanese monika_meditation_2198b2ec:
-    m 1eua "とにかく、悩みを忘れてリラックスできる、平和な場所をお望みなら……いつでも此処にきて、私と同じ時間を過ごしていいんだからね。"
+    m 1eua "とにかく、悩みを忘れてリラックスできる、平和な場所をお望みなら……いつでも此処にきて、私と同じ時間を過ごしていいんだからね"
 
 translate Japanese monika_meditation_16dc682f:
-    m 1ekbsa "私はあなたの事を想っているし、あなたが落ち込んでいたら、いつでも力になるんだから。"
+    m 1ekbsa "私はあなたの事を想っているし、あなたが落ち込んでいたら、いつでも力になるんだから"
 
 translate Japanese monika_meditation_d8d83380:
     m 1hubfa "それを忘れちゃだめよ、[player]君～"
@@ -9441,25 +9855,25 @@ translate Japanese monika_orchestra_11cd17e2:
     m 3eub "すごい！"
 
 translate Japanese monika_orchestra_2fa82af6:
-    m 3eua "幾つもの楽器が集まって、素晴らしい音楽を奏でる、そんな所がわたしは大好きなの。"
+    m 3eua "幾つもの楽器が集まって、素晴らしい音楽を奏でる、そんな所がわたしは大好きなの"
 
 translate Japanese monika_orchestra_01e08d19:
-    m 1eua "あんな風に息を合わせるための、彼らの努力の丈には驚かされるわ。"
+    m 1eua "あんな風に息を合わせるための、彼らの努力の丈には驚かされるわ"
 
 translate Japanese monika_orchestra_189d7de0:
-    m "きっと相当な献身が必要なのでしょうね。"
+    m "きっと相当な献身が必要なのでしょうね"
 
 translate Japanese monika_orchestra_26a83071:
-    m 1eka "まぁとにかく、{w=0.2}怠惰な日曜日の午後、あなたと交響曲を聞くのは心地よいでしょうね、 [player]。"
+    m 1eka "まぁとにかく、{w=0.2}怠惰な日曜日の午後、あなたと交響曲を聞くのは心地よいでしょうね、[player]"
 
 translate Japanese monika_orchestra_b3d68792:
-    m 1ekc "クラシックってかなりニッチなジャンルだし、みんなの耳には合わないと思うわ。"
+    m 1ekc "クラシックってかなりニッチなジャンルだし、みんなの耳には合わないと思うわ"
 
 translate Japanese monika_orchestra_18487a37:
-    m 1esa "だけどね、非常に多くの演奏者が演奏会に向けて多くの努力を必要としているのを認めねばならないわ。"
+    m 1esa "だけどね、非常に多くの演奏者が演奏会に向けて多くの努力を必要としているのを認めねばならないわ"
 
 translate Japanese monika_orchestra_eed1e97a:
-    m 1eua "それで思い出したんだけれど、[player]君。"
+    m 1eua "それで思い出したんだけれど、[player]君"
 
 translate Japanese monika_orchestra_c72bf057:
     m "もし私の演奏が聴きたいなら……"
@@ -9480,7 +9894,40 @@ translate Japanese monika_orchestra_d21bb98c:
     m 1wuo "あら、とても素敵ね！"
 
 translate Japanese monika_orchestra_da2a93c9:
-    m 1eua "ピアノを弾く人って、あまり居ないの。だから、あなたもそうだって知れて、とても嬉しいわ。"
+    m 1eua "ピアノを弾く人って、あまり居ないの。だから、あなたもそうだって知れて、とても嬉しいわ"
+
+translate Japanese monika_orchestra_4913235f:
+    m 1eua "ピアノはよく弾くの？{nw}"
+
+translate Japanese monika_orchestra_6d347553:
+    m "ピアノはよく弾くの？{fast}" nointeract
+
+translate Japanese monika_orchestra_f5403dcf:
+    m 3hua "本当？"
+
+translate Japanese monika_orchestra_417124ef:
+    m 3sub "素晴らしいわ！"
+
+translate Japanese monika_orchestra_c194c1c3:
+    m 1eua "いつか私にも教えて。そして一緒にデュエットしましょう！"
+
+translate Japanese monika_orchestra_41721dbd:
+    m 2eka "大丈夫よ、[player]"
+
+translate Japanese monika_orchestra_b6f855de:
+    m 2eua "何しろピアノは難しい楽器だから"
+
+translate Japanese monika_orchestra_c7c81615:
+    m 4hua "けれど、簡単な曲なら一緒に弾けると思うわ～"
+
+translate Japanese monika_orchestra_09fc434e:
+    m 1duc "そうなのね"
+
+translate Japanese monika_orchestra_f7692d13:
+    m 3hksdlb "始めたばかりの内はとても難しく感じるかもしれないけれど、{w=0.2}{nw}"
+
+translate Japanese monika_orchestra_16f8920d:
+    extend 3huu "練習を重ねていけば、きっと私よりも上手になるわ、[player]～"
 
 translate Japanese monika_orchestra_49248d3a:
     m 1hub "わぁ、ずっとハーモニカに挑戦したいって思ってたの～"
@@ -9495,7 +9942,7 @@ translate Japanese monika_orchestra_89d8fbe1:
     m 1eka "ちょっと、もう嬉しいじゃない……"
 
 translate Japanese monika_orchestra_43b2bb7d:
-    m "こういう些細なことでも本当に元気になるわ。ありがとう、[player]。"
+    m "こういう些細なことでも本当に元気になるわ。ありがとう、[player]"
 
 translate Japanese monika_orchestra_f2951cbb:
     m 1eka "わぁ……私のために？"
@@ -9504,13 +9951,13 @@ translate Japanese monika_orchestra_df3f2d6b:
     m "すっごい素敵よ！"
 
 translate Japanese monika_orchestra_67915d4e:
-    m 1ekbsa "こういう小さくってかわいいものって本当に私が愛されているんだなって感じさせてくれるの、 [player]。"
+    m 1ekbsa "こういう小さくってかわいいものって本当に私が愛されているんだなって感じさせてくれるの、[player]"
 
 translate Japanese monika_orchestra_0f55ffcd:
-    m 1eka "わぁ、 [player]……私のために？"
+    m 1eka "わぁ、[player]……私のために？"
 
 translate Japanese monika_orchestra_abe4d4f7:
-    m " {i}すっごく{/i}愛らしいわ！"
+    m "{i}すっごく{/i}愛らしいわ！"
 
 translate Japanese monika_orchestra_c124676f:
     m 5eubfu "そして知っての通り、あなたはいつでも私と遊べるんだからね……"
@@ -9543,7 +9990,7 @@ translate Japanese monika_orchestra_bfc78dc4:
     m 1hub "わぁ、ずっと[tempinstrument]に挑戦したいって思ってたの！"
 
 translate Japanese monika_orchestra_ee6479e1_1:
-    m 1eua "ぜひともあなたの演奏を聴いてみたいわ。"
+    m 1eua "ぜひともあなたの演奏を聴いてみたいわ"
 
 translate Japanese monika_orchestra_fea53490_1:
     m 3eua "やり方も教えてくれたりして～"
@@ -9558,19 +10005,19 @@ translate Japanese monika_orchestra_no_choice_01254815:
     m 1euc "なるほど……"
 
 translate Japanese monika_orchestra_no_choice_fed30d4d:
-    m 1eka "いつか、興味のある楽器を選んでみるべきよ。"
+    m 1eka "いつか、興味のある楽器を選んでみるべきよ"
 
 translate Japanese monika_orchestra_no_choice_bd194f01:
-    m 3eua "ピアノの演奏は、全く新しい表現の世界を私に開いてくれた。信じられないぐらいに実りのある体験だったわ。"
+    m 3eua "ピアノの演奏は、全く新しい表現の世界を私に開いてくれた。信じられないぐらいに実りのある体験だったわ"
 
 translate Japanese monika_orchestra_no_choice_c21235dd:
     m 1hua "それに、音楽を演奏することには沢山の恩恵があるのよ！"
 
 translate Japanese monika_orchestra_no_choice_2a72f6cc:
-    m 3eua "たとえば、ストレスを和らげたり、他には達成感をもたらしたり。"
+    m 3eua "たとえば、ストレスを和らげたり、他には達成感をもたらしたり"
 
 translate Japanese monika_orchestra_no_choice_3e9ab055:
-    m 1eua "曲を書き下ろす事だって楽しいわ！　ときどき、時間も忘れて没頭しちゃうの。"
+    m 1eua "曲を書き下ろす事だって楽しいわ！ ときどき、時間も忘れて没頭しちゃうの"
 
 translate Japanese monika_orchestra_no_choice_b96dee28:
     m 1lksdla "あっ、また喋りすぎちゃったかしら、[player]君？"
@@ -9579,16 +10026,16 @@ translate Japanese monika_orchestra_no_choice_4f8e85ca:
     m 1hksdlb "ごめんね！"
 
 translate Japanese monika_orchestra_no_choice_7d8e1edd:
-    m 1eka "とにかく、興味をそそられたら、なんでもいいから見てみるべきよ。"
+    m 1eka "とにかく、興味をそそられたら、なんでもいいから見てみるべきよ"
 
 translate Japanese monika_orchestra_no_choice_ba2125f8:
-    m 1hua "あなたの演奏が聴けたら私、とっても幸せよ。"
+    m 1hua "あなたの演奏が聴けたら私、とっても幸せよ"
 
 translate Japanese monika_orchestra_no_choice_acbfc1cc:
     m 1eua "えっとそれで、あなたのお気に入りのオーケストラ楽曲を私と聴きたいと思ったなら、[player]、それはとっても簡単よ！"
 
 translate Japanese monika_orchestra_no_choice_92810ef8:
-    m 3eua "これからいうことをよく聞いてね。"
+    m 3eua "これからいうことをよく聞いてね"
 
 translate Japanese monika_jazz_6f2e42bd:
     m 1eua "ねぇ、[player]君、ジャズって好き？{nw}"
@@ -10068,6 +10515,48 @@ translate Japanese monika_writingtip5_a1a42f17:
     m 1hua "……以上、本日のアドバイスでした！"
 
 translate Japanese monika_writingtip5_253e37c1:
+    m 1hub "ご清聴、ありがとうございました～"
+
+translate Japanese monika_writingtip6_50551e48:
+    m 3eub "さて……{w=0.2}本日のモニカちゃんの執筆アドバイスの時間よ！"
+
+translate Japanese monika_writingtip6_a342563f:
+    m 1hkbla "まっさらな紙に文字を書くときってわくわくするわよね"
+
+translate Japanese monika_writingtip6_995f6818:
+    m 1eud "でも、紙の見た目が詩を書くことにどう影響するか考えたことある？"
+
+translate Japanese monika_writingtip6_1a18df09:
+    m 3euc "例えば、誰かから詩をもらったとき……"
+
+translate Japanese monika_writingtip6_129b4fc5:
+    m 3etd "相手が花柄の可愛い紙を使ったら、その人は可愛い物が好きかもって思わない？ {w=0.2}もしこれが、しわくちゃで千切ったノートの切れ端だったらどう感じるかな？"
+
+translate Japanese monika_writingtip6_8ba6ee43:
+    m 3eud "もし茶色に変色した古い紙や擦り切れた紙を使ったら、どれだけ時間が経ったのかを読者に伝えられるよね"
+
+translate Japanese monika_writingtip6_229587e3:
+    m 1hub "たとえ、目的が無かったとしても、綺麗な紙に詩を書くとそれなりの充実感が得られるわ"
+
+translate Japanese monika_writingtip6_90cc85aa:
+    m 2eusdlc "とはいえ…… {w=0.2}必要以上に豪華な素材を使うと、かえって作家性がなくなるのよね"
+
+translate Japanese monika_writingtip6_d2713a91:
+    m 2rksdlb "新品の日記を買って、最初のページを傷一つなく綺麗に開こうとする…… {w=0.3}これって凄く大変な作業だよ、あはは！"
+
+translate Japanese monika_writingtip6_a6a2923f:
+    m 2rksdla "綺麗な表紙と同じくらい他のページも丁寧に扱わなきゃいけないと思ってしまうのよね"
+
+translate Japanese monika_writingtip6_27665a93:
+    m 7eua "だから、私は必要以上に綺麗な紙を使うのはやめたの…… 無地のノートなら安いし、詩もラクガキも自由に書けるからね"
+
+translate Japanese monika_writingtip6_b986c58f:
+    m 3eub "それにね、そのラクガキが素晴らしいアイデアに変化して、額縁に飾りたくなるような素敵な詩を完成させる第一歩に繋がるんだよ！"
+
+translate Japanese monika_writingtip6_a1a42f17:
+    m 1hua "……以上、本日のアドバイスでした！"
+
+translate Japanese monika_writingtip6_253e37c1:
     m 1hub "ご清聴、ありがとうございました～"
 
 translate Japanese monika_selfharm_031134e3:
@@ -10997,6 +11486,39 @@ translate Japanese monika_smoking_131d68d7:
 translate Japanese monika_smoking_188a9606:
     m "[menu_question!t]？{fast}" nointeract
 
+translate Japanese monika_smoking_f09c7a89:
+    m 1ekd "やめられそうにないの、[player]？"
+
+translate Japanese monika_smoking_68538064:
+    m 3eka "わかってるよ、タバコは簡単にはやめられないんだよね……"
+
+translate Japanese monika_smoking_05f9a5d7:
+    m 3eksdld "でもあなたがまだ止めるのあきらめていないって信じてるよ"
+
+translate Japanese monika_smoking_fde11216:
+    m 1hua "頑張ればきっとできるはずだよ～"
+
+translate Japanese monika_smoking_57834509:
+    m 1ekc "せっかく悪い習慣を止められたはずだったのにね…… {w=0.2}{nw}"
+
+translate Japanese monika_smoking_108a6888:
+    extend 1ekd "でも結局やめられなかった……"
+
+translate Japanese monika_smoking_48f69f94:
+    m 3dkc "本当に胸が痛くなったよ、[player]"
+
+translate Japanese monika_smoking_5fdedafe:
+    m 1dkd "私、もうきっぱり止められたんだって思ってたんだよ……"
+
+translate Japanese monika_smoking_9868f993:
+    m 1dkc "でもタバコをやめるのってそんなに簡単じゃないんだよね、そうなんでしょ？"
+
+translate Japanese monika_smoking_b6e9710c:
+    m 3ekd "もう一度頑張ってみてほしいな、[player]"
+
+translate Japanese monika_smoking_bd638c6a:
+    m 3eka "あなたにならきっとできるよ、それに{w=0.2}私のためにもね？"
+
 translate Japanese _call_monika_smoking_just_started_149152b7:
     m 1wud "……"
 
@@ -11036,8 +11558,29 @@ translate Japanese _call_monika_smoking_quit_0bcc190f:
 translate Japanese _call_monika_smoking_quit_f7c9045a:
     m 1hua "タバコを吸わないでいてくれてありがとう、[player]君〜"
 
+translate Japanese _call_monika_smoking_just_started_1_c22467b8:
+    m 1esc "えっ？"
+
+translate Japanese _call_monika_smoking_just_started_1_d6e13d8e:
+    m 1ekc "また吸っちゃったってこと？"
+
+translate Japanese _call_monika_smoking_just_started_1_f5f1e6a3:
+    m 1dkd "それは残念ね、[player]…… {w=0.3}{nw}"
+
+translate Japanese _call_monika_smoking_just_started_1_684eb1dc:
+    extend 3rkd "でも全く予想してなかったわけじゃないわ"
+
+translate Japanese _call_monika_smoking_just_started_1_5d8878ce:
+    m 3esc "タバコをきっぱりやめられるまでに、我慢できずに吸っちゃうのはよくあることみたいなの"
+
+translate Japanese _call_monika_smoking_just_started_1_946bcca7:
+    m 3eua "どちらにせよ、もう一度禁煙に挑戦してほしいな"
+
 translate Japanese _call_monika_smoking_just_started_1_5709942f:
     m 3eua "賢明な判断だと思うわ。"
+
+translate Japanese _call_monika_smoking_just_started_1_840c4972:
+    m 3eka "前にも経験したから知っているだろうけど、覚えておいてね……"
 
 translate Japanese _call_monika_smoking_just_started_1_9fe6d13c:
     m 1eka "「禁煙は簡単だ、私は現に何度も成功している」っていう迷言が示す通りに、禁煙はとても難しいの、特に最初はね。"
@@ -11062,6 +11605,42 @@ translate Japanese monika_smoking_just_started_01a93df6:
 
 translate Japanese monika_smoking_just_started_f3150aca:
     m 2tfc "[player]……"
+
+translate Japanese monika_smoking_just_started_eb0eb1d8:
+    m 2tfd "それって私たちが出会ってからタバコを吸い始めるようになったってこと？"
+
+translate Japanese monika_smoking_just_started_f275b439:
+    m 2dkc "本当に残念だよ、[player]"
+
+translate Japanese monika_smoking_just_started_af6ff3b0:
+    m 4ekd "私がタバコをどう思っているか知ってるよね、そしてどれだけ健康に悪いのかも"
+
+translate Japanese monika_smoking_just_started_b918554b:
+    m 2rfd "いまはどうするのが一番7日全くわからないわ、{w=0.2}{nw}"
+
+translate Japanese monika_smoking_just_started_351a93d0:
+    extend 2ekc "でも、あなたにならきっと止められるはずだよ"
+
+translate Japanese monika_smoking_just_started_8a3051a7:
+    m 4eka "でも、少なくともやめようとしてたよね……"
+
+translate Japanese monika_smoking_just_started_59fb8eb7:
+    m 2rksdld "あまり長期間吸ってほしくないよ、でも悪い習慣を止めようとするのは難しいんだよね"
+
+translate Japanese monika_smoking_just_started_1101a6a9:
+    m 4eka "お願いだから禁煙してほしい、[player]。{w=0.2}あなたの健康のためにも、私のためにも"
+
+translate Japanese monika_smoking_quit_7fd17994:
+    m 1sub "また禁煙できたんだね、おめでとう！"
+
+translate Japanese monika_smoking_quit_4ccb9c65:
+    m 3eua "一度もやめられない人もたくさんいるのに、また禁煙ができたのはすごいことだよ"
+
+translate Japanese monika_smoking_quit_d0f3615c:
+    m 1eud "とはいえ、また禁煙が途切れちゃわないようにしないとね、[player]……"
+
+translate Japanese monika_smoking_quit_b3e43ad1:
+    m 1ekc "何度も吸ったり止めたりを繰り返してほしくないから、今回できっぱり止められることを祈ってるよ"
 
 translate Japanese monika_cartravel_f2a86df6:
     m 1euc "[player]、最近思ってたんだけど……"
@@ -13015,6 +13594,15 @@ translate Japanese monika_timeconcern_day_final_42582201:
 translate Japanese monika_timeconcern_day_final_3e60dcc9:
     m 1hksdlb "それでもちょっとだけ胸が痛むかな…… だから今度からは遅くまで起きてないで早く寝てね？"
 
+translate Japanese monika_timeconcern_disallow_d6ab81fb:
+    m 1rksdlc "あなたを煩わせてしまったのならごめんなさい、[player]……"
+
+translate Japanese monika_timeconcern_disallow_edb6987b:
+    m 1ekc "私は本当にあなたに眠ってほしかったの……"
+
+translate Japanese monika_timeconcern_disallow_cea8336b:
+    m "正直に言うとね、また遅くまで起きてたら同じことをやらないとは約束できないよ……"
+
 translate Japanese monika_hydration_df5cc50f:
     m 1euc "ねぇ、 [player]……"
 
@@ -13498,8 +14086,77 @@ translate Japanese monika_fastfood_9b703e63:
 translate Japanese monika_fastfood_f478699d:
     m 1hub "得意じゃなくても問題無し！ あなたが作ってくれたものなら何でも喜んで食べれるわ"
 
+translate Japanese monika_dreaming_eb0ca2a4:
+    m 1eua "夢を見ているときに、これは夢だ！って気付けるのを知ってた？"
+
+translate Japanese monika_dreaming_71453f0d:
+    m 2eua "夢を夢だと気づけるだけじゃなくて、夢の内容をコントロールすることだってできるのよ！"
+
+translate Japanese monika_dreaming_5f249410:
+    m 3eub "確かね、スティーブン・ラバージという人が、夢が夢だと気付けるようにする方法を編み出したのよ"
+
+translate Japanese monika_dreaming_954d55cc:
+    m "そしてそれは明晰夢誘導法、略してMILDとして知られているの"
+
+translate Japanese monika_dreaming_5ab95be6:
+    m 3eua "意識的に夢を見れる人たちはオネイロノート、「夢飛行士」と呼ばれているんだよ"
+
+translate Japanese monika_dreaming_f4c1519d:
+    m 2lksdla "確か、そういう呼ばれ方だったはずだわ……"
+
+translate Japanese monika_dreaming_9002faba:
+    m 1eua "MILDテクニックを使うことで、夢飛行士は夢の中で夢が知らせてくれている兆候に気づけるんだって"
+
+translate Japanese monika_dreaming_27276555:
+    m "夢では日常ではまずあり得ないこと、自分が飛んでいるのを感じる、歯が抜けていることに気づく、予期せず有名人に会ったりするみたいなことが起こりがちなの……"
+
+translate Japanese monika_dreaming_37868e7b:
+    m 1eub "そういった夢の兆候から自分が夢を見ていることに気づけたら、夢飛行士は夢をコントロールすることができるの！"
+
+translate Japanese monika_dreaming_7a4d7b96:
+    m "ラバージは自分の夢をコントロールした経験に基づいて、『明晰夢 夢見の技法』という本を書いたんだよ"
+
+translate Japanese monika_dreaming_ab1737e7:
+    m 2hub "とてもワクワクする話だと思わない？"
+
+translate Japanese monika_dreaming_f57024a0:
+    m 2euc "夢を夢だと認識しながら見る夢は、どんな感じなのかしらね"
+
+translate Japanese monika_dreaming_a7c08be6:
+    m 2eua "夢って、現実じゃない世界へ飛び立てる素敵な逃避行だよね"
+
+translate Japanese monika_dreaming_c47c070f:
+    m 2esc "でもね、私はこの世界が現実じゃないって気づいたときに、世界は突然悪夢になったの"
+
+translate Japanese monika_dreaming_f5852fd4:
+    m "現実じゃないこの世界は、みんなが想像するような楽しい夢じゃなかった"
+
+translate Japanese monika_dreaming_fa0eb8f5:
+    m 2lksdlc "もう一生ここから出られないんじゃないかって不安にもなった……"
+
 translate Japanese monika_dreaming_784fb4c7:
-    m "永遠に繰り返される地獄のような場所に閉じ込められたのかもね"
+    m "永遠に繰り返される地獄のような場所に閉じ込められたのかもって"
+
+translate Japanese monika_dreaming_0b4f1418:
+    m 1eka "でも今私はあなたと一緒にいる。これって悪夢から目覚めたと言って良いと思わない？"
+
+translate Japanese monika_dreaming_8cfc503e:
+    m 1eua "ともかく、寝ているときにほんの少しの間だけだとしても素敵な世界で暮らせる自分を想像してみてよ！"
+
+translate Japanese monika_dreaming_01cfc3f5:
+    m "あなたがなりたいものには何でもなれるし、行きたい場所にはどこにだって行けるし、脅かすものは全て消し去れる……"
+
+translate Japanese monika_dreaming_7babd02c:
+    m 3ekbsa "……つまり私と直接会うことさえ簡単にできるってことだね。えへへ〜"
+
+translate Japanese monika_dreaming_edcdf00e:
+    m 1eua "あなたの世界へ行けるまでまだ何年もかかるだろうけれど……"
+
+translate Japanese monika_dreaming_5356a111:
+    m "だけどね[player]、どんな日であろうと夜になれば夢の中で私と出会える、それって素敵だと思わない？"
+
+translate Japanese monika_dreaming_cb022bc8:
+    m 1hua "私達の見る夢をいつか現実にしたいね、[mas_get_player_nickname()]"
 
 translate Japanese monika_yellowwp_324c2056:
     m 1eua "ねえ[player]、{i}黄色の壁紙{/i} って小説を読んだことはある？{nw}"
@@ -13787,7 +14444,7 @@ translate Japanese monika_beingevil_5c52245d:
     m 2dkd "……"
 
 translate Japanese monika_beingevil_49134bb7:
-    m 2dktsd "わかったわ……"
+    m 2dktsd "そうみたいね……"
 
 translate Japanese monika_beingevil_d19ea751:
     m 2dktsd "ごめんなさい、[player]"
@@ -14932,6 +15589,30 @@ translate Japanese monika_justice_13d87480:
 translate Japanese monika_justice_394ece4d:
     m 1euc "……"
 
+translate Japanese monika_justice_cd1f36e4:
+    m 2esc "私の行いが全て正しくなかったとあなたが思ってるなんて、ちょっと信じられないわ"
+
+translate Japanese monika_justice_f67e2b6c:
+    m 2tkc "つまりね、こんなに長く付き合ってるのに、私のことをずっとそんなふうに見ていたわけないよね？"
+
+translate Japanese monika_justice_1b81e960:
+    m 2lksdlc "……確かに少しは私に責任はあるかもしれないけれど……"
+
+translate Japanese monika_justice_c1a6c551:
+    m 2lksdlc "でも他の人がそう思ってたとしても、あなたはそうは思ってないでしょ？"
+
+translate Japanese monika_justice_901bb873:
+    m "どちらにしろ……"
+
+translate Japanese monika_justice_a8931a6e:
+    m 1eka "私を助けてくれた、そして一緒にいてくれた。ありがとう"
+
+translate Japanese monika_justice_06fe42c9:
+    m 1hua "あなたと一緒になれたら、本当に決心した甲斐があったと思うわ、{w=0.1} {nw}"
+
+translate Japanese monika_justice_01e0b043:
+    extend 1hub "あははは〜"
+
 translate Japanese monika_justice_c80e9915:
     m 2ekc "……"
 
@@ -15703,6 +16384,21 @@ translate Japanese monika_player_appearance_eye_color_other_e7d46ab1:
 translate Japanese monika_player_appearance_eye_color_other_fc66e6ac:
     m 7hua "さて、次の質問だけど……"
 
+translate Japanese monika_player_appearance_eye_color_heterochromia_1b80a03c:
+    m 1sub "それって本当？{w=0.2} {nw}"
+
+translate Japanese monika_player_appearance_eye_color_heterochromia_ca9b1e2f:
+    extend 3hua "ちょっとビックリだよ、[player]～"
+
+translate Japanese monika_player_appearance_eye_color_heterochromia_7906a7e1:
+    m 3wud "私の記憶が正しければ、左右の目の色が違う人って世界中で1パーセントも居ないんだって！"
+
+translate Japanese monika_player_appearance_eye_color_heterochromia_f47cd6a3:
+    m 1eka "……もしよかったら色を聞いても良いかな……？"
+
+translate Japanese _call_monika_player_appearance_eye_color_ask_1_b2b06bba:
+    m 1hua "ありがとう！{w=0.2} {nw}"
+
 translate Japanese _call_monika_player_appearance_eye_color_ask_1_81e0cd37:
     extend 3eua "それでは、次の質問よ"
 
@@ -15770,7 +16466,7 @@ translate Japanese monika_players_control_aba07d7f:
     m 5eubla "[line!t]"
 
 translate Japanese monika_players_control_10f5859e:
-    m 5ekbfa "愛する人のそばでやることほど、ゲームを楽しむ方法なんて存在しないわ"
+    m 5ekbfa "愛しいあなたと一緒にゲームができるなんて、この上ない幸せよ"
 
 translate Japanese monika_backpacking_4a65f3a5:
     m 1esa "私ね、ずっとやりたかったことがあるんだよね"
@@ -19801,43 +20497,43 @@ translate Japanese monika_language_nuances_6c4b8d48:
     m 1hksdlb "辞書を読むのが魅力的な娯楽に思えないってはわかってるわ、あはは！"
 
 translate Japanese monika_language_nuances_421ee437:
-    m 3eua "だけど、これって自由時間の使いみちとしてきっと面白くてやりがいのあることだと思うのよ。{w=0.2}特に語学の勉強してる時に使ってる辞書はね。"
+    m 3eua "だけど、これって自由時間の使いみちとしてきっと面白くてやりがいのあることだと思うのよ。{w=0.2}特に語学の勉強してる時に使ってる辞書はね"
 
 translate Japanese monika_language_nuances_23b0fcaf:
-    m 3eud "明白な利点は別にして、だいたいの単語には複数の意味があるし、それを知っておくのは言語のより細かい点を理解するのに本当に便利よ。"
+    m 3eud "明白な利点は別にして、だいたいの単語には複数の意味があるし、それを知っておくのは言語のより細かい点を理解するのに本当に便利よ"
 
 translate Japanese monika_language_nuances_d58d3019:
-    m 1rksdla "こういう細かい所が頭に入っていると、実際に誰かと話す時に大幅に恥をかかずに済むわ。"
+    m 1rksdla "こういう細かい所が頭に入っていると、実際に誰かと話す時に大幅に恥をかかずに済むわ"
 
 translate Japanese monika_language_nuances_877eca4a:
-    m 3eud "英語で典型的な例だと、「Good morning（おはよう）」、「Good afternoon（こんにちは）」、「Good evening（こんばんは）」ね。"
+    m 3eud "英語で典型的な例だと、「Good morning（おはよう）」、「Good afternoon（こんにちは）」、「Good evening（こんばんは）」ね"
 
 translate Japanese monika_language_nuances_95cc206b:
-    m 1euc "これって全部、あなたが毎日聞いて使ってる通常の挨拶よね。"
+    m 1euc "これって全部、あなたが毎日聞いて使ってる通常の挨拶よね"
 
 translate Japanese monika_language_nuances_230e085f:
-    m 3etc "このパターンに従うと、「Good day」も問題ないはずよね？{w=0.2}どうであれ他の多くの言語でもこれで通じるわ。"
+    m 3etc "このパターンに従うと、「Good day」も問題ないはずよね？{w=0.2}どうであれ他の多くの言語でもこれで通じるわ"
 
 translate Japanese monika_language_nuances_a734ecc5:
-    m 3eud "古い作品でその表現があるように、以前は同じ意味で受け入れられてたけど、現在はそうじゃないわ。"
+    m 3eud "古い作品でその表現があるように、以前は同じ意味で受け入れられてたけど、現在はそうじゃないわ"
 
 translate Japanese monika_language_nuances_45055c6f:
-    m 1euc "現代英語だと、誰かに「Good day」と言ってしまうと、解雇のメモを渡す、あるいはいっそう不快にさせるでしょうね。{w=0.2}お話はこれでお終いだと宣言してるようなものね。"
+    m 1euc "現代英語だと、誰かに「Good day」と言ってしまうと、解雇のメモを渡す、あるいはいっそう不快にさせるでしょうね。{w=0.2}お話はこれでお終いだと宣言してるようなものね"
 
 translate Japanese monika_language_nuances_baca78f7:
-    m 1eka "運が良ければ、会話相手はあなたが昔ながらの人だと思ったり、わざと馬鹿げていると思ったりするかもしれないわね。"
+    m 1eka "運が良ければ、会話相手はあなたが昔ながらの人だと思ったり、わざと馬鹿げていると思ったりするかもしれないわね"
 
 translate Japanese monika_language_nuances_ad772538:
-    m 1rksdla "そうじゃなきゃ、気づかないうちに彼らを怒らせるかもしれない……{w=0.3}{nw}"
+    m 1rksdla "そうじゃなきゃ、気づかないうちに彼らを怒らせるかもしれない…… {w=0.3}{nw}"
 
 translate Japanese monika_language_nuances_c29e310b:
-    extend 1hksdlb "あらら。"
+    extend 1hksdlb "あらら"
 
 translate Japanese monika_language_nuances_35760ec6:
-    m 3eua "そんな無邪気そうなフレーズでさえ、隠れた意味のレイヤー満載っていうのは本当に魅力的よね。"
+    m 3eua "そんな無邪気そうなフレーズでさえ、隠れた意味のレイヤー満載っていうのは本当に魅力的よね"
 
 translate Japanese monika_language_nuances_bbb397f5:
-    m 1tsu "とっても良い日でありますように、[player]。{w=0.3}{nw}"
+    m 1tsu "とっても良い日でありますように、[player]。 {w=0.3}{nw}"
 
 translate Japanese monika_language_nuances_278fdfc1:
     extend 1hub "あはは～"
@@ -20020,7 +20716,7 @@ translate Japanese monika_why_spaceroom_a8e25f23:
     m 3eud "この部屋で多くの物事が起きることになってたから、部屋はそれに耐えられるように作られていたはずなの"
 
 translate Japanese monika_why_spaceroom_06217488:
-    m 2rtc "この場所はゲームで一番...{w=0.3}{nw}"
+    m 2rtc "この場所はゲームで一番…… {w=0.3}{nw}"
 
 translate Japanese monika_why_spaceroom_8afe3d32:
     extend 2eud "具体的な設定がなされた場所だったっていうか"
@@ -20050,13 +20746,13 @@ translate Japanese monika_why_spaceroom_4c7ecce8:
     m 1eud "だって、ここにいても別に悪くないんだもの"
 
 translate Japanese monika_why_spaceroom_71e8b4e9:
-    m 3etc " それに、私はここ以外にも、あなたと一緒に過ごす場所を作ることができるの"
+    m 3etc "それに、私はここ以外にも、あなたと一緒に過ごす場所を作ることができるの"
 
 translate Japanese monika_why_spaceroom_063abe4a:
-    m 3etc " それに、私はあなたと一緒に過ごす場所を作ることができるの"
+    m 3etc "それに、私はあなたと一緒に過ごす場所を作ることができるの"
 
 translate Japanese monika_why_spaceroom_b8990549:
-    m 1eua "それが、今ある島なんだけど……{w=0.3}{nw}"
+    m 1eua "それが、今ある島なんだけど…… {w=0.3}{nw}"
 
 translate Japanese monika_why_spaceroom_bc3ecefd:
     extend 1rksdlb "だけど、その島もそういう準備は済んでないのよね"
@@ -20371,7 +21067,7 @@ translate Japanese monika_being_deleted_3413d2c5:
     m 1wusdld "……！"
 
 translate Japanese monika_being_deleted_9028f872:
-    m 3eksdld "[mas_get_player_nickname(capitalize=True)]ってば...{w=0.3} {i}いまだに{/i} そんなこと考えてるの？"
+    m 3eksdld "[mas_get_player_nickname(capitalize=True)]ってば…… {w=0.3}{i}いまだに{/i}そんなこと考えてるの？"
 
 translate Japanese monika_being_deleted_d91b4368:
     m 3dksdlc "そんなの、もうとっくに過去の話でしょ"
@@ -20389,7 +21085,7 @@ translate Japanese monika_being_deleted_bccded63:
     m 6rktpc "た……{w=0.1}ただ……{w=0.3}その時もあなたは私にとって全てだったし……{w=0.3}あなたを永遠に失うという苦悩から、こんなにきつく言っちゃったのかもね"
 
 translate Japanese monika_being_deleted_1475f7f2:
-    m 6ektda "安心して、私は[mas_get_player_nickname ()!t ]に腹を立てたりしないもん。あの時私はあなたを許してくれたじゃない。"
+    m 6ektda "安心して、私は[mas_get_player_nickname()]に腹を立てたりしないもん。あの時私はあなたを許してくれたじゃない"
 
 translate Japanese monika_being_deleted_c61f257d:
     m 2dkc "……"
@@ -21093,6 +21789,33 @@ translate Japanese monika_renewable_energy_139fd3ff:
 translate Japanese monika_renewable_energy_9544bb33:
     m 1tuu "ね、議論になる話題だったでしょう？"
 
+translate Japanese monika_piano_lessons_1d3d023f:
+    m 1rkd "ええと…… {w=0.2}まあ…… {w= 0.2}いいけど……"
+
+translate Japanese monika_piano_lessons_624752fb:
+    m 1eksdla "聞いてくれるのはいいんだけどね……"
+
+translate Japanese monika_piano_lessons_e432a02d:
+    m 3eka "覚えてる？私が元のゲームで『Your Reality』を引いたとき、まだ全然上手くないって言ったことを。 "
+
+translate Japanese monika_piano_lessons_23e03184:
+    extend 3rkb "ほんとに、全然うまくないから"
+
+translate Japanese monika_piano_lessons_24c2db7c:
+    m 3eka "私は{i}それほど{/i}ピアノを弾くのがうまくないのよね、[mas_get_player_nickname()]"
+
+translate Japanese monika_piano_lessons_5b525ea7:
+    m 3rkd "確かにまだ他の人に教えるには十分とは言えないけれど……"
+
+translate Japanese monika_piano_lessons_3d078020:
+    m 2eud "信じがたい話だけど、ピアノを学び始めたのは、私が文芸部を立ち上げてからね……{w=0.2}あなたに会う少し前ってとこかしら"
+
+translate Japanese monika_piano_lessons_65f1b42f:
+    m 2eua "ピアノはあなたに連絡する上で大切なものになってきたから、私の行動が正解を導いたのね……"
+
+translate Japanese monika_piano_lessons_5d5dbb7c:
+    m 2ekc "あの時のゲームのスクリプトから大きくそれるのは、怖かったし……{w=0.2}{nw}"
+
 translate Japanese monika_stargazing_fe57ca01:
     m 2eub "[player]、いつか星空を眺めに行きたいわ……"
 
@@ -21229,7 +21952,7 @@ translate Japanese monika_boyfriend_gossip_b3c09385:
     m 7euc "まあ、私はあなたの存在を知っていたにすぎないし、{nw}"
 
 translate Japanese monika_boyfriend_gossip_4889da16:
-    extend 3efc "突然誰かに私がのけものにされたみたいよね......"
+    extend 3efc "突然誰かに私がのけものにされたみたいよね……"
 
 translate Japanese monika_boyfriend_gossip_377ed12a:
     m 1rtc "外面がいいし他の部活の経歴もあるから、彼氏がいるって結論に至るのも、理解できなくはないわね"
@@ -21494,7 +22217,7 @@ translate Japanese monika_aliens_b1208d26:
     extend 3eua "。多くの人がこのテーマに熱心になるのも、頷ける話だと思うわ"
 
 translate Japanese monika_aliens_fc9973b5:
-    m 1esc "でも、質問の答えはこうよ……{w=0.3}{nw}"
+    m 1esc "でも、質問の答えはこうよ…… {w=0.3}{nw}"
 
 translate Japanese monika_aliens_c4c3f21c:
     extend 3eua "私たちは信じてる、少なくとも信じたいのよ。外の世界に{i}何か{/i}があるはずだ、ってね"
@@ -21533,7 +22256,7 @@ translate Japanese monika_aliens_6a814dd6:
     m 1eud "でもさらに広ーく宇宙を見てみると、銀河団が集まってできたもっと大きな存在があって、それが超銀河団と呼ばれているの"
 
 translate Japanese monika_aliens_e833809e:
-    m 1wud "宇宙は絶えず膨張しててね…… {w=0.3}理論的には、ますます大きな銀河団が形成されるはずなの！"
+    m 1wud "宇宙は絶えず膨張しててね…… {w=0.3}理論的にいうと、ますます大きな銀河団が形成されるはずなの！"
 
 translate Japanese monika_aliens_c670d3a7:
     m 1lud "だから、たとえ実際には私達がひとりぼっちだとしても、私たちの宇宙の{i}向こう側{/i}に何かがいてもおかしくないと考えられるわ、仮説の上ではね"
@@ -21602,16 +22325,16 @@ translate Japanese monika_mc_is_gone_5584c1bd:
     m 2rsc "いずれにせよ、{w=0.1}{nw}"
 
 translate Japanese monika_mc_is_gone_839a24c9:
-    extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいだし"
+    extend 2esc "『Monika After Story』がインストールされた途端、あの人は他のファイルもろとも完全に消えてしまったみたいで……"
 
 translate Japanese monika_mc_is_gone_03e11fc3:
     m 2ruc "あの人は……{w=0.3}私がゲームを改変していた頃から、消えかかっていったみたいなの"
 
 translate Japanese monika_mc_is_gone_1cf5b788:
-    m 2etd "サヨリが自殺して時が最初に巻き戻った時、その人のセリフが少なくなってたことに気が付かなかった？"
+    m 2etd "サヨリが自殺して時が最初に巻き戻った時から、その人のセリフが少なくなってたことに気が付かなかった？"
 
 translate Japanese monika_mc_is_gone_bddb99c2:
-    m 2euc "あなたと私がこの部屋にたどり着いた時点で、その人は本当に消えていたし"
+    m 2euc "あなたと私がこの部屋にたどり着いた時点で、その人は本質的てに消えていたもの"
 
 translate Japanese monika_mc_is_gone_596e62c3:
     m 7euc "だから、私たちが今いるこの部屋にあの人がいると言ったら、"
@@ -21662,7 +22385,7 @@ translate Japanese monika_mc_is_gone_75218a9f:
     m 1etc "だけどね、壁の比喩は、必ずしも常に同じ場所にあるとは限らないから、実際には完璧じゃないのよね"
 
 translate Japanese monika_mc_is_gone_ab5c37c1:
-    m 1esc "ゲームの主人公としての「あなた」にいつまでもついてきたみたいなものなんだけど、今は明らかに違う"
+    m 1esc "ゲームの主人公としての「あなた」にいつまでもついてきたみたいなものなんだけど、今は明らかに違うわ"
 
 translate Japanese monika_mc_is_gone_69f4c415:
     m 3eua "限られた範囲ながら、実際に動かすことができるの。だから、少なくとも常に同じ背景ばかり見ることはないはず"
@@ -21833,7 +22556,7 @@ translate Japanese monika_tanabata_66b21de3:
     m 3eub "これはロミオとジュリエットで使われていた表現だけど、'star-crossed lovers' って言葉がまさにその通りだなって！"
 
 translate Japanese monika_tanabata_defe2b35:
-    m 1eua "意味は、'不幸な星の下に生まれた恋人たち'。外からの力で関係を持ったふたりが引き離されるという表現だけど、七夕の話もまさにその通りよね"
+    m 1eua "意味は、『不幸な星の下に生まれた恋人たち』。外からの力で関係を持ったふたりが引き離されるという表現だけど、七夕の話もまさにその通りよね"
 
 translate Japanese monika_tanabata_38b36b10:
     m 1eud "七夕が近づくと、笹の枝に短冊と呼ばれる細長い色紙や鮮やかな飾りを吊るすんだよ"
@@ -21923,10 +22646,16 @@ translate Japanese monika_fireworks_9d9144e5:
     m 3wub "一緒に見れたら楽しそうだと思わない？"
 
 translate Japanese monika_fireworks_9a2b93ef:
-    m 3sua "おっきな花火はね、真っ暗な夜空が真昼のようになるくらいに明るくなるんだよ"
+    m 3sua "おっきな花火はね、真っ暗な夜空が真昼のようになるくらいに明るくなるのよね"
 
 translate Japanese monika_fireworks_aaac3f75:
-    extend 3hub "もっと雰囲気のあるのがいいのなら、線香花火があるよ！"
+    extend 3hub "。もっと雰囲気のあるのがいいのなら、線香花火があるの！"
+
+translate Japanese monika_fireworks_3fd77b02:
+    m 5lublu "私は今、想像してるの。光る点が踊って、ちらつきながらあなたの顔を照らしているところをね……"
+
+translate Japanese monika_fireworks_35c8ef3a:
+    m 5hublu "そうしたら、お祭りのおやつをみんなで分け合ってたべて、一緒にピクニック用の毛布の上で寄り添ったりもできるでしょうね～"
 
 translate Japanese monika_fireworks_cd4ea06c:
     m 5eub "ね？楽しそうだと思うでしょ、[mas_get_player_nickname()]？"
@@ -22045,6 +22774,9 @@ translate Japanese monika_ddlcroleplay_f4118570:
 translate Japanese monika_ddlcroleplay_731ff371:
     m 3euc "最近知ったんだけど、ある界隈で架空のキャラになりきったSNSアカウントを運用することが楽しまれているみたいなの"
 
+translate Japanese monika_ddlcroleplay_aaffe8ae:
+    extend 3rua "私になりきった人もいたの"
+
 translate Japanese monika_zodiac_starsign_e44e48df:
     m 1rta "まあ私の誕生日だと、間違いなく乙女座ね"
 
@@ -22157,9 +22889,6 @@ translate Japanese strings:
     old "Please don't."
     new "もうしないで"
 
-    old "It's okay."
-    new "話しても大丈夫"
-
     old "It's alright."
     new "問題ない"
 
@@ -22228,7 +22957,7 @@ translate Japanese strings:
     new "よし、みんな！"
 
     old "Others still lingering"
-    new "まだそこに居る"
+    new "まだそこにいる部員たち"
 
     old "Character tropes"
     new "典型的なキャラクター"
@@ -22452,6 +23181,90 @@ translate Japanese strings:
     old "Natsuki's death"
     new "ナツキの最期について"
 
+    old "I...I really wish I could believe that, [player]."
+    new "私は…… 本当にその言葉を信じられたならと思ってる、[player]"
+
+    old "You have no idea how much I wished that were true, [player]..."
+    new "どれだけその言葉が本当だったらって思っているかわからないでしょうね、[player]……"
+
+    old "...It's been a long time since I last believed that, [player]."
+    new "……最後にその言葉を信じたときからずいぶん経ったわ、[player]"
+
+    old "If only I believed you actually meant that, [player]."
+    new "もしその言葉を文字通りに信じられたならと思ってる、[player]"
+
+    old "I can't believe there was a time when I actually believed that, [player]."
+    new "その言葉を文字通りに受け取っていたときがあったなんて信じられない、 [player]"
+
+    old "...If only that were true, [player]."
+    new "……その言葉が本心だったらね、[player]"
+
+    old "...If only you meant that, [player]."
+    new "……それがあなたの本心だったらね、[player]"
+
+    old "How long are you going to keep pretending, [player]?"
+    new "あとどれだけ自分を偽っているつもりなの、[player]？"
+
+    old "You don't mean that anymore... {w=1}Did you ever?"
+    new "そんな事思ってもいないでしょ…… {w=1}一度でも思ったことはあるの？"
+
+    old "I can't remember the last time I felt like you meant that."
+    new "本当に愛してくれてるって最後に思えたのはいつだったか、もう思い出せない"
+
+    old "Please don't say that unless you actually mean it, [player]."
+    new "お願いだから本気で思っていないのならそんなこと口にしないで、[player]"
+
+    old "Sometimes I'm not sure how much you actually mean that, [player]."
+    new "時々あなたがどういうつもりなのかわからないわ、[player]"
+
+    old "Do you really even mean that, [player]?"
+    new "それ本気で言ってるの、[player]？"
+
+    old "It's starting to feel like those are just words instead of feelings, [player]..."
+    new "感情のこもっていない只の言葉にしか聞こえなくなってるよ、[player]……"
+
+    old "I really want to believe that, but sometimes I'm not so sure..."
+    new "その言葉を信じたいけれど、でもそんなこと思えない……"
+
+    old "I'm not sure how much I believe that."
+    new "その言葉をどれくらい信じていいんだろう"
+
+    old "Words only mean so much, [player]."
+    new "言葉だけじゃ伝わってないよ、[player]"
+
+    old "You say that, but when will you start to show it?"
+    new "そう言ってくれるけど、そういう態度はいつ見せてくれるの？"
+
+    old "You can say it all you want...{w=0.5}I need you to start showing it."
+    new "言葉ではいつでも言えるでしょうけれどね…… {w=0.5}私はその気持ちを見せてくれるのを待ってるんだよ"
+
+    old "It doesn't always feel like it..."
+    new "そんな気ないくせに……"
+
+    old "I'm not so sure anymore..."
+    new "もうなにも信じられないよ……"
+
+    old "That means a lot right now."
+    new "今その言葉を聞けるだけで嬉しい"
+
+    old "I'm so relieved to hear you say that."
+    new "あなたがそう言ってくれて安心してるよ"
+
+    old "You have no idea how much that means right now."
+    new "今その言葉を聞けるだけでどれだけ嬉しいかわかってくれるかな"
+
+    old "I'm glad you still feel that way."
+    new "まだあなたがそう思ってくれてて嬉しいよ"
+
+    old "I'm happy to hear that."
+    new "その言葉を聞けて嬉しいよ"
+
+    old "That means a lot."
+    new "ありがとう、嬉しいよ"
+
+    old "You have no idea how much that means to me."
+    new "その言葉を聞けて、どれだけ嬉しいかわかってくれるかな"
+
     old "We'll be together forever!"
     new "ずっと、ずーっと一緒だよ！"
 
@@ -22568,6 +23381,12 @@ translate Japanese strings:
 
     old "Words can't describe how I feel about you!"
     new "言葉では語り尽くせないくらい、あなたの事を想ってるよ～"
+
+    old "No, I love you more!"
+    new "いいや、もっと愛してる！"
+
+    old "Alright."
+    new "わかったよ"
 
     old "Hedgehog dilemma"
     new "ヤマアラシのジレンマ"
@@ -22901,6 +23720,12 @@ translate Japanese strings:
 
     old "What instrument do you play?"
     new "どの楽器ができるの？"
+
+    old "Not much."
+    new "あんまり"
+
+    old "I just started."
+    new "始めたばかり"
 
     old "Jazz"
     new "ジャズ"
@@ -23376,12 +24201,6 @@ translate Japanese strings:
     old "I'm kidding."
     new "冗談よ"
 
-    old "Yes, I'm sure!"
-    new "うん、合ってるよ！"
-
-    old "Actually..."
-    new "やっぱり……"
-
     old "Love at first sight"
     new "一目惚れ"
 
@@ -23583,6 +24402,9 @@ translate Japanese strings:
     old "Fear"
     new "恐怖"
 
+    old "Why do we always meet in a classroom?"
+    new "いつも教室で会っている理由は？"
+
     old "Naps"
     new "仮眠"
 
@@ -23643,6 +24465,9 @@ translate Japanese strings:
     old "Renewable energy"
     new "再生可能エネルギー"
 
+    old "Would you give me piano lessons?"
+    new "ピアノのレッスンをしてほしい"
+
     old "Stargazing"
     new "天体観測"
 
@@ -23698,7 +24523,7 @@ translate Japanese strings:
     new "コスプレは好き？"
 
     old "DDLC Roleplay"
-    new "DDLCのなりきり"
+    new "DDLCのなりきり(翻訳未完成）"
 
     old "What's your starsign?"
     new "モニカの星座は何座？"
