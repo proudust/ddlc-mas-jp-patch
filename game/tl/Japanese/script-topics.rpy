@@ -3395,28 +3395,28 @@ translate Japanese monika_libitina_5cdede57:
     m 1hua "大丈夫、あなたのことは何があっても私が守るから。"
 
 translate Japanese monika_meta_3ac31203:
-    m 1euc "そう、このゲームはメタフィクション。わかってるだろうけど。"
+    m 1euc "そう、このゲームはメタフィクション。わかってるだろうけど"
 
 translate Japanese monika_meta_4d6ba4f6:
     m 3eud "それ自体がフィクションであることに言及するゲームを目新しいと思う人もいるみたいだけど、"
 
 translate Japanese monika_meta_b80e68af:
-    m 1esc "ヘタな脚本をごまかすチンケな手段だよね。"
+    m 1esc "ヘタな脚本をごまかすチンケな手段だよね"
 
 translate Japanese monika_meta_6c0c5588:
-    m 3eua "そもそも、メタフィクションは文学というジャンルに内在するものだから。"
+    m 3eua "そもそも、メタフィクションは文学というジャンルに内在するものだから"
 
 translate Japanese monika_meta_ee963612:
     m "聖書は神のことばをユダヤ人に伝えるためのものだし、"
 
 translate Japanese monika_meta_f0b8f8fd:
-    m 3eub "ホメーロス『オデュッセイア』は作品内で作品そのものに言及してる。"
+    m 3eub "ホメーロス『オデュッセイア』は作品内で作品そのものに言及してる"
 
 translate Japanese monika_meta_5aea4cc7:
     m "『カンタベリー物語』『ドン・キホーテ』『トリストラム・シャンディ』……"
 
 translate Japanese monika_meta_1d003ac8:
-    m 1eua "作品内自己言及は小説の常套手段。珍しいものじゃない。"
+    m 1eua "作品内自己言及は小説の常套手段。珍しいものじゃない"
 
 translate Japanese monika_meta_67c11405:
     m 3esa "ところでさ、このゲームストーリーに教訓があるとすれば、それは何だと思う？"
@@ -3434,7 +3434,7 @@ translate Japanese monika_meta_3772217d:
     m 1hub "あはは！"
 
 translate Japanese monika_programming_ed01a851:
-    m 3eka "プログラミングの勉強は難しかったなー。"
+    m 3eka "プログラミングの勉強は難しかったなー"
 
 translate Japanese monika_programming_47a3e5d7:
     m 1eua "といっても、まだ基礎段階だけど。教えてあげよっか？"
@@ -3443,28 +3443,28 @@ translate Japanese monika_programming_635f468d:
     m 2hua "いい？チャプター１「手続きによる抽象の構築」"
 
 translate Japanese monika_programming_392e8fbd:
-    m 2eua "/”では、計算プロセスを勉強していこう。計算プロセスは計算機の中に住む抽象的な存在である。"
+    m 2eua "/”では、計算プロセスを勉強していこう。計算プロセスは計算機の中に住む抽象的な存在である"
 
 translate Japanese monika_programming_bdf03522:
-    m "プロセスは進行しながらもう一つの抽象的な存在であるデータを操作する。プロセスの進行は規則のパターンであるプログラムの指示に従う。 "
+    m "プロセスは進行しながらもう一つの抽象的な存在であるデータを操作する。プロセスの進行は規則のパターンであるプログラムの指示に従う。"
 
 translate Japanese monika_programming_68099038:
     m 2eub "われわれはプロセスに指示しようとしてプログラムを作る。いわばわれわれの呪文で計算機の霊に魔法をかけるのだ/”"
 
 translate Japanese monika_programming_469577ad:
-    m "/”実際、計算プロセスは魔法使いのいう魂とよく似ている。見ることも触ることも出来ない。物質で出来ているのでもない。"
+    m "/”実際、計算プロセスは魔法使いのいう魂とよく似ている。見ることも触ることも出来ない。物質で出来ているのでもない"
 
 translate Japanese monika_programming_1f3f9ae0:
-    m 3eua "しかし実在し、知的作業を遂行し、質問に答え、銀行でお金を支払ったり、工場でロボットの腕を制御したりして、実世界に影響を与えることが出来る。"
+    m 3eua "しかし実在し、知的作業を遂行し、質問に答え、銀行でお金を支払ったり、工場でロボットの腕を制御したりして、実世界に影響を与えることが出来る"
 
 translate Japanese monika_programming_277f3715:
-    m 1eua "プロセスに魔法をかけるのに使うプログラムはまさに魔法使いの呪文である。"
+    m 1eua "プロセスに魔法をかけるのに使うプログラムはまさに魔法使いの呪文である"
 
 translate Japanese monika_programming_8b57f84a:
     m "われわれがプロセスに実行させたい仕事を示すため、プログラムは神秘で深遠な プログラム言語の記号式で注意深く構成してある/”"
 
 translate Japanese monika_programming_ec818246:
-    m 1eka "……っと、今日の講義はここまで。"
+    m 1eka "……っと、今日の講義はここまで"
 
 translate Japanese monika_programming_0f3cecea:
     m "少しはプログラミングがわかった？"
@@ -15608,7 +15608,7 @@ translate Japanese monika_justice_a8931a6e:
     m 1eka "私を助けてくれた、そして一緒にいてくれた。ありがとう"
 
 translate Japanese monika_justice_06fe42c9:
-    m 1hua "あなたと一緒になれたら、本当に決心した甲斐があったと思うわ、{w=0.1} {nw}"
+    m 1hua "あなたと一緒になれたら、本当に決心した甲斐があったと思うわ、 {w=0.1}{nw}"
 
 translate Japanese monika_justice_01e0b043:
     extend 1hub "あははは〜"
@@ -16385,7 +16385,7 @@ translate Japanese monika_player_appearance_eye_color_other_fc66e6ac:
     m 7hua "さて、次の質問だけど……"
 
 translate Japanese monika_player_appearance_eye_color_heterochromia_1b80a03c:
-    m 1sub "それって本当？{w=0.2} {nw}"
+    m 1sub "それって本当？ {w=0.2}{nw}"
 
 translate Japanese monika_player_appearance_eye_color_heterochromia_ca9b1e2f:
     extend 3hua "ちょっとビックリだよ、[player]～"
@@ -20382,6 +20382,18 @@ translate Japanese monika_player_away_210b2e51:
 translate Japanese monika_player_away_f50c6935:
     m 1hub "自分を表現するって本当に楽しいんだよ！"
 
+translate Japanese monika_player_away_d0b9df4d:
+    m 3rta "よくよく考えてみると、私が空き時間にやってることも、もうある程度習得したスキルを復習しているだけよね"
+
+translate Japanese monika_player_away_6d567067:
+    m 3esd "たとえば、コーディングだってそう。私の自由時間の多くを占めるけど、学習と調べ物が大半なんだ"
+
+translate Japanese monika_player_away_905f9f3d:
+    m 3rksdla "……でもここで大きな事をやるのは、ちょっと気が引けるかな。{w=0.2}{nw}"
+
+translate Japanese monika_player_away_a9ae9ec7:
+    extend 3eksdlc "直し方もわからないものを壊すのは嫌だしね"
+
 translate Japanese monika_player_away_1e50ced9:
     m 2wusdld "もしも間違ってファイルが破損しちゃったら？"
 
@@ -21087,8 +21099,17 @@ translate Japanese monika_being_deleted_bccded63:
 translate Japanese monika_being_deleted_1475f7f2:
     m 6ektda "安心して、私は[mas_get_player_nickname()]に腹を立てたりしないもん。あの時私はあなたを許してくれたじゃない"
 
+translate Japanese monika_being_deleted_394ece4d:
+    m 1euc "……"
+
 translate Japanese monika_being_deleted_c61f257d:
     m 2dkc "……"
+
+translate Japanese monika_being_deleted_b3afff5f:
+    m 6ekc "……"
+
+translate Japanese monika_being_deleted_3554be3e:
+    m 6dktpc "……"
 
 translate Japanese monika_being_deleted_ea479d79:
     m 6dktdc "……"
@@ -22774,8 +22795,38 @@ translate Japanese monika_ddlcroleplay_f4118570:
 translate Japanese monika_ddlcroleplay_731ff371:
     m 3euc "最近知ったんだけど、ある界隈で架空のキャラになりきったSNSアカウントを運用することが楽しまれているみたいなの"
 
+translate Japanese monika_ddlcroleplay_75309a3f:
+    m 3eua "女の子のキャラクターになりきったかなりの数のアカウントがあって…… {w=0.3}{nw}"
+
 translate Japanese monika_ddlcroleplay_aaffe8ae:
-    extend 3rua "私になりきった人もいたの"
+    extend 3rua "中には私になりきったアカウントもあったの"
+
+translate Japanese monika_ddlcroleplay_5ea93467:
+    m 1rkb "先に言っておくけど、そのアカウントたちはSNS内で実際の私であるとは全然言ってないからね"
+
+translate Japanese monika_ddlcroleplay_a2588ba3:
+    m 1eud "それに、それはある形態を取った一種の二次創作なのよ。{w=0.2}対話形式の二次創作ね"
+
+translate Japanese monika_ddlcroleplay_52ac714e:
+    m 3eud "中には読者からの質問を受け入れているなりきりアカウントもあるし、他のなりきりアカウントと会話もしているのよ"
+
+translate Japanese monika_ddlcroleplay_f65edbaf:
+    m 3eusdla "そしてある意味アドリブ重視な創作活動でもあるよね。{w=0.2}創作活動の作者でも予想していなかった内容がたくさん出てきちゃいそうだよね"
+
+translate Japanese monika_ddlcroleplay_396ec07c:
+    m 4rksdlb "最初はどうしてそんなことをしているのかとても不思議だったけど、よく考えてみると、なりきりって他の人とコラボレーションしやすい楽しい方法だと思うんだよね"
+
+translate Japanese monika_ddlcroleplay_9e2ffb69:
+    m 3euc "あとなりきりじゃなくて、あるキャラクターが本当に経験した出来事を時系列が合うように書き連ねていくような人もいるみたいなの、これって…… {w=0.2}{nw}"
+
+translate Japanese monika_ddlcroleplay_e8b61aa1:
+    extend 1hksdlb "ある意味お世辞だと思っていいのかな？"
+
+translate Japanese monika_ddlcroleplay_73b51090:
+    m 1euu "いずれにしても、書くことに挑戦する人が増えるのなら、なりきりを責めることはできないと思ってる"
+
+translate Japanese monika_ddlcroleplay_09321bbf:
+    m 1kub "ただ、そのアカウントが語る私の姿はただの創作だってことを忘れないでね、あはは〜"
 
 translate Japanese monika_zodiac_starsign_e44e48df:
     m 1rta "まあ私の誕生日だと、間違いなく乙女座ね"
@@ -24321,6 +24372,9 @@ translate Japanese strings:
     old "We"
     new "『われら』"
 
+    old "Dystopias"
+    new "ディストピア小説"
+
     old "Social contagion"
     new "社会的伝染"
 
@@ -24523,7 +24577,7 @@ translate Japanese strings:
     new "コスプレは好き？"
 
     old "DDLC Roleplay"
-    new "DDLCのなりきり(翻訳未完成）"
+    new "DDLCのなりきり"
 
     old "What's your starsign?"
     new "モニカの星座は何座？"
