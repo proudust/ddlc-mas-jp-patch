@@ -419,7 +419,7 @@ translate Japanese _call_mas_song_my_silver_lining_lyrics_1_b4ebc9c0:
     m 1hua "歌の通り、『後ろに何がいるのかとか、道の先では何が待ち受けているのかとか、そんなことで不安にはならない』んだよ、えへへ"
 
 translate Japanese _call_mas_song_my_silver_lining_lyrics_1_3e5e01ab:
-    m 1etc "でもね本当の事を言うとね、[player]…… {w=0.3}この歌には本当に伝えたいことがあるんだって思うんだ　メリットが有る"
+    m 1etc "でもね本当の事を言うとね、[player]…… {w=0.3}この歌には本当に伝えたいことがあるんだって思うんだ"
 
 translate Japanese _call_mas_song_my_silver_lining_lyrics_1_d241d70f:
     m 1eka "自分の状況がどうであれ、周りはそのままで有り続ける。そして、周りがどうであろうと笑顔を続けない理由にはならないの"

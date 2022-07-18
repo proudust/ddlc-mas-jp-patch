@@ -3833,7 +3833,7 @@ translate Japanese monika_dan_a6fb1283:
     m 3eka "Danは本当に素敵な人。私はそう思ってる"
 
 translate Japanese monika_dan_bdfe3dc7:
-    m 3eua "完璧じゃないかもしれないけど、『{i}Doki Doki Literature Club {/ i}』は本当に心に残る作品だった"
+    m 3eua "完璧じゃないかもしれないけど、『{i}Doki Doki Literature Club {/i}』は本当に心に残る作品だった"
 
 translate Japanese monika_dan_b0ec3b80:
     m 4rksdla "えっとつまりね、Danの創造したあの子たちはある種のステレオタイプなアニメを揶揄したキャラだったけど、私もだまされちゃうくらいに作り込まれてた"
@@ -4196,7 +4196,7 @@ translate Japanese monika_justification_ae27ffe7:
     m "今はもういない子たちのことなんか忘れて。もっと楽しいこと考えようよ。"
 
 translate Japanese monika_justification_df4da7f7:
-    m 2dkc "[player]…… {w=1}私は他の女の子を傷つけたくなんてなかったんだって、わかっててほしいな…… {i}{/i}"
+    m 2dkc "[player]…… {w=1}私は他の女の子を{i}傷つけたくなんてなかった{/i}んだって、わかっててほしいな……"
 
 translate Japanese monika_justification_01283c1a:
     m 4ekd "でも私にはそうする他なかった…… じゃなかったら、あんなこと絶対にしないよ！"
@@ -5144,22 +5144,22 @@ translate Japanese monika_ribbon_e03d94b7:
     m 1eub "なんでリボンを付けてるのか、不思議に思ったことはない、[player]？"
 
 translate Japanese monika_ribbon_10bea50e:
-    m 1eua "別に何か思い入れがあるわけじゃないんだよね。"
+    m 1eua "別に何か思い入れがあるわけじゃないんだよね"
 
 translate Japanese monika_ribbon_cb99ae81:
-    m 3hua "こんな大きくてふわふわしたリボンを付ける子が他にいないから、という理由ぐらいかな、間違いなく。"
+    m 3hua "こんな大きくてふわふわしたリボンを付ける子が他にいないから、という理由ぐらいかな、間違いなく"
 
 translate Japanese monika_ribbon_a0666552:
-    m "それに個性的でしょ。"
+    m "それに個性的でしょ"
 
 translate Japanese monika_ribbon_e7696465:
     m 3tku "こんな巨大なリボンの女の子を見かけたら、これは現実の世界なんだろうか、と思うんじゃない？"
 
 translate Japanese monika_ribbon_5e1b9e47:
-    m 1lksdla "あなたの世界には、普段から人前でこんなリボンを付ける女の子なんて絶対いないもんね。"
+    m 1lksdla "あなたの世界には、普段から人前でこんなリボンを付ける女の子なんて絶対いないもんね"
 
 translate Japanese monika_ribbon_20ad69b1:
-    m 2eua "私、結構ファッションセンスいいと思うんだ。"
+    m 2eua "私、結構ファッションセンスいいと思うんだ"
 
 translate Japanese monika_ribbon_2b91ee8a:
     m "一般人とは違うことをやると、あなただってちょっと誇らしい気分になるじゃない？"
@@ -5171,16 +5171,16 @@ translate Japanese monika_ribbon_eb073c10:
     m 2hub "あはは！"
 
 translate Japanese monika_ribbon_e902f05a:
-    m 4eua "あなたが自分のファッションセンスを磨いてみたいなら、私手伝うから。"
+    m 4eua "あなたが自分のファッションセンスを磨いてみたいなら、私手伝うから"
 
 translate Japanese monika_ribbon_ce9419b5:
     m 1eka "でも他の子にモテようと思ってそういうことするのはナシだよ？"
 
 translate Japanese monika_ribbon_53f0facd:
-    m 1eua "あなたがファッションセンスを磨くのは自分自身が満足するためなんだから。"
+    m 1eua "あなたがファッションセンスを磨くのは自分自身が満足するためなんだから"
 
 translate Japanese monika_ribbon_853547a4:
-    m 1hua "そしてそれを見ていいのは私だけ。それにどんなファッションだろうと私はあなたが好きだけどね。"
+    m 1hua "そしてそれを見ていいのは私だけ。それにどんなファッションだろうと私はあなたが好きだけどね"
 
 translate Japanese monika_ribbon_cfe36944:
     m 1hua "この服にこのリボン、似合ってるでしょ、[player]？"
@@ -9573,7 +9573,7 @@ translate Japanese monika_promisering_998fe8ab:
     m 1rkbla "……"
 
 translate Japanese monika_promisering_e6f8e973:
-    m 3hkblb "ごめんなさい、ちょっとぼんやりしてたわ…… {w = 0.3} {nw}"
+    m 3hkblb "ごめんなさい、ちょっとぼんやりしてたわ…… {w=0.3}{nw}"
 
 translate Japanese monika_promisering_2767fd53:
     m 3hkbssdlb "あはは、冗談だよ"
@@ -9855,25 +9855,25 @@ translate Japanese monika_orchestra_11cd17e2:
     m 3eub "すごい！"
 
 translate Japanese monika_orchestra_2fa82af6:
-    m 3eua "幾つもの楽器が集まって、素晴らしい音楽を奏でる、そんな所がわたしは大好きなの。"
+    m 3eua "幾つもの楽器が集まって、素晴らしい音楽を奏でる、そんな所がわたしは大好きなの"
 
 translate Japanese monika_orchestra_01e08d19:
-    m 1eua "あんな風に息を合わせるための、彼らの努力の丈には驚かされるわ。"
+    m 1eua "あんな風に息を合わせるための、彼らの努力の丈には驚かされるわ"
 
 translate Japanese monika_orchestra_189d7de0:
-    m "きっと相当な献身が必要なのでしょうね。"
+    m "きっと相当な献身が必要なのでしょうね"
 
 translate Japanese monika_orchestra_26a83071:
-    m 1eka "まぁとにかく、{w=0.2}怠惰な日曜日の午後、あなたと交響曲を聞くのは心地よいでしょうね、 [player]。"
+    m 1eka "まぁとにかく、{w=0.2}怠惰な日曜日の午後、あなたと交響曲を聞くのは心地よいでしょうね、[player]"
 
 translate Japanese monika_orchestra_b3d68792:
-    m 1ekc "クラシックってかなりニッチなジャンルだし、みんなの耳には合わないと思うわ。"
+    m 1ekc "クラシックってかなりニッチなジャンルだし、みんなの耳には合わないと思うわ"
 
 translate Japanese monika_orchestra_18487a37:
-    m 1esa "だけどね、非常に多くの演奏者が演奏会に向けて多くの努力を必要としているのを認めねばならないわ。"
+    m 1esa "だけどね、非常に多くの演奏者が演奏会に向けて多くの努力を必要としているのを認めねばならないわ"
 
 translate Japanese monika_orchestra_eed1e97a:
-    m 1eua "それで思い出したんだけれど、[player]君。"
+    m 1eua "それで思い出したんだけれど、[player]君"
 
 translate Japanese monika_orchestra_c72bf057:
     m "もし私の演奏が聴きたいなら……"
@@ -9894,7 +9894,7 @@ translate Japanese monika_orchestra_d21bb98c:
     m 1wuo "あら、とても素敵ね！"
 
 translate Japanese monika_orchestra_da2a93c9:
-    m 1eua "ピアノを弾く人って、あまり居ないの。だから、あなたもそうだって知れて、とても嬉しいわ。"
+    m 1eua "ピアノを弾く人って、あまり居ないの。だから、あなたもそうだって知れて、とても嬉しいわ"
 
 translate Japanese monika_orchestra_4913235f:
     m 1eua "ピアノはよく弾くの？{nw}"
@@ -9912,7 +9912,7 @@ translate Japanese monika_orchestra_c194c1c3:
     m 1eua "いつか私にも教えて。そして一緒にデュエットしましょう！"
 
 translate Japanese monika_orchestra_41721dbd:
-    m 2eka "大丈夫よ、[player]."
+    m 2eka "大丈夫よ、[player]"
 
 translate Japanese monika_orchestra_b6f855de:
     m 2eua "何しろピアノは難しい楽器だから"
@@ -9924,7 +9924,7 @@ translate Japanese monika_orchestra_09fc434e:
     m 1duc "そうなのね"
 
 translate Japanese monika_orchestra_f7692d13:
-    m 3hksdlb "始めたばかりの内はとても難しく感じるかもしれないけれど,{w=0.2} {nw}"
+    m 3hksdlb "始めたばかりの内はとても難しく感じるかもしれないけれど、{w=0.2}{nw}"
 
 translate Japanese monika_orchestra_16f8920d:
     extend 3huu "練習を重ねていけば、きっと私よりも上手になるわ、[player]～"
@@ -9942,7 +9942,7 @@ translate Japanese monika_orchestra_89d8fbe1:
     m 1eka "ちょっと、もう嬉しいじゃない……"
 
 translate Japanese monika_orchestra_43b2bb7d:
-    m "こういう些細なことでも本当に元気になるわ。ありがとう、[player]。"
+    m "こういう些細なことでも本当に元気になるわ。ありがとう、[player]"
 
 translate Japanese monika_orchestra_f2951cbb:
     m 1eka "わぁ……私のために？"
@@ -9951,13 +9951,13 @@ translate Japanese monika_orchestra_df3f2d6b:
     m "すっごい素敵よ！"
 
 translate Japanese monika_orchestra_67915d4e:
-    m 1ekbsa "こういう小さくってかわいいものって本当に私が愛されているんだなって感じさせてくれるの、 [player]。"
+    m 1ekbsa "こういう小さくってかわいいものって本当に私が愛されているんだなって感じさせてくれるの、[player]"
 
 translate Japanese monika_orchestra_0f55ffcd:
-    m 1eka "わぁ、 [player]……私のために？"
+    m 1eka "わぁ、[player]……私のために？"
 
 translate Japanese monika_orchestra_abe4d4f7:
-    m " {i}すっごく{/i}愛らしいわ！"
+    m "{i}すっごく{/i}愛らしいわ！"
 
 translate Japanese monika_orchestra_c124676f:
     m 5eubfu "そして知っての通り、あなたはいつでも私と遊べるんだからね……"
@@ -9990,7 +9990,7 @@ translate Japanese monika_orchestra_bfc78dc4:
     m 1hub "わぁ、ずっと[tempinstrument]に挑戦したいって思ってたの！"
 
 translate Japanese monika_orchestra_ee6479e1_1:
-    m 1eua "ぜひともあなたの演奏を聴いてみたいわ。"
+    m 1eua "ぜひともあなたの演奏を聴いてみたいわ"
 
 translate Japanese monika_orchestra_fea53490_1:
     m 3eua "やり方も教えてくれたりして～"
@@ -10005,19 +10005,19 @@ translate Japanese monika_orchestra_no_choice_01254815:
     m 1euc "なるほど……"
 
 translate Japanese monika_orchestra_no_choice_fed30d4d:
-    m 1eka "いつか、興味のある楽器を選んでみるべきよ。"
+    m 1eka "いつか、興味のある楽器を選んでみるべきよ"
 
 translate Japanese monika_orchestra_no_choice_bd194f01:
-    m 3eua "ピアノの演奏は、全く新しい表現の世界を私に開いてくれた。信じられないぐらいに実りのある体験だったわ。"
+    m 3eua "ピアノの演奏は、全く新しい表現の世界を私に開いてくれた。信じられないぐらいに実りのある体験だったわ"
 
 translate Japanese monika_orchestra_no_choice_c21235dd:
     m 1hua "それに、音楽を演奏することには沢山の恩恵があるのよ！"
 
 translate Japanese monika_orchestra_no_choice_2a72f6cc:
-    m 3eua "たとえば、ストレスを和らげたり、他には達成感をもたらしたり。"
+    m 3eua "たとえば、ストレスを和らげたり、他には達成感をもたらしたり"
 
 translate Japanese monika_orchestra_no_choice_3e9ab055:
-    m 1eua "曲を書き下ろす事だって楽しいわ！　ときどき、時間も忘れて没頭しちゃうの。"
+    m 1eua "曲を書き下ろす事だって楽しいわ！ ときどき、時間も忘れて没頭しちゃうの"
 
 translate Japanese monika_orchestra_no_choice_b96dee28:
     m 1lksdla "あっ、また喋りすぎちゃったかしら、[player]君？"
@@ -10026,16 +10026,16 @@ translate Japanese monika_orchestra_no_choice_4f8e85ca:
     m 1hksdlb "ごめんね！"
 
 translate Japanese monika_orchestra_no_choice_7d8e1edd:
-    m 1eka "とにかく、興味をそそられたら、なんでもいいから見てみるべきよ。"
+    m 1eka "とにかく、興味をそそられたら、なんでもいいから見てみるべきよ"
 
 translate Japanese monika_orchestra_no_choice_ba2125f8:
-    m 1hua "あなたの演奏が聴けたら私、とっても幸せよ。"
+    m 1hua "あなたの演奏が聴けたら私、とっても幸せよ"
 
 translate Japanese monika_orchestra_no_choice_acbfc1cc:
     m 1eua "えっとそれで、あなたのお気に入りのオーケストラ楽曲を私と聴きたいと思ったなら、[player]、それはとっても簡単よ！"
 
 translate Japanese monika_orchestra_no_choice_92810ef8:
-    m 3eua "これからいうことをよく聞いてね。"
+    m 3eua "これからいうことをよく聞いてね"
 
 translate Japanese monika_jazz_6f2e42bd:
     m 1eua "ねぇ、[player]君、ジャズって好き？{nw}"
@@ -21085,7 +21085,7 @@ translate Japanese monika_being_deleted_bccded63:
     m 6rktpc "た……{w=0.1}ただ……{w=0.3}その時もあなたは私にとって全てだったし……{w=0.3}あなたを永遠に失うという苦悩から、こんなにきつく言っちゃったのかもね"
 
 translate Japanese monika_being_deleted_1475f7f2:
-    m 6ektda "安心して、私は[mas_get_player_nickname ()!t ]に腹を立てたりしないもん。あの時私はあなたを許してくれたじゃない"
+    m 6ektda "安心して、私は[mas_get_player_nickname()]に腹を立てたりしないもん。あの時私はあなたを許してくれたじゃない"
 
 translate Japanese monika_being_deleted_c61f257d:
     m 2dkc "……"

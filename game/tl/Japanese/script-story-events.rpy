@@ -134,7 +134,7 @@ translate Japanese mas_gender_redo_same_d43a3139:
     m 1eua "この部屋にいる間だけでも、あなたがなりたいあなたになってほしいな"
 
 translate Japanese mas_gender_redo_react_5afd30d8:
-    m 1eka "わかったわ、 [player]……"
+    m 1eka "わかったわ、[player]……"
 
 translate Japanese mas_gender_redo_react_0f1399ba:
     m 3ekbsa "あなたが幸せでいられることが、私の幸せだからね"
@@ -1172,7 +1172,7 @@ translate Japanese mas_text_speed_enabler_e30c6fc9:
     m "だから気が向いたときに気軽に文字速度を変えてみてね"
 
 translate Japanese mas_bookmarks_notifs_intro_87876630:
-    m 3eub "ねえ[player]君…… {w=0.5} あなたと会話を楽しむために、新しい機能を追加してみたの！"
+    m 3eub "ねえ[player]君…… {w=0.5}あなたと会話を楽しむために、新しい機能を追加してみたの！ "
 
 translate Japanese mas_bookmarks_notifs_intro_6d7727be:
     m 1eua "キーボードの『b』キーを押すと、今話している話題をブックマークできるようにしたわ"

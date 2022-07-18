@@ -51,25 +51,25 @@ translate Japanese strings:
     new "ヒロイン"
 
     old "[[Never]"
-    new "[なし]"
+    new "[[なし]"
 
     old "[[Rarely]"
-    new "[稀に]"
+    new "[[稀に]"
 
     old "[[Occasionally]"
-    new "[たまに]"
+    new "[[たまに]"
 
     old "[[Less Often]"
-    new "[控えめ]"
+    new "[[控えめ]"
 
     old "[[Normal]"
-    new "[普通]"
+    new "[[普通]"
 
     old "[[Often]"
-    new "[頻繁]"
+    new "[[頻繁]"
 
     old "[[Very Often]"
-    new "[とても頻繁]"
+    new "[[とても頻繁]"
 
     old "morning"
     new "朝"
