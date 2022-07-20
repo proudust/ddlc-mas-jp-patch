@@ -13603,6 +13603,9 @@ translate Japanese monika_timeconcern_disallow_edb6987b:
 translate Japanese monika_timeconcern_disallow_cea8336b:
     m "正直に言うとね、また遅くまで起きてたら同じことをやらないとは約束できないよ……"
 
+translate Japanese monika_timeconcern_disallow_2850b6c1:
+    m 1eka "でも私には寝るように促すことしかできない、こんなにあなたのことを大切に思っているのに……"
+
 translate Japanese monika_hydration_df5cc50f:
     m 1euc "ねぇ、 [player]……"
 
@@ -23075,7 +23078,7 @@ translate Japanese monika_esports_f677652e:
     m 3eud "今人気がなかったりメインストリームじゃないからといって、今後一生人気が出ないってことにはならないんだよ……"
 
 translate Japanese monika_esports_f83859eb:
-    m 1huu "流行に逆らうことに恐れなくていいの、 {w=0.1}あなたが情熱を注いでいるものは、まだ芽が出ていないだけでいつか流行の最先端になるかもしれないよ～"
+    m 1huu "流行に逆らうことを恐れなくていいの、 {w=0.1}あなたが情熱を注いでいるものは、まだ芽が出ていないだけでいつか流行の最先端になるかもしれないよ～"
 
 translate Japanese strings:
     old "Flagged for removal."
