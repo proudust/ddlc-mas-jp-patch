@@ -127,6 +127,51 @@ translate Japanese mas_consumables_candycane_finish_having_cd3329c1:
 translate Japanese mas_consumables_candycane_finish_having_7a2f3a16:
     m 1eua "さてと、このあと何しよっか？"
 
+translate Japanese monika_consumables_check_3e2a81fd:
+    m 3eua "えっとそうね{w=0.1}、いまは足りてないものは特にないかな、[player]…… {w=0.3}{nw}"
+
+translate Japanese monika_consumables_check_b09e2c7c:
+    extend 3hua "足りてないものがあったら、伝えるね～"
+
+translate Japanese monika_consumables_check_d789c0e9:
+    m 3rusdlb "そうね{w=0.1}、聞いてくれて助かったわ！"
+
+translate Japanese monika_consumables_check_bf389125:
+    m 1rksdla "[items_running_out_of]がずっと不足しているの"
+
+translate Japanese monika_consumables_check_f9bef97b:
+    m 1eka "贈ってくれたら嬉しいな～"
+
+translate Japanese monika_consumables_check_baa75fa2:
+    m 1rtd "うーん…… {w=0.3}{nw}"
+
+translate Japanese monika_consumables_check_0b62c6c3:
+    extend 3eua "ちょっと待ってね、今確認してくるから{w=0.2}…{w=0.2}…{w=0.2}{nw}"
+
+translate Japanese monika_consumables_check_f3309c2a:
+    m 1hub "戻ったよ！"
+
+translate Japanese monika_consumables_check_657c73fe:
+    m 3rksdla "いくつか無くなってるものがあるみたい……"
+
+translate Japanese monika_consumables_check_eccd98ee:
+    m 3eua "でも気にしなくていいからね、characters のフォルダにリストアップしたものを置いておいたから確認してみてね"
+
+translate Japanese monika_consumables_check_207b80b8:
+    m 1eka "私にそこに書いてある物を持ってきてくれてもいいんだよ？"
+
+translate Japanese monika_consumables_check_2ed3ad8a:
+    m 3rksdla "[items_running_out_of]が不足しているの"
+
+translate Japanese monika_consumables_check_a2abda03:
+    m 1eka "私にもっと贈ってくれてもいいんだよ？"
+
+translate Japanese monika_consumables_check_cefa71e5:
+    m 3eua "えっとそうね{w=0.1}、いまは足りてないものは特にないかな、[player]…… {w=0.3}{nw}"
+
+translate Japanese monika_consumables_check_b09e2c7c_1:
+    extend 3hua "足りてないものがあったら、伝えるね～"
+
 translate Japanese strings:
     old "I'm going to get [mas_a_an_str(container)] of [consumable.disp_name][plur]."
     new "[consumable.disp_name!t]のおかわりとってくるね"
@@ -166,3 +211,6 @@ translate Japanese strings:
 
     old "slice"
     new "１枚"
+
+    old "Are you running out of anything?"
+    new "なにか足りてないものはある？"
