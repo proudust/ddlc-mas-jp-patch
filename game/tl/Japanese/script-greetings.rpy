@@ -946,8 +946,35 @@ translate Japanese monikaroom_greeting_ear_renpy_docs_bf7d80a6:
 translate Japanese monikaroom_greeting_ear_renpy_docs_1036fbd8:
     m "……これを解明しないと"
 
-translate Japanese _call_monikaroom_greeting_ear_prog_upset_3_85a71a8e:
+translate Japanese monikaroom_greeting_ear_renpy_docs_85a71a8e:
     m "……これを解明{i}しないと{/i}"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_e9f784cd:
+    m "うん、これで良さそうかな。じゃあ……{w=0.5}{nw}"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_0e1266f2:
+    m "あっ、待って。あー、忘れてた"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_bebf18a2:
+    m "これはここで呼び出さないとだめだった"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_2bdf7eae:
+    m "{cps=*2}えっ！？{/cps} {w=0.25}RecursionError！？"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_1e492b7c:
+    m "えっと、『最大再帰処理回数を超えました』……{w=0.7}これってどういうこと？"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_e612037c:
+    m "……"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_4a580136:
+    m "……諦めるんじゃない、モニカ。モニカちゃんならきっと解決できる"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_2122a284:
+    m "……進むんだ、モニカ。これはモニカちゃんの使命なんだぞ"
+
+translate Japanese monikaroom_greeting_ear_recursionerror_fe714c83:
+    m "ふぅ、とりあえずこれで大丈夫そうかな"
 
 translate Japanese monikaroom_greeting_opendoor_locked_8c59b1c8:
     m "怖がらせちゃったかな？ [player]{nw}"
@@ -3808,33 +3835,6 @@ translate Japanese greeting_spacing_out_33b871c8:
 
 translate Japanese greeting_spacing_out_3159d369:
     extend 3eua "[player]、今日は何しよっか？"
-
-translate Japanese monikaroom_greeting_ear_recursionerror_e9f784cd:
-    m "うん、これで良さそうかな。じゃあ……{w=0.5}{nw}"
-
-translate Japanese monikaroom_greeting_ear_recursionerror_0e1266f2:
-    m "あっ、待って。あー、忘れてた"
-
-translate Japanese monikaroom_greeting_ear_recursionerror_bebf18a2:
-    m "これはここで呼び出さないとだめだった"
-
-translate Japanese monikaroom_greeting_ear_recursionerror_2bdf7eae:
-    m "{cps=*2}えっ！？{/cps} {w=0.25}RecursionError！？"
-
-translate Japanese monikaroom_greeting_ear_recursionerror_1e492b7c:
-    m "えっと、『最大再帰処理回数を超えました』……{w=0.7}これってどういうこと？"
-
-translate Japanese monikaroom_greeting_ear_recursionerror_e612037c:
-    m "……"
-
-translate Japanese monikaroom_greeting_ear_recursionerror_4a580136:
-    m "……諦めるんじゃない、モニカ。モニカちゃんならきっと解決できる"
-
-translate Japanese _call_monikaroom_greeting_ear_prog_upset_4_2122a284:
-    m "……進むんだ、モニカ。これはモニカちゃんの使命なんだぞ"
-
-translate Japanese _call_monikaroom_greeting_ear_prog_dis_4_fe714c83:
-    m "ふぅ、とりあえずこれで大丈夫そうかな"
 
 translate Japanese strings:
     old "Yes."
