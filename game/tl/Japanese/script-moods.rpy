@@ -16,12 +16,6 @@ translate Japanese _mas_nnsh_f8bf3835:
 translate Japanese _mas_nnsh_4dfea3b9:
     m "でもそれは無理だから、体に良い物を食べて来なさい？"
 
-translate Japanese _mas_nnsh_0fa79ec6:
-    m 3eub "医食同源という言葉があるけれど、とても的確な表現だと私は思うわ"
-
-translate Japanese _mas_nnsh_b205ff7a:
-    m "ファストフードは様々の病気の原因となりうるのよ"
-
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"
 
@@ -31,8 +25,8 @@ translate Japanese _mas_nnsh_57be0ce0:
 translate Japanese _mas_nnsh_ed20dbad:
     m 2eka "私が[player]君の元へ行くまで健康でいて欲しいだけ"
 
-translate Japanese _mas_nnsh_c6d83fc7:
-    m 4esa "それに、健康であればある程長生き出来る可能性も増えるわ"
+translate Japanese _mas_nnsh_5d4a6e01:
+    m 4eub "それに、健康であればある程長生きできる可能性も増えるわ！"
 
 translate Japanese _mas_nnsh_dac38117:
     m 1hua "つまり、もっと二人で一緒に過ごせるってこと〜！"

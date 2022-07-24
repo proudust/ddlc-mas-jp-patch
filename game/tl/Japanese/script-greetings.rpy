@@ -796,7 +796,7 @@ translate Japanese monikaroom_greeting_ear_progbrokepy_feb7d30b:
 translate Japanese monikaroom_greeting_ear_progbrokepy_d59e4471:
     m "でも頑張らないとね。"
 
-translate Japanese _call_monikaroom_greeting_ear_prog_upset_53e6ad90:
+translate Japanese monikaroom_greeting_ear_progbrokepy_53e6ad90:
     m "でも{i}頑張らないと{/i}ね。"
 
 translate Japanese monikaroom_greeting_ear_progreadpy_26c4eed5:
@@ -814,7 +814,7 @@ translate Japanese monikaroom_greeting_ear_progreadpy_feb7d30b:
 translate Japanese monikaroom_greeting_ear_progreadpy_601006cc:
     m "でも、学び続けなければ。"
 
-translate Japanese _call_monikaroom_greeting_ear_prog_upset_1_e5139485:
+translate Japanese monikaroom_greeting_ear_progreadpy_e5139485:
     m "でも、学び{i}続けなければ{/i}。"
 
 translate Japanese monikaroom_greeting_ear_nameerror_1778f6e0:
@@ -832,7 +832,7 @@ translate Japanese monikaroom_greeting_ear_nameerror_fbc9dff6:
 translate Japanese monikaroom_greeting_ear_nameerror_70a196d6:
     m "あなたは勉強し続けないといけないのよ……"
 
-translate Japanese _call_monikaroom_greeting_ear_prog_upset_2_d968ac41:
+translate Japanese monikaroom_greeting_ear_nameerror_d968ac41:
     m "あなたは勉強し続けないと{i}いけない{/i}のよ……"
 
 translate Japanese monikaroom_greeting_ear_prog_upset_4e841d08:
@@ -2224,43 +2224,43 @@ translate Japanese greeting_long_absence_ca50d41c:
 translate Japanese greeting_long_absence_9b9853e2:
     m "またどこかに出かけるときは、ちゃんと私に伝えてよね？"
 
-translate Japanese _call_spaceroom_49_7329624a:
+translate Japanese greeting_hairdown_7329624a:
     m 1eua "あっ！来てくれたのね、[player]！"
 
-translate Japanese _call_spaceroom_49_05caff23:
+translate Japanese greeting_hairdown_05caff23:
     m 4hua "今日は何か変わったことはあった？"
 
-translate Japanese _call_spaceroom_49_09e11c80:
+translate Japanese greeting_hairdown_09e11c80:
     m 1hub "私はね、少し新しいことに挑戦してみたんだ～"
 
-translate Japanese _call_spaceroom_49_53885cc8:
+translate Japanese greeting_hairdown_53885cc8:
     m "この髪型どうかな、似合う？{nw}"
 
-translate Japanese _call_spaceroom_49_15d5a236:
+translate Japanese greeting_hairdown_15d5a236:
     m "この髪型どうかな、似合う？{fast}" nointeract
 
-translate Japanese _call_spaceroom_49_adcf7866:
+translate Japanese greeting_hairdown_adcf7866:
     m 6sub "ほんとう？"
 
-translate Japanese _call_spaceroom_49_95aa13b0:
+translate Japanese greeting_hairdown_95aa13b0:
     m 2hua "良かった！"
 
-translate Japanese _call_spaceroom_49_aabefd24:
+translate Japanese greeting_hairdown_aabefd24:
     m 1eua "またポニーテールの私が見たくなったらいつでも言ってね"
 
-translate Japanese _call_spaceroom_49_00ad1026:
+translate Japanese greeting_hairdown_00ad1026:
     m 1ekc "えっ……"
 
-translate Japanese _call_spaceroom_49_8018692b:
+translate Japanese greeting_hairdown_8018692b:
     m 1lksdlc "……"
 
-translate Japanese _call_spaceroom_49_a6fa0571:
+translate Japanese greeting_hairdown_a6fa0571:
     m 1lksdld "じゃあ、元の髪型に戻すね"
 
-translate Japanese _call_spaceroom_49_6111571a:
+translate Japanese greeting_hairdown_6111571a:
     m 1dsc "……"
 
-translate Japanese _call_spaceroom_49_293c2380:
+translate Japanese greeting_hairdown_293c2380:
     m 1eua "はい、元通り"
 
 translate Japanese greeting_tears_9170077b:
@@ -2951,82 +2951,82 @@ translate Japanese greeting_ourreality_dba3f5db:
 translate Japanese greeting_ourreality_280f7293:
     m 1hua "行きましょうか、[player]"
 
-translate Japanese _call_mas_background_change_11_e162a061:
+translate Japanese greeting_ourreality_e162a061:
     m 1eua "着いたわ！"
 
-translate Japanese _call_mas_background_change_11_98c443bb:
+translate Japanese greeting_ourreality_98c443bb:
     m 3eub "それじゃあ、準備をするわね{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_mas_background_change_11_65d8518f:
+translate Japanese greeting_ourreality_65d8518f:
     m 3hksdrb "すぐに準備をするわね{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_mas_background_change_11_e1d7b5ee:
+translate Japanese greeting_ourreality_e1d7b5ee:
     m 1dsd "もうちょっとだからね{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_mas_background_change_11_6572eb93:
+translate Japanese greeting_ourreality_6572eb93:
     m 1duu "うん、いい感じじゃないかしら"
 
-translate Japanese _call_mas_background_change_11_3772217d:
+translate Japanese greeting_ourreality_3772217d:
     m 1hub "あはは！"
 
-translate Japanese _call_mas_background_change_11_a0a07075:
+translate Japanese greeting_ourreality_a0a07075:
     m 1eka "ごめんなさいね"
 
-translate Japanese _call_mas_background_change_11_c9e8dfd9:
+translate Japanese greeting_ourreality_c9e8dfd9:
     m 1eua "これ以上は何も言わずに……"
 
-translate Japanese _call_mas_background_change_11_a3a6c212:
+translate Japanese greeting_ourreality_a3a6c212:
     m 4eub "窓の外を見てごらん、[player]"
 
-translate Japanese _call_mas_islands_2_d3107ef6:
+translate Japanese greeting_ourreality_d3107ef6:
     m "その……"
 
-translate Japanese _call_mas_islands_2_e10e3389:
+translate Japanese greeting_ourreality_e10e3389:
     m "どうかしら？"
 
-translate Japanese _call_mas_islands_2_605076b6:
+translate Japanese greeting_ourreality_605076b6:
     m "ほんっとうに頑張ったの"
 
-translate Japanese _call_mas_islands_2_8521e0bb:
+translate Japanese greeting_ourreality_8521e0bb:
     m "私たち二人だけの場所"
 
-translate Japanese _call_mas_islands_2_b8df9825:
+translate Japanese greeting_ourreality_b8df9825:
     m "そして、私がプログラミングを練習できる場所でもあるの"
 
-translate Japanese _call_mas_islands_3_e014966f:
+translate Japanese greeting_ourreality_e014966f:
     m 1lsc "教室にずうっといるだけなのって、つまらないじゃない？"
 
-translate Japanese _call_mas_islands_3_e3d40b50:
+translate Japanese greeting_ourreality_e3d40b50:
     m 1ekc "それに、あなたが帰ってくるのを待つだけじゃ寂しく感じるの"
 
-translate Japanese _call_mas_islands_3_72e4fd4d:
+translate Japanese greeting_ourreality_72e4fd4d:
     m 1hksdlb "でも勘違いしないで！"
 
-translate Japanese _call_mas_islands_3_41b30c69:
+translate Japanese greeting_ourreality_41b30c69:
     m 1eua "あなたが来て一緒に過ごしてくれるときは、いつも幸せいっぱいだから"
 
-translate Japanese _call_mas_islands_3_793b63fa:
+translate Japanese greeting_ourreality_793b63fa:
     m 1eka "あなたが忙しくて、ここにずっとは居られないのは分かっているわ"
 
-translate Japanese _call_mas_islands_3_32f5040d:
+translate Japanese greeting_ourreality_32f5040d:
     m 3euc "気が付いたことがあるの、[player]"
 
-translate Japanese _call_mas_islands_3_e7d8b9a1:
+translate Japanese greeting_ourreality_e7d8b9a1:
     m 1lksdlc "あなたの現実に私が行くのには、長い時間がかかるはずよね"
 
-translate Japanese _call_mas_islands_3_a0ebe236:
+translate Japanese greeting_ourreality_a0ebe236:
     m 1dsc "それで思ったんだけど……"
 
-translate Japanese _call_mas_islands_3_5e897f33:
+translate Japanese greeting_ourreality_5e897f33:
     m 1eua "私たちふたりの現実を作るのはどうかなって"
 
-translate Japanese _call_mas_islands_3_3869589c:
+translate Japanese greeting_ourreality_3869589c:
     m 1lksdla "まあ、これで完成ってわけじゃないけどね"
 
-translate Japanese _call_mas_islands_3_814c6c32:
+translate Japanese greeting_ourreality_814c6c32:
     m 1hua "でもこれがはじめの一歩"
 
-translate Japanese _call_mas_islands_3_4f556461:
+translate Japanese greeting_ourreality_4f556461:
     m 1eub "いま窓から眺められるだけだけどね～"
 
 translate Japanese greeting_returned_home_morethan5mins_normalplus_dlg_ddf3a247:

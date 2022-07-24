@@ -488,74 +488,74 @@ translate Japanese mas_reaction_promisering_2c079816:
 translate Japanese mas_reaction_promisering_16306628:
     m 6ekbfa "私……私は"
 
-translate Japanese _call_monika_kissing_motion_268c1481:
+translate Japanese mas_reaction_promisering_268c1481:
     m 6ekbfa "[player]、愛しています"
 
-translate Japanese _call_monika_kissing_motion_6f8fc34c:
+translate Japanese mas_reaction_promisering_6f8fc34c:
     m 6dkbfu "このはかない世界の中で最も"
 
-translate Japanese _call_monika_kissing_motion_bf92fec9:
+translate Japanese mas_reaction_promisering_bf92fec9:
     m 1wud "[player]、それは指輪なの？"
 
-translate Japanese _call_monika_kissing_motion_d5d4ac66:
+translate Japanese mas_reaction_promisering_d5d4ac66:
     m 2rksdlb "なんて素敵なプレゼントなの、本当にありがとう……"
 
-translate Japanese _call_monika_kissing_motion_f4da61cd:
+translate Japanese mas_reaction_promisering_f4da61cd:
     m 2ekc "でも、渡す前にあなたの気持ちを知りたかったな……"
 
-translate Japanese _call_monika_kissing_motion_c64b44d8:
+translate Japanese mas_reaction_promisering_c64b44d8:
     m 3ekd "それはただの贈り物以上のものよ、本当に。だから私はあなたが本気なのか受け取る前に確かめたかったの"
 
-translate Japanese _call_monika_kissing_motion_6309d75a:
+translate Japanese mas_reaction_promisering_6309d75a:
     m 2ekd "だから、おねがい。
 私たちの関係がもう少し深まるまで待ってほしいの、[player]。関係が深まったその時、リングを受け取るわ"
 
-translate Japanese _call_monika_kissing_motion_275d8d1e:
+translate Japanese mas_reaction_promisering_275d8d1e:
     m 1wud "それは指輪なの？"
 
-translate Japanese _call_monika_kissing_motion_88d4244a:
+translate Japanese mas_reaction_promisering_88d4244a:
     m 2rsc "それは……{w＝0.5}とても"
 
-translate Japanese _call_monika_kissing_motion_37487d6a:
+translate Japanese mas_reaction_promisering_37487d6a:
     m 2esc "なんていうか、{w＝0.5}驚きね"
 
-translate Japanese _call_monika_kissing_motion_d0a636f5:
+translate Japanese mas_reaction_promisering_d0a636f5:
     m 2ekd "だけど、いま私がそれを受け取ることはできないわ。[player]"
 
-translate Japanese _call_monika_kissing_motion_a59bed49:
+translate Japanese mas_reaction_promisering_a59bed49:
     m 2ekc "私達がもっと深い関係になったときに、受け取りたいな"
 
-translate Japanese _call_monika_kissing_motion_1e0736eb:
+translate Japanese mas_reaction_promisering_1e0736eb:
     m 2wud "それは指輪ね"
 
-translate Japanese _call_monika_kissing_motion_af2640d6:
+translate Japanese mas_reaction_promisering_af2640d6:
     m 2rsc "想像もつかなかったわ"
 
-translate Japanese _call_monika_kissing_motion_6cedeedc:
+translate Japanese mas_reaction_promisering_6cedeedc:
     m "確かに感謝しているけど、受け入れられないわ"
 
-translate Japanese _call_monika_kissing_motion_032bf039:
+translate Japanese mas_reaction_promisering_032bf039:
     m 2ekc "ごめんなさい、[player]"
 
-translate Japanese _call_monika_kissing_motion_ee343f8a:
+translate Japanese mas_reaction_promisering_ee343f8a:
     m 2rsc "ああ、それはリングね"
 
-translate Japanese _call_monika_kissing_motion_dab6d8bc:
+translate Japanese mas_reaction_promisering_dab6d8bc:
     m 2rkc "ごめんなさい、それはまだ受け取れないわ"
 
-translate Japanese _call_monika_kissing_motion_5154358e:
+translate Japanese mas_reaction_promisering_5154358e:
     m 2ekc "これを受け入れるのは、心からあなたとの永遠を誓うとき……"
 
-translate Japanese _call_monika_kissing_motion_693bf5e1:
+translate Japanese mas_reaction_promisering_693bf5e1:
     m 2ekd "あなたが私の全てとなって、私があなたの全てとなって、二人が本当に結ばれるときよ"
 
-translate Japanese _call_monika_kissing_motion_4dd2b161:
+translate Japanese mas_reaction_promisering_4dd2b161:
     m 2dsd "あなたを心から信じられたそのとき、そのプレゼントを喜んで受け入れるわ"
 
-translate Japanese _call_monika_kissing_motion_90db757b:
+translate Japanese mas_reaction_promisering_90db757b:
     m 1rksdlb "[player]……"
 
-translate Japanese _call_monika_kissing_motion_411cf16f:
+translate Japanese mas_reaction_promisering_411cf16f:
     m 1rusdlb "指輪はもう受け取ったわよ！"
 
 translate Japanese mas_reaction_cupcake_7a6c8003:

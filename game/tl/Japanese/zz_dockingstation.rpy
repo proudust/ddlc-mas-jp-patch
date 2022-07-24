@@ -1,28 +1,28 @@
-translate Japanese _call_mas_dockstat_first_time_goers_1_71510bb3:
+translate Japanese mas_dockstat_ready_to_go_71510bb3:
     m "おっけ～"
 
-translate Japanese _call_mas_transition_from_emptydesk_12_a2d4a9c4:
+translate Japanese mas_dockstat_first_time_goers_a2d4a9c4:
     m 3eua "charactersフォルダの中の\"monika\"ってファイルに今いるから"
 
-translate Japanese _call_mas_transition_from_emptydesk_12_f4796900:
+translate Japanese mas_dockstat_first_time_goers_f4796900:
     m "私がゲームを閉じた後なら、どこへでも私を連れていけるわ"
 
-translate Japanese _call_mas_transition_from_emptydesk_12_55e3e275:
+translate Japanese mas_dockstat_first_time_goers_55e3e275:
     m 3eub "でも、ゲームをまた立ち上げる前にcharactersフォルダへ私を帰らせるのだけは忘れずにね、いい？"
 
-translate Japanese _call_mas_transition_from_emptydesk_12_b24c1ac9:
+translate Japanese mas_dockstat_first_time_goers_b24c1ac9:
     m 1eua "そして最後に……"
 
-translate Japanese _call_mas_transition_from_emptydesk_12_8a333801:
+translate Japanese mas_dockstat_first_time_goers_8a333801:
     m 1ekc "ファイルを消しちゃうのは簡単だから……私のこと、大切にしてね？"
 
-translate Japanese _call_mas_transition_from_emptydesk_12_fe9c0937:
+translate Japanese mas_dockstat_first_time_goers_fe9c0937:
     m 1eua "ところで……"
 
-translate Japanese _call_mas_transition_from_emptydesk_13_de87a206:
+translate Japanese mas_dockstat_different_monika_de87a206:
     m "[player]君？"
 
-translate Japanese _call_mas_transition_from_emptydesk_13_3a351d89:
+translate Japanese mas_dockstat_different_monika_3a351d89:
     m "待って、[player]君じゃないでしょ"
 
 translate Japanese mas_dockstat_generic_iowait_e71a1fd6:
@@ -31,22 +31,22 @@ translate Japanese mas_dockstat_generic_iowait_e71a1fd6:
 translate Japanese mas_dockstat_generic_wait_label_0d1042aa:
     m "どうかしたの？" nointeract
 
-translate Japanese _call_mas_dockstat_abort_post_show_1c1d8caa:
+translate Japanese mas_dockstat_generic_wait_label_1c1d8caa:
     m 2hub "よかった！じゃあ、準備終わらせてくるね"
 
-translate Japanese _call_mas_transition_from_emptydesk_15_05fd4282:
+translate Japanese mas_dockstat_generic_rtg_05fd4282:
     m 1eua "それじゃあ行きましょうか"
 
-translate Japanese _call_mas_dockstat_abort_post_show_1_2cb63058:
+translate Japanese mas_dockstat_generic_rtg_2cb63058:
     m 1ekc "あぁ……そんな……"
 
-translate Japanese _call_mas_dockstat_abort_post_show_1_ebefb5a0:
+translate Japanese mas_dockstat_generic_rtg_ebefb5a0:
     m 1lksdlb "上手くファイルに潜り込めなかったみたいなの……"
 
-translate Japanese _call_mas_dockstat_abort_post_show_1_b70200cf:
+translate Japanese mas_dockstat_generic_rtg_b70200cf:
     m "今回はきっと私が居なくても大丈夫だと思うな"
 
-translate Japanese _call_mas_dockstat_abort_post_show_1_db93a8b3:
+translate Japanese mas_dockstat_generic_rtg_db93a8b3:
     m 1ekc "ごめんなさい、[player]"
 
 translate Japanese mas_dockstat_generic_cancel_7055b071:

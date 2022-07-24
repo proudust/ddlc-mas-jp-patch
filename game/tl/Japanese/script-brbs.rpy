@@ -7,76 +7,76 @@ translate Japanese mas_brb_generic_low_aff_callback_0bd97190:
 translate Japanese monika_idle_brb_bd219ce5:
     m 1eua "わかったわ、[player]"
 
-translate Japanese monika_brb_idle_5ca4f9ff:
+translate Japanese monika_idle_brb_5ca4f9ff:
     m 1eua "あらそうなのね。{w=0.2} {nw}"
 
-translate Japanese monika_brb_idle_40a8676f:
+translate Japanese monika_idle_brb_40a8676f:
     extend 3hub "早く帰ってきてね～ ここで待ってるからね～"
 
-translate Japanese monika_brb_idle_50022090:
+translate Japanese monika_idle_brb_50022090:
     m 1hub "早く帰ってきてね～ ここで待ってるからね～"
 
-translate Japanese monika_brb_idle_fec6ff17:
+translate Japanese monika_idle_brb_fec6ff17:
     m 1hub "[player]、早く戻ってきて！"
 
-translate Japanese monika_brb_idle_c154e67b:
+translate Japanese monika_idle_brb_c154e67b:
     m 2rsc "あー、{w=1} いいわ。"
 
-translate Japanese monika_brb_idle_0bd97190:
+translate Japanese monika_idle_brb_0bd97190:
     m 6ckc "……"
 
-translate Japanese monika_brb_idle_callback_3e7483be:
+translate Japanese monika_idle_brb_callback_3e7483be:
     m 1hub "おかえりなさい、[player]。会いたかったよ～"
 
-translate Japanese monika_brb_idle_callback_1a37a067:
+translate Japanese monika_idle_brb_callback_1a37a067:
     m 1eua "[wb_quip!t]"
 
-translate Japanese monika_brb_idle_callback_5d7533bb:
+translate Japanese monika_idle_brb_callback_5d7533bb:
     m 1hub "おかえりなさい、[player]！"
 
-translate Japanese monika_brb_idle_callback_1a37a067_1:
+translate Japanese monika_idle_brb_callback_1a37a067_1:
     m 1eua "[wb_quip!t]"
 
-translate Japanese monika_writing_idle_6b394922:
+translate Japanese monika_idle_writing_6b394922:
     m 1eub "えっ！[player]､{cps=*2} ラブレターを書いてくれるのね？{/cps}{nw}"
 
-translate Japanese monika_writing_idle_359a74d2:
+translate Japanese monika_idle_writing_359a74d2:
     m "えっ！{fast} 何か書きに行くの？"
 
-translate Japanese monika_writing_idle_d8ea81cf:
+translate Japanese monika_idle_writing_d8ea81cf:
     m 1eub "えっ！何か書きに行くの？"
 
-translate Japanese monika_writing_idle_f319a2c1:
+translate Japanese monika_idle_writing_f319a2c1:
     m 1hua "それはそれで嬉しいわね！"
 
-translate Japanese monika_writing_idle_7cd50a86:
+translate Japanese monika_idle_writing_7cd50a86:
     m 3eua "いつか私と共有してくれないかな……{w=0.3}{nw}。"
 
-translate Japanese monika_writing_idle_83bac7e0:
+translate Japanese monika_idle_writing_83bac7e0:
     extend 3hua "私は[player]の作品を読んでみたいわ！"
 
-translate Japanese monika_writing_idle_8f7f8142:
+translate Japanese monika_idle_writing_8f7f8142:
     m 3eua "とにかく、終わったら教えてね。"
 
-translate Japanese monika_writing_idle_5837e776:
+translate Japanese monika_idle_writing_5837e776:
     m 1hua "ここで待ってるからね～。"
 
-translate Japanese monika_writing_idle_7eb13353:
+translate Japanese monika_idle_writing_7eb13353:
     m 2esc "わかった"
 
-translate Japanese monika_writing_idle_e6f9346c:
+translate Japanese monika_idle_writing_e6f9346c:
     m 6lkc "何を考えているのかわからないけど……"
 
-translate Japanese monika_writing_idle_3511aec8:
+translate Japanese monika_idle_writing_3511aec8:
     m 6ekd "終わったらちゃんと戻ってきてよね……"
 
-translate Japanese monika_writing_idle_0bd97190:
+translate Japanese monika_idle_writing_0bd97190:
     m 6ckc "……"
 
-translate Japanese monika_writing_idle_callback_2535a2b9:
+translate Japanese monika_idle_writing_callback_2535a2b9:
     m 1eua "[player]､書き終わった？"
 
-translate Japanese monika_writing_idle_callback_d55c57dc:
+translate Japanese monika_idle_writing_callback_d55c57dc:
     m 1eub "[wb_quip!t]"
 
 translate Japanese monika_idle_shower_a398e6eb:
