@@ -38,7 +38,7 @@ translate Japanese mas_dockstat_generic_rtg_05fd4282:
     m 1eua "それじゃあ行きましょうか"
 
 translate Japanese mas_dockstat_generic_rtg_2cb63058:
-    m 1ekc "あぁ……そんな……"
+    m 1ekc "だめだわ……"
 
 translate Japanese mas_dockstat_generic_rtg_ebefb5a0:
     m 1lksdlb "上手くファイルに潜り込めなかったみたいなの……"

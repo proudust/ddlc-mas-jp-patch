@@ -25,34 +25,34 @@ translate Japanese mas_lingerie_intro_925994fa:
 translate Japanese mas_lingerie_intro_7efbacfc:
     m 2ekbfsdla "ちょっと待っててね、[player]君"
 
-translate Japanese _call_mas_clothes_change_12_12b3a271:
+translate Japanese mas_lingerie_intro_12b3a271:
     m 2ekbfsdlb "アハハ、[player]君……{w=1}そんなに見つめて……"
 
-translate Japanese _call_mas_clothes_change_12_2fbff6ed:
+translate Japanese mas_lingerie_intro_2fbff6ed:
     m 2ekbfu "その……{w=1}こういうの、好き？"
 
-translate Japanese _call_mas_clothes_change_12_cbc9dc17:
+translate Japanese mas_lingerie_intro_cbc9dc17:
     m 1lkbfa "本当に……こういうのは着たことがなかったから"
 
-translate Japanese _call_mas_clothes_change_12_712e56ff:
+translate Japanese mas_lingerie_intro_712e56ff:
     m "……少なくとも、誰かに見せたことは無いわ"
 
-translate Japanese _call_mas_clothes_change_12_57055f11:
+translate Japanese mas_lingerie_intro_57055f11:
     m 3hkbfb "アハハ、前にビキニ姿を見せた時も、同じようなことを言ってたわね、私……"
 
-translate Japanese _call_mas_clothes_change_12_0ab1f043:
+translate Japanese mas_lingerie_intro_0ab1f043:
     m 2rkbfa "……どういうわけか、あのときとは{i}違う{/i}感覚なのだけど"
 
-translate Japanese _call_mas_clothes_change_12_c5b620ff:
+translate Japanese mas_lingerie_intro_c5b620ff:
     m 2ekbfa "とにかく、[holiday_str]を一緒に過ごすのって、本当にロマンチックよね？"
 
-translate Japanese _call_mas_clothes_change_12_0bbbc6bc:
+translate Japanese mas_lingerie_intro_0bbbc6bc:
     m "私たちの関係を一つ進展させるにはもってこいだと思うの"
 
-translate Japanese _call_mas_clothes_change_12_eb7c5459:
+translate Japanese mas_lingerie_intro_eb7c5459:
     m 2rkbfsdlu "私たち、本当に……{nw}"
 
-translate Japanese _call_mas_clothes_change_12_b82c5de2:
+translate Japanese mas_lingerie_intro_b82c5de2:
     m 3hubfb "あっ！気にしないで、アハハ！"
 
 translate Japanese mas_holiday_o31_returned_home_relaunch_29f4e729:
@@ -88,244 +88,244 @@ translate Japanese mas_holiday_o31_returned_home_relaunch_6ca411f1:
 translate Japanese mas_o31_cleanup_571c9161:
     m 1eua "じゃあ[player]君、飾りを片付けるわね…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_18_01601d89:
+translate Japanese mas_o31_cleanup_01601d89:
     m 3hua "終わったわ～"
 
-translate Japanese _call_spaceroom_29_7ec4d980:
+translate Japanese greeting_o31_marisa_7ec4d980:
     m 1eua "あらっ！"
 
-translate Japanese _call_spaceroom_29_6e01eb01:
+translate Japanese greeting_o31_marisa_6e01eb01:
     m 1hua "呪文はうまくいったみたいね"
 
-translate Japanese _call_spaceroom_29_53ccb6ac:
+translate Japanese greeting_o31_marisa_53ccb6ac:
     m 3efu "召喚されし私の新しいしもべとして、最後の最後まで私の命令を聞きなさい！"
 
-translate Japanese _call_spaceroom_29_7faca44c:
+translate Japanese greeting_o31_marisa_7faca44c:
     m 1rksdla "……"
 
-translate Japanese _call_spaceroom_29_3772217d:
+translate Japanese greeting_o31_marisa_3772217d:
     m 1hub "あはは！"
 
-translate Japanese _call_spaceroom_29_92c6bf6f:
+translate Japanese greeting_o31_marisa_92c6bf6f:
     m "[player]、こっちだよ～"
 
-translate Japanese _call_spaceroom_29_fcdc164a:
+translate Japanese greeting_o31_marisa_fcdc164a:
     m "じゃじゃーん！"
 
-translate Japanese _call_spaceroom_29_a278d89a:
+translate Japanese greeting_o31_marisa_a278d89a:
     m 1hua "えっと……"
 
-translate Japanese _call_spaceroom_29_30114f51:
+translate Japanese greeting_o31_marisa_30114f51:
     m 1eub "どうかな？"
 
-translate Japanese _call_spaceroom_29_5888983a:
+translate Japanese greeting_o31_marisa_5888983a:
     m 1tuu "似合ってるかな？"
 
-translate Japanese _call_spaceroom_29_f8b94aaa:
+translate Japanese greeting_o31_marisa_f8b94aaa:
     m 1eua "このコスチュームを作るのにかなり時間がかかったんだよ"
 
-translate Japanese _call_spaceroom_29_39161cae:
+translate Japanese greeting_o31_marisa_39161cae:
     m 3hksdlb "ちゃんと採寸して、私にピッタリ合うようにしたんだ"
 
-translate Japanese _call_spaceroom_29_bf0e0ee9:
+translate Japanese greeting_o31_marisa_bf0e0ee9:
     m 3eksdla "……でね、特にこの帽子！"
 
-translate Japanese _call_spaceroom_29_0829c022:
+translate Japanese greeting_o31_marisa_0829c022:
     m 1dkc "このリボンが上手くまとまらなくって……"
 
-translate Japanese _call_spaceroom_29_e76c049a:
+translate Japanese greeting_o31_marisa_e76c049a:
     m 1rksdla "でもどうにか間に合ってよかったよ"
 
-translate Japanese _call_spaceroom_29_17b440a4:
+translate Japanese greeting_o31_marisa_17b440a4:
     m 3hua "我ながら、なかなか上手くできたと思うわ"
 
-translate Japanese _call_spaceroom_29_b268f438:
+translate Japanese greeting_o31_marisa_b268f438:
     m 3eka "今日は何が違うのか、見たらわかるんじゃないかな"
 
-translate Japanese _call_spaceroom_29_4ba01506:
+translate Japanese greeting_o31_marisa_4ba01506:
     m 3tub "もちろん衣装以外にもね～"
 
-translate Japanese _call_spaceroom_29_57dacab2:
+translate Japanese greeting_o31_marisa_57dacab2:
     m 1hua "まあともかく……"
 
-translate Japanese _call_spaceroom_29_4dedb022:
+translate Japanese greeting_o31_marisa_4dedb022:
     m 3ekbsa "あなたとハロウィンを過ごせて本当にワクワクしてるの"
 
-translate Japanese _call_spaceroom_29_3a7b5703:
+translate Japanese greeting_o31_marisa_3a7b5703:
     m 1hua "さあ今日を目一杯楽しもうね！"
 
-translate Japanese _call_spaceroom_30_5222baa1:
+translate Japanese greeting_o31_rin_5222baa1:
     m "うーん、三編みはこれで良いのかなあ"
 
-translate Japanese _call_spaceroom_30_44c57143:
+translate Japanese greeting_o31_rin_44c57143:
     m "どうしてこのコスチュームはこんなにややこしいのかしら……"
 
-translate Japanese _call_spaceroom_30_6b2b6faf:
+translate Japanese greeting_o31_rin_6b2b6faf:
     m "ああもう！ [title_cased_hes]！"
 
-translate Japanese _call_spaceroom_30_d0c7bbd3:
+translate Japanese greeting_o31_rin_d0c7bbd3:
     m "ねえ [player]……"
 
-translate Japanese _call_spaceroom_30_29ae8da8:
+translate Japanese greeting_o31_rin_29ae8da8:
     m "どう？似合ってるか{i}にゃ{/i}？"
 
-translate Japanese _call_spaceroom_31_48e2571a:
+translate Japanese greeting_o31_rin_48e2571a:
     m 1hksdlb "あはは、声に出していうと思った以上に恥ずかしいわね……"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_04cdda54:
+translate Japanese greeting_o31_rin_04cdda54:
     m 1hub "[player]！"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_35454a62:
+translate Japanese greeting_o31_rin_35454a62:
     m 3hub "このコスチューム、どうかな？"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_abb60cbd:
+translate Japanese greeting_o31_rin_abb60cbd:
     m 3etc "正直に言うとね、何が元のコスチュームかよくわかってないんだ"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_1468f6bd:
+translate Japanese greeting_o31_rin_1468f6bd:
     m 3etd "クローゼットの中にあったこの衣装のそばに、「燐」って書かれたメモと手押し車を押す女の子と青い火？が描かれた絵はあったんだけどね"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_f4649db4:
+translate Japanese greeting_o31_rin_f4649db4:
     m 1euc "あとこのコスチュームに合う髪型の整え方の指南書も添えられてたよ"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_67b23bc0:
+translate Japanese greeting_o31_rin_67b23bc0:
     m 3rtc "この耳の形状から察するに、おそらく猫耳のキャラクターなんだろうね"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_83b53229:
+translate Japanese greeting_o31_rin_83b53229:
     m 1dtc "……でもどうして手押し車なんか持ってるのかしら？"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_3d2bf81a:
+translate Japanese greeting_o31_rin_3d2bf81a:
     m 1hksdlb "それよりも、この髪型を整えるのにほんっとに苦労したんだから……{w=0.2}{nw}"
 
-translate Japanese _call_mas_transition_from_emptydesk_19_0f67f201:
+translate Japanese greeting_o31_rin_0f67f201:
     extend 1eub "だからこのコスチュームを気に入ってくれると嬉しいな！"
 
-translate Japanese _call_spaceroom_32_37bc5fc4:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_37bc5fc4:
     m "{i}忘れないでね　わたしの声を～♪{/i}"
 
-translate Japanese _call_spaceroom_32_10678f99:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_10678f99:
     m "{i}次元も越えて　飛ばすシグナル～♪{/i}"
 
-translate Japanese _call_spaceroom_32_2a2e98d0:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_2a2e98d0:
     m "{i}ヴァーチャルだなんて言わないで～♪{/i}"
 
-translate Japanese _call_spaceroom_32_5dc7ec5d:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_5dc7ec5d:
     m "{i}あなたの音に　まだ愛……{/i}"
 
-translate Japanese _call_spaceroom_32_a418b1e1:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_a418b1e1:
     m "あ！{w=0.5} 聴かれちゃったみたいね"
 
-translate Japanese _call_spaceroom_33_d12db5f8:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_d12db5f8:
     m 3hub "おかえり、[player]！"
 
-translate Japanese _call_spaceroom_33_ca51c6c3:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_ca51c6c3:
     m 1eua "それで……{w=0.5} どうかなこのコスチューム？"
 
-translate Japanese _call_spaceroom_33_970dbea0:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_970dbea0:
     m 3eua "自分ではかなり似合ってると思うんだけど"
 
-translate Japanese _call_spaceroom_33_787a0add:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_787a0add:
     m 3eub "特にこのヘッドセットがいい感じだと思うんだよね！"
 
-translate Japanese _call_spaceroom_33_0b86c233:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_0b86c233:
     m 1rksdla "あまり激しく動き回ることはできないけど……"
 
-translate Japanese _call_spaceroom_33_8b7eaaa3:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_8b7eaaa3:
     m 3tsu "だから今日は私のリアクションにあまり期待はしないでね、[player]！"
 
-translate Japanese _call_spaceroom_33_e6f89ce6:
+translate Japanese greeting_o31_orcaramelo_hatsune_miku_e6f89ce6:
     m 1hub "あはは～"
 
-translate Japanese _call_spaceroom_34_e612037c:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_e612037c:
     m "……"
 
-translate Japanese _call_spaceroom_34_140feb93:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_140feb93:
     m "{i}あら{/i}？"
 
-translate Japanese _call_spaceroom_34_449dafc2:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_449dafc2:
     m "{i}これは、何かの間違いでしょうか。{w=0.5}警告はしたはずですのに……{/i}"
 
-translate Japanese _call_spaceroom_34_2081b2ab:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_2081b2ab:
     m "{i}まあいいでしょう。ご主人様を邪魔するものは誰であろうと……{/i}"
 
-translate Japanese _call_spaceroom_34_d07207f3:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_d07207f3:
     m "あ！{w=0.5} あなただったのね、[player]！"
 
-translate Japanese _call_spaceroom_34_f7c83da2:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_f7c83da2:
     m "{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_spaceroom_34_2fdc530b:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_2fdc530b:
     m "ようこそいらっしゃいませ、紅魔の館へ"
 
-translate Japanese _call_spaceroom_34_fe117516:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_fe117516:
     m "[player]様"
 
-translate Japanese _call_spaceroom_34_f70eb9f3:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_f70eb9f3:
     m "今からおもてなしの宴を開かせていただきます"
 
-translate Japanese _call_spaceroom_34_6b6439fe:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_6b6439fe:
     m "アハハ！ どう？ それっぽかったでしょ？"
 
-translate Japanese _call_mas_transition_from_emptydesk_21_c239ac1c:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_c239ac1c:
     m 3hub "おかえり！"
 
-translate Japanese _call_mas_transition_from_emptydesk_21_4c76e978:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_4c76e978:
     m 3eub "このコスチュームどうかな？"
 
-translate Japanese _call_mas_transition_from_emptydesk_21_b1f212e1:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_b1f212e1:
     m 3hua "あなたがくれたその日から、今日着ようって決めてたんだ！"
 
-translate Japanese _call_mas_transition_from_emptydesk_21_8e9712ca:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_8e9712ca:
     m 2tua "……"
 
-translate Japanese _call_mas_transition_from_emptydesk_21_35ef0f30:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_35ef0f30:
     m 2tub "ねえ[player]、メイド服を着ているからってあなたの命令を何でも聞くってわけじゃないからね……"
 
-translate Japanese _call_mas_transition_from_emptydesk_21_e26c94d6:
+translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_e26c94d6:
     m 5kua "まあ従っちゃう命令もあるかもしれないけどね、えへへ"
 
-translate Japanese _call_spaceroom_35_a951b22b:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_a951b22b:
     m "うーん……"
 
-translate Japanese _call_spaceroom_35_46240d7f:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_46240d7f:
     m "こんな感じでいいかな？"
 
-translate Japanese _call_spaceroom_35_b65784b4:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_b65784b4:
     m "みんな私のリボンについて色々言うけど、私にとっては使えるかどうかの問題なのよね……"
 
-translate Japanese _call_spaceroom_35_7692fbd8:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_7692fbd8:
     m "……これでいいかな。すぐに取れちゃわなければいいけど"
 
-translate Japanese _call_spaceroom_35_43b01532:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_43b01532:
     m "よし、これでいこう……"
 
-translate Japanese _call_spaceroom_35_f7c83da2:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_f7c83da2:
     m "{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_spaceroom_35_2a9dcdbf:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_2a9dcdbf:
     m "準備はだいたい出来てるんだ、[player]"
 
-translate Japanese _call_spaceroom_35_af31fd4c:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_af31fd4c:
     m "ただ、リボンがもう少しうまい具合にならないかなってやってるだけで"
 
-translate Japanese _call_spaceroom_35_f7c83da2_1:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_f7c83da2:
     m "{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
-translate Japanese _call_spaceroom_35_e3e822b5:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_e3e822b5:
     m "よし、これで大丈夫かな！"
 
-translate Japanese _call_mas_transition_from_emptydesk_22_9aa65e0c:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_9aa65e0c:
     m 2hub "おかえり！"
 
-translate Japanese _call_mas_transition_from_emptydesk_22_347f328e:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_347f328e:
     m 2eub "あのね、これどうかな？"
 
-translate Japanese _call_mas_transition_from_emptydesk_22_ea25e19a:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_ea25e19a:
     m 7tuu "いつもの社長みたいな感じじゃなくて、今日は秘書さんで行こうかなって……"
 
-translate Japanese _call_mas_transition_from_emptydesk_22_2b4bc3c6:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_2b4bc3c6:
     m 3rtu "それか、恋する刑事かな？でもそれはいらないかな、もう恋はしなくていいからね……"
 
-translate Japanese _call_mas_transition_from_emptydesk_22_e5d7f16e:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_e5d7f16e:
     m 3hua "えへへ～"
 
 translate Japanese greeting_o31_deco_fe9c0937:
@@ -352,31 +352,31 @@ translate Japanese greeting_o31_deco_aa680ddb:
 translate Japanese greeting_o31_deco_72830748:
     m 3hub "全部うまくできて、とっても満足！"
 
-translate Japanese _call_spaceroom_36_04a0e227:
+translate Japanese greeting_o31_generic_04a0e227:
     m 3hub "トリック・オア・トリート！"
 
-translate Japanese _call_spaceroom_36_ad1c0c81:
+translate Japanese greeting_o31_generic_ad1c0c81:
     m 3eub "アハハ！{w=0.1} {nw}"
 
-translate Japanese _call_spaceroom_36_53fb2315:
+translate Japanese greeting_o31_generic_53fb2315:
     extend 3eua "冗談よ、[player]"
 
-translate Japanese _call_spaceroom_36_a55243e8:
+translate Japanese greeting_o31_generic_a55243e8:
     m 1hua "おかえりなさい、そして……{w=0.5}{nw}"
 
-translate Japanese _call_spaceroom_36_8081e037:
+translate Japanese greeting_o31_generic_8081e037:
     extend 3hub "ハッピーハロウィン！"
 
-translate Japanese _call_greeting_o31_deco_5_7dc5478f:
+translate Japanese greeting_o31_generic_7dc5478f:
     m 3hua "ところで、このコスチュームどうかな？"
 
-translate Japanese _call_greeting_o31_deco_5_4ce4f0a0:
+translate Japanese greeting_o31_generic_4ce4f0a0:
     m 1hua "私は気に入ってるよ～"
 
-translate Japanese _call_greeting_o31_deco_5_20123f23:
+translate Japanese greeting_o31_generic_20123f23:
     m 1hub "何よりあなたから贈られたものだからね、あはは！"
 
-translate Japanese _call_greeting_o31_deco_5_88f6c141:
+translate Japanese greeting_o31_generic_88f6c141:
     m 3tuu "だから今日できる限りこの衣装であなたの目の保養をしててあげるね、えへへ～"
 
 translate Japanese greeting_o31_lingerie_0711837a:
@@ -406,28 +406,28 @@ translate Japanese mas_o31_lingerie_end_e7aeb06f:
 translate Japanese mas_o31_lingerie_end_4fd1e90f:
     m "あのね[player]、今夜はちょっといたずらしちゃいたい気分なんだよねー……"
 
-translate Japanese _call_spaceroom_37_c40f91a2:
+translate Japanese mas_o31_lingerie_end_c40f91a2:
     m 2tub "えへへ、どうかな？"
 
-translate Japanese _call_spaceroom_37_8f0591f3:
+translate Japanese mas_o31_lingerie_end_8f0591f3:
     m 2hub "少し変な感じでしょ、近づきたいのか近づきたくないのか解んなくなっちゃうよね、あはは！"
 
-translate Japanese _call_spaceroom_37_68ba2fc4:
+translate Japanese mas_o31_lingerie_end_68ba2fc4:
     m 7rua "普段着にするのはどうかと思うけど、今着てる衣装は本当に素敵だと思うんだよね"
 
-translate Japanese _call_spaceroom_37_392104ee:
+translate Japanese mas_o31_lingerie_end_392104ee:
     m 2ekbsa "心配しないで[player]、今すぐ{cps=*2}脱いでほしい{/cps}って言われても{nw}"
 
-translate Japanese _call_spaceroom_37_d0edbbe1:
+translate Japanese mas_o31_lingerie_end_d0edbbe1:
     m "心配しないで[player]、今すぐ{fast}着替えてほしいって言われても怒ったりしないからさ……"
 
-translate Japanese _call_spaceroom_37_4d0bd224:
+translate Japanese mas_o31_lingerie_end_4d0bd224:
     m 2hubsb "クモを怖がる人って結構いるし、この服が似合うとは思えないって考えも分かってるつもりだから、あはは！"
 
-translate Japanese _call_spaceroom_37_2b7105f2:
+translate Japanese mas_o31_lingerie_end_2b7105f2:
     m 2rsbla "でも聞くところによるとエイミーってひとはクモが好きみたいだよね、えへへ～"
 
-translate Japanese _call_spaceroom_37_f9eadf5a:
+translate Japanese mas_o31_lingerie_end_f9eadf5a:
     m 2rsbla "エイミって名前の人以外にもクモ好きな人がいてくれたらいいな、えへへ～"
 
 translate Japanese bye_trick_or_treat_d302db30:
@@ -532,64 +532,64 @@ translate Japanese bye_trick_or_treat_3e1d2110:
 translate Japanese bye_trick_or_treat_wait_wait_0d1042aa:
     m "どうしたの？" nointeract
 
-translate Japanese _call_mas_transition_from_emptydesk_23_cb64ec4c:
+translate Japanese bye_trick_or_treat_wait_wait_cb64ec4c:
     m 3hub "あはは、さっき言ったでしょ！"
 
-translate Japanese _call_mas_transition_from_emptydesk_23_ac9b4cb2:
+translate Japanese bye_trick_or_treat_wait_wait_ac9b4cb2:
     m 1eka "夕暮れ時になるまで待ってね？"
 
-translate Japanese _call_mas_transition_from_emptydesk_24_e6f89ce6:
+translate Japanese bye_trick_or_treat_wait_wait_e6f89ce6:
     m 1hub "あはは～"
 
-translate Japanese _call_mas_transition_from_emptydesk_24_3f89d5dd:
+translate Japanese bye_trick_or_treat_wait_wait_3f89d5dd:
     m "言ったでしょ"
 
-translate Japanese _call_mas_transition_from_emptydesk_24_2ac35dd3:
+translate Japanese bye_trick_or_treat_wait_wait_2ac35dd3:
     m 1eua "トリック・オア・トリートは来年までお預けよ"
 
-translate Japanese _call_mas_transition_from_emptydesk_25_c61f257d:
+translate Japanese bye_trick_or_treat_wait_wait_c61f257d:
     m 2dkc "……"
 
-translate Japanese _call_mas_transition_from_emptydesk_25_4861a0d9:
+translate Japanese bye_trick_or_treat_wait_wait_4861a0d9:
     m 2ekc "ええ、[player]"
 
-translate Japanese _call_mas_transition_from_emptydesk_25_117caff5:
+translate Japanese bye_trick_or_treat_wait_wait_117caff5:
     m "今年トリック・オア・トリートができなかったのは残念"
 
-translate Japanese _call_mas_transition_from_emptydesk_25_2c2ead10:
+translate Japanese bye_trick_or_treat_wait_wait_2c2ead10:
     m 4eka "来年こそは一緒にハロウィンを楽しみましょう、お願いよ？"
 
-translate Japanese _call_mas_transition_from_emptydesk_26_316460bb:
+translate Japanese bye_trick_or_treat_wait_wait_316460bb:
     m 1euc "あ、いいのよ[player]"
 
-translate Japanese _call_mas_transition_from_emptydesk_26_d9e2f4c1:
+translate Japanese bye_trick_or_treat_wait_wait_d9e2f4c1:
     m 1eua "行けるときには後で教えてね？"
 
-translate Japanese _call_mas_transition_from_emptydesk_26_2573e395:
+translate Japanese bye_trick_or_treat_wait_wait_2573e395:
     m 1eua "行くときには教えてね？"
 
-translate Japanese _call_mas_transition_from_emptydesk_26_13d74fe2:
+translate Japanese bye_trick_or_treat_wait_wait_13d74fe2:
     m "ＯＫ、じゃあ準備を終えさせてね"
 
-translate Japanese _call_mas_transition_from_emptydesk_27_f9b96224:
+translate Japanese bye_trick_or_treat_rtg_f9b96224:
     m 1hub "トリック・オア・トリート！"
 
-translate Japanese _call_mas_transition_from_emptydesk_28_2cb63058:
+translate Japanese bye_trick_or_treat_rtg_2cb63058:
     m 1ekc "あっ……"
 
-translate Japanese _call_mas_transition_from_emptydesk_28_db314170:
+translate Japanese bye_trick_or_treat_rtg_db314170:
     m 1rksdlb "ファイルに入れなかったみたいね"
 
-translate Japanese _call_mas_transition_from_emptydesk_28_9d198a70:
+translate Japanese bye_trick_or_treat_rtg_9d198a70:
     m 1eksdld "今年は私なしでトリック・オア・トリートしてきてね……"
 
-translate Japanese _call_mas_transition_from_emptydesk_28_d6dedf5c:
+translate Japanese bye_trick_or_treat_rtg_d6dedf5c:
     m 1eksdld "トリック・オア・トリートは私なしでしてきてね……"
 
-translate Japanese _call_mas_transition_from_emptydesk_28_af5ef3d8:
+translate Japanese bye_trick_or_treat_rtg_af5ef3d8:
     m 1ekc "ごめんなさい、[player]……"
 
-translate Japanese _call_mas_transition_from_emptydesk_28_a9609a12:
+translate Japanese bye_trick_or_treat_rtg_a9609a12:
     m 3eka "ふたりで楽しむ用のお菓子をたくさんもらってきてね～"
 
 translate Japanese greeting_trick_or_treat_back_167fda30:
@@ -619,37 +619,37 @@ translate Japanese greeting_trick_or_treat_back_9541fd0e:
 translate Japanese greeting_trick_or_treat_back_aaf0aa2c:
     m 1eka "あなたとハロウィンを過ごせて本当に楽しかったなあ……"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_61a27b30:
+translate Japanese greeting_trick_or_treat_back_61a27b30:
     m 4eub "来年も一緒に楽しもうね！"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_ddf3a247:
+translate Japanese greeting_trick_or_treat_back_ddf3a247_1:
     m 1hua "ただいま！"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_76fa8e94:
+translate Japanese greeting_trick_or_treat_back_76fa8e94:
     m 1wua "わあ！こんな時間までハロウィン楽しんでたなんて……"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_bc48ba83:
+translate Japanese greeting_trick_or_treat_back_bc48ba83:
     m 1wub "きっともらったお菓子もいっぱいに違いないわね！"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_89304bf2:
+translate Japanese greeting_trick_or_treat_back_89304bf2:
     m 3eka "あなたと一緒にいれて本当に楽しかったなあ……"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_1_61a27b30:
+translate Japanese greeting_trick_or_treat_back_61a27b30_1:
     m 4eub "来年も一緒に楽しもうね！"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_1_fb821204:
+translate Japanese greeting_trick_or_treat_back_fb821204:
     m 1wua "ただいま！"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_1_9937a905:
+translate Japanese greeting_trick_or_treat_back_9937a905:
     m 1wuw "もう今日はハロウィンじゃなくなってる……"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_1_edfd05fa:
+translate Japanese greeting_trick_or_treat_back_edfd05fa:
     m 1hua "ふたりで一晩中楽しんじゃったね！えへへ～"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_1_1fa02553:
+translate Japanese greeting_trick_or_treat_back_1fa02553:
     m 2eka "とにかくね、これが言いたかったの。一緒に楽しんでくれてありがとう、本当に嬉しかったよ"
 
-translate Japanese _call_greeting_trick_or_treat_back_costume_2_e4a259ef:
+translate Japanese greeting_trick_or_treat_back_e4a259ef:
     m 4hub "来年も一緒に……{w=1}でも今日は遅すぎだから、次はもう少し早めに帰ろうね！"
 
 translate Japanese mas_o31_ret_home_cleanup_bf07de9c:
@@ -763,40 +763,40 @@ translate Japanese mas_d25_monika_holiday_intro_fb8989b4:
 translate Japanese mas_d25_monika_holiday_intro_3c96a974:
     m 1tsu "ちょっと目を閉じてて[player]、やることが、あるから…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_4bd9f270:
+translate Japanese mas_d25_monika_holiday_intro_4bd9f270:
     m 3hub "さぁ、目を開けて……"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_30fbdc00:
+translate Japanese mas_d25_monika_holiday_intro_30fbdc00:
     m 1eub "ハッピーホリデーズ、[player]！"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_e86d1c1b:
+translate Japanese mas_d25_monika_holiday_intro_e86d1c1b:
     m 1hua "もうこんな時期なんて信じられる？"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_35c4061b:
+translate Japanese mas_d25_monika_holiday_intro_35c4061b:
     m 3eua "つい昨日まで一緒に過ごしていたような気がするのに、もう一年も経っちゃったのね！"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_a7dd1558:
+translate Japanese mas_d25_monika_holiday_intro_a7dd1558:
     m 3hua "あなたといると本当に時間が経つのが早いわ～"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_ffa7dd35:
+translate Japanese mas_d25_monika_holiday_intro_ffa7dd35:
     m 3eua "この部屋は気に入ってくれたかしら？"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_a708029e:
+translate Japanese mas_d25_monika_holiday_intro_a708029e:
     m 1hua "自画自賛せざるを得ない、ってね。"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_8e2fded1:
+translate Japanese mas_d25_monika_holiday_intro_8e2fded1:
     m 3rksdla "飾り付けは1部屋分しかなかったから、教室を飾ることにしたわ……{w=0.2}それでいいかな。"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_d57ef83e:
+translate Japanese mas_d25_monika_holiday_intro_d57ef83e:
     m "でも、とにかく……"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_696f34c2:
+translate Japanese mas_d25_monika_holiday_intro_696f34c2:
     m 3eua "クリスマスは一年で好きな季節のひとつよ……"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_98655953:
+translate Japanese mas_d25_monika_holiday_intro_98655953:
     m 5eka "だから今年も一緒にいられて嬉しいよ～"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_ef846ef3:
+translate Japanese mas_d25_monika_holiday_intro_ef846ef3:
     m 5eka "そして、ここに一緒にいてくれるなんて嬉しいわ～"
 
 translate Japanese mas_d25_monika_holiday_intro_upset_0c23ad8e:
@@ -811,19 +811,19 @@ translate Japanese mas_d25_monika_holiday_intro_upset_9b87f36a:
 translate Japanese mas_d25_monika_holiday_intro_upset_d8eab78d:
     m 1eua "あなたがちょっと目を閉じてくれれば……{w=0.5}"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_1_4b57a37e:
+translate Japanese mas_d25_monika_holiday_intro_upset_4b57a37e:
     m 3hub "じゃじゃーん～"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_1_5aca8eec:
+translate Japanese mas_d25_monika_holiday_intro_upset_5aca8eec:
     m 3eka "どうかしら？"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_1_e65347a4:
+translate Japanese mas_d25_monika_holiday_intro_upset_e65347a4:
     m 1eka "間に合せだけど、悪くないでしょ？"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_1_0511ab75:
+translate Japanese mas_d25_monika_holiday_intro_upset_0511ab75:
     m 1hua "クリスマスは一年で好きな季節のひとつよ……"
 
-translate Japanese _call_mas_d25_monika_holiday_intro_deco_1_8b7c7a39:
+translate Japanese mas_d25_monika_holiday_intro_upset_8b7c7a39:
     m 3eua "そして、あなたと一緒に楽しく過ごせるのがとっても嬉しいわ、[player]～"
 
 translate Japanese mas_d25_monika_holiday_intro_rh_ddf3a247:
@@ -1222,58 +1222,46 @@ translate Japanese mas_d25_spent_time_monika_0658637d:
 translate Japanese mas_d25_spent_time_monika_fb88da9a:
     m 3ekbsa "というわけで[player]、気に入ってくれたかしら～"
 
-translate Japanese _call_mas_showpoem_6_83336d8f:
-    m 1ekbsa "本当に本気で言ってるの[player]、プレゼントは嬉しいけど、何もくれなくてもよかったのに……"
-
-translate Japanese _call_mas_showpoem_6_46018a7f:
-    m 1ekbsa "本当に本気で言ってるの[player]、風変わりなプレゼントをくれたけど、そういうことじゃなくて……"
-
-translate Japanese _call_mas_showpoem_6_ef9cd99d:
-    m 1ekbsa "つまりね[player]、クリスマスプレゼントなんてなくったってかまわないの……"
-
-translate Japanese _call_mas_showpoem_6_d68c0e32:
+translate Japanese mas_d25_spent_time_monika_d68c0e32:
     m 1dku "……"
 
-translate Japanese _call_mas_showpoem_6_8be0794c:
-    m 1ektpu "あなたが私と一緒にいること……{w=1}それだけが私の望みなの"
-
-translate Japanese _call_mas_showpoem_6_a25d31b9:
+translate Japanese mas_d25_spent_time_monika_a25d31b9:
     m 6dktua "本当にあなたは私の世界の全てなの、[player]……{w=1}あなたの愛だけあれば十分"
 
-translate Japanese _call_mas_showpoem_6_f90a34a5:
+translate Japanese mas_d25_spent_time_monika_f90a34a5:
     m 6ekbfa "[player]……わ、わたし……"
 
-translate Japanese _call_monika_kissing_motion_5_da455930:
+translate Japanese mas_d25_spent_time_monika_da455930:
     m 6ekbfa "……私も愛してるの～"
 
-translate Japanese _call_monika_kissing_motion_5_1691936e:
+translate Japanese mas_d25_spent_time_monika_1691936e:
     m 6dkbfa "……"
 
-translate Japanese _call_monika_kissing_motion_5_ab83b25a:
+translate Japanese mas_d25_spent_time_monika_ab83b25a:
     m "夢にまで見ていたものだったんだ～"
 
-translate Japanese _call_monika_kissing_motion_5_504f2b08:
+translate Japanese mas_d25_spent_time_monika_504f2b08:
     m 6ekbfa "長い間待っていたのよ、最後にあなたにキスするために。そしてこれ以上の完璧な瞬間はなかったわ……"
 
-translate Japanese _call_monika_kissing_motion_5_4ae473f8:
+translate Japanese mas_d25_spent_time_monika_4ae473f8:
     m 6dkbfa "ヤドリギの下であなたと……"
 
-translate Japanese _call_monika_kissing_motion_5_824938dd:
+translate Japanese mas_d25_spent_time_monika_824938dd:
     m 6dkbsu "絶対忘れないわ……"
 
-translate Japanese _call_monika_kissing_motion_5_3950798b:
+translate Japanese mas_d25_spent_time_monika_3950798b:
     m 6ekbsu "……ファーストキスの瞬間をね～"
 
-translate Japanese _call_monika_kissing_motion_5_35257bac:
+translate Japanese mas_d25_spent_time_monika_35257bac:
     m 6dkbfu "えへへ……"
 
-translate Japanese _call_monika_kissing_motion_5_a823ef07:
+translate Japanese mas_d25_spent_time_monika_a823ef07:
     m 6ekbfa "ヤドリギの下で一緒にキスをしたいって思ってたの～"
 
-translate Japanese _call_monika_kissing_motion_5_5c38ff19:
+translate Japanese mas_d25_spent_time_monika_5c38ff19:
     m 5ekbfa "とっても愛してるよ、[player]～"
 
-translate Japanese _call_monika_kissing_motion_5_f08694ad:
+translate Japanese mas_d25_spent_time_monika_f08694ad:
     m 1hubfa "愛してるよ、 [player]～"
 
 translate Japanese monika_aiwfc_542034c8:
@@ -1468,16 +1456,16 @@ translate Japanese monika_this_christmas_kiss_5d9ddbd9:
 translate Japanese monika_this_christmas_kiss_2bf254e7:
     m 1hua "…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_mas_song_this_christmas_kiss_f9f68d5c:
+translate Japanese monika_this_christmas_kiss_f9f68d5c:
     m 1dubsa "……"
 
-translate Japanese _call_mas_song_this_christmas_kiss_0cb454be:
+translate Japanese monika_this_christmas_kiss_0cb454be:
     m 1rtbsu "うーん{w=0.5}…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_monika_kissing_motion_6_0e868cf3:
+translate Japanese monika_this_christmas_kiss_0e868cf3:
     m 6ekbfa "ねえ[player]、いつかあなたにキスできる日が来るのかな"
 
-translate Japanese _call_monika_kissing_motion_6_33ecf07a:
+translate Japanese monika_this_christmas_kiss_33ecf07a:
     m 1dubfu "もしその日が来たら、嬉しすぎて心臓が口から飛び出ちゃうかもね〜"
 
 translate Japanese mas_d25_spider_tinsel_e069a980:
@@ -1774,10 +1762,10 @@ translate Japanese mas_d25_monika_christmas_eve_40f09cf5_1:
 translate Japanese mas_d25_monika_christmas_eve_625bd0c6:
     m 5hkbsa "クリスマスをはじめて一緒に過ごせるって思うだけで……{w=1}待ちきれないの！"
 
-translate Japanese _call_mas_d25_monika_second_time_lingerie_1_dc11f15d:
+translate Japanese mas_d25_monika_christmas_eve_dc11f15d:
     m 5ekbfa "……"
 
-translate Japanese _call_mas_lingerie_intro_1_b2b16b20:
+translate Japanese mas_d25_monika_christmas_eve_b2b16b20:
     m 1ekbfa "あなたをとってもとーっても愛してるの、[player]～"
 
 translate Japanese mas_d25_monika_lingerie_reveal_ee1ab498:
@@ -1792,7 +1780,7 @@ translate Japanese mas_d25_monika_lingerie_reveal_b2ad21c2:
 translate Japanese mas_d25_monika_lingerie_reveal_e612037c:
     m "……"
 
-translate Japanese _call_mas_lingerie_intro_b2b16b20:
+translate Japanese mas_d25_monika_lingerie_reveal_b2b16b20:
     m 1ekbfa "もちろんあなたのこともとってもとーっても大好きだよ、[player]～"
 
 translate Japanese mas_d25_monika_second_time_lingerie_6d6d2f46:
@@ -1801,25 +1789,25 @@ translate Japanese mas_d25_monika_second_time_lingerie_6d6d2f46:
 translate Japanese mas_d25_monika_second_time_lingerie_33f92e26:
     m 3tsbsu "今日はあなたを驚かせようって思ってたのに…… {w=1}逆に驚かされちゃったね、えへへ〜"
 
-translate Japanese _call_mas_clothes_change_13_623d2537:
+translate Japanese mas_d25_monika_second_time_lingerie_623d2537:
     m 2tfbsu "ねえ[player]…… {w=0.5}よく見て…… {w=0.3}私のことをもっと見つめてほしいの"
 
-translate Japanese _call_mas_clothes_change_13_6896f9a3:
+translate Japanese mas_d25_monika_second_time_lingerie_6896f9a3:
     m 2hubsb "あはは！"
 
-translate Japanese _call_mas_clothes_change_13_85fc822d:
+translate Japanese mas_d25_monika_second_time_lingerie_85fc822d:
     m 2eubsb "この服気に入ってくれるよね……"
 
-translate Japanese _call_mas_clothes_change_13_967b8aab:
+translate Japanese mas_d25_monika_second_time_lingerie_967b8aab:
     m 2tkbsu "というか、今日という日にはむしろぴったりだと思わない？"
 
-translate Japanese _call_mas_clothes_change_13_18c97102:
+translate Japanese mas_d25_monika_second_time_lingerie_18c97102:
     m 2rkbssdla "こんな服を着るなんて、最初は本当にドキドキしたんだよ……"
 
-translate Japanese _call_mas_clothes_change_13_1328b3f8:
+translate Japanese mas_d25_monika_second_time_lingerie_1328b3f8:
     m 2hubsb "でも前にもっとすごい衣装を着たこともあるし、何よりあなたのために自分を着飾るのは楽しいわ！"
 
-translate Japanese _call_mas_clothes_change_13_a8205d5c:
+translate Japanese mas_d25_monika_second_time_lingerie_a8205d5c:
     m 3tkbsu "あなたも私の衣装楽しんでね〜"
 
 translate Japanese mas_d25_postd25_notimespent_51ad6d37:
@@ -4318,40 +4306,40 @@ translate Japanese mas_bday_spent_time_with_wrapup_08acec43:
 translate Japanese mas_bday_spent_time_with_wrapup_9d2d1f2e:
     m 1ekbsa "……生きる意味を教えてくれてありがとう"
 
-translate Japanese _call_monika_kissing_motion_12_8273731a:
+translate Japanese mas_bday_spent_time_with_wrapup_8273731a:
     m 6ekbfa "あら、[player]……"
 
-translate Japanese _call_monika_kissing_motion_12_9c442312:
+translate Japanese mas_bday_spent_time_with_wrapup_9c442312:
     m 6rkbfa "あの…… {w=0.5}急だったからびっくりしちゃったけど、された瞬間にそれが正しいって思ったよ"
 
-translate Japanese _call_monika_kissing_motion_12_3710a58c:
+translate Japanese mas_bday_spent_time_with_wrapup_3710a58c:
     m 6hubfa "ずっとあなたとのファーストキスのことを考えていたわ、いつか直接唇同士を触れ合せたいって……"
 
-translate Japanese _call_monika_kissing_motion_12_44301f6e:
+translate Japanese mas_bday_spent_time_with_wrapup_44301f6e:
     m 6ekbfa "今日のことは絶対に忘れないよ、[player]～"
 
-translate Japanese _call_monika_kissing_motion_12_15ae1db2:
+translate Japanese mas_bday_spent_time_with_wrapup_15ae1db2:
     m 1eka "今日私がどれだけ幸せな気持ちなのか、言葉にできない"
 
-translate Japanese _call_monika_kissing_motion_12_9f0181ef:
+translate Japanese mas_bday_spent_time_with_wrapup_9f0181ef:
     m 3eka "あなたに出会うまでに受けたすべての苦痛が吹き飛んじゃった"
 
-translate Japanese _call_monika_kissing_motion_12_8abe42a4:
+translate Japanese mas_bday_spent_time_with_wrapup_8abe42a4:
     m 1hua "本当に頑張ってきてよかった"
 
-translate Japanese _call_monika_kissing_motion_12_f9234b0a:
+translate Japanese mas_bday_spent_time_with_wrapup_f9234b0a:
     m 1rsc "もし途中で諦めていたら……"
 
-translate Japanese _call_monika_kissing_motion_12_03f5037e:
+translate Japanese mas_bday_spent_time_with_wrapup_03f5037e:
     m 1ekbsa "きっと今日という日を決して迎えることができなかったから"
 
-translate Japanese _call_monika_kissing_motion_12_19eab726:
+translate Japanese mas_bday_spent_time_with_wrapup_19eab726:
     m 1dkbsa "だから少しだけあなたに伝えたいことがあるんだ、今日を私と一緒に祝ってくれた感謝の気持ちを込めて"
 
-translate Japanese _call_monika_kissing_motion_12_20ad22eb:
+translate Japanese mas_bday_spent_time_with_wrapup_20ad22eb:
     m 1ekbfb "大好きだよ、[player]"
 
-translate Japanese _call_monika_kissing_motion_12_efaa1d40:
+translate Japanese mas_bday_spent_time_with_wrapup_efaa1d40:
     m 1ekbfa "ふたりで幸せになろうね～"
 
 translate Japanese mas_bday_postbday_notimespent_9e3afcd5:
@@ -4585,31 +4573,31 @@ translate Japanese bye_922_delegate_4aaec80c:
 translate Japanese bye_922_delegate_14411fee:
     m 3hua "実は今日のために衣装を用意してたんだ……"
 
-translate Japanese _call_monika_zoom_transition_reset_6_19428ff1:
+translate Japanese mas_bday_bd_outro_19428ff1:
     m 1hua "えへへ～"
 
-translate Japanese _call_monika_zoom_transition_reset_6_a4a38d5b:
+translate Japanese mas_bday_bd_outro_a4a38d5b:
     m 1euu "本当に最高だよ、全部今日のために立ててくれた計画なんだよね"
 
-translate Japanese _call_monika_zoom_transition_reset_6_2d19e2b1:
+translate Japanese mas_bday_bd_outro_2d19e2b1:
     m 3eua "でも、たくさん遠出しなくったって、きっと一緒に楽しい時間を過ごせると思うよ～"
 
-translate Japanese _call_monika_zoom_transition_reset_6_05df1dd2:
+translate Japanese mas_bday_bd_outro_05df1dd2:
     m 3tka "どう、[player]？"
 
-translate Japanese _call_monika_zoom_transition_reset_6_cec7fb54:
+translate Japanese mas_bday_bd_outro_cec7fb54:
     m 1hua "似合ってるかな？"
 
-translate Japanese _call_monika_zoom_transition_reset_6_cce22dfa:
+translate Japanese mas_bday_bd_outro_cce22dfa:
     m 1ekbsa "ずっとこの服がお気に入りで、これを着てあなたとデートできる日を夢見てたんだ……"
 
-translate Japanese _call_monika_zoom_transition_reset_6_38bd3ab0:
+translate Japanese mas_bday_bd_outro_38bd3ab0:
     m 3eub "ショッピングモールだったり、公園を訪れてみたりね！"
 
-translate Japanese _call_monika_zoom_transition_reset_6_e700fcbe:
+translate Japanese mas_bday_bd_outro_e700fcbe:
     m 1eka "でもあなたのことだからきっと、ふたりの今日のために素敵な計画を立ててくれてるんだろうな～"
 
-translate Japanese _call_monika_zoom_transition_reset_6_f04503eb:
+translate Japanese mas_bday_bd_outro_f04503eb:
     m 1hua "じゃあ行こっか、[player]！"
 
 translate Japanese greeting_returned_home_bday_603ab50f:
@@ -4771,43 +4759,43 @@ translate Japanese greeting_returned_home_bday_716ef2f4:
 translate Japanese greeting_returned_home_bday_cacf613d:
     m 3duu "だってあなたが来てくれるだけで、私の誕生日は完璧になるんだから"
 
-translate Japanese _call_monika_zoom_transition_reset_7_1f72d69f:
+translate Japanese mas_monika_cake_on_player_bday_1f72d69f:
     m 6eua "これって――"
 
-translate Japanese _call_monika_zoom_transition_reset_7_39432f1d:
+translate Japanese mas_monika_cake_on_player_bday_39432f1d:
     m 6wuo "あっ！ {i}私にも{/i}ケーキをくれたのね！"
 
-translate Japanese _call_monika_zoom_transition_reset_7_ae7d1870:
+translate Japanese mas_monika_cake_on_player_bday_ae7d1870:
     m 6sub "本当に素敵なケーキね、[player]！"
 
-translate Japanese _call_monika_zoom_transition_reset_7_b2502fbd:
+translate Japanese mas_monika_cake_on_player_bday_b2502fbd:
     m 6hua "えへへ、あなたへのケーキのときにもうお願い事はしたけど、もう一回やるね……"
 
-translate Japanese _call_monika_zoom_transition_reset_7_a2a7b01b:
+translate Japanese mas_monika_cake_on_player_bday_a2a7b01b:
     m 6tub "これで叶う確率は2倍よね？"
 
-translate Japanese _call_monika_zoom_transition_reset_7_67675433:
+translate Japanese mas_monika_cake_on_player_bday_67675433:
     m 6hua "おめでとう、[player]！"
 
-translate Japanese _call_monika_zoom_transition_reset_7_e357b409:
+translate Japanese mas_monika_cake_on_player_bday_e357b409:
     m 6eua "こんなに素敵なケーキを贈ってくれるなんて、今でも信じられないよ[player]……"
 
-translate Japanese _call_monika_zoom_transition_reset_7_35f1d086:
+translate Japanese mas_monika_cake_on_player_bday_35f1d086:
     m 6hua "素敵すぎて食べちゃうのがもったいないくらい"
 
-translate Japanese _call_monika_zoom_transition_reset_7_a0857f18:
+translate Japanese mas_monika_cake_on_player_bday_a0857f18:
     m 6tub "もったいないから全部食べちゃうけどね"
 
-translate Japanese _call_monika_zoom_transition_reset_7_30727938:
+translate Japanese mas_monika_cake_on_player_bday_30727938:
     m "あはは！"
 
-translate Japanese _call_monika_zoom_transition_reset_7_bd36eb02:
+translate Japanese mas_monika_cake_on_player_bday_bd36eb02:
     m 6eka "とりあえず、今はケーキは横においておくね"
 
-translate Japanese _call_mas_HideCake_4_6011527b:
+translate Japanese mas_monika_cake_on_player_bday_6011527b:
     m 1eua "ありがとう、[player]……"
 
-translate Japanese _call_mas_HideCake_4_d1fbbfc5:
+translate Japanese mas_monika_cake_on_player_bday_d1fbbfc5:
     m 3hub "本当に素敵な誕生日だよ！"
 
 translate Japanese strings:

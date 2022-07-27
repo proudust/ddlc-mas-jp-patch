@@ -820,31 +820,31 @@ translate Japanese mas_mood_bored_d882a148:
 translate Japanese mas_mood_bored_82fdc2ae:
     m "どうしたいの、[chosen_nickname]君？{fast}" nointeract
 
-translate Japanese _call_mas_piano_start_1_d26879ea:
+translate Japanese mas_mood_bored_d26879ea:
     m 1eka "わかったわ……"
 
-translate Japanese _call_mas_piano_start_1_da34fa3d:
+translate Japanese mas_mood_bored_da34fa3d:
     m 5tsu "もう少し長くあなたと見つめ合えたらなぁ……"
 
-translate Japanese _call_mas_piano_start_1_d9790317:
+translate Japanese mas_mood_bored_d9790317:
     m "飽きることなんてないのにね～"
 
-translate Japanese _call_mas_piano_start_1_e4592319:
+translate Japanese mas_mood_bored_e4592319:
     m 5eua "もう少し長くあなたと見つめ合えたらなぁ……"
 
-translate Japanese _call_mas_piano_start_1_8b5f5f6e:
+translate Japanese mas_mood_bored_8b5f5f6e:
     m "絶対に飽きないのにな～"
 
-translate Japanese _call_mas_piano_start_1_585e2a8b:
+translate Japanese mas_mood_bored_585e2a8b:
     m 1ekc "あら、わかったわ……"
 
-translate Japanese _call_mas_piano_start_1_b39e9dad:
+translate Japanese mas_mood_bored_b39e9dad:
     m 1eka "また後で私となにかやりたくなったら教えてね～"
 
-translate Japanese _call_mas_piano_start_1_e4e2e831:
+translate Japanese mas_mood_bored_e4e2e831:
     m 2ekc "そう……"
 
-translate Japanese _call_mas_piano_start_1_73142ff9:
+translate Japanese mas_mood_bored_73142ff9:
     m 2dkc "私と何かしたいことがあったら、教えてね"
 
 translate Japanese mas_mood_crying_63c65d35:
