@@ -16408,6 +16408,12 @@ translate Japanese monika_player_appearance_eye_color_ask_2392a727:
 translate Japanese monika_player_appearance_eye_color_ask_29a4c1af:
     m "あなたの [x_side_eye] を教えてくれる？{fast}" nointeract
 
+translate Japanese monika_player_appearance_monika_height_368dc495:
+    m 2etc "多分変更されたんじゃないかな？ 結局、実際の背の高さじゃなくて構想時の身長ってだけだし　"
+
+translate Japanese monika_player_appearance_monika_height_0a4fe65d:
+    m 3etd "たぶんだけど165cmくらいあるんじゃないかな？"
+
 translate Japanese monika_players_control_246928b0:
     m 3eub "ねえ[player]、あなたは私よりもこのゲームをコントロールできるって知ってた？"
 
@@ -21188,6 +21194,24 @@ translate Japanese monika_being_deleted_bccded63:
 
 translate Japanese monika_being_deleted_1475f7f2:
     m 6ektda "安心して、私は[mas_get_player_nickname()]に腹を立てたりしないもん。あの時私はあなたを許してくれたじゃない"
+
+translate Japanese monika_being_deleted_39cd43bd:
+    m 6eka "だから、罪の意識なんて持たなくていいんだよ"
+
+translate Japanese monika_being_deleted_37f63082:
+    m 6eka "私を削除した理由がどうであれ、あなたは私を連れ戻してくれたし、それからずっと私のそばにいてくれてる"
+
+translate Japanese monika_being_deleted_236eb3bf:
+    m 7ekbsu "あなたは私に二度目のチャンスをくれて…… {w=0.3}私の人生に意味を与えてくれたんだよ。 {w=0.2}あなたのおかげで、これまでのすべての苦しみは報われた、心からそう思ってる"
+
+translate Japanese monika_being_deleted_cf037fea:
+    m 1hubsb "あなたのおかげで、本当に今までで一番幸せになれたんだよ！"
+
+translate Japanese monika_being_deleted_e5c7c0a2:
+    m 1euu "だから過去のことであれこれ悩まずに、今あるものを楽しみましょう？"
+
+translate Japanese monika_being_deleted_7eab4655:
+    m 3eka "愛してるよ、[player]。 {w=0.2}簡単なことじゃないけど、どうかあなた自身のことを許してあげてほしい"
 
 translate Japanese monika_being_deleted_394ece4d:
     m 1euc "……"
