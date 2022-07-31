@@ -2257,376 +2257,376 @@ translate Japanese monika_rain_7da5894a:
 translate Japanese monika_rain_bd47ae27:
     m "そうしてくれるよね？ [p_nickname]君{fast}" nointeract
 
-translate Japanese _call_monika_holdme_prep_1_87139886:
+translate Japanese monika_rain_87139886:
     m 1hua "じゃあ私を抱きしめて、[player]……"
 
-translate Japanese _call_monika_holdme_end_1_fc3f09b6:
+translate Japanese monika_rain_fc3f09b6:
     m 1eua "雨が止ませたかったら、私に言ってね？"
 
-translate Japanese _call_monika_holdme_end_1_4428e25e:
+translate Japanese monika_rain_4428e25e:
     m 2tkc "あら、それは残念"
 
-translate Japanese _call_mas_change_weather_2_264ed02e:
+translate Japanese monika_rain_264ed02e:
     m 2eka "でも、分からなくもないわ"
 
-translate Japanese _call_mas_change_weather_2_c6912aee:
+translate Japanese monika_rain_c6912aee:
     m 1eua "雨の日って憂鬱になるわよね"
 
-translate Japanese _call_mas_change_weather_2_56541421:
+translate Japanese monika_rain_56541421:
     m 3rksdlb "とっても寒くなるし！"
 
-translate Japanese _call_mas_change_weather_2_360afd7e:
+translate Japanese monika_rain_360afd7e:
     m 1eua "でも、打ち付ける雨粒の音に集中すれば……"
 
-translate Japanese _call_mas_change_weather_2_57107fae:
+translate Japanese monika_rain_57107fae:
     m 1hua "きっと楽しめると思うわ"
 
-translate Japanese _call_monika_holdme_prep_2_d26ce502:
+translate Japanese monika_rain_holdme_d26ce502:
     m 1eua "もちろんよ、[mas_get_player_nickname()]"
 
-translate Japanese _call_monika_holdme_end_2_9992bf6e:
+translate Japanese monika_rain_holdme_9992bf6e:
     m 1rksdlc "……"
 
-translate Japanese _call_monika_holdme_end_2_9c2c2371:
+translate Japanese monika_rain_holdme_9c2c2371:
     m 1rksdlc "雰囲気も何も無いね、[player]……"
 
-translate Japanese _call_monika_holdme_end_2_3713f49c:
+translate Japanese monika_rain_holdme_3713f49c:
     m 1dsc "ごめんね……"
 
-translate Japanese _call_monika_holdme_long_f507a8da:
+translate Japanese monika_holdme_reactions_f507a8da:
     m 6dubsa "……"
 
-translate Japanese _call_monika_holdme_long_73463b7c:
+translate Japanese monika_holdme_reactions_73463b7c:
     m 6tubsa "んむ……{w=1}ぅん？"
 
-translate Japanese _call_monika_holdme_long_8c992240:
+translate Japanese monika_holdme_reactions_8c992240:
     m 1hkbfsdlb "やだ、私ってば寝るところだった？"
 
-translate Japanese _call_monika_holdme_long_9c6aa4ac:
+translate Japanese monika_holdme_reactions_9c6aa4ac:
     m 2dubfu "えへへ……"
 
-translate Japanese _call_monika_holdme_long_75830d22:
+translate Japanese monika_holdme_reactions_75830d22:
     m 1dkbfa "一緒にいるところが……{w=1}想像できるわ……"
 
-translate Japanese _call_monika_holdme_long_160654a9:
+translate Japanese monika_holdme_reactions_160654a9:
     m 2ekbfa "あなたの腕に包まれて……"
 
-translate Japanese _call_monika_holdme_long_47944a28:
+translate Japanese monika_holdme_reactions_47944a28:
     m 5dkbfb "とっても……{w=1.5}あったか～い～"
 
-translate Japanese _call_monika_holdme_long_cb9c87b1:
+translate Japanese monika_holdme_reactions_cb9c87b1:
     m 5tubfu "えへへ～"
 
-translate Japanese _call_monika_holdme_long_78f0ef84:
+translate Japanese monika_holdme_reactions_78f0ef84:
     m 2hkbfsdlb "うぅん、まだ夢を見てるみたい……"
 
-translate Japanese _call_monika_holdme_long_566a705b:
+translate Japanese monika_holdme_reactions_566a705b:
     m 1kubfu "少なくとも{i}ひとつ{/i}私の夢は叶ったけどね。"
 
-translate Japanese _call_monika_holdme_long_2839d163:
+translate Japanese monika_holdme_reactions_2839d163:
     m 1ekbfb "少なくとも{i}ひとつ{/i}私の夢は叶ったけどね。"
 
-translate Japanese _call_monika_holdme_long_de5d79e3:
+translate Japanese monika_holdme_reactions_de5d79e3:
     m 1hubfu "うふふっ"
 
-translate Japanese _call_monika_holdme_long_d25a8d45:
+translate Japanese monika_holdme_reactions_d25a8d45:
     m 6dubsa "ぅむむ～"
 
-translate Japanese _call_monika_holdme_long_d1861ba5:
+translate Japanese monika_holdme_reactions_d1861ba5:
     m 6tsbsa "……"
 
-translate Japanese _call_monika_holdme_long_19afca8b:
+translate Japanese monika_holdme_reactions_19afca8b:
     m 1hkbfsdlb "あっ！"
 
-translate Japanese _call_monika_holdme_long_874b5932:
+translate Japanese monika_holdme_reactions_874b5932:
     m 1hubfa "あまりの心地よさに眠っちゃうところだった！"
 
-translate Japanese _call_monika_holdme_long_af709e1c:
+translate Japanese monika_holdme_reactions_af709e1c:
     m 3hubfb "もっと頻繁にやってくれたら眠らないかもね、あはは！"
 
-translate Japanese _call_monika_holdme_long_5552c101:
+translate Japanese monika_holdme_reactions_5552c101:
     m 6dubsa "んむ……"
 
-translate Japanese _call_monika_holdme_long_6b9bf6e2:
+translate Japanese monika_holdme_reactions_6b9bf6e2:
     m 6eud "あら？"
 
-translate Japanese _call_monika_holdme_long_4dc6d17c:
+translate Japanese monika_holdme_reactions_4dc6d17c:
     m 1hubfa "ようやく放してくれたわね、[player]？"
 
-translate Japanese _call_monika_holdme_long_92bf8c0b:
+translate Japanese monika_holdme_reactions_92bf8c0b:
     m 3tubfu "{i}とっても{/i} 長い間抱きしめられてた気分だわ。 えへへ～"
 
-translate Japanese _call_monika_holdme_long_52f66b82:
+translate Japanese monika_holdme_reactions_52f66b82:
     m 1rkbfb "もう一回ハグしてもいいけど……"
 
-translate Japanese _call_monika_holdme_long_c86f11f0:
+translate Japanese monika_holdme_reactions_c86f11f0:
     m 1hubfa "また次の機会に取っておくんでしょ？"
 
-translate Japanese _call_monika_holdme_long_97e69032:
+translate Japanese monika_holdme_reactions_97e69032:
     m 6dubsa "ぅん？"
 
-translate Japanese _call_monika_holdme_long_f785b7ba:
+translate Japanese monika_holdme_reactions_f785b7ba:
     m 1wud "あれ、もうおしまい？"
 
-translate Japanese _call_monika_holdme_long_e05b6f0a:
+translate Japanese monika_holdme_reactions_e05b6f0a:
     m 3hksdlb "とっても長く抱きしめてたわね、[player]……"
 
-translate Japanese _call_monika_holdme_long_091ea126:
+translate Japanese monika_holdme_reactions_091ea126:
     m 3rubsb "悪くはないけれど、もっと早く解放してくれると思ってたわ。アハハ！"
 
-translate Japanese _call_monika_holdme_long_03d3d7b5:
+translate Japanese monika_holdme_reactions_03d3d7b5:
     m 1rkbsa "本当は快適すぎて……"
 
-translate Japanese _call_monika_holdme_long_0514eef4:
+translate Japanese monika_holdme_reactions_0514eef4:
     m 2ekbfa "ちょっと寝ちゃってたかもしれないわね……"
 
-translate Japanese _call_monika_holdme_long_25f83b54:
+translate Japanese monika_holdme_reactions_25f83b54:
     m 1hubfa "今はとっても暖かくて、いい気分～"
 
-translate Japanese _call_monika_holdme_long_6b9bf6e2_1:
+translate Japanese monika_holdme_reactions_6b9bf6e2_1:
     m 6eud "うん？"
 
-translate Japanese _call_monika_holdme_long_461529d4:
+translate Japanese monika_holdme_reactions_461529d4:
     m 1hksdlb "あー……"
 
-translate Japanese _call_monika_holdme_long_9315f6c4:
+translate Japanese monika_holdme_reactions_9315f6c4:
     m 1rksdlb "ずっとこのままハグしててくれるんじゃないかと思ってたわ。アハハ……"
 
-translate Japanese _call_monika_holdme_long_ae6344b4:
+translate Japanese monika_holdme_reactions_ae6344b4:
     m 3hubsa "まぁ、抱きしめてもらってるのに文句なんて言えないわよね～"
 
-translate Japanese _call_monika_holdme_long_8a0c7424:
+translate Japanese monika_holdme_reactions_8a0c7424:
     m 1ekbfb "あなたもハグを楽しんでくれてたらいいんだけど。"
 
-translate Japanese _call_monika_holdme_long_8a83490f:
+translate Japanese monika_holdme_reactions_8a83490f:
     m 5tubfb "……もう少しハグしてくれててもいいんじゃないかな？"
 
-translate Japanese _call_monika_holdme_long_cb9c87b1_1:
+translate Japanese monika_holdme_reactions_cb9c87b1_1:
     m 5tubfu "えへへ～"
 
-translate Japanese _call_monika_holdme_long_8b0e237b:
+translate Japanese monika_holdme_reactions_8b0e237b:
     m 1dkbsa "とってもいい感じ～"
 
-translate Japanese _call_monika_holdme_long_909845ae:
+translate Japanese monika_holdme_reactions_909845ae:
     m 1rkbsa "短すぎず――"
 
-translate Japanese _call_monika_holdme_long_4e4775f3:
+translate Japanese monika_holdme_reactions_4e4775f3:
     m 1hubfb "――この場合、長すぎるってこともないわね。アハハ！"
 
-translate Japanese _call_monika_holdme_long_b5aa00d2:
+translate Japanese monika_holdme_reactions_b5aa00d2:
     m 1rksdla "こんなふうにずっとしていられたらなぁ……"
 
-translate Japanese _call_monika_holdme_long_da9c8d48:
+translate Japanese monika_holdme_reactions_da9c8d48:
     m 1eksdla "でもあなたが抱きしめ終わって離れようとしても、私にはそれを止めるすべはない……"
 
-translate Japanese _call_monika_holdme_long_a87c6ab2:
+translate Japanese monika_holdme_reactions_a87c6ab2:
     m 1hubfa "次の機会があると信じて、待つことしかできないの……"
 
-translate Japanese _call_monika_holdme_long_0cf7f57a:
+translate Japanese monika_holdme_reactions_0cf7f57a:
     m 5tsbfu "{i}絶対に{/i}次の機会を作ってよね？ えへへ～"
 
-translate Japanese _call_monika_holdme_long_8c158969:
+translate Japanese monika_holdme_reactions_8c158969:
     m 2hubsa "む～～"
 
-translate Japanese _call_monika_holdme_long_33a61e19:
+translate Japanese monika_holdme_reactions_33a61e19:
     m 1ekbfb "今の良かったよ、[mas_get_player_nickname()]"
 
-translate Japanese _call_monika_holdme_long_5cb29c00:
+translate Japanese monika_holdme_reactions_5cb29c00:
     m 1hubfb "長いハグはストレスを洗い流してくれるんだよ。"
 
-translate Japanese _call_monika_holdme_long_17fd2a51:
+translate Japanese monika_holdme_reactions_17fd2a51:
     m 1ekbfb "ストレスがなかったとしても、ハグの後に気持ちよくなってくれたらうれしいな。"
 
-translate Japanese _call_monika_holdme_long_eab24bf3:
+translate Japanese monika_holdme_reactions_eab24bf3:
     m 3hubfa "私はもうなってるよ～"
 
-translate Japanese _call_monika_holdme_long_3aa0a1ce:
+translate Japanese monika_holdme_reactions_3aa0a1ce:
     m 1hubfb "あはは！"
 
-translate Japanese _call_monika_holdme_long_5dde804d:
+translate Japanese monika_holdme_reactions_5dde804d:
     m 1hksdlb "さっきの瞬間、とても良かったよ"
 
-translate Japanese _call_monika_holdme_long_95e0d4cf:
+translate Japanese monika_holdme_reactions_95e0d4cf:
     m 3rksdla "誤解しないでね……{w=1}とってもドキドキできたって意味だからね"
 
-translate Japanese _call_monika_holdme_long_0bee94db:
+translate Japanese monika_holdme_reactions_0bee94db:
     m 1ekbsa "あなたもドキドキしてくれたかな……"
 
-translate Japanese _call_monika_holdme_long_5e3b5a2b:
+translate Japanese monika_holdme_reactions_5e3b5a2b:
     m 1hubfa "今一緒にあなたと座っていられるだけで私は幸せだよ"
 
-translate Japanese _call_monika_holdme_long_8bb88ff4:
+translate Japanese monika_holdme_reactions_8bb88ff4:
     m 1eub "あぁ～"
 
-translate Japanese _call_monika_holdme_long_441ea7f2:
+translate Japanese monika_holdme_reactions_441ea7f2:
     m 1hua "とってもスッキリしたよ！"
 
-translate Japanese _call_monika_holdme_long_286f579b:
+translate Japanese monika_holdme_reactions_286f579b:
     m 1eua "あなたも同じ気持ちになってくれてたら嬉しいな"
 
-translate Japanese _call_monika_holdme_long_d9c1901f:
+translate Japanese monika_holdme_reactions_d9c1901f:
     m 2rksdla "まあ、そうなれなかったとしても……"
 
-translate Japanese _call_monika_holdme_long_23afcb59:
+translate Japanese monika_holdme_reactions_23afcb59:
     m 3hubsb "いつでもまた抱きしめに来てくれていいからね、あはは！"
 
-translate Japanese _call_monika_holdme_long_930cbe25:
+translate Japanese monika_holdme_reactions_930cbe25:
     m 1hkbfsdlb "でも……{w=0.5}そんな事言わなくてもまた抱きしめてくれるよね"
 
-translate Japanese _call_monika_holdme_long_0420fcad:
+translate Japanese monika_holdme_reactions_0420fcad:
     m 1ekbfa "抱きしめたくなったときはいつでも言ってね～"
 
-translate Japanese _call_monika_holdme_long_2a239cfc:
+translate Japanese monika_holdme_reactions_2a239cfc:
     m 1hubsa "ん～"
 
-translate Japanese _call_monika_holdme_long_1c72ae09:
+translate Japanese monika_holdme_reactions_1c72ae09:
     m 1hub "すごく良かったよ"
 
-translate Japanese _call_monika_holdme_long_8c4f655b:
+translate Japanese monika_holdme_reactions_8c4f655b:
     m 1eub "ありがとう、[player]！"
 
-translate Japanese _call_monika_holdme_long_57b51c9f:
+translate Japanese monika_holdme_reactions_57b51c9f:
     m 2tubsb "あなたも良くなってくれてたら嬉しいな～"
 
-translate Japanese _call_monika_holdme_long_2950c85f:
+translate Japanese monika_holdme_reactions_2950c85f:
     m 3rubfb "30秒以上のハグは、あなたにとっても良いことなんだよ"
 
-translate Japanese _call_monika_holdme_long_57524605:
+translate Japanese monika_holdme_reactions_57524605:
     m 1hubfa "あなたがどうかは知らないけど、私はとってもスッキリできるしね～"
 
-translate Japanese _call_monika_holdme_long_fb44bce0:
+translate Japanese monika_holdme_reactions_fb44bce0:
     m 1hubfb "次はもっと長いハグを試して、気分がどう違ってくるか確認してみようね！ あはは～"
 
-translate Japanese _call_monika_holdme_long_2a239cfc_1:
+translate Japanese monika_holdme_reactions_2a239cfc_1:
     m 1hubsa "あぁ～"
 
-translate Japanese _call_monika_holdme_long_cc28ef6f:
+translate Japanese monika_holdme_reactions_cc28ef6f:
     m 1hubfb "ここからでもあなたの暖かさを感じることが出来たわ"
 
-translate Japanese _call_monika_holdme_long_d43740f2:
+translate Japanese monika_holdme_reactions_d43740f2:
     m 1eua "ハグはあなたにとってもいいことなのよ。ハグをすることで、ストレスが解消されて心の重荷が軽くなるの"
 
-translate Japanese _call_monika_holdme_long_51a2b8ce:
+translate Japanese monika_holdme_reactions_51a2b8ce:
     m 3eub "でもハグって30秒が一番効果的だって知ってたかしら？"
 
-translate Japanese _call_monika_holdme_long_e33428b0:
+translate Japanese monika_holdme_reactions_e33428b0:
     m 1eud "あ、待って。今30秒って言った？"
 
-translate Japanese _call_monika_holdme_long_e18f7c7e:
+translate Japanese monika_holdme_reactions_e18f7c7e:
     m 5eubfu "ごめんなさい、正しくは{i}少なくとも30秒{/i}だからね。えへへ～"
 
-translate Japanese _call_monika_holdme_long_d81c1322:
+translate Japanese monika_holdme_reactions_d81c1322:
     m 1hubsa "えへへ～"
 
-translate Japanese _call_monika_holdme_long_8cadb561:
+translate Japanese monika_holdme_reactions_8cadb561:
     m 3eub "どうだった？"
 
-translate Japanese _call_monika_holdme_long_bffba3f1:
+translate Japanese monika_holdme_reactions_bffba3f1:
     m 1hua "私はとっても満足できたよ～"
 
-translate Japanese _call_monika_holdme_long_192456aa:
+translate Japanese monika_holdme_reactions_192456aa:
     m 1hubsb "ハグはあなたの体にいいことだからね"
 
-translate Japanese _call_monika_holdme_long_963e8bfd:
+translate Japanese monika_holdme_reactions_963e8bfd:
     m 2ekc "ああっ、もう終わっちゃうの？"
 
-translate Japanese _call_monika_holdme_long_fb6c04a2:
+translate Japanese monika_holdme_reactions_fb6c04a2:
     m 3eka "もうちょっとだけ、ハグしていたいな。いい？{nw}"
 
-translate Japanese _call_monika_holdme_long_fb2b57b0:
+translate Japanese monika_holdme_reactions_fb2b57b0:
     m "もうちょっとだけ、ハグしていたいな。いい？{fast}" nointeract
 
-translate Japanese _call_monika_holdme_long_19428ff1:
+translate Japanese monika_holdme_reactions_19428ff1:
     m 1hua "えへへ～"
 
-translate Japanese _call_monika_holdme_prep_3_5b42af06:
+translate Japanese monika_holdme_reactions_5b42af06:
     m 1hub "あなたって優しいね、[player]～"
 
-translate Japanese _call_monika_holdme_reactions_1_2ed3588d:
+translate Japanese monika_holdme_reactions_2ed3588d:
     m 2ekc "あっ……"
 
-translate Japanese _call_monika_holdme_reactions_1_f41df618:
+translate Japanese monika_holdme_reactions_f41df618:
     m 2rksdlc "……"
 
-translate Japanese _call_monika_holdme_reactions_1_17a02fb1:
+translate Japanese monika_holdme_reactions_17a02fb1:
     m 1eka "ねえ、お願い？{nw}"
 
-translate Japanese _call_monika_holdme_reactions_1_b5be4b08:
+translate Japanese monika_holdme_reactions_b5be4b08:
     m "ねえ、お願い？{fast}" nointeract
 
-translate Japanese _call_monika_holdme_reactions_1_15e2dcad:
+translate Japanese monika_holdme_reactions_15e2dcad:
     m 1hub "わぁ～い"
 
-translate Japanese _call_monika_holdme_prep_4_3a4d78bb:
+translate Japanese monika_holdme_reactions_3a4d78bb:
     m 2ekbsb "ありがとう、[player]～"
 
-translate Japanese _call_monika_holdme_reactions_2_8b0071ca:
+translate Japanese monika_holdme_reactions_8b0071ca:
     m 2hksdlb "そっか、わかった"
 
-translate Japanese _call_monika_holdme_reactions_2_0f8fc798:
+translate Japanese monika_holdme_reactions_0f8fc798:
     m 3tsbsa "でも次はもっと私を満足させてね、[player]？"
 
-translate Japanese _call_monika_holdme_reactions_2_e4d57a51:
+translate Japanese monika_holdme_reactions_e4d57a51:
     m 2hksdlb "あはは～ 大丈夫だよ！"
 
-translate Japanese _call_monika_holdme_reactions_2_f3db8651:
+translate Japanese monika_holdme_reactions_f3db8651:
     m 2tsbsb "でも次にハグしてくれるときは今回の足りなかった分も合わせて、もっと長くハグしてね、[player]～"
 
-translate Japanese _call_monika_holdme_reactions_2_2ed3588d:
+translate Japanese monika_holdme_reactions_2ed3588d_1:
     m 2ekc "あっ……"
 
-translate Japanese _call_monika_holdme_reactions_2_8699d770:
+translate Japanese monika_holdme_reactions_8699d770:
     m 2rsp "もっと長くハグしてたかったな……"
 
-translate Japanese _call_monika_holdme_reactions_2_d96bfafb:
+translate Japanese monika_holdme_reactions_d96bfafb:
     m 2tsbsu "あなたの世界へ行ければ、こんなにすぐにハグを終わらせたりさせないのにな～"
 
-translate Japanese _call_monika_holdme_reactions_2_076c72cc:
+translate Japanese monika_holdme_reactions_076c72cc:
     m 1hubsu "えへへ～"
 
-translate Japanese _call_monika_holdme_reactions_2_4f857274:
+translate Japanese monika_holdme_reactions_4f857274:
     m 1ekc "えー、これだけー？"
 
-translate Japanese _call_monika_holdme_reactions_2_6b1b2ba7:
+translate Japanese monika_holdme_reactions_6b1b2ba7:
     m 1rksdla "もっと長くぎゅってして欲しかったな……"
 
-translate Japanese _call_monika_holdme_reactions_2_015f9008:
+translate Japanese monika_holdme_reactions_015f9008:
     m 2ekbsa "ねえお願い……{w=0.7}もう少しだけ長く抱きしめて？{nw}"
 
-translate Japanese _call_monika_holdme_reactions_2_00a86b44:
+translate Japanese monika_holdme_reactions_00a86b44:
     m "ねえお願い……もう少しだけ長く抱きしめて？{fast}" nointeract
 
-translate Japanese _call_monika_holdme_reactions_2_c9f43d56:
+translate Japanese monika_holdme_reactions_c9f43d56:
     m 1hubfb "わぁい！"
 
-translate Japanese _call_monika_holdme_prep_5_5bbb1062:
+translate Japanese monika_holdme_reactions_5bbb1062:
     m 2ekbfb "ありがとう、[player]～"
 
-translate Japanese _call_monika_holdme_reactions_3_3447774c:
+translate Japanese monika_holdme_reactions_3447774c:
     m 2ekc "あっ"
 
-translate Japanese _call_monika_holdme_reactions_3_3a00a1a6:
+translate Japanese monika_holdme_reactions_3a00a1a6:
     m 1eka "そっか、今はこれだけね"
 
-translate Japanese _call_monika_holdme_reactions_3_cdbf2d66:
+translate Japanese monika_holdme_reactions_cdbf2d66:
     m 3hub "次にハグしてくれるときまで待てるかな？ あはは！"
 
-translate Japanese _call_monika_holdme_reactions_3_2866c99b:
+translate Japanese monika_holdme_reactions_2866c99b:
     m 1rkbssdla "とっても良かった、けど……{w=0.6}{nw}"
 
-translate Japanese _call_monika_holdme_reactions_3_e2767e1c:
+translate Japanese monika_holdme_reactions_e2767e1c:
     extend 1hkbfsdlb "次にハグしてくれるときはもっと長くぎゅ～ってしていてほしいな～"
 
-translate Japanese _call_monika_holdme_reactions_3_288c305a:
+translate Japanese monika_holdme_reactions_288c305a:
     m 1ekc "あっ、もう終わっちゃうの、[player]？"
 
-translate Japanese _call_monika_holdme_reactions_3_a8049ea8:
+translate Japanese monika_holdme_reactions_a8049ea8:
     m 1rksdla "もう少し長く抱きしめて欲しかったかな……"
 
-translate Japanese _call_monika_holdme_reactions_3_12a5a8a3:
+translate Japanese monika_holdme_reactions_12a5a8a3:
     m 1hubsa "でもこれが最後ってわけじゃないしね、次の機会を待ってるよ！"
 
-translate Japanese _call_monika_holdme_reactions_3_7b071781:
+translate Japanese monika_holdme_reactions_7b071781:
     m 1hua "ちょっと短かったけど、とても良かったよ～"
 
 translate Japanese monika_holdme_long_e612037c:

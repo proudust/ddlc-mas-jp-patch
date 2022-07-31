@@ -871,22 +871,22 @@ translate Japanese mas_mood_crying_882e4789:
 translate Japanese mas_mood_crying_edec7edc:
     m 3eksdld "ごめんなさい、何かあったの？"
 
-translate Japanese _call_mas_mood_uok_cc362526:
+translate Japanese mas_mood_crying_cc362526:
     m 1dkc "[player]……{w=0.3}{nw}"
 
-translate Japanese _call_mas_mood_uok_7a962195:
+translate Japanese mas_mood_crying_7a962195:
     extend 3eksdld "何かあったの？"
 
-translate Japanese _call_mas_mood_uok_1_e4fa1999:
+translate Japanese mas_mood_crying_e4fa1999:
     m 3ekd "泣きたくなったら……"
 
-translate Japanese _call_mas_mood_uok_1_85e34892:
+translate Japanese mas_mood_crying_85e34892:
     m 1eka "あなたの助けになりたいの。"
 
-translate Japanese _call_mas_mood_uok_1_18b7cfbd:
+translate Japanese mas_mood_crying_18b7cfbd:
     m 3ekd "泣くのは悪いことじゃないのよ？{w=0.2}泣きたいだけ泣いたっていいんだから。"
 
-translate Japanese _call_mas_mood_uok_1_20c61c27:
+translate Japanese mas_mood_crying_20c61c27:
     m 3ekbsu "愛してるわ、[player]。あなたは私のすべてよ。"
 
 translate Japanese mas_mood_uok_5e6b891c:
