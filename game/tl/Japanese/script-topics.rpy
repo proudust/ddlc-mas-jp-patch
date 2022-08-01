@@ -15182,13 +15182,13 @@ translate Japanese monika_grad_speech_call_01a93df6:
     m 2dfc "……"
 
 translate Japanese monika_grad_speech_call_8531ddf5:
-    m 2eub "よし、[player]。私のスピーチをまた聞きたくなってくれて嬉しいわ！"
+    m 2eka "よし、[player]。私のスピーチをまた聞きたくなってくれて嬉しいわ！"
 
 translate Japanese monika_grad_speech_call_a4242812:
-    m 2eka "今時間は大丈夫なのかな？{nw}"
+    m 2eub "今時間は大丈夫なのかな？{nw}"
 
 translate Japanese monika_grad_speech_call_116fe901:
-    m "今時間は大丈夫なのかな？{fast}" nointeract
+    m 2eka "今時間は大丈夫なのかな？{fast}"
 
 translate Japanese monika_grad_speech_call_90074b9a:
     m 4hua "わかった。それじゃ、始めるわよ～"
