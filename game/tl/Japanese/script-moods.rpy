@@ -16,12 +16,6 @@ translate Japanese _mas_nnsh_f8bf3835:
 translate Japanese _mas_nnsh_4dfea3b9:
     m "でもそれは無理だから、体に良い物を食べて来なさい？"
 
-translate Japanese _mas_nnsh_0fa79ec6:
-    m 3eub "医食同源という言葉があるけれど、とても的確な表現だと私は思うわ"
-
-translate Japanese _mas_nnsh_b205ff7a:
-    m "ファストフードは様々の病気の原因となりうるのよ"
-
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"
 
@@ -31,8 +25,8 @@ translate Japanese _mas_nnsh_57be0ce0:
 translate Japanese _mas_nnsh_ed20dbad:
     m 2eka "私が[player]君の元へ行くまで健康でいて欲しいだけ"
 
-translate Japanese _mas_nnsh_c6d83fc7:
-    m 4esa "それに、健康であればある程長生き出来る可能性も増えるわ"
+translate Japanese _mas_nnsh_5d4a6e01:
+    m 4eub "それに、健康であればある程長生きできる可能性も増えるわ！"
 
 translate Japanese _mas_nnsh_dac38117:
     m 1hua "つまり、もっと二人で一緒に過ごせるってこと〜！"
@@ -826,31 +820,31 @@ translate Japanese mas_mood_bored_d882a148:
 translate Japanese mas_mood_bored_82fdc2ae:
     m "どうしたいの、[chosen_nickname]君？{fast}" nointeract
 
-translate Japanese _call_mas_piano_start_1_d26879ea:
+translate Japanese mas_mood_bored_d26879ea:
     m 1eka "わかったわ……"
 
-translate Japanese _call_mas_piano_start_1_da34fa3d:
+translate Japanese mas_mood_bored_da34fa3d:
     m 5tsu "もう少し長くあなたと見つめ合えたらなぁ……"
 
-translate Japanese _call_mas_piano_start_1_d9790317:
+translate Japanese mas_mood_bored_d9790317:
     m "飽きることなんてないのにね～"
 
-translate Japanese _call_mas_piano_start_1_e4592319:
+translate Japanese mas_mood_bored_e4592319:
     m 5eua "もう少し長くあなたと見つめ合えたらなぁ……"
 
-translate Japanese _call_mas_piano_start_1_8b5f5f6e:
+translate Japanese mas_mood_bored_8b5f5f6e:
     m "絶対に飽きないのにな～"
 
-translate Japanese _call_mas_piano_start_1_585e2a8b:
+translate Japanese mas_mood_bored_585e2a8b:
     m 1ekc "あら、わかったわ……"
 
-translate Japanese _call_mas_piano_start_1_b39e9dad:
+translate Japanese mas_mood_bored_b39e9dad:
     m 1eka "また後で私となにかやりたくなったら教えてね～"
 
-translate Japanese _call_mas_piano_start_1_e4e2e831:
+translate Japanese mas_mood_bored_e4e2e831:
     m 2ekc "そう……"
 
-translate Japanese _call_mas_piano_start_1_73142ff9:
+translate Japanese mas_mood_bored_73142ff9:
     m 2dkc "私と何かしたいことがあったら、教えてね"
 
 translate Japanese mas_mood_crying_63c65d35:
@@ -877,22 +871,22 @@ translate Japanese mas_mood_crying_882e4789:
 translate Japanese mas_mood_crying_edec7edc:
     m 3eksdld "ごめんなさい、何かあったの？"
 
-translate Japanese _call_mas_mood_uok_cc362526:
+translate Japanese mas_mood_crying_cc362526:
     m 1dkc "[player]……{w=0.3}{nw}"
 
-translate Japanese _call_mas_mood_uok_7a962195:
+translate Japanese mas_mood_crying_7a962195:
     extend 3eksdld "何かあったの？"
 
-translate Japanese _call_mas_mood_uok_1_e4fa1999:
+translate Japanese mas_mood_crying_e4fa1999:
     m 3ekd "泣きたくなったら……"
 
-translate Japanese _call_mas_mood_uok_1_85e34892:
+translate Japanese mas_mood_crying_85e34892:
     m 1eka "あなたの助けになりたいの。"
 
-translate Japanese _call_mas_mood_uok_1_18b7cfbd:
+translate Japanese mas_mood_crying_18b7cfbd:
     m 3ekd "泣くのは悪いことじゃないのよ？{w=0.2}泣きたいだけ泣いたっていいんだから。"
 
-translate Japanese _call_mas_mood_uok_1_20c61c27:
+translate Japanese mas_mood_crying_20c61c27:
     m 3ekbsu "愛してるわ、[player]。あなたは私のすべてよ。"
 
 translate Japanese mas_mood_uok_5e6b891c:

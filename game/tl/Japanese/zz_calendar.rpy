@@ -13,13 +13,13 @@ translate Japanese _first_time_calendar_use_b262b5f6:
 translate Japanese _first_time_calendar_use_ce9b94b7:
     m 1eua "ほら、見せてあげよっか"
 
-translate Japanese _call_mas_start_calendar_read_only_1_f7af61a6:
+translate Japanese _first_time_calendar_use_f7af61a6:
     m 1hua "ね？とっても素敵でしょ？"
 
-translate Japanese _call_mas_start_calendar_read_only_1_d2dea50f:
+translate Japanese _first_time_calendar_use_d2dea50f:
     m 3eua "いつでもチェックして大丈夫だからね～"
 
-translate Japanese _call_mas_start_calendar_read_only_1_46b69767:
+translate Japanese _first_time_calendar_use_46b69767:
     m 1lksdla "もちろん、話してるとき以外でお願いね"
 
 translate Japanese strings:

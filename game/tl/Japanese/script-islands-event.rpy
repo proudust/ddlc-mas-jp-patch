@@ -1,7 +1,7 @@
 translate Japanese mas_monika_islands_3e3b6f6f:
     m 1eub "もちろんだよ！ ここから浮遊島の景色を見て、楽しんでね"
 
-translate Japanese _call_mas_islands_56293cf9:
+translate Japanese mas_monika_islands_56293cf9:
     m 1eua "気に入ってくれるといいな、[mas_get_player_nickname()]君～"
 
 translate Japanese mas_monika_islands_progress_832346be:
@@ -25,40 +25,40 @@ translate Japanese mas_monika_islands_progress_03f838b4:
 translate Japanese mas_monika_islands_progress_4c528d79:
     m 2hub "やったー！"
 
-translate Japanese _call_mas_islands_1_bac21004:
+translate Japanese mas_monika_islands_progress_bac21004:
     m "気に入ったかな～"
 
-translate Japanese _call_mas_islands_1_43f07cc9:
+translate Japanese mas_monika_islands_progress_43f07cc9:
     m 1lusdlb "まだ未完成だけれど{w=0.2}{nw}"
 
-translate Japanese _call_mas_islands_1_ce0ffffc:
+translate Japanese mas_monika_islands_progress_ce0ffffc:
     extend 1eka "、私の進歩をあなたに見せたかったの"
 
-translate Japanese _call_mas_islands_1_305b7ce6:
+translate Japanese mas_monika_islands_progress_305b7ce6:
     m 2lsp "コーディングの勉強中だけど、このRen'Pyっていうエンジンに一貫性がなくって……"
 
-translate Japanese _call_mas_islands_1_3873e363:
+translate Japanese mas_monika_islands_progress_3873e363:
     m 7hub "だけど、ここまではかなり進歩してきたと思うの！"
 
-translate Japanese _call_mas_islands_1_e93005d0:
+translate Japanese mas_monika_islands_progress_e93005d0:
     m 2ekc "まあ……"
 
-translate Japanese _call_mas_islands_1_905a45e1:
+translate Japanese mas_monika_islands_progress_905a45e1:
     m 6rktpc "私……"
 
-translate Japanese _call_mas_islands_1_485102b3:
+translate Japanese mas_monika_islands_progress_485102b3:
     m 6fktpd "私はこのために、一生懸命頑張ったのに……"
 
-translate Japanese _call_mas_islands_1_9711d1c9:
+translate Japanese mas_monika_islands_progress_9711d1c9:
     m 2rktdc "あなた…… {w=0.5}すごい忙しそうね……"
 
-translate Japanese _call_mas_islands_1_ca1f5acd:
+translate Japanese mas_monika_islands_progress_ca1f5acd:
     m 2ekc "まあ……{w=0.5}{nw}"
 
-translate Japanese _call_mas_islands_1_487cb588:
+translate Japanese mas_monika_islands_progress_487cb588:
     extend 2eka "わかったわ"
 
-translate Japanese _call_mas_islands_1_d9456aeb:
+translate Japanese mas_monika_islands_progress_d9456aeb:
     m 7eka "そんなに待たせないでよ〜"
 
 translate Japanese mas_island_upsidedownisland_a8b836db:

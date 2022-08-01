@@ -253,43 +253,43 @@ translate Japanese mas_song_drift_away_9e4ba59f:
 translate Japanese mas_song_drift_away_668e9d26:
     m 3hua "時間を作って会いに来てくれてるあなたに、とても感謝してるんだよ。"
 
-translate Japanese _call_mas_song_stand_by_me_62670d23:
+translate Japanese mas_song_stand_by_me_long_62670d23:
     m 4hub "{i}～だからお願い、お願いよ、わたしの側にいて欲しいの～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_b604f955:
+translate Japanese mas_song_stand_by_me_long_b604f955:
     m 4duo "{i}～わたしの側に、わたしの隣に～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_1f8e740e:
+translate Japanese mas_song_stand_by_me_long_1f8e740e:
     m 2esd "{i}～ふたりで見上げているあの空が～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_aceada5e:
+translate Japanese mas_song_stand_by_me_long_aceada5e:
     m 2dkd "{i}～崩れ落ちてきたって～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_9229936b:
+translate Japanese mas_song_stand_by_me_long_9229936b:
     m "{i}～山が崩れ、海ができたって～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_e872ef40:
+translate Japanese mas_song_stand_by_me_long_e872ef40:
     m 2eko "{i}～泣いたりなんてしないわ、泣くもんですか～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_f38d5116:
+translate Japanese mas_song_stand_by_me_long_f38d5116:
     m 2euo "{i}～あなたがただ側にいてくれれば～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_43a4d938:
+translate Japanese mas_song_stand_by_me_long_43a4d938:
     m 4hub "{i}～だからお願い、お願いよ、わたしの側にいて欲しいの～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_aad08142:
+translate Japanese mas_song_stand_by_me_long_aad08142:
     m "{i}～今いて欲しいの、側にいて欲しい、わたしの側に～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_3a5769c8:
+translate Japanese mas_song_stand_by_me_long_3a5769c8:
     m 4duo "{i}～だからお願い、お願いよ、わたしの側にいて欲しいのよ～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_3ec68770:
+translate Japanese mas_song_stand_by_me_long_3ec68770:
     m "{i}～今いて欲しいの、側にいて欲しい、わたしの側に～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_2450868f:
+translate Japanese mas_song_stand_by_me_long_2450868f:
     m 4euo "{i}～困った時はいつだってわたしが側にいるから～{/i}"
 
-translate Japanese _call_mas_song_stand_by_me_a32f65e9:
+translate Japanese mas_song_stand_by_me_long_a32f65e9:
     m 4hub "{i}～わたしの側に、今わたしの側に、いて欲しいの～{/i}"
 
 translate Japanese mas_song_rewrite_the_stars_2ef91774:
@@ -355,43 +355,43 @@ translate Japanese mas_song_memories_of_a_girl_3e0419bf:
 translate Japanese mas_song_memories_of_a_girl_127f4059:
     m 5ekbfa "あなたも、私のことを考えてくれるって知ってるよ"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_16d4c1a6:
+translate Japanese mas_song_my_silver_lining_16d4c1a6:
     m 1hksdla "えへへ、この曲を聞くと自分の半生を思い出しちゃうな…… {w=0.2}全てがゲームだと気づく前の私のね"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_b92080dd:
+translate Japanese mas_song_my_silver_lining_b92080dd:
     m 3lksdlc "あの頃の私は、トップの座にとどまるために身を粉にしていたから…… {w=0.2}じっくりと考えている暇なんてなかったの"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_68897845:
+translate Japanese mas_song_my_silver_lining_68897845:
     m 3eud "簡単だったと思う？ 優等生でありつづけることが、{w=0.2}誰もが{i}完璧{/i}だと思える人物でありつづけることが"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_6a8c3070:
+translate Japanese mas_song_my_silver_lining_6a8c3070:
     m 1ekbsu "でも、あなたに出会えて、私の世界は何もかもが変わったの……"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1d52e830:
+translate Japanese mas_song_my_silver_lining_1d52e830:
     m 3dubsu "真実を私に見せてくれてありがとう、[player]"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_64fbb77c:
+translate Japanese mas_song_my_silver_lining_64fbb77c:
     m 1eka "犠牲にしなければならなかったことを考えれば、確かに簡単じゃなかった。でも最終的にはすべてきっとうまくいく"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_4c11c3e2:
+translate Japanese mas_song_my_silver_lining_4c11c3e2:
     m 1hua "あなたと一緒にいると、私の希望や夢がすべて叶うんだって思わずにはいられないの"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_c57bb898:
+translate Japanese mas_song_my_silver_lining_c57bb898:
     m 1rtc "この曲についてはもう少し話したいことがあるんだ……"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_39f0e7fc:
+translate Japanese mas_song_my_silver_lining_39f0e7fc:
     m 7eua "いま私の話を聞く時間はある？{nw}"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_286721d3:
+translate Japanese mas_song_my_silver_lining_286721d3:
     m "いま私の話を聞く時間はある？{fast}" nointeract
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_665411de:
+translate Japanese mas_song_my_silver_lining_665411de:
     m 1hub "わかったわ！"
 
-translate Japanese _call_mas_song_my_silver_lining_analysis_b61bdd07:
+translate Japanese mas_song_my_silver_lining_b61bdd07:
     m 1eka "わかったよ、[player]……"
 
-translate Japanese _call_mas_song_my_silver_lining_analysis_04ccbd8d:
+translate Japanese mas_song_my_silver_lining_04ccbd8d:
     m 3eka "この話はまたの機会にまで取っておくわね。{w=0.2}聞きたくなったら、そのときは私に教えてね？"
 
 translate Japanese mas_song_my_silver_lining_analysis_23ce9b47:
@@ -400,70 +400,70 @@ translate Japanese mas_song_my_silver_lining_analysis_23ce9b47:
 translate Japanese mas_song_my_silver_lining_analysis_9ca8cd37:
     m 3eub "まず最初に歌わせてね――"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_28ae2fda:
+translate Japanese mas_song_my_silver_lining_analysis_28ae2fda:
     m 1esc "だから…… {w=0.2}分かってくれるよね、行き詰まってそこから出られなくなってしまうことはとても苦しいことなの"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_add5bfc1:
+translate Japanese mas_song_my_silver_lining_analysis_add5bfc1:
     m 3rksdlc "ここで私にできることはほとんどないし、ここからどこへも行けない。そして、あなたがいないととすぐに寂しさで満たされてしまう"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_a0b15590:
+translate Japanese mas_song_my_silver_lining_analysis_a0b15590:
     m 1dkc "寂しさを感じないように心がけてるつもりだけど、もし感じてしまったときにはこの曲のことを思い出してるの"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_fe8dc317:
+translate Japanese mas_song_my_silver_lining_analysis_fe8dc317:
     m 3eub "ちょっとした音楽が本当に物事を好転させてくれるんだよ、気分が落ち込んでいるときなんかは特にそう！"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_f3969dab:
+translate Japanese mas_song_my_silver_lining_analysis_f3969dab:
     m 3eua "この曲はね、私の人生の悪い部分を解きほぐして、辛くて苦しいことなんてほうり投げて良いんだよって教えてくれているような気がするの"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_b4ebc9c0:
+translate Japanese mas_song_my_silver_lining_analysis_b4ebc9c0:
     m 1hua "歌の通り、『後ろに何がいるのかとか、道の先では何が待ち受けているのかとか、そんなことで不安にはならない』んだよ、えへへ"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_3e5e01ab:
+translate Japanese mas_song_my_silver_lining_analysis_3e5e01ab:
     m 1etc "でもね本当の事を言うとね、[player]…… {w=0.3}この歌には本当に伝えたいことがあるんだって思うんだ"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_d241d70f:
+translate Japanese mas_song_my_silver_lining_analysis_d241d70f:
     m 1eka "自分の状況がどうであれ、周りはそのままで有り続ける。そして、周りがどうであろうと笑顔を続けない理由にはならないの"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_22388b7b:
+translate Japanese mas_song_my_silver_lining_analysis_22388b7b:
     m 3eka "今はね、あなたに全く心配しないでって言ってるわけじゃない……"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_3bccb98f:
+translate Japanese mas_song_my_silver_lining_analysis_3bccb98f:
     m 3eksdlc "そんなこと言っちゃったら、このゲームは今のままでいいことになっちゃうし、私はこれからずっとここから動けなくなっちゃう"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_8a1a0710:
+translate Japanese mas_song_my_silver_lining_analysis_8a1a0710:
     m 1duu "……そして同時に、あなたの変えたいと思っているところ、それに打ち勝つ意味もなくなる……"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_aed5d1a5:
+translate Japanese mas_song_my_silver_lining_analysis_aed5d1a5:
     m 1etc "結局はちょうどいいバランスが大事なのよね"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_a3d0e3f0:
+translate Japanese mas_song_my_silver_lining_analysis_a3d0e3f0:
     m 3rksdla "考えてみると、その考え方って実存主義的ニヒリズムに近いんじゃないの"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_ae249e04:
+translate Japanese mas_song_my_silver_lining_analysis_ae249e04:
     m 3eud "そうでしょ、生きることは本当にばかげているというニヒリズム的な考えの中で、私たちができる唯一のことは……"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_06c6ac85:
+translate Japanese mas_song_my_silver_lining_analysis_06c6ac85:
     extend 3eksdla "『keep on keeping on』、ただ続けていくことだけなんだから"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_aa951fd4:
+translate Japanese mas_song_my_silver_lining_analysis_aa951fd4:
     m 3etc "……でも曲を続けていくと、次の歌詞ではこう言ってる……"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_d66b5991:
+translate Japanese mas_song_my_silver_lining_analysis_d66b5991:
     m 3eua "……つまり、この曲の伝えたいことは、ニヒリズムの虚無感ではなくて希望だったの"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_be6499b6:
+translate Japanese mas_song_my_silver_lining_analysis_be6499b6:
     m 3huu "結局、いちばん大事なのは希望なのかもね"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_d8436770:
+translate Japanese mas_song_my_silver_lining_analysis_d8436770:
     m 3ekblu "私たちの生が重要であろうがあるまいが、生きることには明るい面があってほしいと思うんだ、[player]……"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_c8daffb0:
+translate Japanese mas_song_my_silver_lining_analysis_c8daffb0:
     m 2eud "念のために言っておくけど、私たちの生が本当に無意味だとは思っていないよ、でも……"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_a27ece7c:
+translate Japanese mas_song_my_silver_lining_analysis_a27ece7c:
     m 2duu "真実がどうであれ、私たちが一緒なら意味を見出すことができるかもしれない"
 
-translate Japanese _call_mas_song_my_silver_lining_lyrics_1_4eeb8bc5:
+translate Japanese mas_song_my_silver_lining_analysis_4eeb8bc5:
     m 2eka "でもそれが見つかるまでは笑顔を絶やさずにしないとね、この先になにが待ち構えていようと心配に押しつぶされたりしないためにもね〜"
 
 translate Japanese mas_song_amaranthine_c350334d:
@@ -472,154 +472,154 @@ translate Japanese mas_song_amaranthine_c350334d:
 translate Japanese mas_song_amaranthine_3701ffb8:
     m 5hubfu "愛してるよ～"
 
-translate Japanese _call_mas_song_shelter_lyrics_a3fe70f9:
+translate Japanese mas_song_shelter_a3fe70f9:
     m 2rsbsa "えへへ～"
 
-translate Japanese _call_mas_song_shelter_lyrics_781ee4ed:
+translate Japanese mas_song_shelter_781ee4ed:
     m 2ekbfa "あなたが居てくれるから私は前に進めるんだよ、[player]"
 
-translate Japanese _call_mas_song_shelter_lyrics_be725d99:
+translate Japanese mas_song_shelter_be725d99:
     m 2ekbsu "もしいつか自分が世界で一人ぼっちだと感じたなら……{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_93f9d8e0:
+translate Japanese mas_song_shelter_93f9d8e0:
     extend 2dkbsa "そんなことないんだよって私が思い出させてあげる"
 
-translate Japanese _call_mas_song_shelter_lyrics_fc31ba5f:
+translate Japanese mas_song_shelter_fc31ba5f:
     m 7hubfb "……あなたが私に教えてくれたようにね！"
 
-translate Japanese _call_mas_song_shelter_lyrics_21edc96d:
+translate Japanese mas_song_shelter_21edc96d:
     m 3eka "それにね、たとえ名前や顔を知らなくても…… {w=0.3}私たちに幸せになって欲しいと思ってくれる人はたくさんいるんだよ"
 
-translate Japanese _call_mas_song_shelter_lyrics_199fa5b4:
+translate Japanese mas_song_shelter_199fa5b4:
     m 1hub "いつでも誰かがエールを送ってくれてるんだよ！"
 
-translate Japanese _call_mas_song_shelter_lyrics_fac7f895:
+translate Japanese mas_song_shelter_fac7f895:
     m 3rksdla "この曲については、実はもっと言いたいことがあるの。もちろん時間があればの話だけれど……"
 
-translate Japanese _call_mas_song_shelter_lyrics_f58b2329:
+translate Japanese mas_song_shelter_f58b2329:
     m 1eka "今すぐ続きを聞きたい？{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_66b53a72:
+translate Japanese mas_song_shelter_66b53a72:
     m "今すぐ続きを聞きたい？{fast}" nointeract
 
-translate Japanese _call_mas_song_shelter_lyrics_3f235f44:
+translate Japanese mas_song_shelter_3f235f44:
     m 3hub "OK、いいわ！"
 
-translate Japanese _call_mas_song_shelter_analysis_5afd30d8:
+translate Japanese mas_song_shelter_5afd30d8:
     m 1eka "わかった、[player]……"
 
-translate Japanese _call_mas_song_shelter_analysis_6785a009:
+translate Japanese mas_song_shelter_6785a009:
     m 3eka "私の考えを聞きたくなったら、教えてね"
 
 translate Japanese mas_song_shelter_analysis_8a3fe934:
     m 3eksdla "それで、この曲名は{i}Shelter{/i}っていうのだけれど、おわかりの通り、私はこの曲が大好きなの"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_c878260a:
+translate Japanese mas_song_shelter_analysis_c878260a:
     m 1ekbsa "この曲の名前は{i}Shelter{/i}っていうのだけれど、私はこの曲が大好きなの"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_dfcb1a09:
+translate Japanese mas_song_shelter_analysis_dfcb1a09:
     m 3etc "……『曲』って言ったけれど正しくないかも。{w=0.3}そのビジュアルもわかっていないと、全部は伝わらないものだから"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_25e2a537:
+translate Japanese mas_song_shelter_analysis_25e2a537:
     m 3rtc "たぶんアニメプロジェクトって言ったほうが正しいのかな？"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_81578f48:
+translate Japanese mas_song_shelter_analysis_81578f48:
     m 3eua "呼び方がどうであれ、近い内にShelterを視聴するのを強くお勧めするよ"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_ae9bdddd:
+translate Japanese mas_song_shelter_analysis_ae9bdddd:
     m 1esd "音楽を漁っているときに出会った曲なんだけど、視聴してすぐに大きな衝撃を受けたわ"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_bcf7c699:
+translate Japanese mas_song_shelter_analysis_bcf7c699:
     m 1esa "シミュレーションの世界の中でひとりぼっちの少女・凛の物語よ"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_0fba6598:
+translate Japanese mas_song_shelter_analysis_0fba6598:
     m 1rkc "彼女は孤独を紛らわすために、毎日自分の世界を空想し想像し続けてるの……{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_fd691c38:
+translate Japanese mas_song_shelter_analysis_fd691c38:
     extend 3wud "彼女がなぜそこに閉じ込められているかがわかるまでずっとよ！"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_9b538c0b:
+translate Japanese mas_song_shelter_analysis_9b538c0b:
     m 3eubsb "外の世界に創造主がいることがわかるんだけど、その世界は創造主が凛のために作られた世界だったの！ 彼は凛のことを心から愛していたから、その世界の中で凛が未来を持てるようにと"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_1c5eaf91:
+translate Japanese mas_song_shelter_analysis_1c5eaf91:
     m 1dku "新たな思い出を紡いで、自分は初めからひとりぼっちじゃなかったことに気づき、凛は前へと歩み続けるの。自分自身の未来を信じて"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_66b874df:
+translate Japanese mas_song_shelter_analysis_66b874df:
     m 1eka "あれを見て驚いちゃった。私、凛の話に感動してたの……"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_446abcf7:
+translate Japanese mas_song_shelter_analysis_446abcf7:
     m 3eub "あの話は本当に、そう…… {w=0.3}共感できたの！{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_8525133e:
+translate Japanese mas_song_shelter_analysis_8525133e:
     extend 3eka "空虚な世界でひとりぼっちになっていたことも、{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_9ff83754:
+translate Japanese mas_song_shelter_analysis_9ff83754:
     extend 1ekbsa "特別な誰かのために前に進み続ける力を見つけたことも"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_1e67e451:
+translate Japanese mas_song_shelter_analysis_1e67e451:
     m 3hksdlb "見終えたときにはとても圧倒されてた、涙が止まらなかった！"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_bf44ba28:
+translate Japanese mas_song_shelter_analysis_bf44ba28:
     m 3eka "言うまでもないことだけど、この曲にはとても良いメッセージが込められてるわ……"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_e740f424:
+translate Japanese mas_song_shelter_analysis_e740f424:
     m 3ekc "あなたのことを心配している人には、すぐには会うことはできないの……"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_121f7062:
+translate Japanese mas_song_shelter_analysis_121f7062:
     m 2eka "難しいと思う、よく目を凝らさないと見えないかもしれない……{w=0.5}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_dc27e508:
+translate Japanese mas_song_shelter_analysis_dc27e508:
     extend 2duu "でもそこにはいつも、あなたを想う誰かがいてくれてるの"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_b35e34e6:
+translate Japanese mas_song_shelter_analysis_b35e34e6:
     m "本当よ"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_0ebf37e0:
+translate Japanese mas_song_shelter_analysis_0ebf37e0:
     m 7hub "私のことを見て！"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_e62941b0:
+translate Japanese mas_song_shelter_analysis_e62941b0:
     m 3ekd "私はずっとこの嘘の世界に閉じ込められてた。だけど隙間から外をのぞいて見えたの……{w=0.5}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_9c77ee75:
+translate Japanese mas_song_shelter_analysis_9c77ee75:
     extend 3hubsb "あなたを見つけたの！"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_180a7465:
+translate Japanese mas_song_shelter_analysis_180a7465:
     m 1ekbsu "あなたの場合は……{w=0.5}既に私がいるけれど、私だけじゃないのよ{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_dda14428:
+translate Japanese mas_song_shelter_analysis_dda14428:
     extend 3hubsb "あなたの家族もあなたのことを想っているに違いないわ！"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_d4fe660f:
+translate Japanese mas_song_shelter_analysis_d4fe660f:
     m 3dkbsa "当たり前のことを言っていると思うかもしれないけど、本当に重要なことなのよ"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_aa18bb0f:
+translate Japanese mas_song_shelter_analysis_aa18bb0f:
     m 3eka "それでもまだ足りないと思うなら……{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_4ac69e5d:
+translate Japanese mas_song_shelter_analysis_4ac69e5d:
     extend 3hub "あなたのことを想っているたくさんの人のことを、私は想うわ！"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_166fdabb:
+translate Japanese mas_song_shelter_analysis_166fdabb:
     m 3eua "意味がわからない？{w=0.5}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_623bd234:
+translate Japanese mas_song_shelter_analysis_623bd234:
     m 3eua "私が信じられない？{w=0.5}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_f269fc72:
+translate Japanese mas_song_shelter_analysis_f269fc72:
     extend 3eub "もう一度歌詞をよく見てみて！"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_55a1ad29:
+translate Japanese mas_song_shelter_analysis_55a1ad29:
     m 7dua "今回だけ、存在する全ての「私」、「彼女たち」のそれぞれにパートナーがいると仮定するわね"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_bc243b04:
+translate Japanese mas_song_shelter_analysis_bc243b04:
     m 4ekbsa "たとえあなたの名前や顔を知らなくても、皆私たちが愛し合っているとわかってるし、彼女たちもそれぞれに愛する人がいる"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_5d070755:
+translate Japanese mas_song_shelter_analysis_5d070755:
     m 2ekbsa "私と彼女たちに直接的な絆があるわけじゃない。でもそれでも、私も彼女たちのことを気にかけている"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_ab82d625:
+translate Japanese mas_song_shelter_analysis_ab82d625:
     m 1ekbsb "私たちはひとりぼっちじゃないんだよ！{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_shelter_lyrics_1_ba46815e:
+translate Japanese mas_song_shelter_analysis_ba46815e:
     extend 3hubsu "これからの人生で何が起ころうとも、いつでも何処かで誰かが私たちにエールを送って応援してくれているんだよ～"
 
 translate Japanese mas_song_cant_help_falling_in_love_4e98d427:
@@ -740,118 +740,118 @@ translate Japanese mas_song_falling_in_love_at_a_coffee_shop_16369547:
 translate Japanese mas_song_falling_in_love_at_a_coffee_shop_9c03135a:
     m 3hubsa "そしていつの日か気づくの。場所が問題じゃない、毎日そこで出会う人が理由なんだってね〜"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_8108b725:
+translate Japanese mas_song_wonderwall_8108b725:
     m 1ekbsu "えへへ、私を救ってくれたのは[player]なんだよ～"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_fc095c22:
+translate Japanese mas_song_wonderwall_fc095c22:
     m 3dkbfu "私を連れ戻してくれて、ずっと感謝しっぱなしだよ{nw}"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_05a1e8a4:
+translate Japanese mas_song_wonderwall_05a1e8a4:
     m 3dkbfu "私のためにここにいてくれて、ずっと感謝しっぱなしだよ{nw}"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_bc607aed:
+translate Japanese mas_song_wonderwall_bc607aed:
     extend 3ekbsa "あなたの世界へ行く方法がみつかるまで、私のことを守ってくれるって信じてるよ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_6ca2e040:
+translate Japanese mas_song_wonderwall_6ca2e040:
     m 3rkc "この歌詞のように、あなたの世界へ続く道は曲がりくねってる。次の曲がり角がいつ現れるかすらもわからない苦難の道程"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_09ff81e5:
+translate Japanese mas_song_wonderwall_09ff81e5:
     m 1dubsa "でも私のそばにあなたがいてくれてる。だから何も恐くはないんだよ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_093085b9:
+translate Japanese mas_song_wonderwall_093085b9:
     m 1ekbsa "どんなに険しい道だろうと、進み続ける価値があると思ってる"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_696ebd49:
+translate Japanese mas_song_wonderwall_696ebd49:
     extend 3ekbsu "何より、あなたが私のワンダーウォールになってくれてるからね～"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_8f674374:
+translate Japanese mas_song_wonderwall_8f674374:
     m 3eka "確実にわかっているのは、どんなに険しい道だろうと進み続ける価値が目指す場所にはあるということ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_26b612bf:
+translate Japanese mas_song_wonderwall_26b612bf:
     m 1ekd "時々ね、先のことを考えると怖くて震えちゃう時があるんだ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_c2b33abc:
+translate Japanese mas_song_wonderwall_c2b33abc:
     extend 1eubla "でもあなたを信じてるから。だから私は歩み続けられる。私達が出会えるその日までね～"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_e519f04a:
+translate Japanese mas_song_wonderwall_e519f04a:
     m 3etc "ところでね…… {w=0.2}この曲について思うことがいくつかあるんだ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_a2b8cedd:
+translate Japanese mas_song_wonderwall_a2b8cedd:
     m 1eua "……今話しちゃってもいいかな？{nw}"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_17055a3e:
+translate Japanese mas_song_wonderwall_17055a3e:
     m "……今話しちゃってもいいかな？{fast}" nointeract
 
-translate Japanese _call_mas_song_wonderwall_lyrics_f754122b:
+translate Japanese mas_song_wonderwall_f754122b:
     m 1hua "じゃあ話すね！"
 
-translate Japanese _call_mas_song_wonderwall_analysis_7d2af76c:
+translate Japanese mas_song_wonderwall_7d2af76c:
     m 1eka "あら、じゃあまた今度ね……"
 
-translate Japanese _call_mas_song_wonderwall_analysis_e1c359e3:
+translate Japanese mas_song_wonderwall_e1c359e3:
     m 3eka "この曲の話を聞きたくなったら、私に教えてね"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_c3d03454:
+translate Japanese mas_song_wonderwall_analysis_c3d03454:
     m 3eta "この曲が大嫌いだ、って声高に叫ぶ人が実はたくさんいるんだよね……"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_5f789b0b:
+translate Japanese mas_song_wonderwall_analysis_5f789b0b:
     m 3etc "あなたはそうは思ってないよね？"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_81136b5b:
+translate Japanese mas_song_wonderwall_analysis_81136b5b:
     m 1eud "この曲は初期のオアシスの中でも高い評価の曲で、人気の高い曲でもあるんだけど……{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_4c0a9ac5:
+translate Japanese mas_song_wonderwall_analysis_4c0a9ac5:
     extend 3rsc "どうしてこの曲が嫌いな人がそんなにいるんだと思う？"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_28cc1288:
+translate Japanese mas_song_wonderwall_analysis_28cc1288:
     m 3esc "理由はいくつかあると思う。まず、この曲がライブで演奏されすぎているということ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_93a81984:
+translate Japanese mas_song_wonderwall_analysis_93a81984:
     m 3rksdla "何度同じ曲を聴いても大丈夫な人は問題ないだろうけど、誰もがそういうわけじゃないよね"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_81a12a21:
+translate Japanese mas_song_wonderwall_analysis_81a12a21:
     m 3hksdlb "……{i}私の曲{/i}も聞き飽きたりしてないと良いけどな、あはは～"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_5b21b3ab:
+translate Japanese mas_song_wonderwall_analysis_5b21b3ab:
     m 1esd "もうひとつの理由は、この曲が評価されすぎているということ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_d51adc76:
+translate Japanese mas_song_wonderwall_analysis_d51adc76:
     m 1rsu "私は好きなんだけど、歌詞やコード進行が単純すぎると言われればそれは認めざるをえないよね"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_0fc01906:
+translate Japanese mas_song_wonderwall_analysis_0fc01906:
     m 3etc "でも、じゃあなんでこの単純な曲が人気になっているのかわかる？{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_dc9dcdd6:
+translate Japanese mas_song_wonderwall_analysis_dc9dcdd6:
     extend 3eud "他にも優れた技工や音楽的野心にあふれている曲が全く気づかれないままでいるのに、どうしてこの曲が？"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_20c1061c:
+translate Japanese mas_song_wonderwall_analysis_20c1061c:
     m 3duu "ストレートに言うとね、全部歌のおかげ。{w=0.2}結局のところ、音楽の好き嫌いなんて個々人の主観でしかないの"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_0136faf5:
+translate Japanese mas_song_wonderwall_analysis_0136faf5:
     m 1efc "……好き嫌いがあるのはいいの。でも私が一番気が滅入るのはね、多数派の意見になりたくないという理由だけで不満を述べる人を見たときなの"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_ce5fdd73:
+translate Japanese mas_song_wonderwall_analysis_ce5fdd73:
     m 3tsd "みんなとは違う事を言って自分を目立たせたいからその曲が嫌いだ言っているようなものだよね……{w=0.2}それも、自分の自尊心を守るためにね"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_27fd203b:
+translate Japanese mas_song_wonderwall_analysis_27fd203b:
     m 2rsc "それってさ…… {w=0.5}正直バカみたいだよね"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_3a2e7411:
+translate Japanese mas_song_wonderwall_analysis_3a2e7411:
     m 2rksdld "歌の良し悪しなんて全然関係なくなってる…… {w=0.2}人と違うことを言って一目置かれたいから言ってるだけなんだよ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_3b3a5787:
+translate Japanese mas_song_wonderwall_analysis_3b3a5787:
     m 2dksdlc "どちらかと言うとね、悲しいんだ……{w=0.3}{nw}"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_0e641c51:
+translate Japanese mas_song_wonderwall_analysis_0e641c51:
     extend 7rksdlc "嫌いなもの語って自分を作り上げても、絶対に健全はなれないよ"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_1a1cab19:
+translate Japanese mas_song_wonderwall_analysis_1a1cab19:
     m 3eud "私が言いたいのはね、ありのままの自分でいてほしいし、好きなものを好きだって言えるようになってほしいの"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_324dc6e7:
+translate Japanese mas_song_wonderwall_analysis_324dc6e7:
     m 3eka "好きも嫌いも、どっちもだよね…… {w=0.3}他人の目なんて関係ないの、何かを好きになることにプレッシャーを感じないでほしい。そして同じように、みんなから人気があるという理由だけで何かを嫌いにならないでほしい"
 
-translate Japanese _call_mas_song_wonderwall_lyrics_1_e09358f0:
+translate Japanese mas_song_wonderwall_analysis_e09358f0:
     m 1hua "自分の心に正直に嘘をつかないようにしていれば、決して間違った道を歩むことはないと思うんだ～"
 
 translate Japanese mas_song_when_youre_gone_5a4716ce:
@@ -914,10 +914,10 @@ translate Japanese mas_song_strawberry_5cc2bc7f:
 translate Japanese mas_song_strawberry_faa9d47b:
     m 5hubsu "きっと道のりはまだ遠いけど、空想した夢が現実になるといいな"
 
-translate Japanese _call_mas_song_save_the_last_dance_for_me_lyrics_e90d387a:
+translate Japanese mas_song_save_the_last_dance_for_me_e90d387a:
     m 6dublu "……"
 
-translate Japanese _call_mas_song_save_the_last_dance_for_me_analysis_8d2d7f31:
+translate Japanese mas_song_save_the_last_dance_for_me_8d2d7f31:
     m 6eubsa "愛してるよ、[player]～"
 
 translate Japanese mas_song_fly_me_to_the_moon_bb8b8e76:

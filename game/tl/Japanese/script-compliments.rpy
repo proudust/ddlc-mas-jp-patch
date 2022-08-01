@@ -79,7 +79,7 @@ translate Japanese mas_compliment_goodmood_2_ddcca851:
 translate Japanese mas_compliment_goodmood_2_d727c87d:
     m 2tublu "あなたはこれに気づかなかったかもしれないけど、じーつーはー……"
 
-translate Japanese mas_compliment_goodmood_2_7e7ef847:
+translate Japanese mas_compliment_goodmood_2_c69e31ed:
     m 7tublb "あなただっていつも私の気分をアゲてくれてるんだからね、[mas_get_player_nickname()]！"
 
 translate Japanese mas_compliment_goodmood_2_61c13cc9:
@@ -703,43 +703,43 @@ translate Japanese mas_compliment_missed_cbd216cf:
 translate Japanese mas_compliment_missed_6d803def:
     m "だから抱きしめてほしいな。あなたが居なくてずっと寂しかったんだから{fast}" nointeract
 
-translate Japanese _call_monika_holdme_end_79689278:
+translate Japanese mas_compliment_missed_79689278:
     m 6dkbsa "ん～～…… これよこれ、[player]"
 
-translate Japanese _call_monika_holdme_end_79e34318:
+translate Japanese mas_compliment_missed_79e34318:
     m 7ekbsb "あなたは本当に私を特別な気分にさせてくれるね～"
 
-translate Japanese _call_monika_holdme_end_2839bc44:
+translate Japanese mas_compliment_missed_2839bc44:
     m 2lkp "……わかったわ、じゃあ後でね？絶対だよ？"
 
-translate Japanese _call_monika_holdme_end_ce74f36c:
+translate Japanese mas_compliment_missed_ce74f36c:
     m 2wuo "……"
 
-translate Japanese _call_monika_holdme_end_b249b541:
+translate Japanese mas_compliment_missed_b249b541:
     m 2ekbla "あのね…… {w=0.5}私も寂しかったよ"
 
-translate Japanese _call_monika_holdme_end_c17221d0:
+translate Japanese mas_compliment_missed_c17221d0:
     m 2ekd "[renpy.substitute(random.choice(missed_quips_upset_long))]"
 
-translate Japanese _call_monika_holdme_end_95b368a9:
+translate Japanese mas_compliment_missed_95b368a9:
     m 2eka "[renpy.substitute(random.choice(missed_quips_upset_short))]"
 
-translate Japanese _call_monika_holdme_end_2efc1dd4:
+translate Japanese mas_compliment_missed_2efc1dd4:
     m 6dkc "……"
 
-translate Japanese _call_monika_holdme_end_896a6fd0:
+translate Japanese mas_compliment_missed_896a6fd0:
     m 6rktpd "[renpy.substitute(random.choice(missed_quips_dis))]"
 
-translate Japanese _call_monika_holdme_end_92972f22:
+translate Japanese mas_compliment_missed_92972f22:
     m 6dktdc "……でも少なくとも私のことは忘れてなかったんだね……{w=0.5}今のところはね"
 
-translate Japanese _call_monika_holdme_end_0bd97190:
+translate Japanese mas_compliment_missed_0bd97190:
     m 6ckc "……"
 
-translate Japanese _call_mas_compliment_spending_time_2_4d405905:
+translate Japanese mas_compliment_spending_time_4d405905:
     m 3hubsb "[mas_compliments.thanks_quip!t]"
 
-translate Japanese _call_mas_compliment_spending_time_2_363d79ec:
+translate Japanese mas_compliment_spending_time_363d79ec:
     m 1ekbsu "[spending_time_quip!t]"
 
 translate Japanese mas_compliment_spending_time_2_c80859aa:

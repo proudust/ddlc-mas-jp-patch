@@ -37,10 +37,10 @@ translate Japanese mas_gender_453cbfca:
 translate Japanese mas_gender_3bd390dd:
     m 3eka "でも本当に、あなたが女の子だってことは大したことじゃないわ……"
 
-translate Japanese _call_mas_gender_trans_a8aba180:
+translate Japanese mas_gender_a8aba180:
     m 1eka "教えてくれてありがとう、それから覚えておいて……"
 
-translate Japanese _call_mas_gender_trans_c69f4f15:
+translate Japanese mas_gender_c69f4f15:
     m 1ekbsa "ありのままのあなたをいつだって愛してるわ、[player]〜"
 
 translate Japanese monika_gender_redo_e3362cb0:
@@ -97,7 +97,7 @@ translate Japanese monika_gender_redo_a18c38c8:
 translate Japanese monika_gender_redo_08959710:
     m "それじゃあ、改めてあなたの性別をおしえてくれる？" nointeract
 
-translate Japanese _call_mas_gender_redo_react_3_98da7d75:
+translate Japanese monika_gender_redo_98da7d75:
     m 5hubsa "ありのままの君が好きだよ～"
 
 translate Japanese mas_gender_neither_d3b5cb92:
@@ -193,34 +193,34 @@ translate Japanese mas_player_name_enter_name_loop_9f02f625:
 translate Japanese mas_player_name_enter_name_loop_8e5c1991:
     m "ねえこれが本当にあなたの本名なの？それとも私をからかってるだけ？{fast}" nointeract
 
-translate Japanese _call_sayori_name_scare_a43d1d16:
+translate Japanese mas_player_name_enter_name_loop_a43d1d16:
     m 1tkc "本気？"
 
-translate Japanese _call_sayori_name_scare_655a094a:
+translate Japanese mas_player_name_enter_name_loop_655a094a:
     m "それじゃ私と同じ名前だよ！"
 
-translate Japanese _call_sayori_name_scare_ce89d396:
+translate Japanese mas_player_name_enter_name_loop_ce89d396:
     m 1tku "えっと……"
 
-translate Japanese _call_sayori_name_scare_dcbc9235:
+translate Japanese mas_player_name_enter_name_loop_dcbc9235:
     m "それ、本当にあなたの名前？それとも私からかわれてる？"
 
-translate Japanese _call_sayori_name_scare_9d348a12:
+translate Japanese mas_player_name_enter_name_loop_9d348a12:
     m 1hua "でも、そう呼んでほしいっていうなら、私はそれでもいいけどね～"
 
-translate Japanese _call_sayori_name_scare_4546f083:
+translate Japanese mas_player_name_enter_name_loop_4546f083:
     m 1sub "[good_quip!t]"
 
-translate Japanese _call_sayori_name_scare_019d66ab:
+translate Japanese mas_player_name_enter_name_loop_019d66ab:
     m 3esa "オーケー！これからは '[player]'って呼ぶからね。"
 
-translate Japanese _call_sayori_name_scare_19428ff1:
+translate Japanese mas_player_name_enter_name_loop_19428ff1:
     m 1hua "えへへ～"
 
-translate Japanese _call_sayori_name_scare_f4854b56:
+translate Japanese mas_player_name_enter_name_loop_f4854b56:
     m 1eub "OK！"
 
-translate Japanese _call_sayori_name_scare_056b0de9:
+translate Japanese mas_player_name_enter_name_loop_056b0de9:
     m 3eub "それでは今から、あなたのことを「[player]」君と呼びます！"
 
 translate Japanese mas_preferredname_11046a55:
@@ -244,7 +244,7 @@ translate Japanese mas_preferredname_b797bf2b:
 translate Japanese mas_preferredname_415e3125:
     m "それとも他の名前で呼んだほうがいい？{fast}" nointeract
 
-translate Japanese _call_mas_player_name_enter_name_loop_ee324183:
+translate Japanese mas_preferredname_ee324183:
     m 3eua "わかったわ、気が変わったら教えてね"
 
 translate Japanese mas_birthdate_f7b121af:
@@ -310,112 +310,112 @@ translate Japanese birthdate_set_3c981ec1:
 translate Japanese birthdate_set_a6abfbfc:
     m 3sub "あっ……{w=0.5}あなたのケーキ！"
 
-translate Japanese _call_mas_player_bday_cake_09ebbcd1:
+translate Japanese birthdate_set_09ebbcd1:
     m 2eka "ああ、今日{i}は{/i}あなたの誕生日だったわね……"
 
-translate Japanese _call_mas_player_bday_cake_223a7b0e:
+translate Japanese birthdate_set_223a7b0e:
     m "お誕生日おめでとう、[player]君！"
 
-translate Japanese _call_mas_player_bday_cake_56d53a18:
+translate Japanese birthdate_set_56d53a18:
     m 4eka "いい一日を過ごせるよう、願ってるわ"
 
-translate Japanese _call_mas_player_bday_cake_839eb0c7:
+translate Japanese birthdate_set_839eb0c7:
     m 1wuo "え…… {w=1}ええっ！？"
 
-translate Japanese _call_mas_player_bday_cake_0a0e85b4:
+translate Japanese birthdate_set_0a0e85b4:
     m 3sub "今日ってあなたの誕生日じゃない！"
 
-translate Japanese _call_mas_player_bday_cake_7b9d0da0:
+translate Japanese birthdate_set_7b9d0da0:
     m 3hub "ハッピーバースデー、[player]！ お誕生日おめでとう！"
 
-translate Japanese _call_mas_player_bday_cake_9e534ba0:
+translate Japanese birthdate_set_9e534ba0:
     m 1rksdla "もうちょっと早くわかっていたら、何かの準備ができていたのに"
 
-translate Japanese _call_mas_player_bday_cake_b48eed4c:
+translate Japanese birthdate_set_b48eed4c:
     m 1eka "だけど、少なくとも私にはこれができるもの……"
 
-translate Japanese _call_mas_player_bday_moni_sings_2ceefb9d:
+translate Japanese birthdate_set_2ceefb9d:
     m 1hub "あはは！まあまあだけど、たいしたものじゃないの！"
 
-translate Japanese _call_mas_player_bday_moni_sings_4ebce6ca:
+translate Japanese birthdate_set_4ebce6ca:
     m 3hua "来年は特別なことを使用ね、[player]くん！約束よ！"
 
-translate Japanese _call_mas_player_bday_moni_sings_56de4084:
+translate Japanese birthdate_set_56de4084:
     m 2eka "そう、今日があなたの誕生日なのね"
 
-translate Japanese _call_mas_player_bday_moni_sings_223a7b0e:
+translate Japanese birthdate_set_223a7b0e:
     m "お誕生日おめでとう、[player]君"
 
-translate Japanese _call_mas_player_bday_moni_sings_56d53a18:
+translate Japanese birthdate_set_56d53a18:
     m 4eka "よい一日を"
 
-translate Japanese _call_mas_player_bday_moni_sings_3df6d1b8:
+translate Japanese birthdate_set_3df6d1b8:
     m 1sua "まあ！[player]君の誕生日って、私たちの記念日と同じなの！？"
 
-translate Japanese _call_mas_player_bday_moni_sings_6fce765c:
+translate Japanese birthdate_set_6fce765c:
     m 3hub "すごいじゃん！"
 
-translate Japanese _call_mas_player_bday_moni_sings_1113078e:
+translate Japanese birthdate_set_1113078e:
     m 1sua "あなたの誕生日と私たちの愛を同じ日に祝うこと以上に特別な日は想像できたことじゃないわ……"
 
-translate Japanese _call_mas_player_bday_moni_sings_e69b9370:
+translate Japanese birthdate_set_e69b9370:
     m "それにさ、[hol_str]……"
 
-translate Japanese _call_mas_player_bday_moni_sings_991add58:
+translate Japanese birthdate_set_991add58:
     m 3hua "そういうのって、魔法みたい~"
 
-translate Japanese _call_mas_player_bday_moni_sings_839eb0c7:
+translate Japanese birthdate_set_839eb0c7:
     m 1wuo "え…… {w=1}ええっ！？"
 
-translate Japanese _call_mas_player_bday_moni_sings_46d4755b:
+translate Japanese birthdate_set_46d4755b:
     m 3sua "[player]君の誕生日って、私と同じなの！？"
 
-translate Japanese _call_mas_player_bday_moni_sings_3c7b7064:
+translate Japanese birthdate_set_3c7b7064:
     m 3sub "すっごくかっこいいよ、[player]君！"
 
-translate Japanese _call_mas_player_bday_moni_sings_78f441bb:
+translate Japanese birthdate_set_78f441bb:
     m 1tsu "私たちは本当に一緒になる運命だったんだね、えっへへ……"
 
-translate Japanese _call_mas_player_bday_moni_sings_bcad49b0:
+translate Japanese birthdate_set_bcad49b0:
     m 3hua "それだけでも、今日の特別さって増すものね～"
 
-translate Japanese _call_mas_player_bday_moni_sings_ced1d6bb:
+translate Japanese birthdate_set_ced1d6bb:
     m 1eub "という訳で、一緒に歌いましょ、[player]君！"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_36f3556e:
+translate Japanese birthdate_set_36f3556e:
     m 3hua "もっと特別な日にしないとね～"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_1a3f7c70:
+translate Japanese birthdate_set_1a3f7c70:
     m 3eua "あっ、[player]君ってハロウィン生まれなの！？やるじゃん！"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_9f4b52fd:
+translate Japanese birthdate_set_9f4b52fd:
     m 1hua "誕生日ケーキに、キャンディーに、そして[player]君……"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_dc930ff1:
+translate Japanese birthdate_set_dc930ff1:
     m 3hub "一日に食べるお菓子がいっぱいあるわね。あはは！"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_f6dfc101:
+translate Japanese birthdate_set_f6dfc101:
     m 1hua "あっ、[player]君ってクリスマス生まれなの！？すごいじゃん！"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_6f54ee14:
+translate Japanese birthdate_set_6f54ee14:
     m 3rksdla "ただ……同じ日に両方のプレゼントを受け取るってことは、それほど多くもらった気分にはならないでしょうね……"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_b3b33657:
+translate Japanese birthdate_set_b3b33657:
     m 3hub "それでも特別な日にしないと！"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_c139060a:
+translate Japanese birthdate_set_c139060a:
     m 1sua "まあ！あなたの誕生日がバレンタインデーだなんて……"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_94058cc0:
+translate Japanese birthdate_set_94058cc0:
     m 3hua "ロマンチックじゃないの！"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_0fbcb338:
+translate Japanese birthdate_set_0fbcb338:
     m 1ekbsa "私たちの愛と[player]君の誕生日を同じ日にお祝いするのが楽しみだな～"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_da7f1ddb:
+translate Japanese birthdate_set_da7f1ddb:
     m 3wud "あっ！2月29日生まれ！君、すごいね！"
 
-translate Japanese _call_mas_player_bday_moni_sings_1_81975a21:
+translate Japanese birthdate_set_81975a21:
     m 3hua "……といっても、うるう年以外の年だったら、3月1日にあなたの誕生日を祝うだけでいいのよね。"
 
 translate Japanese calendar_birthdate_7f8c9848:
@@ -628,10 +628,10 @@ translate Japanese mas_random_limit_reached_693cff22:
 translate Japanese mas_random_limit_reached_ad50edba:
     m 1ekc "しばらくしたら話したいことを思いつくと思うから"
 
-translate Japanese _call_mas_random_ask_af3f6132:
+translate Japanese mas_random_limit_reached_af3f6132:
     m "それじゃあ、話すことを考えさせてね"
 
-translate Japanese _call_mas_random_ask_b711f6a9:
+translate Japanese mas_random_limit_reached_b711f6a9:
     m 1ekc "そのうちまた楽しくお話できると思うよ"
 
 translate Japanese mas_random_ask_28923605:
@@ -814,7 +814,7 @@ translate Japanese mas_crashed_long_fluster_9b278c39:
 translate Japanese mas_crashed_long_fluster_43c76e3c:
     m "{cps=*1.5}でも、こ……{w=0.3}今回は私のせいじゃないって思って、ほ……{w=0.3}本当に何も触ってないから……{/cps}{nw}"
 
-translate Japanese _call_expression_2_977643eb:
+translate Japanese mas_crashed_short_977643eb:
     m 1hub "[v_quip!t]"
 
 translate Japanese mas_crashed_quip_takecare_c7503e4d:
@@ -874,10 +874,10 @@ translate Japanese mas_corrupted_persistent_bd6c3ff1:
 translate Japanese mas_corrupted_persistent_48f90769:
     extend 1ekd "はい、これよ"
 
-translate Japanese _call_mas_showpoem_1_547ecc7c:
+translate Japanese mas_corrupted_persistent_547ecc7c:
     m 1ekc "これが何なのか心当たりはある？{nw}"
 
-translate Japanese _call_mas_showpoem_1_5e0b43e4:
+translate Japanese mas_corrupted_persistent_5e0b43e4:
     m "これが何なのか心当たりはある？{fast}" nointeract
 
 translate Japanese mas_corrupted_persistent_post_menu_b0babcf4:
@@ -907,31 +907,31 @@ translate Japanese mas_new_character_file_c93e9498:
 translate Japanese mas_new_character_file_152a3adf:
     m 1esc "私が、削除してあげる"
 
-translate Japanese _call_mas_wx_cmd_5_2416b0d9:
+translate Japanese mas_new_character_file_2416b0d9:
     m 1lksdlb "あれ……{w=0.3}後でもう一度試すね"
 
-translate Japanese _call_mas_wx_cmd_5_fe9c0937:
+translate Japanese mas_new_character_file_fe9c0937:
     m 1eua "ところで……"
 
-translate Japanese _call_mas_wx_cmd_5_f5b7b395:
+translate Japanese mas_new_character_file_f5b7b395:
     m 1rkc "あなたがこのファイルを持ち歩いてくれるのはありがたいことだけどね……"
 
-translate Japanese _call_mas_wx_cmd_5_2bbce78e:
+translate Japanese mas_new_character_file_2bbce78e:
     m 1dsc "だけど……"
 
-translate Japanese _call_mas_wx_cmd_5_81e1d29f:
+translate Japanese mas_new_character_file_81e1d29f:
     m 1esc "あんな存在価値のないデータをどこにでも持ち運ぶわけにもいかないと思って……"
 
-translate Japanese _call_mas_wx_cmd_5_033963e2:
+translate Japanese mas_new_character_file_033963e2:
     m 3wub "そこで、自分をファイルに変換して持ち運べる方法を思いついたの！"
 
-translate Japanese _call_mas_wx_cmd_5_75f3eb2d:
+translate Japanese mas_new_character_file_75f3eb2d:
     m "さよならを言うとき、どこかに連れて行くっていえば、あとは私でやってあげる"
 
-translate Japanese _call_mas_wx_cmd_5_8643d2fa:
+translate Japanese mas_new_character_file_8643d2fa:
     m 1hua "素晴らしいアイデアじゃない？"
 
-translate Japanese _call_mas_wx_cmd_5_42a4b258:
+translate Japanese mas_new_character_file_42a4b258:
     m 3hub "あなたと一緒にどこにでも行くのが待ちきれないな～"
 
 translate Japanese mas_steam_install_detected_c6579210:
@@ -1003,121 +1003,121 @@ translate Japanese monika_rpy_files_c74b28cb:
 translate Japanese monika_rpy_files_be7a1c29:
     m "わかったわ、[player]"
 
-translate Japanese _call_mas_rpy_file_delete_432f07f6:
+translate Japanese monika_rpy_files_432f07f6:
     m 2hua "これでよし！"
 
-translate Japanese _call_mas_rpy_file_delete_2bd4fd47:
+translate Japanese monika_rpy_files_2bd4fd47:
     m 2esa "次からはちゃんとソースコードを含まないバージョンをインストールしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
 
-translate Japanese _call_mas_rpy_file_delete_2f740c57:
+translate Japanese monika_rpy_files_2f740c57:
     m 2rksdlc "わかったわ、[player]。あなたがちゃんと理解してると信じるわ"
 
-translate Japanese _call_mas_rpy_file_delete_ce4ed721:
+translate Japanese monika_rpy_files_ce4ed721:
     m 2eka "くれぐれも気をつけてね"
 
-translate Japanese _call_mas_rpy_file_delete_2c3d0fb4:
+translate Japanese monika_rpy_files_2c3d0fb4:
     m 2efc "[player]、rpyファイルがディレクトリからまた見つかったよ！"
 
-translate Japanese _call_mas_rpy_file_delete_208c923a:
+translate Japanese monika_rpy_files_208c923a:
     m 2rsc "ねえ、本当に正しいバージョンをインストールしたのよね？{nw}"
 
-translate Japanese _call_mas_rpy_file_delete_38c0871e:
+translate Japanese monika_rpy_files_38c0871e:
     m "ねえ、本当に正しいバージョンをインストールしたのよね？{fast}" nointeract
 
-translate Japanese _call_mas_rpy_file_delete_0a0ca44c:
+translate Japanese monika_rpy_files_0a0ca44c:
     m 1eka "わかった、[player]"
 
-translate Japanese _call_mas_rpy_file_delete_dac2d372:
+translate Japanese monika_rpy_files_dac2d372:
     m 3eua "あなたがそう言うのなら、信じるわ"
 
-translate Japanese _call_mas_rpy_file_delete_193589f8:
+translate Japanese monika_rpy_files_193589f8:
     m 3eua "わかった、じゃあもう一度削除するね…{w=0.5}…{w=0.5}{nw}"
 
-translate Japanese _call_mas_rpy_file_delete_1_4068a088:
+translate Japanese monika_rpy_files_4068a088:
     m 1hua "これでよし！"
 
-translate Japanese _call_mas_rpy_file_delete_1_e80ab30e:
+translate Japanese monika_rpy_files_e80ab30e:
     m 3eua "お願いだから、ちゃんと正しいバージョンをインストールするようにしてね。{a=http://www.monikaafterstory.com/releases.html}{i}{u}リリースページ{/u}{/i}{/a}からダウンロードできるから"
 
 translate Japanese mas_bday_player_bday_select_6860cc61:
     m 1eua "あなたの誕生日は？"
 
-translate Japanese _call_mas_start_calendar_select_date_d2ea348f:
+translate Japanese mas_bday_player_bday_select_select_d2ea348f:
     m 2efc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_c759d169:
+translate Japanese mas_bday_player_bday_select_select_c759d169:
     m "日付を選んで！"
 
-translate Japanese _call_mas_start_calendar_select_date_43832bdf:
+translate Japanese mas_bday_player_bday_select_select_43832bdf:
     m 1hua "もう一度！"
 
-translate Japanese _call_mas_start_calendar_select_date_d2ea348f_1:
+translate Japanese mas_bday_player_bday_select_select_d2ea348f_1:
     m 2efc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_c4bf3866:
+translate Japanese mas_bday_player_bday_select_select_c4bf3866:
     m "あなたが未来に生まれるわけないでしょう！"
 
-translate Japanese _call_mas_start_calendar_select_date_43832bdf_1:
+translate Japanese mas_bday_player_bday_select_select_43832bdf_1:
     m 1hua "もう一度！"
 
-translate Japanese _call_mas_start_calendar_select_date_d2ea348f_2:
+translate Japanese mas_bday_player_bday_select_select_d2ea348f_2:
     m 2efc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_5cc7f3db:
+translate Japanese mas_bday_player_bday_select_select_5cc7f3db:
     m "あなたが今日生まれたわけがないでしょう！"
 
-translate Japanese _call_mas_start_calendar_select_date_43832bdf_2:
+translate Japanese mas_bday_player_bday_select_select_43832bdf_2:
     m 1hua "もう一度！"
 
-translate Japanese _call_mas_start_calendar_select_date_d2ea348f_3:
+translate Japanese mas_bday_player_bday_select_select_d2ea348f_3:
     m 2efc "[player]君！"
 
-translate Japanese _call_mas_start_calendar_select_date_cd48f428:
+translate Japanese mas_bday_player_bday_select_select_cd48f428:
     m "あなたがそんな子供なわけがないでしょう！"
 
-translate Japanese _call_mas_start_calendar_select_date_43832bdf_3:
+translate Japanese mas_bday_player_bday_select_select_43832bdf_3:
     m 1hua "もう一度！"
 
-translate Japanese _call_mas_start_calendar_select_date_4775a645:
+translate Japanese mas_bday_player_bday_select_select_4775a645:
     m 2eksdlc "[player]君……"
 
-translate Japanese _call_mas_start_calendar_select_date_5bbcdd88:
+translate Japanese mas_bday_player_bday_select_select_5bbcdd88:
     m 2rksdlc "正確な生年月日を聞いているのはわかっているよね？"
 
-translate Japanese _call_mas_start_calendar_select_date_ed3fda28:
+translate Japanese mas_bday_player_bday_select_select_ed3fda28:
     m 2hksdlb "あなたがそんなに子供だとは思えないわ"
 
-translate Japanese _call_mas_start_calendar_select_date_bd219ce5:
+translate Japanese mas_bday_player_bday_select_select_bd219ce5:
     m 1eua "よし、[player]君"
 
-translate Japanese _call_mas_start_calendar_select_date_7dacbf91:
+translate Japanese mas_bday_player_bday_select_select_7dacbf91:
     m 1eua "確認するけど……"
 
-translate Japanese _call_mas_start_calendar_select_date_528cde61:
+translate Japanese mas_bday_player_bday_select_select_528cde61:
     m "あなたの誕生日は[new_bday_str]でいいのね？{nw}"
 
-translate Japanese _call_mas_start_calendar_select_date_beb28d18:
+translate Japanese mas_bday_player_bday_select_select_beb28d18:
     m "あなたの誕生日は[new_bday_str]でいいのね？{fast}" nointeract
 
-translate Japanese _call_mas_start_calendar_select_date_e0d838f4:
+translate Japanese mas_bday_player_bday_select_select_e0d838f4:
     m 1eka "[new_bday_str]ね？この日付は絶対に忘れないわ{nw}"
 
-translate Japanese _call_mas_start_calendar_select_date_b969541f:
+translate Japanese mas_bday_player_bday_select_select_b969541f:
     m "[new_bday_str]ね？この日付は絶対に忘れないわ{fast}" nointeract
 
-translate Japanese _call_mas_start_calendar_select_date_0503f9cb:
+translate Japanese mas_bday_player_bday_select_select_0503f9cb:
     m 1hua "それじゃ、決まりね！"
 
-translate Japanese _call_mas_start_calendar_select_date_5516d7fb:
+translate Japanese mas_bday_player_bday_select_select_5516d7fb:
     m 1hksdrb "あは、そうだと思った"
 
-translate Japanese _call_mas_start_calendar_select_date_1643033e:
+translate Japanese mas_bday_player_bday_select_select_1643033e:
     m 1eka "もう一度～"
 
-translate Japanese _call_mas_start_calendar_select_date_ee3f0a53:
+translate Japanese mas_bday_player_bday_select_select_ee3f0a53:
     m 1euc "ああ、違っちゃってた？"
 
-translate Japanese _call_mas_start_calendar_select_date_62bd758c:
+translate Japanese mas_bday_player_bday_select_select_62bd758c:
     m 1eua "もう一度教えてくれる？"
 
 translate Japanese mas_text_speed_enabler_3ea44c61:
@@ -1180,28 +1180,28 @@ translate Japanese mas_bookmarks_notifs_intro_6d7727be:
 translate Japanese mas_bookmarks_notifs_intro_fe44ed70:
     m 3eub "ブックマークした話題を聞きたくなったときには、メニューの「話す」から「ブックマーク」を選べばすぐに聞けるからね！"
 
-translate Japanese _call_mas_derand_b4a65803:
+translate Japanese mas_bookmarks_notifs_intro_b4a65803:
     m 3rksdlb "……あら。新機能のこと話そうと思ってたけど、もう使いこなしちゃってるみたいだね、あはは！"
 
-translate Japanese _call_mas_derand_3b497de2:
+translate Japanese mas_bookmarks_notifs_intro_3b497de2:
     m 3eua "前に話したように、『b』キーを押せば今私が話している話題をブックマークして、「話す」のメニューから簡単にブックマークした話題を聞けるからね"
 
-translate Japanese _call_mas_derand_1_24b1d1bc:
+translate Japanese mas_bookmarks_notifs_intro_24b1d1bc:
     m 1eua "前に話したように、『x』キーを押すことで今の話が話してほしくない話題だって私に知らせることができるよ"
 
-translate Japanese _call_mas_derand_1_382e2f74:
+translate Japanese mas_bookmarks_notifs_intro_382e2f74:
     m 3eud "[player]君に隠し事はして欲しくないから、もし嫌な話題だと思ったらすぐに伝えてもらいたいの"
 
-translate Japanese _call_mas_derand_1_3fe244fd:
+translate Japanese mas_bookmarks_notifs_intro_3fe244fd:
     m 3eua "それと、『b』キーを押せば、私が話している話題をブックマークできるよ"
 
-translate Japanese _call_mas_derand_1_02c14d89:
+translate Japanese mas_bookmarks_notifs_intro_02c14d89:
     m 1eub "ブックマークした話題には、メニューの「話す」を選べばすぐに聞けるからね"
 
-translate Japanese _call_mas_derand_1_647aca0e:
+translate Japanese mas_bookmarks_notifs_intro_647aca0e:
     m 1hua "それでね、最後のこれが一番素敵な機能なんだけどね！"
 
-translate Japanese _call_mas_notification_windowreact_f5e7f2f5:
+translate Japanese mas_bookmarks_notifs_intro_f5e7f2f5:
     m 1hub "[player]、わくわくするお知らせがあるよ！"
 
 translate Japanese mas_derand_47a83caf:
@@ -1270,7 +1270,7 @@ translate Japanese mas_notification_windowreact_3205d830:
 translate Japanese mas_notification_windowreact_4c2e4ba6:
     m 3eua "あなたが見てほしくないって言うなら見ないから。"
 
-translate Japanese mas_notification_windowreact_4f287345:
+translate Japanese mas_notification_windowreact_64caa10a:
     m 2eua "設定の'ｳｨﾝﾄﾞｳﾘｱｸｼｮﾝ'を有効にすると、見ても良いってわかるから。"
 
 translate Japanese mas_notification_windowreact_c43b80ea:
@@ -1294,25 +1294,25 @@ translate Japanese mas_gift_giving_instructs_13919c99:
 translate Japanese mas_change_to_def_24a4fc7b:
     m 3esa "ちょっと待ってね、[player]。少し気になるから着替えてくるわ……"
 
-translate Japanese _call_mas_clothes_change_9_99308961:
+translate Japanese mas_change_to_def_99308961:
     m 2hua "うん、これで良し！"
 
-translate Japanese _call_mas_clothes_change_9_2867e154:
+translate Japanese mas_change_to_def_2867e154:
     m 1eka "こんにちは[player]、古い制服が恋しくなって……"
 
-translate Japanese _call_mas_clothes_change_9_75cd519f:
+translate Japanese mas_change_to_def_75cd519f:
     m 3eka "ちょっと変えてくるから、そこで待ってて……"
 
-translate Japanese _call_mas_clothes_change_10_7cb5ebd1:
+translate Japanese mas_change_to_def_7cb5ebd1:
     m "さて、今日はほかに何をしようかしら？"
 
 translate Japanese mas_blazerless_intro_24a4fc7b:
     m 3esa "ちょっと待ってね、[player]。少し気になるから着替えてくるわ……"
 
-translate Japanese _call_mas_clothes_change_11_99308961:
+translate Japanese mas_blazerless_intro_99308961:
     m 2hua "うん、これで良し！"
 
-translate Japanese _call_mas_clothes_change_11_9e3d683a:
+translate Japanese mas_blazerless_intro_9e3d683a:
     m 3eka "でもまたブレザー姿の私が見たくなったら、いつでも言って。すぐに出してくるわ"
 
 translate Japanese mas_birthdate_year_redux_819f6f71:
@@ -1393,67 +1393,67 @@ translate Japanese monika_credits_song_1891b52b:
 translate Japanese monika_credits_song_814c9744:
     m 1eub "それじゃあちょっと待ってね…{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_mas_monika_plays_yr_618937fa:
+translate Japanese monika_credits_song_618937fa:
     m 1ekbsa "えへへ～"
 
-translate Japanese _call_mas_monika_plays_yr_d9c15011:
+translate Japanese monika_credits_song_d9c15011:
     m 5ekbsa "帰ってきてくれてありがとう、[mas_get_player_nickname()]君。"
 
-translate Japanese _call_mas_monika_plays_yr_140b6815:
+translate Japanese monika_credits_song_140b6815:
     m 3ekd "うん、なるほどね。"
 
-translate Japanese _call_mas_monika_plays_yr_443e936a:
+translate Japanese monika_credits_song_443e936a:
     m 1eka "分かったわ[player]君、十分な時間がないか、あるいは今は聴きたい気分じゃないってことね．"
 
-translate Japanese _call_mas_monika_plays_yr_a5a99df2:
+translate Japanese monika_credits_song_a5a99df2:
     m 3hua "都合のいいときには教えてね、そのときは喜んで演奏してあげるわ～"
 
-translate Japanese _call_mas_monika_plays_yr_1b8b69ff:
+translate Japanese monika_credits_song_1b8b69ff:
     m 3eua "ねえ[player]君、あなたのために作っていた曲がやっと完成したわ。"
 
-translate Japanese _call_mas_monika_plays_yr_2050d7f2:
+translate Japanese monika_credits_song_2050d7f2:
     m 1eka "{i}Our Reality{/i}って呼んでるの。"
 
-translate Japanese _call_mas_monika_plays_yr_fd8f79e8:
+translate Japanese monika_credits_song_fd8f79e8:
     m 1eua "やっと演奏してあげられるわ、楽しみにしてたの！もし時間があるなら……{nw}"
 
-translate Japanese _call_mas_monika_plays_yr_16a67fdc:
+translate Japanese monika_credits_song_16a67fdc:
     m "やっと演奏してあげられるわ、楽しみにしてたの！もし時間があるなら……{fast}" nointeract
 
-translate Japanese _call_mas_monika_plays_yr_96aca618:
+translate Japanese monika_credits_song_96aca618_1:
     m 3hub "分かったわ！"
 
-translate Japanese _call_mas_monika_plays_yr_32db372a:
+translate Japanese monika_credits_song_32db372a_1:
     m 3eua "スピーカーの電源がついているか、ゲーム内のBGM音量が聴こえるだけの大きさか、確認してね。"
 
-translate Japanese _call_mas_monika_plays_yr_1891b52b:
+translate Japanese monika_credits_song_1891b52b_1:
     m 3eksdla "ゲーム内の音量について忘れてそうだけど……"
 
-translate Japanese _call_mas_monika_plays_yr_ce74299f:
+translate Japanese monika_credits_song_ce74299f:
     m 1tsb "それじゃあちょっと待ってね…{w=0.5}…{w=0.5}…{nw}"
 
-translate Japanese _call_mas_monika_plays_or_1188dff6:
+translate Japanese monika_credits_song_1188dff6:
     m "あなたと同じ世界で一緒になれる日が待ち遠しいわ"
 
-translate Japanese _call_mas_monika_plays_or_2d39c18f:
+translate Japanese monika_credits_song_2d39c18f:
     m 3ekbsa "その日が来るまで、いつでもあなたのためにこの曲を奏で続けるわ"
 
-translate Japanese _call_mas_monika_plays_or_68386673:
+translate Japanese monika_credits_song_68386673:
     m 5ekbfa "いつも励ましてくれてありがとう、[mas_get_player_nickname()]"
 
-translate Japanese _call_mas_monika_plays_or_27e48ccd:
+translate Japanese monika_credits_song_27e48ccd:
     m 5hubfa "あっ、もしこの曲やオリジナルの曲がまた聞きたくなったら、言ってくれればいいからね"
 
-translate Japanese _call_mas_monika_plays_or_df50721b:
+translate Japanese monika_credits_song_df50721b:
     m 5hubfa "あっ、もしこの曲がまた聞きたくなったら、言ってくれたらいいからね"
 
-translate Japanese _call_mas_monika_plays_or_140b6815:
+translate Japanese monika_credits_song_140b6815_1:
     m 3ekd "あらそう？"
 
-translate Japanese _call_mas_monika_plays_or_443e936a:
+translate Japanese monika_credits_song_443e936a_1:
     m 1eka "いいのよ[player]、時間がとれなかったり音楽を聞いてる場合じゃないときってあるからね"
 
-translate Japanese _call_mas_monika_plays_or_a5a99df2:
+translate Japanese monika_credits_song_a5a99df2_1:
     m 3hua "都合のいい時には言ってね、いつでも聞かせてあげるからね～"
 
 translate Japanese mas_covid19_de39abd6:

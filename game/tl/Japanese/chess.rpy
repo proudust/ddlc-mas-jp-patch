@@ -1,16 +1,16 @@
-translate Japanese _call_mas_chess_dlg_quicksave_lost_f85b6700:
+translate Japanese game_chess_f85b6700:
     m "さ、途中だったチェスの続きをしよっか"
 
-translate Japanese _call_mas_chess_dlg_quickfile_lost_3507e2a3:
+translate Japanese game_chess_3507e2a3:
     m 2wfw "[player]君！"
 
-translate Japanese _call_mas_chess_dlg_quickfile_lost_5e027179:
+translate Japanese game_chess_5e027179:
     m 2wfx "またデータを消したのね"
 
-translate Japanese _call_mas_chess_dlg_quickfile_lost_8bc6286c:
+translate Japanese game_chess_8bc6286c:
     m 2rfc "それなら、とりあえずチェスはまた今度にしよっか"
 
-translate Japanese _call_mas_chess_dlg_quickfile_edited_9be668f3:
+translate Japanese game_chess_9be668f3:
     m 1eua "プレイ途中のセーブデータがあるけど……"
 
 translate Japanese game_chess_load_check_b01706c4:
@@ -62,67 +62,67 @@ translate Japanese mas_chess_start_chess_fe9c0937:
 translate Japanese mas_chess_start_chess_2377db7a:
     m 1sub "私の勝ち！ イェイ！"
 
-translate Japanese _call_mas_chess_dlg_game_monika_wins_sometimes_fe9c0937:
+translate Japanese mas_chess_start_chess_fe9c0937_1:
     m 1eua "それはともかく……"
 
-translate Japanese _call_mas_chess_savegame_ed69febf:
+translate Japanese mas_chess_start_chess_ed69febf:
     m 1eua "これは引き分けね"
 
-translate Japanese _call_mas_chess_savegame_7fc09fe5:
+translate Japanese mas_chess_start_chess_7fc09fe5:
     m 3wuo "とても長い試合だったわね！"
 
-translate Japanese _call_mas_chess_savegame_dacd03c3:
+translate Japanese mas_chess_start_chess_dacd03c3:
     m 1eka "あっ、ステイルメイト状態のようね"
 
-translate Japanese _call_mas_chess_savegame_52127a00:
+translate Japanese mas_chess_start_chess_52127a00:
     m 3hub "[line_start]、あなたがまた一歩私を倒すのに近づいてるってことね"
 
-translate Japanese _call_mas_chess_savegame_27c4f439:
+translate Japanese mas_chess_start_chess_27c4f439:
     m 1hua "ここまでよく頑張ったわね、[player]～"
 
-translate Japanese _call_mas_chess_savegame_8af96f98:
+translate Japanese mas_chess_start_chess_8af96f98:
     m 3hub "おめでとう、 [player]！ あなたの勝ちよ！"
 
-translate Japanese _call_mas_chess_savegame_703c118d:
+translate Japanese mas_chess_start_chess_703c118d:
     m 1wuo "一度も待ったをしなかった！{w=0.2} {nw}"
 
-translate Japanese _call_mas_chess_savegame_bfd152d9:
+translate Japanese mas_chess_start_chess_bfd152d9:
     extend 3hub "とてもすごかった！"
 
-translate Japanese _call_mas_chess_savegame_30b0216b:
+translate Japanese mas_chess_start_chess_30b0216b:
     m 1hua "待ったが、たった一度だけだったわね。"
 
-translate Japanese _call_mas_chess_savegame_4fb0b0f8:
+translate Japanese mas_chess_start_chess_4fb0b0f8:
     extend 3hub "その調子よ！"
 
-translate Japanese _call_mas_chess_savegame_231fdb4f:
+translate Japanese mas_chess_start_chess_231fdb4f:
     m 1hua "待ったをした回数は [undo_count]回ね、その調子よ。"
 
-translate Japanese _call_mas_chess_savegame_436c0307:
+translate Japanese mas_chess_start_chess_436c0307:
     m 1eua "待ったをした回数は [undo_count]回ね。悪くないわね。一緒に練習を積んでいけば、もっと少なくできると思うよ～"
 
-translate Japanese _call_mas_chess_savegame_f10da59f:
+translate Japanese mas_chess_start_chess_f10da59f:
     m 1eka "待ったをした回数は [undo_count]回ね。{w=0.3} {nw}"
 
-translate Japanese _call_mas_chess_savegame_ca6d958e:
+translate Japanese mas_chess_start_chess_ca6d958e:
     extend 3eua "一緒に練習を積んでいけば、もっと上手くなって回数を減らせると思うわ。"
 
-translate Japanese _call_mas_chess_savegame_3e161ada:
+translate Japanese mas_chess_start_chess_3e161ada:
     m 3hua "[renpy.substitute(random.choice(player_win_quips))!t]"
 
-translate Japanese _call_mas_chess_savegame_ba77caa8:
+translate Japanese mas_chess_start_chess_ba77caa8:
     m 3eub "すごい！ あなたの勝ちよ！"
 
-translate Japanese _call_mas_chess_savegame_43d2d26f:
+translate Japanese mas_chess_start_chess_43d2d26f:
     m 3hub "[renpy.substitute(random.choice(player_win_quips))!t]"
 
-translate Japanese _call_mas_chess_savegame_fe9c0937:
+translate Japanese mas_chess_start_chess_fe9c0937_2:
     m 1eua "とにかく……"
 
-translate Japanese _call_mas_chess_savegame_1_673bb300:
+translate Japanese mas_chess_start_chess_673bb300:
     m 1eua "このゲームをセーブする？{nw}"
 
-translate Japanese _call_mas_chess_savegame_1_922efe72:
+translate Japanese mas_chess_start_chess_922efe72:
     m "このゲームをセーブする？{fast}" nointeract
 
 translate Japanese mas_chess_play_again_ask_52b51855:
@@ -131,7 +131,7 @@ translate Japanese mas_chess_play_again_ask_52b51855:
 translate Japanese mas_chess_play_again_ask_32d0248c:
     m "もう一度チェスをプレイする？{fast}" nointeract
 
-translate Japanese _call_mas_chess_draw_lots_2_ea210635:
+translate Japanese mas_chess_play_again_ask_ea210635:
     m 1eua "おっけー、またやろうね"
 
 translate Japanese mas_chess_draw_lots_47608234:
