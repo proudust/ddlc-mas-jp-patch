@@ -21091,7 +21091,7 @@ translate Japanese monika_being_herself_cd553e9a:
     m 2dksdlc "……"
 
 translate Japanese monika_being_herself_680e8e9e:
-    m 2ekd "でもね、結局ところさ…… {w=0.3私はただの一人の女の子でしかないんだよ"
+    m 2ekd "でもね、結局ところさ…… {w=0.3}私はただの一人の女の子でしかないんだよ"
 
 translate Japanese monika_being_herself_4ccbe1ae:
     m 7ekc "常に自信を持って行動してたわけじゃない。{w=0.2}みんなと同じで自分の将来を考えるだけですごく不安なってたただの女の子だったんだよ"
