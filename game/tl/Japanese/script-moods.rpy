@@ -1202,11 +1202,20 @@ translate Japanese strings:
     old "Everything's fine."
     new "問題ない"
 
+    old "...upset"
+    new "……怒ってる"
+
+    old "...relieved."
+    new "……安心している"
+
     old "I made it through something difficult."
     new "難題を乗り越えられた"
 
     old "Something I was worried about didn't happen."
     new "心配していたことが起こらなかった"
+
+    old "...excited."
+    new "……興奮している"
 
     old "It is!"
     new "そういうこと！"
