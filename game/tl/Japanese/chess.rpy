@@ -96,16 +96,16 @@ translate Japanese mas_chess_start_chess_4fb0b0f8:
     extend 3hub "その調子よ！"
 
 translate Japanese mas_chess_start_chess_231fdb4f:
-    m 1hua "待ったをした回数は [undo_count]回ね、その調子よ。"
+    m 1hua "待ったをした回数は[undo_count]回ね、その調子よ。"
 
 translate Japanese mas_chess_start_chess_436c0307:
-    m 1eua "待ったをした回数は [undo_count]回ね。悪くないわね。一緒に練習を積んでいけば、もっと少なくできると思うよ～"
+    m 1eua "待ったをした回数は[undo_count]回ね。悪くないわね。一緒に練習を積んでいけば、もっと少なくできると思うよ～"
 
 translate Japanese mas_chess_start_chess_f10da59f:
-    m 1eka "待ったをした回数は [undo_count]回ね。{w=0.3} {nw}"
+    m 1eka "待ったをした回数は[undo_count]回ね。{w=0.3}{nw}"
 
 translate Japanese mas_chess_start_chess_ca6d958e:
-    extend 3eua "一緒に練習を積んでいけば、もっと上手くなって回数を減らせると思うわ。"
+    extend 3eua "一緒に練習を積んでいけば、もっと上手くなって回数を減らせると思うわ"
 
 translate Japanese mas_chess_start_chess_3e161ada:
     m 3hua "[renpy.substitute(random.choice(player_win_quips))!t]"
@@ -303,7 +303,7 @@ translate Japanese mas_chess_dlg_quickfile_lost_f27f6469:
     m "あなたがセーブデータを弄ったの、[player]君？{fast}" nointeract
 
 translate Japanese mas_chess_dlg_quickfile_lost_deleted_e87f814d:
-    m 1eka "正直に言ってくれてありがとう。"
+    m 1eka "正直に言ってくれてありがとう"
 
 translate Japanese mas_chess_dlg_quickfile_lost_deleted_7fc2ae0b:
     m 3ekd "前のゲームの続きはもうやりたくなかったの？{nw}"
@@ -312,7 +312,7 @@ translate Japanese mas_chess_dlg_quickfile_lost_deleted_ae2adb13:
     m "前のゲームの続きはもうやりたくなかったの？{fast}" nointeract
 
 translate Japanese mas_chess_dlg_quickfile_lost_deleted_eb42e33a:
-    m 1eka "わかった、[player]。"
+    m 1eka "わかった、[player]"
 
 translate Japanese mas_chess_dlg_quickfile_lost_deleted_33c3dc8e:
     m 1hua "じゃあまた新しくゲームを始めようね～"
@@ -321,10 +321,10 @@ translate Japanese mas_chess_dlg_quickfile_lost_deleted_ad363a17:
     m 1etc "え？"
 
 translate Japanese mas_chess_dlg_quickfile_lost_deleted_0f2b82a7:
-    m 1rsc "つまり間違えてデータを消しちゃったってことかな。"
+    m 1rsc "つまり間違えてデータを消しちゃったってことかな"
 
 translate Japanese mas_chess_dlg_quickfile_lost_deleted_19a3e417:
-    m 1eua "じゃあまた新しくゲームを始めようね。"
+    m 1eua "じゃあまた新しくゲームを始めようね"
 
 translate Japanese mas_chess_dlg_quickfile_lost_ofcoursenot_5b0ed382:
     m 2esc "……"
