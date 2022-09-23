@@ -1,0 +1,52 @@
+name: Update Monika After Story
+
+on:
+  push:
+    branches:
+      - master
+  repository_dispatch:
+    types: [update_mas]
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout via SSH
+        uses: actions/checkout@v3
+        with:
+          ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+
+      - name: Get latest version
+        id: ghd
+        uses: proudust/gh-describe@v1
+        with:
+          repo: Monika-After-Story/MonikaModDev
+          commit-ish: master
+          match: v*
+
+      - name: Checkout MAS via SSH
+        uses: actions/checkout@v3
+        with:
+          repository: Monika-After-Story/MonikaModDev
+          ref: ${{ steps.ghd.outputs.tag }}
+          ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          path: ./MonikaModDev
+
+      - name: Git add MAS Update
+        id: update
+        run: git add './MonikaModDev'
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          branch: mas-update
+          commit-message: ":sparkles: Monika After Story を ${{ steps.ghd.outputs.tag }} にアップデート"
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          title: Monika After Story を ${{ steps.ghd.outputs.tag }} にアップデート
+          body: |
+            この Pull Request は GitHub Actions により自動生成されています。
+            毎朝 6 時に Monika After Story 本体の更新を確認し、更新します。
