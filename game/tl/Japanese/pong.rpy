@@ -127,7 +127,7 @@ translate Japanese mas_pong_dlg_winner_4d72b34e:
 translate Japanese mas_pong_dlg_winner_cad6cf44:
     m 1eua "楽しんでね、[player]君"
 
-translate Japanese mas_pong_dlg_winner_f5b163b1:
+translate Japanese mas_pong_dlg_winner_bd3c8844:
     m 1eka "ゲームにそんなムキになっても欲しくないし"
 
 translate Japanese mas_pong_dlg_winner_d8fb1dfb:

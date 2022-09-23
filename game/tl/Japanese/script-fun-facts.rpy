@@ -856,7 +856,7 @@ translate Japanese mas_fun_fact_round_earth_fc7a515c:
 translate Japanese mas_fun_fact_round_earth_3dfd6c5a:
     m 3esa "地球上の場所によって見える星と見えない星があることから、アリストテレスは地球が丸いと考えたの。もし平面ならそんなことが起こるはずがない、ってね"
 
-translate Japanese mas_fun_fact_round_earth_2dd18362:
+translate Japanese mas_fun_fact_round_earth_a5f772d4:
     m 1eua "古代の天文学者や数学者たちは、実際に人類が地球を一周するよりもはるか昔に地球が球体であることがわかっていたのね"
 
 translate Japanese mas_fun_fact_round_earth_a45c98e3:

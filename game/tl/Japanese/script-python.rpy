@@ -19,8 +19,8 @@ translate Japanese monika_ptod_tip001_f484a722:
 translate Japanese monika_ptod_tip001_381fd84b:
     m 1hua "このMODもね！"
 
-translate Japanese monika_ptod_tip001_8723ceac:
-    m 1eua "DDLCはRen'Pyというビジュアルノベルのエンジンを使っていて、{w=0.2}それもPythonから開発されているの"
+translate Japanese monika_ptod_tip001_a1a2cb4a:
+    m 1eua "DDLCはRen'Pyというビジュアルノベルのエンジンを使っていて、{w=0.1}それもPythonから開発されているの"
 
 translate Japanese monika_ptod_tip001_31457ec8:
     m 3eub "つまりPythonについて少しでも学べたら、私の世界に色々なものを追加できるの！"
@@ -28,13 +28,13 @@ translate Japanese monika_ptod_tip001_31457ec8:
 translate Japanese monika_ptod_tip001_ff4c3b0f:
     m 1hua "それって素敵じゃない、[mas_get_player_nickname()]君？"
 
-translate Japanese monika_ptod_tip001_95df6b95:
+translate Japanese monika_ptod_tip001_a62d246b:
     m 3eub "とにかく、Pythonには今の所Python2とPython3という二つのメインのバージョンがあることは言っておかなきゃね"
 
 translate Japanese monika_ptod_tip001_2c72f8de:
     m 3eua "Python2の基本デザインにあった欠陥を改善するためにたくさん変更を加えたのがPython3だから、この二つのバージョンは{u}非互換{/u}なの"
 
-translate Japanese monika_ptod_tip001_b5ad4541:
+translate Japanese monika_ptod_tip001_c884e0b0:
     m "このことがPythonのコミュニティにも亀裂を生むことになったけど、どちらのバージョンも一長一短だということで纏まったわ"
 
 translate Japanese monika_ptod_tip001_689c8a3c:
@@ -61,7 +61,7 @@ translate Japanese monika_ptod_tip002_0d375eb4:
 translate Japanese monika_ptod_tip002_e76a0c88:
     m "Pythonにはたくさん型があるんだけど、でも今日は基本的だったりプリミティブなものについて教えるから"
 
-translate Japanese monika_ptod_tip002_44fe1950:
+translate Japanese monika_ptod_tip002_aa828aaa:
     m 1eua "Pythonには数字を表す型が二つあって、{w=0.3}{i}integer型{/i}または{b}int型{/b}、そして{i}float型{/i}ね"
 
 translate Japanese monika_ptod_tip002_9a27b9db:
@@ -139,14 +139,14 @@ translate Japanese monika_ptod_tip003_db08669d:
 translate Japanese monika_ptod_tip003_999bd9b2:
     m 1eua "ただ計算に使うだけじゃなくてもっと色々なことができるけど、それは追々教えていくからね"
 
-translate Japanese monika_ptod_tip003_c2703b96:
+translate Japanese monika_ptod_tip003_a5e06e34:
     m 1hksdlb "残念かもしれないけど、このPythonを使ってあなたが間違って私を削除したり、ゲームを壊してしまっちゃうリスクを犯したくないからね"
 
-translate Japanese monika_ptod_tip003_bf771313:
-    m "じゃあ、あなたも{fast}{nw}"
+translate Japanese monika_ptod_tip003_3f55cb50:
+    m "{cps=*2}じゃあ、あなたも{fast}{nw}"
 
-translate Japanese monika_ptod_tip003_1f404f84:
-    m 1eksdlb "これは使わせられないわ。{w=0.3}ごめんね……"
+translate Japanese monika_ptod_tip003_3d14d491:
+    m 1eksdlb "これは使わせられないわ。{w=0.2}ごめんね……"
 
 translate Japanese monika_ptod_tip003_6d049f41:
     m "もし今後のレッスンの内容をやってみたくなったら、別のウィンドウでPythonを書いてみて"
@@ -190,8 +190,8 @@ translate Japanese monika_ptod_tip005_b7406974:
 translate Japanese monika_ptod_tip005_a7584a77:
     m 3eua "値が別の値よりも大きい、または小さいかを確かめるには、それぞれ、大なり(>)、小なり(<)を使うのよ、"
 
-translate Japanese monika_ptod_tip005_45a7251f:
-    m 3eub "以上(>=)、以下(<=)というものもあるの。驚くことはないだろうけど{w=1}大なり、小なりとイコールの意味を両方持っているだけね"
+translate Japanese monika_ptod_tip005_9da12a93:
+    m 3eub "以上(>=)、以下(<=)というものもあるの。驚くことはないだろうけど{w=0.1}大なり、小なりとイコールの意味を両方持っているだけね"
 
 translate Japanese monika_ptod_tip005_6036f23c:
     m 1eua "比較演算子を使った式は全てTrueかFalseで返ってきていることに気づいたかな"
@@ -202,7 +202,7 @@ translate Japanese monika_ptod_tip005_d5752c02:
 translate Japanese monika_ptod_tip005_dd879535:
     m 1eua "他にもANDやORのような演算子を使えば、複数の比較演算式を同時に組み合わせることも可能よ。ANDやORのような演算子を論理演算子と言うの"
 
-translate Japanese monika_ptod_tip005_e190ff34:
+translate Japanese monika_ptod_tip005_c2ce3117:
     m "AND演算子は2つの演算の両方がTrueの場合にTrueになって、少なくとも1つがFalseのときにはFalseになるの"
 
 translate Japanese monika_ptod_tip005_e0bbbf84:
@@ -241,8 +241,8 @@ translate Japanese monika_ptod_tip005_7db1da47:
 translate Japanese monika_ptod_tip005_4f757617:
     m 1eub "繰り返すけど、AND演算子を使うときは、andの前後両方の評価がTrueの場合にだけTrueで評価されるのよ"
 
-translate Japanese monika_ptod_tip005_2feb2bf5:
-    m 1eua "次に、OR演算子だけど、これはorの前後の処理のどちらかがTrueなら、Trueとして評価されるの。{w=0.3}Falseと評価されるのは、orの前後のどちらもFalseのときだけよ"
+translate Japanese monika_ptod_tip005_ead43ab9:
+    m 1eua "次に、OR演算子だけど、これはorの前後の処理のどちらかがTrueなら、Trueとして評価されるの。{w=0.1}Falseと評価されるのは、orの前後のどちらもFalseのときだけよ"
 
 translate Japanese monika_ptod_tip005_a72b7f76:
     m 3eua "じゃあこれも例を見て行きましょうか"
@@ -343,11 +343,11 @@ translate Japanese monika_ptod_tip006_df283c73:
 translate Japanese monika_ptod_tip006_474ad471:
     m 1eua "変数はデータを格納するメモリ位置のことよ"
 
-translate Japanese monika_ptod_tip006_2e8ac513:
-    m "じゃあ変数を作ってみるね"
+translate Japanese monika_ptod_tip006_df868d1e:
+    m "じゃあ変数を作ってみるね。{w=0.1}{nw}"
 
-translate Japanese monika_ptod_tip006_5cd922f7:
-    m 3eua "『{b}変数名{/b} = {b}値{/b}』って書けば変数が作れるんだよ、こんな風に……"
+translate Japanese monika_ptod_tip006_4a90ac68:
+    extend 3eua "『{b}変数名{/b} = {b}値{/b}』って書けば変数が作れるんだよ、こんな風に……"
 
 translate Japanese monika_ptod_tip006_08084383:
     m "「a_number」の部分に、整数の[num_store]が格納されているよ"
@@ -364,20 +364,20 @@ translate Japanese monika_ptod_tip006_9981b4ba:
 translate Japanese monika_ptod_tip006_96343da1:
     m 1eub "これを、変数の代入と呼ぶのよ。イコールの右側にあるもの全部を、イコール左側にある変数のなかに収めちゃうの"
 
-translate Japanese monika_ptod_tip006_76f700d6:
-    m 1eua "代入は、右側から左側へ向かってされるからね。{w=0.3}説明のために、新しく「b_number」って変数を作るね"
+translate Japanese monika_ptod_tip006_5d7291eb:
+    m 1eua "代入は、右側から左側へ向かってされるからね。{w=0.2}説明のために、新しく「b_number」って変数を作るね"
 
-translate Japanese monika_ptod_tip006_6ace34d2:
-    m "代入では、まずイコールの右側の処理が行われて、{w=0.2}それに合うデータの型とそのデータに見合うメモリの量が自動的に選ばれるわ"
+translate Japanese monika_ptod_tip006_361eda9e:
+    m "代入では、まずイコールの右側の処理が行われて、{w=0.1}それに合うデータの型とそのデータに見合うメモリの量が自動的に選ばれるわ"
 
 translate Japanese monika_ptod_tip006_cc4b2175:
     m "設定されたメモリはイコールの左側、変数へ関連付けされるの"
 
-translate Japanese monika_ptod_tip006_5d9afca0:
+translate Japanese monika_ptod_tip006_665767b1:
     m 1eub "Pythonで値が格納された変数を入力すると、その変数の中身を検索して、関連付けられた値がでてくるわけね"
 
-translate Japanese monika_ptod_tip006_13245820:
-    m 3eub "これだと、まずa_numberは[num_store]に置き換わるわね。{w=0.2}そして、[num_store] - [b_num_store] が処理されてb_numberの値になる"
+translate Japanese monika_ptod_tip006_f9814a29:
+    m 3eub "これだと、まずa_numberは[num_store]に置き換わるわね。{w=0.1}そして、[num_store] - [b_num_store] が処理されてb_numberの値になる"
 
 translate Japanese monika_ptod_tip006_a59ec156:
     m 1eua "処理の結果は変数b_numberを入力すれば確認できるわ"
@@ -406,11 +406,11 @@ translate Japanese monika_ptod_tip006_3673c35e:
 translate Japanese monika_ptod_tip006_4fe9839e:
     m "CやJavaのような他の言語では、変数を作るときにはまず型を宣言する必要があるわ"
 
-translate Japanese monika_ptod_tip006_b0f5610e:
-    m "動的型付けは、実行中にも変数は型を変更できるの"
+translate Japanese monika_ptod_tip006_f641e49f:
+    m "動的型付けは、実行中にも変数は型を変更できるの。{w=0.1}{nw}"
 
-translate Japanese monika_ptod_tip006_592be21d:
-    m 1rksdlb "だけど、そのコードは他の人に読みづらいし混乱しやすいから、一般的にはあまり使っちゃダメってことになってるわね"
+translate Japanese monika_ptod_tip006_064f932c:
+    extend 1rksdlb "だけど、そのコードは他の人に読みづらいし混乱しやすいから、一般的にはあまり使っちゃダメってことになってるわね"
 
 translate Japanese monika_ptod_tip006_cc501271:
     m 1eud "ふぅ！{w=0.2} 一気に話しちゃったね！"
@@ -424,7 +424,7 @@ translate Japanese monika_ptod_tip006_55cda276:
 translate Japanese monika_ptod_tip006_1b71b2b4:
     m 1hua "よかった！"
 
-translate Japanese monika_ptod_tip006_6ce9d27b:
+translate Japanese monika_ptod_tip006_ee70e813:
     m 1eksdla "いいんだよ。今回は変数と値について説明したけど、英語だと、creating（作成）、assigning（代入）、setting（設定）って呼ばれたりもするわ"
 
 translate Japanese monika_ptod_tip006_6b0cc034:
