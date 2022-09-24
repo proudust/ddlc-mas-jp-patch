@@ -20,8 +20,8 @@ jobs:
         with:
           ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
-      - name: Checkout `translate` if exists
-        run: gh pr checkout translate
+      - name: Checkout `translate`
+        run: gh pr checkout translate || git switch -c translate
         env:
           GITHUB_TOKEN: ${{ github.token }}
         continue-on-error: true
