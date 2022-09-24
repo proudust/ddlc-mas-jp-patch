@@ -24,7 +24,6 @@ jobs:
         run: gh pr checkout translate || git switch -c translate
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        continue-on-error: true
 
       - name: Get current date
         id: date
@@ -55,7 +54,7 @@ jobs:
           new_branch: translate
 
       - name: Create or Update Pull Request
-        if: ${{ steps.commit.outputs.committed }}
+        if: steps.commit.outputs.committed == 'true'
         run: |
           if [ 'OPEN' != "$(gh pr view translate --json state -q .state 2>/dev/null)" ]; then
             gh pr create \
