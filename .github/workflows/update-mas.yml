@@ -35,10 +35,15 @@ jobs:
           ref: ${{ steps.ghd.outputs.tag }}
           ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           path: ./MonikaModDev
+          fetch-depth: 0
 
-      - name: Git add MAS Update
+      - name: Diff and apply patch
         id: update
-        run: git add './MonikaModDev'
+        run: >-
+          git -C ./MonikaModDev diff
+          "v$(grep -oP '(?<=renpy.config.version = ").+(?=")' ./game/0config.rpy)"
+          '${{ steps.ghd.outputs.tag }}'
+          -- 'Monika After Story/game/0config.rpy' 'Monika After Story/game/options.rpy' | patch -p2
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
@@ -50,3 +55,4 @@ jobs:
           body: |
             この Pull Request は GitHub Actions により自動生成されています。
             毎朝 6 時に Monika After Story 本体の更新を確認し、更新します。
+          labels: automated pr
