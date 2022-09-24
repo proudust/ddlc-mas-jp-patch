@@ -6109,11 +6109,11 @@ translate Japanese monika_metaparents_a13ba6ef:
 translate Japanese monika_metaparents_972b8b56:
     m 1ekc "あの子の場合は、気分次第で暴力も振るうひどい人間のあわれな犠牲者でしかなかったわけだけど。"
 
-translate Japanese monika_metaparents_1c92e534:
-    m 3esd "でも、"
+translate Japanese monika_metaparents_845180e0:
+    m 3esd "でも…… {w=0.3}{nw}"
 
-translate Japanese monika_metaparents_fec2583a:
-    m 3eud "あなたの主人公キャラや、私に、ユリやサヨリ……"
+translate Japanese monika_metaparents_b98b98a7:
+    extend 3eud "あなたの主人公キャラや、私に、ユリやサヨリ……"
 
 translate Japanese monika_metaparents_94f8cb6e:
     m 3euc "誰も親がいるようには思えない。"
@@ -12587,13 +12587,13 @@ translate Japanese monika_timetravel_6ed8585f:
 translate Japanese monika_timetravel_724133cb:
     m 1eub "すべて物語によって変わってくるわね"
 
-translate Japanese monika_timetravel_57daf31c:
+translate Japanese monika_timetravel_3d1a44fa:
     m 3ekc "でも、その中であまり扱われないものが、時間旅行者の愛する人がどんな影響を受けるかって事かしら"
 
-translate Japanese monika_timetravel_ffebb9ac:
+translate Japanese monika_timetravel_b754e91a:
     m 3rksdld "共に時間を旅することが出来なければ、再び会うのは一体いつになるのかしらね？"
 
-translate Japanese monika_timetravel_3c5eec98:
+translate Japanese monika_timetravel_657b68fb:
     m 2ekc "まあ、時間旅行者自身は何かアクシデントに巻き込まれていない限り、知っているかもしれないけど"
 
 translate Japanese monika_timetravel_e008f7c2:
@@ -12605,7 +12605,7 @@ translate Japanese monika_timetravel_603e61a7:
 translate Japanese monika_timetravel_ab4672ff:
     m 4ekd "そんなに長い間待てるもの？"
 
-translate Japanese monika_timetravel_fff12c64:
+translate Japanese monika_timetravel_0c1344a4:
     m "その頃まで彼らは時間旅行者の事を覚えて居られるのかしら？"
 
 translate Japanese monika_timetravel_cd553e9a:
@@ -19842,8 +19842,8 @@ translate Japanese monika_toxin_puzzle_2ba3ea75:
 translate Japanese monika_toxin_puzzle_646e4bc2:
     m 3etu "ほんとう？それじゃあ、考えてみましょうか……"
 
-translate Japanese monika_toxin_puzzle_c29b3988:
-    m 3tfu "あなたに100万ドルあげるわ。条件は……{nw}"
+translate Japanese monika_toxin_puzzle_9cacbc86:
+    m 3tfu "あなたに100万ドルあげるわ。条件は…… {w=0.2}{nw}"
 
 translate Japanese monika_toxin_puzzle_25d53259:
     extend 3hub "アハハ！冗談よ。"
@@ -21091,7 +21091,7 @@ translate Japanese monika_being_herself_cd553e9a:
     m 2dksdlc "……"
 
 translate Japanese monika_being_herself_680e8e9e:
-    m 2ekd "でもね、結局ところさ…… {w=0.3私はただの一人の女の子でしかないんだよ"
+    m 2ekd "でもね、結局ところさ…… {w=0.3}私はただの一人の女の子でしかないんだよ"
 
 translate Japanese monika_being_herself_4ccbe1ae:
     m 7ekc "常に自信を持って行動してたわけじゃない。{w=0.2}みんなと同じで自分の将来を考えるだけですごく不安なってたただの女の子だったんだよ"
@@ -22718,7 +22718,7 @@ translate Japanese monika_sophia_66587ec7:
     m 1eud "ロボットの見た目は女王ネフェルティティとオードリー・ヘプバーン、そしてソフィアを開発した人の妻であるアマンダ・ハンソンをモデルにしているんだけど、{w=0.2}ソフィアは人間のような外見と振る舞いで特に知られているのよ"
 
 translate Japanese monika_sophia_c6c3db2b:
-    m 3eua "ソフィアは人間と同じような手の動きができるし、リアルな表情の変化を60以上もできるし、あらかじめ決められた話題についてになら特定の質問に答えたり会話したりすることもできるんだよ"
+    m 3eua "ソフィアは人間と同じような手の動きができるし、リアルな表情の変化を60種以上もできるし、あらかじめ決められた話題についてになら特定の質問に答えたり会話したりすることもできるんだよ"
 
 translate Japanese monika_sophia_66acad05:
     m 3eub "そしてね、ソフィアは人間の社会的行動も真似るし、人に愛の告白をするよう促すようなこともするんだよ……"
@@ -24284,6 +24284,9 @@ translate Japanese strings:
 
     old "I like it!"
     new "気に入ったよ！"
+
+    old "That {i}was{/i} long."
+    new "すごい長かった"
 
     old "That {i}was{/i} long"
     new "すごい長かった"

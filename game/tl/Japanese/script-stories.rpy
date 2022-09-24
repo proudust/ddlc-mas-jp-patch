@@ -137,19 +137,19 @@ translate Japanese mas_story_grasshoper_b8f550b5:
 translate Japanese mas_story_wind_sun_aa586b7e:
     m 1dsc "北風と太陽は、どちらのほうが強いのか言い争っていました。"
 
-translate Japanese mas_story_wind_sun_c208cb4c:
+translate Japanese mas_story_wind_sun_f23feac5:
     m 1euc "と、そのとき。ふたりは旅人が歩いているのを見つけて、太陽が言います。『俺とお前、どちらのほうが強いのか。あの旅人で決めようじゃないか。』"
 
-translate Japanese mas_story_wind_sun_26e4b097:
+translate Japanese mas_story_wind_sun_7e6325f4:
     m 3efd "『あいつの着ているマントを先に脱がせたほうが勝ちだ。さあやってみろよ。』"
 
-translate Japanese mas_story_wind_sun_0dd75d5e:
+translate Japanese mas_story_wind_sun_0dcd6f37:
     m 3euc "太陽は北風の後ろに下がり、そして北風は旅人にびゅうびゅうと激しく風を吹きつけ始めました。"
 
-translate Japanese mas_story_wind_sun_1a9cd3af:
+translate Japanese mas_story_wind_sun_a638fa8d:
     m 1ekc "しかし、北風が強く吹けば吹くほど、旅人はマントが風に飛ばされないようにしっかりとつかんで離しませんでした。ついに、北風は降参して諦めてしまいました。"
 
-translate Japanese mas_story_wind_sun_d023b390:
+translate Japanese mas_story_wind_sun_4cf0e535:
     m 1euc "次は太陽の番です。太陽は優しく輝き、旅人に陽光を照りつけました。暑さに耐えきれなくなった旅人はすぐにマントを脱ぎ去り、太陽が勝ちましたとさ。"
 
 translate Japanese mas_story_wind_sun_b076e009:
@@ -272,7 +272,7 @@ translate Japanese mas_story_ravel_91c26f2a:
 translate Japanese mas_story_ravel_048eae33:
     m 1tfb "『面白いねえ。』と老婆は笑い、そして老人の願いを叶えてその場から消え去ってしまいました。『1つ目の願いと同じ願い事をするなんてねえ。』"
 
-translate Japanese mas_story_genie_simple_e1d0a18d:
+translate Japanese mas_story_genie_simple_db7aed49:
     m 1eua "あるところに異世界を自由に渡る力を持った魔人がいました。"
 
 translate Japanese mas_story_genie_simple_c4d56969:
@@ -824,7 +824,7 @@ translate Japanese mas_story_o_tei_d62248d8:
 translate Japanese mas_story_o_tei_a4ee2ef2:
     m 4eud "それから長生はこれまでの辛い人生を忘れるために、家を捨て、長い旅に出ようと決心したのでした。"
 
-translate Japanese mas_story_o_tei_c14dfcc0:
+translate Japanese mas_story_o_tei_625e2b0f:
     m 1esc "心を癒やす何かを求めて、長生は国中を旅して回りました。"
 
 translate Japanese mas_story_o_tei_9619d5d9:
@@ -1241,7 +1241,7 @@ translate Japanese mas_scary_story_kuchisake_onna_end_0977410d:
 translate Japanese mas_scary_story_mujina_c6f8a56f:
     m 1esc "ある晩おそくに、年とった商人が仕事を終えて家に向かう道を歩いていました"
 
-translate Japanese mas_scary_story_mujina_1aecf611:
+translate Japanese mas_scary_story_mujina_c9a0e6d0:
     m 3esc "帰り道は小高い丘になっておりましたので、夜はとても暗く、普段は誰ともすれ違わないような道でした"
 
 translate Japanese mas_scary_story_mujina_255f1074:

@@ -19,7 +19,7 @@ translate Japanese _mas_nnsh_4dfea3b9:
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"
 
-translate Japanese _mas_nnsh_57be0ce0:
+translate Japanese _mas_nnsh_cdf916ea:
     m 2lksdla "[player]君はしつこいと思うかもしれないけど"
 
 translate Japanese _mas_nnsh_ed20dbad:
@@ -805,14 +805,14 @@ translate Japanese mas_mood_bored_78c634c8:
 translate Japanese mas_mood_bored_5637b4a0:
     m 2rkc "ピアノで何か演奏して見るのはどうかな……"
 
-translate Japanese mas_mood_bored_505160a7:
-    m 3eub "[display_picked!t]で遊んでみるのはどうかな！"
+translate Japanese mas_mood_bored_1cd037a2:
+    m 3eub "[picked_game_name!t]で遊んでみるのはどうかな！"
 
-translate Japanese mas_mood_bored_9d8e4821:
-    m 4eka "[display_picked!t]で遊んで見る？"
+translate Japanese mas_mood_bored_7a334c8f:
+    m 4eka "[picked_game_name!t]で遊んで見る？"
 
-translate Japanese mas_mood_bored_a020bd93:
-    m 2rkc "[display_picked!t]で遊ぶのはどうかな……"
+translate Japanese mas_mood_bored_45c881a2:
+    m 2rkc "[picked_game_name!t]で遊ぶのはどうかな……"
 
 translate Japanese mas_mood_bored_d882a148:
     m "どうしたいの、[chosen_nickname]君？{nw}"
@@ -1202,11 +1202,20 @@ translate Japanese strings:
     old "Everything's fine."
     new "問題ない"
 
+    old "...upset"
+    new "……怒ってる"
+
+    old "...relieved."
+    new "……安心している"
+
     old "I made it through something difficult."
     new "難題を乗り越えられた"
 
     old "Something I was worried about didn't happen."
     new "心配していたことが起こらなかった"
+
+    old "...excited."
+    new "……興奮している"
 
     old "It is!"
     new "そういうこと！"

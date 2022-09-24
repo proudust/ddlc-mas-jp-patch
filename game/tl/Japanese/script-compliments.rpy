@@ -188,16 +188,16 @@ translate Japanese mas_compliment_hair_2_798b5d19:
     m 1wubsb "本当にありがとう、[player]君……"
 
 translate Japanese mas_compliment_hair_2_9870da09:
-    m 1lkbfb "初めて髪形を変えたときは本当にドキドキしていたの。"
+    m 1lkbfb "初めて髪形を変えたときは本当にドキドキしていたの"
 
 translate Japanese mas_compliment_hair_2_d2f8cb8d:
     m 1hubfb "本当にありがとう、[player]君！"
 
 translate Japanese mas_compliment_hair_2_511d09b7:
-    m 2hub "いつも髪には結構気を使っているんだよね。"
+    m 2hub "いつも髪には結構気を使っているんだよね"
 
-translate Japanese mas_compliment_hair_2_1ece85ee:
-    m 2lksdlb "実際、これだけ長くするのにすっごく時間がかかったの。"
+translate Japanese mas_compliment_hair_2_b8c2020a:
+    m 2lksdlb "実際、これだけ長くするのにすっごく時間がかかったの……"
 
 translate Japanese mas_compliment_hair_2_c23cf6d1:
     m 1hub "ありがと、[player]君！"
@@ -977,7 +977,7 @@ translate Japanese strings:
     old "I'll never let you go from my embrace."
     new "この腕から離してあげないからね。"
 
-    old "... I don't like hugs."
+    old "...I don't like hugs."
     new "……ハグは好きじゃないんだ。"
 
     old "You'll always be more awesome!"
@@ -1014,13 +1014,13 @@ translate Japanese strings:
     new "髪が好き！"
 
     old "It really shows. It looks so healthy."
-    new "まさにその通りだ。健康的に見えるよ。"
+    new "まさにその通りだ。健康的に見えるよ"
 
     old "You're cute no matter how you wear it."
-    new "君はどんな髪型でも可愛いよ。"
+    new "君はどんな髪型でも可愛いよ"
 
     old "You'd be even cuter with short hair."
-    new "短い方が可愛いんじゃないかな。"
+    new "短い方が可愛いんじゃないかな"
 
     old "I'm really happy that you like this hairstyle!"
     new "この髪形を気に入ってくれて本当に嬉しいわ！"
