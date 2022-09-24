@@ -17,13 +17,13 @@ translate Japanese mas_bad_name_input_first_time_bad_name_b02a73c8:
     "彼女を却って困らせちゃうだけだもん……"
 
 translate Japanese mas_bad_name_input_first_time_bad_name_013f379f:
-    "もっと別なものを選んで。"
+    "もっと別なものを選んで"
 
 translate Japanese mas_bad_name_input_first_time_bad_name_9191013e:
     "彼女があなたを気楽に呼びかけはしないでしょう"
 
 translate Japanese mas_bad_name_input_first_time_bad_name_d5fc092f:
-    "代わりのもっと別なものを選んで。"
+    "代わりのもっと別なものを選んで"
 
 translate Japanese strings:
     old "Please don't close the game on me!"
