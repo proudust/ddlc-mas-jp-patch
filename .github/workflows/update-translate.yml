@@ -46,6 +46,7 @@ jobs:
           rm translations.txt translations.zip
 
       - name: Commit translate file
+        id: commit
         uses: EndBug/add-and-commit@v8
         with:
           author_name: github-actions[bot]
@@ -54,6 +55,7 @@ jobs:
           new_branch: translate
 
       - name: Create or Update Pull Request
+        if: steps.commit.outputs.committed
         run: |
           if [ 'OPEN' != "$(gh pr view translate --json state -q .state 2>/dev/null)" ]; then
             gh pr create \
