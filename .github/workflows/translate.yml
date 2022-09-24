@@ -20,11 +20,10 @@ jobs:
         with:
           ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
-      - name: Checkout `translate` if exists
-        run: gh pr checkout translate
+      - name: Checkout `translate`
+        run: gh pr checkout translate || git switch -c translate
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        continue-on-error: true
 
       - name: Get current date
         id: date
@@ -46,6 +45,7 @@ jobs:
           rm translations.txt translations.zip
 
       - name: Commit translate file
+        id: commit
         uses: EndBug/add-and-commit@v8
         with:
           author_name: github-actions[bot]
@@ -54,6 +54,7 @@ jobs:
           new_branch: translate
 
       - name: Create or Update Pull Request
+        if: steps.commit.outputs.committed == 'true'
         run: |
           if [ 'OPEN' != "$(gh pr view translate --json state -q .state 2>/dev/null)" ]; then
             gh pr create \
