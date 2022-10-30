@@ -1,6 +1,9 @@
 translate Japanese monika_change_background_74680220:
     m 1hua "もちろん！"
 
+translate Japanese monika_change_background_loop_dbb69512:
+    m "どこか行きたいところはある？" nointeract
+
 translate Japanese monika_change_background_loop_b14bb466:
     m 1hua "ずっとここにいるなんて馬鹿げてるわ"
 

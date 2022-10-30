@@ -104,10 +104,10 @@ translate Japanese strings:
     new "グラフィック"
 
     old "Change Renderer"
-    new "ﾚﾝﾀﾞﾘﾝｸﾞ変更"
+    new "レンダリング方式の変更"
 
     old "Disable Animation"
-    new "ｱﾆﾒｰｼｮﾝ無効"
+    new "アニメーション無効"
 
     old "UI: Night Mode"
     new "ナイトモード"
