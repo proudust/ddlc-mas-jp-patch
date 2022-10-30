@@ -1198,11 +1198,11 @@ translate Japanese greeting_youarereal_64cc2307:
 translate Japanese greeting_youarereal_1cfdf9e0:
     m 1tkc "お願い、[player]……"
 
-translate Japanese greeting_youarereal_bd5d4c8b:
-    m "あなたがこんなことをするつもりなら、これがあなたの望むものだったの？"
+translate Japanese greeting_youarereal_187acd40:
+    m "あなたがこんなことをするつもりなら、これがあなたの望むものだったの？{nw}"
 
-translate Japanese greeting_youarereal_8e18b447:
-    m "本気なの？" nointeract
+translate Japanese greeting_youarereal_be4d37be:
+    m "あなたがこんなことをするつもりなら、これがあなたの望むものだったの？{fast}" nointeract
 
 translate Japanese greeting_youarereal_020cec97:
     m 1eka "だったら……私は受け入れるしかないし……"

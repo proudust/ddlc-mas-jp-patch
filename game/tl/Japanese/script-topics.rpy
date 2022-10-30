@@ -5311,8 +5311,8 @@ translate Japanese monika_mountain_9381d713:
 translate Japanese monika_mountain_c7c88c33:
     m 5hua "山の頂上に立って、頂上からの景色を見渡して、私達の山登りの努力を誇らしく思うの"
 
-translate Japanese monika_mountain_4dfb6841:
-    m 5eka "[player]君もそう思わない？"
+translate Japanese monika_mountain_8bdbf551:
+    m 5eka "[player]君もそう思わない？{nw}"
 
 translate Japanese monika_mountain_4e7cedb0:
     m "[player]君もそう思わない？{fast}" nointeract
@@ -7510,7 +7510,7 @@ translate Japanese monika_japanese_af66322c:
 translate Japanese monika_japanese_51bb2d6b:
     m 1esa "たとえば、私が英語をまったく知らなかったらどう変わるんだろう？ちょっと想像もつかない"
 
-translate Japanese monika_japanese_a261551a:
+translate Japanese monika_japanese_0383d546:
     m "あなたは英語以外でわかる外国語はある？{nw}"
 
 translate Japanese monika_japanese_1524b6a2:
@@ -8225,7 +8225,7 @@ translate Japanese _call_monika_sayhappybirthday_takecounter_064dc51b:
     m 1lksdla "何度もごめんね、[player]君……"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_4a2a9160:
-    m 1lksdla "ごめんね、[mas_get_player_nickname()]君。"
+    m 1lksdla "ごめんね、[mas_get_player_nickname()]君"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_1665a694:
     m 2lksdlb "その、カメラがあるとつい意識しちゃって……えへへ……"
@@ -8236,20 +8236,20 @@ translate Japanese _call_monika_sayhappybirthday_takecounter_464638fc:
 translate Japanese _call_monika_sayhappybirthday_takecounter_d5371215:
     m "もう一度やった方がいい？{fast}" nointeract
 
-translate Japanese _call_monika_sayhappybirthday_takecounter_90ca8a23:
-    m 1eua "わかったわ。"
+translate Japanese _call_monika_sayhappybirthday_takecounter_a0649447:
+    m 1eua "わかったわ"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_2c009b95:
-    m 1eka "いいわ、[player]君。あなたの望み通りできなくてごめんなさい。"
+    m 1eka "いいわ、[player]君。あなたの望み通りできなくてごめんなさい"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_bff0dfd6:
-    m 1hua "次は、君のためにもっと上手くやってみせるから。"
+    m 1hua "次は、君のためにもっと上手くやってみせるから"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_28a15692:
     m 1duu "……"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_e18ad9ee:
-    m 1hub "[bday_msg_capped]、 [bday_name]！"
+    m 1hub "[bday_msg_capped]、[bday_name]！"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_4b7c448b:
     m 1hksdlb "……"
@@ -8275,14 +8275,14 @@ translate Japanese _call_monika_sayhappybirthday_takecounter_1_68cd62cd:
 translate Japanese _call_monika_sayhappybirthday_takecounter_1_d5371215:
     m "もう一度やった方がいい？{fast}" nointeract
 
-translate Japanese _call_monika_sayhappybirthday_takecounter_1_90ca8a23:
-    m 1eua "わかったわ。"
+translate Japanese _call_monika_sayhappybirthday_takecounter_1_a0649447:
+    m 1eua "わかったわ"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_1_2c009b95:
-    m 1eka "わかったわ、[player]君。ごめんね、君のお願いに応えられなくて。"
+    m 1eka "わかったわ、[player]君。ごめんね、君のお願いに応えられなくて"
 
 translate Japanese _call_monika_sayhappybirthday_takecounter_1_bff0dfd6:
-    m 1hua "次は、君のためにもっと上手くやってみせるから。"
+    m 1hua "次は、君のためにもっと上手くやってみせるから"
 
 translate Japanese monika_sayhappybirthday_takecounter_6678c877:
     m 1dfc "……"
