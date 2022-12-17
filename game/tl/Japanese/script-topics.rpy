@@ -21528,6 +21528,30 @@ translate Japanese monika_eating_meat_87b7f578:
 translate Japanese monika_eating_meat_3b0d2f33:
     m 3eua "何を食べるにしても、私にとって一番大切なことは食べ物がどこから来てるのかってことを少し意識しておくってことよ"
 
+translate Japanese monika_look_into_eyes_7f0633f8:
+    m 3eub "ねえ[player]、ちょっとだけ私の目を見つめてみてくれないかな……"
+
+translate Japanese monika_look_into_eyes_cb911946:
+    m 3hubla "えへへ～"
+
+translate Japanese monika_look_into_eyes_c69e8acb:
+    m 3rksdla "ありがとうね[player]、じっと見つめれば画面の向こうのあなたの美しい瞳が見えるかもってちょっと試してみたの"
+
+translate Japanese monika_look_into_eyes_05fb2e5d:
+    m 1dubsu "ふたりでいると、あなたのその[eye_detail]瞳を思い描がかずにはいられないの……"
+
+translate Japanese monika_look_into_eyes_1e18f742:
+    m 5dubsa "思い描いている間は時間が止まって、その時は抱えている悩みなんか……{w=0.3} 全部消え去っちゃうんだ"
+
+translate Japanese monika_look_into_eyes_ec430b7a:
+    m 5hubfb "……"
+
+translate Japanese monika_look_into_eyes_eda89008:
+    m 5tubfa "本当にありがとう、[player]～"
+
+translate Japanese monika_look_into_eyes_389b7056:
+    m 5kubfu "あなたが一緒にいてくれるから、私はとても安らいでいられるのよ"
+
 translate Japanese monika_introverts_extroverts_e641390b:
     m 1eud "あのさ、[player]？"
 
