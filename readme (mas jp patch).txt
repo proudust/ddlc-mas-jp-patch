@@ -1,4 +1,4 @@
-DDLC Monika After Story 日本語化サブMOD (22/10/30)
+DDLC Monika After Story 日本語化サブMOD (22/12/24)
 ------------------------------------------------------------
 
 
