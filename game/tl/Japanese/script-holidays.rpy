@@ -319,7 +319,7 @@ translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_9aa65e0c:
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_347f328e:
     m 2eub "あのね、これどうかな？"
 
-translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_ea25e19a:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_59f6ffa0:
     m 7tuu "いつもの社長みたいな感じじゃなくて、今日は秘書さんで行こうかなって……"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_2b4bc3c6:
@@ -1379,10 +1379,10 @@ translate Japanese monika_aiwfc_song_138b73da:
     m 3hubfb "{i}{cps=17}ただ{/cps}{cps=11}待ち続ける{w=1}{/cps}{/i}{nw}"
 
 translate Japanese monika_aiwfc_song_63e211a0:
-    m 2eua "{i}{cps=10}I{/cps}{cps=17}北極の{/cps}{cps=10}サンタに{w=0.35}{/cps}{/i}{nw}"
+    m 2eua "{i}{cps=10}{/cps}{cps=17}北極の{/cps}{cps=10}サンタに{w=0.35}{/cps}{/i}{nw}"
 
 translate Japanese monika_aiwfc_song_07fac8a3:
-    m 3eua "{i}{cps=10}To{/cps}{cps=20}リクエストなんて{/cps}{cps=10}送らないし{w=0.5}{/cps}{/i}{nw}"
+    m 3eua "{i}{cps=10}{/cps}{cps=20}リクエストなんて{/cps}{cps=10}送らないし{w=0.5}{/cps}{/i}{nw}"
 
 translate Japanese monika_aiwfc_song_4ccbd33f:
     m 4hub "{i}{cps=18}魔法の{/cps}{cps=10}トナカイの足音を{w=0.5}{/cps}{/i}{nw}"
@@ -1391,7 +1391,7 @@ translate Japanese monika_aiwfc_song_356bdafe:
     m 3hub "{i}{cps=10}聞くために{/cps}{cps=20}起き続ける{/cps}{cps=14}気にもならない{w=1.2}{/cps}{/i}{nw}"
 
 translate Japanese monika_aiwfc_song_0094506e:
-    m 3ekbsa "{i}{cps=20}I{/cps}{cps=11}とにかく、今夜はあなたの側にいたいから{w=0.4}{/cps}{/i}{nw}"
+    m 3ekbsa "{i}{cps=20}{/cps}{cps=11}とにかく、今夜はあなたの側にいたいから{w=0.4}{/cps}{/i}{nw}"
 
 translate Japanese monika_aiwfc_song_cfd75c49:
     m 3ekbfa "{i}{cps=10}私を{/cps}{cps=20}ぎゅって{/cps}{cps=10}抱きしめてくれる{w=1}{/cps}{/i}{nw}"

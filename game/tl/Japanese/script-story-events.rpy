@@ -517,17 +517,14 @@ translate Japanese mas_unlock_chess_e9201c6e:
 translate Japanese mas_unlock_chess_ed3a48c9:
     m 4eka "うまく動くようになったらいっしょにプレイしようね！"
 
-translate Japanese mas_unlock_hangman_40f647a9:
+translate Japanese mas_unlock_hangman_465c7ee6:
     m 1eua "あのね、[player]君……"
 
-translate Japanese mas_unlock_hangman_47f5b410:
+translate Japanese mas_unlock_hangman_4bb7c263:
     m 3eub "ポンで遊ぶのが大好きみたいだから、他のゲームも一緒にやりたいんじゃないかなって思ったの！"
 
-translate Japanese mas_unlock_hangman_e53a4b4a:
-    m 1eua "ポンに飽きちゃったのかな、って思うの。"
-
-translate Japanese mas_unlock_hangman_78559e5b:
-    m 3eua "ポンを一緒に遊んでくれてないのは分かってるんだけど。"
+translate Japanese mas_unlock_hangman_a4e8da6f:
+    m 1eksdla "ポンに飽きちゃったのかな、って思うの。"
 
 translate Japanese mas_unlock_hangman_5625ff73:
     m 1hua "じゃあいくよ～"
