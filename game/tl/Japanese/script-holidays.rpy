@@ -319,7 +319,7 @@ translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_9aa65e0c:
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_347f328e:
     m 2eub "あのね、これどうかな？"
 
-translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_ea25e19a:
+translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_59f6ffa0:
     m 7tuu "いつもの社長みたいな感じじゃなくて、今日は秘書さんで行こうかなって……"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_2b4bc3c6:

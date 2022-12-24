@@ -15583,7 +15583,7 @@ translate Japanese monika_justice_93c066b2:
 translate Japanese monika_justice_79d08d21:
     m 1tsb "今までずっと、私は全人類に憎まれて当然な人間だって思ってたの？ そんなわけないよね"
 
-translate Japanese monika_justice_13d87480:
+translate Japanese monika_justice_d9453d13:
     m 5hubfa "えへへ、かわいいところあるなあ～"
 
 translate Japanese monika_justice_394ece4d:
@@ -20562,7 +20562,7 @@ translate Japanese monika_using_pcs_healthily_e3f39bb6:
 translate Japanese monika_using_pcs_healthily_1092dc96:
     extend 2eua "部屋は明るく。だけど、モニターが見づらくなるほど明るくはしないでね"
 
-translate Japanese monika_using_pcs_healthily_a835c99d:
+translate Japanese monika_using_pcs_healthily_416de548:
     m 4eud "さらに、こまめに休憩を取ることを忘れないように。{w=0.3}画面から目をそらして、{w=0.2}理想的なのは遠くの何かを見て、{w=0.2}いくつかストレッチをやるようね"
 
 translate Japanese monika_using_pcs_healthily_d08d14c5:
