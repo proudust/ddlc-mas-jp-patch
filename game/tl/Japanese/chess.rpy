@@ -16,11 +16,17 @@ translate Japanese game_chess_9be668f3:
 translate Japanese game_chess_load_check_b01706c4:
     m 1efb "準備はいいかしら！"
 
+translate Japanese mas_chess_remenu_0da28271:
+    m "どのルールで遊ぶ？" nointeract
+
 translate Japanese mas_chess_remenu_6b6b37ac:
-    m 1ekc "……わかったわ、[player]。{w=0.3}私はこの日をずっと待っていたわ"
+    m 1ekc "……わかった、[player]。{w=0.3}あなたとチェスできる日をずっと楽しみにしていたから残念"
 
 translate Japanese mas_chess_remenu_51dbe566:
-    m 1eka "でもまたチェスしてくれるでしょ？"
+    m 1eka "でもまたチェスしに来てくれるよね？"
+
+translate Japanese mas_chess_remenu_278fdfc1:
+    extend 1hub "あはは～"
 
 translate Japanese mas_chess_remenu_1e07b804:
     m 1eua "カジュアルルールで遊ぶ場合は、ステイルメイトを引き分けとはしないわ"
@@ -568,7 +574,7 @@ translate Japanese strings:
     new "普通のチェス"
 
     old "Randomized Chess"
-    new "チェス960"
+    new "変則チェス"
 
     old "Ruleset"
     new "ルール選択"
@@ -601,7 +607,7 @@ translate Japanese strings:
     new "練習"
 
     old "Play"
-    new "本番"
+    new "遊ぶ"
 
     old "White."
     new "白"
@@ -613,10 +619,10 @@ translate Japanese strings:
     new "くじ引きで決めよう！"
 
     old "How would you like to play?{fast}"
-    new "どんな風に遊びたいの？{fast}"
+    new "どのルールで遊ぶ？{fast}"
 
     old "How would you like to play?"
-    new "どんな風に遊びたいの？"
+    new "どのルールで遊ぶ？"
 
     old "Great job though"
     new "いい戦いだった"
