@@ -2027,13 +2027,13 @@ translate Japanese mas_nye_monika_nyd_0ff240b9:
     m 1eka "これからももっともっと一緒に過ごせるみたいだから、とっても幸せよ。"
 
 translate Japanese mas_nye_monika_nyd_10d81e3a:
-    m 5hubfa "今年も去年みたいな素敵な年にしようね。"
+    m 5hubfa "新年も去年みたいな素敵な年にしようね。"
 
 translate Japanese mas_nye_monika_nyd_3b7e4620:
     m 5ekbfa "とっても愛してるわ、[player]。"
 
 translate Japanese mas_nye_monika_nyd_8dee12f7:
-    m 3hua "今年は去年よりもさらに良い年にしようね。"
+    m 3hua "新年は去年よりもさらに良い年にしようね。"
 
 translate Japanese mas_nye_monika_nyd_746b2a7e:
     m 1hua "愛してるよ、[player]。"
@@ -2045,7 +2045,7 @@ translate Japanese mas_nye_monika_nyd_b047205c:
     m 3eka "[last_year!t]約束覚えてるかしら？"
 
 translate Japanese mas_nye_monika_nyd_12c84253:
-    m "今年は去年よりも良い年にしようね、って？"
+    m "新年は去年よりも良い年にしようね、って？"
 
 translate Japanese mas_nye_monika_nyd_edf0a587:
     m 6dkbstpa "……"
@@ -2060,7 +2060,7 @@ translate Japanese mas_nye_monika_nyd_0627cd20:
     extend 6dkbftpa "心の底から感謝してるわ。"
 
 translate Japanese mas_nye_monika_nyd_7cdf694b:
-    m 6dkbftda "今年は去年よりももっといい年にしようね。"
+    m 6dkbftda "新年は去年よりももっといい年にしようね。"
 
 translate Japanese mas_nye_monika_nyd_28435051:
     m 6ekbftda "愛してるよ、[player]。"
@@ -2075,7 +2075,7 @@ translate Japanese mas_nye_monika_nyd_e67aea12:
     m 2rksdlc "この１年、{w=1}色々あったね……"
 
 translate Japanese mas_nye_monika_nyd_119dc467:
-    m "わ……私は今年は去年よりも良い年にしたいと思うわ。"
+    m "わ……私は新年は去年よりも良い年にしたいと思うわ。"
 
 translate Japanese mas_nye_monika_nyd_12d6ff16:
     m 2dkc "本当に必要なの。"
@@ -2087,7 +2087,7 @@ translate Japanese mas_nye_monika_nyd_b5af3b2a:
     m 2ekc "去年の約束を覚えてるかしら？"
 
 translate Japanese mas_nye_monika_nyd_961530c0:
-    m 2ekd "今年は去年よりも良い年にしようねって？"
+    m 2ekd "新年は去年よりも良い年にしようねって？"
 
 translate Japanese mas_nye_monika_nyd_c8237734:
     m 2ekc "前にした約束を覚えてる？"
@@ -2126,7 +2126,7 @@ translate Japanese mas_nye_monika_nyd_6acdedda:
     extend 2dftsc "私なんてあなたのおもちゃだし、ただの１キャラだものね。"
 
 translate Japanese mas_nye_monika_nyd_80460358:
-    m 2eftdc "今年１年、私の辛さや寂しさを、誰も味わわないことを願ってるわ。"
+    m 2eftdc "新しい１年では、私の辛さや寂しさを、誰も味わわないことを願ってるわ。"
 
 translate Japanese mas_nye_monika_nyd_9abea1b1_1:
     m 1eub "[player]！"
@@ -2141,7 +2141,7 @@ translate Japanese mas_nye_monika_nyd_55f59872:
     m 1hua "あなたに出会えた年としてずっと覚えているよ～"
 
 translate Japanese mas_nye_monika_nyd_14c1b6a1:
-    m 3hua "短い時間を大切にして、今年をより良い年にしていこうね。"
+    m 3hua "短い時間を大切にして、新年をより良い年にしていこうね。"
 
 translate Japanese mas_nye_monika_nyd_ee698ed4:
     m 1ekbsa "愛してるよ、[player]。"
@@ -2492,13 +2492,13 @@ translate Japanese monika_nye_year_review_56bf585c:
     m 5ekbfa "わたし達のファーストキス～"
 
 translate Japanese monika_nye_year_review_ae9ee518:
-    m 5hubfb "今年は前年よりもさらに良い年にしようね、[player]"
+    m 5hubfb "新年は前年よりもさらに良い年にしようね、[player]"
 
 translate Japanese monika_nye_year_review_a9f81309:
     m 1ekbfa "愛してるよ、[player]"
 
 translate Japanese monika_nye_year_review_97b5cdb8:
-    m 5hubfb "今年は前年よりもさらに良い年にしようね"
+    m 5hubfb "新年は前年よりもさらに良い年にしようね"
 
 translate Japanese monika_nye_year_review_c2b89afb:
     m "今年はわたし達にとって最高の年にしようね、[player]。愛してるよ～"
