@@ -185,7 +185,7 @@ Confused about some features? Take a look at our {a=https://github.com/Monika-Af
 アップデートがインストールされました。Monika After Storyを再起動してください。
 
 SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.html}{i}{u}入手する{/u}{/i}{/a}
-パッチノートを{a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}読む{/u}{/i}{/a}
+パッチノートを読むには{a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}ここ{/u}{/i}{/a}を押してください。
 分からない機能があれば、{a=https://github.com/Monika-After-Story/MonikaModDev/wiki}{i}{u}wikiを参照{/u}{/i}{/a}してください。"""
 
     old "Import DDLC Save Data"
