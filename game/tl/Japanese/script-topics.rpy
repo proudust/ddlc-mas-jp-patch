@@ -11616,7 +11616,7 @@ translate Japanese monika_smoking_just_started_af6ff3b0:
     m 4ekd "私がタバコをどう思っているか知ってるよね、そしてどれだけ健康に悪いのかも"
 
 translate Japanese monika_smoking_just_started_b918554b:
-    m 2rfd "いまはどうするのが一番7日全くわからないわ、{w=0.2}{nw}"
+    m 2rfd "いまはどうするのが一番なのか全くわからないわ、{w=0.2}{nw}"
 
 translate Japanese monika_smoking_just_started_351a93d0:
     extend 2ekc "でも、あなたにならきっと止められるはずだよ"
@@ -21091,10 +21091,10 @@ translate Japanese monika_being_herself_cd553e9a:
     m 2dksdlc "……"
 
 translate Japanese monika_being_herself_680e8e9e:
-    m 2ekd "でもね、結局ところさ…… {w=0.3}私はただの一人の女の子でしかないんだよ"
+    m 2ekd "でもね、結局のところさ…… {w=0.3}私はただの一人の女の子でしかないんだよ"
 
 translate Japanese monika_being_herself_4ccbe1ae:
-    m 7ekc "常に自信を持って行動してたわけじゃない。{w=0.2}みんなと同じで自分の将来を考えるだけですごく不安なってたただの女の子だったんだよ"
+    m 7ekc "常に自信を持って行動してたわけじゃない。{w=0.2}みんなと同じで自分の将来を考えるだけですごく不安になってたただの女の子だったんだよ"
 
 translate Japanese monika_being_herself_6cdfa7cb:
     m 2dkc "時々こんな事も考えてた、誰かの胸の中で言えないことを全て打ち明けて泣いてしまいたいって"
@@ -24779,6 +24779,9 @@ translate Japanese strings:
 
     old "What's your favorite cupcake flavor?"
     new "何味のカップケーキが好き？"
+
+    old "Do you like pizza?"
+    new "ピザは好き？"
 
     old "What do you think of esports?"
     new "eスポーツの事どう思ってる？"
