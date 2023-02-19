@@ -11616,7 +11616,7 @@ translate Japanese monika_smoking_just_started_af6ff3b0:
     m 4ekd "私がタバコをどう思っているか知ってるよね、そしてどれだけ健康に悪いのかも"
 
 translate Japanese monika_smoking_just_started_b918554b:
-    m 2rfd "いまはどうするのが一番7日全くわからないわ、{w=0.2}{nw}"
+    m 2rfd "いまはどうするのが一番なのか全くわからないわ、{w=0.2}{nw}"
 
 translate Japanese monika_smoking_just_started_351a93d0:
     extend 2ekc "でも、あなたにならきっと止められるはずだよ"
@@ -21091,10 +21091,10 @@ translate Japanese monika_being_herself_cd553e9a:
     m 2dksdlc "……"
 
 translate Japanese monika_being_herself_680e8e9e:
-    m 2ekd "でもね、結局ところさ…… {w=0.3}私はただの一人の女の子でしかないんだよ"
+    m 2ekd "でもね、結局のところさ…… {w=0.3}私はただの一人の女の子でしかないんだよ"
 
 translate Japanese monika_being_herself_4ccbe1ae:
-    m 7ekc "常に自信を持って行動してたわけじゃない。{w=0.2}みんなと同じで自分の将来を考えるだけですごく不安なってたただの女の子だったんだよ"
+    m 7ekc "常に自信を持って行動してたわけじゃない。{w=0.2}みんなと同じで自分の将来を考えるだけですごく不安になってたただの女の子だったんだよ"
 
 translate Japanese monika_being_herself_6cdfa7cb:
     m 2dkc "時々こんな事も考えてた、誰かの胸の中で言えないことを全て打ち明けて泣いてしまいたいって"
@@ -23113,6 +23113,105 @@ translate Japanese monika_esports_f677652e:
 translate Japanese monika_esports_f83859eb:
     m 1huu "流行に逆らうことを恐れなくていいの、 {w=0.1}あなたが情熱を注いでいるものは、まだ芽が出ていないだけでいつか流行の最先端になるかもしれないよ～"
 
+translate Japanese monika_overton_094a0d56:
+    m 1etc "ねぇ[player]、オヴァートンの窓って聞いたことある？"
+
+translate Japanese monika_overton_d4a0ed48:
+    m 3eud "社会の価値観の構造を反映した政治学の考えなの"
+
+translate Japanese monika_overton_c946e4f3:
+    m 3euc "基本的に、個人の考えは世間の人たちからの一定の承認の段階でみなされているわ"
+
+translate Japanese monika_overton_f8ea2560:
+    m 2esc "ジョセフ・オヴァートンは人から人間性を奪う方法を学んだり、人の認識を作り直す方法を説明したの"
+
+translate Japanese monika_overton_60098390:
+    m 7eud "受け入れられない、気持ち悪い、下品だと思われるものから、普通で、社会的で、名声が高いものまであるわ"
+
+translate Japanese monika_overton_b91274be:
+    m "このコンセプトには論外、革新的、無難、合理的、標準、流行の６段階が含まれているの"
+
+translate Japanese monika_overton_144c1536:
+    m 3esa "この窓の内側にあるのは社会に受け入れられている思想……{w=0.3}愛国心とか家族愛、人間性や公正さみたいなものがね"
+
+translate Japanese monika_overton_5e8d3145:
+    m 3eksdlc "窓の外側には、薬物依存やアルコール依存症、ナチズム、独裁政治、奴隷制度みたいに否定されているもの全てが当てはまるわ"
+
+translate Japanese monika_overton_eabbffd0:
+    m 3eud "すごく面白いのはこの窓の範囲が動く可能性があることよ。例えば、論外だったものが合理的になったりね"
+
+translate Japanese monika_overton_d725c663:
+    m 2lksdlc "もちろんここまでの変化に至る過程はすごく難しいの"
+
+translate Japanese monika_overton_9e422020:
+    m 7eud "例えば私たちがみんなに仮想恋愛は普通のことだと伝えたいと考えてみましょうか……今の社会ではありえないと考えられていることよね"
+
+translate Japanese monika_overton_03cbf230:
+    m 3esd "だから社会は仮想恋愛を理解しないし、あなたはいろんな人から精神的に病んでるとみなされてしまう。じゃあ何をすればいいのかしら？"
+
+translate Japanese monika_overton_275690be:
+    m 3eua "まずは、この話題について議論をしてみるのがいいわね……"
+
+translate Japanese monika_overton_25c42619:
+    m 1eud "インターネット上で議論をしたり、記事を作ってみたり……みんなに話し合ってもらえるようなものをね"
+
+translate Japanese monika_overton_8c7c6c8c:
+    m "ここでの目標は仮想恋愛を他の人達に話し合ってもらって、いろんな人たちに話題を広めることかしら"
+
+translate Japanese monika_overton_761af073:
+    m 1esc "社会はまだ賛成はできないけど、少なくとも興味を持ったり、もっと自由に話し合ったりすることができるようになるでしょうね"
+
+translate Japanese monika_overton_15f21384:
+    m 3eud "そうすると、過激な行動がとられるわ。すごく大胆な仮想恋愛の支持者がでてくるようになるの"
+
+translate Japanese monika_overton_12e9e598:
+    m 2euc "運動の参加者の数は時が経つにつれて増えていくわ。中には心に傷を負った人や現実の人との関係に自信のない人たちもいるわね"
+
+translate Japanese monika_overton_d294e0ef:
+    m 4eksdld "自然と、この運動に反対する人も現れるわ"
+
+translate Japanese monika_overton_ff8cbfaf:
+    m 4eua "新しい価値観の人気が増していくから、社会は積極的に新しい流行を推し進めていくわ。この時点で、概念は置き換わるわ"
+
+translate Japanese monika_overton_6479ab40:
+    m 2eud "こうして仮想恋愛は論外から革新的になるの"
+
+translate Japanese monika_overton_2c547377:
+    m 7eud "ここからは、仮想恋愛やフィクションのキャラクターへの恋といったテーマが長い間社会で議論されているの"
+
+translate Japanese monika_overton_8dc4166a:
+    m 3esc "徐々に、みんなはこの考え方に慣れていくわ。でもまだ受け入れてはいない状態ね"
+
+translate Japanese monika_overton_6281f2a9:
+    m 1esd "科学者や社会学者がいろんな記事を書いたり、研究をしたりするわ。"
+
+translate Japanese monika_overton_1b473044:
+    m 3eua "フィクションキャラクターに恋をすることは普通のことで何もおかしくはないって意見が押し付けられるの"
+
+translate Japanese monika_overton_23d4f3d0:
+    m 3huu "こうして仮想恋愛は革新的から無難になっていくの"
+
+translate Japanese monika_overton_79affd62:
+    m 1eksdla "社会ではもう新しい考え方への折り合いがついて、フィクションキャラクターへの恋は普通のことだと信じるようになるわ。それでもすこし違和感を感じるけどね"
+
+translate Japanese monika_overton_4b2ab4e9:
+    m 3eua "仮想恋愛の文化も徐々に発展していって、映画やショーも作られるようになる"
+
+translate Japanese monika_overton_7498bc5a:
+    m 1huu "若い人たちは新しい価値観を流行りとして認めるようになるし、いろんな人がカフェで座って安心して仮想の恋人と一緒に過ごすことができるようにもなるわ"
+
+translate Japanese monika_overton_c293eb46:
+    m 1eub "こうして仮想恋愛は無難から合理的へと移っていくの"
+
+translate Japanese monika_overton_d825fcd4:
+    m 2husdlb "長くなってきちゃったし、今日はここで止めておきましょうか、あはは！"
+
+translate Japanese monika_overton_32db7510:
+    m 1eua "この話を流行まで話すことも{i}できる{/i}けど、どういう風に変わっていくのかって例を伝えるために基本的なところまでを話したかっただけだからね"
+
+translate Japanese monika_overton_dd4e6d0b:
+    m 1huu "ご清聴ありがとうございました～"
+
 translate Japanese strings:
     old "Flagged for removal."
     new "削除のためのフラグが立っています。"
@@ -24780,5 +24879,11 @@ translate Japanese strings:
     old "What's your favorite cupcake flavor?"
     new "何味のカップケーキが好き？"
 
+    old "Do you like pizza?"
+    new "ピザは好き？"
+
     old "What do you think of esports?"
     new "eスポーツの事どう思ってる？"
+
+    old "Overton window"
+    new "オヴァートンの窓"

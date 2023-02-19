@@ -16,11 +16,44 @@ translate Japanese game_chess_9be668f3:
 translate Japanese game_chess_load_check_b01706c4:
     m 1efb "準備はいいかしら！"
 
+translate Japanese mas_chess_remenu_0da28271:
+    m "どのルールで遊ぶ？" nointeract
+
 translate Japanese mas_chess_remenu_6b6b37ac:
-    m 1ekc "……わかったわ、[player]。{w=0.3}私はこの日をずっと待っていたわ"
+    m 1ekc "……わかった、[player]。{w=0.3}あなたとチェスできる日をずっと楽しみにしていたから残念"
 
 translate Japanese mas_chess_remenu_51dbe566:
-    m 1eka "でもまたチェスしてくれるでしょ？"
+    m 1eka "でもまたチェスしに来てくれるよね？"
+
+translate Japanese mas_chess_remenu_e87a6bf1:
+    m 1eub "もちろんだよ！{w=0.2}{nw}"
+
+translate Japanese mas_chess_remenu_441eccc5:
+    extend 1eua "まずね、普通のチェスはその名の通り通常ルールだよ"
+
+translate Japanese mas_chess_remenu_2119bcd1:
+    m 3eua "そして変則チェスは、{i}Really Bad Chess{/i}といわれるチェスと同じルールなの"
+
+translate Japanese mas_chess_remenu_8bf8baa4:
+    m 3eub "完全ランダムに駒を並べて、どんな腕前のプレイヤーでも楽しめるように運要素を追加したチェスだよ"
+
+translate Japanese mas_chess_remenu_a701c0b9:
+    m 1eua "チェス 960もランダム要素を入れたルールなんだよ。このルールはフィッシャー・ランダム・チェスとも呼ばれてるの"
+
+translate Japanese mas_chess_remenu_4fe52604:
+    m 3eud "このルールではね、後列の駒だけを並べ替えるんだ。ただし、ビショップは色違いの枡に配置する、キングはふたつのルークの間に配置するって条件の上でね"
+
+translate Japanese mas_chess_remenu_0a2b0e5d:
+    m 4hua "その条件での初期配置のパターンが960通りあることから、チェス960って呼ばれるようになったんだよ"
+
+translate Japanese mas_chess_remenu_dada6bbd:
+    m 1eua "チェス960のいいところはね、プレイヤーはややこしいチェスの初手定跡の学習をすっとばしてチェスの理解度を試すことができることなんだ"
+
+translate Japanese mas_chess_remenu_f696f215:
+    m 1etu "ルール説明はこれで終わり。で、どのチェスがやりたくなったかな？{w=0.3}{nw}"
+
+translate Japanese mas_chess_remenu_278fdfc1:
+    extend 1hub "あはは～"
 
 translate Japanese mas_chess_remenu_1e07b804:
     m 1eua "カジュアルルールで遊ぶ場合は、ステイルメイトを引き分けとはしないわ"
@@ -568,7 +601,7 @@ translate Japanese strings:
     new "普通のチェス"
 
     old "Randomized Chess"
-    new "チェス960"
+    new "変則チェス"
 
     old "Ruleset"
     new "ルール選択"
@@ -601,7 +634,7 @@ translate Japanese strings:
     new "練習"
 
     old "Play"
-    new "本番"
+    new "遊ぶ"
 
     old "White."
     new "白"
@@ -613,10 +646,10 @@ translate Japanese strings:
     new "くじ引きで決めよう！"
 
     old "How would you like to play?{fast}"
-    new "どんな風に遊びたいの？{fast}"
+    new "どのルールで遊ぶ？{fast}"
 
     old "How would you like to play?"
-    new "どんな風に遊びたいの？"
+    new "どのルールで遊ぶ？"
 
     old "Great job though"
     new "いい戦いだった"
