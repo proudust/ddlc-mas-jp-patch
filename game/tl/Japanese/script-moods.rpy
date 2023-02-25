@@ -689,7 +689,7 @@ translate Japanese mas_mood_lazy_a06440bb:
     m 1eka "長い1日を過ごした後は何もしたくなっちゃったかな、[player]？"
 
 translate Japanese mas_mood_lazy_19a7fd27:
-    m 3eka "とにかく今日はもう終リの時間よ……"
+    m 3eka "とにかく今日はもう終わりの時間よ……"
 
 translate Japanese mas_mood_lazy_93ab0895:
     m 3duu "長い1日を過ごして、特に何も差し迫ったものがないなら、座ってリラックスするのが一番ね"
@@ -1120,6 +1120,15 @@ translate Japanese mas_mood_excited_f77ec478:
 translate Japanese mas_mood_excited_34231711:
     m 1hub "なにはともあれ、あなたが元気そうでなによりだよ！"
 
+translate Japanese mas_mood_insecure_eba6c60f:
+    m 2wkd "[player]……"
+
+translate Japanese mas_mood_insecure_c61f257d:
+    m 2dkc "……"
+
+translate Japanese mas_mood_guilty_99c74b8b:
+    m 2wkd "[player]！"
+
 translate Japanese strings:
     old "...like talking about something else."
     new "……他のことに付いて話したい"
@@ -1225,3 +1234,15 @@ translate Japanese strings:
 
     old "I'm not too sure."
     new "なぜかわからないけど興奮してる"
+
+    old "...grateful."
+    new "……感謝している"
+
+    old "...insecure."
+    new "……自信がない"
+
+    old "...loved."
+    new "……愛されてる"
+
+    old "...guilty."
+    new "……罪悪感"

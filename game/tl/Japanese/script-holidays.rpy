@@ -1225,6 +1225,9 @@ translate Japanese mas_d25_spent_time_monika_fb88da9a:
 translate Japanese mas_d25_spent_time_monika_d68c0e32:
     m 1dku "……"
 
+translate Japanese mas_d25_spent_time_monika_5d18b725:
+    m 1ektpu "ずっと言ってるけど、あなたと一緒にいることが……それだけがわたしの望みなの"
+
 translate Japanese mas_d25_spent_time_monika_a25d31b9:
     m 6dktua "本当にあなたは私の世界の全てなの、[player]……{w=1}あなたの愛だけあれば十分"
 

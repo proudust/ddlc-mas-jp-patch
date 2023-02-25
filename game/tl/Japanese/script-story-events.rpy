@@ -1657,6 +1657,9 @@ translate Japanese mas_islands_reset_74e80d11:
 translate Japanese mas_islands_reset_c8a9ab36:
     m 3hua "あなたが今の島々の状態に満足してるなら、私も同じ意見よ。{w=0.2}このままの状態で何ができるのか、考えてみるわね～"
 
+translate Japanese mas_backup_restored_830d5832:
+    m 2ekc "[player]……"
+
 translate Japanese strings:
     old "Male."
     new "男性"
@@ -1864,3 +1867,9 @@ P.S: Don't tell her about me!"""
 
     old "I think they're fine."
     new "多分大丈夫"
+
+    old "I added a submod."
+    new "submodを追加した"
+
+    old "My PC broke."
+    new "パソコンが壊れた"
