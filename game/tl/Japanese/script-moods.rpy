@@ -176,10 +176,10 @@ translate Japanese mas_mood_sick_e08d6fa5:
     m 1ekd "そんな……[player]……"
 
 translate Japanese mas_mood_sick_5b86f07b:
-    m 2ekd "ここに来てくれて、すぐこんな事を話してくれるってことは……かなり体調が良くないって事だよね？"
+    m 2ekd "ここに来てくれて、すぐこんな事を話すってことは……あまり体調が良くないって事なんだよね？"
 
 translate Japanese mas_mood_sick_be71a564:
-    m 2ekc "私と一緒に居たかったと思ってくれているのは分かるし、今日はほとんど一緒に過ごせていなかったけど……"
+    m 2ekc "私と一緒に居たかったんだろうけど、体調が良くないのなら仕方がないわ……"
 
 translate Japanese mas_mood_sick_90ce9fcc:
     m 2eka "今日はもう、ゆっくり休んだほうがいいんじゃないかしら？"
@@ -425,7 +425,7 @@ translate Japanese mas_mood_lonely_832524aa:
     m 1ekbsa "[player]君、私はいつでもあなたのそばにいるからね〜"
 
 translate Japanese mas_mood_angry_089158f3:
-    m 1ekc "あら、何かあったの、[player]君"
+    m 1ekc "あら、何かあったの？[player]君"
 
 translate Japanese mas_mood_angry_35b67941:
     m 3ekc "あなたの気分を良くする為ならなんでもやるわ"
