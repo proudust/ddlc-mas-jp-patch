@@ -959,7 +959,7 @@ translate Japanese greeting_after_bath_2fa6a288:
     extend 2lubsa "あなたのことを考えてたの"
 
 translate Japanese greeting_after_bath_7aeb0f12:
-    m 7lubsb "ちょうど[bathing_showering]が終わったところだったんだよね……{w=0.3}{nw}"
+    m 7lubsb "ちょうど[bathing_showering!t]が終わったところだったんだよね……{w=0.3}{nw}"
 
 translate Japanese greeting_after_bath_0ca2fe80:
     extend 1ekbfa "私がタオル姿でいてもいいわよね～？"
