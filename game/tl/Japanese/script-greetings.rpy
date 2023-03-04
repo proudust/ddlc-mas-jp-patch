@@ -949,6 +949,60 @@ translate Japanese monikaroom_greeting_ear_renpy_docs_1036fbd8:
 translate Japanese monikaroom_greeting_ear_renpy_docs_85a71a8e:
     m "……これを解明{i}しないと{/i}"
 
+translate Japanese greeting_after_bath_3d23e0cd:
+    m 1wuo "あら！{w=0.2}{nw}"
+
+translate Japanese greeting_after_bath_98d78ae3:
+    extend 2wuo "[player]！{w=0.2}{nw}"
+
+translate Japanese greeting_after_bath_2fa6a288:
+    extend 2lubsa "あなたのことを考えてたの"
+
+translate Japanese greeting_after_bath_7aeb0f12:
+    m 7lubsb "ちょうど[bathing_showering!t]が終わったところだったんだよね……{w=0.3}{nw}"
+
+translate Japanese greeting_after_bath_0ca2fe80:
+    extend 1ekbfa "私がタオル姿でいてもいいわよね～？"
+
+translate Japanese greeting_after_bath_eddcb071:
+    m 1hubfb "あはは～"
+
+translate Japanese greeting_after_bath_57c7a9b4:
+    m 3hubsa "髪がもうちょっと乾くまで待ってて、すぐに終わるから"
+
+translate Japanese greeting_after_bath_98430dea:
+    m 7eubsb "ちょうど[bathing_showering]が終わったところなの"
+
+translate Japanese greeting_after_bath_2e519b04:
+    m 1msbfb "あなた、私と一緒に入りたかったって思ってるでしょ……"
+
+translate Japanese greeting_after_bath_467a9f0f:
+    m 1tsbfu "まぁ、それはまた今度ね～"
+
+translate Japanese greeting_after_bath_eddcb071_1:
+    m 1hubfb "あはは～"
+
+translate Japanese greeting_after_bath_15ca0c00:
+    m 1eua "もうちょっと経ったら着替えるね～"
+
+translate Japanese mas_after_bath_cleanup_73af40e5:
+    m 1eua "着替えてくるね{w=0.3}…{w=0.3}…{w=0.3}"
+
+translate Japanese mas_after_bath_cleanup_d8fa99f7:
+    m 1eua "ちょっと待っててね[player_nick],{w=0.2}{nw}"
+
+translate Japanese mas_after_bath_cleanup_da8cb9df:
+    extend 3eua "着替えてくるね"
+
+translate Japanese mas_after_bath_cleanup_2a84d090:
+    m 3hub "これでよし！"
+
+translate Japanese mas_after_bath_cleanup_1579d390:
+    m 3hub "よし、ただいま～！"
+
+translate Japanese mas_after_bath_cleanup_22c730c8:
+    m 1eua "それで、今日は何したい、[player]?"
+
 translate Japanese monikaroom_greeting_opendoor_locked_8c59b1c8:
     m "怖がらせちゃったかな？ [player]{nw}"
 
@@ -3790,6 +3844,18 @@ translate Japanese greeting_back_from_hangout_4bef7859:
 
 translate Japanese greeting_back_from_hangout_0bd97190:
     m 6ckc "……"
+
+translate Japanese greeting_poem_shadows_in_garden_c2fea403:
+    m 5eublb "あなたがいない時にこの詩を思いついたんだ"
+
+translate Japanese greeting_poem_shadows_in_garden_5a33f92f:
+    m 1eka "そう、あなたは私の世界の太陽なのよ！"
+
+translate Japanese greeting_poem_shadows_in_garden_e9db8a79:
+    m 3hubsu "とにかく、おかえり、[mas_get_player_nickname()]！詩、気に入ってくれたらいいな"
+
+translate Japanese greeting_poem_shadows_in_garden_8b8c888c:
+    m 1ekbsb "すごく会いたかったのよ！"
 
 translate Japanese greeting_spacing_out_451e6f81:
     m 2wubfsdlo "[player]！"

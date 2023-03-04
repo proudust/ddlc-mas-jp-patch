@@ -176,10 +176,10 @@ translate Japanese mas_mood_sick_e08d6fa5:
     m 1ekd "そんな……[player]……"
 
 translate Japanese mas_mood_sick_5b86f07b:
-    m 2ekd "ここに来てくれて、すぐこんな事を話してくれるってことは……かなり体調が良くないって事だよね？"
+    m 2ekd "ここに来てくれて、すぐこんな事を話すってことは……あまり体調が良くないって事なんだよね？"
 
 translate Japanese mas_mood_sick_be71a564:
-    m 2ekc "私と一緒に居たかったと思ってくれているのは分かるし、今日はほとんど一緒に過ごせていなかったけど……"
+    m 2ekc "私と一緒に居たかったんだろうけど、体調が良くないのなら仕方がないわ……"
 
 translate Japanese mas_mood_sick_90ce9fcc:
     m 2eka "今日はもう、ゆっくり休んだほうがいいんじゃないかしら？"
@@ -425,7 +425,7 @@ translate Japanese mas_mood_lonely_832524aa:
     m 1ekbsa "[player]君、私はいつでもあなたのそばにいるからね〜"
 
 translate Japanese mas_mood_angry_089158f3:
-    m 1ekc "あら、何かあったの、[player]君"
+    m 1ekc "あら、何かあったの？[player]君"
 
 translate Japanese mas_mood_angry_35b67941:
     m 3ekc "あなたの気分を良くする為ならなんでもやるわ"
@@ -689,7 +689,7 @@ translate Japanese mas_mood_lazy_a06440bb:
     m 1eka "長い1日を過ごした後は何もしたくなっちゃったかな、[player]？"
 
 translate Japanese mas_mood_lazy_19a7fd27:
-    m 3eka "とにかく今日はもう終リの時間よ……"
+    m 3eka "とにかく今日はもう終わりの時間よ……"
 
 translate Japanese mas_mood_lazy_93ab0895:
     m 3duu "長い1日を過ごして、特に何も差し迫ったものがないなら、座ってリラックスするのが一番ね"
@@ -1120,6 +1120,15 @@ translate Japanese mas_mood_excited_f77ec478:
 translate Japanese mas_mood_excited_34231711:
     m 1hub "なにはともあれ、あなたが元気そうでなによりだよ！"
 
+translate Japanese mas_mood_insecure_eba6c60f:
+    m 2wkd "[player]……"
+
+translate Japanese mas_mood_insecure_c61f257d:
+    m 2dkc "……"
+
+translate Japanese mas_mood_guilty_99c74b8b:
+    m 2wkd "[player]！"
+
 translate Japanese strings:
     old "...like talking about something else."
     new "……他のことに付いて話したい"
@@ -1225,3 +1234,15 @@ translate Japanese strings:
 
     old "I'm not too sure."
     new "なぜかわからないけど興奮してる"
+
+    old "...grateful."
+    new "……感謝している"
+
+    old "...insecure."
+    new "……自信がない"
+
+    old "...loved."
+    new "……愛されてる"
+
+    old "...guilty."
+    new "……罪悪感"

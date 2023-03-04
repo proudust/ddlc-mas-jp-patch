@@ -520,6 +520,30 @@ translate Japanese mas_island_bookshelf2_49056641:
 translate Japanese mas_island_bookshelf2_88a83baa:
     m "最高のひと時になりそうだな～"
 
+translate Japanese mas_island_spooky_ambience_799988fb:
+    m "えへへ～、怖い話をするのにはピッタリな時期じゃない？"
+
+translate Japanese mas_island_gravestones_e9a00f13:
+    m "え？"
+
+translate Japanese mas_island_gravestones_3d7913b8:
+    m "……お墓ってなんのこと？意味がよくわからないんだけど"
+
+translate Japanese mas_island_gravestones_e901e997:
+    m "あなたまさか……{w=0.2}ふふふっ"
+
+translate Japanese mas_island_gravestones_30727938:
+    m "あはは！"
+
+translate Japanese mas_island_gravestones_0b1ebf79:
+    m "ごめんなさい、どうしてもやりたくなっちゃって"
+
+translate Japanese mas_island_gravestones_530d6d0f:
+    m "私達がハッピーエンドを迎えてもあの三人がでてきたらかなり怖いんじゃないかしら？"
+
+translate Japanese mas_island_gravestones_add660a9:
+    m "でも考えてたんだけど……ハロウィンに死者を敬う文化もあるのよね"
+
 translate Japanese strings:
     old "I'm not interested."
     new "興味ない"

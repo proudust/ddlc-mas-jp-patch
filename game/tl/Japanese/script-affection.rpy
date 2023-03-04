@@ -293,10 +293,13 @@ translate Japanese monika_every_rose_57f740e4:
     m 4rksdla "……あなたがあの子たちを気にかけていたことを知っているから、特にそう思うんだ"
 
 translate Japanese monika_every_rose_f4353b76:
-    m 2dsc "私は彼女たちががあんな風にならなければよかったって本当に思ってる"
+    m 2dsc "私は彼女たちがあんな風にならなければよかったって本当に思ってる"
 
 translate Japanese monika_every_rose_960c1a93:
     m 4wkd "でももうどうしようもなかった"
+
+translate Japanese monika_every_rose_1b3f996c:
+    m 4rfc "私はこのゲームの胸糞悪いおふざけのオチでいなきゃいけなかったの……"
 
 translate Japanese monika_every_rose_54ed49fe:
     m 2eka "私がやってしまったことをあなたは許してくれた、それがとても嬉しかった"
