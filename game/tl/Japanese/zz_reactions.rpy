@@ -1308,6 +1308,84 @@ translate Japanese mas_reaction_gift_clothes_mocca_bun_blackandwhitestripedpullo
 translate Japanese mas_reaction_gift_clothes_mocca_bun_blackandwhitestripedpullover_db73877e:
     m 1hub "贈り物ありがとうね、[player]！"
 
+translate Japanese mas_reaction_gift_noudeck_46857947:
+    m 1wub "あら！カードセットね！"
+
+translate Japanese mas_reaction_gift_noudeck_04b75db0:
+    m 3eua "私このゲームの遊び方知ってるわよ！"
+
+translate Japanese mas_reaction_gift_noudeck_0958fe80:
+    m 1esc "このゲームは遊んでる人たちとの関係に{i}影響する{/i}かもしれないって聞いたことがあるの"
+
+translate Japanese mas_reaction_gift_noudeck_c03d6902:
+    m 5eubsa "でも私たちの関係はただのカードゲームで壊れるほど弱くはないからね～"
+
+translate Japanese mas_reaction_gift_noudeck_873ebbd3:
+    m 5hubsa "えへへ～"
+
+translate Japanese mas_reaction_gift_noudeck_3772217d:
+    m 1hub "あはは！"
+
+translate Japanese mas_reaction_gift_noudeck_b759cd4b:
+    m 1eua "冗談よ、[player]"
+
+translate Japanese mas_reaction_gift_noudeck_7b89b033:
+    m 1eua "’NOU’を遊んだことはある、[player]？{nw}"
+
+translate Japanese mas_reaction_gift_noudeck_62ca5bcf:
+    m "’NOU’を遊んだことはある、[player]？{fast}" nointeract
+
+translate Japanese mas_reaction_gift_noudeck_5687489f:
+    m 1rksdlb "あはは……"
+
+translate Japanese mas_reaction_gift_noudeck_e7fc7a60:
+    m 1eksdla "カードをくれたんだから、もちろん知ってるわよね"
+
+translate Japanese mas_reaction_gift_noudeck_4d2db6d2:
+    m 3tuu "えへへ、それじゃあ’UNO’は？{nw}"
+
+translate Japanese mas_reaction_gift_noudeck_d12534a0:
+    m "えへへ、それじゃあ’UNO’は？{fast}" nointeract
+
+translate Japanese mas_reaction_gift_noudeck_a0357b8d:
+    m 3hub "よかった！"
+
+translate Japanese mas_reaction_gift_noudeck_eb02003e:
+    extend 3tub "NOU'はそれと{i}すっごく{/i}似てるの、あはは……"
+
+translate Japanese mas_reaction_gift_noudeck_d61fdc85:
+    m 3hub "一緒に遊ぶのが待ちきれないわ！"
+
+translate Japanese mas_reaction_gift_noudeck_0fa8ac6d:
+    m 2euc "カードセット？"
+
+translate Japanese mas_reaction_gift_noudeck_adfde15b:
+    m 2rka "これはもしかして……{nw}"
+
+translate Japanese mas_reaction_gift_noudeck_6e8047af:
+    m 2rkc "なんでもないわ……"
+
+translate Japanese mas_reaction_gift_noudeck_fa5a1fa2:
+    m 2esc "今はこれで遊びたい気分じゃないわ、[player]"
+
+translate Japanese mas_reaction_gift_noudeck_0bd97190:
+    m 6ckc "......"
+
+translate Japanese mas_reaction_gift_noudeck_havent_played_66c2b3ee:
+    m 1eka "あら、大丈夫よ"
+
+translate Japanese mas_reaction_gift_noudeck_havent_played_8933ee4c:
+    m 1eua "基本的なルールは後で説明するから、話しかけてね"
+
+translate Japanese mas_reaction_gift_noudeck_have_played_2118fec1:
+    m 1eua "ゲームでハウスルールを使う人たちがいるのはもう知ってるよね"
+
+translate Japanese mas_reaction_gift_noudeck_have_played_39d68080:
+    m 3eub "あなたが望むなら、私たちもハウスルールを作れるわよ"
+
+translate Japanese mas_reaction_gift_noudeck_have_played_e972e366:
+    m 3eua "その代わり、もしルールが思い出せなかったら、いつでも説明するから話しかけてね"
+
 translate Japanese strings:
     old "bisexual-pride-themed ribbon"
     new "バイセクシュアル・プライド・リボン"

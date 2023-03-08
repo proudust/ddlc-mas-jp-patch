@@ -55,3 +55,9 @@ translate Japanese strings:
 
     old "280 characters? I only need [temp_len]...\n[temp_line]"
     new "280文字で？ 私が必要なのは[temp_len]...\n[temp_line]"
+
+    old "Do you mind if I watch with you?"
+    new "一緒に見てもいい？"
+
+    old "What are we watching today, [player]?"
+    new "今日は何を見ましょうか、[player]？"

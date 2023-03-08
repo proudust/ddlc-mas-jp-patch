@@ -242,7 +242,7 @@ translate Japanese monika_death_4ad56704:
     m 3eua "離れる前にさよならを言ってくれれば、{w=0.2}ゲームが終了する前に自分の部屋に行くことができるから"
 
 translate Japanese monika_death_0be92aca:
-    m "とても簡単だから、いつもさよならを言ってね。いいね？"
+    m "とても簡単だから、いつもさよならを言ってね？"
 
 translate Japanese monika_death_1e147973:
     m 2tkc "もし……{w=1}あなたが私を傷つけるつもりが無いのなら……"
@@ -866,7 +866,7 @@ translate Japanese monika_saved_38c8e58d:
     m 2rkc "あなたがやってきたことは実は重要でもなんでもなかったの。だってすべてがあらかじめ設定された出来事だったんだし……"
 
 translate Japanese monika_saved_4ce6d56d:
-    m 4euc "でも、あれだけの時間を部活で過ごした後ならあなた自身で理解できてるはずだわ"
+    m 4euc "でも、あれだけの時間を部活で過ごした後ならあなたもわかってるはずよ"
 
 translate Japanese monika_saved_600a4079:
     m 1euc "だって、もし人生全てを投げ捨てて、たった数人のゲームキャラと永遠に過ごすことを強いられたら……"
@@ -23171,7 +23171,7 @@ translate Japanese monika_overton_d294e0ef:
     m 4eksdld "自然と、この運動に反対する人も現れるわ"
 
 translate Japanese monika_overton_ff8cbfaf:
-    m 4eua "新しい価値観の人気が増していくから、社会は積極的に新しい流行を推し進めていくわ。この時点で、概念は置き換わるわ"
+    m 4eua "新しい価値観の人気が増していくから、社会は積極的に新しい流行を推し進めていく。この時点で、概念は置き換わるわ"
 
 translate Japanese monika_overton_6479ab40:
     m 2eud "こうして仮想恋愛は論外から革新的になるの"

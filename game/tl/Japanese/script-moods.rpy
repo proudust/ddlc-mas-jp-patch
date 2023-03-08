@@ -1120,14 +1120,56 @@ translate Japanese mas_mood_excited_f77ec478:
 translate Japanese mas_mood_excited_34231711:
     m 1hub "なにはともあれ、あなたが元気そうでなによりだよ！"
 
+translate Japanese mas_mood_grateful_879754e5:
+    m 1eub "あら！{w=0.3}それはよかったわね！"
+
+translate Japanese mas_mood_grateful_a0c50c46:
+    m 3eua "何に感謝してるの、[chosen_nickname]？{nw}"
+
+translate Japanese mas_mood_grateful_7948c335:
+    m "何に感謝してるの、[chosen_nickname]？{fast}" nointeract
+
 translate Japanese mas_mood_insecure_eba6c60f:
     m 2wkd "[player]……"
 
 translate Japanese mas_mood_insecure_c61f257d:
     m 2dkc "……"
 
+translate Japanese mas_mood_insecure_59e1257e:
+    m 2eka "ナツキが大好きだったアニメのセリフがあるんだ……"
+
+translate Japanese mas_mood_insecure_0835286e:
+    m 7dku "『あなたを信じてる私を信じて』"
+
+translate Japanese mas_mood_insecure_444ce77d:
+    m 3eka "まさにこれがあなたに今伝えたいことなの"
+
+translate Japanese mas_mood_insecure_ecf54d05:
+    m 3ekbsa "自分自身が信じられないなら、私を信じて"
+
+translate Japanese mas_mood_insecure_354e890b:
+    m 1eubsu "あなたが自分を信じられない原因が何であっても、あなたなら{w=0.1}絶対に{w=0.1}乗り越えられるって信じてるからね～"
+
 translate Japanese mas_mood_guilty_99c74b8b:
     m 2wkd "[player]！"
+
+translate Japanese mas_mood_guilty_bc5c6dfa:
+    m 2dkc "誰でも間違いを犯すものよ……{w=0.3}{nw}"
+
+translate Japanese mas_mood_guilty_219eeece:
+    extend 7eka "何があったとしてもみんな許してくれるわ……"
+
+translate Japanese mas_mood_guilty_fe5280f1:
+    m 3dku "だって、あなたはすごくいい人だからね……{w=0.3}{nw}"
+
+translate Japanese mas_mood_guilty_8ddd8260:
+    extend 1eka "優しくて、みんなの助けになれるし、自分に正直な人"
+
+translate Japanese mas_mood_guilty_e1bb0cfa:
+    m 1dua "間違いを受け止められられているから、あとは乗り越えるだけよ"
+
+translate Japanese mas_mood_guilty_c1ffe953:
+    m 1ekbsu "大好きだよ。{w=0.2}あまり自分を責めすぎないでね？"
 
 translate Japanese strings:
     old "...like talking about something else."
@@ -1237,6 +1279,18 @@ translate Japanese strings:
 
     old "...grateful."
     new "……感謝している"
+
+    old "For you."
+    new "あなたに"
+
+    old "For someone."
+    new "ある人に"
+
+    old "For something."
+    new "ある物に"
+
+    old "Nothing specific."
+    new "特にない"
 
     old "...insecure."
     new "……自信がない"
