@@ -56,8 +56,35 @@ translate Japanese strings:
     old "280 characters? I only need [temp_len]...\n[temp_line]"
     new "280文字で？ 私が必要なのは[temp_len]...\n[temp_line]"
 
+    old "This is a pretty interesting place...so many skilled people posting their work."
+    new "ここはすごく興味深い所ね…たくさんの熟練した人々が作品を投稿しているわ。"
+
+    old "This is a pretty interesting place...so many skilled people posting their work.\nAre you one of them, [player]?"
+    new "ここはすごく興味深い所ね…たくさんの熟練した人々が作品を投稿しているわ。\nもしかしてあなたもその一人なの？[player]君"
+
+    old "Have you found any good posts, [player]?"
+    new "何かいい投稿を見つけた？[player]君"
+
+    old "Browsing Reddit? Just make sure you don't spend all day looking at memes, okay?"
+    new "Redditを見ているの？一日中ミームを見て過ごさないでね、いい？"
+
+    old "Wonder if there are any subreddits dedicated towards me...\nAhaha, just kidding, [player]."
+    new "私のサブレディットがあるのかしら…\nあはは！冗談よ、[player]君"
+
     old "Do you mind if I watch with you?"
     new "一緒に見てもいい？"
 
     old "What are we watching today, [player]?"
     new "今日は何を見ましょうか、[player]？"
+
+    old "Oh! So you like anime, [player]?"
+    new "まあ！アニメが好きなの？[player]君"
+
+    old "What anime are we watching today, [player]?"
+    new "今日は何のアニメを見ましょうか、[player]？"
+
+    old "Watching some anime, [player]?"
+    new "何かアニメを見ているの、[player]？"
+
+    old "I can't wait to watch anime with you!~"
+    new "あなたと一緒にアニメを見るの待ちきれないわ～！"
