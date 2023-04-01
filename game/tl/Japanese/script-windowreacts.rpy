@@ -69,7 +69,7 @@ translate Japanese strings:
     new "Redditを見ているの？一日中ミームを見て過ごさないでね、いい？"
 
     old "Wonder if there are any subreddits dedicated towards me...\nAhaha, just kidding, [player]."
-    new "私のサブレディットがあるのかしら…\nあはは！冗談よ、[player]君"
+    new "私のサブレディットがあるのかしら……\nあはは！冗談よ、[player]君"
 
     old "Do you mind if I watch with you?"
     new "一緒に見てもいい？"
