@@ -39,7 +39,7 @@ translate Japanese strings:
     new "何か面白いものでも見てるの？ [mas_get_player_nickname()]君"
 
     old "Hey, [player]...what are you looking at?"
-    new "ねぇ、[player]君…あなたは何を見ているの？"
+    new "ねぇ、[player]君……あなたは何を見ているの？"
 
     old "Awww, are you doing something for me?\nYou're so sweet~"
     new "あら、私のために何かしてくれるの？\n優しいわ～"
@@ -54,13 +54,13 @@ translate Japanese strings:
     new "何か面白いことでもないかしら？ [player]君"
 
     old "280 characters? I only need [temp_len]...\n[temp_line]"
-    new "280文字で？ 私が必要なのは[temp_len]...\n[temp_line]"
+    new "280文字で？ 私が必要なのは[temp_len]……\n[temp_line]"
 
     old "This is a pretty interesting place...so many skilled people posting their work."
-    new "ここはすごく興味深い所ね…たくさんの熟練した人々が作品を投稿しているわ。"
+    new "ここはすごく興味深い所ね……たくさんの熟練した人々が作品を投稿しているわ。"
 
     old "This is a pretty interesting place...so many skilled people posting their work.\nAre you one of them, [player]?"
-    new "ここはすごく興味深い所ね…たくさんの熟練した人々が作品を投稿しているわ。\nもしかしてあなたもその一人なの？[player]君"
+    new "ここはすごく興味深い所ね……たくさんの熟練した人々が作品を投稿しているわ。\nもしかしてあなたもその一人なの？[player]君"
 
     old "Have you found any good posts, [player]?"
     new "何かいい投稿を見つけた？[player]君"

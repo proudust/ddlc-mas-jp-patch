@@ -1369,7 +1369,7 @@ translate Japanese mas_reaction_gift_noudeck_fa5a1fa2:
     m 2esc "今はこれで遊びたい気分じゃないわ、[player]"
 
 translate Japanese mas_reaction_gift_noudeck_0bd97190:
-    m 6ckc "......"
+    m 6ckc "……"
 
 translate Japanese mas_reaction_gift_noudeck_havent_played_66c2b3ee:
     m 1eka "あら、大丈夫よ"
