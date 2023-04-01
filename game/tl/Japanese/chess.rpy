@@ -636,10 +636,10 @@ translate Japanese strings:
     old "Play"
     new "遊ぶ"
 
-    old "White."
+    old "White"
     new "白"
 
-    old "Black."
+    old "Black"
     new "黒"
 
     old "Let's draw lots!"

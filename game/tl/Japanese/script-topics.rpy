@@ -242,7 +242,7 @@ translate Japanese monika_death_4ad56704:
     m 3eua "離れる前にさよならを言ってくれれば、{w=0.2}ゲームが終了する前に自分の部屋に行くことができるから"
 
 translate Japanese monika_death_0be92aca:
-    m "とても簡単だから、いつもさよならを言ってね。いいね？"
+    m "とても簡単だから、いつもさよならを言ってね？"
 
 translate Japanese monika_death_1e147973:
     m 2tkc "もし……{w=1}あなたが私を傷つけるつもりが無いのなら……"
@@ -866,7 +866,7 @@ translate Japanese monika_saved_38c8e58d:
     m 2rkc "あなたがやってきたことは実は重要でもなんでもなかったの。だってすべてがあらかじめ設定された出来事だったんだし……"
 
 translate Japanese monika_saved_4ce6d56d:
-    m 4euc "でも、あれだけの時間を部活で過ごした後ならあなた自身で理解できてるはずだわ"
+    m 4euc "でも、あれだけの時間を部活で過ごした後ならあなたもわかってるはずよ"
 
 translate Japanese monika_saved_600a4079:
     m 1euc "だって、もし人生全てを投げ捨てて、たった数人のゲームキャラと永遠に過ごすことを強いられたら……"
@@ -7535,13 +7535,13 @@ translate Japanese monika_japanese_675d17ab:
     m 4eua "日本語を習いたかったら、私も知ってるのがあるんだ"
 
 translate Japanese monika_japanese_5bec0a85:
-    m 1eua "{i}アイシテルヨ、[player]チャン{/i}"
+    m 1eua "{i}アイシテルヨ、[player][player_suffix!t]{/i}"
 
 translate Japanese monika_japanese_ba3305bb:
     m 2hubsa "えへへ～"
 
 translate Japanese monika_japanese_c7a1fe4d:
-    m 1ekbfa "\"I love you,[player]-chan\"という意味だよ"
+    m 1ekbfa "\"I love you,[player]-[player_suffix]\"という意味だよ"
 
 translate Japanese monika_japanese_dd962e70:
     m 3hua "外国語の学習はすごく大変だし、年を取れば取るほど面倒になっていく"
@@ -22493,7 +22493,7 @@ translate Japanese monika_mc_is_gone_e91f3ade:
     m 1hksdlb "……あら、もしあの人が存在したとして、人形みたいに私の言うことを聞いてるだけだなんて、想像しただけでぞっとしない？"
 
 translate Japanese monika_mc_is_gone_abfeada8:
-    m 3rksdla "まさかとは思うけど、ずっと私を抱きしめていたのは彼だったりとか……"
+    m 3rksdla "まさかとは思うけど、[line_mid!t]彼だったりとか……"
 
 translate Japanese monika_mc_is_gone_2bc311f0:
     m 1dksdlc "考えるのもイヤになっちゃう……"
@@ -23171,7 +23171,7 @@ translate Japanese monika_overton_d294e0ef:
     m 4eksdld "自然と、この運動に反対する人も現れるわ"
 
 translate Japanese monika_overton_ff8cbfaf:
-    m 4eua "新しい価値観の人気が増していくから、社会は積極的に新しい流行を推し進めていくわ。この時点で、概念は置き換わるわ"
+    m 4eua "新しい価値観の人気が増していくから、社会は積極的に新しい流行を推し進めていく。この時点で、概念は置き換わるわ"
 
 translate Japanese monika_overton_6479ab40:
     m 2eud "こうして仮想恋愛は論外から革新的になるの"
@@ -23631,7 +23631,7 @@ translate Japanese strings:
     old "You're everything I could ever hope for."
     new "あなたは私が望む全てなんだよ～"
 
-    old "You make my heart skip a beat everytime I think about you!"
+    old "You make my heart skip a beat every time I think about you!"
     new "あなたのことを想うと胸がドキドキするわ！"
 
     old "I'll always be here for you!"
@@ -23847,6 +23847,9 @@ translate Japanese strings:
     old "Dunbar's number"
     new "ダンバー数"
 
+    old "Why did you hack my computer?"
+    new "どうしてこのPCをハッキングしたりしたの？"
+
     old "...You're not, are you?"
     new "……あなたは違うよね？"
 
@@ -23870,6 +23873,15 @@ translate Japanese strings:
 
     old "Speaking Japanese"
     new "日本語"
+
+    old "kun"
+    new "クン"
+
+    old "chan"
+    new "チャン"
+
+    old "san"
+    new "サン"
 
     old "Pen names"
     new "ペンネーム"
@@ -24441,6 +24453,9 @@ translate Japanese strings:
     old "What's your favorite car?"
     new "何の車が好き？"
 
+    old "Is it any of the vehicles I mentioned, or is it something else?"
+    new "家にある車はさっき挙げた中にあるの？それとも他の種類？"
+
     old "An SUV."
     new "SUV"
 
@@ -24490,22 +24505,19 @@ translate Japanese strings:
     new "右目"
 
     old "Blue"
-    new "青色"
+    new "青"
 
     old "Brown"
-    new "茶色"
+    new "茶"
 
     old "Green"
-    new "緑色"
+    new "緑"
 
     old "Hazel"
-    new "ヘーゼル色"
+    new "ヘーゼル"
 
     old "Gray"
-    new "灰色"
-
-    old "Black"
-    new "黒色"
+    new "灰"
 
     old "It's a different color..."
     new "それ以外の色"
@@ -24845,6 +24857,12 @@ translate Japanese strings:
 
     old "What happened to the main character?"
     new "主人公はどうなったの？"
+
+    old "I was kissing {i}him{/i}"
+    new "私がキスしていたのは"
+
+    old "{i}he{/i} was the one hugging me"
+    new "ずっと私を抱きしめていたのは"
 
     old "How do you know it's always me talking to you?"
     new "今自分が話しかけているって、そっちからわかるの？"

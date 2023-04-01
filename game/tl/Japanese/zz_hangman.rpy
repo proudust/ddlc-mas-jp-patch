@@ -107,11 +107,8 @@ translate Japanese strings:
     old "Missed:"
     new "ハズレの文字："
 
-    old "Guess a letter: (Type '?' to repeat the hint, "
-    new "アルファベットを入力してね（「?」でヒント再表示、"
-
-    old "!' to give up"
-    new "「!」でギブアップ）"
+    old "Guess a letter: (Type ?' to repeat the hint, '!' to give up)"
+    new "アルファベットを入力してね（「?」でヒント再表示、「!」でギブアップ）"
 
     old "Easy."
     new "イージー"
@@ -122,8 +119,17 @@ translate Japanese strings:
     old "Hard."
     new "ハード"
 
-    old "{0} would like this word the most."
-    new "{0}が大好きなことばだよ。"
+    old "I would like this word the most."
+    new "私が大好きなことばだよ。"
+
+    old "Sayori would like this word the most."
+    new "サヨリが大好きなことばだよ。"
+
+    old "Natsuki would like this word the most."
+    new "ナツキが大好きなことばだよ。"
+
+    old "Yuri would like this word the most."
+    new "ユリが大好きなことばだよ。"
 
     old "your name"
     new "自分の名前"
