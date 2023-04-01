@@ -545,6 +545,9 @@ translate Japanese mas_island_gravestones_add660a9:
     m "でも考えてたんだけど……ハロウィンに死者を敬う文化もあるのよね"
 
 translate Japanese strings:
+    old "Can you show me the floating islands?"
+    new "浮遊島を見せてほしい"
+
     old "I'm not interested."
     new "興味ない"
 

@@ -23631,7 +23631,7 @@ translate Japanese strings:
     old "You're everything I could ever hope for."
     new "あなたは私が望む全てなんだよ～"
 
-    old "You make my heart skip a beat everytime I think about you!"
+    old "You make my heart skip a beat every time I think about you!"
     new "あなたのことを想うと胸がドキドキするわ！"
 
     old "I'll always be here for you!"
@@ -23846,6 +23846,9 @@ translate Japanese strings:
 
     old "Dunbar's number"
     new "ダンバー数"
+
+    old "Why did you hack my computer?"
+    new "どうしてこのPCをハッキングしたりしたの？"
 
     old "...You're not, are you?"
     new "……あなたは違うよね？"
@@ -24441,6 +24444,9 @@ translate Japanese strings:
     old "What's your favorite car?"
     new "何の車が好き？"
 
+    old "Is it any of the vehicles I mentioned, or is it something else?"
+    new "家にある車はさっき挙げた中にあるの？それとも他の種類？"
+
     old "An SUV."
     new "SUV"
 
@@ -24490,22 +24496,19 @@ translate Japanese strings:
     new "右目"
 
     old "Blue"
-    new "青色"
+    new "青"
 
     old "Brown"
-    new "茶色"
+    new "茶"
 
     old "Green"
-    new "緑色"
+    new "緑"
 
     old "Hazel"
-    new "ヘーゼル色"
+    new "ヘーゼル"
 
     old "Gray"
-    new "灰色"
-
-    old "Black"
-    new "黒色"
+    new "灰"
 
     old "It's a different color..."
     new "それ以外の色"
