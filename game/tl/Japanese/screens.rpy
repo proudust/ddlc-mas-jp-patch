@@ -104,10 +104,10 @@ translate Japanese strings:
     new "グラフィック"
 
     old "Change Renderer"
-    new "レンダリング方式の変更"
+    new "レンダリング変更"
 
     old "Disable Animation"
-    new "アニメーション無効"
+    new "アニメーション切"
 
     old "UI: Night Mode"
     new "ナイトモード"
@@ -142,6 +142,9 @@ translate Japanese strings:
     old "Window Reacts"
     new "ｳｨﾝﾄﾞｳﾘｱｸｼｮﾝ"
 
+    old "Window Detect"
+    new "ウィンドウ検知"
+
     old "Enabling this will allow Monika to see your active window and offer some comments based on what you're doing."
     new "モニカが動作中の他のウィンドウでしていることに基づいて、何かコメントをするかもしれません。"
 
@@ -151,7 +154,7 @@ translate Japanese strings:
     old "Sunset   "
     new "日の入時刻 "
 
-    old "Random Chatter   "
+    old "Random Chatter  "
     new "ランダムな話題"
 
     old "Ambient Volume"
@@ -275,6 +278,9 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
 
     old "Go Back"
     new "戻る"
+
+    old "Search for a conversation..."
+    new "話題を検索……"
 
     old "Please restart Monika After Story."
     new "Monika After Storyを再起動してください。"

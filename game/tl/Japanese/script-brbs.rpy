@@ -730,3 +730,6 @@ translate Japanese strings:
 
     old "My eyes need a break from the screen"
     new "ちょっと画面から目を離してくる"
+
+    old "I'm going to read"
+    new "ちょっと読書をしてくる"

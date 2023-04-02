@@ -708,9 +708,6 @@ translate Japanese strings:
     old "What would you like to play?"
     new "どれで遊びたいのかな？"
 
-    old "What did you have in mind?"
-    new "どれにするか決まった？"
-
     old "Anything specific you'd like to play?"
     new "何か遊びたいのがあったかな？"
 
@@ -719,6 +716,9 @@ translate Japanese strings:
 
     old "Sure, I'm up for a game."
     new "さあ、いつでも良いわよ。"
+
+    old "What did you have in mind?"
+    new "どれにするか決まった？"
 
     old "Sure, I'm up for a game!"
     new "さあ、いつでも良いわよ！"
