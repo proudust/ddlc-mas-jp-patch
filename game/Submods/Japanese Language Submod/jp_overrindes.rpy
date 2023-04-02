@@ -388,6 +388,31 @@ translate Japanese python:
     if config.version in ['0.11.9', '0.12.0', '0.12.1', '0.12.2', '0.12.3', '0.12.4', '0.12.5', '0.12.6', '0.12.7', '0.12.8']:
         MASCalendar._setupDayButtons = _setupDayButtons
 
+# zz_games.rpy
+translate Japanese python in mas_games:
+    # https://github.com/proudust/ddlc-mas-jp-patch/issues/66#issuecomment-1493194550
+    def getGameEVByPrompt(gamename):
+        """
+        Gets the game ev using the prompt of its event (gamename)
+
+        IN:
+            gamename - Name of the game we want to get
+
+        OUT:
+            event object for the game entered if found. None if not found
+        """
+        global game_db
+
+        #Adjust the gamename to be lower prior to looping
+        gamename = gamename.lower()
+
+        #Now search
+        for ev in game_db.itervalues():
+            if renpy.substitute(ev.prompt, translate=False).lower() == gamename:
+                return ev
+        return None
+    getGameEVByPrompt = getGameEVByPrompt
+
 # zz_poems.rpy
 translate Japanese style mas_monika_poem_text:
     font jpfonts.Ruriiro
