@@ -1262,7 +1262,7 @@ translate Japanese strings:
     old "Everything's fine."
     new "問題ない"
 
-    old "...upset"
+    old "...upset."
     new "……怒ってる"
 
     old "...relieved."
