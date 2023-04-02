@@ -148,14 +148,14 @@ translate Japanese strings:
     old "Enabling this will allow Monika to see your active window and offer some comments based on what you're doing."
     new "モニカが動作中の他のウィンドウでしていることに基づいて、何かコメントをするかもしれません。"
 
-    old "Sunrise   "
+    old "Sunrise  "
     new "日の出時刻 "
 
-    old "Sunset   "
+    old "Sunset  "
     new "日の入時刻 "
 
     old "Random Chatter  "
-    new "ランダムな話題"
+    new "ランダムな話題 "
 
     old "Ambient Volume"
     new "外の音量"
