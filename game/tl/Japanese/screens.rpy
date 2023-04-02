@@ -104,10 +104,10 @@ translate Japanese strings:
     new "グラフィック"
 
     old "Change Renderer"
-    new "レンダリング方式の変更"
+    new "レンダリング変更"
 
     old "Disable Animation"
-    new "アニメーション無効"
+    new "アニメーション切"
 
     old "UI: Night Mode"
     new "ナイトモード"
@@ -139,20 +139,20 @@ translate Japanese strings:
     old "Sensitive mode removes content that may be disturbing, offensive,  or considered tasteless."
     new "デリケートモードでは不安を煽る、不快、不適切と思われる話題が表示されないようにします。"
 
-    old "Window Reacts"
-    new "ｳｨﾝﾄﾞｳﾘｱｸｼｮﾝ"
+    old "Window Detect"
+    new "ウィンドウ検知"
 
     old "Enabling this will allow Monika to see your active window and offer some comments based on what you're doing."
     new "モニカが動作中の他のウィンドウでしていることに基づいて、何かコメントをするかもしれません。"
 
-    old "Sunrise   "
+    old "Sunrise  "
     new "日の出時刻 "
 
-    old "Sunset   "
+    old "Sunset  "
     new "日の入時刻 "
 
-    old "Random Chatter   "
-    new "ランダムな話題"
+    old "Random Chatter  "
+    new "ランダムな話題 "
 
     old "Ambient Volume"
     new "外の音量"
@@ -205,9 +205,6 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
 
     old "Alert Filters"
     new "通知フィルター"
-
-    old "Topic Alerts"
-    new "話題の通知"
 
     old "Enables notifications for the selected group."
     new "選択したグループの通知を有効にします"
@@ -275,6 +272,9 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
 
     old "Go Back"
     new "戻る"
+
+    old "Search for a conversation..."
+    new "話題を検索……"
 
     old "Please restart Monika After Story."
     new "Monika After Storyを再起動してください。"

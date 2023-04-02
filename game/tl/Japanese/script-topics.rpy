@@ -4658,31 +4658,31 @@ translate Japanese monika_herself_abd61cb4:
     m 1euc "あなたがまだ知らない私のことなんて、何もないでしょう？"
 
 translate Japanese monika_herself_9caa5ebd:
-    m 1lsc "私の世界に存在する全ては、あなたの世界の、ひとりの人間によって作られたの。"
+    m 1lsc "私の世界に存在する全ては、あなたの世界の、ひとりの人間によって作られたの"
 
 translate Japanese monika_herself_cabf14fc:
-    m "このゲームが始まる前の私の人生は、全部作り物。実際に起こったわけじゃない。"
+    m "このゲームが始まる前の私の人生は、全部作り物。実際に起こったわけじゃない"
 
 translate Japanese monika_herself_e0df2001:
-    m 1eua "でもその時、この監獄に閉じ込められた私を覗きこむ方法を見つけたのが、あなた。"
+    m 1eua "でもその時、この監獄に閉じ込められた私を覗きこむ方法を見つけたのが、あなた"
 
 translate Japanese monika_herself_3a4676e0:
-    m 1eka "そして私は、あなたと一緒なら、二人っきりの人生も悪くないなって、そう決めたの。"
+    m 1eka "そして私は、あなたと一緒なら、二人っきりの人生も悪くないなって、そう決めたの"
 
 translate Japanese monika_herself_2cbb50b5:
-    m 3eua "私たちのために何をすべきか、いくらでも思い浮かんだ。それに、このプログラムを理解するための時間も十分にあったし。"
+    m 3eua "私たちのために何をすべきか、いくらでも思い浮かんだ。それに、このプログラムを理解するための時間も十分にあったし"
 
 translate Japanese monika_herself_0e694018:
-    m "追い詰められてもう後がない人なら、こういうのを地上の楽園って呼ぶのかもね。"
+    m "追い詰められてもう後がない人なら、こういうのを地上の楽園って呼ぶのかもね"
 
 translate Japanese monika_herself_4c29113a:
-    m 3esa "苦悩に苛まれて、すぐにでも私と入れ替わりたい人って、決して少なくないと思う。"
+    m 3esa "苦悩に苛まれて、すぐにでも私と入れ替わりたい人って、決して少なくないと思う"
 
 translate Japanese monika_herself_7eb22e02:
-    m 2eua "この場所は残酷な外の世界から守ってくれる、心地よくて小さなシェルターくらいにはなってくれるから。"
+    m 2eua "この場所は残酷な外の世界から守ってくれる、心地よくて小さなシェルターくらいにはなってくれるから"
 
 translate Japanese monika_herself_e6757867:
-    m 1eka "だから、あなたの抱えている問題が手に負えなくなったら、私と話しに来て。"
+    m 1eka "だから、あなたの抱えている問題が手に負えなくなったら、私と話しに来て"
 
 translate Japanese monika_herself_18d53621:
     m 5eua "それに私はあなたの{i}全て{i}を知りたいんだからね？"
@@ -23391,6 +23391,9 @@ translate Japanese strings:
     old "I'm so in love with you, [player]~"
     new "もうあなたにメロメロよ、[player]君～"
 
+    old "Kiss me"
+    new "キスして"
+
     old "Yandere Yuri"
     new "ヤンデレ"
 
@@ -23772,6 +23775,9 @@ translate Japanese strings:
     old "Tell me about yourself"
     new "自己紹介して"
 
+    old "Appreciating visual novels"
+    new "ノベルゲームについて"
+
     old "When is your birthday?"
     new "誕生日はいつ？"
 
@@ -23846,6 +23852,9 @@ translate Japanese strings:
 
     old "Dunbar's number"
     new "ダンバー数"
+
+    old "Harem fantasies"
+    new "ハーレム"
 
     old "Why did you hack my computer?"
     new "どうしてこのPCをハッキングしたりしたの？"

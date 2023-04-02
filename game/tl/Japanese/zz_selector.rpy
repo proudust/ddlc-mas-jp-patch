@@ -89,6 +89,9 @@ translate Japanese strings:
     old "Show All"
     new "全部見る"
 
+    old "Search for..."
+    new "検索……"
+
     old "Outfit Mode"
     new "着せ替えモード"
 

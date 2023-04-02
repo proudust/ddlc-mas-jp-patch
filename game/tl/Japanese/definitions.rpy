@@ -50,25 +50,25 @@ translate Japanese strings:
     old "heroine"
     new "ヒロイン"
 
-    old "[[Never]"
+    old "[[ Never ]"
     new "[[なし]"
 
-    old "[[Rarely]"
+    old "[[ Rarely ]"
     new "[[稀に]"
 
-    old "[[Occasionally]"
+    old "[[ Occasionally ]"
     new "[[たまに]"
 
-    old "[[Less Often]"
+    old "[[ Less Often ]"
     new "[[控えめ]"
 
-    old "[[Normal]"
+    old "[[ Normal ]"
     new "[[普通]"
 
-    old "[[Often]"
+    old "[[ Often ]"
     new "[[頻繁]"
 
-    old "[[Very Often]"
+    old "[[ Very Often ]"
     new "[[とても頻繁]"
 
     old "morning"
