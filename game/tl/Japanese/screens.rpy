@@ -139,9 +139,6 @@ translate Japanese strings:
     old "Sensitive mode removes content that may be disturbing, offensive,  or considered tasteless."
     new "デリケートモードでは不安を煽る、不快、不適切と思われる話題が表示されないようにします。"
 
-    old "Window Reacts"
-    new "ｳｨﾝﾄﾞｳﾘｱｸｼｮﾝ"
-
     old "Window Detect"
     new "ウィンドウ検知"
 
@@ -208,9 +205,6 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
 
     old "Alert Filters"
     new "通知フィルター"
-
-    old "Topic Alerts"
-    new "話題の通知"
 
     old "Enables notifications for the selected group."
     new "選択したグループの通知を有効にします"

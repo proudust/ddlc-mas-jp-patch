@@ -1,4 +1,10 @@
 translate Japanese strings:
+    old "Topic Alerts"
+    new "話題の通知"
+
+    old "Window Reactions"
+    new "ウィンドウリアクション"
+
     old "[player], I want to talk to you about something."
     new "[player]君、話があるんだけど"
 
