@@ -14552,7 +14552,7 @@ translate Japanese monika_driving_b55c55ba:
     m "徒歩や車で通りすぎたり、ただ見てるだけじゃ何の助けにもならないの"
 
 translate Japanese monika_driving_a94dde0e:
-    m 1dsc "一生運転する機会がないし、誰も知る由もない……"
+    m 1dsc "誰ももう二度と運転できないようになるだなんて分かってくれない……"
 
 translate Japanese monika_driving_ed9df8e4:
     m 1eka "私は絶対にそんなことしないわ、[player]"
@@ -14617,8 +14617,95 @@ translate Japanese monika_driving_cd91234a:
 translate Japanese monika_driving_c0afd6ee:
     m "それ以降運転はしたの？{fast}" nointeract
 
+translate Japanese monika_driving_b2de87f1:
+    m 1eka "大変だったでしょうね…"
+
+translate Japanese monika_driving_dba3ac8e:
+    m 1ekc "交通事故は怖いものよ。特に運転習いたてなんて{i}特に{/i}よ"
+
+translate Japanese monika_driving_f06c22a5:
+    m 1hua "それに負けず、立ち上がって再挑戦できるのは、本当に偉いのよ！"
+
+translate Japanese monika_driving_987f3a53:
+    m 3rksdld "まぁ後処理で費用だったり説明だったり、大きな手間がかかるんだけどね"
+
+translate Japanese monika_driving_87189c17:
+    m 5eua "きっとあなたなら乗り越えられるわ"
+
+translate Japanese monika_driving_2ba846b2:
+    m 5hua "ずっと応援してるから、くれぐれも安全運転でね！"
+
 translate Japanese monika_driving_ad0acea6:
     m 2lksdlc "なるほどね"
+
+translate Japanese monika_driving_e1624db8:
+    m 2ekc "精神的に回復する時間を作るためにも、少し休んでみるといいかもね"
+
+translate Japanese monika_driving_6846da1b:
+    m 2dsc "ただ一つだけ約束して欲しいの、[player]..."
+
+translate Japanese monika_driving_3bf996f2:
+    m 2eka "諦めないで"
+
+translate Japanese monika_driving_1b9471ed:
+    m "きっとこれを乗り越えることができたら、また素敵なドライブができると思うから、あまり気にしすぎないでほしいの"
+
+translate Japanese monika_driving_5bc1b7fe:
+    m "それにちょっとした工夫で、過去は大きく変えれるんだから、次は本当にうまくいくかもしれないわね"
+
+translate Japanese monika_driving_91722a43:
+    m 2hksdlb "まだまだ、たくさん練習が必要だとは思うけど…"
+
+translate Japanese monika_driving_f219e0b1:
+    m 3hua "あなたならできるって信じてるわ！"
+
+translate Japanese monika_driving_f3a77c06:
+    m 1eka "ただ、安全運転すると約束してね"
+
+translate Japanese monika_driving_d64c7cef:
+    m 3eua "全然いいのよ！"
+
+translate Japanese monika_driving_0b89968a:
+    m "運転スキルは絶対に必要っていうわけじゃないわ"
+
+translate Japanese monika_driving_ba874e68:
+    m 1hksdlb "だって、私も運転できないし…"
+
+translate Japanese monika_driving_7e58cf6e:
+    m 3eua "それに、二酸化炭素の排出量も少なくて済むし、私のためにしてくれるなんて、本当にあなたは優しいわね"
+
+translate Japanese monika_driving_36854563:
+    m 5ekbsa "たとえ私が原因じゃなくても、私はその分あなたをもっと好きになってしまうわ～"
+
+translate Japanese monika_driving_898ef6b2:
+    m 3eua "いつか受けれるようになるわ！"
+
+translate Japanese monika_driving_52f9e1f8:
+    m 3euc "それに、実際の教習を兼ねたクラスでの授業を行っているところもあるみたいよ"
+
+translate Japanese monika_driving_785018cf:
+    m 3eud "車には、教官が使える緊急用のコントロールがあるから安全よ"
+
+translate Japanese monika_driving_db066a86:
+    m 1eka "それを使われたら、かなり落胆しちゃうかもしれないけど、みんなそこから始まるの"
+
+translate Japanese monika_driving_22f51f7a:
+    m 3eksdla "…それに、事故に遭うよりは何倍もマシよ！"
+
+translate Japanese monika_driving_51754057:
+    m 1lksdlc "最初から完璧な人間なんていないの、だから失敗しても助けてくれる人がいればいいの"
+
+translate Japanese monika_driving_1a153af3:
+    m 1hub "車のナビに私を入れておけば、運転中の安全も確保できるかもしれないわね！アハハ～"
+
+translate Japanese monika_driving_0e9727ae:
+    m 1hksdlb "もちろん冗談よ、私も運転できないし、何もできないまま事故っているのを見るのは嫌だからやめてね"
+
+translate Japanese monika_driving_6f6349a4:
+    m 1eua "そういう教室に通って、授業を受けるのも、きっと大きな助けになるはずよ"
+
+translate Japanese monika_driving_63c33ce3:
+    m 1hua "とにかく、あなたが運転を習い始めたら、最高の運転ができるようになるのを祈ってるわ！"
 
 translate Japanese monika_driving_d46dcd41:
     m 1hub "愛してるよ～"
@@ -24386,6 +24473,9 @@ translate Japanese strings:
 
     old "I got into an accident once actually..."
     new "実は1度事故に遭って……"
+
+    old "I'm not old enough yet."
+    new "まだそんな年じゃない"
 
     old "Happy ever after?"
     new "めでたしめでたし？"
