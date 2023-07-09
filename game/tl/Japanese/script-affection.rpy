@@ -603,7 +603,7 @@ translate Japanese strings:
     new "なあに、それ？"
 
     old "Go on then."
-    new "なにかあるならどうそ"
+    new "なにかあるならどうぞ"
 
     old "I hope this is important."
     new "意味のあることならいいのだけれど"
