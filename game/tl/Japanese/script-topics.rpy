@@ -23170,6 +23170,42 @@ translate Japanese monika_cupcake_favorite_c1a7614b:
 translate Japanese monika_cupcake_favorite_1ab093b9:
     m 7eka "まあ、あの子がユニークなお菓子を創作してくれて楽しかったからいいんだけどね…… {w=0.3}いつもはあんな態度してる割に本当に優しい子なんだよね～　"
 
+translate Japanese monika_pizza_6b01d970:
+    m 1eub "ピザ？ {w=0.2}ええ、時々食べてるわよ！"
+
+translate Japanese monika_pizza_080e65c9:
+    m 1hua "必ずしも健康的ってわけではないけど、たまのご褒美にはいいわよね"
+
+translate Japanese monika_pizza_91ec6b4c:
+    m 1eub "トッピングもいろいろあるけど、どれもいろんな人に愛されてるのよね……{w=0.3}ヴィーガンの人や乳製品が食べられない人用にチーズ抜きのピザもあるのよ"
+
+translate Japanese monika_pizza_b5a4115f:
+    m 1duc "もし私がお気に入りのトッピングを選ぶとしたら、そうね……{w=0.3}{nw}"
+
+translate Japanese monika_pizza_eb256e47:
+    extend 3hub "きのことか、野菜とかがいいかな。{w=0.2}信じられないかもしれないけど、実はほうれん草も結構美味しいのよ！"
+
+translate Japanese monika_pizza_522df095:
+    m 3eua "……もちろん、プレーンチーズなら間違いはないわよね"
+
+translate Japanese monika_pizza_51c580ce:
+    m 3luc "うーん……"
+
+translate Japanese monika_pizza_cc914855:
+    m 3eud "あなたは他に聞きたいことがあるんでしょうけど……{w=0.2}{nw}"
+
+translate Japanese monika_pizza_62f42ae8:
+    extend 1hksdla "ちょっとがっかりするかもしれないわよ、[player]"
+
+translate Japanese monika_pizza_f1eca83f:
+    m 1hksdlb "パイナップルピザはオンライン上でかなり議論されている話題だけれど、私自身は一度も食べたことがないの"
+
+translate Japanese monika_pizza_61c974c3:
+    m 1lksdlb "だからそういった討論はできないの。ごめんね、[player]！"
+
+translate Japanese monika_pizza_8c3d0359:
+    m 3huu "でもそれっていつかあなたが私の初めての反応を見られるってことだよね"
+
 translate Japanese monika_esports_34fd4f36:
     m 1rtd "うーん、いい質問だね……"
 
