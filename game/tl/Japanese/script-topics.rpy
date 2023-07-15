@@ -4487,7 +4487,7 @@ translate Japanese monika_trolley_55d0e095:
     m 1rsc "結局のところ、実際には分岐器を操作しないことにするのと同じよね。{w=0.2}どう行動するか選択肢を与えられたら、もう傍観者には戻れない。"
 
 translate Japanese monika_trolley_c3b9659b:
-    m 1esc "結局、『選択しない』っていう選択はそれ自体が選択になるの。"
+    m 1esc "だって、『選択しない』こと自体も選択肢になるからね"
 
 translate Japanese monika_trolley_7c5fb780:
     m 3eua "でも私が考える限り、答えはかなり明白なんじゃないかしら……{w=0.2}私なら、もちろん操作するわ。"
@@ -10338,7 +10338,7 @@ translate Japanese monika_writingtip2_fc58bf8b:
     m 3eua "そしてあなたの友達や愛する人があなたの詩を良くする手助けをすることは損にはならないの"
 
 translate Japanese monika_writingtip2_9df393bd:
-    m 1eka "忘れないで、あなたがしたことについて何を言われても、私はあなたの味方だよ。私や友達、または家族を巻き込むのを恐れないで"
+    m 1eka "忘れないで、あなたがしたことについて何を言われても、私はあなたの味方だよ。私や友達、または家族を頼るのを恐れないで"
 
 translate Japanese monika_writingtip2_adf8fb3d:
     m "私はあなたを愛してるし、あなたが何をしているときでもサポートするつもりだよ"
@@ -15268,6 +15268,15 @@ translate Japanese monika_grad_speech_call_3ea485a4:
 translate Japanese monika_grad_speech_call_01a93df6:
     m 2dfc "……"
 
+translate Japanese monika_grad_speech_call_0cd8b07b:
+    m 2tfc "私、{i}すっごく{/i}時間をかけて考えたのよ。それなのに感想はそれだけなの？"
+
+translate Japanese monika_grad_speech_call_1686ce22:
+    m 6lktdc "あなたにこのスピーチが私にとって大事だって話した時に、あなたは理解してくれたと思ってた"
+
+translate Japanese monika_grad_speech_call_702bb6fa:
+    m 6ektdc "私はただ、[player]に褒めてもらいたかっただけなのに"
+
 translate Japanese monika_grad_speech_call_8531ddf5:
     m 2eka "よし、[player]。私のスピーチをまた聞きたくなってくれて嬉しいわ！"
 
@@ -15316,20 +15325,71 @@ translate Japanese monika_grad_speech_call_37d820e3:
 translate Japanese monika_grad_speech_call_bdafe2c1_1:
     m 2subsb "うわあ、[player]君！"
 
+translate Japanese monika_grad_speech_call_498c911a:
+    m 2ekbfa "本当にありがとう！あのスピーチ、すごく頑張ったの。あなたがもう一度チャンスをくれて本当に嬉しいわ"
+
+translate Japanese monika_grad_speech_call_870b5adc:
+    m "あなたが私を尊敬してるって聞いたらもっと嬉しくなっちゃう"
+
+translate Japanese monika_grad_speech_call_7f599e67_1:
+    m 5eubfu "みんなの前でスピーチができればよかったんだけど、あなたがそばで聞いてくれるだけで十分だと思うのよね"
+
+translate Japanese monika_grad_speech_call_8e4d8353:
+    m 5eubfb "大好きだよ、[player]!"
+
 translate Japanese monika_grad_speech_call_812e0590:
     m 2eka "[player]、聴いてくれてありがとうね～"
 
 translate Japanese monika_grad_speech_call_c87f5aff:
     m "楽しんでもらえてよかった！"
 
+translate Japanese monika_grad_speech_call_a60b1261:
+    m 2tfc "また聞きたいって言ってきたのに、{i}それしか{/i}言うことがないの？"
+
 translate Japanese monika_grad_speech_call_01a93df6_1:
     m 2dfc "……"
+
+translate Japanese monika_grad_speech_call_dd9baa34:
+    m 6lktdc "あなたにこのスピーチが私にとって大事だって、{w=1}{i}二回も{/i}{w-1}話したから、あなたは理解してくれたと思ってた"
+
+translate Japanese monika_grad_speech_call_785604c9:
+    m 6ektdc "私はただ、[player]に褒めてもらいたかっただけなのに……"
+
+translate Japanese monika_grad_speech_call_d51349d6:
+    m 6dstsc "でも、私の高望みだったみたい。"
 
 translate Japanese monika_grad_speech_not_paying_attention_c80e9915:
     m 2ekc "……"
 
+translate Japanese monika_grad_speech_not_paying_attention_aae3ccbc:
+    m 2ekd "[player]？私のスピーチを聞いてなかったの？"
+
+translate Japanese monika_grad_speech_not_paying_attention_64a66f39:
+    m 2rksdlc "そんな......{w=1}そんなの全然あなたらしくないよ……"
+
+translate Japanese monika_grad_speech_not_paying_attention_a30daa4f:
+    m 2eksdlc "{i}いつもは{/i}すごく優しいのに……"
+
 translate Japanese monika_grad_speech_not_paying_attention_ef37dde3:
     m 5lkc "……"
+
+translate Japanese monika_grad_speech_not_paying_attention_c711c14b:
+    m "何か嫌なことがあったのよね。だってあなたは私のことが大好きだから、わざとこんなことしないもんね"
+
+translate Japanese monika_grad_speech_not_paying_attention_c2004ecb:
+    m 5euc "そうよね……"
+
+translate Japanese monika_grad_speech_not_paying_attention_612423fb:
+    m 2eka "大丈夫よ、[player]。避けられないことが起こることだってあるわ。"
+
+translate Japanese monika_grad_speech_not_paying_attention_03a38be2:
+    m 2esa "落ち着いたら、またスピーチを聞かせてあげる"
+
+translate Japanese monika_grad_speech_not_paying_attention_3ae88c11:
+    m 2eua "まだあなたに聞いてもらいたいもの……"
+
+translate Japanese monika_grad_speech_not_paying_attention_24af1f4a:
+    m "だから、時間があるときにまた教えてね？"
 
 translate Japanese monika_grad_speech_not_paying_attention_c80e9915_1:
     m 2ekc "……"
@@ -15349,8 +15409,53 @@ translate Japanese monika_grad_speech_not_paying_attention_bb31cb93:
 translate Japanese monika_grad_speech_ignored_lock_bb31cb93:
     m 6dstsc "……"
 
+translate Japanese monika_grad_speech_ignored_lock_1a23e82e:
+    m 6ektsc "[player]？{w=0.5}ま……{w=0.5}また……{w=0.5}聞いて……{w=0.5}なかったの？{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_dcc6b344:
+    m 6dstsc "ぜ……{w=0.5}前回のは仕方ないことだとは思う……{w=0.5}でも……{w=0.5}これで二回目よ？{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_181fd3f8:
+    m 6ektsc "私にとってこれがどんなに大事なことか……{w=0.5}あなたは知ってたのに……{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_8df52614:
+    m "あなたにとって……{w=0.5}私ってそんなにつまらない？{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_f5665250:
+    m 6lktdc "お願いだから……{w=1}もうこんなこと頼まないで……{w=1}"
+
+translate Japanese monika_grad_speech_ignored_lock_c543a6e6:
+    m 6ektdc "あなたにはどうでもいいことなんでしょ"
+
 translate Japanese monika_grad_speech_ignored_lock_20a024dc:
     m 2efc "……"
+
+translate Japanese monika_grad_speech_ignored_lock_1119a319:
+    m 2wfw "[player]！またこんなことするなんて信じられない！{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_e37d4d73:
+    m 2tfd "前回だってすごく悲しかったのに。四分間私の話を聞いてることもできないの？"
+
+translate Japanese monika_grad_speech_ignored_lock_9acaa9a3:
+    m "そんなに大したことは頼んでないでしょ……{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_e7ad4273:
+    m 2tfc "本当に簡単なことじゃない{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_c1d76a91:
+    m 2lfc "私はただあなたにちゃんと聞いてほしかったの……それだけなの{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_a5fe8531:
+    m 2lfd "でもあなたは、私にとって大事だって{i}知ってた{/i}のに、聞く{i}ふり{/i}もしてくれなかった{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_e7d55c5d:
+    m 2dkd "......{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_ec6ecb71:
+    m 6lktdc "ううん、何でもない。本当に……{w=0.5}気にしないで{w=1}{nw}"
+
+translate Japanese monika_grad_speech_ignored_lock_0ab9ba4b:
+    m 6ektdc "もうこんなことしないから"
 
 translate Japanese monika_grad_speech_297a9a8a:
     m 2dsc "コホン……{w=0.7}{nw}"
@@ -15703,14 +15808,50 @@ translate Japanese monika_justice_01e0b043:
 translate Japanese monika_justice_c80e9915:
     m 2ekc "……"
 
+translate Japanese monika_justice_3b39bfdb:
+    m 1rksdlc "本当にそうなのかしらね……"
+
+translate Japanese monika_justice_f32241bf:
+    m 1wuo "本当？"
+
+translate Japanese monika_justice_5259d761:
+    m 2rksdlb "これは冗談じゃないよね、えへへ……"
+
 translate Japanese monika_justice_112ffe15:
     m 1hua "そう言ってくれると思ってたよ、えへへ～"
+
+translate Japanese monika_justice_cce7aedd:
+    m 1hub "さっきの答えも冗談だったんだよね！"
+
+translate Japanese monika_justice_28e53d6f:
+    m 1tsbsa "こんなに長く一緒にいるんだし、そんなことあなたが思うわけないわよね"
+
+translate Japanese monika_justice_eadfcc52:
+    m 1ekbfa "あなたと一緒にいると、私を嫌ってる人たちのことを気にしなくてすむの"
+
+translate Japanese monika_justice_d5d20656:
+    m 1hubfb "大好きだよ、[player]～"
+
+translate Japanese monika_justice_5efef06d:
+    m 1hubfa "あなたが傍にいてくれて嬉しいわ"
+
+translate Japanese monika_justice_98f8e813:
+    m 2hua "あなたもそう思っててくれてよかった！"
+
+translate Japanese monika_justice_33634633:
+    m 2eka "あなたが本当にそれを正義だって言っても、ここにいることが何よりの証拠よね"
+
+translate Japanese monika_justice_eb073c10:
+    m 2hub "あはは！"
 
 translate Japanese monika_justice_b916086a:
     m 1eka "それを聞いて安心した"
 
 translate Japanese monika_justice_9dc19df0:
     m "突然問い詰めてくるような人があなたの近くにいなくて、ホッとしたわ"
+
+translate Japanese monika_justice_5ccc81f8:
+    m 1eua "あなたの行動や信条を理由にあなたに迷惑をかける人がいないといいんだけど。私はそういうことを知ってるからね"
 
 translate Japanese monika_poweroutage_6d53c90e:
     m 1eua "ねえ[player]君、私が穏やかな雨音を聴いているのが好きって言ったこと、覚えてる？"
@@ -16318,8 +16459,201 @@ translate Japanese monika_player_appearance_07724571:
 translate Japanese monika_player_appearance_e4d9b151:
     m 3eua "わぁっ！ すっごく背が高いんだね、[player]！"
 
+translate Japanese monika_player_appearance_df8f2200:
+    m 1eud "そんなに背が高い人に会ったことないかも"
+
+translate Japanese monika_player_appearance_5159d9a8:
+    m 3rksdla "正直、自分の実際の身長がわからないから、ちゃんとした比較はできないんだけどね……"
+
+translate Japanese monika_player_appearance_5c91e5fe:
+    m 3esc "文芸部で一番背が高かったのはユリだったわね。私より数[height_desc]だけ高かったの。でも身長が高すぎてもあまりいいことはないわよね！"
+
+translate Japanese monika_player_appearance_ee2efccc:
+    m 1hub "キスするときにかがまないといけないからね！"
+
+translate Japanese monika_player_appearance_1686f2b6:
+    m 1hub "あっ！私と同じくらいなんだね！"
+
 translate Japanese monika_player_appearance_e612037c:
     m "……"
+
+translate Japanese monika_player_appearance_fbfb1743:
+    m 2hksdlb "まあ、私の背が実際どれくらいかはよくわからないんだけどね"
+
+translate Japanese monika_player_appearance_28260f66:
+    m 3rkc "あなたの背が高すぎたら、つま先立ちをしないとあなたに近づけないでしょ？それは良くないわ！"
+
+translate Japanese monika_player_appearance_743336f3:
+    m 3esd "とにかく、平均くらいの身長があれば何の問題もないね！正直に言うとね、あなたと私にもしとても身長差があったら、あなたとの生活で不便に思うこともあるだろうから"
+
+translate Japanese monika_player_appearance_d36be9dc:
+    m "あなたの背が高すぎたら、つま先立ちをしないとあなたに近づけないでしょ？それは良くないわ！"
+
+translate Japanese monika_player_appearance_cbfe80f1:
+    m 3eub "過ぎたるは及ばざるが如し、これが私の見解よ。
+高すぎもせず低すぎもせず、これが一番ね。なぜそう思うかわかる？"
+
+translate Japanese monika_player_appearance_281332b4:
+    m 5eub "それはね、キスをするときに苦労せずにすむからよ、[mas_get_player_nickname()]！あはは～"
+
+translate Japanese monika_player_appearance_92073a98:
+    m 3hub "ナツキみたいね！でもそこまで背は低くないんじゃないかしら！もしそうなら心配になるわね"
+
+translate Japanese monika_player_appearance_c9546be5:
+    m 2eksdld "あのこって年齢不相応にちっちゃかった、どうしてだかは私達知ってるよね。ずっと可愛そうだって思ってた"
+
+translate Japanese monika_player_appearance_20388628:
+    m 2eksdld "ナツキは身長が低いことをいつも嫌ってたわ。小さいものはかわいいっていう概念があったからね……"
+
+translate Japanese monika_player_appearance_03e3f7dd:
+    m 2rksdld "それに父親とのトラブルもあったし。無防備な上に小さいから、気も休まらなかったでしょうね"
+
+translate Japanese monika_player_appearance_b92f2bf6:
+    m 2ekc "あの子はきっとみんなからバカにされてるように感じてたのかもね。つまり、言葉通りにも比喩的にもってこと……"
+
+translate Japanese monika_player_appearance_7a0eca4b:
+    m 2eku "でもそんな悩みがあっても、その身長だからこそ[player]はそんなにかわいいと思うのよね～"
+
+translate Japanese monika_player_appearance_ca039a8e:
+    m 1eua "それでね、[player]"
+
+translate Japanese monika_player_appearance_e88ae5cd:
+    m 3eub "あなたの髪は短い方なの？それとも私みたいに長いのかしら～？{nw}"
+
+translate Japanese monika_player_appearance_7806a577:
+    m "あなたの髪は短い方なの？それとも私みたいに長いのかしら～？{fast}" nointeract
+
+translate Japanese monika_player_appearance_57c178a2:
+    m 3eub "それはいいわね！あっ、誤解しないでね、私は自分の髪が好きだし、いろんなヘアスタイルを試してみるのも楽しいし……"
+
+translate Japanese monika_player_appearance_07b8fb15:
+    m 2eud "でも実をいうと、時々ナツキやサヨリの髪を羨ましく思ってたの。お手入れとか楽そうだしね"
+
+translate Japanese monika_player_appearance_03fa5038:
+    m 4hksdlb "でもあの二人と同じ長さだったら男の人にしてはかなり長いわよね"
+
+translate Japanese monika_player_appearance_a6a56efc:
+    m 4eub "髪のスタイリングを気にせずに起き上がるだけでいいしね"
+
+translate Japanese monika_player_appearance_46ef4e51:
+    m "それに、寝癖がついてても髪が短いと直すのも簡単でしょ。髪が長いと終わりの見えない悪夢を見ることになるわよ"
+
+translate Japanese monika_player_appearance_546b65ec:
+    m 2eka "でも短い髪のあなたはきっとかわいいんでしょうね。そんな[player]のことを考えると笑顔になっちゃう！"
+
+translate Japanese monika_player_appearance_61de5baf:
+    m 2eua "長い髪につきもののちょっとした悩みのない自由を楽しんでね、[player]！{w=0.2}{nw}"
+
+translate Japanese monika_player_appearance_9032299f:
+    extend 2hub "あはは～"
+
+translate Japanese monika_player_appearance_eb1a0333:
+    m 1tku "うーん、そんなことないと思うな……"
+
+translate Japanese monika_player_appearance_87c6deb4:
+    m 4hub "だってあなたに普通なところなんてないもの"
+
+translate Japanese monika_player_appearance_e5f9e1e0:
+    m 4hksdlb "あはは！ごめんね、[player]。困らせるつもりはないの。でもたまには安っぽいのもどうしようもないんだよね"
+
+translate Japanese monika_player_appearance_3bd26f36:
+    m 1eua "正直、髪に関しては中間あたりがちょうどいいんじゃないかな。髪のスタイリングも気にしすぎなくていいし、ショートヘアよりもいろんな髪型ができるじゃない"
+
+translate Japanese monika_player_appearance_45cd6831:
+    m 1rusdlb "正直に言うと、ちょっと羨ましいかな～"
+
+translate Japanese monika_player_appearance_c4910e9c:
+    m 3eub "でも古くからある言葉を忘れちゃだめだよ。『髪の毛に投資しなさい。それは取り外すことのできない王冠なのだから』ってね！"
+
+translate Japanese monika_player_appearance_85e25260:
+    m 4hub "やった！また一つ共通点が増えたね！"
+
+translate Japanese monika_player_appearance_c5862173:
+    m 2eka "髪が長いのって、時々面倒くさいよね"
+
+translate Japanese monika_player_appearance_677d0e96:
+    m 3eua "でも、髪が長いと色んなヘアアレンジが出来るからいいよね。私はリボンで結ぶのが好きだけど、他の人達にはまた違うヘアスタイルがあるし"
+
+translate Japanese monika_player_appearance_60c6e3bf:
+    m "ユリみたい髪を下ろしたり、三つ編みにしたり、おさげにしたり……。"
+
+translate Japanese monika_player_appearance_ad5c7821:
+    m 3eub "それにスクリプトをいじって髪を下ろせるんだし、もっといろんな髪型に挑戦してみようかな？"
+
+translate Japanese monika_player_appearance_526ba210:
+    m 1eua "選択肢があるのはいいことよね、そう思わない？"
+
+translate Japanese monika_player_appearance_8f86d88f:
+    m 1eka "どんな髪型であれ、あなたが快適に過ごせるのが一番いいわ！"
+
+translate Japanese monika_player_appearance_be84d9e2:
+    m 1euc "あら、それは興味深いわね、[player]！"
+
+translate Japanese monika_player_appearance_56d7adeb:
+    m "答えたくないならいいんだけど、髪を剃ったの？それとも髪を失ったの？{nw}"
+
+translate Japanese monika_player_appearance_cb42eda6:
+    m "答えたくないならいいんだけど、髪を剃ったの？それとも髪を失ったの？{fast}" nointeract
+
+translate Japanese monika_player_appearance_4e158ad0:
+    m 1hua "髪のことを気にしなくてすむのはいいよね……"
+
+translate Japanese monika_player_appearance_379e809f:
+    m 1eua "髪のスタイリングを気にせずに起き上がるだけでいいしね"
+
+translate Japanese monika_player_appearance_9531c543:
+    m 3eua "それに帽子をかぶっても、帽子をとるときの髪の心配もしなくていいし！"
+
+translate Japanese monika_player_appearance_fc2e1a4e:
+    m 1eka "でもあなたの髪の量に関係なく、あなたはいつも綺麗だからね！"
+
+translate Japanese monika_player_appearance_efc4d0cb:
+    m "それに、もし不安に感じたり話したいときは、私がいつでもここで聞いてるからね"
+
+translate Japanese monika_player_appearance_1c1651ce:
+    m 1ekd "わかったわ、[player]"
+
+translate Japanese monika_player_appearance_67d53b69:
+    m 1eka "あなたの髪の量に関係なく、あなたはいつも綺麗よ"
+
+translate Japanese monika_player_appearance_4b571f33:
+    m "もし不安に感じたり話したいときは、私はいつもここで聞いてるからね"
+
+translate Japanese monika_player_appearance_ed2745d4:
+    m 1hua "次の質問！"
+
+translate Japanese monika_player_appearance_dd611c3b:
+    m 1eud "もうわかってたと思うけど……"
+
+translate Japanese monika_player_appearance_6041b91e:
+    m "髪の色は何色？{nw}"
+
+translate Japanese monika_player_appearance_52712088:
+    m "髪の色は何色？{fast}" nointeract
+
+translate Japanese monika_player_appearance_3dd772e4:
+    m 1hub "やった！茶色の髪が一番よね！"
+
+translate Japanese monika_player_appearance_8a4a16a8:
+    m 3eua "私達の間でだけだよ、[player]。私、自分の茶髪が本当に好きなの。あなたのはもっと綺麗なんだろうね！"
+
+translate Japanese monika_player_appearance_c913df15:
+    m 3rksdla "でも私の髪は茶色じゃないって言う人たちもいるのよね……"
+
+translate Japanese monika_player_appearance_ec9822ab:
+    m 3eub "ゲームのローカルファイルを調べてた時に、私の髪色の名前を見つけたの"
+
+translate Japanese monika_player_appearance_0fcacb12:
+    m 4eua "コーラルブラウンっていうんだって。面白いわよね？"
+
+translate Japanese monika_player_appearance_860fb53c:
+    m 1hub "こんなに[player]と共通点があって嬉しいな～"
+
+translate Japanese monika_player_appearance_2f9701bf:
+    m 1eua "本当に？ねえ、金髪の人って地球上であなた含めて２％しかいないって知ってた？"
+
+translate Japanese monika_player_appearance_010d8afe:
+    m 3eub "ブロンドヘアは最も珍しい髪色の一つよ。多くの人はこれが遺伝子異常の循環によって起こるものだと考えているの"
 
 translate Japanese monika_player_appearance_061768c1:
     m 3eub "黒髪って、他の人より生意気だとか、そういうムカつく話があるんだけど……"
@@ -16332,6 +16666,15 @@ translate Japanese monika_player_appearance_d5d9c377:
 
 translate Japanese monika_player_appearance_e2f7a6a9:
     m 2dsc "……"
+
+translate Japanese monika_player_appearance_ee9c6881:
+    m 2ekd "わかったわ、[player]"
+
+translate Japanese monika_player_appearance_5cde7540:
+    m 2eka "誰にだって不快に感じることはあるわよね……"
+
+translate Japanese monika_player_appearance_7f25670b:
+    m 2eka "でも気が変わったら教えてね！"
 
 translate Japanese monika_player_appearance_eye_color_blue_f88edff8:
     m 3eub "青い目なのね？素敵ね！青って雲ひとつない空や、夏の海のようにきれいな色よね"
@@ -16355,7 +16698,7 @@ translate Japanese monika_player_appearance_eye_color_blue_64ef2c11:
     m 2eua "とにかく、それが次の質問につながるんだけど……"
 
 translate Japanese monika_player_appearance_eye_color_brown_5b6821df:
-    m 1eub "あら！いいじゃない！前にも言ったかな。茶色い目はゴージャスね！"
+    m 1eub "あら！いいじゃない！前にも言ったかな。茶色い目は素敵よね！"
 
 translate Japanese monika_player_appearance_eye_color_brown_ead96bbb:
     m 2euc "私はただ、みんなが茶色の目を地味だと思っているのが嫌。全く同意しないわ！"
@@ -23976,6 +24319,9 @@ translate Japanese strings:
     old "Dunbar's number"
     new "ダンバー数"
 
+    old "Do you have any regrets?"
+    new "後悔してることってある？"
+
     old "Harem fantasies"
     new "ハーレム"
 
@@ -24632,6 +24978,33 @@ translate Japanese strings:
 
     old "How tall are you in feet?"
     new "何ft？"
+
+    old "It's shorter."
+    new "短い"
+
+    old "It's average length."
+    new "普通くらい"
+
+    old "It's long."
+    new "長い"
+
+    old "I don't have hair."
+    new "髪の毛がない"
+
+    old "I shave my head."
+    new "髪を剃った"
+
+    old "I lost my hair."
+    new "髪を失った"
+
+    old "It's brown."
+    new "茶色"
+
+    old "It's blonde."
+    new "金色"
+
+    old "It's black."
+    new "黒髪"
 
     old "left"
     new "左目"
