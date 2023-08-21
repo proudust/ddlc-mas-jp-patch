@@ -764,7 +764,7 @@ translate Japanese mas_fun_fact_synesthesia_6752314c:
     m 1esa "ＯＫ、この話が面白そうね……"
 
 translate Japanese mas_fun_fact_synesthesia_db2ab4d3:
-    m 3eua "私達の中には{i}共感覚{/i}という不思議な感覚持つ人がいて、{w=0.1} 感覚の1つが刺激されると、同時に他の感覚も感じるの"
+    m 3eua "私達の中には{i}共感覚{/i}という不思議な感覚を持つ人がいて、{w=0.1} 感覚の1つが刺激されると、同時に他の感覚も感じるの"
 
 translate Japanese mas_fun_fact_synesthesia_e3b6a243:
     m 1hua "言葉だけじゃちょっとわかりにくいよね、えへへ……{w=0.2} じゃあ例を挙げて説明しよう！"
@@ -830,7 +830,7 @@ translate Japanese mas_fun_fact_monochrome_dreams_e5aa39a0:
     m 1esd "今聞かせた話が何を示唆してるかと言うと、たとえ些細なことだとしても、人の心や精神に色々な影響を与えうるということね。"
 
 translate Japanese mas_fun_fact_monochrome_dreams_c04ac450:
-    m 3eua "学ぶべき教訓があるとすれば、[player]君はどのメディアを使って情報を得ていくかというのよくよく考えておくべきだ、ってことかな。"
+    m 3eua "学ぶべき教訓があるとすれば、[player]君はどのメディアを使って情報を得ていくかというのをよくよく考えておくべきだ、ってことかな。"
 
 translate Japanese mas_fun_fact_round_earth_a6309de3:
     m 1rsa "うーん……"
@@ -878,7 +878,7 @@ translate Japanese mas_fun_fact_round_earth_09b9142c:
     m 3euc "でも天体の観測精度が上がるにつれて、地球が宇宙の中心であるという説の辻褄がだんだん合わなくなってくるの"
 
 translate Japanese mas_fun_fact_round_earth_fff48a31:
-    m 1eud "地球が平面だとしたら、金星や火星が日によって見える大きさ違うのはどうしてなのか。その辻褄を合わせるためには、とても複雑な天体モデルを構築するはめになったの"
+    m 1eud "地球が平面だとしたら、金星や火星が日によって見える大きさが違うのはどうしてなのか。その辻褄を合わせるためには、とても複雑な天体モデルを構築するはめになったの"
 
 translate Japanese mas_fun_fact_round_earth_1b89d6b5:
     m 3eua "そして前に言ったように、太陽ですらも宇宙の中心ではない、{nw}"

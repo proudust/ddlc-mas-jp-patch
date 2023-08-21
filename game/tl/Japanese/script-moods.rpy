@@ -16,8 +16,11 @@ translate Japanese _mas_nnsh_f8bf3835:
 translate Japanese _mas_nnsh_4dfea3b9:
     m "でもそれは無理だから、体に良い物を食べて来なさい？"
 
+translate Japanese _mas_nnsh_ce87235e:
+    m 3eub "自分の体に気を使うのはとても大事なことよ。"
+
 translate Japanese _mas_nnsh_f0874062:
-    m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を保つためには野菜以外のあらゆる食べ物も欠かせないの。"
+    m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を摂るためには野菜以外のあらゆる食べ物も欠かせないの。"
 
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"
@@ -1132,8 +1135,17 @@ translate Japanese mas_mood_grateful_a0c50c46:
 translate Japanese mas_mood_grateful_7948c335:
     m "何に感謝してるの、[chosen_nickname]？{fast}" nointeract
 
+translate Japanese mas_mood_grateful_d6de0489:
+    m 3eka "ああ、それは素晴らしいわ！"
+
 translate Japanese mas_mood_grateful_b863275c:
-    m 1hua "あなたの生活を支えてくれる人がいるなんて本当に嬉しいわ"
+    m 1hua "あなたの生活を支えてくれる人がいるなんて、本当に嬉しいわ"
+
+translate Japanese mas_mood_grateful_d29bdf23:
+    m 1huu "何にせよ、本当に嬉しいわ、[mas_get_player_nickname()]～"
+
+translate Japanese mas_mood_grateful_c6420c0b:
+    m 3hub "それはよかった、 [mas_get_player_nickname()]！"
 
 translate Japanese mas_mood_grateful_gratefulforyou_f2762886:
     m 3ekbla "大好きよ、[player]君～"

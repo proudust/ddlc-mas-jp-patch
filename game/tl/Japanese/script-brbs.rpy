@@ -726,7 +726,7 @@ translate Japanese strings:
     new "ちょっと宿題をしてくる"
 
     old "I'm going to work on something"
-    new "ちょっと何かに取り組んでくる"
+    new "ちょっと作業してくる"
 
     old "My eyes need a break from the screen"
     new "ちょっと画面から目を離してくる"

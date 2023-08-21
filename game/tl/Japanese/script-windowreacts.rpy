@@ -56,6 +56,9 @@ translate Japanese strings:
     old "280 characters? I only need [temp_len]...\n[temp_line]"
     new "280文字で？ 私が必要なのは[temp_len]……\n[temp_line]"
 
+    old "I wonder if people have drawn art of me...\nMind looking for some?\nBe sure to keep it wholesome though~"
+    new "誰かが私の絵を書いてくれたかな……\nちょっと探してみない？\nあ、健全なものよ！"
+
     old "This is a pretty interesting place...so many skilled people posting their work."
     new "ここはすごく興味深い所ね……たくさんの熟練した人々が作品を投稿しているわ。"
 
@@ -71,11 +74,38 @@ translate Japanese strings:
     old "Wonder if there are any subreddits dedicated towards me...\nAhaha, just kidding, [player]."
     new "私のサブレディットがあるのかしら……\nあはは！冗談よ、[player]君"
 
+    old "Maybe we could watch anime together someday, [player]~"
+    new "いつか一緒にアニメを見られるかもね、[player]～"
+
+    old "So you like anime and manga, [player]?"
+    new "[player]はアニメや漫画が好きなの？"
+
+    old "I'd love to watch a romance movie with you [player]!"
+    new "[player]と一緒に恋愛映画を観たいわ！"
+
+    old "What are we watching today, [player]?"
+    new "[player]、今日は何を観ているの？"
+
+    old "What are you going to watch [play"
+    new "何を観るつもりなの、[player]？"
+
+    old "Watching a stream, [player]?"
+    new "配信を見ているのかな、[player]？"
+
     old "Do you mind if I watch with you?"
     new "一緒に見てもいい？"
 
-    old "What are we watching today, [player]?"
-    new "今日は何を見ましょうか、[player]？"
+    old "Writing a story?"
+    new "物語を書くの？"
+
+    old "Taking notes, [player]?"
+    new "メモを取るの、[player]？"
+
+    old "Writing a poem?"
+    new "詩を書くのかな？"
+
+    old "Writing a love letter?~"
+    new "ラブレターを書いてくれるの？"
 
     old "Oh! So you like anime, [player]?"
     new "まあ！アニメが好きなの？[player]君"
@@ -87,4 +117,4 @@ translate Japanese strings:
     new "何かアニメを見ているの、[player]？"
 
     old "I can't wait to watch anime with you!~"
-    new "あなたと一緒にアニメを見るの待ちきれないわ～！"
+    new "あなたと一緒にアニメを見るのが待ちきれないわ～！"
