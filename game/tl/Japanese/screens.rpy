@@ -216,7 +216,7 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     new "ブックマーク"
 
     old "Derandom"
-    new "デランダム"
+    new "ランダムから除外"
 
     old "Screenshot"
     new "スクリーンショット"

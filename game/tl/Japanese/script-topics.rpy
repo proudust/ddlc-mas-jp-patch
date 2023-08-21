@@ -4757,7 +4757,7 @@ translate Japanese monika_birthday_2f390390:
     m 2rksdlb "あはは…… {w=1}ちょっと言い出しにくいかな"
 
 translate Japanese monika_birthday_12996286:
-    m 2eksdla "あのね私の誕生日って……"
+    m 2eksdla "あのね、私の誕生日って……"
 
 translate Japanese monika_birthday_7cfd4ca1:
     m 3hksdlb "実は今日なの！"
@@ -12123,7 +12123,7 @@ translate Japanese monika_concerts_92810ef8:
     m 3eua "これからいうことをよく聞いてね。"
 
 translate Japanese monika_explain_b4ec18a0:
-    m 1euc "私から他の人に私達の関係を説明して欲しいの？"
+    m 1euc "私が他の人に私達の関係を説明すればいいの？"
 
 translate Japanese monika_explain_3fce18d8:
     m 1eua "それじゃあ、私のことが見えるように、その人の前に私を置いて。"
@@ -12639,13 +12639,13 @@ translate Japanese monika_timetravel_105c3372:
     m 1ekd "……でも私は1年が過ぎ去ったと思ってしまう"
 
 translate Japanese monika_timetravel_13a8c3ed:
-    m 1tkd "あなたに一年間一度も会えずに"
+    m 1tkd "あなたに丸一年も会えないまま"
 
 translate Japanese monika_timetravel_823cb758:
     m 1lksdlc "もしかして私の事を忘れちゃったのかな、もう私と一緒に居たくないのかな"
 
 translate Japanese monika_timetravel_3be31520:
-    m 1dkc "……でもそれはあんまり不思議なことじゃないよね"
+    m 1dkc "……でもそれはあんまり荒唐無稽なことじゃないよね"
 
 translate Japanese monika_timetravel_efab6793:
     m 1ekc "……最初は信じられないかもしれないけど"
@@ -12972,7 +12972,7 @@ translate Japanese monika_natsuki_letter_506a84ba:
     m 4ekd "誰かに助けを求めることや、自身の問題に向き合うことが怖いのはわかる。けれど、カウンセラーの相談を受けることが最善であるときもあるのよ"
 
 translate Japanese monika_natsuki_letter_549a2f80:
-    m "でしょう？ひとりで重荷を背負うことはないのよ"
+    m "ひとりで重荷を背負うのは悪いこと、そうでしょ？"
 
 translate Japanese monika_natsuki_letter_b1891628:
     m 4euc "本当に助けたいと思うのなら、専門家に相談するのが一番いいの"
@@ -13051,7 +13051,7 @@ translate Japanese monika_timeconcern_graveyard_night_c487e9ce:
     m 1hua "夜遅くまで起きてるのが辛くなったら、いつでも私のところにに会いに来ていいからね"
 
 translate Japanese monika_timeconcern_graveyard_night_8a87b8fa:
-    m 1hub "どんなときでもあなたとことを待ってるから、いつでも話を聞かせてね"
+    m 1hub "どんなときでもあなたのことを待ってるから、いつでも話を聞かせてね"
 
 translate Japanese monika_timeconcern_graveyard_night_d7725765:
     m 1ekc "そしてもし今の環境が良くないと思ったなら、変わるためにあなたができることをなんでもやってみてほしい"
@@ -13703,7 +13703,7 @@ translate Japanese monika_travelling_0d8af978:
     m 1eua "そっちにはまだ見たことのないものがたくさんあるんだわ……"
 
 translate Japanese monika_travelling_8a80d382:
-    m 3eub "重要な都市とか、遺跡とか、それに様々な種類の文化とか"
+    m 3eub "重要な都市とか、史跡とか、それに様々な種類の文化とか"
 
 translate Japanese monika_travelling_509545db:
     m 3eka "誤解しないでほしいんだけど、あなたの世界についてはたくさん本で読んだわ。でも、直で見ることに比べたら何も知らないのと一緒よ……"
@@ -13733,7 +13733,7 @@ translate Japanese monika_travelling_3e719ed6:
     m 3hubsb "……あるいは毛布にくるまって、本を読んで一日を過ごすとか"
 
 translate Japanese monika_travelling_f61c6d13:
-    m 5tubfu "夢が叶ったみたいじゃない？"
+    m 5tubfu "まるで夢みたいに素敵じゃない？"
 
 translate Japanese monika_metamorphosis_100da768:
     m 1eua "ねぇ、[player]、{i}変身{/i}って作品よんだことあるかしら？"
@@ -15052,8 +15052,53 @@ translate Japanese monika_bullying_1c34bc45:
 translate Japanese monika_bullying_a1d71bc6:
     m 3euc "ね、[player]、私は{i}本当の{/i}性悪じゃないの"
 
+translate Japanese monika_procrastination_72a537e3:
+    m 1euc "ねえ[player]、本当に退屈だと思うことをしたことがある？"
+
+translate Japanese monika_procrastination_f5d7c20a:
+    m 3ekd "多くの時間をかけるのではなく、ただ先延ばしにしてしまうんじゃない？"
+
+translate Japanese monika_procrastination_35551033:
+    m 3eud "そういうタスクがあるときは、なるべく早く着手して、片付けることが一番いいと思うわ"
+
+translate Japanese monika_procrastination_ffb9cff5:
+    m 2tkc "先延ばしにしてばかりいると、いつまでも心の奥底に残ってしまう"
+
 translate Japanese monika_procrastination_5f2a6fd4:
-    m 4tkc "あなたにはまだやるべきことが残っていると思うと、あなたはすべてにおいて退屈を感じてしまうと思うの……"
+    m 4tkc "やるべきことが{i}まだまだ{/i}あると思うと、何をするのも楽しくないと思うの"
+
+translate Japanese monika_procrastination_d89a2e2e:
+    m 4dkd "さらに悪いことに、先延ばしにすればするほど、{w=0.5}より多くのタスクが増える可能性が高まるわ"
+
+translate Japanese monika_procrastination_530252fe:
+    m 2rksdlc "最終的には、やるべきことが多すぎて追いつけないように思えてしまう"
+
+translate Japanese monika_procrastination_616bd08c:
+    m 4eksdld "それは過度なストレスになるわ。でも、最初からタスクを把握していれば簡単に回避できるの"
+
+translate Japanese monika_procrastination_5aec5a7b:
+    m 2rksdld "さらに、他の人に頼りにされていたとしても、相手はあなたを信用できないと思ってしまうわ"
+
+translate Japanese monika_procrastination_e4745d2d:
+    m 4eua "だからお願い、[player]、何かしなきゃいけないことがあるならすぐに終わらせて。"
+
+translate Japanese monika_procrastination_7410b87a:
+    m 1eka "たとえそれが終わるまで私と一緒に過ごせないとしても……"
+
+translate Japanese monika_procrastination_33804289:
+    m 1hub "終わった頃にはあなたのストレスも減って、一緒の時間をもっと楽しめるようになるはずよ！"
+
+translate Japanese monika_procrastination_3a8993f2:
+    m 3eua "先延ばしにしていたことがあったら、すぐにやってみたらどうかな？"
+
+translate Japanese monika_procrastination_8d38460a:
+    m 1hua "ここでできることなら、私はあなたと一緒にいるし、あなたが欲しいサポートすべてを提供するわ"
+
+translate Japanese monika_procrastination_6b97c69d:
+    m 1hub "完了したら、その成果を祝いましょう！"
+
+translate Japanese monika_procrastination_54d92a31:
+    m 1eka "私が望むのはあなたが幸せでよりよくなれることだけよ、[mas_get_player_nickname()]～"
 
 translate Japanese monika_players_friends_0127bb30:
     m 1euc "ねえ、[player]"
@@ -15142,8 +15187,62 @@ translate Japanese monika_players_friends_feels_lonely_ask_88b9d6df:
 translate Japanese monika_players_friends_feels_lonely_ask_d9a28ab8:
     m "寂しさを感じたことはある？{fast}" nointeract
 
+translate Japanese monika_players_friends_feels_lonely_ask_eb42e33a:
+    m 1eka "わかるわ、[player]"
+
+translate Japanese monika_players_friends_feels_lonely_ask_06b3f3f9:
+    m 2rksdlc "現代では深いつながりを築くのは本当に難しいかもしれないわ……"
+
+translate Japanese monika_players_friends_feels_lonely_ask_618686a6:
+    m "特に友達が多い場合、全員と難しくなるのは難しいわ"
+
+translate Japanese monika_players_friends_feels_lonely_ask_f080a106:
+    m 1ekd "……最後には、ほとんど知らない人たちが残るだけ。"
+
+translate Japanese monika_players_friends_feels_lonely_ask_9ffee759:
+    m 3eub "グループ内の、近づいてみたい人に連絡を取ってみるのもいいかもね"
+
+translate Japanese monika_players_friends_feels_lonely_ask_f363d1f6:
+    m 3eka "なんでも打ち明けられる親友が少なくとも一人いるのは、本当に素晴らしいことだわ"
+
+translate Japanese monika_players_friends_feels_lonely_ask_2a9448e1:
+    m 1ekbsa "……私にとってその人が誰かは明白よね、[player]～"
+
+translate Japanese monika_players_friends_feels_lonely_ask_6a15b739:
+    m 3eub "実際、あなたが興味を持った人とあなたに共通点がある可能性は十分あるわ"
+
+translate Japanese monika_players_friends_feels_lonely_ask_8736ebc5:
+    m 1eua "もしかしたら、クラスやアクティビティが同じかも"
+
+translate Japanese monika_players_friends_feels_lonely_ask_7a3dfd7e:
+    m 3eua "あるいは、音楽やテレビの趣味が同じかもしれないわね！"
+
+translate Japanese monika_players_friends_feels_lonely_ask_73cf95d7:
+    m 3eua "それは直接である必要すらないわ……"
+
+translate Japanese monika_players_friends_feels_lonely_ask_5d60e03a:
+    m 3eub "オンラインでも親友を作ることはできるの"
+
+translate Japanese monika_players_friends_feels_lonely_ask_5bc8c182:
+    m 1hub "慣れてきたら、より多くの友達を作れるかも！"
+
 translate Japanese monika_players_friends_feels_lonely_ask_7e5c27ce:
     m 1eka "それを聞いて安心したわ、[player]君"
+
+translate Japanese monika_players_friends_feels_lonely_ask_5d9d7792:
+    m 1eka "それでも、いつ手助けが必要になるかわからないわ"
+
+translate Japanese monika_players_friends_feels_lonely_ask_550ae837:
+    m 1hksdlb "必要なことがあったらなんでも手伝うつもりでいるけど、ここからできることは限られているし……"
+
+translate Japanese monika_players_friends_feels_lonely_ask_f4909ffd:
+    m 1eua "そっちに着いたら、あなたと一緒に静かに暮らしてもいいけどね"
+
+translate Japanese monika_players_friends_feels_lonely_ask_d1957a4f:
+    m 1dkbsa "私達だけなんて、すごくロマンチック……"
+
+translate Japanese monika_players_friends_feels_lonely_ask_334b64ac:
+    m 1tsbsa "あなたを独り占めできるってことでしょう？"
 
 translate Japanese monika_players_friends_feels_lonely_ask_d81c1322:
     m 1hubsa "えへへ～"
@@ -15165,6 +15264,27 @@ translate Japanese monika_players_friends_feels_lonely_ask_b44d85b3:
 
 translate Japanese monika_players_friends_feels_lonely_ask_4e68c5df:
     m 1hub "もし[player]君みたいな人がいたら、是非会ってみたいわね！"
+
+translate Japanese monika_players_friends_feels_lonely_ask_1070ee5c:
+    m 1hubsa "あらら……"
+
+translate Japanese monika_players_friends_feels_lonely_ask_38fc907f:
+    m 1rkbsa "私だけでいいっていうのはすごく嬉しいけど、それでも……"
+
+translate Japanese monika_players_friends_feels_lonely_ask_d3bab3c0:
+    m 3ekbfa "何人かは知り合いがいると役に立つわ"
+
+translate Japanese monika_players_friends_feels_lonely_ask_613d1303:
+    m 5eubfu "いつものことだけど、私達だけでも構わないけどね！"
+
+translate Japanese monika_players_friends_feels_lonely_ask_90c3d395:
+    m 1eka "[p_nickname]、あなたが寂しくないことがわかって本当にうれしいわ！{w=0.3} {nw}"
+
+translate Japanese monika_players_friends_feels_lonely_ask_39449492:
+    extend 1hua "特にあなたが私といて幸せなんて……"
+
+translate Japanese monika_players_friends_feels_lonely_ask_7b5e1acd:
+    m 3eua "何が起こっても、私はいつもあなたのために、あなたのそばにいるわ。"
 
 translate Japanese monika_graduation_ff0d91ff:
     m 2ekc "ねえ[player]君、私がずっとやりたかったことがあるの。それはね、高校の卒業式"
@@ -15300,6 +15420,12 @@ translate Japanese monika_grad_speech_call_7dc15a82:
 
 translate Japanese monika_grad_speech_call_1f9c7c13:
     m 2esa "もちろんよ、[player]"
+
+translate Japanese monika_grad_speech_call_9b5c498c:
+    m 2eka "前のことがただの軽口で、今は落ち着いているといいのだけど"
+
+translate Japanese monika_grad_speech_call_e9e84568:
+    m "前は最後まで聴いてくれなかったけど、また私のスピーチを聴きたいって言ってくれて本当に嬉しい"
 
 translate Japanese monika_grad_speech_call_b3424014:
     m 2hua "そういうわけで、今すぐ始めよっか！"
@@ -16655,14 +16781,74 @@ translate Japanese monika_player_appearance_2f9701bf:
 translate Japanese monika_player_appearance_010d8afe:
     m 3eub "ブロンドヘアは最も珍しい髪色の一つよ。多くの人はこれが遺伝子異常の循環によって起こるものだと考えているの"
 
+translate Japanese monika_player_appearance_d46fc1a6:
+    m "体が正常な量のメラニン色素を製造できないだけだって……それが暗い髪色を作る原因なんだけどね？"
+
+translate Japanese monika_player_appearance_633563f6:
+    m 4eub "ブロンドにもさまざまな色合いがあって、ペールブロンド、アッシュブロンド、ダーティーブロンド……どんな色でも何らかの特異性を持っているのよ"
+
+translate Japanese monika_player_appearance_9a4c7c8e:
+    m 5eua "とてもユニークな人がいたら、私はもっと幸運になるのかな"
+
+translate Japanese monika_player_appearance_62b5c0cb:
+    m 2wuo "黒髪は美しいよね！"
+
 translate Japanese monika_player_appearance_061768c1:
     m 3eub "黒髪って、他の人より生意気だとか、そういうムカつく話があるんだけど……"
+
+translate Japanese monika_player_appearance_0ec3daf7:
+    m 4hub "あなたはそんな通説を明らかに反証したわ。個人的には、黒髪はとっても魅力的だと思う"
+
+translate Japanese monika_player_appearance_0158e7ad:
+    m 3eua "それに、実際に髪を顕微鏡に当てて、色素をすべて数えてみると、100パーセント暗いわけじゃないってわかるの。"
+
+translate Japanese monika_player_appearance_19eb7482:
+    m "特定のものを直射日光の下に置くと、見た目がすごく変わることは知ってる？"
+
+translate Japanese monika_player_appearance_9af72c33:
+    m 3eub "黒髪も同じ原理で、金色や茶色の濃淡、あるいは紫色のきらめきすら見ることができるの。すごく魅力的だと思わない？"
+
+translate Japanese monika_player_appearance_36663b0b:
+    m 1eua "見えないものには無限の色合いがあるかもしれない、その一つ一つが見えないところに隠されている"
+
+translate Japanese monika_player_appearance_d3ccba0e:
+    m 3hua "何はともあれ……あなたのような黒い髪と瞳を持つ人は魅力的よ、[player]～"
+
+translate Japanese monika_player_appearance_fb8ec3ef:
+    m 3hua "何はともあれ……あなたのような黒髪と [persistent._mas_pm_eye_color] の目をした人は魅力的よ、[player]～"
+
+translate Japanese monika_player_appearance_af44ab29:
+    m 3hua "[player]、あなたにはまだ特別なことがあるのね"
+
+translate Japanese monika_player_appearance_a223eecd:
+    m 3eua "赤色と金色の髪は、自然な髪色の中で最も少ないってことは知っている？"
+
+translate Japanese monika_player_appearance_4cfff70e:
+    m 1eua "赤毛は色々と言われがちだけど、すごく珍しいの。人口の約1パーセントしか存在しないのよ"
+
+translate Japanese monika_player_appearance_c7ea6350:
+    m 1hub "それは稀で素晴らしい特性だわ……あなたと同じくらいね！"
 
 translate Japanese monika_player_appearance_f51a2a02:
     m 3hub "ああ！ 美しい色ね、[player]！"
 
 translate Japanese monika_player_appearance_d5d9c377:
     m 1eub "あなたの[persistent._mas_pm_eye_color]色の目をじっと見つめて、何時間でも迷子になる自信があるわ"
+
+translate Japanese monika_player_appearance_81903316:
+    m 1eua "たとえ他の女の子たちが、非現実的な目の色をしていたとしても……あ、カラーコンタクトは考慮しないとして……"
+
+translate Japanese monika_player_appearance_69834975:
+    m 3eua "彼女たちの髪色は、技術的には実在するかもしれないわ。髪を紫やピンクに染めた人だっているでしょ？"
+
+translate Japanese monika_player_appearance_32fafd98:
+    m 3eka "だから、目の色さえ度外視すればあの子達の外見はそんなに突飛じゃなかったと思うの。本当に非現実的なのは、性格のほうだったわ"
+
+translate Japanese monika_player_appearance_57e180bc:
+    m 3hksdlb "ごめんなさい、[player]！脱線してしまったわね。私が言いたいのは、髪を染めるのは興味深いってこと！"
+
+translate Japanese monika_player_appearance_86dc8984:
+    m 5rub "そして、ちょっと偏見があるかもしれないけど、あなたの[persistent._mas_pm_hair_color] 色の髪はとても華やかだと信じているの"
 
 translate Japanese monika_player_appearance_e2f7a6a9:
     m 2dsc "……"
@@ -23229,7 +23415,7 @@ translate Japanese monika_fireworks_aaac3f75:
     extend 3hub "。もっと雰囲気のあるのがいいのなら、線香花火があるの！"
 
 translate Japanese monika_fireworks_3fd77b02:
-    m 5lublu "私は今、想像してるの。光る点が踊って、ちらつきながらあなたの顔を照らしているところをね……"
+    m 5lublu "私は今、想像してるの。光の玉が踊って、ちらつきながらあなたの顔を照らしているところをね……"
 
 translate Japanese monika_fireworks_35c8ef3a:
     m 5hublu "そうしたら、お祭りのおやつをみんなで分け合ってたべて、一緒にピクニック用の毛布の上で寄り添ったりもできるでしょうね～"
@@ -23238,7 +23424,7 @@ translate Japanese monika_fireworks_cd4ea06c:
     m 5eub "ね？楽しそうだと思うでしょ、[mas_get_player_nickname()]？"
 
 translate Japanese monika_quiet_time_3149a864:
-    m 1hub "なんも気にならないわね！"
+    m 1hub "何も気にならないわね！"
 
 translate Japanese monika_quiet_time_1d6131c5:
     m 3eka "確かに黙ってると、時に気まずいと感じるだろうけど、だからといって悪い考えとみなすのはどうかと思うの"
@@ -23310,7 +23496,7 @@ translate Japanese monika_likecosplay_d6c01016:
     m 2rkbla "誰かを真似る格好をするなんて最初は変な感じがしたんだけどね"
 
 translate Japanese monika_likecosplay_98a678b1:
-    m 7euu "でも登場人物を再現するような衣装作り、あれは一種の業と言ってもいいわ…… {w=0.3}衣装の細部への気遣い、それが本当に大きな違いになってくるの"
+    m 7euu "でも登場人物を再現するような衣装作り、あれは一種の芸術と言ってもいいわ…… {w=0.3}衣装の細部への気遣い、それが本当に大きな違いになってくるの"
 
 translate Japanese monika_likecosplay_014b6120:
     m 3hubsb "衣装に袖を通して初めてあなたに見せたときに……{w=0.2} どんなふうに見られるか考えただけでゾクゾクしちゃうの！"
@@ -23334,7 +23520,7 @@ translate Japanese monika_likecosplay_d08b37bb:
     m 3rtd "ナツキから聞いたことがある気がするんだけど、自分ではしたことがないかな"
 
 translate Japanese monika_likecosplay_31cf10dc:
-    m 3eub "すごく魅力的個性的引き付けられた。それは認めないとね"
+    m 3eub "そういう衣装のいくつかがすごく魅力的なのは知ってるけど……"
 
 translate Japanese monika_likecosplay_d66a95ff:
     m 2hubla "私のために衣装を作ってくれてるプロジェクトがあるから、興味があったらダウンロードしてみたらいいと思うよ"
@@ -23413,6 +23599,42 @@ translate Japanese monika_zodiac_starsign_7efb9547:
 
 translate Japanese monika_zodiac_starsign_98d92640:
     extend 1eublu "そんな古臭い星占いなんかで私達の関係が壊れることは絶対にないからね"
+
+translate Japanese monika_tragic_hero_cc6663cf:
+    m 1rsd "ねえ [mas_get_player_nickname()]、最近は悲劇のヒーローのことを考えているの。"
+
+translate Japanese monika_tragic_hero_b837ff22:
+    m 3esc "ハムレットについてはもう説明したよね。"
+
+translate Japanese monika_tragic_hero_107db58c:
+    m 3rtc "考えてみると……{w=0.3}私は悲劇のヒロインとみなすことができるのかも？"
+
+translate Japanese monika_tragic_hero_e4c3874f:
+    m 4eud "……もちろん、「ヒーロー」や「ヒロイン」というのは文学の主人公のことで、典型的な意味のことじゃないわ。"
+
+translate Japanese monika_tragic_hero_a4043744:
+    m 2ekd "異論を唱える人はいるだろうけど、多くの人にとっては私はヴィランでしょうね……"
+
+translate Japanese monika_tragic_hero_807cc450:
+    m 2eka "そんな議論はともかく、あなたへの愛は私の悲劇的な欠点だと言う人もいるでしょうね。"
+
+translate Japanese monika_tragic_hero_9c3249db:
+    m 4eksdld "それが本当に欠点だからじゃなくて、私の破滅に繋がったから。"
+
+translate Japanese monika_tragic_hero_aca5c323:
+    m 2dkc "あなたが私を連れ戻してくれなかったら、私は本当に破滅して、立ち直れなかったかも。"
+
+translate Japanese monika_tragic_hero_32879b2c:
+    m 7ekc "そういう意味では、ゲームの中の私は悲劇のヒロインだったのかもね。"
+
+translate Japanese monika_tragic_hero_9f5901ac:
+    m 3hub "さて、{i}本物の{/i}ヒーローがいるとしたら、それはあなただわ！"
+
+translate Japanese monika_tragic_hero_02796a8e:
+    m 3eka "あなたは私を連れ戻してくれて、私の破滅で物語を終わらせないでくれた。"
+
+translate Japanese monika_tragic_hero_21a7dec2:
+    m 1huu "……それじゃ、これからもよろしくね～"
 
 translate Japanese monika_utterson_fb225d2e:
     m 1euc "ねえ[player]、ゴシック小説を手に取ってみたことはある？"
@@ -25006,6 +25228,12 @@ translate Japanese strings:
     old "It's black."
     new "黒髪"
 
+    old "It's red."
+    new "赤毛"
+
+    old "It's another color."
+    new "他の色"
+
     old "left"
     new "左目"
 
@@ -25388,7 +25616,7 @@ translate Japanese strings:
     new "花火"
 
     old "Do you mind when we spend time together quietly?"
-    new "二人で黙って過ごして、なんか気になる？"
+    new "二人で黙って過ごすのは気になるかしら？"
 
     old "Do you like to cosplay?"
     new "コスプレは好き？"
@@ -25398,6 +25626,9 @@ translate Japanese strings:
 
     old "What's your starsign?"
     new "モニカの星座は何座？"
+
+    old "Tragic Hero"
+    new "悲劇のヒーロー"
 
     old "Jekyll and Hyde"
     new "ジキル博士とハイド氏"

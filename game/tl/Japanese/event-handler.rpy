@@ -48,7 +48,7 @@ translate Japanese strings:
     new "ドキドキ文芸部\nについて"
 
     old "Dev..."
-    new "デバック……"
+    new "デバッグ……"
 
     old "Games..."
     new "ゲームについて"
