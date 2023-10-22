@@ -636,7 +636,7 @@ translate Japanese strings:
     new "何でも聞いてね、[player]。"
 
     old "Don't be shy, [player]."
-    new "遠慮しなくていいいよ、[player]。"
+    new "遠慮しなくていいよ、[player]。"
 
     old "What would you like to talk about, [mas_get_player_nickname()]?"
     new "何について話したいの、[mas_get_player_nickname()]君？"
