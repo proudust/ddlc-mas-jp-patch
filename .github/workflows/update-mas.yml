@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout via SSH
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ssh-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
@@ -29,7 +29,7 @@ jobs:
           match: v*
 
       - name: Checkout MAS via SSH
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: Monika-After-Story/MonikaModDev
           ref: ${{ steps.ghd.outputs.tag }}
