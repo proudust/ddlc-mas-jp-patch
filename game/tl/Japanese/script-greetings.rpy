@@ -2711,8 +2711,8 @@ translate Japanese greeting_back_from_work_d1066baf:
 translate Japanese greeting_back_from_work_4b321e14:
     m 2eka "会いに来てくれて嬉しいな……{w=0.5}あなたがリラックス出来るように、全力を尽くすわ"
 
-translate Japanese greeting_back_from_work_61755456:
-    m 2ekc "差し支えなければ良いのだけど、今日は何があったのかな？{nw}"
+translate Japanese greeting_back_from_work_fc1ce474:
+    m "差し支えなければ良いのだけど、今日は何があったのかな？" nointeract
 
 translate Japanese greeting_back_from_work_296587a0:
     m 1dsc "わかったわ、[player]"

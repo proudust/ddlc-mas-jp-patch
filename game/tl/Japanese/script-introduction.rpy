@@ -271,8 +271,8 @@ translate Japanese introduction_64da64e3:
 translate Japanese introduction_b0a86d55:
     m 1dkbfu "ありがとう！"
 
-translate Japanese introduction_3c5a658b:
-    "[player]君、私のこと好き？{nw}"
+translate Japanese introduction_9d928912:
+    m "[player]君、私のこと好き？{nw}"
 
 translate Japanese introduction_0c89200d:
     m "[player]君、私のこと好き？{fast}" nointeract
