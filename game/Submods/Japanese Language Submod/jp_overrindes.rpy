@@ -384,9 +384,7 @@ translate Japanese python:
                         text_container.add(ellipsis_text)
 
                     self.day_button_texts.append((text_container, button_pos))
-    # 後のバージョンで使用した際にバグるのを回避するための安全策
-    if config.version in ['0.11.9', '0.12.0', '0.12.1', '0.12.2', '0.12.3', '0.12.4', '0.12.5', '0.12.6', '0.12.7', '0.12.8']:
-        MASCalendar._setupDayButtons = _setupDayButtons
+    MASCalendar._setupDayButtons = _setupDayButtons
 
 # zz_games.rpy
 translate Japanese python in mas_games:
