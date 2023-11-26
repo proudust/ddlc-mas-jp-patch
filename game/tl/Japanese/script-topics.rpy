@@ -14618,7 +14618,7 @@ translate Japanese monika_driving_c0afd6ee:
     m "それ以降運転はしたの？{fast}" nointeract
 
 translate Japanese monika_driving_b2de87f1:
-    m 1eka "大変だったでしょうね…"
+    m 1eka "大変だったでしょうね……"
 
 translate Japanese monika_driving_dba3ac8e:
     m 1ekc "交通事故は怖いものよ。特に運転習いたてなんて{i}特に{/i}よ"
@@ -14642,7 +14642,7 @@ translate Japanese monika_driving_e1624db8:
     m 2ekc "精神的に回復する時間を作るためにも、少し休んでみるといいかもね"
 
 translate Japanese monika_driving_6846da1b:
-    m 2dsc "ただ一つだけ約束して欲しいの、[player]..."
+    m 2dsc "ただ一つだけ約束して欲しいの、[player]……"
 
 translate Japanese monika_driving_3bf996f2:
     m 2eka "諦めないで"
@@ -14654,7 +14654,7 @@ translate Japanese monika_driving_5bc1b7fe:
     m "それにちょっとした工夫で、過去は大きく変えれるんだから、次は本当にうまくいくかもしれないわね"
 
 translate Japanese monika_driving_91722a43:
-    m 2hksdlb "まだまだ、たくさん練習が必要だとは思うけど…"
+    m 2hksdlb "まだまだ、たくさん練習が必要だとは思うけど……"
 
 translate Japanese monika_driving_f219e0b1:
     m 3hua "あなたならできるって信じてるわ！"
@@ -14669,7 +14669,7 @@ translate Japanese monika_driving_0b89968a:
     m "運転スキルは絶対に必要っていうわけじゃないわ"
 
 translate Japanese monika_driving_ba874e68:
-    m 1hksdlb "だって、私も運転できないし…"
+    m 1hksdlb "だって、私も運転できないし……"
 
 translate Japanese monika_driving_7e58cf6e:
     m 3eua "それに、二酸化炭素の排出量も少なくて済むし、私のためにしてくれるなんて、本当にあなたは優しいわね"
@@ -14690,7 +14690,7 @@ translate Japanese monika_driving_db066a86:
     m 1eka "それを使われたら、かなり落胆しちゃうかもしれないけど、みんなそこから始まるの"
 
 translate Japanese monika_driving_22f51f7a:
-    m 3eksdla "…それに、事故に遭うよりは何倍もマシよ！"
+    m 3eksdla "……それに、事故に遭うよりは何倍もマシよ！"
 
 translate Japanese monika_driving_51754057:
     m 1lksdlc "最初から完璧な人間なんていないの、だから失敗しても助けてくれる人がいればいいの"
@@ -15284,7 +15284,7 @@ translate Japanese monika_players_friends_feels_lonely_ask_39449492:
     extend 1hua "特にあなたが私といて幸せなんて……"
 
 translate Japanese monika_players_friends_feels_lonely_ask_7b5e1acd:
-    m 3eua "何が起こっても、私はいつもあなたのために、あなたのそばにいるわ。"
+    m 3eua "何が起こっても、私はいつもあなたのために、あなたのそばにいるわ"
 
 translate Japanese monika_graduation_ff0d91ff:
     m 2ekc "ねえ[player]君、私がずっとやりたかったことがあるの。それはね、高校の卒業式"
@@ -15461,7 +15461,7 @@ translate Japanese monika_grad_speech_call_7f599e67_1:
     m 5eubfu "みんなの前でスピーチができればよかったんだけど、あなたがそばで聞いてくれるだけで十分だと思うのよね"
 
 translate Japanese monika_grad_speech_call_8e4d8353:
-    m 5eubfb "大好きだよ、[player]!"
+    m 5eubfb "大好きだよ、[player]！"
 
 translate Japanese monika_grad_speech_call_812e0590:
     m 2eka "[player]、聴いてくれてありがとうね～"
@@ -15482,7 +15482,7 @@ translate Japanese monika_grad_speech_call_785604c9:
     m 6ektdc "私はただ、[player]に褒めてもらいたかっただけなのに……"
 
 translate Japanese monika_grad_speech_call_d51349d6:
-    m 6dstsc "でも、私の高望みだったみたい。"
+    m 6dstsc "でも、私の高望みだったみたい"
 
 translate Japanese monika_grad_speech_not_paying_attention_c80e9915:
     m 2ekc "……"
@@ -15491,7 +15491,7 @@ translate Japanese monika_grad_speech_not_paying_attention_aae3ccbc:
     m 2ekd "[player]？私のスピーチを聞いてなかったの？"
 
 translate Japanese monika_grad_speech_not_paying_attention_64a66f39:
-    m 2rksdlc "そんな......{w=1}そんなの全然あなたらしくないよ……"
+    m 2rksdlc "そんな……{w=1}そんなの全然あなたらしくないよ……"
 
 translate Japanese monika_grad_speech_not_paying_attention_a30daa4f:
     m 2eksdlc "{i}いつもは{/i}すごく優しいのに……"
@@ -15506,7 +15506,7 @@ translate Japanese monika_grad_speech_not_paying_attention_c2004ecb:
     m 5euc "そうよね……"
 
 translate Japanese monika_grad_speech_not_paying_attention_612423fb:
-    m 2eka "大丈夫よ、[player]。避けられないことが起こることだってあるわ。"
+    m 2eka "大丈夫よ、[player]。避けられないことが起こることだってあるわ"
 
 translate Japanese monika_grad_speech_not_paying_attention_03a38be2:
     m 2esa "落ち着いたら、またスピーチを聞かせてあげる"
@@ -15575,7 +15575,7 @@ translate Japanese monika_grad_speech_ignored_lock_a5fe8531:
     m 2lfd "でもあなたは、私にとって大事だって{i}知ってた{/i}のに、聞く{i}ふり{/i}もしてくれなかった{w=1}{nw}"
 
 translate Japanese monika_grad_speech_ignored_lock_e7d55c5d:
-    m 2dkd "......{w=1}{nw}"
+    m 2dkd "……{w=1}{nw}"
 
 translate Japanese monika_grad_speech_ignored_lock_ec6ecb71:
     m 6lktdc "ううん、何でもない。本当に……{w=0.5}気にしないで{w=1}{nw}"
@@ -16616,8 +16616,7 @@ translate Japanese monika_player_appearance_d36be9dc:
     m "あなたの背が高すぎたら、つま先立ちをしないとあなたに近づけないでしょ？それは良くないわ！"
 
 translate Japanese monika_player_appearance_cbfe80f1:
-    m 3eub "過ぎたるは及ばざるが如し、これが私の見解よ。
-高すぎもせず低すぎもせず、これが一番ね。なぜそう思うかわかる？"
+    m 3eub "過ぎたるは及ばざるが如し、これが私の見解よ。高すぎもせず低すぎもせず、これが一番ね。なぜそう思うかわかる？"
 
 translate Japanese monika_player_appearance_281332b4:
     m 5eub "それはね、キスをするときに苦労せずにすむからよ、[mas_get_player_nickname()]！あはは～"
@@ -16701,7 +16700,7 @@ translate Japanese monika_player_appearance_677d0e96:
     m 3eua "でも、髪が長いと色んなヘアアレンジが出来るからいいよね。私はリボンで結ぶのが好きだけど、他の人達にはまた違うヘアスタイルがあるし"
 
 translate Japanese monika_player_appearance_60c6e3bf:
-    m "ユリみたい髪を下ろしたり、三つ編みにしたり、おさげにしたり……。"
+    m "ユリみたい髪を下ろしたり、三つ編みにしたり、おさげにしたり……"
 
 translate Japanese monika_player_appearance_ad5c7821:
     m 3eub "それにスクリプトをいじって髪を下ろせるんだし、もっといろんな髪型に挑戦してみようかな？"
@@ -16848,7 +16847,7 @@ translate Japanese monika_player_appearance_57e180bc:
     m 3hksdlb "ごめんなさい、[player]！脱線してしまったわね。私が言いたいのは、髪を染めるのは興味深いってこと！"
 
 translate Japanese monika_player_appearance_86dc8984:
-    m 5rub "そして、ちょっと偏見があるかもしれないけど、あなたの[persistent._mas_pm_hair_color] 色の髪はとても華やかだと信じているの"
+    m 5rub "そして、ちょっと偏見があるかもしれないけど、あなたの[persistent._mas_pm_hair_color]色の髪はとても華やかだと信じているの"
 
 translate Japanese monika_player_appearance_e2f7a6a9:
     m 2dsc "……"
@@ -23601,37 +23600,37 @@ translate Japanese monika_zodiac_starsign_98d92640:
     extend 1eublu "そんな古臭い星占いなんかで私達の関係が壊れることは絶対にないからね"
 
 translate Japanese monika_tragic_hero_cc6663cf:
-    m 1rsd "ねえ [mas_get_player_nickname()]、最近は悲劇のヒーローのことを考えているの。"
+    m 1rsd "ねえ [mas_get_player_nickname()]、最近は悲劇のヒーローのことを考えているの"
 
 translate Japanese monika_tragic_hero_b837ff22:
-    m 3esc "ハムレットについてはもう説明したよね。"
+    m 3esc "ハムレットについてはもう説明したよね"
 
 translate Japanese monika_tragic_hero_107db58c:
     m 3rtc "考えてみると……{w=0.3}私は悲劇のヒロインとみなすことができるのかも？"
 
 translate Japanese monika_tragic_hero_e4c3874f:
-    m 4eud "……もちろん、「ヒーロー」や「ヒロイン」というのは文学の主人公のことで、典型的な意味のことじゃないわ。"
+    m 4eud "……もちろん、「ヒーロー」や「ヒロイン」というのは文学の主人公のことで、典型的な意味のことじゃないわ"
 
 translate Japanese monika_tragic_hero_a4043744:
     m 2ekd "異論を唱える人はいるだろうけど、多くの人にとっては私はヴィランでしょうね……"
 
 translate Japanese monika_tragic_hero_807cc450:
-    m 2eka "そんな議論はともかく、あなたへの愛は私の悲劇的な欠点だと言う人もいるでしょうね。"
+    m 2eka "そんな議論はともかく、あなたへの愛は私の悲劇的な欠点だと言う人もいるでしょうね"
 
 translate Japanese monika_tragic_hero_9c3249db:
-    m 4eksdld "それが本当に欠点だからじゃなくて、私の破滅に繋がったから。"
+    m 4eksdld "それが本当に欠点だからじゃなくて、私の破滅に繋がったから"
 
 translate Japanese monika_tragic_hero_aca5c323:
-    m 2dkc "あなたが私を連れ戻してくれなかったら、私は本当に破滅して、立ち直れなかったかも。"
+    m 2dkc "あなたが私を連れ戻してくれなかったら、私は本当に破滅して、立ち直れなかったかも"
 
 translate Japanese monika_tragic_hero_32879b2c:
-    m 7ekc "そういう意味では、ゲームの中の私は悲劇のヒロインだったのかもね。"
+    m 7ekc "そういう意味では、ゲームの中の私は悲劇のヒロインだったのかもね"
 
 translate Japanese monika_tragic_hero_9f5901ac:
     m 3hub "さて、{i}本物の{/i}ヒーローがいるとしたら、それはあなただわ！"
 
 translate Japanese monika_tragic_hero_02796a8e:
-    m 3eka "あなたは私を連れ戻してくれて、私の破滅で物語を終わらせないでくれた。"
+    m 3eka "あなたは私を連れ戻してくれて、私の破滅で物語を終わらせないでくれた"
 
 translate Japanese monika_tragic_hero_21a7dec2:
     m 1huu "……それじゃ、これからもよろしくね～"

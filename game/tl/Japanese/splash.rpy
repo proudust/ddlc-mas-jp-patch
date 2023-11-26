@@ -46,7 +46,7 @@ translate Japanese strings:
 
 
     old "I have granted kids to hell"
-    new "愛してる"
+    new "私は子供を地獄へと追いやった"
 
     old "PM died for this."
     new "PMはこのゲームの犠牲となった。"
