@@ -495,6 +495,12 @@ translate Japanese strings:
     old "5 Years"
     new "5年"
 
+    old "6 Years"
+    new "6年"
+
+    old "7 Years"
+    new "7年"
+
     old "10 Years"
     new "10年"
 
