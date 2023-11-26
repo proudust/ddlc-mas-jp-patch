@@ -52,7 +52,7 @@ init 7 python in mas_games:
 
         #Now search
         for ev in game_db.itervalues():
-            if renpy.substitute(ev.prompt).lower() == gamename:
+            if renpy.substitute(ev.prompt, translate=False).lower() == gamename: # https://github.com/proudust/ddlc-mas-jp-patch/issues/66#issuecomment-1493194550
                 return ev
         return None
 
@@ -202,7 +202,7 @@ label mas_pick_a_game:
         game_menuitems = sorted([
             (ev.prompt, ev.eventlabel, False, False)
             for ev in mas_games.game_db.itervalues()
-            if mas_isGameUnlocked(renpy.substitute(ev.prompt))
+            if mas_isGameUnlocked(renpy.substitute(ev.prompt), translate=False) # https://github.com/proudust/ddlc-mas-jp-patch/issues/78
         ], key=lambda x:renpy.substitute(x[0]))
 
         ret_back = ("Nevermind", False, False, False, 20)
