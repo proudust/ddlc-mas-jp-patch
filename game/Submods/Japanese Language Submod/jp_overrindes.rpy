@@ -386,6 +386,11 @@ translate Japanese python:
                     self.day_button_texts.append((text_container, button_pos))
     MASCalendar._setupDayButtons = _setupDayButtons
 
+# zz_hangman.rpy
+translate Japanese python:
+    # ハングマンのフォント変更
+    mas_hangman.WORD_FONT = jpfonts.Ruriiro
+
 # zz_poems.rpy
 translate Japanese style mas_monika_poem_text:
     font jpfonts.Ruriiro
