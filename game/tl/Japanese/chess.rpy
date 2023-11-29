@@ -17,7 +17,7 @@ translate Japanese game_chess_load_check_b01706c4:
     m 1efb "準備はいいかしら！"
 
 translate Japanese mas_chess_remenu_0da28271:
-    m "どのルールで遊ぶ？" nointeract
+    m "どのルールで遊ぶ？[('{fast}' if loopback else '')]" nointeract
 
 translate Japanese mas_chess_remenu_6b6b37ac:
     m 1ekc "……わかった、[player]。{w=0.3}あなたとチェスできる日をずっと楽しみにしていたから残念"
