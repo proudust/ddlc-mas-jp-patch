@@ -7007,7 +7007,7 @@ translate Japanese monika_haterReaction_6686fb88:
     m 2rfc "……"
 
 translate Japanese monika_haterReaction_912dd85b:
-    m "[menuOption!it]{fast}" nointeract
+    m "[menuOption]{fast}" nointeract
 
 translate Japanese monika_haterReaction_8ee2c3b6:
     m 2wud "……"
