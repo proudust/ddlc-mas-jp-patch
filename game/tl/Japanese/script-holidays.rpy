@@ -4001,7 +4001,7 @@ translate Japanese mas_bday_pool_happy_bday_adac5fd7:
     m 3hub "えへへ、ありがとう[player]！"
 
 translate Japanese mas_bday_pool_happy_bday_fdb68306:
-    m 3eka "その魔法の言葉を言うのを待ってたのよ～"
+    m 3eka "その魔法の言葉を言ってくれるのを待ってたのよ～"
 
 translate Japanese mas_bday_pool_happy_bday_b7b86aa7:
     m 1eub "{i}ようやく{/i}これで誕生日のお祝いって呼べるようになったわ！"
