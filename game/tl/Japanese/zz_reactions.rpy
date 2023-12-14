@@ -1374,6 +1374,15 @@ translate Japanese mas_reaction_gift_noudeck_0bd97190:
 translate Japanese mas_reaction_gift_noudeck_havent_played_66c2b3ee:
     m 1eka "あら、大丈夫よ"
 
+translate Japanese mas_reaction_gift_noudeck_havent_played_8b51673c:
+    m 4eub "トランプを使う遊びでよくあるルールとおなじで、相手よりも先にすべての手札を出し切ったほうが勝ちのゲームなんだよ"
+
+translate Japanese mas_reaction_gift_noudeck_havent_played_a93bafa0:
+    m 1rssdlb "こう言うと、とても単純なゲームに聞こえちゃうよね、あはは～"
+
+translate Japanese mas_reaction_gift_noudeck_havent_played_984466c7:
+    m 3eub "でもね、友達や大好きな人と一緒に遊んだら本当に楽しいんだよ～"
+
 translate Japanese mas_reaction_gift_noudeck_havent_played_8933ee4c:
     m 1eua "基本的なルールは後で説明するから、話しかけてね"
 
