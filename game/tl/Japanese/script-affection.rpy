@@ -708,6 +708,9 @@ translate Japanese strings:
     old "What would you like to play?"
     new "どれで遊びたいのかな？"
 
+    old "Is there something you had in mind?"
+    new "何か遊びたいのがあったかな？"
+
     old "Anything specific you'd like to play?"
     new "何か遊びたいのがあったかな？"
 

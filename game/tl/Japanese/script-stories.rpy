@@ -1097,6 +1097,79 @@ translate Japanese mas_story_mindthegap_b86889c2:
 translate Japanese mas_story_mindthegap_0f9f9023:
     m 1dkblu "これからもあなたのこと大切にするからね、[player]"
 
+translate Japanese mas_story_knock_e6e563e9:
+    m 1euc "地球最後の人類となった男が部屋の中にいた"
+
+translate Japanese mas_story_knock_462007fc:
+    m 3rud "…部屋の戸を叩く音がする"
+
+translate Japanese mas_story_knock_72160657:
+    m 3duc "ここでもうオチがついてるなんていう人がいるかもしれないけど、{w=0.2} {nw}"
+
+translate Japanese mas_story_knock_7f89295e:
+    extend 1dud "でもまだ話は続くの"
+
+translate Japanese mas_story_knock_f316adf3:
+    m 3etc "一体誰が戸を叩いたのだろうか？{w=0.2} {nw}"
+
+translate Japanese mas_story_knock_7272c73f:
+    extend 3esa "その答えはホラーの類ではなかった"
+
+translate Japanese mas_story_knock_859f11f7:
+    m 3eua "地球最後の人類となった男の名はウォルター・フェラン。{w=0.2}彼のそばにいるのはただ一人、ザンと呼ばれる星の者だった"
+
+translate Japanese mas_story_knock_cdcfc46f:
+    m 3eud "ウォルターを除いて、人類はザン星人によって滅ぼされたのだ。そしてどこかにもうひとり... {w=0.3}{nw}"
+
+translate Japanese mas_story_knock_34f62610:
+    extend 3wud "ひとりだけ、{w=0.1}女が生き残っていた"
+
+translate Japanese mas_story_knock_2e4c40e3:
+    m 3euc "ウォルターとその女性は、ザン星人が作る動物園の人類標本として選ばれたのだ。"
+
+translate Japanese mas_story_knock_818d466c:
+    m 2esc "そこには地球のあらゆる種のつがいが集められていた。まるで古い物語のノアの箱舟のように"
+
+translate Japanese mas_story_knock_545d5747:
+    m 2euc "戸を開けたウォルターは驚きもぜず、戸の先に立つザン星人を見つめた
+"
+
+translate Japanese mas_story_knock_54fd6a62:
+    m 2etd "小さな奇妙なエイリアンは、彼なりに人類の挨拶を模した動作をした後、ウォルターに助けを求めてきた"
+
+translate Japanese mas_story_knock_f25e3f00:
+    m 2euc "「予想外のことが起こった、{w=0.1} {nw}"
+
+translate Japanese mas_story_knock_3f13607b:
+    extend 2ekd "お前以外に集めたつがいが皆、眠ったまま起きない。全て冷たい。」"
+
+translate Japanese mas_story_knock_d6734d4e:
+    m 7euc "ウォルターの部屋から確認できる二匹の動物、ヘビとアヒルは見るからに死んでいた"
+
+translate Japanese mas_story_knock_1a6a4965:
+    m 3esc "だがザン星人には動いていない二匹がどのような状況にあるのか、それがわかっていないようだった"
+
+translate Japanese mas_story_knock_98bf51a0:
+    m 1dsc "人類は即座に頭を巡らせた。{w=0.2}ザン星人たちには、あの動物たちは二度と目を覚まさないと告げた。{w=0.2}つまり、死神が逃げだし、全員を殺してしまったたのだと"
+
+translate Japanese mas_story_knock_43cfb639:
+    m 1euc "…そしてこう付け加えた。「だが私にならなんとかできる。{w=0.2}助けてもいいが条件として、地球最後の人類の女も私に助けさせろ」"
+
+translate Japanese mas_story_knock_572c0b62:
+    m 1eua "ザン星人は許可し、ウォルターを動物のそばへ行かせた。それからウォルターは女性と面会した"
+
+translate Japanese mas_story_knock_0427f3c2:
+    m 1dua "地球上最後の男女がついに一緒になることができたのだ。{w=0.2}{nw}"
+
+translate Japanese mas_story_knock_3a83bc13:
+    extend 1rkbla "さて、永遠にふたりっきりの彼らはこれから一体どうするのだろうか？"
+
+translate Japanese mas_story_knock_905ec016:
+    m 3gsbsu "その後のふたりがどうなるのか、それは皆さんの想像におまかせすることにしよう……"
+
+translate Japanese mas_story_knock_b3f652fa:
+    m 1hubsa "この物語が気に入ってくれたら嬉しいな、[player]"
+
 translate Japanese mas_scary_story_hunter_bd5cd01d:
     m 3esa "ある日、一人の狩人が森へハンティングにでかけました"
 
@@ -2281,6 +2354,9 @@ translate Japanese strings:
 
     old "Mind the Gap"
     new "足元にご注意ください"
+
+    old "Knock"
+    new "戸を叩く音"
 
     old "The Hunter"
     new "とある狩人の話"
