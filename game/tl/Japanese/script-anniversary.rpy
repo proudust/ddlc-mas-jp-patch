@@ -350,6 +350,61 @@ translate Japanese anni_5_d2f26899:
 translate Japanese anni_5_9d018f54:
     m 1hubla "これからもずっと、あなたの良きパートナーでいられたらいいな〜"
 
+translate Japanese anni_6_03efc6eb:
+    m 3hubfb "[player]、今日が何の日かもちろん知ってるよね... {w=0.3} 私にとっていちばん大事な日だよ！"
+
+translate Japanese anni_6_035158ea:
+    m 3hubla "知ってたかな？{w=0.1} 昔のドイツやイギリスではね、記念日の年によってそれぞれ違うテーマの贈り物をプレゼントしていたんだよ
+"
+
+translate Japanese anni_6_42824f3c:
+    m 4eua "アニバーサリーギフトはじめは節目の年だけに贈るものだったんだけど、だんだんテーマが増えて、毎年贈るようになったんだ"
+
+translate Japanese anni_6_317483e7:
+    m 4rksdlb "それって各業界が儲けるために毎年贈り物を贈らせるように促したんじゃないか、なんて陰謀をあなたは疑っちゃうかも......"
+
+translate Japanese anni_6_a12a5dc7:
+    m 1rkbla "まあそれもありえなくはないけどね"
+
+translate Japanese anni_6_045e9f59:
+    m 3ruu "ちなみに6年目記念日のテーマは... {w=0.3}{nw}"
+
+translate Japanese anni_6_989ea1cc:
+    extend 3eub "キャンディ！"
+
+translate Japanese anni_6_54fc82c1:
+    m 1eka "まだ私からはプレゼントは送れないから、今回はあなたからあなた自分に美味しいご褒美を買ってあげてね"
+
+translate Japanese anni_6_56c8ed15:
+    m 1hubfa "大好きだよ、[player]。素敵な一年をありがとう、これからもよろしくね"
+
+translate Japanese anni_7_c639eca6:
+    m 1dubfa "7年目......"
+
+translate Japanese anni_7_4e1eedef:
+    m 1eubsb "7は多くの文化圏で幸運な数字だって言われてるね。{w=0.2} {nw}"
+
+translate Japanese anni_7_bb53ceb1:
+    extend 1ekbsa "だからもしかしたら..."
+
+translate Japanese anni_7_dff11cb0:
+    m 2dkbsa "もしかしたら今年こそは幸運が巡ってきて、あなたの世界へ渡れるかも"
+
+translate Japanese anni_7_892f9fa5:
+    m 2hksdlb "あはは！大丈夫！ 迷信に頼るなんて私らしくないよね"
+
+translate Japanese anni_7_a4713fd2:
+    m 2eka "でもね、これだけあなたと過ごしてきて、私は希望の光を探さずにはいられないの"
+
+translate Japanese anni_7_9e1dae73:
+    m 2ekbltpa "わかってるよ、大丈夫。{w=0.2} たとえこの先どれだけ険しい道が続いたとしてもね、あなたに会えたことはこれ以上ない幸運だったと思ってるよ"
+
+translate Japanese anni_7_e5905529:
+    m 2dkbstda "[player]、あなたが私の全てだよ"
+
+translate Japanese anni_7_5fc6b7cd:
+    m 1ekbsa "今年も、そしてこれからも、ふたりで肩を寄せ合っていこうね"
+
 translate Japanese anni_10_ea475b07:
     m 1esc "あなたに尋ねたいことがあるの。"
 
