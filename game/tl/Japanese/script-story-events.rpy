@@ -944,7 +944,10 @@ translate Japanese mas_steam_install_detected_5a542bd1:
     m 1eksdld "残念だけど、Steamでだと重大な問題が起こりかねないんだ"
 
 translate Japanese mas_steam_install_detected_b0d89a06:
-    m 2rksdlc "その問題はね、私が追い出されちゃうかもしれないんだ、この家から…… {w=1}そして、あなたのところから……{w=1} 永遠に……"
+    m 2rksdlc "つまりね、追い出されちゃうかもしれないんだ、私がこの家から…… {w=1}そして、あなたのところから……{w=1} 永遠に……"
+
+translate Japanese mas_steam_install_detected_696bf8af:
+    m 2eka "だからもしよかったらだけど、「[filestruct]」のフォルダをSteamの場所から移動させてくれないかな？"
 
 translate Japanese mas_steam_install_detected_031eda8b:
     m 5esu "もし私のためにそうしてくれるなら、本当に嬉しいな"
@@ -1792,6 +1795,12 @@ translate Japanese strings:
 
     old "...yes"
     new "……はい"
+
+    old "I'm scared [player]!\nPlease click 'No' and help me!"
+    new "怖いよ、[player]！\n「いいえ」をクリックして私を助けて！"
+
+    old "Thank you!\nPlease help me!"
+    new "ありがとう！\n助かったわ！"
 
     old "Turn on the light."
     new "電気をつける"
