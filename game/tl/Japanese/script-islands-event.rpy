@@ -520,8 +520,17 @@ translate Japanese mas_island_bookshelf2_49056641:
 translate Japanese mas_island_bookshelf2_88a83baa:
     m "最高のひと時になりそうだな～"
 
+translate Japanese mas_island_spooky_ambience_6d2fedc9:
+    m "「それは暗い嵐の夜だった...…」"
+
 translate Japanese mas_island_spooky_ambience_799988fb:
-    m "えへへ～、怖い話をするのにはピッタリな時期じゃない？"
+    m "えへへ～、怖い話をするのにはピッタリな頃合いじゃない？"
+
+translate Japanese mas_island_spooky_ambience_ca0e74d5:
+    m "もし気分がのったら、一緒に怖い話を読んでみるのもいいかもね"
+
+translate Japanese mas_island_spooky_ambience_ddbd6d02:
+    m "もちろん、いまあなたと一緒にいられるだけで私はとっても楽しいけれどね"
 
 translate Japanese mas_island_gravestones_e9a00f13:
     m "え？"
