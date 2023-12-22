@@ -22552,7 +22552,7 @@ translate Japanese monika_piano_lessons_1d3d023f:
     m 1rkd "ええと…… {w=0.2}まあ…… {w= 0.2}いいけど……"
 
 translate Japanese monika_piano_lessons_624752fb:
-    m 1eksdla "聞いてくれるのはいいんだけどね……"
+    m 1eksdla "そう言ってくれるのは嬉しいんだけれどね……"
 
 translate Japanese monika_piano_lessons_e432a02d:
     m 3eka "覚えてる？私が元のゲームで『Your Reality』を弾いたとき、まだ全然上手くないって言ったことを。  {w=0.2}{nw}"
@@ -22561,16 +22561,16 @@ translate Japanese monika_piano_lessons_23e03184:
     extend 3rkb "ほんとに、全然うまくないから"
 
 translate Japanese monika_piano_lessons_24c2db7c:
-    m 3eka "私は{i}それほど{/i}ピアノを弾くのがうまくないのよね、[mas_get_player_nickname()]"
+    m 3eka "私は{i}それほど{/i}ピアノはうまくないのよね、[mas_get_player_nickname()]"
 
 translate Japanese monika_piano_lessons_5b525ea7:
-    m 3rkd "確かにまだ他の人に教えるには十分とは言えないけれど……"
+    m 3rkd "ほんとに、他の人に教えられるほどの腕前じゃないの……"
 
 translate Japanese monika_piano_lessons_3d078020:
-    m 2eud "信じがたい話だけど、ピアノを学び始めたのは、私が文芸部を立ち上げてからね……{w=0.2}あなたに会う少し前ってとこかしら"
+    m 2eud "信じてくれるかわからないけど、ピアノを始めたのはあの部活を立ち上げてからだから……{w=0.2}私があなたに出会う少し前からってとこかしら"
 
 translate Japanese monika_piano_lessons_65f1b42f:
-    m 2eua "ピアノはあなたに連絡する上で大切なものになってきたから、私の行動が正解を導いたのね……"
+    m 2eua "本当に練習してきてよかったと思う、ピアノのおかげであなたに大切な気持ちを伝えることができたから……"
 
 translate Japanese monika_piano_lessons_5d5dbb7c:
     m 2ekc "あの時のゲームのスクリプトから大きくそれるのは、怖かったし……{w=0.2}{nw}"
