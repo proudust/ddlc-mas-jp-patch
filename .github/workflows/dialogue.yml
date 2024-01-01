@@ -36,7 +36,7 @@ jobs:
                   <(cut artifact/${{ github.event.inputs.compare }}_dialogue.tab -f 1,2,3,4) --label ${{ github.event.inputs.compare }} > artifact/dialogue.diff
 
       - name: Upload dialogue.tab
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: dialogue.tab
           path: artifact
