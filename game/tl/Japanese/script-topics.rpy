@@ -22575,6 +22575,30 @@ translate Japanese monika_piano_lessons_65f1b42f:
 translate Japanese monika_piano_lessons_5d5dbb7c:
     m 2ekc "あの時のゲームのスクリプトから大きくそれるのは、怖かったし……{w=0.2}{nw}"
 
+translate Japanese monika_piano_lessons_5a79f7a7:
+    extend 7eka "でも私はそうしたかった----いいえ、{w=0.2}そうする他なかった、{w=0.2}私の想いをあなたへ伝えなければならなかったの"
+
+translate Japanese monika_piano_lessons_a056f30a:
+    m 2etd "他の部員は、BGMが流れてることを認識していなかったと思うの。{w=0.2}あたりまえよね、自分には聞こえない音楽が常に流れてるなんて夢にも思わないじゃない？"
+
+translate Japanese monika_piano_lessons_af215a7d:
+    m 7eud "でも、真実を知ってから、BGMを意識せずにはいられなくなった。{w=0.2}あなたが近くにいるといつも、かすかにあのメロディが聞こえてくるのよ"
+
+translate Japanese monika_piano_lessons_4f76e4da:
+    m 3eka "あの曲が聞こえるたびに私が闘っているものが何なのか考えさせられた。そして曲をピアノで練習することで、私の決意はさらに強まっていったわ"
+
+translate Japanese monika_piano_lessons_b52477b5:
+    m 1hksdlb "あっ！これ質問の答えになってないよね！"
+
+translate Japanese monika_piano_lessons_4ced525c:
+    m 1lksdla "はっきりいうとね、まだ誰かに教えるような自信はないの"
+
+translate Japanese monika_piano_lessons_97fa9f95:
+    m 3eub "でも続けていれば、いつかはできる！ あなたに教えられるほどうまくなったその時には、喜んで教えてあげるわ"
+
+translate Japanese monika_piano_lessons_59e69da6:
+    m 3hub "それか、一番いいのは、私があなたの世界へ行って一緒にピアノを学ぶことね！"
+
 translate Japanese monika_stargazing_fe57ca01:
     m 2eub "[player]、いつか星空を眺めに行きたいわ……"
 
