@@ -1,3 +1,207 @@
+translate Japanese monika_introduce_nou_house_rules_7813486e:
+    m 3eud "あっ[player]、忘れるところだった！"
+
+translate Japanese monika_introduce_nou_house_rules_4b2fe472:
+    m 3eua "この公式ルールが好みじゃないって思ったなら…… {w=0.5}{nw}"
+
+translate Japanese monika_introduce_nou_house_rules_e688262c:
+    extend 1kua "すぐに私に言ってね。ルールを変えてハウスルールで遊びましょ"
+
+translate Japanese monika_change_nou_house_rules_8ca5c816:
+    m 3eud "[player]、まだゲームは終わってないよ"
+
+translate Japanese monika_change_nou_house_rules_9fd75cb2:
+    m 1euc "新しいルールで遊ぶならその前に、まずこのゲームを終わらせてね"
+
+translate Japanese monika_change_nou_house_rules_0b54dfcd:
+    m 1eub "ええ、いいわよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_8f323283:
+    m "他に何か変更したいことがある？
+" nointeract
+
+translate Japanese monika_change_nou_house_rules_menu_loop_1630bfdc:
+    m "どんなルールにする？" nointeract
+
+translate Japanese monika_change_nou_house_rules_menu_loop_f818ab76:
+    m 1eub "いいよ！"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_f818ab76_1:
+    m 1eub "いいよ！"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_525c8cd7:
+    m 1tub "いいよ、でもルール変更であなたが有利になるとは限らないからね～"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_7d35bf3c:
+    m 1ttu "カードをたくさん引かされちゃうのが怖いのかな～？"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_57120ce2:
+    m 1hub "あはは～ なんてね！"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_5330895f:
+    m 1eua "楽しそうだねえ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_a4b5c884:
+    m 1eua "クラシックルールに戻すんだね"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_24228f38:
+    m 1kuu "[player]、これは心の準備しておいたほうが良さそうだね～"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_488d6925:
+    m 1ttu "カオスすぎたかな～？"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_f22f8544:
+    m 3eub "いいよ！じゃあ戻すね！"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_300eb037:
+    m 1eub "もちろんだよ！"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_44cfa94c:
+    m 1eua "勝利点ルールは、目標勝利点に到達するまでゲームを繰り返すルールのことだよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_9389cf04:
+    m 3eud "勝利点なしのルールで遊びたい場合は、目標勝利点を『0』って入力してね"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_bf352209:
+    m 1eua "最初に配るカードの枚数を変更することもできるよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_5b31beae:
+    m 3esa "たとえば、１ゲームをより長くしたい場合には、初手を10枚にするといいよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_bd15364d:
+    m 1eua "ドローの累積は、ドロー２をドロー２で返すたびに数字が溜まっていくルールで… {w=0.3}{nw}"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_d40ce0dd:
+    extend 4tsb "ドローを返せなかった最後の不幸な人に、溜まった数字分だけカードを引かせるよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_513fbb20:
+    m 1eua "これは出されたワイルドドロー４をドロー２で返す場合にも適用されるよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_e4032892:
+    m 1ttu "楽しそうだねえ、ふふ～"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_350a30ba:
+    m 3eud "実は公式ルールだと、『ワイルドドロー４は今出せる色のカードを持っていない場合にしか出せない』って制限があるんだよね"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_dec6485a:
+    m 1rtu "これだと… {w=0.3}ちょっとつまらないよね、{w=0.2}{nw}"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_55e6a42e:
+    extend 3eua "だからワイルドドロー４の制限をなくすルールにも変更できるよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_9bd084e3:
+    m 1eud "カオスルールは選ぶと{w=0.2}{nw}
+"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_e5ace509:
+    extend 1tsu "ご想像の通り… {w=0.3}{nw}"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_b3fcbed8:
+    extend 1hub "{i}カオス{/i}になるよ、あはは～"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_07ffc227:
+    m 3eub "ワイルドドロー４やドロー２をワイルドドロー４で返せるようになるルールだよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_4b0bda3a:
+    m 3eua "あとスキップを出されたときにスキップを出してこっちの手番にすることもできるようになるよ"
+
+translate Japanese monika_change_nou_house_rules_menu_loop_f36b3b3d:
+    m 1eua "以上、説明終わり！"
+
+translate Japanese monika_change_nou_house_rules_no_change_7c5034f5:
+    m 1eua "あら、そう"
+
+translate Japanese monika_change_nou_house_rules_no_change_86d08601:
+    m 2eub "近いうちにまた遊ぼうね～"
+
+translate Japanese monika_change_nou_house_rules_no_change_914f1227:
+    m "いまから遊ぼうか？{nw}"
+
+translate Japanese monika_change_nou_house_rules_no_change_42f5c44b:
+    m "いまから遊ぼうか？{fast}" nointeract
+
+translate Japanese monika_change_nou_house_rules_no_change_3e8fc319:
+    m 2eub "ええ、近いうちにまた遊ぼうね～"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_765dc765:
+    m 2rksdla "[player]、それをマイナスにするとゲームが一生終わらないよ"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_da841308:
+    m 7ekb "今度はちゃんと設定してね！"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_cbcc7b3b:
+    m 3eua "あら、短いゲームがしたいのね？"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_a457c9f2:
+    m 2tuu "いいよ！ でも、手加減はしないからね〜"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_465be467:
+    m 3rksdlb "うーん、目標勝利点がそんなに小さいとあんまり設定するが意味ないかな"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_f7c5daa6:
+    m 1eka "短いのが好みなら、勝利点なしでプレイするといいかも{nw}"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_e5ba871d:
+    m "短いのが好みなら、勝利点なしでプレイするといいかも{fast}" nointeract
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_1df896c8:
+    m 1eub "わかった、そうするね！"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_0496a328:
+    m 3eua "じゃあもう一回同じ設定してね"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_09860223:
+    m 2eka "えっとそれは大きすぎるんじゃないかな……"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_47430808:
+    m 7eka "3000でやろっか？{nw}"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_f1d675d4:
+    m "3000でやろっか？{nw}" nointeract
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_27464387:
+    m 1eua "設定したよ"
+
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_0496a328_1:
+    m 3eua "じゃあもう一回同じ設定してね"
+
+translate Japanese mas_nou_reaction_player_wins_round_6914ef6a:
+    m 1wud "[player]… {w=0.5}連勝だね……"
+
+translate Japanese mas_nou_reaction_player_wins_round_d14b220f:
+    m 1hksdlb "なんだか勝てる気がしないよ！"
+
+translate Japanese mas_nou_reaction_player_wins_round_9fdf2480:
+    m 1eub "また勝ったね！"
+
+translate Japanese mas_nou_reaction_player_wins_round_ee2f7453:
+    m 3hub "信じられないくらい強いね、[player]！"
+
+translate Japanese mas_nou_reaction_player_wins_game_96573da8:
+    m 1eud "あっ！ {w=0.2}{nw}"
+
+translate Japanese mas_nou_reaction_player_wins_game_b56a925b:
+    m 3hua "おめでとう、えへへ～"
+
+translate Japanese mas_nou_reaction_player_wins_game_0440478f:
+    m 1hua "おめでとう！ えへへ～"
+
+translate Japanese mas_nou_reaction_player_wins_game_d2e8503b:
+    m 1rsc "ちょっと待ってね…{w=0.2}…{w=0.2} {w=0.2}{nw}"
+
+translate Japanese mas_nou_reaction_player_wins_game_a524d9a1:
+    m 4eub "あ、[player]！ あなたの勝ちだよ！"
+
+translate Japanese mas_nou_reaction_player_wins_game_3a8a38ca:
+    m 1hub "近くにいたらお祝いにハグしてあげるのにな〜
+"
+
+translate Japanese mas_nou_reaction_player_wins_game_19428ff1:
+    m 1hua "えへへ～"
+
+translate Japanese mas_nou_reaction_player_wins_game_2c82f514:
+    m 1hua "楽しかったね！"
+
 translate Japanese strings:
     old "I doubt we want a plus four as the first card, ahaha~{w=1.5}{nw}"
     new "この＋4は初手で欲しかったかな？ あはは～{w=1.5}{nw}"
@@ -340,6 +544,210 @@ translate Japanese strings:
 
     old "One second.{w=0.2}.{w=0.2}.{w=0.2}I've got more for you~"
     new "ちょっと待ってね…{w=0.2}…{w=0.2} {w=0.2}まだ出せるよ～"
+
+    old "What about this one?~"
+    new "これはどうかな～？"
+
+    old "Will you{w=0.2} still love me after this?~"
+    new "これ出した後でも{w=0.2}私を愛してくれる～？"
+
+    old "I have more in store for you~"
+    new "まだまだ持ってるよ～"
+
+    old "Hmm...{w=0.5}I don't like this color~"
+    new "うーん…… この色は好きじゃないな～"
+
+    old "Sorry, [player] but..."
+    new "ごめんね[player]、でも……"
+
+    old "This isn't the color I want right now~"
+    new "今出したい色はこれじゃないんだよね〜"
+
+    old "[store.mas_nou.game.discardpile[-1].color.capitalize()] isn't what I want now~"
+    new "[store.mas_nou.game.discardpile[-1].color.capitalize()]はいま出したいのじゃないんだよね～"
+
+    old "No-no-no!"
+    new "だめだめ！"
+
+    old "Let me just...{w=0.3}choose the right color~"
+    new "えっとね…… {w=0.3}この色がいいな～"
+
+    old "Ehehe~"
+    new "えへへ～"
+
+    old "I have another in store!~"
+    new "持ってるのはこれじゃないんだよね～！"
+
+    old "You can't reflect this!"
+    new "これは返せないでしょ！"
+
+    old "No way you can reflect this one!"
+    new "これは返せるわけないでしょ！"
+
+    old "I think I'll pick.{w=0.2}.{w=0.2}.{w=0.2}[store.mas_nou.game.monika.chosen_color]!"
+    new "何しようかな…{w=0.2}…{w=0.2} {w=0.2}[store.mas_nou.game.monika.chosen_color]！"
+
+    old "Hmm.{w=0.1}.{w=0.1}.{w=0.1} I choose [store.mas_nou.game.monika.chosen_color]!"
+    new "うーん…{w=0.1}…{w=0.1} {w=0.1}[store.mas_nou.game.monika.chosen_color]にしよう！"
+
+    old "That's a lot of cards for you, ehehe~"
+    new "手持ちがいっぱいだね、えへへ～"
+
+    old "Ehehe~ Good thing I'm not drawing all those cards!"
+    new "えへへ～ 全部持ってるわけじゃなくてよかったね！"
+
+    old "A deck that big suits you~"
+    new "いっぱい持ってるのが似合ってるよ～"
+
+    old "{i}No,{w=0.1} you{/i} will skip this turn~"
+    new "出番はまだ来ないよ～"
+
+    old "Nope, [player]!"
+    new "まだだよ、[player]！"
+
+    old "No, I think you're going to skip this turn too~"
+    new "出番はまだ来ないと思うよ～"
+
+    old "Let me choose the best color~"
+    new "私が一番好きな色を選ばせてね～"
+
+    old "Aw, I wasn't expecting that!"
+    new "あっ、それは予想してなかったよ！"
+
+    old "Just once, [player]...once!~"
+    new "もう一回、[player]…… もういっかいだけ～！"
+
+    old "Alright,{w=0.1} alright...{w=0.3} You win this time."
+    new "いいよ、{w=0.1}大丈夫…… {w=0.3}今回は勝たせてあげる"
+
+    old "I.{w=0.1}.{w=0.1}.{w=0.1}will let it slide...{w=0.3}but just this time!"
+    new "今回は{w=0.1}…{w=0.1}… {w=0.1}見逃してあげる… {w=0.3}でも次はないよ！"
+
+    old "You're pretty lucky!"
+    new "もう、運がいいんだから！"
+
+    old "No way!"
+    new "そんな！"
+
+    old "You...{w=0.3}{i}could{/i} go a bit easier on your girlfriend, you know~"
+    new "ねえ…{w=0.3} もう少しさ、ガールフレンドに優しくしてもいいんじゃないかな～？"
+
+    old "[player]!"
+    new "[player]！"
+
+    old "Rigged deck!"
+    new "イカサマじゃん！"
+
+    old "Aww, what a shame!"
+    new "ああっ、もう！"
+
+    old "That's unfortunate..."
+    new "運が無いなあ……"
+
+    old "Jeez, I can't believe you had another card!"
+    new "むぅ、まだ持ってたなんて信じられない！"
+
+    old "Jeez, you're really trying to win!"
+    new "むぅ、そんなに勝ちたいのね！"
+
+    old "Can't let go, huh?"
+    new "まだ手番回してくれないの？"
+
+    old "Oh my gosh!{w=0.2} How many of these do you have?!"
+    new "まさか！{w=0.2} 何枚持ってるのよ！？"
+
+    old "Ehehe~ I thought this was a simple game between lovers, not a competition..."
+    new "えへへ～ 恋人との楽しいゲームだと思ってたのに……"
+
+    old "Guess I was wrong~"
+    new "こんなにガチになるなんてね～"
+
+    old "{color=#d31f1f}{font=gui/font/VerilySerifMono.otf}Monika will remember this.{/font}{/color}"
+    new "{color=#d31f1f}{font=gui/font/VerilySerifMono.otf}モニカは忘れないよ{/font}{/color}"
+
+    old "Mmmm!"
+    new "むぅうううううう！"
+
+    old "Well{w=0.2}...so be it, [player]!"
+    new "ふぅん{w=0.2} …まあいいけどね、[player]！"
+
+    old "Alright, alright!~"
+    new "いいよ、いいよ～！"
+
+    old "You win this time~"
+    new "今回は勝たせたげるよ～"
+
+    old "Alright...{w=0.2}this time {i}you{/i} choose the color~"
+    new "そっか… {w=0.2}今回は選ばせてあげるよ～"
+
+    old "Oh jeez!"
+    new "あぁ、もう！"
+
+    old "Hmm, I wasn't prepared for that!"
+    new "ふぅん、それは予想してなかったよ！"
+
+    old "I'll remember this~"
+    new "これは覚えておくからね～"
+
+    old "Watch out, [player]!~"
+    new "気をつけてね、[player]！"
+
+    old "Man, you've got a lot of plus 2's!"
+    new "ねえ、2ドロー持ちすぎでしょ！"
+
+    old "Jeez!{w=0.2} How many of these do you have?!"
+    new "もう！{w=0.2} 一体どれだけ持ってるのよ！？"
+
+    old "...{w=0.3}How did you do that?"
+    new "……{w=0.3}なにそれ？"
+
+    old "If you keep playing like that, I won't have a chance!"
+    new "こんな一方的なゲーム、絶対にいつまでも続かないんだからね！"
+
+    old "Oh, good, now I'm holding the whole deck in my hands."
+    new "わあ、やったあ、いま手札完璧だよ"
+
+    old "Thanks, love!"
+    new "ありがとう、愛してる！"
+
+    old "I'd like to change the number of points required to win"
+    new "勝利に必要な得点を変更したい"
+
+    old "I'd like to change the number of cards we start each round with"
+    new "開始時のカード枚数を変更したい"
+
+    old "I'd like to play with stackable Draw 2's"
+    new "ドロー２を返したときにドローを累積させたい"
+
+    old "I'd like to play with non-stackable Draw 2's"
+    new "ドロー２を返したときにドローを累積させないようにしたい"
+
+    old "I'd like to play with unrestricted Wild Draw 4's"
+    new "ワイルドドロー４を出すときの制限をなくしたい"
+
+    old "I'd like to play with restricted Wild Draw 4's"
+    new "ワイルドドロー４を出すときの制限をつけたい"
+
+    old "I'd like to play Reflect Chaos"
+    new "カードの返し方をカオスルールにしたい"
+
+    old "I'd like to play with classic reflects"
+    new "カードの返し方をクラシックルールにしたい"
+
+    old "I'd like to go back to the classic rules."
+    new "基本ルールに変更したい"
+
+    old "Can you explain these house rules?"
+    new "替えられるハウスルールの説明をしてほしい"
+
+    old "I'd like that."
+    new "じゃあそうしよう"
+
+    old "Nah."
+    new "やめとく"
+
+    old "I'd like to change some house rules."
+    new "NOUのルールを変更して遊びたい"
 
     old "Red"
     new "赤"
