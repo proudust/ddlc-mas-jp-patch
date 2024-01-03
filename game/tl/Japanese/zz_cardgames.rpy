@@ -165,6 +165,64 @@ translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_27464
 translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_0496a328_1:
     m 3eua "じゃあもう一回同じ設定してね"
 
+translate Japanese monika_change_nou_house_rules_change_points_to_win_loop_343761bd:
+    m 3eub "オーケー、これからは[points_cap]点先に取ったほうが勝ちだからね！"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_44965b77:
+    m 2rksdlb "[player]、カードがないとゲームできないよ！"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_e5b59a07:
+    m 7ekb "もう一度設定し直してね～"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_eb511969:
+    m 2eka "カード[starting_cards]枚で始めても、あんまり面白くないと思うよ[player]……"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_0ec16154:
+    m 7eka "少なくても4枚で始めたほうがいいと思うよ{nw}"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_2bd57ef7:
+    m "少なくても4枚で始めたほうがいいと思うよ{fast}
+" nointeract
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_241dfc57:
+    m 3eua "じゃあもう一度設定してね"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_45bf0053:
+    m 2hub "あはは、[player]！私が[starting_cards]枚も持てるって思ってる？"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_4eeed5e2:
+    m 7eua "ちょっと多すぎると思うし、20枚で始めない？{nw}"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_db0148cb:
+    m "ちょっと多すぎると思うし、20枚で始めない？{fast}" nointeract
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_241dfc57_1:
+    m 3eua "じゃあもう一度設定してね"
+
+translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_0181b712:
+    m 3eub "オーケー、じゃあこれからは各[_round!t]のはじめに[starting_cards]枚ずつ配るね！"
+
+translate Japanese monika_explain_nou_rules_83b0e63d:
+    m 1hua "もちろんだよ、[player]"
+
+translate Japanese monika_explain_nou_rules_edcf74dc:
+    m 3eub "このゲームは一見複雑そうに見えるかもしれないけど、{w=0.1}{nw}"
+
+translate Japanese monika_explain_nou_rules_eccfe8cb:
+    extend 4eub "実はとても簡単なゲームなんだよ"
+
+translate Japanese monika_explain_nou_rules_c9851011:
+    m 4eua "数ゲーム遊んでみればすぐにコツがつかめるはずだよ"
+
+translate Japanese monika_explain_nou_rules_650c3cef:
+    m 7esa "今のルールでは7枚の手札を持ってからゲームを始めるよ"
+
+translate Japanese monika_explain_nou_rules_7986aa20:
+    m 7esa "基本ルールでは7枚の手札を持ってからゲームを始めるんだけど、今のルールでは[mas_nou.get_house_rule('starting_cards')]枚の手札を持ってからゲームを始めるよ"
+
+translate Japanese monika_explain_nou_rules_883d10e5:
+    m 1esa "各ラウンドでの目標は、相手の手札がすべてなくなる前に、自分の手札を出し切ることだよ"
+
 translate Japanese mas_nou_reaction_player_wins_round_6914ef6a:
     m 1wud "[player]… {w=0.5}連勝だね……"
 
@@ -176,6 +234,9 @@ translate Japanese mas_nou_reaction_player_wins_round_9fdf2480:
 
 translate Japanese mas_nou_reaction_player_wins_round_ee2f7453:
     m 3hub "信じられないくらい強いね、[player]！"
+
+translate Japanese mas_nou_reaction_player_wins_round_dcd23888:
+    m 1hub "今[_round!t]はあなたの勝ち！"
 
 translate Japanese mas_nou_reaction_player_wins_game_96573da8:
     m 1eud "あっ！ {w=0.2}{nw}"
@@ -745,6 +806,12 @@ translate Japanese strings:
 
     old "Nah."
     new "やめとく"
+
+    old "round"
+    new "ラウンド"
+
+    old "game"
+    new "ゲーム"
 
     old "I'd like to change some house rules."
     new "NOUのルールを変更して遊びたい"
