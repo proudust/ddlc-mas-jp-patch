@@ -223,11 +223,167 @@ translate Japanese monika_explain_nou_rules_7986aa20:
 translate Japanese monika_explain_nou_rules_883d10e5:
     m 1esa "各ラウンドでの目標は、相手の手札がすべてなくなる前に、自分の手札を出し切ることだよ"
 
+translate Japanese monika_explain_nou_rules_f30c48fb:
+    m 3eub "カードを出すときは、一番上のカードの色か数字か記号が同じじゃないと出せないよ"
+
+translate Japanese monika_explain_nou_rules_588571d4:
+    m 3eua "自分の手番でカードを出せないときは、山札からカードを1枚引かないとだめだよ"
+
+translate Japanese monika_explain_nou_rules_6b924562:
+    m 1esa "この場合は、出せるカードを引いてもすぐに出さなくてもいいよ"
+
+translate Japanese monika_explain_nou_rules_9e01fcf4:
+    m 3eub "カードを出すか手番をパスすると、次は相手の手番だよ。誰かの手札がなくなるまでそのラウンドは続くよ"
+
+translate Japanese monika_explain_nou_rules_6a6dccef:
+    m 1eua "ラウンドの勝者には、相手の手札に残っているカードと同じだけの勝利点がもらえるよ"
+
+translate Japanese monika_explain_nou_rules_10a7b1e4:
+    m "どちらかの勝利点が、目標勝利点の[mas_nou.get_house_rule('points_to_win')]点を超えるまでラウンドを繰り返していくんだ"
+
+translate Japanese monika_explain_nou_rules_4b3538d4:
+    m 1esa "この得点システムがあることで、白熱した戦略的なゲームになるんだよね"
+
+translate Japanese monika_explain_nou_rules_ab03ec5f:
+    m 3eub "カードを出すか手番をパスすると、次は相手の手番だよ。最初に手札がなくなった人が勝ちだよ"
+
+translate Japanese monika_explain_nou_rules_ee3771c3:
+    m 1esa "得点システムがないこのルールだと、手軽でカジュアルに楽しめるのがいいんだよね"
+
+translate Japanese monika_explain_nou_rules_d29bf416:
+    m 3eub "このゲームのいちばん重要なルールは、{i}カードが最後の1枚になる前に{/i}{w=0.2}{nw}"
+
+translate Japanese monika_explain_nou_rules_2e821b80:
+    extend 7eub "『NOU』と宣言すること。もう少しで勝っちゃうよって相手に聞こえるように知らせるんだ！"
+
+translate Japanese monika_explain_nou_rules_1107cab8:
+    m 2rksdla "まあ、私たちの場合だと実際に聞こえるように宣言するは難しいよね……"
+
+translate Japanese monika_explain_nou_rules_bfdea9c3:
+    m 7hub "だからあなたには右側にボタンを用意したから、それで私に宣言してね！"
+
+translate Japanese monika_explain_nou_rules_b927e9c5:
+    m 1eua "相手が『NOU』って言い忘れた場合は、宣言してないぞって指摘することができるの。運悪く指摘されたその人は、2枚カードを引かなければならないの"
+
+translate Japanese monika_explain_nou_rules_723caba0:
+    m 3eub "このゲームのデッキには数字のカードの他に、アクションカードやワイルドカードと言われる特別なカードがあるんだ"
+
+translate Japanese monika_explain_nou_rules_236de0e1:
+    m 3eua "アクションカードは記号が描かれていて、ワイルドカードは特徴的な黒色だからすぐに分かると思うわ"
+
+translate Japanese monika_explain_nou_rules_eec6cbf9:
+    m 1eua "これらのカードは、相手の手番をとばしたり、相手にカードを引かせたりすることができるの"
+
+translate Japanese monika_explain_nou_rules_ad6f05b8:
+    m 1tsu "場合によっては、いっきに12枚も引かせられちゃうこともあるよ"
+
+translate Japanese monika_explain_nou_rules_f4e809fc:
+    m 1eua "ワイルドカードはどんな色が前に出されていたとしても置くことができるよ"
+
+translate Japanese monika_explain_nou_rules_892f5a36:
+    m 3eua "ただし、ワイルドカードを置けるのは手持ちに一番上に置かれた色のカードがないときだけ"
+
+translate Japanese monika_explain_nou_rules_4cd45a56:
+    m 3eua "普通、ワイルドカードは一番上に置かれた色のカードが手持ちにない場合にしか出せないんだけど、いまやってる私たちのルールだといつでも置けるね"
+
+translate Japanese monika_explain_nou_rules_23d4d830:
+    m 1eua "ワイルドカードを出すときには、色を何色にするか宣言してね"
+
+translate Japanese monika_explain_nou_rules_7fc7ecd0:
+    m "ワイルドカードやアクションカードは強力だけど、身を守る手段はあるの"
+
+translate Japanese monika_explain_nou_rules_8d2439c3:
+    m 1eub "たとえば、相手がワイルドドロー４を出してきたとしても、相手の宣言した色のドロー２を持っていれば跳ね返すことができる"
+
+translate Japanese monika_explain_nou_rules_79a347f9:
+    m 3eua "相手がドロー２を出したときも、ドロー２を持っていれば跳ね返せる。その場合は色は関係ないわね"
+
+translate Japanese monika_explain_nou_rules_a7578a65:
+    m 1ekb "今の説明でゲームの理解が深まってくれたら嬉しいな"
+
+translate Japanese monika_explain_nou_rules_61d85c87:
+    m 1eku "でもこのゲームで言えるのは、勝つことだけが重要じゃないってこと"
+
+translate Japanese monika_explain_nou_rules_885def22:
+    m 5hubla "えへへ～"
+
+translate Japanese mas_nou_game_start_2312e484:
+    m 1kua "次はきっと勝てるよ！"
+
+translate Japanese mas_nou_game_start_bd65c4d0:
+    m 1tuu "気をつけてね、今回は手加減しないよ～"
+
+translate Japanese mas_nou_game_start_d4ebca2b:
+    m 1hua "続けよ～う"
+
+translate Japanese mas_nou_game_start_eaa2f6e6:
+    m 1hua "ゲームをやめたい？"
+
+translate Japanese mas_nou_game_start_ebded532:
+    m 3eua "じゃあちょっとスコアをつけさせてね{w=0.2}…{w=0.2}…{w=0.2} {nw}"
+
+translate Japanese mas_nou_game_start_a785a615:
+    m 1eub "カードを配らせてね～"
+
+translate Japanese mas_nou_game_end_1136941e:
+    m 3eua "もっと遊びたい？{nw}"
+
+translate Japanese mas_nou_game_end_ca9a653f:
+    m "もっと遊びたい？{fast}" nointeract
+
+translate Japanese mas_nou_game_end_0dbb251c:
+    m 1hub "わぁい！"
+
+translate Japanese mas_nou_game_end_5aab7375:
+    m 1hua "わかった、また遊びたくなったら教えてね～"
+
+translate Japanese mas_nou_game_end_1136941e_1:
+    m 3eua "もっと遊びたい？{nw}"
+
+translate Japanese mas_nou_game_end_ca9a653f_1:
+    m "もっと遊びたい？{fast}" nointeract
+
+translate Japanese mas_nou_game_end_0dbb251c_1:
+    m 1hub "わぁい！"
+
+translate Japanese mas_nou_game_end_5aab7375_1:
+    m 1hua "わかった、また遊びたくなったら教えてね～"
+
+translate Japanese mas_nou_game_end_89ccab36:
+    m 3eua "別の[_round!t]をやりたい？{nw}"
+
+translate Japanese mas_nou_game_end_487a606b:
+    m "別の[_round!t]をやりたい？{fast}" nointeract
+
+translate Japanese mas_nou_game_end_52701190:
+    m 1hua "わかった、また遊ぼうね～"
+
+translate Japanese mas_nou_game_end_change_rules_and_continue_b4fcf462:
+    m 3hub "続きからだよ、準備はいい？{nw}"
+
+translate Japanese mas_nou_game_end_change_rules_and_continue_4aed44b7:
+    m "続きからだよ、準備はいい？{fast}" nointeract
+
+translate Japanese mas_nou_game_end_change_rules_and_continue_417d1e8f:
+    m 1ekc "あらら、じゃあまたね"
+
+translate Japanese mas_nou_game_end_change_rules_and_continue_bd2a5f73:
+    m 1eka "あら、じゃあまたね"
+
+translate Japanese mas_nou_reaction_player_wins_round_7372473d:
+    m 1hua "今回は勝ててよかったね……"
+
+translate Japanese mas_nou_reaction_player_wins_round_1e6ad76f:
+    m 3eub "おめでとう、[player]！"
+
 translate Japanese mas_nou_reaction_player_wins_round_6914ef6a:
     m 1wud "[player]… {w=0.5}連勝だね……"
 
 translate Japanese mas_nou_reaction_player_wins_round_d14b220f:
     m 1hksdlb "なんだか勝てる気がしないよ！"
+
+translate Japanese mas_nou_reaction_player_wins_round_d90bd953:
+    m 1hksdlb "ちょっとは勝たせてよ～"
 
 translate Japanese mas_nou_reaction_player_wins_round_9fdf2480:
     m 1eub "また勝ったね！"
@@ -235,14 +391,188 @@ translate Japanese mas_nou_reaction_player_wins_round_9fdf2480:
 translate Japanese mas_nou_reaction_player_wins_round_ee2f7453:
     m 3hub "信じられないくらい強いね、[player]！"
 
+translate Japanese mas_nou_reaction_player_wins_round_12bbd7a3:
+    m 1wud "わぁ！また勝ったね！"
+
+translate Japanese mas_nou_reaction_player_wins_round_c0473dc0:
+    m 3esa "その強さのヒミツを教えてほしいな、[player]？"
+
+translate Japanese mas_nou_reaction_player_wins_round_170560ca:
+    m 1hua "私も勝ちたいよ～"
+
+translate Japanese mas_nou_reaction_player_wins_round_3c592b4e:
+    m 1hub "この[_round!t]も[player]の勝ちだね！"
+
+translate Japanese mas_nou_reaction_player_wins_round_132dc142:
+    m 3eub "本当にすごい！"
+
+translate Japanese mas_nou_reaction_player_wins_round_6c77506a:
+    m 4eub "すごいよ、また勝利！"
+
+translate Japanese mas_nou_reaction_player_wins_round_9e8726c1:
+    m 1tsu "でも次の[_round!t]は勝ってみせるよ"
+
+translate Japanese mas_nou_reaction_player_wins_round_c348f5dd:
+    m 1hub "信じられない！ また勝利だね！"
+
+translate Japanese mas_nou_reaction_player_wins_round_6dba3600:
+    m 1eub "気を緩めたらだめだよ。{w=0.5}{nw}"
+
+translate Japanese mas_nou_reaction_player_wins_round_0e99e21d:
+    extend 1kua "次はきっと勝ってみせるから！"
+
+translate Japanese mas_nou_reaction_player_wins_round_9888d4e0:
+    m 1tuu "ラッキーだね"
+
+translate Japanese mas_nou_reaction_player_wins_round_6786e427:
+    m 1hub "あはは～ おめでとう、[player]！"
+
+translate Japanese mas_nou_reaction_player_wins_round_d3ebf007:
+    m 3eua "今回は勝てて本当によかったね～"
+
+translate Japanese mas_nou_reaction_player_wins_round_ffa18286:
+    m 1hua "勝つと思ってたよ～"
+
+translate Japanese mas_nou_reaction_player_wins_round_c7ffb5e6:
+    m 3hub "えへへ～　おめでとう！"
+
+translate Japanese mas_nou_reaction_player_wins_round_d6dd2e21:
+    m 1tuu "運が戻ってきたね～"
+
+translate Japanese mas_nou_reaction_player_wins_round_cae3c1ae:
+    m 1hua "上手だったね！ えへへ～"
+
+translate Japanese mas_nou_reaction_player_wins_round_4984f9df:
+    m 1hub "わぁ、勝ったね～！"
+
+translate Japanese mas_nou_reaction_player_wins_round_e9d21380:
+    m 1tsa "あ、真剣にやり始めたのかな？"
+
+translate Japanese mas_nou_reaction_player_wins_round_e6f89ce6:
+    m 1hub "あはは～"
+
+translate Japanese mas_nou_reaction_player_wins_round_3965d8b9:
+    m 1ruu "あっ… またもう少しのところでやられちゃった！"
+
+translate Japanese mas_nou_reaction_player_wins_round_3eb5a55c:
+    m 3hua "上手だねえ、[player]"
+
+translate Japanese mas_nou_reaction_player_wins_round_2b246c49:
+    m 1hub "勝ったね、[player]！"
+
+translate Japanese mas_nou_reaction_player_wins_round_f4b81110:
+    m 3hub "すごい！"
+
+translate Japanese mas_nou_reaction_player_wins_round_174294c3:
+    m 2tub "今回は白熱したゲームだったね！"
+
+translate Japanese mas_nou_reaction_player_wins_round_cf0b9a9c:
+    m 1hub "おめでとう、[player]！"
+
+translate Japanese mas_nou_reaction_player_wins_round_82f3eef5:
+    m 1hua "勝ったね！ いいね～"
+
+translate Japanese mas_nou_reaction_player_wins_round_4d99b9a7:
+    m 1hub "またすぐに勝てるよ！"
+
+translate Japanese mas_nou_reaction_player_wins_round_a5404e5f:
+    m 1kuu "でも気を抜かないほうがいいよ、[player]～"
+
+translate Japanese mas_nou_reaction_player_wins_round_00913b8b:
+    m 1wuo "わあ、[player]！"
+
+translate Japanese mas_nou_reaction_player_wins_round_0b3aeca9:
+    m 1hksdlb "全然追いつけないよ！"
+
+translate Japanese mas_nou_reaction_player_wins_round_297ffdfe:
+    m 1rka "もう少し頑張らないとだめみたいかな～"
+
+translate Japanese mas_nou_reaction_player_wins_round_d424335d:
+    m 1hksdla "えへへ、私がなにかする前に[_round!t]を終わらせちゃうね"
+
+translate Japanese mas_nou_reaction_player_wins_round_d98b42ba:
+    m 1hfb "あっ… {w=0.2}もう少しだったのに！"
+
+translate Japanese mas_nou_reaction_player_wins_round_d73039b3:
+    m 3efb "おめでとう、[player]！"
+
+translate Japanese mas_nou_reaction_player_wins_round_432b858f:
+    m 4wuo "わぁ！ {w=0.2}もう全部出しちゃったの？"
+
+translate Japanese mas_nou_reaction_player_wins_round_892cb713:
+    m 7husdlb "早すぎだよ！"
+
+translate Japanese mas_nou_reaction_player_wins_round_4dcc0335:
+    m 3hub "いい試合だったよ！"
+
+translate Japanese mas_nou_reaction_player_wins_round_bafc13cf:
+    m 3hub "すごいね、[player]！"
+
+translate Japanese mas_nou_reaction_player_wins_round_07eb62f5:
+    m 3hub "この[_round!t]、あっという間だったね！"
+
+translate Japanese mas_nou_reaction_player_wins_round_a4d98e3c:
+    m 1esa "すごく長い[_round!t]だったね、[player]"
+
+translate Japanese mas_nou_reaction_player_wins_round_d405c7f5:
+    m 1hua "今回はもう少しで勝てそうだったのに！"
+
+translate Japanese mas_nou_reaction_player_wins_round_b03d91fd:
+    m 1hua "もう少しで勝てそうだったのに！"
+
+translate Japanese mas_nou_reaction_player_wins_round_3e15a14c:
+    m 1hub "あはは～ おめでとう！"
+
+translate Japanese mas_nou_reaction_player_wins_round_f5c93c99:
+    m 1hub "いい試合だったよ！"
+
+translate Japanese mas_nou_reaction_player_wins_round_f5c93c99_1:
+    m 1hub "いい試合だったよ！"
+
+translate Japanese mas_nou_reaction_player_wins_round_432d1f96:
+    m 1kuu "白熱した試合だったね"
+
+translate Japanese mas_nou_reaction_player_wins_round_38ab750d:
+    m 1hua "えへへ～ {w=0.3}{nw}"
+
+translate Japanese mas_nou_reaction_player_wins_round_17812918:
+    extend 1eub "本当に上手だね！"
+
+translate Japanese mas_nou_reaction_player_wins_round_c76c197c:
+    m 1eub "またあなたの勝ち！"
+
+translate Japanese mas_nou_reaction_player_wins_round_7a5f8f2b:
+    m 1eub "あなたの勝ちだよ～！"
+
 translate Japanese mas_nou_reaction_player_wins_round_dcd23888:
     m 1hub "今[_round!t]はあなたの勝ち！"
+
+translate Japanese mas_nou_reaction_player_wins_round_4c2b9e78:
+    m 2eub "あなたの勝ちだよ、おめでとう！"
+
+translate Japanese mas_nou_reaction_player_wins_round_229f88c0:
+    m 2kuu "でも毎回勝てるなんて思わないでね～"
+
+translate Japanese mas_nou_reaction_player_wins_round_33887f02:
+    m 2eua "今回は勝ててよかったね～"
+
+translate Japanese mas_nou_reaction_player_wins_round_8959364b:
+    m 3hub "おめでとう、[player]！"
 
 translate Japanese mas_nou_reaction_player_wins_game_96573da8:
     m 1eud "あっ！ {w=0.2}{nw}"
 
+translate Japanese mas_nou_reaction_player_wins_game_1130311b:
+    extend 3eub "負けちゃったね！"
+
+translate Japanese mas_nou_reaction_player_wins_game_71ee6df6:
+    m 1ruu "そんなにあがりが近かったなんて思わなかったよ"
+
 translate Japanese mas_nou_reaction_player_wins_game_b56a925b:
     m 3hua "おめでとう、えへへ～"
+
+translate Japanese mas_nou_reaction_player_wins_game_87ed2b07:
+    m 3eub "あっ、この試合も勝ちだね！"
 
 translate Japanese mas_nou_reaction_player_wins_game_0440478f:
     m 1hua "おめでとう！ えへへ～"
@@ -262,6 +592,256 @@ translate Japanese mas_nou_reaction_player_wins_game_19428ff1:
 
 translate Japanese mas_nou_reaction_player_wins_game_2c82f514:
     m 1hua "楽しかったね！"
+
+translate Japanese mas_nou_reaction_player_wins_game_1225f663:
+    m 4eub "そしてあなたが初めて[mas_nou.get_house_rule('points_to_win')]点先取した勝者！"
+
+translate Japanese mas_nou_reaction_player_wins_game_cfcffb88:
+    m 1hua "おめでとう、[player]～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_2c5b1d9a:
+    m 2wub "私の勝ち～！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_3295f1d1:
+    m 7eka "勝ちを拾わせてくれてありがとう、[player]、{w=0.3}{nw}"
+
+translate Japanese mas_nou_reaction_monika_wins_round_d37622cd:
+    extend 1hub "次はきっと勝てるよ！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_3dc4827b:
+    m 1hub "私の勝ち！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_432e7a14:
+    m 1hksdla "……"
+
+translate Japanese mas_nou_reaction_monika_wins_round_aa1619f3:
+    m 1eka "あなたのアシストがなかったら無理だったかな。えへへ～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_e1543196:
+    m 3tsb "宣言どおりの勝利！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_71a26a96:
+    m 1tfu "さあ、次のゲームに行きましょ"
+
+translate Japanese mas_nou_reaction_monika_wins_round_638a2783:
+    m 4sub "あはは！ 運気が戻ってきたよ～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_367eca25:
+    m 4sub "よし！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_7cb37c86:
+    m 7hub "ついに勝てたよ～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_fdaefdf7:
+    m 2tub "気を抜いちゃダメだよ、[player]～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_43265de8:
+    m 1hua "私の勝ち！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_063d7b23:
+    m 1hub "わぁい！ 今回は勝てたよ～！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_38868a44:
+    m 1hub "また私の勝ち～！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_7f442c66:
+    m 1eub "あと一歩だったね、[player]！{w=0.5}{nw}"
+
+translate Japanese mas_nou_reaction_monika_wins_round_6a15069f:
+    extend 3eua "次はきっと勝てるよ"
+
+translate Japanese mas_nou_reaction_monika_wins_round_8cb751d6:
+    m 1kua "次の[_round!t]ではきっと勝てるよ～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_75a7cdd4:
+    m 1huu "やられたよ、[player]。でも次の勝利は私のものだからね～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_33b35ac2:
+    m 3eub "楽しかったね！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_7650948a:
+    m 1eka "[player]も私と遊んで楽しんでくれてたら嬉しいな～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_151d3756:
+    m 1kua "もしかしたら次は勝てるかもね"
+
+translate Japanese mas_nou_reaction_monika_wins_round_257f2274:
+    m 1hua "えへへ～ また私の勝ち～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_c76a3fba:
+    m 3eub "今回はあと一歩だったね、[player]"
+
+translate Japanese mas_nou_reaction_monika_wins_round_192335e5:
+    m 2tuu "もうすこし手加減したほうがいいかな？"
+
+translate Japanese mas_nou_reaction_monika_wins_round_21d06edd:
+    m 7hub "あはは、なんてね、冗談だよ[player]～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_63f3a85d:
+    m 4hub "また私の勝ち！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_9a8e1b65:
+    m 4hub "今回は速攻で勝利を決めれたね！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_cae29a75:
+    m 1tub "私の速さに追いつけるかな～？"
+
+translate Japanese mas_nou_reaction_monika_wins_round_fc1a0b14:
+    m 1eub "わぁい、また勝った！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_eb902a6f:
+    m 1wub "わぁい、勝ったよ！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_8623180f:
+    m 3eub "早めに終わったね！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_628ba0be:
+    m 1eub "今回は長い[_round!t]だったね！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_d383c679:
+    m 3eua "次はきっと勝てるよ"
+
+translate Japanese mas_nou_reaction_monika_wins_round_f5908fbc:
+    m 3eua "あと少しだったね"
+
+translate Japanese mas_nou_reaction_monika_wins_round_2643a235:
+    m 3hub "えへへ～ いい試合だったよ！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_4dcc0335:
+    m 3hub "いい試合だったよ！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_3115c8f0:
+    m 1hub "白熱した試合だったね！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_81aeb6a2:
+    m 1tsb "悪くなかったよ、[player]"
+
+translate Japanese mas_nou_reaction_monika_wins_round_23fd0ed0:
+    m 3tub "もしかしたら勝ててたかもしれないね、{w=0.5}{nw}"
+
+translate Japanese mas_nou_reaction_monika_wins_round_aeebfe33:
+    extend 1tuu "そんなに手札がいっぱいじゃなければ"
+
+translate Japanese mas_nou_reaction_monika_wins_round_e6f89ce6:
+    m 1hub "あはは～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_fcb81269:
+    m 1wub "あ、私の勝ち！"
+
+translate Japanese mas_nou_reaction_monika_wins_round_56bb508c:
+    m 1hua "また私の勝ち～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_581e7dd0:
+    m 1sub "やった、勝てた～"
+
+translate Japanese mas_nou_reaction_monika_wins_round_9cf972ea:
+    m 1hua "私の勝ち～"
+
+translate Japanese mas_nou_reaction_monika_wins_game_c937bc2b:
+    m 1eub "今回のゲームは私の勝ち！"
+
+translate Japanese mas_nou_reaction_monika_wins_game_fbf0628e:
+    m 4eub "点差もなくていい試合ができたね！"
+
+translate Japanese mas_nou_reaction_monika_wins_game_9e16147c:
+    m 4hua "次はきっと勝てるよ"
+
+translate Japanese mas_nou_reaction_monika_wins_game_8cb1a029:
+    m 7ttu "わざと勝たせてくれたのかな？"
+
+translate Japanese mas_nou_reaction_monika_wins_game_e221e094:
+    m 1huu "えへへ～"
+
+translate Japanese mas_nou_reaction_monika_wins_game_571d7e60:
+    m 1hub "楽しかったね！"
+
+translate Japanese mas_nou_reaction_monika_wins_game_0038d63e:
+    m 3eua "次はきっと勝てるよ"
+
+translate Japanese mas_nou_reaction_monika_wins_game_848734a6:
+    m 1wub "あっ！{w=0.1} 今回のゲームは私の勝ち！"
+
+translate Japanese mas_nou_reaction_monika_wins_game_133a5cae:
+    m 3hub "本当に楽しかった！"
+
+translate Japanese mas_nou_reaction_monika_wins_game_1c23f5d2:
+    m 1eka "あなたもそう思ってくれてたら嬉しいな"
+
+translate Japanese mas_nou_reaction_monika_wins_game_b0e8b3f4:
+    m 3hua "たくさんやれば、きっと勝てるようになるはずだよ"
+
+translate Japanese mas_nou_reaction_monika_wins_game_dcf223be:
+    m 3hua "次は勝てるかもよ～
+"
+
+translate Japanese mas_nou_reaction_monika_wins_game_acebea6b:
+    m 2wub "今回のゲームは私の勝ち！"
+
+translate Japanese mas_nou_reaction_monika_wins_game_565057a7:
+    m 2hua "えへへ〜"
+
+translate Japanese mas_nou_reaction_monika_wins_game_59fc0756:
+    m 1hub "一緒に遊んでくれてありがとう、[player]〜"
+
+translate Japanese mas_nou_reaction_monika_wins_game_a2e420a3:
+    m 3eub "そして、私が先に[mas_nou.get_house_rule('points_to_win')]点に達しました！"
+
+translate Japanese mas_nou_reaction_monika_wins_game_99cce4d0:
+    m 1hua "今回のゲームは私の勝ちだね～"
+
+translate Japanese mas_nou_reaction_player_surrenders_f13cacc2:
+    m 1ekc "いいけどさ、[player]……"
+
+translate Japanese mas_nou_reaction_player_surrenders_7932cd04:
+    m 1eka "でも、次は最後まで付き合ってね？{w=0.4}約束だよ〜？"
+
+translate Japanese mas_nou_reaction_player_surrenders_8fb6ffb1:
+    m 1ekc "[player]…… {w=0.3}{nw}"
+
+translate Japanese mas_nou_reaction_player_surrenders_6044019b:
+    extend 1eksdld "さっきからずっと降参し続けてるよね……？"
+
+translate Japanese mas_nou_reaction_player_surrenders_69a9b2cc:
+    m 1rksdlc "私と一緒に遊んで、楽しんでほしいな"
+
+translate Japanese mas_nou_reaction_player_surrenders_d9d43a7b:
+    m 1eka "私は全ての瞬間が楽しいよ、あなたと一緒にいられればね～"
+
+translate Japanese mas_nou_reaction_player_surrenders_46cbcd45:
+    m 1etd "でもさっき始めたばかりだよ……"
+
+translate Japanese mas_nou_reaction_player_surrenders_fb13d6e9:
+    m 1ekc "遊ぶ時間が出来たらまた教えてね、約束だよ？"
+
+translate Japanese mas_nou_reaction_player_surrenders_e37bc7ad:
+    m 1ekc "もう諦めちゃうの、[player]？"
+
+translate Japanese mas_nou_reaction_player_surrenders_a3b5b165:
+    m 3ekb "結果がどうであれ、あなたと遊べて楽しかったわ！"
+
+translate Japanese mas_nou_reaction_player_surrenders_2a0172bd:
+    m 1eka "あなたもそう思ってくれたら嬉しいな～"
+
+translate Japanese mas_nou_reaction_player_surrenders_f8862c01:
+    m 1rud "まだ負けたと決まったわけじゃないでしょ……？"
+
+translate Japanese mas_nou_reaction_player_surrenders_8eb3e2ec:
+    m 1eka "今度からは私の為だと思って続けて欲しいな"
+
+translate Japanese mas_nou_reaction_player_surrenders_849a6878:
+    m 3ekb "この[_round!t]は絶対そっちの勝ちだって思ってたよ、[player]！"
+
+translate Japanese mas_nou_reaction_player_surrenders_9f30562e:
+    m 2esa "実は、私の手札かなり悪かったんだよね、[player]"
+
+translate Japanese mas_nou_reaction_player_surrenders_a5fb82b0:
+    m 2esa "実は私の最後の手札、かなり悪かったんだよね、[player]"
+
+translate Japanese mas_nou_reaction_player_surrenders_cfe21ae0:
+    m 7eka "あなたにならこの[_round!t]ひっくり返せたと思うけどな"
+
+translate Japanese mas_nou_reaction_player_surrenders_a9f493be:
+    m 3ekb "次はこんなに早く諦めちゃダメだからね？"
 
 translate Japanese strings:
     old "I doubt we want a plus four as the first card, ahaha~{w=1.5}{nw}"
@@ -815,6 +1395,30 @@ translate Japanese strings:
 
     old "I'd like to change some house rules."
     new "NOUのルールを変更して遊びたい"
+
+    old "Yep."
+    new "いいよ"
+
+    old "Let's play later."
+    new "後で遊ぼう"
+
+    old "Our score!"
+    new "得点表！"
+
+    old "Monika: [monika_score]"
+    new "モニカ：[monika_score]"
+
+    old "[player]: [player_score]"
+    new "[player]：[player_score]"
+
+    old "I'm skipping this turn"
+    new "自分の手番を終える"
+
+    old "You forgot to say 'NOU'!"
+    new "モニカが『NOU』って言わなかった！"
+
+    old "I'm giving up..."
+    new "降参……"
 
     old "Red"
     new "赤"
