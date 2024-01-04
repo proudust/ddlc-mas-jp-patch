@@ -1150,13 +1150,28 @@ translate Japanese mas_story_knock_1a6a4965:
     m 3esc "だがザン星人には動いていない二匹がどのような状況にあるのか、それがわかっていないようだった"
 
 translate Japanese mas_story_knock_98bf51a0:
-    m 1dsc "人類は即座に頭を巡らせた。{w=0.2}ザン星人たちには、あの動物たちは二度と目を覚まさないと告げた。{w=0.2}つまり、死神が逃げだし、全員を殺してしまったたのだと"
+    m 1dsc "最後の人類は即座に頭を巡らせた。{w=0.2}ザン星人たちには、あの動物たちは二度と目を覚まさないと告げた。{w=0.2}つまり、死神が逃げだし、全員を殺してしまったたのだと"
 
 translate Japanese mas_story_knock_43cfb639:
-    m 1euc "…そしてこう付け加えた。「だが私にならなんとかできる。{w=0.2}助けてもいいが条件として、地球最後の人類の女も私に助けさせろ」"
+    m 1euc "…そしてこう付け加えた。「だが私にならなんとかできる。{w=0.2}助けてもいいが条件として、地球最後の女の人類も私に助けさせろ」と"
 
 translate Japanese mas_story_knock_572c0b62:
-    m 1eua "ザン星人は許可し、ウォルターを動物のそばへ行かせた。それからウォルターは女性と面会した"
+    m 1eua "ザン星人はウォルターの願いを許し、動物のもとへと行かせた。そして面会が許された"
+
+translate Japanese mas_story_knock_6fb2ae3a:
+    m 1dsc "ウォルターは地球最後の女性と会うことなど決してないだろうと思っていた…… {w=0.3}{nw}"
+
+translate Japanese mas_story_knock_25a2fc07:
+    extend 1wub "だがなんと彼女との面会が許されたのだ！"
+
+translate Japanese mas_story_knock_b4c9e440:
+    m 1esa "地球最後の女性の名はグレース・エヴァンス。彼女はウォルターの話を聞いて驚いた。{w=0.2}ザン星人には死が遠い存在で、彼らは自然に死ぬことがないらしいのだ"
+
+translate Japanese mas_story_knock_5ed92a2a:
+    m 3ttu "自然死がない存在だが、もしかしたら…… 殺すことはできるかもしれない"
+
+translate Japanese mas_story_knock_65ad1665:
+    m 1eud "ウォルターはその仮説を確かめる準備をすでに整えており、グレースに別れを告げた後に計画を実行した"
 
 translate Japanese mas_story_knock_0427f3c2:
     m 1dua "地球上最後の男女がついに一緒になることができたのだ。{w=0.2}{nw}"

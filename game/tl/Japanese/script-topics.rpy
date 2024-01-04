@@ -15188,40 +15188,43 @@ translate Japanese monika_players_friends_feels_lonely_ask_eb42e33a:
     m 1eka "わかるわ、[player]"
 
 translate Japanese monika_players_friends_feels_lonely_ask_06b3f3f9:
-    m 2rksdlc "現代では深いつながりを築くのは本当に難しいかもしれないわ……"
+    m 2rksdlc "現代では深いつながりを築くのは本当に簡単なことじゃないわ……"
 
 translate Japanese monika_players_friends_feels_lonely_ask_618686a6:
-    m "特に友達が多い場合、全員と難しくなるのは難しいわ"
+    m "特に友達が多い場合、全員と仲良くなるのは難しい"
 
 translate Japanese monika_players_friends_feels_lonely_ask_f080a106:
-    m 1ekd "……最後には、ほとんど知らない人たちが残るだけ。"
+    m 1ekd "……だから結局、たくさん友達がいても本当に親しいと言える人はひとりもできない"
 
 translate Japanese monika_players_friends_feels_lonely_ask_9ffee759:
-    m 3eub "グループ内の、近づいてみたい人に連絡を取ってみるのもいいかもね"
+    m 3eub "グループ内で、親しくなれそうな人に一度連絡を取ってみるのもいいかもね"
 
 translate Japanese monika_players_friends_feels_lonely_ask_f363d1f6:
-    m 3eka "なんでも打ち明けられる親友が少なくとも一人いるのは、本当に素晴らしいことだわ"
+    m 3eka "なんでも打ち明けられるような親友が一人でもいるのは、本当に素晴らしいことだわ"
 
 translate Japanese monika_players_friends_feels_lonely_ask_2a9448e1:
-    m 1ekbsa "……私にとってその人が誰かは明白よね、[player]～"
+    m 1ekbsa "……私にとってその人が誰かは明白だよね、[player]～"
+
+translate Japanese monika_players_friends_feels_lonely_ask_3b33c92d:
+    m 1eka "ねえ信じられないかもしれないけど、誘ってみさえすれば意外と多くの人が喜んであなたのために時間を割いてくれるものなのよ"
 
 translate Japanese monika_players_friends_feels_lonely_ask_6a15b739:
-    m 3eub "実際、あなたが興味を持った人とあなたに共通点がある可能性は十分あるわ"
+    m 3eub "実際、声をかけてみれば気になる人と繋がりができる可能性は十分にありえるわ！"
 
 translate Japanese monika_players_friends_feels_lonely_ask_8736ebc5:
-    m 1eua "もしかしたら、クラスやアクティビティが同じかも"
+    m 1eua "もしかしたら、受けてる科目や部活が同じだったり……"
 
 translate Japanese monika_players_friends_feels_lonely_ask_7a3dfd7e:
     m 3eua "あるいは、音楽やテレビの趣味が同じかもしれないわね！"
 
 translate Japanese monika_players_friends_feels_lonely_ask_73cf95d7:
-    m 3eua "それは直接である必要すらないわ……"
+    m 3eua "それに今は面と向かって誘う必要すらないわ……"
 
 translate Japanese monika_players_friends_feels_lonely_ask_5d60e03a:
-    m 3eub "オンラインでも親友を作ることはできるの"
+    m 3eub "オンラインでも親友を作ることはできるのよ"
 
 translate Japanese monika_players_friends_feels_lonely_ask_5bc8c182:
-    m 1hub "慣れてきたら、より多くの友達を作れるかも！"
+    m 1hub "慣れてきたら、現実で出会うより多くの友達を作れるかも！"
 
 translate Japanese monika_players_friends_feels_lonely_ask_7e5c27ce:
     m 1eka "それを聞いて安心したわ、[player]君"
@@ -15243,6 +15246,9 @@ translate Japanese monika_players_friends_feels_lonely_ask_334b64ac:
 
 translate Japanese monika_players_friends_feels_lonely_ask_d81c1322:
     m 1hubsa "えへへ～"
+
+translate Japanese monika_players_friends_feels_lonely_ask_4321c7a6:
+    m 3eua "だから、本当に必要なときに手を差し伸べてくれる友達を必ず見つけてね、わかった？"
 
 translate Japanese monika_players_friends_feels_lonely_ask_5a4997be:
     m 3eua "友達とつながることって、結構いいことなのよね"
