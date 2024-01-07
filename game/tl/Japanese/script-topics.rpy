@@ -86,7 +86,7 @@ translate Japanese mas_hide_unseen_6168414f:
     m 3esd "あ、わかったわ、[mas_get_player_nickname()]……"
 
 translate Japanese mas_hide_unseen_7031e319:
-    m 1tuu "つまり…… 未読を{w=0.5}未読にしたいのね？"
+    m 1tuu "つまり…… {w=0.5}非表示にしたいのね？"
 
 translate Japanese mas_hide_unseen_05f8c059:
     m 3hub "アハハ！"
@@ -1340,7 +1340,7 @@ translate Japanese monika_tea_6cfecd29:
     m 1hua "あなたのおかげでいつでもコーヒーを淹れられるものね。"
 
 translate Japanese monika_tea_ef812815:
-    m 1eua "スクリプトを自分で書き換えれば良かったのかもね"
+    m 1eua "　"
 
 translate Japanese monika_tea_3772217d:
     m 1hub "あははっ！"
@@ -4739,7 +4739,7 @@ translate Japanese monika_vnanalysis_a0584996:
     m 2tku "それとも私だらけのゲームのほうが[player]君は気に入ってくれたりして～？"
 
 translate Japanese monika_torment_7b9c0824:
-    m 1euc "人の本質を変えうるものは何であろうか？"
+    m 1euc "人の本質を変えうるものは何だと思う？"
 
 translate Japanese monika_torment_7a6dc579:
     m 3hksdlb "答えは私……じゃないからね。言っとくけど。"
@@ -5441,7 +5441,7 @@ translate Japanese monika_playersface_1d35e13f:
     m 5eua "たとえあなたを実際に見られなくても、あなたが本当はどんな見た目なのか、いっつも考えてるの"
 
 translate Japanese monika_playersface_28c9f48b:
-    m 5hua "きっといつの日か、あなたをこの目で見られる。そしてもう、一歩あなたに近づける"
+    m 5hua "きっといつの日か、あなたをこの目で見られる。そしてもう一歩、あなたに近づける"
 
 translate Japanese monika_spiders_424cb1c1:
     m 1eua "もしかして、ナツキが見せた蜘蛛の詩を思い出したの？"
@@ -14159,10 +14159,10 @@ translate Japanese monika_dreaming_cb022bc8:
     m 1hua "私達の見る夢をいつか現実にしたいね、[mas_get_player_nickname()]"
 
 translate Japanese monika_yellowwp_324c2056:
-    m 1eua "ねえ[player]、{i}黄色の壁紙{/i} って小説を読んだことはある？{nw}"
+    m 1eua "ねえ[player]、{i}黄色い壁紙{/i} って小説を読んだことはある？{nw}"
 
 translate Japanese monika_yellowwp_04df2eb4:
-    m "ねえ[player]、{i}黄色の壁紙{/i} って小説を読んだことはある？{fast}" nointeract
+    m "ねえ[player]、{i}黄色い壁紙{/i} って小説を読んだことはある？{fast}" nointeract
 
 translate Japanese monika_yellowwp_51f803bb:
     m 1hua "よかった！"
@@ -23275,6 +23275,94 @@ translate Japanese monika_know_its_you_a0b29980:
 translate Japanese monika_know_its_you_2c7a510e:
     m 2dkd "まあ、そんな事は一切考えないようにするほうがいいでしょうね"
 
+translate Japanese monika_information_age_8b578f57:
+    m 1eua "いま私たちが生きている時代を技術的に区分すると、どう呼ぶか知ってる？"
+
+translate Japanese monika_information_age_26342253:
+    m 1eub "{i}情報化社会{/i}{w=0.2}、って言うの！{nw}"
+
+translate Japanese monika_information_age_66fb78d2:
+    extend 3eub "トランジスタの発明によるところが大きいわね"
+
+translate Japanese monika_information_age_0ec1d05e:
+    m 1eua "トランジスタは電気の流れを制御する部品で… {w=0.3}電気信号を増幅したり、遮断したりできるの。"
+
+translate Japanese monika_information_age_3c948e41:
+    m 3esa "電流を特定の方向に流すことができることから、ほとんどの電子機器で使われている重要な部品よ。"
+
+translate Japanese monika_information_age_1de0dd86:
+    m 3hua "そのおかげで、あなたのモニターに私が映っているのよ～"
+
+translate Japanese monika_information_age_15948b8a:
+    m 1eud "20世紀、ひいては{i}情報化社会{/i}につながる最も大きな発明の一つであると広く認識されているわ"
+
+translate Japanese monika_information_age_466b36a0:
+    m 4eub "インターネットや電話、テレビなど多くのメディアを通して、情報を保存したり共有する機会が増えたことから、こういう名前が付けられたの"
+
+translate Japanese monika_information_age_001e2833:
+    m 3eud "だけど、多くの情報に仕入れることが出来るという事は、私たちはその速さに追いつかないといけない。これは大きな問題になっているわ…"
+
+translate Japanese monika_information_age_2d4bb342:
+    m 3rssdlc "間違った情報が速く、収拾がつかない所まで広がる可能性があるし、{w=0.1}{nw}"
+
+translate Japanese monika_information_age_b7e2323c:
+    extend 3rksdld "それに、インターネットって広大でしょ。一度広がってしまった間違いを修正するのはとても難しいわ"
+
+translate Japanese monika_information_age_c717b751:
+    m 2eua "この数十年で古くからインターネットを使っていた人たちが賢い利用方法を広めて、今では大体の人たちが必要な知識を持っているわ"
+
+translate Japanese monika_information_age_b7dbecc0:
+    m 2ekd "だけど、みんながみんな知識があるのかと言えば、それは無いと思うわ。覚えるよりも、技術が進歩する方が遥かに速いから"
+
+translate Japanese monika_information_age_3d29d9aa:
+    m 2dkc "多くの専門家が不安に思っている意見を、何一つ理解せず支持している人達は本当に厄介だわ"
+
+translate Japanese monika_information_age_ff6d5215:
+    m 2rusdld "でも、どうしてそうなっちゃうのかは理解できるわ…{w=0.3}{nw}"
+
+translate Japanese monika_information_age_7be1caad:
+    extend 2eksdlc "誰にだってそういうことは起きるもの"
+
+translate Japanese monika_information_age_eb62cf78:
+    m 7essdlc "これはどうしようもないことなの。例え間違った情報だとしても、広く馴染みのある方を人は信じてしまう"
+
+translate Japanese monika_information_age_693febd3:
+    m 3eka "私がこの話をしたのは、あなたがいる現実についてまだまだ学ばなくちゃいけないことがあるから
+"
+
+translate Japanese monika_information_age_2ab8682d:
+    m 1esa "…そして、私自身の誤った情報を見てしまったから。{w=0.1}{nw}"
+
+translate Japanese monika_information_age_381076e5:
+    extend 3eua "その対処法について話しておきたかったの"
+
+translate Japanese monika_information_age_23ee40c0:
+    m 3eub "私たちは、この新しい時代を乗り切るために知識が必要よ"
+
+translate Japanese monika_information_age_d7dbb435:
+    m 1eua "そのためには、複数の情報を比較して、矛盾を弾き出し、信憑性の高いものを選定する"
+
+translate Japanese monika_information_age_7916ec27:
+    m 1eub "そして、仮決定すること。{w=0.2}つまり、より信頼できる情報が出るまでは確定情報にしないでおくこと"
+
+translate Japanese monika_information_age_d3fd5a4d:
+    m 3eub "日常生活に関係がなければ信じても信じなくてもいい。{w=0.2}けれど、関係があるならしっかりと調べる必要があるわ"
+
+translate Japanese monika_information_age_9825385a:
+    m 3eua "そうして、身近に影響を及ぼす情報から優先的に調べる。そうすれば、たくさんの問題を大きな負担なく処理することが可能なはずよ"
+
+translate Japanese monika_information_age_a0795167:
+    m 1lusdlc "まあ、私が信じていた現実は全て作り物だったけれど…"
+
+translate Japanese monika_information_age_e5f0fb3b:
+    m 1dua "恥ずかしい事ではないわ。私たちは、与えられた情報の中で最善を尽くすだけ"
+
+translate Japanese monika_information_age_a6dacaf2:
+    m 1eub "だから、私たちが真実を受け入れて、世界の見方を修正することが出来る限り、常に成長し続けることが出来るの"
+
+translate Japanese monika_information_age_2b0ec24c:
+    m 3hua "ご清聴ありがとうございました、[player]くん～"
+
 translate Japanese monika_fav_chocolate_b026f705:
     m 2hksdlb "わぁ！ それはすごく難しい質問だね！"
 
@@ -23798,7 +23886,7 @@ translate Japanese monika_pizza_8c3d0359:
     m 3huu "でもそれっていつかあなたが私の初めての反応を見られるってことだよね"
 
 translate Japanese monika_esports_34fd4f36:
-    m 1rtd "うーん、いい質問だね……"
+    m 1rtd "うーん、いい質問ね……"
 
 translate Japanese monika_esports_a248ac81:
     m 1eub "あら奇遇ね、あなたが留守にしているときにそのことを調べていたの！"
@@ -23928,7 +24016,7 @@ translate Japanese monika_overton_dd4e6d0b:
 
 translate Japanese strings:
     old "Flagged for removal."
-    new "削除のためのフラグが立っています。"
+    new "今後話題にしないフラグが立っています。"
 
     old "Flag removed."
     new "フラグが除去されました。"
@@ -24169,7 +24257,7 @@ translate Japanese strings:
     new "ツンデレって？"
 
     old "Introducing to friends"
-    new "モニカの他者への紹介"
+    new "モニカを友人に紹介する"
 
     old "Cuddling in the cold"
     new "寒さの中で抱きしめあう"
@@ -25628,6 +25716,9 @@ translate Japanese strings:
 
     old "How do you know it's always me talking to you?"
     new "今自分が話しかけているって、そっちからわかるの？"
+
+    old "The Information Age"
+    new "情報化社会"
 
     old "What's your favorite kind of chocolate?"
     new "モニカはどのチョコが一番好きなの？"
