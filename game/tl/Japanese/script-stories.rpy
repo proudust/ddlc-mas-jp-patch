@@ -1173,6 +1173,52 @@ translate Japanese mas_story_knock_5ed92a2a:
 translate Japanese mas_story_knock_65ad1665:
     m 1eud "ウォルターはその仮説を確かめる準備をすでに整えており、グレースに別れを告げた後に計画を実行した"
 
+translate Japanese mas_story_knock_a2fdcd7e:
+    m 3esc "ウォルターはまずザン星人に、地球最後の一体となったアヒルを見せてくれと頼んだ。そして、ザン星人にこれからすべきことを伝えた。"
+
+translate Japanese mas_story_knock_1ceba0b4:
+    m 4eud "「愛情をこめてアヒルの体を撫でるんだ。でないと、残った一体も… {w=0.2}孤独に耐えきれず死んでしまうぞ。」
+"
+
+translate Japanese mas_story_knock_e1f53fb9:
+    m 3rsc "しかし異星人たちは、愛情をこめるとは一体どういうことなのか全く見当がつかなかったため、ウォルターにアヒルを撫でさせ、『愛情をこめる』のを観察した"
+
+translate Japanese mas_story_knock_e0702a40:
+    m 1esc "そしてウォルターは言った。「最後のヘビにも同じように愛情をこめなければ」"
+
+translate Japanese mas_story_knock_57b888a2:
+    m 1euc "……そしてあるザン星人にその任務が任せられた"
+
+translate Japanese mas_story_knock_4b7a0c05:
+    m 3wud "でもね、ただその蛇は普通の蛇じゃなかったのよ[player]……{w=0.3}{nw} "
+
+translate Japanese mas_story_knock_5110e32b:
+    extend 3tfu "そう、そのヘビは毒ヘビだったの"
+
+translate Japanese mas_story_knock_9f746331:
+    m 1euc "ヘビを撫でる任務を与えられたザン星人は、ヘビに噛まれて猛毒に侵されてしまった"
+
+translate Japanese mas_story_knock_a9e8feac:
+    m 1wud "翌日、別のザン星人が顔面蒼白でウォルターの部屋に入ってくると泣きながらわめいた。{w=0.2}{nw}"
+
+translate Japanese mas_story_knock_4c247683:
+    extend 4wko "「仲間が死んだ！」"
+
+translate Japanese mas_story_knock_0d2dfcdc:
+    m 2dud "「そりゃ、まずいことになったな。{w=0.2} {nw}"
+
+translate Japanese mas_story_knock_cdc648a5:
+    extend 2esc "それは呪いだ。ここに蔓延する前に逃げたほうがいい」"
+
+translate Japanese mas_story_knock_946ab0ae:
+    m 7euc "ザン星人はすぐさま会議を開いた後、ふたりの人類にここからザン星人たちは脱出するという決定を知らせた"
+
+translate Japanese mas_story_knock_bac5e176:
+    m 1ekd "謎の死のリスクに直面したザン星人たちは、これ以上仲間を失うわけにはいかなかった"
+
+translate Japanese mas_story_knock_20c2a61b:
+    m 3eud "ザン星人たちは、ウォルターとグレースを含んだすべての「呪われた」動物を残し、宇宙船で飛び去っていった"
+
 translate Japanese mas_story_knock_0427f3c2:
     m 1dua "地球上最後の男女がついに一緒になることができたのだ。{w=0.2}{nw}"
 
@@ -1180,7 +1226,7 @@ translate Japanese mas_story_knock_3a83bc13:
     extend 1rkbla "さて、永遠にふたりっきりの彼らはこれから一体どうするのだろうか？"
 
 translate Japanese mas_story_knock_905ec016:
-    m 3gsbsu "その後のふたりがどうなるのか、それは皆さんの想像におまかせすることにしよう……"
+    m 3gsbsu "その後のふたりがどうなったのか、それは皆さんの想像におまかせすることにしよう……"
 
 translate Japanese mas_story_knock_b3f652fa:
     m 1hubsa "この物語が気に入ってくれたら嬉しいな、[player]"

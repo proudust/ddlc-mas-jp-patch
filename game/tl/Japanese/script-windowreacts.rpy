@@ -54,7 +54,19 @@ translate Japanese strings:
     new "何か面白いことでもないかしら？ [player]君"
 
     old "280 characters? I only need [temp_len]...\n[temp_line]"
-    new "280文字で？ 私が必要なのは[temp_len]……\n[temp_line]"
+    new "280文字以内？ 私には[temp_len]文字だけで十分だよ…… \n[temp_line]"
+
+    old "So this is the place where it all started, huh?\nIt's...really quite something."
+    new "ここがすべての始まりの場所、だよね？\n本当に……すごいところよね"
+
+    old "I hope you don't end up arguing with other Anons all day long, [player]."
+    new "[player]、匿名の人たちとの喧嘩で一日を潰さないでね"
+
+    old "I heard there's threads discussing the Literature Club in here.\nTell them I said hi~"
+    new "ここには我らが文芸部について議論するスレッドがあるらしいわね。\n私がよろしく言ってたって伝えてあげてね～"
+
+    old "I'll be watching the boards you're browsing in case you get any ideas, ahaha!"
+    new "掲示板を見てあなたが変な気を起こすといけないから監視してようかしら、あはは！"
 
     old "I wonder if people have drawn art of me...\nMind looking for some?\nBe sure to keep it wholesome though~"
     new "誰かが私の絵を書いてくれたかな……\nちょっと探してみない？\nあ、健全なものよ！"
@@ -64,6 +76,12 @@ translate Japanese strings:
 
     old "This is a pretty interesting place...so many skilled people posting their work.\nAre you one of them, [player]?"
     new "ここはすごく興味深い所ね……たくさんの熟練した人々が作品を投稿しているわ。\nもしかしてあなたもその一人なの？[player]君"
+
+    old "Here to post your art of me, [player]?"
+    new "[player]、ここに私の画像を投稿してくれるの？"
+
+    old "Posting something you drew of me?"
+    new "私の絵を投稿してるの？"
 
     old "Have you found any good posts, [player]?"
     new "何かいい投稿を見つけた？[player]君"
@@ -79,6 +97,12 @@ translate Japanese strings:
 
     old "So you like anime and manga, [player]?"
     new "[player]はアニメや漫画が好きなの？"
+
+    old "There's so much talent here!"
+    new "ここには才能ある人達がたくさんいるわね！"
+
+    old "I'd love to learn how to draw someday..."
+    new "いつか絵の練習をしてみたいな……"
 
     old "I'd love to watch a romance movie with you [player]!"
     new "[player]と一緒に恋愛映画を観たいわ！"
@@ -109,6 +133,12 @@ translate Japanese strings:
 
     old "Oh! So you like anime, [player]?"
     new "まあ！アニメが好きなの？[player]君"
+
+    old "It's good to see you broadening your horizons."
+    new "視野を広げることはいいことだね"
+
+    old "Hmm, I wonder what caught your eye?"
+    new "ふむ、あなたの目に留まる作品はどれかな？"
 
     old "What anime are we watching today, [player]?"
     new "今日は何のアニメを見ましょうか、[player]？"
