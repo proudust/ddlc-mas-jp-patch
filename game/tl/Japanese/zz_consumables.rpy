@@ -14,7 +14,7 @@ translate Japanese mas_consumables_generic_get_7a2f3a16:
     m 1eua "さてと、このあと何しよっか？"
 
 translate Japanese mas_consumables_generic_finish_having_8a1f94e7:
-    m 1eud "[consumable.disp_name!t]、なくなっちゃったわね。{w=0.2}{nw}"
+    m 1eud "[consumable.disp_name!t]、なくなっちゃったわね{w=0.2}{nw}"
 
 translate Japanese mas_consumables_generic_finish_having_ac142054:
     extend 1eua "[line_starter!t]"
@@ -23,7 +23,7 @@ translate Japanese mas_consumables_generic_finish_having_8b7b43c5:
     m 3eua "ちょっと待っててね"
 
 translate Japanese mas_consumables_generic_finish_having_460692de:
-    m 1esd "あ、[consumable.disp_name!t]なくなっちゃったわ。{w=1}{nw}"
+    m 1esd "あ、[consumable.disp_name!t]なくなっちゃったわ{w=1}{nw}"
 
 translate Japanese mas_consumables_generic_finish_having_1640fa5f:
     m 1eua "[line_starter!t]すぐに戻るわ{w=1}{nw}"
@@ -35,7 +35,7 @@ translate Japanese mas_consumables_generic_finish_having_7a2f3a16:
     m 1eua "さて、今日は他に何をしようかな？"
 
 translate Japanese mas_consumables_generic_finished_prepping_548d993c:
-    m 1esd "あ、[consumable.disp_name!t]が出来たみたい"
+    m 1esd "あ、[consumable.disp_name!t]ができたみたい"
 
 translate Japanese mas_consumables_generic_finished_prepping_a644a99b:
     m 1eua "ちょっと待っててね"

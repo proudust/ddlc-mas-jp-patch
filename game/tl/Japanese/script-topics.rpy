@@ -80,7 +80,7 @@ translate Japanese mas_rerandom_c42f8f06:
     m 1dsa "ＯＫ…{w=0.2}…{w=0.2}…{nw}"
 
 translate Japanese mas_rerandom_73747bba:
-    m 3hua "出来た！"
+    m 3hua "できた！"
 
 translate Japanese mas_hide_unseen_6168414f:
     m 3esd "あ、わかったわ、[mas_get_player_nickname()]……"
@@ -1190,7 +1190,7 @@ translate Japanese monika_okayeveryone_c92f1340:
     m 1eua "あなたが私をバカにすることはないんだし"
 
 translate Japanese monika_okayeveryone_3e1b35d5:
-    m 5eka "そんなこと出来ないほど優しい人だものね？"
+    m 5eka "そんなことできないほど優しい人だものね？"
 
 translate Japanese monika_okayeveryone_86a08130:
     m 5hub "うふふ～"

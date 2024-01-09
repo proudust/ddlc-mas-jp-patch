@@ -302,7 +302,7 @@ translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_f7c83da2:
     m "{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_2a9dcdbf:
-    m "だいたい準備出来たよ、[player]"
+    m "だいたい準備できたよ、[player]"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_af31fd4c:
     m "ただ、リボンがもう少しうまい具合にならないかなってやってるだけで"
@@ -383,7 +383,7 @@ translate Japanese greeting_o31_deco_a0930c3b:
     m 3tub "まあ、一番不気味な飾りは時々びっくりするほど怖くなっちゃうけど……"
 
 translate Japanese greeting_o31_deco_36c8a86e:
-    m 1eua "蜘蛛の巣もいい感じに出来たと思うんだよね"
+    m 1eua "蜘蛛の巣もいい感じにできたと思うんだよね"
 
 translate Japanese greeting_o31_deco_aa680ddb:
     m 1rka "{cps=*2}エイミーも気に入ってくれるに違いないわ{/cps}{nw}"

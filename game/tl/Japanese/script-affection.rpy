@@ -488,7 +488,7 @@ translate Japanese mas_affection_apology_4a7ea962:
     m 2dfc "[player]君……"
 
 translate Japanese mas_affection_apology_da2805b1:
-    m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私は出来る限りのことをしてきた"
+    m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私はできる限りのことをしてきた"
 
 translate Japanese mas_affection_apology_352ec8e0:
     m 2efc "でも、あなたは私に苦痛以外何も返してくれなかった……"

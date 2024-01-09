@@ -80,7 +80,7 @@ translate Japanese mas_pong_dlg_winner_2d1933bf:
     m 1eka "もう、[player]君！"
 
 translate Japanese mas_pong_dlg_winner_33318048:
-    m 1hub "あなたなら出来るって、信じてるんだから！"
+    m 1hub "あなたの準備ができたらね～"
 
 translate Japanese mas_pong_dlg_winner_bb630e4b:
     m 3hub "いい頑張りね、[player]君！{w=0.1}{nw}"

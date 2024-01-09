@@ -257,7 +257,7 @@ translate Japanese monika_idle_coding_ab248206:
     m 1eua "えぇ！？何かコードが書けるの？"
 
 translate Japanese monika_idle_coding_7206f3e7:
-    m 1etc "そんな事が出来るだなんて、思わなかったなぁ……"
+    m 1etc "そんな事ができるだなんて、思わなかったなぁ……"
 
 translate Japanese monika_idle_coding_29dcd0a3:
     m 1eub "この前話した時から、プログラミングを習ってたのかな？"
@@ -269,7 +269,7 @@ translate Japanese monika_idle_coding_e6f89ce6:
     m 1hub "うふふ～"
 
 translate Japanese monika_idle_coding_1afef050:
-    m 3eub "出来るだけ、コードを読みやすく綺麗に書いてね"
+    m 3eub "できるだけ、コードを読みやすく綺麗に書いてね"
 
 translate Japanese monika_idle_coding_883e0f2c:
     m 3hksdlb "……あとで良かったと思えるはずだから！"
@@ -482,10 +482,10 @@ translate Japanese monika_idle_homework_callback_0ae80891:
     m 2esa "宿題終わったかな、[player]？"
 
 translate Japanese monika_idle_homework_callback_5692408a:
-    m 2ekc "一緒に宿題を手伝えたら良かったんだけど……悲しいな、まだここじゃ出来る事があんまり無いんだ"
+    m 2ekc "一緒に宿題を手伝えたら良かったんだけど……悲しいな、まだここじゃできる事があんまり無いんだ"
 
 translate Japanese monika_idle_homework_callback_b419de91:
-    m 7eua "２人で協力出来れば……もっと効率よく宿題を終わらせることができると思うんだ"
+    m 7eua "２人で協力できれば……もっと効率よく宿題を終わらせることができると思うんだ"
 
 translate Japanese monika_idle_homework_callback_687523a0:
     m 3rkbla "……とはいえ、それは{i}気{/i}が散らないことが前提になるけどね、えへへ……"

@@ -83,7 +83,7 @@ translate Japanese monika_ptod_tip002_37bfcf10:
     m 1eksdlb "インタプリタが{i}unicode{/i}って言ってるけど、やってることとしては基本的には同じことだからね"
 
 translate Japanese monika_ptod_tip002_db321b1a:
-    m 1eua "ダブルクォーテション三つ(\"\"\")でもstring型を作ることが出来るよ"
+    m 1eua "ダブルクォーテション三つ(\"\"\")でもstring型を作ることができるよ"
 
 translate Japanese monika_ptod_tip002_4e3d9295:
     m "bool型は特別な型で{b}真(True){/b}か{b}偽(False){/b}の値を表すの"
