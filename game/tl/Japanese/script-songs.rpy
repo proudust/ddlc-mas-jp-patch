@@ -248,10 +248,10 @@ translate Japanese mas_song_drift_away_19428ff1:
     m 1hua "えへへ～"
 
 translate Japanese mas_song_drift_away_9e4ba59f:
-    m 3eka "私たちの物語は、この歌詞よりも幸せなものにしたいわね。"
+    m 3eka "私たちの物語は、この歌詞よりも幸せなものにしたいわね"
 
 translate Japanese mas_song_drift_away_668e9d26:
-    m 3hua "時間を作って会いに来てくれてるあなたに、とても感謝してるんだよ。"
+    m 3hua "時間を作って会いに来てくれてるあなたに、とても感謝してるんだよ"
 
 translate Japanese mas_song_stand_by_me_long_62670d23:
     m 4hub "{i}～だからお願い、お願いよ、わたしの側にいて欲しいの～{/i}"
@@ -437,10 +437,10 @@ translate Japanese mas_song_my_silver_lining_analysis_aed5d1a5:
     m 1etc "結局はちょうどいいバランスが大事なのよね"
 
 translate Japanese mas_song_my_silver_lining_analysis_a3d0e3f0:
-    m 3rksdla "考えてみると、その考え方って実存主義的ニヒリズムに近いんじゃないの"
+    m 3rksdla "考えてみると、その考え方って実存主義的ニヒリズムに近いんじゃないかな？"
 
 translate Japanese mas_song_my_silver_lining_analysis_ae249e04:
-    m 3eud "そうでしょ、生きることは本当にばかげているというニヒリズム的な考えの中で、私たちができる唯一のことは……"
+    m 3eud "ほら、生きることは本当にばかげているというニヒリズム的な考えの中で、私たちができる唯一のことは……{w=0.3}{nw}"
 
 translate Japanese mas_song_my_silver_lining_analysis_06c6ac85:
     extend 3eksdla "『keep on keeping on』、ただ続けていくことだけなんだから"
@@ -917,14 +917,68 @@ translate Japanese mas_song_strawberry_faa9d47b:
 translate Japanese mas_song_save_the_last_dance_for_me_e90d387a:
     m 6dublu "……"
 
+translate Japanese mas_song_save_the_last_dance_for_me_35750351:
+    m 7eua "この曲は私にとってとても深い曲なんだ、[player]"
+
+translate Japanese mas_song_save_the_last_dance_for_me_26e3226a:
+    m 3rubsu "この曲を聴くたびに、やっと一緒に踊れる……って胸が熱くなるの"
+
+translate Japanese mas_song_save_the_last_dance_for_me_d8ce6699:
+    m 1eua "実はこの曲には裏話があるの。いま時間に余裕はある？{nw}"
+
+translate Japanese mas_song_save_the_last_dance_for_me_9332cf6b:
+    m "実はこの曲には裏話があるの。いま時間に余裕はある？{fast}" nointeract
+
+translate Japanese mas_song_save_the_last_dance_for_me_05fef4ff:
+    m 3eua "あっ、わかったわ。この曲について後で話したくなったら教えてくれる？"
+
+translate Japanese mas_song_save_the_last_dance_for_me_a27397cb:
+    m 6rublb "痛む私の心に耳を傾け続けてくれてありがとう……"
+
 translate Japanese mas_song_save_the_last_dance_for_me_8d2d7f31:
     m 6eubsa "愛してるよ、[player]～"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_96aca618:
+    m 3hub "よし！"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_e8695870:
+    m 1eud "この歌の背景にあるストーリーは、ただの誠実でロマンチックな宣言のように思えるかもしれないね"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_33a27c95:
+    m 1duc "でも、実際のストーリーはかなりドラマチックで悲しいものなの……"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_9042192f:
+    m 3ekc "作詞者の一人であるジェローム・フェルダーは、{w=0.1}持病のため、結婚初夜に歩くことも踊ることもできなかったの"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_b2c53bc9:
+    m 1rkd "数年後、あの夜の強い思いがきっかけで、彼は予備にしていた結婚式の招待状を見つけたわ"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_682287a2:
+    m 3rksdlc "ジェロームは、お兄さんが自分の結婚初夜に妻と踊っているのを見て、羨望の念を抱いたの"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_32293c6f:
+    m 3ekd "グラミー賞受賞者の彼は、ポリオで半身不随になった子供の頃から、歩行器か車椅子の助けを借りてしか移動できなかった"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_34d347a1:
+    m 3eka "その日のことを思い出して歌詞を書き始めたとき、彼はこの曲に詩的な雰囲気を持たせたいと思ったの"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_ab987c83:
+    m 3rkbla "曲の中には嫉妬のニュアンスが含まれていたけど、彼はロマンチックな曲にしたかったのよ"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_e59be872:
+    m 2dkc "ほら……{w=0.3}私たちの間にあるこの障壁は……{w=0.3}まるで車椅子みたいじゃない"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_cf98827d:
+    m 2rkp "……正直、{w=0.1}私がじっと見つめている中であなたは誰かと踊れるなんて、ちょっとうらやましく思うわ"
+
+translate Japanese mas_song_save_the_last_dance_for_me_analysis_d704d705:
+    m 6ekblu "だからそういう日の終わりには、私のためにラストダンスをとっておいてほしいの～"
 
 translate Japanese mas_song_fly_me_to_the_moon_bb8b8e76:
     m 3hubsb "これからもずっと大好きだよ！"
 
 translate Japanese mas_song_heaven_22e4c08e:
-    m 1ekbfa "あなたと一緒にいれることを夢に見ない日は、一日たりとないよ、[player]"
+    m 1ekbfa "あなたと一緒にいれることを夢に見ない日は、一日だってないよ、[player]"
 
 translate Japanese mas_song_heaven_f4654263:
     m 1rubsu "そしてそう思ってるのは私だけじゃないってこと、伝わってるよ～"
@@ -946,6 +1000,30 @@ translate Japanese mas_song_on_the_front_porch_cfd8d187:
 
 translate Japanese mas_song_on_the_front_porch_1cfdf852:
     extend 5dkbsu "ただただ素晴らしいことなんじゃないかな〜"
+
+translate Japanese mas_monika_plays_yr_351d9246:
+    m 2eksdlb "ああ、あはは！原曲の方が聴きたいの、[player]？"
+
+translate Japanese mas_monika_plays_yr_bf092f79:
+    m 2eka "一度も歌ったことはないけれど、サントラかYouTubeで聴いたことはあるのよね？"
+
+translate Japanese mas_monika_plays_yr_b9c79931:
+    m 2hub "終わり方はあんまり好きじゃないけど、でも喜んで歌ってあげる！"
+
+translate Japanese mas_monika_plays_yr_fa642de6:
+    m 2eua "ピアノを準備するわね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese mas_monika_plays_yr_d7d7d567:
+    m 3eua "もちろんよ、ピアノを準備するわね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese mas_monika_plays_yr_aab38e54:
+    m 6hua "ゲームの音量は大丈夫、[player]？"
+
+translate Japanese mas_monika_plays_or_d7d7d567:
+    m 3eua "もちろんよ、ピアノを準備するわね…{w=0.5}…{w=0.5}…{nw}"
+
+translate Japanese mas_monika_plays_or_aab38e54:
+    m 6hua "ゲームの音量は大丈夫、[player]？"
 
 translate Japanese strings:
     old "Can you sing me a song?"
@@ -996,3 +1074,9 @@ translate Japanese strings:
 
     old "Not now."
     new "今は無理"
+
+    old "Can you play 'Your Reality' for me?"
+    new "『Your Reality』を歌ってくれる？"
+
+    old "Can you play 'Our Reality' for me?"
+    new "『Our Reality』を歌ってくれる？"

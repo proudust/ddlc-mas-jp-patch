@@ -134,7 +134,7 @@ translate Japanese strings:
     old "That's a really unique color, [player]."
     new "本当にユニークな色だね、[player]"
 
-    old "Ribbon (Green)""
+    old "Ribbon (Green)"
     new "リボン（緑）"
 
     old "That's a lovely color!"

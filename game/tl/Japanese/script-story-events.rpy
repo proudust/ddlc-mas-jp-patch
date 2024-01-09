@@ -1737,7 +1737,7 @@ translate Japanese strings:
     new "[player]…… {w=0.5}どうして自分自身をそんなふうに呼ばせたいの？"
 
     old "I couldn't ever call you anything like that, [player]."
-    new "そんな呼び方は私には出来ないよ、[player]"
+    new "そんな呼び方は私にはできないよ、[player]"
 
     old "What? Please [player],{w=0.5} don't call yourself bad names."
     new "えっ？ {w=0.5}[player]君お願いだから私にそんな言葉で呼ばせないでよ"

@@ -221,7 +221,7 @@ translate Japanese mas_island_day1_81a03bda:
     m "……お菓子とあなたの好きな飲み物も一緒に"
 
 translate Japanese mas_island_day1_273d6eec:
-    m "あはは、出来たら本当に素敵ね～"
+    m "あはは、できたら本当に素敵ね～"
 
 translate Japanese mas_island_day2_54a36f28:
     m "スノーエンジェルをやったことはある、[player]君？"

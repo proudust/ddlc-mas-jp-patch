@@ -86,7 +86,7 @@ translate Japanese mas_mood_sad_c7a8700f:
     m 1hua "それは良かった、[player]君！あなたの気が楽になったのなら嬉しいわ。"
 
 translate Japanese mas_mood_sad_51d44efa:
-    m 1eka "信頼出来る誰かに悩みを打ち明ける、それで十分な時もあるの。"
+    m 1eka "信頼できる誰かに悩みを打ち明ける、それで十分な時もあるの。"
 
 translate Japanese mas_mood_sad_a5bc93dc:
     m "もしまたあなたに辛い事が起きたのなら、いつでも私に会いに来て、好きなだけ話してね！"
@@ -98,7 +98,7 @@ translate Japanese mas_mood_sad_ef03cbb5:
     m 1ekc "まあ、試してみる価値はあったわ。"
 
 translate Japanese mas_mood_sad_9f4e2dd4:
-    m 1eka "信頼出来る誰かに悩みを打ち明ける、それで十分な時もあるの。"
+    m 1eka "信頼できる誰かに悩みを打ち明ける、それで十分な時もあるの。"
 
 translate Japanese mas_mood_sad_2188bc88:
     m 1eua "二人で過ごす内にもしかしたら気が楽になるかもね。"
@@ -470,7 +470,7 @@ translate Japanese mas_mood_angry_a1359b22:
     m 1hua "頭がスッキリするまで止まらないで"
 
 translate Japanese mas_mood_angry_bd84f99d:
-    m 3eub "体を動かす事で頭の中のモヤモヤを晴らす事が出来るの"
+    m 3eub "体を動かす事で頭の中のモヤモヤを晴らす事ができるの"
 
 translate Japanese mas_mood_angry_9bad0fdd:
     m 1eka "それほど私は怒らなささそうって？ 実際そうなんだけど……"
@@ -497,7 +497,7 @@ translate Japanese mas_mood_scared_bd595765:
     m "今すぐにでも慰めて助けてあげられたらいいのに……"
 
 translate Japanese mas_mood_scared_31812bf2:
-    m 3eka "でも、少なくともあなたを落ち着かせる手助けは出来るわ"
+    m 3eka "でも、少なくともあなたを落ち着かせる手助けはできるわ"
 
 translate Japanese mas_mood_scared_a68e5573:
     m 1eua "何があっても、あなたの不安を楽にしてあげるって約束したものね"

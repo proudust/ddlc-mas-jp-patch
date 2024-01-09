@@ -29,22 +29,22 @@ translate Japanese monika_gtod_tip000_346e1173:
     m 3eub "それじゃあまずは、文章の基本的な構成要素「節」から始めましょうか！"
 
 translate Japanese monika_gtod_tip001_5d507ca3:
-    m 3eud "もう知ってるかもしれないけれども、「節」っていうのは、主語や述語なんかを含んだ単語の集合体のことよ。"
+    m 3eud "もう知ってるかもしれないけれども、「節」っていうのは、主語や述語なんかを含んだ単語の集合体のことよ"
 
 translate Japanese monika_gtod_tip001_172bf38d:
-    m 1euc "ほとんどの場合、節は主節と従属節に分けることが出来るわ。"
+    m 1euc "ほとんどの場合、節は主節と従属節に分けることが出来るわ"
 
 translate Japanese monika_gtod_tip001_bf730d17:
-    m 1esd "主節は、 \"{b}I wrote that.（私はそれを書いた。）{/b}\" みたいに、その節だけで文を構成することが出来るの。"
+    m 1esd "主節は、\"{b}I wrote that.（私はそれを書いた。）{/b}\" みたいに、その節だけで文を構成することができるの"
 
 translate Japanese monika_gtod_tip001_6b8ceb9e:
-    m 3euc "反対に、従属節はそれ単体では文にできなくて、大抵は長い文の一部に出てくるわね。"
+    m 3euc "反対に、従属節はそれ単体では文にできなくて、大抵は長い文の一部に出てくるわね"
 
 translate Japanese monika_gtod_tip001_06218e97:
-    m 3eua "例えば、 \"{b}who saved her（彼女を救った人物）{/b}\" とかかしら。"
+    m 3eua "例えば、\"{b}who saved her（彼女を救った人物）{/b}\" とかかしら"
 
 translate Japanese monika_gtod_tip001_8da3746c:
-    m 3eud "主語にあたる \"{b}who{/b}\" と動作にあたる \"{b}saved her{/b}\" とがあるけど、もちろんこれだけじゃ文にはならないわ。"
+    m 3eud "主語にあたる \"{b}who{/b}\" と動作にあたる \"{b}saved her{/b}\" とがあるけど、もちろんこれだけじゃ文にはならないわ"
 
 translate Japanese monika_gtod_tip001_a60a5771:
     m 1ekbsa "……{w=0.5}この文の締め方は分かってるでしょうけどね、[player]君～"
@@ -290,7 +290,7 @@ translate Japanese monika_gtod_tip006_238b8f4a:
     m 3euc "今度は受動態。{w=0.5} \"{b}The last cupcake was eaten.（最後のカップケーキは食べられた。）{/b}\""
 
 translate Japanese monika_gtod_tip006_72c373e9:
-    m 1eub "こんな風に、受動態を使うと、主語を隠したまま完全文を作ることが出来るの"
+    m 1eub "こんな風に、受動態を使うと、主語を隠したまま完全文を作ることができるの"
 
 translate Japanese monika_gtod_tip006_4a7ad033:
     m 1tuu "確かに、受動態を使って卑屈に言うことも{i}できる{/i}わ。{w=0.5}でも、ほかの使い方もあるの"
@@ -302,7 +302,7 @@ translate Japanese monika_gtod_tip006_df980cd9:
     m 3euc "科学者は実験について、 \"{b}the results were documented（結果を示す）{/b}...\" と書いているわ。重要なのはその研究であって、誰がやったかではないからね"
 
 translate Japanese monika_gtod_tip006_2d619292:
-    m 1esa "とにかく、ほとんどの場合、能動態を使うことで、読みやすい文章にできるし、誰がしたのかを直接伝えることも出来るわ"
+    m 1esa "とにかく、ほとんどの場合、能動態を使うことで、読みやすい文章にできるし、誰がしたのかを直接伝えることもできるわ"
 
 translate Japanese monika_gtod_tip006_4f8ac4f8:
     m 1eub "今日はここまでにしよっか、[player]君"

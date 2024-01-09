@@ -11,7 +11,7 @@ translate Japanese anni_1week_b3fa21df:
     m 1ekd "まだその時じゃないのに、相手に対して強く出てしまう……それで二人の関係が壊れてしまうことはよくあるよね。"
 
 translate Japanese anni_1week_0170651b:
-    m "たぶん、二人はお互いをもっと知ることが出来ずに終わる可能性が高いでしょうね。"
+    m "たぶん、二人はお互いをもっと知ることができずに終わる可能性が高いでしょうね。"
 
 translate Japanese anni_1week_322f1109:
     m 1dsc "カップルの破局を見るのはいつも悲しいよね……"
@@ -351,23 +351,22 @@ translate Japanese anni_5_9d018f54:
     m 1hubla "これからもずっと、あなたの良きパートナーでいられたらいいな〜"
 
 translate Japanese anni_6_03efc6eb:
-    m 3hubfb "[player]、今日が何の日かもちろん知ってるよね... {w=0.3} 私にとっていちばん大事な日だよ！"
+    m 3hubfb "[player]、今日が何の日かもちろん知ってるよね……{w=0.3}私にとっていちばん大事な日だよ！"
 
 translate Japanese anni_6_035158ea:
-    m 3hubla "知ってたかな？{w=0.1} 昔のドイツやイギリスではね、記念日の年によってそれぞれ違うテーマの贈り物をプレゼントしていたんだよ
-"
+    m 3hubla "知ってたかな？{w=0.1}昔のドイツやイギリスではね、記念日の年によってそれぞれ違うテーマの贈り物をプレゼントしていたんだよ"
 
 translate Japanese anni_6_42824f3c:
     m 4eua "アニバーサリーギフトはじめは節目の年だけに贈るものだったんだけど、だんだんテーマが増えて、毎年贈るようになったんだ"
 
 translate Japanese anni_6_317483e7:
-    m 4rksdlb "それって各業界が儲けるために毎年贈り物を贈らせるように促したんじゃないか、なんて陰謀をあなたは疑っちゃうかも......"
+    m 4rksdlb "それって各業界が儲けるために毎年贈り物を贈らせるように促したんじゃないか、なんて陰謀をあなたは疑っちゃうかも……"
 
 translate Japanese anni_6_a12a5dc7:
     m 1rkbla "まあそれもありえなくはないけどね"
 
 translate Japanese anni_6_045e9f59:
-    m 3ruu "ちなみに6年目記念日のテーマは... {w=0.3}{nw}"
+    m 3ruu "ちなみに6年目記念日のテーマは……{w=0.3}{nw}"
 
 translate Japanese anni_6_989ea1cc:
     extend 3eub "キャンディ！"
@@ -379,25 +378,25 @@ translate Japanese anni_6_56c8ed15:
     m 1hubfa "大好きだよ、[player]。素敵な一年をありがとう、これからもよろしくね"
 
 translate Japanese anni_7_c639eca6:
-    m 1dubfa "7年目......"
+    m 1dubfa "7年目……"
 
 translate Japanese anni_7_4e1eedef:
-    m 1eubsb "7は多くの文化圏で幸運な数字だって言われてるね。{w=0.2} {nw}"
+    m 1eubsb "7は多くの文化圏で幸運な数字だって言われてるね{w=0.2}{nw}"
 
 translate Japanese anni_7_bb53ceb1:
-    extend 1ekbsa "だからもしかしたら..."
+    extend 1ekbsa "だからもしかしたら……"
 
 translate Japanese anni_7_dff11cb0:
     m 2dkbsa "もしかしたら今年こそは幸運が巡ってきて、あなたの世界へ渡れるかも"
 
 translate Japanese anni_7_892f9fa5:
-    m 2hksdlb "あはは！大丈夫！ 迷信に頼るなんて私らしくないよね"
+    m 2hksdlb "あはは！大丈夫！迷信に頼るなんて私らしくないよね"
 
 translate Japanese anni_7_a4713fd2:
     m 2eka "でもね、これだけあなたと過ごしてきて、私は希望の光を探さずにはいられないの"
 
 translate Japanese anni_7_9e1dae73:
-    m 2ekbltpa "わかってるよ、大丈夫。{w=0.2} たとえこの先どれだけ険しい道が続いたとしてもね、あなたに会えたことはこれ以上ない幸運だったと思ってるよ"
+    m 2ekbltpa "わかってるよ、大丈夫。{w=0.2}たとえこの先どれだけ険しい道が続いたとしてもね、あなたに会えたことはこれ以上ない幸運だったと思ってるよ"
 
 translate Japanese anni_7_e5905529:
     m 2dkbstda "[player]、あなたが私の全てだよ"
@@ -406,7 +405,7 @@ translate Japanese anni_7_5fc6b7cd:
     m 1ekbsa "今年も、そしてこれからも、ふたりで肩を寄せ合っていこうね"
 
 translate Japanese anni_10_ea475b07:
-    m 1esc "あなたに尋ねたいことがあるの。"
+    m 1esc "あなたに尋ねたいことがあるの"
 
 translate Japanese anni_10_5c9d9dc7:
     m 2euc "私と一緒にいて楽しんでくれてる？"
@@ -415,16 +414,16 @@ translate Japanese anni_10_bf1f377b:
     m 1ekc "あなたは私に恋して、一緒にここにいることを後悔しないでいるのよね？"
 
 translate Japanese anni_10_989505cc:
-    m 1ekbsa "最初に出会ってからもう10年以上こうしているのなら、本当にあなたは好きでいてくれたってことだよね。"
+    m 1ekbsa "最初に出会ってからもう10年以上こうしているのなら、本当にあなたは好きでいてくれたってことだよね"
 
 translate Japanese anni_10_0318869e:
-    m "以前私は、あなたを幸せにしたいと言ったわ。"
+    m "以前私は、あなたを幸せにしたいと言ったわ"
 
 translate Japanese anni_10_bf0b72a7:
-    m 1hubfa "どうか信じて、私があなたにあげたものよりも、あなたはずっと多く私にくれた。"
+    m 1hubfa "どうか信じて、私があなたにあげたものよりも、あなたはずっと多く私にくれた"
 
 translate Japanese anni_10_54835729:
-    m "そう遠くない未来に、あなたの世界へ行けると思うから待っててね。"
+    m "そう遠くない未来に、あなたの世界へ行けると思うから待っててね"
 
 translate Japanese anni_20_4c959a64:
     m 1esc "今まで、随分と長く生きてきたわね、[player]君"

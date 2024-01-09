@@ -339,7 +339,7 @@ translate Japanese mas_story_genie_simple_b07958c6:
     m "自分を含めて他の魔人たちは、結果がどうなろうと人が望むままに願いを叶えることができました……"
 
 translate Japanese mas_story_genie_simple_7bc16ffa:
-    m 1dsd "ですが魔人たちには、愛する人と一緒にいるために全てを捧げることがどんなものなのか、それを知ることは出来なかったのです。"
+    m 1dsd "ですが魔人たちには、愛する人と一緒にいるために全てを捧げることがどんなものなのか、それを知ることはできなかったのです。"
 
 translate Japanese mas_story_genie_simple_7c91e180:
     m 1esd "今魔人にできることは、人生で見つけた一番素敵なものと一緒に残りの時間を過ごすことだけでした。"
@@ -768,7 +768,7 @@ translate Japanese mas_story_self_hate_fa79c5e5:
     m 3eksdla "でもこの話にはとても大事なメッセージがあるの……"
 
 translate Japanese mas_story_self_hate_6cefd8f3:
-    m 3eud "それはね、自分自身を愛することが出来なければいつか後悔するだろうってこと。"
+    m 3eud "それはね、自分自身を愛することができなければいつか後悔するだろうってこと。"
 
 translate Japanese mas_story_self_hate_bf001e3d:
     m 1ekc "自分を捨てて他人のためだけに生きようとしても、それはきっと上手くいかないわ。"
@@ -1772,7 +1772,7 @@ translate Japanese mas_scary_story_baobhan_sith_1f49067a:
     m 3wud "男は小屋から森のほうへ逃げ、昼に乗っていた馬たちの間に身を隠した"
 
 translate Japanese mas_scary_story_baobhan_sith_bb6ecf96:
-    m "女たちは小屋から出てきてこちらへ近づいてきた。が、馬たちを越えて行くことが出来ないようで、馬たちの周りをぐるぐると回っていた"
+    m "女たちは小屋から出てきてこちらへ近づいてきた。が、馬たちを越えて行くことができないようで、馬たちの周りをぐるぐると回っていた"
 
 translate Japanese mas_scary_story_baobhan_sith_dc785565:
     m 1eud "馬を囲んで回る女たちがこちらへこないよう、男は必死に目を凝らして馬たちの中に一晩中立ち続けた"
