@@ -939,7 +939,7 @@ translate Japanese mas_song_save_the_last_dance_for_me_8d2d7f31:
     m 6eubsa "愛してるよ、[player]～"
 
 translate Japanese mas_song_save_the_last_dance_for_me_analysis_96aca618:
-    m 3hub "よし！"
+    m 3hub "さて！"
 
 translate Japanese mas_song_save_the_last_dance_for_me_analysis_e8695870:
     m 1eud "この歌の背景にあるストーリーは、ただの誠実でロマンチックな宣言のように思えるかもしれないね"
