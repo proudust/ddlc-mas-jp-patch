@@ -328,8 +328,20 @@ translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_2b4bc3c6:
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_e5d7f16e:
     m 3hua "えへへ～"
 
+translate Japanese greeting_o31_hatana_2b_2a9dcdbf:
+    m "だいたい準備できたよ、[player]"
+
 translate Japanese greeting_o31_hatana_2b_736e3e2e:
     m "この衣装が自爆しないことを祈るばかりだね"
+
+translate Japanese greeting_o31_hatana_2b_e762ab05:
+    m "{cps=*2}もしかしたらあなたは爆破させたいのかもしれないけど……{/cps}{nw}"
+
+translate Japanese greeting_o31_hatana_2b_fe1ddd81:
+    m "着替えたよ。{w=0.2}どうかな、[player]？"
+
+translate Japanese greeting_o31_hatana_2b_e1573981:
+    m "着替えたよ。{w=0.2}たぶんこれでいいはず"
 
 translate Japanese greeting_o31_hatana_2b_1bf74e69:
     m "この衣装が自爆しないことを祈るばかりだね、だって自爆するところを見られたら恥ずかしいし！"
@@ -4038,6 +4050,9 @@ translate Japanese mas_bday_surprise_party_hint_771048eb:
 
 translate Japanese mas_bday_pool_happy_bday_adac5fd7:
     m 3hub "えへへ、ありがとう[player]！"
+
+translate Japanese mas_bday_pool_happy_bday_4c2cbb9f:
+    m 3eka "初めてお祝いしてくれたときが最後じゃなかった……"
 
 translate Japanese mas_bday_pool_happy_bday_fdb68306:
     m 3eka "その魔法の言葉を言ってくれるのを待ってたのよ～"

@@ -1125,7 +1125,7 @@ translate Japanese mas_story_knock_34f62610:
     extend 3wud "ひとりだけ、{w=0.1}女が生き残っていた"
 
 translate Japanese mas_story_knock_2e4c40e3:
-    m 3euc "ウォルターとその女性は、ザン星人が作る動物園の人類標本として選ばれたのだ。"
+    m 3euc "ウォルターとその女性は、ザン星人が作る動物園の人類標本として選ばれたのだ"
 
 translate Japanese mas_story_knock_818d466c:
     m 2esc "そこには地球のあらゆる種のつがいが集められていた。まるで古い物語のノアの箱舟のように"
@@ -1141,7 +1141,7 @@ translate Japanese mas_story_knock_f25e3f00:
     m 2euc "「予想外のことが起こった、{w=0.1} {nw}"
 
 translate Japanese mas_story_knock_3f13607b:
-    extend 2ekd "お前以外に集めたつがいが皆、眠ったまま起きない。全て冷たい。」"
+    extend 2ekd "お前以外に集めたつがいのうち二種が、眠ったまま起きない。全て冷たい。」"
 
 translate Japanese mas_story_knock_d6734d4e:
     m 7euc "ウォルターの部屋から確認できる二匹の動物、ヘビとアヒルは見るからに死んでいた"
@@ -1168,7 +1168,7 @@ translate Japanese mas_story_knock_b4c9e440:
     m 1esa "地球最後の女性の名はグレース・エヴァンス。彼女はウォルターの話を聞いて驚いた。{w=0.2}ザン星人には死が遠い存在で、彼らは自然に死ぬことがないらしいのだ"
 
 translate Japanese mas_story_knock_5ed92a2a:
-    m 3ttu "自然死がない存在だが、もしかしたら…… 殺すことはできるかもしれない"
+    m 3ttu "自然死がない存在だが、もしかしたら…… 殺害はできるかもしれない"
 
 translate Japanese mas_story_knock_65ad1665:
     m 1eud "ウォルターはその仮説を確かめる準備をすでに整えており、グレースに別れを告げた後に計画を実行した"
@@ -2313,6 +2313,96 @@ translate Japanese mas_scary_story_flowered_lantern_3_c7ce5c0e:
 translate Japanese mas_scary_story_flowered_lantern_3_bb2f7e5e:
     m 2wfc "そしてその傍らには、抱くようにして萩原の首に手を巻いた、女の骸骨が並んでいたのでした。"
 
+translate Japanese mas_scary_story_prison_escape_84f67ead:
+    m 1ekd "殺人の罪で終身刑を宣告された美しい女がいた"
+
+translate Japanese mas_scary_story_prison_escape_03678f6f:
+    m 2tfc "刑務所での待遇に激怒した彼女は、こんなところで一生を棒に振ることできないと決心し、 {w=0.2}脱獄の計画をし始めた"
+
+translate Japanese mas_scary_story_prison_escape_42e5abc2:
+    m 7eua "それからしばらく経ち、彼女は刑務所の看守のひとりと良い仲になっていた"
+
+translate Japanese mas_scary_story_prison_escape_bc0fb870:
+    m 3esc "その看守の仕事は囚人の埋葬で、刑務所の壁のすぐ外にある墓地へと行き来ができた"
+
+translate Japanese mas_scary_story_prison_escape_923980fd:
+    m 3esd "囚人が死ぬたびに報せ鐘を鳴らし、囚人全員に刑務所内での死を伝えることが埋葬担当者の最初の仕事だ"
+
+translate Japanese mas_scary_story_prison_escape_5c9c7a21:
+    m 3esc "次に遺体を棺に入れ、看守室で死亡診断書類を用意した後、棺のふたに釘を打ち付けて閉める"
+
+translate Japanese mas_scary_story_prison_escape_5a641248:
+    m 3esd "最後に、棺を荷馬車に乗せて墓地へ行き、埋葬する"
+
+translate Japanese mas_scary_story_prison_escape_9d7e3faa:
+    m 1euc "この一連の業務内容を知って、女は脱出の案を思いつく。そしてその計画を看守に打ち明けた"
+
+translate Japanese mas_scary_story_prison_escape_f9a73625:
+    m 1eud "その内容はこうだ。次に鐘が鳴るのが聞こえたら、すぐに女は独房から離れ、棺が安置されている暗い霊安室へと忍び込む"
+
+translate Japanese mas_scary_story_prison_escape_5cef0000:
+    m 1eud "看守が死亡診断書に記入している間に、遺体の入った棺の中へ女は身を隠し"
+
+translate Japanese mas_scary_story_prison_escape_ded21bc1:
+    m 3euc "棺のところへ戻った看守は何食わぬ顔で釘を打ち、棺を刑務所の外へと運び出して埋葬する"
+
+translate Japanese mas_scary_story_prison_escape_f9da0876:
+    m 3euc "棺の中の空気は日暮れまでは保つ。夕闇に紛れて戻ってきた看守が棺を掘り起こせば、晴れて女は自由の身という計画だ"
+
+translate Japanese mas_scary_story_prison_escape_d4cb2032:
+    m 2eksdlc "看守はこの計画には消極的だった{w=0.1}{nw}"
+
+translate Japanese mas_scary_story_prison_escape_a85fbf5f:
+    extend 4esa "だが彼は女と良い仲になってから長い。彼はしぶしぶ計画に手を貸すことにした"
+
+translate Japanese mas_scary_story_prison_escape_3184efa1:
+    m 2tsc "それから数か月、女は他の囚人が死ぬのじっと待っていた"
+
+translate Japanese mas_scary_story_prison_escape_f855e430:
+    m 7dsc "ある夜、いつもの独房で眠っていると、死の報せ鐘が鳴り響いた"
+
+translate Japanese mas_scary_story_prison_escape_9806635f:
+    m 3euc "女はすぐさま起き上がり、独房の鍵を開け、そろりそろりと廊下へ出た"
+
+translate Japanese mas_scary_story_prison_escape_f6879bfa:
+    m 3wud "霊安室へたどり着くまでに何度も見つかりそうになった……{w=0.3} その度に彼女の心臓は早鐘を打つ"
+
+translate Japanese mas_scary_story_prison_escape_b6b2883c:
+    m 3ekc "ようやくたどり着き、霊安室のドアを開けると暗闇の中には棺と静かに眠る死体らしきものがあった"
+
+translate Japanese mas_scary_story_prison_escape_ec88ee62:
+    m 3dkc "慎重に棺の中に入り込むと、棺のふたを元に戻して看守が棺に釘を打ちに来るのを待つ女"
+
+translate Japanese mas_scary_story_prison_escape_bdf1c4b5:
+    m 2eka "するとすぐにこちらへと近づく足音が聞こえてくる。そして棺に釘を打ち付ける金槌の音が続いた"
+
+translate Japanese mas_scary_story_prison_escape_6a0880b6:
+    m 4eksdlc "冷たくなった死体の上で寝て待つのは不快だったが、ひとつ釘が棺に打ち込まれるたびに自由の足音が聞こえてくるのを女は感じていた"
+
+translate Japanese mas_scary_story_prison_escape_3dd8d8ae:
+    m 2eud "釘で閉められた棺は荷馬車に積み込まれ、外の墓地へ"
+
+translate Japanese mas_scary_story_prison_escape_95fbb824:
+    m 2eksdlc "棺が墓の底に乱雑に墓穴に落とされたときも、女は一言も声を漏らさなかった"
+
+translate Japanese mas_scary_story_prison_escape_1fab1335:
+    m 4eksdlc "ついに棺に土がかぶされていく音が聞こえてきた。{w=0.1}{nw}"
+
+translate Japanese mas_scary_story_prison_escape_7153b381:
+    extend 4eksdla "ついに自由になれる。あとは時間の問題だった"
+
+translate Japanese mas_scary_story_prison_escape_f53504a2:
+    m 2hksdlb "完全な静寂に包まれてから1時間、静けさのなかで女は声を殺しながら笑っていた"
+
+translate Japanese mas_scary_story_prison_escape_bab84b35:
+    m 2eta "ふと好奇心が湧き、傍らにいる死んだ囚人の顔を拝んでやろうと女はマッチに火を灯す"
+
+translate Japanese mas_scary_story_prison_escape_f1d1d45b:
+    m 2wusdld "するとそこには……！"
+
+translate Japanese mas_scary_story_prison_escape_c01b3923:
+    m 2wusdlo "そこには看守の死体があったのだった！"
+
 translate Japanese strings:
     old "Which story would you like to hear?"
     new "どのお話を聞きたいの？"
@@ -2472,3 +2562,6 @@ translate Japanese strings:
 
     old "The Flowered Lantern 3"
     new "牡丹灯籠　三"
+
+    old "Prison Escape"
+    new "脱獄計画"
