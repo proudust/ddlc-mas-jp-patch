@@ -254,7 +254,7 @@ translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_f7c83da2:
     m "{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
 translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_2fdc530b:
-    m "ようこそいらっしゃいませ、紅魔の館へ"
+    m "ようこそいらっしゃいませ、{w=0.3}紅魔の館へ……"
 
 translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_fe117516:
     m "[player]様"

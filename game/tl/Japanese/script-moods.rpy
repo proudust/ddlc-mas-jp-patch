@@ -17,10 +17,10 @@ translate Japanese _mas_nnsh_4dfea3b9:
     m "でもそれは無理だから、体に良い物を食べて来なさい？"
 
 translate Japanese _mas_nnsh_ce87235e:
-    m 3eub "自分の体に気を使うのはとても大事なことよ。"
+    m 3eub "自分の体に気を使うのはとても大事なことよ"
 
 translate Japanese _mas_nnsh_f0874062:
-    m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を摂るためには野菜以外のあらゆる食べ物も欠かせないの。"
+    m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を摂るためには野菜以外のあらゆる食べ物も欠かせないの"
 
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"

@@ -532,6 +532,27 @@ translate Japanese mas_island_spooky_ambience_ca0e74d5:
 translate Japanese mas_island_spooky_ambience_ddbd6d02:
     m "もちろん、いまあなたと一緒にいられるだけで私はとっても楽しいけれどね"
 
+translate Japanese mas_island_bloodfall_09ad6983:
+    m "島の滝がとても気に入ってるの。逆さに水が落ちていくのはかなりシュールで好きなのよね"
+
+translate Japanese mas_island_bloodfall_919a0b57:
+    m "私が本当にしなければならなかったのは、水の値を #641F21 にすることで---{nw}"
+
+translate Japanese mas_island_bloodfall_262bc979:
+    m "待って、あなたにかけられた魔法を解きたくないの！{w=0.2}今言ったことは忘れてね！"
+
+translate Japanese mas_island_pumpkins_070366f4:
+    m "カボチャほどハロウィンを思い起こさせるものはないわね"
+
+translate Japanese mas_island_pumpkins_49f8236d:
+    m "読書スペースの周りにかぼちゃがたくさんあれば、とても居心地が良さそう"
+
+translate Japanese mas_island_pumpkins_a2d5d287:
+    m "雨模様で少し肌寒い日に、セーターを着てふたり肩を寄せあうのもすてきだと思わない？"
+
+translate Japanese mas_island_pumpkins_d7b59758:
+    m "香りのいいコーヒーを淹れておけば、もっと雰囲気が良くなるかもしれないね"
+
 translate Japanese mas_island_gravestones_e9a00f13:
     m "え？"
 
@@ -550,8 +571,20 @@ translate Japanese mas_island_gravestones_0b1ebf79:
 translate Japanese mas_island_gravestones_530d6d0f:
     m "私達がハッピーエンドを迎えてもあの三人がでてきたらかなり怖いんじゃないかしら？"
 
+translate Japanese mas_island_gravestones_88c761ea:
+    m "えへへ…… うまく飾れたか自信はないけれど"
+
 translate Japanese mas_island_gravestones_add660a9:
-    m "でも考えてたんだけど……ハロウィンに死者を敬う文化もあるのよね"
+    m "でも考えてたんだけど……ハロウィンは死者を敬うイベントでもあるのよね"
+
+translate Japanese mas_island_gravestones_6a7aaef3:
+    m "まあ死者が蘇ったり幽霊に取り付かれるような怖い話はたくさんあるけれど……"
+
+translate Japanese mas_island_gravestones_582b43f8:
+    m "ハロウィンは死者との思い出を振り返る日でもあるわよね"
+
+translate Japanese mas_island_gravestones_3f5e4089:
+    m "私はただ、去った人たちを忘れてしまうのはだめだと思ったの"
 
 translate Japanese strings:
     old "Can you show me the floating islands?"

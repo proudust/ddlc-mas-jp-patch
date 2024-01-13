@@ -143,7 +143,7 @@ translate Japanese monika_ptod_tip003_a5e06e34:
     m 1hksdlb "残念かもしれないけど、このPythonを使ってあなたが間違って私を削除したり、ゲームを壊してしまっちゃうリスクを犯したくないからね"
 
 translate Japanese monika_ptod_tip003_3f55cb50:
-    m "{cps=*2}じゃあ、あなたも{fast}{nw}"
+    m "{cps=*2}じゃあ、あなたも……{/cps}{nw}"
 
 translate Japanese monika_ptod_tip003_3d14d491:
     m 1eksdlb "これは使わせられないわ。{w=0.2}ごめんね……"
@@ -191,7 +191,7 @@ translate Japanese monika_ptod_tip005_a7584a77:
     m 3eua "値が別の値よりも大きい、または小さいかを確かめるには、それぞれ、大なり(>)、小なり(<)を使うのよ、"
 
 translate Japanese monika_ptod_tip005_9da12a93:
-    m 3eub "以上(>=)、以下(<=)というものもあるの。驚くことはないだろうけど{w=0.1}大なり、小なりとイコールの意味を両方持っているだけね"
+    m 3eub "以上(>=)、以下(<=)というものもあるの。驚くことはないだろうけど、{w=0.1}『大なり』もしくは『小なり』に加えて『イコール』の意味を持っているだけね"
 
 translate Japanese monika_ptod_tip005_6036f23c:
     m 1eua "比較演算子を使った式は全てTrueかFalseで返ってきていることに気づいたかな"
@@ -200,7 +200,7 @@ translate Japanese monika_ptod_tip005_d5752c02:
     m 1eksdlb "TrueかFalseのどちらかの値が返ってくることが、『比較演算式がbool型で評価された』って意味よ"
 
 translate Japanese monika_ptod_tip005_dd879535:
-    m 1eua "他にもANDやORのような演算子を使えば、複数の比較演算式を同時に組み合わせることも可能よ。ANDやORのような演算子を論理演算子と言うの"
+    m 1eua "他にもANDやORのような演算子を使えば、複数の比較演算式を同時に組み合わせることも可能よ。こういう演算子を{i}論理演算子{/i}と言うの"
 
 translate Japanese monika_ptod_tip005_c2ce3117:
     m "AND演算子は2つの演算の両方がTrueの場合にTrueになって、少なくとも1つがFalseのときにはFalseになるの"
@@ -221,7 +221,7 @@ translate Japanese monika_ptod_tip005_b5771a64:
     m 3eua "この例では、andの前の式では同じようにTrueと評価される"
 
 translate Japanese monika_ptod_tip005_5599f6d4:
-    m "[val_a]はもちろん[val_c]以上ね。だからandの後の式はTrueと評価されるわ"
+    m "[val_a]はもちろん[val_c]以上ね。だからandの後の式もTrueと評価されるわ"
 
 translate Japanese monika_ptod_tip005_da20e6c6:
     m 3eub "これは2つの式でどちらの評価もTrueだったから、処理全体ではTrueが返ってくるわ"
@@ -308,19 +308,19 @@ translate Japanese monika_ptod_tip005_a70abfe1:
     m "dはTrueでeはFalseだから、この処理はFalseが返ってくるわね"
 
 translate Japanese monika_ptod_tip005_94ad783a:
-    m "orは少なくとも1つの処理がTrueであればTrueで評価されるんだったわね。だからこの場合はTrueが返ってくるのよ"
+    m "ORは少なくとも1つの処理がTrueであればTrueで評価されるんだったわね。だからこの場合はTrueが返ってくるのよ"
 
 translate Japanese monika_ptod_tip005_d6f27c04:
-    m 3eua "カッコ内の処理はTrueで、notは結果を逆にする演算子。だからこの処理ではFalseが返ってくるわ"
+    m 3eua "カッコ内の処理はTrueで、NOTは結果を逆にする演算子。だからこの処理ではFalseが返ってくるわ"
 
 translate Japanese monika_ptod_tip005_b19bcd5d:
     m 3eub "この場合、もうdはTrueだとわかってたわね。"
 
 translate Japanese monika_ptod_tip005_6fe4657c:
-    m "NOT演算子がeを逆にしてるから、andの後はTrueとして評価されている"
+    m "NOT演算子がeを逆にしてるから、ANDの後はTrueとして評価されている"
 
 translate Japanese monika_ptod_tip005_57fa0f17:
-    m 3eua "andの前後両方ともTrueとして評価されているから、この処理ではTrueが返ってきているの"
+    m 3eua "ANDの前後両方ともTrueとして評価されているから、この処理ではTrueが返ってきているの"
 
 translate Japanese monika_ptod_tip005_8cb6ff69:
     m 1eua "比較演算は、あらゆるプログラミング言語のあらゆる場所で使われているわ"
