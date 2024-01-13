@@ -1521,7 +1521,7 @@ translate Japanese greeting_amnesia_cb5320e8:
     m "お願いします。{w=0.2}{nw}"
 
 translate Japanese greeting_amnesia_43672534:
-    extend 1dksdlc "友人を見失ってしまって……"
+    extend 1dksdlc "友人に会いたくて……"
 
 translate Japanese greeting_amnesia_7faca44c:
     m 1rksdla "……"
@@ -3945,6 +3945,12 @@ translate Japanese strings:
 
     old "I won't."
     new "しない"
+
+    old "bathing"
+    new "お風呂"
+
+    old "showering"
+    new "シャワー"
 
     old "It's a secret."
     new "秘密だよ"

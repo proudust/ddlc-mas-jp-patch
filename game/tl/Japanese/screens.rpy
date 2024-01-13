@@ -259,7 +259,7 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     new "インストール"
 
     old "Monika After Story is up to date."
-    new "モニカアフターストーリーは最新です。"
+    new "Monika After Storyは最新です。"
 
     old "Version [u.version] is available. Do you want to install it?"
     new "新しいバージョン [u.version] があります。インストールしますか？"
