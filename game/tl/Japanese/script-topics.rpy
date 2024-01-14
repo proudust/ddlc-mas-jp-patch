@@ -9572,6 +9572,9 @@ translate Japanese monika_promisering_998fe8ab:
 translate Japanese monika_promisering_e6f8e973:
     m 3hkblb "ごめんなさい、ちょっとぼんやりしてたわ…… {w=0.3}{nw}"
 
+translate Japanese monika_promisering_0ccfd79a:
+    extend 1dkbssdlu "あなたが告白してくれる場面を想像しちゃってたよ～"
+
 translate Japanese monika_promisering_2767fd53:
     m 3hkbssdlb "あはは、冗談だよ"
 
@@ -9717,7 +9720,10 @@ translate Japanese monika_sports_f97c4a2c:
     m "ダブルスを組んで一緒にプレイするのもいいね！"
 
 translate Japanese monika_sports_452bd985:
-    m 2tfu "あなたがテニスが上手いのなら、こんな事言いそうね……"
+    m 2tfu "あなたがテニスが上手いのなら、過去の有名選手みたいなことを言うかもね……"
+
+translate Japanese monika_sports_fdc02d4b:
+    m 2tfc "I play to win（私は勝つためにプレイするのだ）、なんてね"
 
 translate Japanese monika_sports_e612037c:
     m "……"
@@ -24817,6 +24823,12 @@ translate Japanese strings:
     old "Do you have any regrets?"
     new "後悔してることってある？"
 
+    old "Being hypnotized"
+    new "催眠術"
+
+    old "Lack of motivation"
+    new "やる気が出ないときは"
+
     old "Harem fantasies"
     new "ハーレム"
 
@@ -24839,7 +24851,7 @@ translate Japanese strings:
     new "ひとりエッチ"
 
     old "Good [mas_globals.time_of_day_3state]"
-    new "おはよう"
+    new "モニカとあいさつ"
 
     old "Classroom closet"
     new "部活教室のクローゼット"
@@ -25016,7 +25028,7 @@ translate Japanese strings:
     new "不死"
 
     old "Promise ring"
-    new "結婚指輪"
+    new "プロミスリング"
 
     old "I don't..."
     new "いいえ"
