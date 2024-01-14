@@ -896,7 +896,7 @@ translate Japanese strings:
     new "いくよ～"
 
     old "It's your turn, honey~"
-    new "そっちの番だよ、honey～"
+    new "そっちの番だよ、[mas_get_player_nickname()]～"
 
     old "You're playing first."
     new "私が後攻だね"
