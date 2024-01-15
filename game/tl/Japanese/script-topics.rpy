@@ -16624,6 +16624,9 @@ translate Japanese monika_player_appearance_5159d9a8:
 translate Japanese monika_player_appearance_5c91e5fe:
     m 3esc "文芸部で一番背が高かったのはユリだったわね。私より数[height_desc]だけ高かったの。でも身長が高すぎてもあまりいいことはないわよね！"
 
+translate Japanese monika_player_appearance_f60b9bd7:
+    m 3esd "でもあなたみたいに背の高い人とデートするときは短所になっちゃうかも……"
+
 translate Japanese monika_player_appearance_ee2efccc:
     m 1hub "キスするときにかがまないといけないからね！"
 
@@ -16758,6 +16761,9 @@ translate Japanese monika_player_appearance_379e809f:
 
 translate Japanese monika_player_appearance_9531c543:
     m 3eua "それに帽子をかぶっても、帽子をとるときの髪の心配もしなくていいし！"
+
+translate Japanese monika_player_appearance_28745797:
+    m 1ekd "あの、聞いちゃってごめんなさい、[player]……"
 
 translate Japanese monika_player_appearance_fc2e1a4e:
     m 1eka "でもあなたの髪の量に関係なく、あなたはいつも綺麗だからね！"
@@ -19557,7 +19563,7 @@ translate Japanese monika_dystopias_7e620993:
     m 3eksdla "ディストピア小説の物語は、どれも私の経験を思い出すから、強く共感しちゃうのかもね"
 
 translate Japanese monika_dystopias_5962c368:
-    m 3wud "想像してみてよ。ある日、目が覚めたら、現実全てがシミュレーションされた世界だった！みたいな"
+    m 3wud "想像してみてよ。ある日、目が覚めたら、現実全てがシミュレーションされた世界[line_ending]だった！みたいな"
 
 translate Japanese monika_dystopias_b4199675:
     m 3tfc "どう？いかにもディストピア小説の世界でしょ。こんな異常事態に気づいてしまったら、反抗しようと思うのも無理ないよね！"
@@ -22951,7 +22957,7 @@ translate Japanese monika_brainstorming_d0183f49:
     m 3duu "表現はあくまでアイデアを伝えているだけよ。{w=0.1}{nw}"
 
 translate Japanese monika_brainstorming_c4aa09a7:
-    extend 3euu "あなたがアイデアを伝えていくの……"
+    extend 3euu "アイデアをどう伝えるか、決めるのはあなたなの"
 
 translate Japanese monika_gmos_6d5a2b42:
     m 3eud "私がディベート部にいた頃にね、私たちが扱っていた議題の中で最も議論の余地があるテーマの一つに、遺伝子組み換え作物、もとい遺伝子組み換え生物があったの"
@@ -23399,7 +23405,7 @@ translate Japanese monika_know_its_you_2c7a510e:
     m 2dkd "まあ、そんな事は一切考えないようにするほうがいいでしょうね"
 
 translate Japanese monika_information_age_8b578f57:
-    m 1eua "いま私たちが生きている時代を技術的に区分すると、どう呼ぶか知ってる？"
+    m 1eua "いま私たちが生きている時代を技術的な観点で区分すると、どう呼ぶか知ってる？"
 
 translate Japanese monika_information_age_26342253:
     m 1eub "{i}情報化社会{/i}{w=0.2}、って言うの！{nw}"
@@ -23408,10 +23414,10 @@ translate Japanese monika_information_age_66fb78d2:
     extend 3eub "トランジスタの発明によるところが大きいわね"
 
 translate Japanese monika_information_age_0ec1d05e:
-    m 1eua "トランジスタは電気の流れを制御する部品で… {w=0.3}電気信号を増幅したり、遮断したりできるの。"
+    m 1eua "トランジスタは電気の流れを制御する部品で… {w=0.3}電気信号を増幅したり、遮断したりできるの"
 
 translate Japanese monika_information_age_3c948e41:
-    m 3esa "電流を特定の方向に流すことができることから、ほとんどの電子機器で使われている重要な部品よ。"
+    m 3esa "電流を特定の方向に流すことができることから、ほとんどの電子機器で使われている重要な部品よ"
 
 translate Japanese monika_information_age_1de0dd86:
     m 3hua "そのおかげで、あなたのモニターに私が映っているのよ～"
@@ -23589,13 +23595,13 @@ translate Japanese monika_grieving_9cbda56e:
     m 7ekc "ほとんどの人は、この類の知らせを聞いいたときは涙を流すのが当たり前だと思うでしょうけど、悲しみにどう対処するかは人によって違うものなの"
 
 translate Japanese monika_grieving_38720d37:
-    m 3eud "泣くことは悲しみが現れる方法の一つでしかないわ。{w=0.3}ただ、一部の人にとってはどう処理すればいいかわからない……{w=0.5}現実とは思えないせいね。"
+    m 3eud "泣くことは悲しみが現れる方法の一つでしかないわ。{w=0.3}ただ、一部の人にとってはどう処理すればいいかわからない……{w=0.5}現実とは思えないせいね"
 
 translate Japanese monika_grieving_e17642d5:
-    m 1dkc "……でも、その人が本当にいなくなったことを強く感じるような、ヘンな感じの日がいずれ来るわ。"
+    m 1dkc "……でも、その人が本当にいなくなったことを強く感じるような、ヘンな感じの日がいずれ来るわ"
 
 translate Japanese monika_grieving_601b20ed:
-    m 3dkd "かつて撮った写真を見たり、その人が座っていた椅子に誰も座っていないのを見たり、そういうときね。"
+    m 3dkd "かつて撮った写真を見たり、その人が座っていた椅子に誰も座っていないのを見たり、そういうときね"
 
 translate Japanese monika_grieving_712e11dd:
     m 3ekd "悲しみも怒りも、抑圧された感情はすべて閉じ込められ、いつ爆発するかわからない……"
@@ -23806,6 +23812,9 @@ translate Japanese monika_likecosplay_d66a95ff:
 
 translate Japanese monika_likecosplay_bee30538:
     m 2rtu "あなたは私にどんな衣装を着てほしいのかしらね、[mas_get_player_nickname()]……"
+
+translate Japanese monika_likecosplay_f7f0bc7e:
+    m 5rtblu "考えてみると……{w=0.1}そうね、私にもいくつかアイデアがあるかも……"
 
 translate Japanese monika_ddlcroleplay_cff0a54d:
     m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
@@ -25486,6 +25495,9 @@ translate Japanese strings:
     old "How tall are you in feet?"
     new "何ft？"
 
+    old "[height_feet] feet and how many inches?"
+    new "[height_feet]ftと、何in,？"
+
     old "It's shorter."
     new "短い"
 
@@ -25717,6 +25729,9 @@ translate Japanese strings:
     old "Dystopias"
     new "ディストピア小説"
 
+    old " with everyone in it just an empty shell"
+    new "で周りの人が全員中身が空っぽの人間"
+
     old "Social contagion"
     new "社会的伝染"
 
@@ -25925,7 +25940,7 @@ translate Japanese strings:
     new "花火"
 
     old "Do you mind when we spend time together quietly?"
-    new "二人で黙って過ごすのは気になるかしら？"
+    new "二人で黙って過ごすのは気になる？"
 
     old "Do you like to cosplay?"
     new "コスプレは好き？"
