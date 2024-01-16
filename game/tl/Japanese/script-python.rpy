@@ -95,7 +95,7 @@ translate Japanese monika_ptod_tip002_9718b39c:
     m 3eub "Pythonは{b}NoneType{/b}という特別なデータ型もあって、これはデータがないということを意味するの"
 
 translate Japanese monika_ptod_tip002_f24d9a26:
-    m "もしあなたが他のプログラミング言語に詳しかったら、これは{i}null型{/i}や{i}undefined型{/i}のようなものね"
+    m "もしあなたが他のプログラミング言語に詳しいなら、これは{i}null型{/i}や{i}undefined型{/i}のようなものと言うと分かりやすいかな"
 
 translate Japanese monika_ptod_tip002_014ce110:
     m "{i}None{/i}というキーワードがPythonではNoneType型を表すの"
