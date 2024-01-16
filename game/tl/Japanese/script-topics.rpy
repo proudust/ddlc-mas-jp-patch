@@ -18807,7 +18807,7 @@ translate Japanese monika_relationship_comfort_1ab1877c:
     m 2hubsb "……私はそういう心地の良い関係が良いなって思うの"
 
 translate Japanese monika_relationship_comfort_748dc9f0:
-    m 1kua "だから、同じ轍を踏まないようにしようね、[player]{w=0.2}{nw}"
+    m 1kua "だから、同じ轍を踏まないようにしようね、[player]。{w=0.2}{nw}"
 
 translate Japanese monika_relationship_comfort_a4b5997d:
     extend 1hub "アハハ！"
