@@ -15170,13 +15170,13 @@ translate Japanese monika_players_friends_92ea2686:
     m 1eua "これは少し読書をしているときに見つけたんだけどね"
 
 translate Japanese monika_players_friends_8040ed84:
-    m 1eud "ロビン・ダンバーという男性が、私たちが維持できる人間関係の数について言及してたの"
+    m 1eud "ロビン・ダンバーという人が、私たちが維持できる人間関係の数について言及してたの"
 
 translate Japanese monika_players_friends_f5cd5d8b:
-    m 3eud "最低でも150人ぐらいは安定した人間関係を持つことができるけど、普通の人間関係としてはあんまり深くないのよね"
+    m 3eud "安定した人間関係が築けるのは最大でも150人。親密な人間関係じゃなくて、あまり深くない人付き合いを保つので150人くらいが最大らしいのよね"
 
 translate Japanese monika_players_friends_59d32737:
-    m 1euc "彼が言うには家族以上の友達を最大15人と、親族のような関係を5人まで持つことができるそうよ"
+    m 1euc "彼が言うには、親族並の付き合いができる友人は最大で15人、家族同然の友人となると5人が最大だそうよ"
 
 translate Japanese monika_players_friends_bb258681:
     m 1rksdla "寂しくなることもあるわよね、みんなが忙しいときとか……{w=0.2}{nw}"
@@ -15206,10 +15206,10 @@ translate Japanese monika_players_friends_7c0dc69f:
     m 1etc "あのね、ちょっと気になったんだけど"
 
 translate Japanese monika_players_friends_feels_lonely_ask_88b9d6df:
-    m "寂しさを感じたことはある？{nw}"
+    m "[question]{nw}"
 
 translate Japanese monika_players_friends_feels_lonely_ask_d9a28ab8:
-    m "寂しさを感じたことはある？{fast}" nointeract
+    m "[question]{fast}" nointeract
 
 translate Japanese monika_players_friends_feels_lonely_ask_eb42e33a:
     m 1eka "わかるわ、[player]"
@@ -24700,8 +24700,80 @@ translate Japanese strings:
     old "Words can't describe how I feel about you!"
     new "言葉では語り尽くせないくらい、あなたの事を想ってるよ～"
 
+    old "I love you more, [player]!"
+    new "もっと愛してるよ、[player]！"
+
+    old "No, I love you waaaaaaaaay more!"
+    new "もっと、も～～～っと愛してるよ！"
+
+    old "No, I definitely love you more!"
+    new "絶対にもっと愛してるよ！"
+
     old "No, I love you more!"
-    new "いいや、もっと愛してる！"
+    new "もっと愛してるよ！"
+
+    old "No, I love you way more!"
+    new "もっと、もっと愛してるよ！"
+
+    old "Not a chance, [mas_get_player_nickname()]. I love you waaaaaaaaay more!"
+    new "ありえない、[mas_get_player_nickname()]。もっと、も～～～っと愛してるよ！"
+
+    old "Not a chance, [mas_get_player_nickname()]. I definitely love you more!"
+    new "ありえない、[mas_get_player_nickname()]。絶対にもっと愛してるよ！"
+
+    old "Not a chance, [mas_get_player_nickname()]. I love you more!"
+    new "ありえない、[mas_get_player_nickname()]。もっと愛してるよ！"
+
+    old "Not a chance, [mas_get_player_nickname()]. I love you way more!"
+    new "ありえない、[mas_get_player_nickname()]。もっと、もっと愛してるよ！"
+
+    old "Nope, I love you waaaaaaaaay more!"
+    new "もっと、も～～～っと愛してるよ！"
+
+    old "Nope, I definitely love you more!"
+    new "絶対にもっと愛してるよ！"
+
+    old "Nope, I love you more!"
+    new "もっと愛してるよ！"
+
+    old "Nope, I love you way more!"
+    new "もっと、もっと愛してるよ！"
+
+    old "No,{w=0.1} no,{w=0.1} no,{w=0.1} I love you waaaaaaaaay more!"
+    new "もっと、も～～～っと愛してるよ！"
+
+    old "No,{w=0.1} no,{w=0.1} no,{w=0.1} I definitely love you more!"
+    new "絶対にもっと愛してるよ！"
+
+    old "No,{w=0.1} no,{w=0.1} no,{w=0.1} I love you more!"
+    new "もっと愛してるよ！"
+
+    old "No,{w=0.1} no,{w=0.1} no,{w=0.1} I love you way more!"
+    new "もっと、もっと愛してるよ！"
+
+    old "No way, [mas_get_player_nickname()]. I love you waaaaaaaaay more!"
+    new "そんなことない、[mas_get_player_nickname()]。もっと、も～～～っと愛してるよ！"
+
+    old "No way, [mas_get_player_nickname()]. I definitely love you more!"
+    new "そんなことない、[mas_get_player_nickname()]。絶対にもっと愛してるよ！"
+
+    old "No way, [mas_get_player_nickname()]. I love you more!"
+    new "そんなことない、[mas_get_player_nickname()]。もっと愛してるよ！"
+
+    old "No way, [mas_get_player_nickname()]. I love you way more!"
+    new "そんなことない、[mas_get_player_nickname()]。もっと、もっと愛してるよ！"
+
+    old "That's impossible...{w=0.3}I love you waaaaaaaaay more!"
+    new "ありえないよ……{w=0.3}もっと、も～～～っと愛してるよ！"
+
+    old "That's impossible...{w=0.3}I definitely love you more!"
+    new "ありえないよ……{w=0.3}絶対にもっと愛してるよ！"
+
+    old "That's impossible...{w=0.3}I love you more!"
+    new "ありえないよ……{w=0.3}もっと愛してるよ！"
+
+    old "That's impossible...{w=0.3}I love you way more!"
+    new "ありえないよ……{w=0.3}もっと、もっと愛してるよ！"
 
     old "Alright."
     new "わかったよ"
@@ -24750,6 +24822,9 @@ translate Japanese strings:
 
     old "Tell me about yourself"
     new "自己紹介して"
+
+    old "Imprisoned"
+    new "囚われの身"
 
     old "Appreciating visual novels"
     new "ノベルゲームについて"
@@ -25398,6 +25473,18 @@ translate Japanese strings:
 
     old "No, actually..."
     new "いいや、実は……"
+
+    old "Do you ever feel lonely?"
+    new "寂しさを感じたことはある？"
+
+    old "...And according to this number"
+    new "……そしてダンバーによると、"
+
+    old "According to Dunbar's number"
+    new "ダンバーによると、"
+
+    old "Do you ever feel lonely, [player]?"
+    new "[player]、寂しさを感じたことはある？"
 
     old "Sometimes."
     new "時々ある"
