@@ -59,7 +59,7 @@ translate Japanese monika_gtod_tip002_c58a1154:
     m 1eud "実は、多くのひとが文章を書いているときに陥りがちなミスがあるの。"
 
 translate Japanese monika_gtod_tip002_60f390db:
-    m 3esc "2つの主節を1つの文につなぐことを、コンマ・スプライス、つまりコンマの誤用っていうの。"
+    m 3esc "コンマ（,）を使って2つ以上の主節を1つの文につなぐことを、コンマ・スプライス、つまりコンマの誤用っていうの。"
 
 translate Japanese monika_gtod_tip002_06ce347c:
     m 3esa "例えば、こういう場合。{w=0.5} '{b}I visited the park, I looked at the sky, I saw many stars.（公園に行って、空を見上げて、星がたくさん見えた。）{/b}' "
@@ -105,7 +105,7 @@ translate Japanese monika_gtod_tip003_5cd11ef5:
     m 3esa "前にも話したように、接続詞は2つの節や句を1つにまとめる単語やフレーズのことよ。"
 
 translate Japanese monika_gtod_tip003_f12ce9f6:
-    m 3wud "考えてみると、大きなカテゴリーよね！1つの文にまとめるのに、様々な言葉を使うわ。"
+    m 3wud "考えてみると、大きなカテゴリーよね！1つの文にまとめるのに、たくさんの言葉を使うわ。"
 
 translate Japanese monika_gtod_tip003_53406bf6:
     m 1euc "接続詞なしで話すと、どうなるかしら……"
@@ -250,7 +250,7 @@ translate Japanese monika_gtod_tip005_e050720d:
     m 1eua "{b}We watched.（私たちは見た。）{/b}' という文でも十分だったはずよ。"
 
 translate Japanese monika_gtod_tip005_c1706c03:
-    m 3hksdlb "完全文よね……あいまいだけど、アハハ！"
+    m 3hksdlb "たしかに完全文よね……あいまいだけど、アハハ！"
 
 translate Japanese monika_gtod_tip005_089c18e9:
     m 1eud "それと、目的語は文末に来なくちゃいけない、ってわけじゃないけど、これについてはまた今度にしましょうか。"
@@ -304,7 +304,7 @@ translate Japanese monika_gtod_tip006_df980cd9:
     m 3euc "科学者は実験について、 '{b}the results were documented（結果を示す）{/b}...' と書いているわ。重要なのはその研究であって、誰がやったかではないからね"
 
 translate Japanese monika_gtod_tip006_2d619292:
-    m 1esa "とにかく、ほとんどの場合、能動態を使うことで読みやすい文章にできるし、誰がしたのかを直接伝えることもできるわ"
+    m 1esa "とにかく、ほとんどの場合では能動態を使うことで読みやすい文章にできるし、誰がしたのかを直接伝えることもできるわ"
 
 translate Japanese monika_gtod_tip006_4f8ac4f8:
     m 1eub "今日はここまでにしよっか、[player]君"
@@ -343,7 +343,7 @@ translate Japanese monika_gtod_tip007_3332c9de:
     m 1esd "{b}she knows everything{/b}' と '{b}her knows everything{/b}' になるわね"
 
 translate Japanese monika_gtod_tip007_98795251:
-    m 3euc "{b}she knows everything{/b}' だけが意味が通じる文だから、正しいのは '{b}who knows everything（全てを知る者）{/b}' だとわかる、というわけ"
+    m 3euc "意味が通じるのは '{b}she knows everything{/b}' だけだから、正しいのは '{b}who knows everything（全てを知る者）{/b}' だとわかる、というわけ"
 
 translate Japanese monika_gtod_tip007_28e0370d:
     m 1hksdla "書くのが大変、なんて言ったのは誰 (who) ？"
@@ -427,13 +427,13 @@ translate Japanese monika_gtod_tip009_85b62dca:
     m 1euc "前に読んだ文法書のうちの何冊かには、 '{b}Sophocles{/b}' とか '{b}Zeus{/b}' みたいな歴史上の人物でない限り、基本的にはいつも通りアポストロフィーと '{b}s{/b}' を付けるって載ってたわ"
 
 translate Japanese monika_gtod_tip009_418cae0d:
-    m 3eub "個人的には、一貫性が何より大事だと思うの！"
+    m 3eub "個人的には、一貫性がなによりも大事だと思うの！"
 
 translate Japanese monika_gtod_tip009_78120e5e:
     m 3esd "{b}[tempname]'{/b}' を使うなら、文章全体で '{b}[tempname]'{/b}' と表記すれば問題はないわ"
 
 translate Japanese monika_gtod_tip009_4b444bee:
-    m 1tuu "古代ギリシャ人に敬意を表するよりも重要かな、私には"
+    m 1tuu "古代ギリシャ人に敬意を示すよりもこちらの方が重要かな、私には"
 
 translate Japanese monika_gtod_tip009_484088d0:
     m 3eud "面白いことに、 '{b}its{/b}' と '{b}it's{/b}' は例外の一つなの"

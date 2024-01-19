@@ -22,6 +22,9 @@ translate Japanese _mas_nnsh_ce87235e:
 translate Japanese _mas_nnsh_f0874062:
     m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を摂るためには野菜以外のあらゆる食べ物も欠かせないの"
 
+translate Japanese _mas_nnsh_efe38263:
+    m 3eka "だから、大事な栄養素を欠かさないように気を付けてほしいの"
+
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"
 
