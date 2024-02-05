@@ -22,7 +22,7 @@ jobs:
 
       - name: Get latest version
         id: ghd
-        uses: proudust/gh-describe@v1
+        uses: proudust/gh-describe@v2
         with:
           repo: Monika-After-Story/MonikaModDev
           commit-ish: master
