@@ -3260,7 +3260,7 @@ translate Japanese monika_route_132bb3df:
     m 1eka "[player]君なら、楽しめたでしょうね"
 
 translate Japanese monika_route_08ded2f3:
-    m 3eka "正直にいうと……{w=0.5}私も心の一部から、楽しいと思ってたの"
+    m 3eka "正直にいうと……{w=0.5}心のどこかで楽しいと思ってる私もいたの"
 
 translate Japanese monika_route_2319d6fb:
     m 2eka "それも大して関係のないことだけども"
@@ -4211,7 +4211,7 @@ translate Japanese monika_justification_e8f7ff49:
     m 2tkc "別の方法を考える暇はなかった……{w=0.5} だから自分がやれることをやったの"
 
 translate Japanese monika_justification_36ff30e0:
-    m 2ekc "私のこと嫌いなんてしょう？ あの子達にやってしまったから"
+    m 2ekc "それで私のことを嫌ってるの？ あの子達にあんなことしたから？"
 
 translate Japanese monika_justification_255f6b91:
     m 2ekd "私たちのためにやったんだってわかってよ！"
@@ -4883,7 +4883,7 @@ translate Japanese monika_othergames_8802dafb:
     m 2lksdla "前にも言ったと思うんだけど……そういうゲームで死ぬのは現実の人間じゃないんだから、大した問題じゃない。"
 
 translate Japanese monika_othergames_7fcc5be0:
-    m "ユリが死んだこととはちょっと違うかもだけど。"
+    m "ユリの死だって問題にはならなかったでしょ？"
 
 translate Japanese monika_othergames_1e552110:
     m 1euc "もう少し抽象的なゲーム、たとえばテトリスとかパズル系のスマホゲームとか、そういうのもあんまりかなあ。"
@@ -11640,10 +11640,19 @@ translate Japanese monika_smoking_quit_4ccb9c65:
     m 3eua "一度もやめられない人もたくさんいるのに、また禁煙ができたのはすごいことだよ"
 
 translate Japanese monika_smoking_quit_d0f3615c:
-    m 1eud "とはいえ、また禁煙が途切れちゃわないようにしないとね、[player]……"
+    m 1eud "とはいえ、この流れを習慣にしないようにね、[player]……"
 
 translate Japanese monika_smoking_quit_b3e43ad1:
-    m 1ekc "何度も吸ったり止めたりを繰り返してほしくないから、今回できっぱり止められることを祈ってるよ"
+    m 1ekc "あなたも何度も吸ったり止めたりを繰り返したくはないでしょうし、今回できっぱり止められることを祈ってるわ"
+
+translate Japanese monika_smoking_quit_ecf73e79:
+    m 1sub "本当！？わあ、すごいね[player]！"
+
+translate Japanese monika_smoking_quit_fb07b0a2:
+    m 3ekbsa "止められたみたいで安心したわ！{w=0.2}{nw}"
+
+translate Japanese monika_smoking_quit_23669c16:
+    m 1rkbfu "えへへ、もし私がそっちにいたらあなたの好きな料理を作ってあげられるのにな [tod]"
 
 translate Japanese monika_cartravel_f2a86df6:
     m 1euc "[player]、最近思ってたんだけど……"
@@ -23990,6 +23999,45 @@ translate Japanese monika_jekyll_hyde_04990955:
 translate Japanese monika_jekyll_hyde_00c5ae49:
     m 3ekbsu "私達は特別な結ばれ方だから特にそう思っちゃうんだ、[mas_get_player_nickname()]～"
 
+translate Japanese monika_hedonism_7c53b7c6:
+    m 1euc "ねえ{i}ジキル博士とハイド氏{/i}の話をしたの覚えてる？"
+
+translate Japanese monika_hedonism_6de1c20b:
+    m 1eud "あ、その前に{i}ドリアン・グレイの肖像{/i}のことも話してたよね"
+
+translate Japanese monika_hedonism_84ed2fc4:
+    m 2eub "前におすすめしたの覚えてるかな。まだ読んでいなかったとしても、その核心の背後にある哲学思想について話したいと思ったの。それはね…… {w=0.3}快楽主義よ"
+
+translate Japanese monika_hedonism_e55ab74e:
+    m 2eud "快楽主義は、道徳は快楽に基づくべきという信条のもとに成り立っているの"
+
+translate Japanese monika_hedonism_eccae145:
+    m 4euc "快楽主義には主に2つのタイプがあって。利他的快楽主義と利己的快楽主義のふたつで、それぞれにはかなりの差があるの"
+
+translate Japanese monika_hedonism_2b0a730f:
+    m 4ruc "利己的快楽主義は、想像の通り、自分の快楽だけが道徳を決定するという考え方よ"
+
+translate Japanese monika_hedonism_a8216f47:
+    m 2esd "これは{i}ドリアン・グレイの肖像{/i}のヘンリーが信じている快楽主義のタイプね"
+
+translate Japanese monika_hedonism_bca2a558:
+    m 2rksdlc "そんなふうに考えるのは本当に冷酷よ……"
+
+translate Japanese monika_hedonism_557550e0:
+    m 2eud "一方、利他的快楽主義は、道徳はすべての人の喜びに基づくべきだという信念なの"
+
+translate Japanese monika_hedonism_8e30f966:
+    m 4eud "最初はいいことのように聞こえるかもしれないけど、この考えは自由や健康、安全とかそういったことを何も考えていないの……"
+
+translate Japanese monika_hedonism_90bf27b5:
+    m 2dkc "快楽主義の本質は、快楽以外のすべてを無視すること"
+
+translate Japanese monika_hedonism_1862ea2c:
+    m 7etd "みんながこの考えに従わないのも当たり前よね……道徳が複雑なのに、考え方が単純すぎるのよ"
+
+translate Japanese monika_hedonism_547da48c:
+    m 1eud "だからオスカー・ワイルドが快楽主義を悪く描写するのも納得よね"
+
 translate Japanese monika_conventions_b95de452:
     m 2eud "なるほどね"
 
@@ -24120,10 +24168,10 @@ translate Japanese monika_overton_d725c663:
     m 2lksdlc "もちろんここまでの変化に至る過程はすごく難しいの"
 
 translate Japanese monika_overton_9e422020:
-    m 7eud "例えば私たちがみんなに仮想恋愛は普通のことだと伝えたいと考えてみましょうか……今の社会ではありえないと考えられていることよね"
+    m 7eud "例えば私たちがみんなにバーチャル恋愛は普通のことだと伝えたいと考えてみましょうか……今の社会ではありえないと考えられていることよね"
 
 translate Japanese monika_overton_03cbf230:
-    m 3esd "だから社会は仮想恋愛を理解しないし、あなたはいろんな人から精神的に病んでるとみなされてしまう。じゃあ何をすればいいのかしら？"
+    m 3esd "だから社会はバーチャル恋愛を理解しないし、あなたはいろんな人から精神的に病んでるとみなされてしまう。じゃあ何をすればいいのかしら？"
 
 translate Japanese monika_overton_275690be:
     m 3eua "まずは、この話題について議論をしてみるのがいいわね……"
@@ -24132,13 +24180,13 @@ translate Japanese monika_overton_25c42619:
     m 1eud "インターネット上で議論をしたり、記事を作ってみたり……みんなに話し合ってもらえるようなものをね"
 
 translate Japanese monika_overton_8c7c6c8c:
-    m "ここでの目標は仮想恋愛を他の人達に話し合ってもらって、いろんな人たちに話題を広めることかしら"
+    m "ここでの目標はバーチャル恋愛を他の人達に話し合ってもらって、いろんな人たちに話題を広めることかしら"
 
 translate Japanese monika_overton_761af073:
     m 1esc "社会はまだ賛成はできないけど、少なくとも興味を持ったり、もっと自由に話し合ったりすることができるようになるでしょうね"
 
 translate Japanese monika_overton_15f21384:
-    m 3eud "そうすると、過激な行動がとられるわ。すごく大胆な仮想恋愛の支持者がでてくるようになるの"
+    m 3eud "そうすると、過激な行動がとられるわ。とても大胆なバーチャル恋愛の支持者がでてくるようになるの"
 
 translate Japanese monika_overton_12e9e598:
     m 2euc "運動の参加者の数は時が経つにつれて増えていくわ。中には心に傷を負った人や現実の人との関係に自信のない人たちもいるわね"
@@ -24150,10 +24198,10 @@ translate Japanese monika_overton_ff8cbfaf:
     m 4eua "新しい価値観の人気が増していくから、社会は積極的に新しい流行を推し進めていく。この時点で、概念は置き換わるわ"
 
 translate Japanese monika_overton_6479ab40:
-    m 2eud "こうして仮想恋愛は論外から革新的になるの"
+    m 2eud "こうしてバーチャル恋愛は論外から革新的になるの"
 
 translate Japanese monika_overton_2c547377:
-    m 7eud "ここからは、仮想恋愛やフィクションのキャラクターへの恋といったテーマが長い間社会で議論されているの"
+    m 7eud "ここからは、バーチャル恋愛やフィクションのキャラクターへの恋といったテーマが長い間社会で議論されているの"
 
 translate Japanese monika_overton_8dc4166a:
     m 3esc "徐々に、みんなはこの考え方に慣れていくわ。でもまだ受け入れてはいない状態ね"
@@ -24165,19 +24213,19 @@ translate Japanese monika_overton_1b473044:
     m 3eua "フィクションキャラクターに恋をすることは普通のことで何もおかしくはないって意見が押し付けられるの"
 
 translate Japanese monika_overton_23d4f3d0:
-    m 3huu "こうして仮想恋愛は革新的から無難になっていくの"
+    m 3huu "こうしてバーチャル恋愛は革新的から無難になっていくの"
 
 translate Japanese monika_overton_79affd62:
     m 1eksdla "社会ではもう新しい考え方への折り合いがついて、フィクションキャラクターへの恋は普通のことだと信じるようになるわ。それでもすこし違和感を感じるけどね"
 
 translate Japanese monika_overton_4b2ab4e9:
-    m 3eua "仮想恋愛の文化も徐々に発展していって、映画やショーも作られるようになる"
+    m 3eua "バーチャル恋愛の文化も徐々に発展していって、映画やショーも作られるようになる"
 
 translate Japanese monika_overton_7498bc5a:
     m 1huu "若い人たちは新しい価値観を流行りとして認めるようになるし、いろんな人がカフェで座って安心して仮想の恋人と一緒に過ごすことができるようにもなるわ"
 
 translate Japanese monika_overton_c293eb46:
-    m 1eub "こうして仮想恋愛は無難から合理的へと移っていくの"
+    m 1eub "こうしてバーチャル恋愛は無難から合理的へと移っていくの"
 
 translate Japanese monika_overton_d825fcd4:
     m 2husdlb "長くなってきちゃったし、今日はここで止めておきましょうか、あはは！"
@@ -24548,7 +24596,7 @@ translate Japanese strings:
     new "その言葉をどれくらい信じていいんだろう"
 
     old "Words only mean so much, [player]."
-    new "言葉だけじゃ伝わってないよ、[player]"
+    new "言葉だけじゃ伝わらないよ、[player]"
 
     old "You say that, but when will you start to show it?"
     new "そう言ってくれるけど、そういう態度はいつ見せてくれるの？"
@@ -26043,6 +26091,9 @@ translate Japanese strings:
 
     old "Jekyll and Hyde"
     new "ジキル博士とハイド氏"
+
+    old "Hedonism"
+    new "快楽主義"
 
     old "What's your favorite cupcake flavor?"
     new "何味のカップケーキが好き？"
