@@ -24464,7 +24464,7 @@ translate Japanese strings:
     new "インターネットって……"
 
     old "Laziness"
-    new "だらっと過ごすこと"
+    new "だらだら"
 
     old "Mental sickness"
     new "精神疾患について"

@@ -179,7 +179,7 @@ translate Japanese mas_mood_happy_e6cbe9df:
     m "いつでも会いに来て、私が[mas_get_player_nickname()]君を元気づけてあげる。"
 
 translate Japanese mas_mood_happy_84caac57:
-    m 3eka "いつでも私はここであなたを待っている、大好きだよ〜"
+    m 3eka "いつでも私はここであなたを待ってるわ、大好きよ〜"
 
 translate Japanese mas_mood_sick_e08d6fa5:
     m 1ekd "そんな……[player]……"
@@ -1139,16 +1139,22 @@ translate Japanese mas_mood_grateful_7948c335:
     m "何に感謝してるの、[chosen_nickname]？{fast}" nointeract
 
 translate Japanese mas_mood_grateful_d6de0489:
-    m 3eka "ああ、それは素晴らしいわ！"
+    m 3eka "ああ、それは素晴らしいわね！"
 
 translate Japanese mas_mood_grateful_b863275c:
     m 1hua "あなたの生活を支えてくれる人がいるなんて、本当に嬉しいわ"
+
+translate Japanese mas_mood_grateful_4bc4bd2a:
+    m 3eud "でも私だってこんなに嬉しいんだから……{w=0.3}{i}その人{/i}にも伝えた方がいいと思う"
 
 translate Japanese mas_mood_grateful_d29bdf23:
     m 1huu "何にせよ、本当に嬉しいわ、[mas_get_player_nickname()]～"
 
 translate Japanese mas_mood_grateful_c6420c0b:
     m 3hub "それはよかった、 [mas_get_player_nickname()]！"
+
+translate Japanese mas_mood_grateful_gratefulforyou_2ca2a15b:
+    m 1ekbla "ああ、[player]……{w=0.3}そう言ってくれてありがとう"
 
 translate Japanese mas_mood_grateful_gratefulforyou_f2762886:
     m 3ekbla "大好きよ、[player]君～"
