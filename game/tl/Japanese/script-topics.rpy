@@ -11651,6 +11651,9 @@ translate Japanese monika_smoking_quit_ecf73e79:
 translate Japanese monika_smoking_quit_fb07b0a2:
     m 3ekbsa "止められたみたいで安心したわ！{w=0.2}{nw}"
 
+translate Japanese monika_smoking_quit_56b5d690:
+    extend 3dkbsu "不安が消えて、今夜はいつもよりぐっすり眠れそうだよ"
+
 translate Japanese monika_smoking_quit_23669c16:
     m 1rkbfu "えへへ、もし私がそっちにいたらあなたの好きな料理を作ってあげられるのにな [tod]"
 
