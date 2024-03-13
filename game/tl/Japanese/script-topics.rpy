@@ -11645,17 +11645,53 @@ translate Japanese monika_smoking_quit_d0f3615c:
 translate Japanese monika_smoking_quit_b3e43ad1:
     m 1ekc "あなたも何度も吸ったり止めたりを繰り返したくはないでしょうし、今回できっぱり止められることを祈ってるわ"
 
+translate Japanese monika_smoking_quit_8dedf69e:
+    m 3eka "私にはわかってるよ。禁煙できる心の強さが、あなたには絶対ある。{w=0.2} {nw}"
+
+translate Japanese monika_smoking_quit_777ff164:
+    extend 3eua "いつでも私のところに来てくれていいからね。煙のことを忘れさせてあげるよ"
+
+translate Japanese monika_smoking_quit_08e70c3b:
+    m 1hua "いっしょに頑張ろうね、[player]～"
+
 translate Japanese monika_smoking_quit_ecf73e79:
     m 1sub "本当！？わあ、すごいね[player]！"
 
 translate Japanese monika_smoking_quit_fb07b0a2:
-    m 3ekbsa "止められたみたいで安心したわ！{w=0.2}{nw}"
+    m 3ekbsa "本当に安心した！ {w=0.2}{nw}"
 
 translate Japanese monika_smoking_quit_56b5d690:
-    extend 3dkbsu "不安が消えて、今夜はいつもよりぐっすり眠れそうだよ"
+    extend 3dkbsu "これで今夜はいつもよりもよく眠れそうだよ"
 
 translate Japanese monika_smoking_quit_23669c16:
-    m 1rkbfu "えへへ、もし私がそっちにいたらあなたの好きな料理を作ってあげられるのにな [tod]"
+    m 1rkbfu "私がそっちにいたなら、ごほうびにあなたの好きな晩ごはんを作ってあげられたのにね"
+
+translate Japanese monika_smoking_quit_3bda38da:
+    m 3hubfb "ともあれ禁煙を達成できたのは立派だよ！{w=0.2}まずはお祝いだね！"
+
+translate Japanese monika_smoking_quit_d94c550c:
+    m 3eubsb "辞めたいと思っていても煙草を止められない人だっているんだから"
+
+translate Japanese monika_smoking_quit_d1615b4f:
+    m 1dubfu "[player]は本当にすごいねよ"
+
+translate Japanese monika_smoking_quit_d8845ef9:
+    m 2eua "……あのね、おめでたい話の腰を折るつもりじゃないんだけれど、{nw}"
+
+translate Japanese monika_smoking_quit_2e1e00f5:
+    extend 2euc "これからも気を抜かないでね"
+
+translate Japanese monika_smoking_quit_0569acf3:
+    m 4rsc "禁煙した人のほとんどが、ふとした時に煙草に火をつけたいという衝動を感じるものなの"
+
+translate Japanese monika_smoking_quit_26f16283:
+    m 4wud "一度だけなら、なんて思っちゃだめだよ！{w=0.2}一度でも吸ったらふりだしに逆戻りだよ！"
+
+translate Japanese monika_smoking_quit_cfa8078d:
+    m 2hubsa "でも私はわかってる、あなたはこんなことでくじけたりしないでしょ？"
+
+translate Japanese monika_smoking_quit_a2688c33:
+    m 2ekbfa "あなたには強い心が備わってるって私は知ってるからね～"
 
 translate Japanese monika_cartravel_f2a86df6:
     m 1euc "[player]、最近思ってたんだけど……"
@@ -22593,11 +22629,80 @@ translate Japanese monika_literature_value_4ed26d9a:
 translate Japanese monika_literature_value_9e25857e:
     m 1hksdlb "これはあくまでも文芸部部長としての意見だけどね。ほとんどの人はそこまで深く考えていないと思うわ"
 
+translate Japanese monika_nature_6b741d02:
+    m 2esd "ねえ[player]……"
+
+translate Japanese monika_nature_e3ea6b84:
+    m 7eua "自然は好き？{nw}"
+
+translate Japanese monika_nature_1b0551db:
+    m "自然は好き？{fast}" nointeract
+
+translate Japanese monika_nature_bfecffed:
+    m 3sub "ほんとうに？なら、よかった！"
+
+translate Japanese monika_nature_8bcc94af:
+    m 1eua "私ね、自然はみんなが意識して大切にしなきゃいけないものだって思うんだ"
+
+translate Japanese monika_nature_5b6fa3b9:
+    m 1eub "それは自然が美しいだからってだけじゃなくて、人類にとってとても役に立つものだからよ！"
+
+translate Japanese monika_nature_103f0b57:
+    m 3eud "昆虫は耕作作物の受粉を助けてくれるし、樹木は木材と涼しい木陰をくれるし、ペットは大切な隣人だし……"
+
+translate Japanese monika_nature_64e06069:
+    m 3euc "植物や藻類、バクテリアの一部は、何よりも大事な食べ物と酸素を作ってくれる。{w=0.2}{nw}"
+
+translate Japanese monika_nature_e36e2816:
+    extend 3wud "植物がいなければ、地球に住む大半の生物が存在できないんだよ！"
+
+translate Japanese monika_nature_38e29a5b:
+    m 1eua "自然からはたくさんのものをもらっているから、自然に何かを還元することはすごく良いことだと思うんだ"
+
+translate Japanese monika_nature_72df12d3:
+    m 4hub "これが今日の、モニカの自然を守るための豆知識だよ！"
+
+translate Japanese monika_nature_b48f16e2:
+    m 4rksdlc "環境に配慮した行動を、って言うとみんなためらっちゃうんだよね。だって環境に配慮した商品って基本高くなるから……"
+
+translate Japanese monika_nature_8d469e15:
+    m 2eud "高いけれど、でもそれはある意味では正しくはないの。{w=0.2}{nw}"
+
+translate Japanese monika_nature_d63188ab:
+    extend 7eua "電気自動車、スマートホーム、太陽発電を備えた屋根。確かにどれもたくさんお金がかかるけど……"
+
+translate Japanese monika_nature_37a20e85:
+    m 3hub "絶対にいい影響があるし、お金も節約できる。毎日ちょっと意識を変えるだけでだよ！"
+
 translate Japanese monika_nature_92dcc7f0:
     m 4eua "電化製品の電源を切ったり、シャワーを短くしたり、何度でも使える水筒を買ったり、電車とかで通勤することだって、環境のためになる"
 
 translate Japanese monika_nature_fb00bdb4:
     m 4hub "観葉植物を買ったり、自分の庭でガーデニングしたりしてもいいわよ！"
+
+translate Japanese monika_nature_b961dedc:
+    m 2eub "地域のコミュニティ活動に参加するのも、環境にとてもいいことだよ！{w=0.2}{nw}"
+
+translate Japanese monika_nature_7aaaf33a:
+    extend 7eua "あなたが率先して行動すれば、他の人も必ず続いてくれる"
+
+translate Japanese monika_nature_8983a5dd:
+    m 3esa "大切なのは、持続可能な社会を考える習慣をつけること。{w=0.2}{nw}"
+
+translate Japanese monika_nature_4989427b:
+    extend 3eua "持続可能性を考えるようになれば、すぐにエコロジカル・フットプリントを減らすことができるわ"
+
+translate Japanese monika_nature_1efb3b7a:
+    m 1eua "ひょっとしたら、環境に配慮すればするほど、より幸せで健康になれるかも"
+
+translate Japanese monika_nature_2a83581b:
+    m 3hua "だからやっぱり私は、持続可能な生活こそが満たされた生活だと思うんだよね"
+
+translate Japanese monika_nature_d048fd93:
+    m 3eub "今日の私のアドバイスだよ！"
+
+translate Japanese monika_nature_340ba357:
+    m 1hua "聞いてくれてありがとう、[mas_get_player_nickname () ]～"
 
 translate Japanese monika_kamige_bcf2edec:
     m 1euc "ああ、そうね……{w=0.3}{nw}"
@@ -26007,6 +26112,9 @@ translate Japanese strings:
 
     old "The value of literature"
     new "文学の価値"
+
+    old "The outdoors"
+    new "野外活動"
 
     old "What is kamige?"
     new "神ゲーって？"
