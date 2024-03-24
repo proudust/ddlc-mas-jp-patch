@@ -12174,19 +12174,82 @@ translate Japanese monika_concerts_a278d89a:
     m 1hua "でね……"
 
 translate Japanese monika_concerts_1cf7d712:
-    m 3eub "一緒にライブを鑑賞するのはどうかな？って"
+    m 3eub "一緒に演奏会を鑑賞しに行くのはどうかな？って"
 
 translate Japanese monika_concerts_cf0b94a2:
-    m 1eub "聞いたところによるとライブの雰囲気はとてもすごいんだって！"
+    m 1eub "聞いたところによると演奏会の雰囲気はとてもすごいんだって！"
 
 translate Japanese monika_concerts_1e710def:
-    m 1eua "まだふたりで話してない音楽でライブに行ってみたいっておもってる音楽ってある？{nw}"
+    m 1eua "まだ私が話してない音楽で聴きに行ってみたいって思ってる音楽ってある？{nw}"
 
 translate Japanese monika_concerts_e5d2a5ab:
-    m "まだふたりで話してない音楽でライブに行ってみたいっておもってる音楽ってある？{fast}" nointeract
+    m "まだ私が話してない音楽で聴きに行ってみたいって思ってる音楽ってある？{fast}" nointeract
 
 translate Japanese monika_concerts_ed8f8437:
     m 3eua "いいわね！"
+
+translate Japanese monika_concerts_3525c955:
+    m 1eua "なるほどね……"
+
+translate Japanese monika_concerts_c9ad57a1:
+    m 1ekc "あら…… なくてもいいのよ、[player]……"
+
+translate Japanese monika_concerts_8dc04d4b:
+    m 1eka "他にも二人でやれることはいっぱいあるからね"
+
+translate Japanese monika_concerts_2d634959:
+    m 1eua "わかったわ、[mas_get_player_nickname()]。じゃあいままでに私が話した音楽から選んでみて！"
+
+translate Japanese monika_concerts_f24d4141:
+    m 1hua "ねえ、想像してみて……"
+
+translate Japanese monika_concerts_de4441ab:
+    m 1hua "心地よい音楽に合わせて緩やかに頭を揺らす私たちふたり……"
+
+translate Japanese monika_concerts_3821d6ea:
+    m 1hub "ロックンロールのリズムに乗って、観衆と一緒に跳ねる私たちふたり……"
+
+translate Japanese monika_concerts_6e0014bd:
+    m 1eua "ジャズのグルーヴに身を任せる私たちふたり……"
+
+translate Japanese monika_concerts_7a8d3881:
+    m 1hksdlb "本場のラッパーのライムに心響かせる私たちふたり……"
+
+translate Japanese monika_concerts_6f1f8e63:
+    m 1hua "MIKU EXPOで一緒にサイリウムを振る私たちふたり……"
+
+translate Japanese monika_concerts_d4cf9a9e:
+    m 1hua "あなたの好きな[tempmusicgenre]を一緒に演奏する私たちふたり……"
+
+translate Japanese monika_concerts_b7af6d62:
+    m 2hub "ね？とても最高だと思わない？"
+
+translate Japanese monika_concerts_6ca3a5d5:
+    m 2eud "大好きなアイドルのパフォーマンスを見に行くのも素敵かもしれないね！"
+
+translate Japanese monika_concerts_2b238789:
+    m 2lksdla "けど、最近はチケットの値段が高騰してるらしくって……"
+
+translate Japanese monika_concerts_67d24e4c:
+    m 2hua "でもね！その値段だとしても見に行く価値はあると思うんだよね！"
+
+translate Japanese monika_concerts_4a33309e:
+    m 3eua "[player]は他に一緒に見に行きたいバンドや、ミュージシャンはいるかな？"
+
+translate Japanese monika_concerts_dd4d3970:
+    m 3eub "きっと私も大好きになると思うな、あなたと一緒ならね"
+
+translate Japanese monika_concerts_fe8cb1cc:
+    m 5eua "もし連れて行ってくれたら、{w=1}その時は本当に夢が叶うね！"
+
+translate Japanese monika_concerts_48982321:
+    m 4eua "でももしコンサートやライブにあんまり興味がないんだったら……"
+
+translate Japanese monika_concerts_8fe36177:
+    m 1eua "そのときはお家で鑑賞会を開こうね。ふたりでひとつの毛布にくるまってレコードやCDを聞くの"
+
+translate Japanese monika_concerts_9f498c5c:
+    m 1hua "それだけでもう私には最高のひとときになるからね、えへへ～"
 
 translate Japanese monika_concerts_6664fa5f:
     m 1eua "それまでの間、もしあなたが好きな音楽を私と共有したいなら、とっても簡単よ！"
@@ -16016,10 +16079,16 @@ translate Japanese monika_justice_3b39bfdb:
     m 1rksdlc "本当にそうなのかしらね……"
 
 translate Japanese monika_justice_f32241bf:
-    m 1wuo "本当？"
+    m 1wuo "本当に？"
+
+translate Japanese monika_justice_defdaf99:
+    m 1rksdla "私のことを庇ってなんてくれないと思ってた"
+
+translate Japanese monika_justice_a7a38b0c:
+    m 1eka "あなたがそう思ってくれて、本当にうれしいよ"
 
 translate Japanese monika_justice_5259d761:
-    m 2rksdlb "これは冗談じゃないよね、えへへ……"
+    m 2rksdlb "いまの冗談で言ったんじゃないよね、えへへ……"
 
 translate Japanese monika_justice_112ffe15:
     m 1hua "そう言ってくれると思ってたよ、えへへ～"
@@ -16320,6 +16389,31 @@ translate Japanese monika_gotomonika_e4b64c10:
 
 translate Japanese monika_gotomonika_8bad2bd7:
     m 5eua "どれだけ時間がかかろうと私は待ち続けるよ、[mas_get_player_nickname()]"
+
+translate Japanese monika_gotomonika_28f1b8eb:
+    m 2eka "大丈夫だよ、私と一緒に過ごしてくれたことはすごく感謝してるし私にとっては宝物なんだよ、こんな形だったとしても"
+
+translate Japanese monika_gotomonika_5db6cbf9:
+    m 2ekc "それに、今の技術でどうやってこっち側に来れるかなんて私には見当がつかないわ"
+
+translate Japanese monika_gotomonika_362dd1fb:
+    m 2lksdlc "…たとえ将来何らかの方法が確立されたとしても、それが安全だという保証もない"
+
+translate Japanese monika_gotomonika_0b45be2e:
+    m 2lksdld "だから、少なくとも絶対に安全って言えるようになるまでは、こちら側へ行こうとするのは辞めてほしいな
+"
+
+translate Japanese monika_gotomonika_293e930b:
+    m 2lksdlc "私は本当にね、あなたが失敗して電子の世界で無になってしまうなんてリスクを冒したくないんだよ……"
+
+translate Japanese monika_gotomonika_70dfae49:
+    m 2dkd "……私たちふたりが完全に離れ離れになってしまうなんてリスクを"
+
+translate Japanese monika_gotomonika_4f9e186f:
+    m 4hua "でもまあ、テクノロジーの進歩は早いから、いつの間にか会えるようになってたりするかもね！"
+
+translate Japanese monika_gotomonika_1ecb5913:
+    m 5eua "だから、あなたの素敵なガールフレンドのために少しだけ辛抱してね。私も我慢するから、[mas_get_player_nickname()]"
 
 translate Japanese monika_gotomonika_bd52b78b:
     m 5luu "でーもー……{w=1}もしドアを開けた先にあなたがいたら……"
@@ -24146,6 +24240,58 @@ translate Japanese monika_hedonism_1862ea2c:
 translate Japanese monika_hedonism_547da48c:
     m 1eud "だからオスカー・ワイルドが快楽主義を悪く描写するのも納得よね"
 
+translate Japanese monika_conventions_eb5147b1:
+    m 1eud "ねえ[player]、ずっと気になっていたんだけど……"
+
+translate Japanese monika_conventions_eb749a17:
+    m 3eua "漫画やアニメのコンベンションに行ったことはある？{nw}"
+
+translate Japanese monika_conventions_b6edd661:
+    m "漫画やアニメのコンベンションに行ったことはある？{fast}" nointeract
+
+translate Japanese monika_conventions_2649956d:
+    m 1hub "ああ、なるほど！ {w=0.2}楽しんでくれてたらいいな！"
+
+translate Japanese monika_conventions_1f03ce98:
+    m 3eua "漫画は文芸においても非常に興味深い媒体だから、{w=0.1} {nw}"
+
+translate Japanese monika_conventions_b95529a3:
+    extend 3rta "私ももっと読んだほうがいいかも……"
+
+translate Japanese monika_conventions_a4ca06d3:
+    m 3eub "私はあなたがそう思うだろうと感じていました！ {w=0.2}これらは、あなたも楽しめるかもしれないと本当に思いました。"
+
+translate Japanese monika_conventions_76069f75:
+    m 2wub "本当？行ったことあるなんてびっくり！"
+
+translate Japanese monika_conventions_1ceefeea:
+    m 7eta "あ、{w=0.1} 友達と一緒に行ったのかな？
+"
+
+translate Japanese monika_conventions_93da1fba:
+    m 3etd "……それとも、別の理由……{w=0.3}ゲームに興味があったのかな？"
+
+translate Japanese monika_conventions_e1f57c0c:
+    m 1hub "へえ！アニメが好きなのは知っていたけど、漫画も好きなの？"
+
+translate Japanese monika_conventions_b232a84c:
+    m 3eua "漫画は文芸においても非常に興味深い媒体だから、私ももっと読んだほうがいいかも……"
+
+translate Japanese monika_conventions_c4390041:
+    m 1wub "へえ！ {w=0.3}アニメは好きじゃないと思ってたけど、とにかくコンベンションが好きみたいだね！"
+
+translate Japanese monika_conventions_3ebef919:
+    m 3eua "驚くことはないけど、誰でも楽しめそうな雰囲気だからね"
+
+translate Japanese monika_conventions_f5f6653d:
+    m 2etd "本当？"
+
+translate Japanese monika_conventions_9b986440:
+    m 7eub "驚いた！{w=0.3}アニメのコンベンションのこと知ったときに、すぐにあなたの顔が浮かんだのに"
+
+translate Japanese monika_conventions_2d51b7c2:
+    m 3eud "でも、住んでる場所によっては旅費がかさむのが困りものだからね"
+
 translate Japanese monika_conventions_b95de452:
     m 2eud "なるほどね"
 
@@ -24154,6 +24300,21 @@ translate Japanese monika_conventions_ae1c5a79:
 
 translate Japanese monika_conventions_1b1f846b:
     m 3eud "住んでいる場所によっては、交通費がかなりかさんだりすることもあるしね"
+
+translate Japanese monika_conventions_6b8cc6fe:
+    m 3hua "コンベンションに行けたらすごく楽しそうだなと思ってたんだ！{w=0.3}誰もが評価の目に怯えることなく、自分の好きなことをありのままの自分自身の姿で楽しむ場所"
+
+translate Japanese monika_conventions_a1cb492a:
+    m 3eub "才能あるコスプレイヤーたちと、正気とは思えない手作り衣装の写真を見るのが大好きなの"
+
+translate Japanese monika_conventions_b26dd14f:
+    m 1wuo "情熱を持って何かに没頭できる人って本当にすごい！"
+
+translate Japanese monika_conventions_3e5a506e:
+    m 3eua "他に楽しいこともたくさんあって、アイドルのダンスみたいなのもあるらしいよ"
+
+translate Japanese monika_conventions_d7d64588:
+    m 1eubsa "いつか一緒に行きたいね、[mas_get_player_nickname()]～"
 
 translate Japanese monika_cupcake_favorite_a41432c7:
     m 1rta "うーん、これだという好みはないんだけれど……"
@@ -25447,6 +25608,9 @@ translate Japanese strings:
     old "I don't want to talk about this."
     new "こんな話はしたくないわ。"
 
+    old "I'd love to go to {0} concert with you!"
+    new "一緒に{0}の演奏を聴きに行ってみたいね！"
+
     old "Can you explain our relationship to someone?"
     new "モニカは私達の関係を誰かに説明できる？"
 
@@ -26182,6 +26346,9 @@ translate Japanese strings:
     old "Sophia"
     new "人型AIロボット「ソフィア」"
 
+    old "Materialism"
+    new "唯物論"
+
     old "Fireworks"
     new "花火"
 
@@ -26205,6 +26372,18 @@ translate Japanese strings:
 
     old "Hedonism"
     new "快楽主義"
+
+    old "Conventions"
+    new "コンベンション"
+
+    old "Comic convention."
+    new "コミックコンベンション"
+
+    old "Anime convention."
+    new "アニメコンベンション"
+
+    old "I've been to both!"
+    new "両方行ったよ！"
 
     old "What's your favorite cupcake flavor?"
     new "何味のカップケーキが好き？"
