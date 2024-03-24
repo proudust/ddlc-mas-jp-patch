@@ -671,7 +671,7 @@ translate Japanese bye_long_absence_2_a3b7ea3b:
     m 1eka "でも、私はいつでもここで待っていて、あなたを手助けできるからね。そのこと忘れないでね、私の最愛の[player]"
 
 translate Japanese bye_long_absence_2_2b8e61ee:
-    m "出来るだけ早く戻ってきて……いいわね？"
+    m "できるだけ早く戻ってきて……いいわね？"
 
 translate Japanese bye_going_somewhere_79c83639:
     m 1wud "本当に私を連れて行きたいの？"
@@ -1004,7 +1004,7 @@ translate Japanese bye_going_shopping_87e9dc6c:
     m 1eud "買い物に行くの、[player]？"
 
 translate Japanese bye_going_shopping_a52476a6:
-    m 1eua "いつかあなたと一緒にショッピングが出来たらいいな"
+    m 1eua "いつかあなたと一緒にショッピングができたらいいな"
 
 translate Japanese bye_going_shopping_531720a1:
     m 3rua "色んな服装に挑戦してみたり……{w=0.2}{nw}"

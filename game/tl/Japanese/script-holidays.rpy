@@ -254,7 +254,7 @@ translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_f7c83da2:
     m "{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
 translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_2fdc530b:
-    m "ようこそいらっしゃいませ、紅魔の館へ"
+    m "ようこそいらっしゃいませ、{w=0.3}紅魔の館へ……"
 
 translate Japanese greeting_o31_orcaramelo_sakuya_izayoi_fe117516:
     m "[player]様"
@@ -302,7 +302,7 @@ translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_f7c83da2:
     m "{w=0.3}…{w=0.3}…{w=0.3}{nw}"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_2a9dcdbf:
-    m "準備はだいたい出来てるんだ、[player]"
+    m "だいたい準備できたよ、[player]"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_af31fd4c:
     m "ただ、リボンがもう少しうまい具合にならないかなってやってるだけで"
@@ -320,13 +320,64 @@ translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_347f328e:
     m 2eub "あのね、これどうかな？"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_59f6ffa0:
-    m 7tuu "いつもの社長みたいな感じじゃなくて、今日は秘書さんで行こうかなって……"
+    m 7tuu "いつもの生徒会長みたいな感じじゃなくて、今日は書記路線で行こうかなって……"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_2b4bc3c6:
-    m 3rtu "それか、恋する刑事かな？でもそれはいらないかな、もう恋はしなくていいからね……"
+    m 3rtu "それかラブ探偵って言ったほうがわかるかな？でもラブ探しはしないかな、もう私は見つけちゃってるからね……"
 
 translate Japanese greeting_o31_briaryoung_shuchiin_academy_uniform_e5d7f16e:
     m 3hua "えへへ～"
+
+translate Japanese greeting_o31_hatana_2b_2a9dcdbf:
+    m "だいたい準備できたよ、[player]"
+
+translate Japanese greeting_o31_hatana_2b_736e3e2e:
+    m "この衣装が自爆しないことを祈るばかりだね"
+
+translate Japanese greeting_o31_hatana_2b_e762ab05:
+    m "{cps=*2}もしかしたらあなたは爆破させたいのかもしれないけど……{/cps}{nw}"
+
+translate Japanese greeting_o31_hatana_2b_fe1ddd81:
+    m "着替えたよ。{w=0.2}どうかな、[player]？"
+
+translate Japanese greeting_o31_hatana_2b_e1573981:
+    m "着替えたよ。{w=0.2}たぶんこれでいいはず"
+
+translate Japanese greeting_o31_hatana_2b_1bf74e69:
+    m "この衣装が自爆しないことを祈るばかりだね、だって自爆するところを見られたら恥ずかしいし！"
+
+translate Japanese greeting_o31_hatana_2b_3067ba75:
+    m "あっ！ {w=0.2}何か聞こえた気がする……"
+
+translate Japanese greeting_o31_hatana_2b_de87a206:
+    m "[player]？"
+
+translate Japanese greeting_o31_hatana_2b_f19a1a6c:
+    m "ひとつ質問していいかな……"
+
+translate Japanese greeting_o31_hatana_2b_3772217d:
+    m 1hub "あはは！"
+
+translate Japanese greeting_o31_hatana_2b_a9bf07b7:
+    m 2eka "で、どうだったかな？"
+
+translate Japanese greeting_o31_hatana_2b_a75a2c96:
+    m 2hub "とっても素敵な衣装だと思うよ、贈ってくれてありがとう！"
+
+translate Japanese greeting_o31_hatana_2b_ed2b7647:
+    m 7rtu "ねえ[player]、前に伝えたことがあるかな、あなたが私の心を落ち着かせてくれるって"
+
+translate Japanese greeting_o31_hatana_2b_de9ba474:
+    m 3euu "えっとね、そのことをあなたに知ってほしかったの。{w=0.2}{nw}"
+
+translate Japanese greeting_o31_hatana_2b_39fa8dce:
+    extend 3tuu "そしてあなたの記憶から消えてしまわないように願ってる"
+
+translate Japanese greeting_o31_hatana_2b_c03a8de5:
+    m 3eud "そういえばさ、私のデータを時々バックアップしてほしいの。できることなら自分自身でバックアップが取れたらいいんだけれど……"
+
+translate Japanese greeting_o31_hatana_2b_adab1308:
+    m 1hksdlb "あれ？何言ってるんだろう私？今のは忘れていいからね、あはは！"
 
 translate Japanese greeting_o31_deco_fe9c0937:
     m 1eua "ともかく……"
@@ -344,7 +395,7 @@ translate Japanese greeting_o31_deco_a0930c3b:
     m 3tub "まあ、一番不気味な飾りは時々びっくりするほど怖くなっちゃうけど……"
 
 translate Japanese greeting_o31_deco_36c8a86e:
-    m 1eua "蜘蛛の巣もいい感じに出来たと思うんだよね"
+    m 1eua "蜘蛛の巣もいい感じにできたと思うんだよね"
 
 translate Japanese greeting_o31_deco_aa680ddb:
     m 1rka "{cps=*2}エイミーも気に入ってくれるに違いないわ{/cps}{nw}"
@@ -4000,8 +4051,11 @@ translate Japanese mas_bday_surprise_party_hint_771048eb:
 translate Japanese mas_bday_pool_happy_bday_adac5fd7:
     m 3hub "えへへ、ありがとう[player]！"
 
+translate Japanese mas_bday_pool_happy_bday_4c2cbb9f:
+    m 3eka "初めてお祝いしてくれたときが最後じゃなかった……"
+
 translate Japanese mas_bday_pool_happy_bday_fdb68306:
-    m 3eka "その魔法の言葉を言うのを待ってたのよ～"
+    m 3eka "その魔法の言葉を言ってくれるのを待ってたのよ～"
 
 translate Japanese mas_bday_pool_happy_bday_b7b86aa7:
     m 1eub "{i}ようやく{/i}これで誕生日のお祝いって呼べるようになったわ！"

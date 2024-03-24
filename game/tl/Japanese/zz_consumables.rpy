@@ -35,7 +35,7 @@ translate Japanese mas_consumables_generic_finish_having_7a2f3a16:
     m 1eua "さて、今日は他に何をしようかな？"
 
 translate Japanese mas_consumables_generic_finished_prepping_548d993c:
-    m 1esd "あ、[consumable.disp_name!t]が出来たみたい"
+    m 1esd "あ、[consumable.disp_name!t]ができたみたい"
 
 translate Japanese mas_consumables_generic_finished_prepping_a644a99b:
     m 1eua "ちょっと待っててね"

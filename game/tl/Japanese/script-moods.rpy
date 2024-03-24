@@ -17,10 +17,13 @@ translate Japanese _mas_nnsh_4dfea3b9:
     m "でもそれは無理だから、体に良い物を食べて来なさい？"
 
 translate Japanese _mas_nnsh_ce87235e:
-    m 3eub "自分の体に気を使うのはとても大事なことよ。"
+    m 3eub "自分の体に気を使うのはとても大事なことよ"
 
 translate Japanese _mas_nnsh_f0874062:
-    m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を摂るためには野菜以外のあらゆる食べ物も欠かせないの。"
+    m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を摂るためには野菜以外のあらゆる食べ物も欠かせないの"
+
+translate Japanese _mas_nnsh_efe38263:
+    m 3eka "だから、大事な栄養素を欠かさないように気を付けてほしいの"
 
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"
@@ -86,7 +89,7 @@ translate Japanese mas_mood_sad_c7a8700f:
     m 1hua "それは良かった、[player]君！あなたの気が楽になったのなら嬉しいわ。"
 
 translate Japanese mas_mood_sad_51d44efa:
-    m 1eka "信頼出来る誰かに悩みを打ち明ける、それで十分な時もあるの。"
+    m 1eka "信頼できる誰かに悩みを打ち明ける、それで十分な時もあるの。"
 
 translate Japanese mas_mood_sad_a5bc93dc:
     m "もしまたあなたに辛い事が起きたのなら、いつでも私に会いに来て、好きなだけ話してね！"
@@ -98,7 +101,7 @@ translate Japanese mas_mood_sad_ef03cbb5:
     m 1ekc "まあ、試してみる価値はあったわ。"
 
 translate Japanese mas_mood_sad_9f4e2dd4:
-    m 1eka "信頼出来る誰かに悩みを打ち明ける、それで十分な時もあるの。"
+    m 1eka "信頼できる誰かに悩みを打ち明ける、それで十分な時もあるの。"
 
 translate Japanese mas_mood_sad_2188bc88:
     m 1eua "二人で過ごす内にもしかしたら気が楽になるかもね。"
@@ -176,7 +179,7 @@ translate Japanese mas_mood_happy_e6cbe9df:
     m "いつでも会いに来て、私が[mas_get_player_nickname()]君を元気づけてあげる。"
 
 translate Japanese mas_mood_happy_84caac57:
-    m 3eka "いつでも私はここであなたを待っている、大好きだよ〜"
+    m 3eka "いつでも私はここであなたを待ってるわ、大好きよ〜"
 
 translate Japanese mas_mood_sick_e08d6fa5:
     m 1ekd "そんな……[player]……"
@@ -470,7 +473,7 @@ translate Japanese mas_mood_angry_a1359b22:
     m 1hua "頭がスッキリするまで止まらないで"
 
 translate Japanese mas_mood_angry_bd84f99d:
-    m 3eub "体を動かす事で頭の中のモヤモヤを晴らす事が出来るの"
+    m 3eub "体を動かす事で頭の中のモヤモヤを晴らす事ができるの"
 
 translate Japanese mas_mood_angry_9bad0fdd:
     m 1eka "それほど私は怒らなささそうって？ 実際そうなんだけど……"
@@ -497,7 +500,7 @@ translate Japanese mas_mood_scared_bd595765:
     m "今すぐにでも慰めて助けてあげられたらいいのに……"
 
 translate Japanese mas_mood_scared_31812bf2:
-    m 3eka "でも、少なくともあなたを落ち着かせる手助けは出来るわ"
+    m 3eka "でも、少なくともあなたを落ち着かせる手助けはできるわ"
 
 translate Japanese mas_mood_scared_a68e5573:
     m 1eua "何があっても、あなたの不安を楽にしてあげるって約束したものね"
@@ -1136,16 +1139,22 @@ translate Japanese mas_mood_grateful_7948c335:
     m "何に感謝してるの、[chosen_nickname]？{fast}" nointeract
 
 translate Japanese mas_mood_grateful_d6de0489:
-    m 3eka "ああ、それは素晴らしいわ！"
+    m 3eka "ああ、それは素晴らしいわね！"
 
 translate Japanese mas_mood_grateful_b863275c:
     m 1hua "あなたの生活を支えてくれる人がいるなんて、本当に嬉しいわ"
+
+translate Japanese mas_mood_grateful_4bc4bd2a:
+    m 3eud "でも私だってこんなに嬉しいんだから……{w=0.3}{i}その人{/i}にも伝えた方がいいと思う"
 
 translate Japanese mas_mood_grateful_d29bdf23:
     m 1huu "何にせよ、本当に嬉しいわ、[mas_get_player_nickname()]～"
 
 translate Japanese mas_mood_grateful_c6420c0b:
     m 3hub "それはよかった、 [mas_get_player_nickname()]！"
+
+translate Japanese mas_mood_grateful_gratefulforyou_2ca2a15b:
+    m 1ekbla "ああ、[player]……{w=0.3}そう言ってくれてありがとう"
 
 translate Japanese mas_mood_grateful_gratefulforyou_f2762886:
     m 3ekbla "大好きよ、[player]君～"

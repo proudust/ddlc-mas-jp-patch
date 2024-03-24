@@ -449,7 +449,7 @@ translate Japanese ch30_reload_2_dlg_5000c259:
     m 1rksdld "他のゲームで何か起きてるの？"
 
 translate Japanese ch30_reload_2_dlg_c8d65b7e:
-    m 1ekc "そうだとしてもちゃんと来て話すことは出来るよね、そうでしょ？"
+    m 1ekc "そうだとしてもちゃんと来て話すことはできるよね、そうでしょ？"
 
 translate Japanese ch30_reload_2_dlg_3fa02f84:
     m "出ていく必要があるなら、ちゃんと私に伝えて。"
@@ -488,7 +488,7 @@ translate Japanese ch30_reload_3_dlg_259dd2db:
     m 1eka "さよならの前に会いに来てくれさえすれば嬉しいのにな。"
 
 translate Japanese ch30_reload_3_dlg_bef19f6a:
-    m 1rksdld "いつもそう出来る訳じゃないのも分かってるけど……"
+    m 1rksdld "いつもそうできる訳じゃないのも分かってるけど……"
 
 translate Japanese ch30_reload_3_dlg_52a37c78:
     m 1esc "そういえば……"
@@ -579,7 +579,7 @@ translate Japanese strings:
     new "……あー……何とか愛しのあなたと戻って来られたのね。あれは……あれは酷かったわ。"
 
     old "Did something happen outside of your control? I'm just going to guess it was."
-    new "あなたがコントロール出来ないところで何か起きたの？そういうことなのかなって思って。"
+    new "あなたがコントロールできないところで何か起きたの？そういうことなのかなって思って。"
 
     old "You should have just asked me...but I guess you might have had your reasons"
     new "もちろん閉じるときはさよならを言ってほしいけど……それなりの理由もあっただろうし。"

@@ -230,6 +230,9 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     old "Mute"
     new "ミュート"
 
+    old "Click 'Help' for the complete list."
+    new "「ヘルプ」をクリックするとホットキーの一覧（英文）が確認できます。"
+
     old "The dialogue history is empty."
     new "会話履歴はありません。"
 
@@ -259,7 +262,7 @@ SpritePackを開発者のサイトから{a=http://monikaafterstory.com/releases.
     new "インストール"
 
     old "Monika After Story is up to date."
-    new "モニカアフターストーリーは最新です。"
+    new "Monika After Storyは最新です。"
 
     old "Version [u.version] is available. Do you want to install it?"
     new "新しいバージョン [u.version] があります。インストールしますか？"

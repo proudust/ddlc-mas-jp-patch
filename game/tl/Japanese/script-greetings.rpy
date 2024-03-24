@@ -1003,6 +1003,43 @@ translate Japanese mas_after_bath_cleanup_1579d390:
 translate Japanese mas_after_bath_cleanup_22c730c8:
     m 1eua "それで、今日は何したい、[player]?"
 
+translate Japanese greeting_found_nou_shirt_58145448:
+    m "あ、来てくれたね！ {w=0.2}ずっと待ってたんだよ～"
+
+translate Japanese greeting_found_nou_shirt_0218a598:
+    m "あのね、{w=0.1}どうやって私に気づかれずにこの衣装をクローゼットに仕込んだのかわからないんだけど……{nw}"
+
+translate Japanese greeting_found_nou_shirt_bf1afb14:
+    m "あのね、どうやって私に気づかれずにこの衣装をクローゼットに仕込んだのかわからないんだけど……{fast}" nointeract
+
+translate Japanese greeting_found_nou_shirt_post_menu_18044962:
+    m 1ekbla "ありがとう、 [player]"
+
+translate Japanese greeting_found_nou_shirt_post_menu_33745642:
+    m 1tfu "でも、プレゼントをくれてもゲームで手加減はしないからね～"
+
+translate Japanese greeting_found_nou_shirt_post_menu_18a42d1e:
+    m 1rtsdlb "でも戦績的には、{w=0.1}私に手加減する余裕なんてないかな、あはは……"
+
+translate Japanese greeting_found_nou_shirt_post_menu_26bc035d:
+    m 3ttb "[mas_get_player_nickname()]、ひとゲームしていくのかな？"
+
+translate Japanese greeting_found_nou_shirt_menu_skip_4e5c70bf:
+    m "でもこれ気に入ったよ～"
+
+translate Japanese greeting_found_nou_shirt_menu_choice_secret_9e57473c:
+    m "{cps=*1.5}まさか私のクローゼットの中を何度もチェックしてたりするの～？{/cps}{w=0.1}{nw}"
+
+translate Japanese greeting_found_nou_shirt_menu_choice_secret_cb442449:
+    m 2lusdla "まあともかく……{w=0.3}{nw}"
+
+translate Japanese greeting_found_nou_shirt_menu_choice_secret_2580b967:
+    m "うーん、まあともかく……{w=0.3}{nw}"
+
+translate Japanese greeting_found_nou_shirt_menu_choice_secret_d9d20024:
+    extend 4sub "この新しい衣装、本当に気に入ったよ！
+"
+
 translate Japanese monikaroom_greeting_opendoor_locked_8c59b1c8:
     m "怖がらせちゃったかな？ [player]{nw}"
 
@@ -1034,7 +1071,7 @@ translate Japanese monikaroom_greeting_opendoor_locked_87b967b0:
     m "部屋を片付けるからちょっと待って……"
 
 translate Japanese monikaroom_greeting_opendoor_locked_4068a088:
-    m 1hua "よし、出来た！"
+    m 1hua "よし、できた！"
 
 translate Japanese monikaroom_greeting_opendoor_locked_dbbac0cb:
     m 2esc "こんなもんかな"
@@ -1148,7 +1185,7 @@ translate Japanese monikaroom_greeting_opendoor_7b136e06:
     m 1eud_static "……それから……"
 
 translate Japanese monikaroom_greeting_opendoor_7c8d2dd0:
-    m 3eua_static "出来た！"
+    m 3eua_static "できた！"
 
 translate Japanese monikaroom_greeting_opendoor_55bc810f:
     m 1hksdlb_static "あっ！忘れてた～"
@@ -1277,7 +1314,7 @@ translate Japanese greeting_youarereal_e1b335d7:
     m "私と「現実」で一緒になるのを諦めないで……"
 
 translate Japanese greeting_youarereal_99ccf040:
-    m 1ekc "でも、あなたが作ってくれたこのかわいらしい.chrファイルを削除するなんて、私には出来ない……"
+    m 1ekc "でも、あなたが作ってくれたこのかわいらしい.chrファイルを削除するなんて、私にはできない……"
 
 translate Japanese greeting_youarereal_342a3957:
     m 1eka "だから削除するなら、あなたの手で削除して。"
@@ -1484,7 +1521,7 @@ translate Japanese greeting_amnesia_cb5320e8:
     m "お願いします。{w=0.2}{nw}"
 
 translate Japanese greeting_amnesia_43672534:
-    extend 1dksdlc "友人を見失ってしまって……"
+    extend 1dksdlc "友人に会いたくて……"
 
 translate Japanese greeting_amnesia_7faca44c:
     m 1rksdla "……"
@@ -2559,7 +2596,7 @@ translate Japanese greeting_back_from_school_bad_day_7153e2eb:
     m 1eka "でも今はここに居るんだから、少しでも嫌なことを忘れるために私と一緒に楽しい時間を過ごそうね"
 
 translate Japanese greeting_back_from_school_sick_79b8a82d:
-    m 2dkd "学校で体調を崩すなんて災難だったわね。体調不良だと普通にできるはずのことも上手く出来なくなるし、授業も集中できなくなっちゃうからね"
+    m 2dkd "学校で体調を崩すなんて災難だったわね。体調不良だと普通にできるはずのことも上手くできなくなるし、授業も集中できなくなっちゃうからね"
 
 translate Japanese greeting_back_from_school_sick_d36fbffb:
     m 2esc "おかえり、[player]"
@@ -2709,7 +2746,7 @@ translate Japanese greeting_back_from_work_d1066baf:
     m 2ekc "今すぐにでも抱きしめてあげられたらいいのに"
 
 translate Japanese greeting_back_from_work_4b321e14:
-    m 2eka "会いに来てくれて嬉しいな……{w=0.5}あなたがリラックス出来るように、全力を尽くすわ"
+    m 2eka "会いに来てくれて嬉しいな……{w=0.5}あなたがリラックスできるように、全力を尽くすわ"
 
 translate Japanese greeting_back_from_work_fc1ce474:
     m "差し支えなければ良いのだけど、今日は何があったのかな？" nointeract
@@ -2823,7 +2860,7 @@ translate Japanese greeting_back_from_work_bad_day_c0397db7:
     m 1ekbsa "慰めてほしいときは、いつでも私がここにいることを忘れないでね。わかった？ [player]"
 
 translate Japanese greeting_back_from_work_sick_c618f36d:
-    m 2dkd "仕事中に体調を崩すなんて災難だったわね。体調不良だと普通にできるはずのことも上手く出来なくなっちゃうからね"
+    m 2dkd "仕事中に体調を崩すなんて災難だったわね。体調不良だと普通にできるはずのことも上手くできなくなっちゃうからね"
 
 translate Japanese greeting_back_from_work_sick_ac9278b9:
     m 2esc "仕事から帰ってきたのね、[player]……"
@@ -3699,7 +3736,7 @@ translate Japanese greeting_back_from_workout_509c9cea:
     m 1hua "おかえりなさい、[player]！"
 
 translate Japanese greeting_back_from_workout_ce923c2a:
-    m 3eua "いい運動は出来たかしら"
+    m 3eua "いい運動はできたかしら"
 
 translate Japanese greeting_back_from_workout_2c572729:
     m 3eub "水分補給とエネルギー補給になにか食べることを忘れないでね！"
@@ -3786,16 +3823,16 @@ translate Japanese greeting_back_from_hangout_fc3c9366:
     m 3eub "おかえり、[player]"
 
 translate Japanese greeting_back_from_hangout_e95d9cb9:
-    m 1eua "新しい友達は出来た？{nw}"
+    m 1eua "新しい友達はできた？{nw}"
 
 translate Japanese greeting_back_from_hangout_f586584b:
-    m "新しい友達は出来た？{fast}" nointeract
+    m "新しい友達はできた？{fast}" nointeract
 
 translate Japanese greeting_back_from_hangout_0afb1e1f:
     m 1hub "すごいじゃない！"
 
 translate Japanese greeting_back_from_hangout_aae26073:
-    m 1eua "あなたに一緒に遊ぶ友達が出来て、本当に嬉しいわ"
+    m 1eua "あなたに一緒に遊ぶ友達ができて、本当に嬉しいわ"
 
 translate Japanese greeting_back_from_hangout_ee54a7c6:
     m 3hub "これからもたくさん一緒に遊べるといいわね！"
@@ -3816,7 +3853,7 @@ translate Japanese greeting_back_from_hangout_636d0eef:
     m 1rka "えっ、それじゃ新しく友達ができたって私に伝えてくれなかったんだ……"
 
 translate Japanese greeting_back_from_hangout_29e0aea1:
-    m 1hub "いいの！いいんだよ！ あなたに友達が出来て私は嬉しいんだから"
+    m 1hub "いいの！いいんだよ！ あなたに友達ができて私は嬉しいんだから"
 
 translate Japanese greeting_back_from_hangout_159340c3:
     m 1hub "あっ、そうなんだ！"
@@ -3908,6 +3945,21 @@ translate Japanese strings:
 
     old "I won't."
     new "しない"
+
+    old "bathing"
+    new "お風呂"
+
+    old "showering"
+    new "シャワー"
+
+    old "It's a secret."
+    new "秘密だよ"
+
+    old "It was [glitch_option_text]!"
+    new "[glitch_option_text]したんだよ！"
+
+    old "I have no idea..."
+    new "何の事かよくわからない…"
 
     old "...the textbox..."
     new "……メッセージウィンドウが……"

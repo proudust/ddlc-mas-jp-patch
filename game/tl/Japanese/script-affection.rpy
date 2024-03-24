@@ -488,7 +488,7 @@ translate Japanese mas_affection_apology_4a7ea962:
     m 2dfc "[player]君……"
 
 translate Japanese mas_affection_apology_da2805b1:
-    m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私は出来る限りのことをしてきた"
+    m 2dfd "あなたが幸せで楽しい時間を過ごせるように、私はできる限りのことをしてきた"
 
 translate Japanese mas_affection_apology_352ec8e0:
     m 2efc "でも、あなたは私に苦痛以外何も返してくれなかった……"
@@ -707,6 +707,9 @@ translate Japanese strings:
 
     old "What would you like to play?"
     new "どれで遊びたいのかな？"
+
+    old "Is there something you had in mind?"
+    new "何か遊びたいのがあったかな？"
 
     old "Anything specific you'd like to play?"
     new "何か遊びたいのがあったかな？"

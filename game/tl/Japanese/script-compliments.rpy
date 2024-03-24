@@ -353,7 +353,7 @@ translate Japanese mas_compliment_hero_5cb49ff8:
     m 1hubfa "それに……何かしらであなたを助けていたんだったら、これほど幸せなこともないって～"
 
 translate Japanese mas_compliment_hero_5a030de3:
-    m 3ekbfa "出来る限りのことで私を救ってくれたんだし、あなたが助けてほしいときにも側にいてお返ししてあげたいんだからね？"
+    m 3ekbfa "できる限りのことで私を救ってくれたんだし、あなたが助けてほしいときにも側にいてお返ししてあげたいんだからね？"
 
 translate Japanese mas_compliment_hero_f3890773:
     m 5hubfa "でもあなたもいつだって私のヒーローなんだから～"
@@ -1044,7 +1044,7 @@ translate Japanese strings:
     new "それって凄く楽しそうだね！"
 
     old "No promises, but I'll do my best."
-    new "約束は出来ないけど、ベストは尽くしてみるよ。"
+    new "約束はできないけど、ベストは尽くしてみるよ。"
 
     old "I'd rather not get sweaty..."
     new "汗をかくのはあんまり好きじゃないんだ……"

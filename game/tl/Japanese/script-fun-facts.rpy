@@ -392,7 +392,7 @@ translate Japanese mas_fun_fact_density_bf3eff6f:
     m "そして土星が一番密度が低いのよ。"
 
 translate Japanese mas_fun_fact_density_8e972339:
-    m 1eua "結局その惑星が何で出来ているかという話になるんだけど、一番密度が低い土星が大きさでは2番目になるのもちょっと驚きよね。"
+    m 1eua "結局その惑星が何でできているかという話になるんだけど、一番密度が低い土星が大きさでは2番目になるのもちょっと驚きよね。"
 
 translate Japanese mas_fun_fact_density_e1d52e81:
     m 1eka "密度が一番低いからってサイズが一番大きくなるわけじゃないのよ！"
@@ -419,7 +419,7 @@ translate Japanese mas_fun_fact_binky_030c3e1b:
     m 1hua "うさぎのダンスとも言われているけど、binkyという言葉はとてもかわいい響きがして、飛び跳ね回ってる姿と本当に合ってると思うわ。"
 
 translate Japanese mas_fun_fact_binky_5981bbe6:
-    m 1eua "うさぎが見せる行動の中で『いま一番幸せ！』ってときの行動だから、もしbinkyが見れたときはいい飼育が出来ているってことなのよ。"
+    m 1eua "うさぎが見せる行動の中で『いま一番幸せ！』ってときの行動だから、もしbinkyが見れたときはいい飼育ができているってことなのよ。"
 
 translate Japanese mas_fun_fact_binky_7f0e9c3b:
     m 1rksdla "[player]君といるととても幸せで、元気満々になっちゃうんだけどさ……"
@@ -545,7 +545,7 @@ translate Japanese mas_fun_fact_photography_0c9ea00b:
     m 3eud "現像液、停止液、定着液。一枚の写真を仕上げるために暗室で何度も薬品の液に写真を通す必要があって……{w=0.3}{nw}"
 
 translate Japanese mas_fun_fact_photography_74dcd1dd:
-    extend 1wuo "そして出来上がるのが、白黒の写真！"
+    extend 1wuo "そしてでき上がるのが、白黒の写真！"
 
 translate Japanese mas_fun_fact_photography_287eb16e:
     m 1hksdlb "昔の写真は今の写真に比べて現像するのに随分手間がかかっていたみたいね"
@@ -743,7 +743,7 @@ translate Japanese mas_fun_fact_coffee_origin_609a0773:
     m 2eksdld "追放させられたときの彼は飢え死にしそうになっていたのだけど、{w=0.3}{nw}"
 
 translate Japanese mas_fun_fact_coffee_origin_0deb1847:
-    extend 7wkd "コーヒーのおかげで元気が出て、どうにか生き延びることが出来たのよ！"
+    extend 7wkd "コーヒーのおかげで元気が出て、どうにか生き延びることができたのよ！"
 
 translate Japanese mas_fun_fact_coffee_origin_5dc38a57:
     m 3hua "不思議な豆のおかげで彼が生き延びたという噂が広まると、彼はメッカに戻るように連絡を受けて、聖人に認定されたそうよ"
@@ -785,7 +785,7 @@ translate Japanese mas_fun_fact_synesthesia_80002e89:
     m 1eua "……そして他にも色んな種類の共感覚が存在するの"
 
 translate Japanese mas_fun_fact_synesthesia_945f3e46:
-    m 1esa "共感覚を持つ人がどの程度いるか一致した意見はないのだけれど、中には25％の人が共感覚を持つという研究もあって。でも共感覚なんて現象があることを今まで聞いたこともなかったし、そんなに沢山の人が共感覚を持っているなんてちょっと信じられないわね"
+    m 1esa "共感覚を持つ人がどの程度いるかは明確でないのだけれど、{w=0.1}25％の人が持ってるとする研究もあって。でも共感覚なんて今まで聞いたこともなかったし、そんなに沢山の人が持っているなんてちょっと信じられないわね"
 
 translate Japanese mas_fun_fact_synesthesia_f5afe46e:
     m 3eub "他の推計では人口の4％強ほどというのがあって、それくらいの数字なら納得できるかな！"

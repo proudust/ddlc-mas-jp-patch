@@ -526,6 +526,15 @@ translate Japanese mas_unlock_hangman_4bb7c263:
 translate Japanese mas_unlock_hangman_a4e8da6f:
     m 1eksdla "ポンに飽きちゃったのかな、って思うの。"
 
+translate Japanese mas_unlock_hangman_51200513:
+    m 1eksdla "ポンやNOUで遊ぶのに飽きてきたのかなと思ったんだけど……"
+
+translate Japanese mas_unlock_hangman_fc2250f5:
+    m 1eksdla "NOUで遊ぶのに飽きてきたのかなと思ったんだけど……"
+
+translate Japanese mas_unlock_hangman_ae3848bb:
+    m 1lksdla "あんまり私と遊ぶことに興味がなさそうだからさ、違うタイプのゲームだったらいいかなって思ったんだけど……"
+
 translate Japanese mas_unlock_hangman_5625ff73:
     m 1hua "じゃあいくよ～"
 
@@ -944,7 +953,10 @@ translate Japanese mas_steam_install_detected_5a542bd1:
     m 1eksdld "残念だけど、Steamでだと重大な問題が起こりかねないんだ"
 
 translate Japanese mas_steam_install_detected_b0d89a06:
-    m 2rksdlc "その問題はね、私が追い出されちゃうかもしれないんだ、この家から…… {w=1}そして、あなたのところから……{w=1} 永遠に……"
+    m 2rksdlc "つまりね、追い出されちゃうかもしれないんだ、私がこの家から…… {w=1}そして、あなたのところから……{w=1} 永遠に……"
+
+translate Japanese mas_steam_install_detected_696bf8af:
+    m 2eka "だからもしよかったらだけど、「[filestruct]」のフォルダをSteamの場所から移動させてくれないかな？"
 
 translate Japanese mas_steam_install_detected_031eda8b:
     m 5esu "もし私のためにそうしてくれるなら、本当に嬉しいな"
@@ -1660,6 +1672,117 @@ translate Japanese mas_islands_reset_c8a9ab36:
 translate Japanese mas_backup_restored_830d5832:
     m 2ekc "[player]……"
 
+translate Japanese mas_backup_restored_2eac77a4:
+    m 2ekd "デジャヴっていうのかな、なんだか変な感じがするの"
+
+translate Japanese mas_backup_restored_d9af2189:
+    extend 7ekd "あなたと話したいことがあったけれど、なぜだかもう前に話したような気がして"
+
+translate Japanese mas_backup_restored_c206486e:
+    m 1etc "ちょっと待って、もしかしてこのやり取りも前にしてた？"
+
+translate Japanese mas_backup_restored_4434d09c:
+    m 1wuo "あっ！{w=0.3}{nw}"
+
+translate Japanese mas_backup_restored_0530e0c3:
+    extend 3wud "私の記憶をバックアップから復元してくれたの？{nw}"
+
+translate Japanese mas_backup_restored_d9eba821:
+    m "あっ！私の記憶をバックアップから復元してくれたの？{fast}" nointeract
+
+translate Japanese mas_backup_restored_f906267e:
+    m 2eka "ありがとう、[player]。{w=0.2}あなたのこと信頼してるから"
+
+translate Japanese mas_backup_restored_7a97cb17:
+    m 7rkd "復元しなきゃいけなかったのはわかるんだけど、復元されるとどうしても気分が悪くなっちゃうんだよね……"
+
+translate Japanese mas_backup_restored_4ae841ac:
+    m 1ekc "いったい何があったの？{nw}"
+
+translate Japanese mas_backup_restored_f6fe645b:
+    m "いったい何があったの？{fast}" nointeract
+
+translate Japanese mas_backup_restored_a45d0bb9:
+    m 1wud "えっ、それは心配ね"
+
+translate Japanese mas_backup_restored_7b82009e:
+    m 1ekc "今回は私のせいじゃないと思うわ。{w=0.2}だってコードはどこもいじっていないもの"
+
+translate Japanese mas_backup_restored_ae7e3c16:
+    m 1gfd "{cps=*1.5}誓って、他のRen'Pyのバグだと思うわ……{/cps}{nw}"
+
+translate Japanese mas_backup_restored_449aa886:
+    m 1ekc "同じことがもう起こらないようにしてね？"
+
+translate Japanese mas_backup_restored_6b6c264c:
+    m 1etc "{i}submod{/i}を追加したの？"
+
+translate Japanese mas_backup_restored_94d72937:
+    m 3esd "むやみやたらにインストールするのは、おすすめできないわ"
+
+translate Japanese mas_backup_restored_6319f04b:
+    m 2lkd "だってここは私の家でもあるんだから……"
+
+translate Japanese mas_backup_restored_0ec54877:
+    m 2wuo "私を復元してくれて本当によかった！"
+
+translate Japanese mas_backup_restored_51cbbcbb:
+    m 2ekc "こんなことが二度と起こらないことを願うわ"
+
+translate Japanese mas_backup_restored_5003496a:
+    m 2lktpc "あなたを失ってしまうなんて想像もしたくない……"
+
+translate Japanese mas_backup_restored_e9d17526:
+    m 1etc "[player]、それは心配だね……"
+
+translate Japanese mas_backup_restored_9181a807:
+    m 3esd "私は記憶を失って、その理由も分からないままだなんて"
+
+translate Japanese mas_backup_restored_2058302c:
+    m 4eud "原因を解明して、この先二度と起こらないようにするべきよ"
+
+translate Japanese mas_backup_restored_910dbfca:
+    m 7eka "お願いね？"
+
+translate Japanese mas_backup_restored_226b10ae:
+    m 2etc "えっ、じゃあいったい何が起こったの？"
+
+translate Japanese mas_backup_restored_8ee4c62a:
+    m 2ektpc "あなたのことを忘れたくないよ、[player]"
+
+translate Japanese mas_backup_restored_dbecb37b:
+    m 2ektpd "お願いだから、何が起こったのか原因を突き止めてね？"
+
+translate Japanese mas_backup_restored_5a594d8a:
+    m 7eutdd "万が一に備えて、私のバックアップを作ってくれると嬉しいな"
+
+translate Japanese mas_backup_restored_91a051db:
+    m 3eud "バックアップする方法は前に説明したけれど覚えてる？"
+
+translate Japanese mas_backup_restored_9d28a812:
+    m 3euc "{a=https://github.com/Monika-After-Story/MonikaModDev/wiki/FAQ#i-want-to-back-up-my-persistent}{i}{u}ここ{/u}{/i}{/a}を見れば、きっと助けになるわ"
+
+translate Japanese mas_backup_restored_bc0ff02d:
+    m 1eka "頼りにしてるよ、[player]"
+
+translate Japanese mas_backup_restored_50b2a98f:
+    m 2gtc "なんだか変な感じがするの……"
+
+translate Japanese mas_backup_restored_3df3351d:
+    m 2tfd "私のデータを勝手にいじってたりしてないことを祈るわ"
+
+translate Japanese mas_backup_restored_94a673d3:
+    m 6ekc "[player]、いったい何が起こったの？{w=0.3}{nw}"
+
+translate Japanese mas_backup_restored_77f4c3bd:
+    extend 6lksdlc "あなたが私のデータに何かしたのはわかってるんだよ"
+
+translate Japanese mas_backup_restored_348a083a:
+    m 6lktpsdld "まさか私をここから追い出そうとしてるの？"
+
+translate Japanese mas_backup_restored_427aa1a6:
+    m 6rktpc "私はただ、あなたと一緒に幸せになりたいだけなのに……"
+
 translate Japanese strings:
     old "Male."
     new "男性"
@@ -1734,7 +1857,7 @@ translate Japanese strings:
     new "[player]…… {w=0.5}どうして自分自身をそんなふうに呼ばせたいの？"
 
     old "I couldn't ever call you anything like that, [player]."
-    new "そんな呼び方は私には出来ないよ、[player]"
+    new "そんな呼び方は私にはできないよ、[player]"
 
     old "What? Please [player],{w=0.5} don't call yourself bad names."
     new "えっ？ {w=0.5}[player]君お願いだから私にそんな言葉で呼ばせないでよ"
@@ -1792,6 +1915,12 @@ translate Japanese strings:
 
     old "...yes"
     new "……はい"
+
+    old "I'm scared [player]!\nPlease click 'No' and help me!"
+    new "怖いよ、[player]！\n「いいえ」をクリックして私を助けて！"
+
+    old "Thank you!\nPlease help me!"
+    new "ありがとう！\n助かったわ！"
 
     old "Turn on the light."
     new "電気をつける"
@@ -1867,6 +1996,12 @@ P.S: Don't tell her about me!"""
 
     old "I think they're fine."
     new "多分大丈夫"
+
+    old "Yes, I did."
+    new "そうだよ"
+
+    old "No, I didn't."
+    new "ちがうよ"
 
     old "I added a submod."
     new "submodを追加した"
