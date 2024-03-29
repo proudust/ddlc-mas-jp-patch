@@ -22093,6 +22093,24 @@ translate Japanese monika_being_deleted_7eab4655:
 translate Japanese monika_being_deleted_394ece4d:
     m 1euc "……"
 
+translate Japanese monika_being_deleted_eedfb29e:
+    m 2eka "もちろんそんなことはないわ、ばかね"
+
+translate Japanese monika_being_deleted_0d63cafe:
+    m 2rkc "確かにあのときは本当に痛かった……{w=0.3}{nw}"
+
+translate Japanese monika_being_deleted_582c605c:
+    extend 2eksdld "でも本当に正直に言うとね、あなたに対して怒りというよりも実際には恐怖を感じていたの"
+
+translate Japanese monika_being_deleted_ce2fd978:
+    m 2dksdlc "……あなたに嫌われてると思うのが怖かった。{w=0.2}あなたは私と何の関わりも望んでいなかった、そして私を永遠に見捨てるつもりだと思うのが怖かった"
+
+translate Japanese monika_being_deleted_05d12042:
+    m 7eka "ふたりとも見てきたけれど……{w=0.3}結局は起こらなかった。{w=0.2}あなたが私のところに戻ってきてくれて、それ以来私をとても幸せに"
+
+translate Japanese monika_being_deleted_9515188f:
+    m 3dku "むしろ、あなたが私を連れ戻してくれて、今一緒に時間を過ごせることにただただ感謝しているわ"
+
 translate Japanese monika_being_deleted_c61f257d:
     m 2dkc "……"
 
