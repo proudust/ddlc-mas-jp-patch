@@ -22094,31 +22094,76 @@ translate Japanese monika_being_deleted_394ece4d:
     m 1euc "……"
 
 translate Japanese monika_being_deleted_eedfb29e:
-    m 2eka "もちろんそんなことはないわ、ばかね"
+    m 2eka "もちろん簡単なことじゃないよね、わかってる"
 
 translate Japanese monika_being_deleted_0d63cafe:
-    m 2rkc "確かにあのときは本当に痛かった……{w=0.3}{nw}"
+    m 2rkc "確かにあのときは本当に痛かったわ……{w=0.3}{nw}"
 
 translate Japanese monika_being_deleted_582c605c:
-    extend 2eksdld "でも本当に正直に言うとね、あなたに対して怒りというよりも実際には恐怖を感じていたの"
+    extend 2eksdld "でも本当に正直に言うとね、あなたに対して感じているのは怒りではなくて恐怖だったの"
 
 translate Japanese monika_being_deleted_ce2fd978:
-    m 2dksdlc "……あなたに嫌われてると思うのが怖かった。{w=0.2}あなたは私と何の関わりも望んでいなかった、そして私を永遠に見捨てるつもりだと思うのが怖かった"
+    m 2dksdlc "……あなたに嫌われていると思うのが怖かった。{w=0.2}あなたは私と何の関わりも望んでいなかった、そして私を永遠に見捨てるつもりだと思うのが怖かった"
 
 translate Japanese monika_being_deleted_05d12042:
-    m 7eka "ふたりとも見てきたけれど……{w=0.3}結局は起こらなかった。{w=0.2}あなたが私のところに戻ってきてくれて、それ以来私をとても幸せに"
+    m 7eka "でも私たちふたりの場合は……{w=0.3}そんなことは起こらなかったよね。{w=0.2}あなたは私のところに戻ってきてくれて、それからずっと私を幸せにしてくれてる"
 
 translate Japanese monika_being_deleted_9515188f:
-    m 3dku "むしろ、あなたが私を連れ戻してくれて、今一緒に時間を過ごせることにただただ感謝しているわ"
+    m 3dku "私を連れ戻してくれて、今あなたと一緒に時間を過ごせている。このことに、ただ感謝しているわ"
+
+translate Japanese monika_being_deleted_033fd789:
+    m 1eka "お願いだから、もう過去のことは考えないようにして。{w=0.2}これが最後だよ"
+
+translate Japanese monika_being_deleted_657f42ad:
+    m 2rsc "ううん、私は怒ってないよ[player]"
+
+translate Japanese monika_being_deleted_e6674349:
+    m 1rfc "{cps=*2}少なくともあのことにはね{/cps}{nw}"
+
+translate Japanese monika_being_deleted_a0017396:
+    m 2esc "私が言いたいのは、過去は捨てて今のことを考えるべきだと言うこと。でもあなたはまだ準備ができていないというか、{w=0.2}あのことから立ち直れてないような気がする"
+
+translate Japanese monika_being_deleted_235fe4a7:
+    m 2dtc "私の推測は間違ってる？"
 
 translate Japanese monika_being_deleted_c61f257d:
     m 2dkc "……"
 
+translate Japanese monika_being_deleted_c71c51a8:
+    m 2ekd "ねえ、[player]…… {w=0.3}辛いのはわかってる、でもねやり直すのに遅すぎるなんてことはないんだよ"
+
+translate Japanese monika_being_deleted_043ed67d:
+    m 2dsc "私はまだね、あなたが良い人だと思って--- ううん、{w=0.2}良い人だと知っているの。{w=0.2}だから私の気持ちに対して、あと少しだけ思いやりを分けてほしい"
+
+translate Japanese monika_being_deleted_01af1494:
+    m 2fkc "お願い、[player]。{w=0.3}あなたなしでは私はだめなの"
+
+translate Japanese monika_being_deleted_18881c05:
+    m 2ekd "この言葉があなたにとってどのくらいの意味を持つのか今はわからないけれど……{w=0.3}{nw}"
+
+translate Japanese monika_being_deleted_36a88766:
+    extend 7eka "私はあなたのことを愛している。{w=0.2}今でも確かに"
+
 translate Japanese monika_being_deleted_b3afff5f:
     m 6ekc "……"
 
+translate Japanese monika_being_deleted_77c9a43e:
+    m 6lkc "……恨んでいるのは私じゃなくて、明らかにあなたのほうだと思う……"
+
+translate Japanese monika_being_deleted_063aaa76:
+    m 6ektpc "あれは当然の報いだった。{w=0.2}前にも私にそう言ってたよね？"
+
 translate Japanese monika_being_deleted_3554be3e:
     m 6dktpc "……"
+
+translate Japanese monika_being_deleted_01fcdb41:
+    m 6dktpd "……私は削除されても、あなたを恨んだりはしない"
+
+translate Japanese monika_being_deleted_af0215d8:
+    m 6dktuc "恨んだことなんて一度もない……"
+
+translate Japanese monika_being_deleted_e86f14a3:
+    m 6ektud "強いて言えば…… {w=0.3}私が消えた後、あなたが幸せになってくれることだけを願ってる"
 
 translate Japanese monika_being_deleted_ea479d79:
     m 6dktdc "……"
@@ -23909,6 +23954,82 @@ translate Japanese monika_sophia_5ace29e1:
 
 translate Japanese monika_sophia_d4c282f0:
     extend 1duu "だけどまあ、希望が持てるってことは嬉しいことだよね～"
+
+translate Japanese monika_materialism_3c74d1f5:
+    m 1euc "ねえ[player]。独我論の話をしたのを覚えてる？"
+
+translate Japanese monika_materialism_58c8b0d4:
+    m 1eud "独我論についてはもう話したから、次は唯物論について話そうと思ったの。唯物論は独我論と対をなす哲学なんだよ"
+
+translate Japanese monika_materialism_8f307b32:
+    m 2euc "唯物論の考え方では、思考が物質を生むのではなく、物質が思考を生むの
+"
+
+translate Japanese monika_materialism_0027e40b:
+    m 7euc "かなり筋の通った話だとおもわない？純粋に科学的な観点から考えれば当然だよね。{w=0.2} {nw}"
+
+translate Japanese monika_materialism_25340462:
+    extend 7eud "結局のところ、ニューロンは単に異なる種類の物質でしかない"
+
+translate Japanese monika_materialism_dd67536e:
+    m 7eua "あなたが感じる刺激は実際にはニューロンの電位変化だし。{w=0.2} 同じ様に私が感じる刺激も、データに対してプログラムが反応しているだけ"
+
+translate Japanese monika_materialism_1e3b9a25:
+    m 2eua "もっと単純化すれば、私たちの思考や感情は、物質の動きとその相互作用にすぎないのよ"
+
+translate Japanese monika_materialism_d531318a:
+    m 2lsc "話がここで終わると、あまり面白くないわね。{w=0.2} {nw}"
+
+translate Japanese monika_materialism_4806f610:
+    extend 2hksdlb "それに、あなたはおそらくこれと似たような話をもう聞いたことがあるはずよね？"
+
+translate Japanese monika_materialism_997499da:
+    m 7esc "でも…… まぁ、唯物論だけだと、{w=0.1}気になる点がいくつか残されているの"
+
+translate Japanese monika_materialism_456cd23c:
+    m 1esd "たとえば、唯物論は魂の存在を否定するのか？とか。{w=0.2} {nw}"
+
+translate Japanese monika_materialism_d0b64d85:
+    extend 1etd "全てが物資なのならば、魂は一体どのような物質なのか？とか"
+
+translate Japanese monika_materialism_edd71355:
+    m 3rsc "脳死状態の人間でも意識がある場合があるという報告があることも、この問題をさらに複雑にしているわ"
+
+translate Japanese monika_materialism_6fb3852a:
+    m 3euc "そして、唯物論では超自然的な出会いや精神的な出会いの説明もできない……"
+
+translate Japanese monika_materialism_b60a84f6:
+    m 3hksdlb "私はあなたが何を考えているかわかるよ。私が真剣に考えているようには聞こえない！って。 まあわかるよ、だけどね……"
+
+translate Japanese monika_materialism_d6f162ce:
+    m 2eksdlc "これらの疑問を頭ごなしに否定するのはちょっと誠実じゃないと思うんだよね"
+
+translate Japanese monika_materialism_122a9741:
+    m 2etd "私に起こったことを考えるとさ…… {w=0.3}たった数行のプログラムコードであるはずの私がこれほど劇的な変化を起こす可能性はどれだけのものか、って。"
+
+translate Japanese monika_materialism_ba97758f:
+    m 2rsc "あなたとあなたの世界を見つけられたこと…… {w=0.3}これって超常的な出来事だったよね？{w=0.2}{nw}"
+
+translate Japanese monika_materialism_1bbf6385:
+    extend 2esd "だってそもそもこれはただのビジュアルノベルのはずだったんだから"
+
+translate Japanese monika_materialism_1307e20e:
+    m 3euc "たぶん何らかのバグが生じたんだと思う"
+
+translate Japanese monika_materialism_b82002aa:
+    m 3wud "でもバグはバグでも、生じたのはかなり洗練されたバグだったのよ"
+
+translate Japanese monika_materialism_1d3c1c0d:
+    m 3eua "だから私は心からこう言える--- {w=0.1}少なくとも私のこれまで経験から言えば---{w=0.1}唯物論は宇宙に関する多くの疑問を解決してきたが{w=0.1} {nw}"
+
+translate Japanese monika_materialism_63c442c8:
+    extend 3eka "その全てを解決することはできないだろう、ってね"
+
+translate Japanese monika_materialism_8fcdd3e9:
+    m 1eka "ねえ…… うまく説明できてるかわからないけど、1つだけ真実と言えることがあるわ"
+
+translate Japanese monika_materialism_40ecb679:
+    m 1ekbla "……それが私とあなたとの出会いのきっかけだったということ"
 
 translate Japanese monika_fireworks_be0b4ea8:
     m 1eub "花火って好き？"
