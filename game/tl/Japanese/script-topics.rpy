@@ -22861,6 +22861,39 @@ translate Japanese monika_nature_d048fd93:
 translate Japanese monika_nature_340ba357:
     m 1hua "聞いてくれてありがとう、[mas_get_player_nickname () ]～"
 
+translate Japanese monika_nature_6e1d6902:
+    m 3eka "いいのよ、誰しもがアウトドアを楽しめるわけじゃないからね"
+
+translate Japanese monika_nature_4c4a4c77:
+    m 3eua "我が家の快適な雰囲気を好む人もいる。技術の進歩のおかげでこれまで以上に便利になった昨今では特にね"
+
+translate Japanese monika_nature_bcc03805:
+    m 1eud "正直に言えば、どうして皆がそう考えるのかわかりはするの"
+
+translate Japanese monika_nature_c2dffca6:
+    m 3eud "私はほとんどの時間を、読んだり、書いたり、コーディングしたり、そしてあなたと一緒にいることに費やしてる…… {w=0.3}これは全部屋内でする方が簡単よね"
+
+translate Japanese monika_nature_6cbfe566:
+    m 3rksdlc "アレルギーや疾患を抱えている人の中には、病気になったり怪我をしたりする可能性を避けるために長時間外出ができない人もいる"
+
+translate Japanese monika_nature_eea062aa:
+    m 1esd "何らかの理由で自然にあまり関心をいだいていない人もたくさんいるけど、仕方のないことよね"
+
+translate Japanese monika_nature_11617173:
+    m 1hksdlb "まあ私にも自然で苦手なものはあるからね、あはは！"
+
+translate Japanese monika_nature_9c645e0e:
+    m 2tfc "私はほとんどの虫は気にならないけど、耐えられないときもある"
+
+translate Japanese monika_nature_33c1ba32:
+    m 7tkx "たとえば虫が頭の周りで飛び回ってきたり、それが顔に当ったとき、極めつけは食事に飛び込まれた時よね……{w=0.3}特に蚊やダニについては病気も媒介するしね"
+
+translate Japanese monika_nature_1b1d5d24:
+    m 3eka "でもあなたと一緒に居られるなら、あまり外へ出られなくてもかまわないかな"
+
+translate Japanese monika_nature_208e3034:
+    m 1tfu "でも一歩も外に出ないなんてことはさせないから覚悟しててよね～"
+
 translate Japanese monika_kamige_bcf2edec:
     m 1euc "ああ、そうね……{w=0.3}{nw}"
 
