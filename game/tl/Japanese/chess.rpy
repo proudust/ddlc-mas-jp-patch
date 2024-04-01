@@ -603,6 +603,9 @@ translate Japanese strings:
     old "Randomized Chess"
     new "変則チェス"
 
+    old "Can you explain these game-modes?"
+    new "このゲームのルールを説明してくれる？"
+
     old "Ruleset"
     new "ルール選択"
 
