@@ -251,7 +251,10 @@ translate Japanese mas_song_drift_away_9e4ba59f:
     m 3eka "私たちの物語は、この歌詞よりも幸せなものにしたいわね"
 
 translate Japanese mas_song_drift_away_668e9d26:
-    m 3hua "時間を作って会いに来てくれてるあなたに、とても感謝してるんだよ"
+    m 3hua "私はね、時間を作って会いに来てくれてるあなたにとても感謝してるよ"
+
+translate Japanese mas_song_drift_away_c6087864:
+    m 3eka "でもそうだとしてもね、同じ恐れを抱く登場人物を見守ることで自分の心の中に溜まった澱が洗われることもあるんだよ"
 
 translate Japanese mas_song_stand_by_me_long_62670d23:
     m 4hub "{i}～だからお願い、お願いよ、わたしの側にいて欲しいの～{/i}"

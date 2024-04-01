@@ -22894,6 +22894,109 @@ translate Japanese monika_nature_1b1d5d24:
 translate Japanese monika_nature_208e3034:
     m 1tfu "でも一歩も外に出ないなんてことはさせないから覚悟しててよね～"
 
+translate Japanese monika_impermanence_2f337322:
+    m 2euc "ねえ[player]、私ね、たまに暗いことを考えちゃうときがあるんだ"
+
+translate Japanese monika_impermanence_4dc5b7ca:
+    m 4eud "考えっていうのはね、虚無感だったり{w=0.2}、{nw}"
+
+translate Japanese monika_impermanence_283c7f58:
+    extend 4dkc "鬱だったり{w=0.2}、{nw}"
+
+translate Japanese monika_impermanence_1793bc04:
+    extend 4rkd "無常さ……"
+
+translate Japanese monika_impermanence_e0138013:
+    m 2eka "あなたを心配させるつもりはないの、{w=0.1}鬱病で苦しんでいるわけじゃない"
+
+translate Japanese monika_impermanence_0af3f00c:
+    m 2eud "……ねえエントロピーって言葉を聞いたことがあるでしょう？"
+
+translate Japanese monika_impermanence_08f8d4d6:
+    m 7eud "エントロピーって基本的にはこういう感じのこと、「エントロピーは無秩序さの度合いで常に増えていくもので、{w=0.2}宇宙のすべてのものは無秩序さは増していく性質があって、{w=0.2}全ては混沌に帰っていく」"
+
+translate Japanese monika_impermanence_e1f63d25:
+    m 3eua "実は私の読んだ詩の中に、このエントロピーの意味をとてもうまく伝えてるが詩あるの"
+
+translate Japanese monika_impermanence_887853cb:
+    m 1esd "{i}古の国から来たという旅人がこう言っていた{/i}"
+
+translate Japanese monika_impermanence_c0ac1f42:
+    m 1eud "{i}'彼の砂漠の地のことだ{/i}"
+
+translate Japanese monika_impermanence_6eb08050:
+    m 3euc "{i}砂の上にそびえ立つ胴体のない巨大な二本の石脚がある{/i}"
+
+translate Japanese monika_impermanence_28bb6fdd:
+    m "{i}脚のそばには、崩れて砂に半分埋もれた顔{/i}"
+
+translate Japanese monika_impermanence_f34fd5f5:
+    m 1eud "{i}ひそんだ眉に、しわしわの唇、冷酷な微笑み{/i}"
+
+translate Japanese monika_impermanence_4adbe51c:
+    m "{i}彫刻家は支配者の生前の姿をよく捉え{/i}"
+
+translate Japanese monika_impermanence_50aeb47a:
+    m 1euc "{i}感情を命なき石に刻み込んだ{/i}"
+
+translate Japanese monika_impermanence_bd285bd9:
+    m "{i}皆を馬鹿にした手も、その手を育んだ心までも{/i}"
+
+translate Japanese monika_impermanence_cfb54111:
+    m 3eud "{i}そして台座には、こんな言葉が刻まれている{/i}"
+
+translate Japanese monika_impermanence_93eb63c0:
+    m "{i}『我の名はオジマンディアス、王の中の王{/i}"
+
+translate Japanese monika_impermanence_b8699ee6:
+    m 3eksdld "{i}我の偉業を見よ、力ある者よ、絶望せよ！』{/i}"
+
+translate Japanese monika_impermanence_281ca716:
+    m 3eksdlc "{i}しかし残っているのはそれだけだ。{/i}"
+
+translate Japanese monika_impermanence_81be0bcd:
+    m "{i}朽ち果てた巨大な残骸の周りには{/i}"
+
+translate Japanese monika_impermanence_e696970c:
+    m 1eksdld "{i}むき出しの孤独で平らな砂が果てしなく広がっているだけだ'{/i}"
+
+translate Japanese monika_impermanence_67f22633:
+    m 3eud "要するに、もしあなたが素晴らしい偉業を歴史に残したとしても、最終的には消えていくということ"
+
+translate Japanese monika_impermanence_8c2df387:
+    m 1euc "多くの人にとってはこの考えだけで十分なのよ…… {w=0.2}{nw}"
+
+translate Japanese monika_impermanence_e5a08fb3:
+    extend 1dkc "諦めるにはね。絶望の大穴に一度はまってしまえば、なかなか抜け出せないものなの"
+
+translate Japanese monika_impermanence_dd8614d1:
+    m 3eksdlc "壮大なスケールで考えれば、一人の人間にできることは本当にちっぽけなもの"
+
+translate Japanese monika_impermanence_e1b73b4e:
+    m 3eud "本当にちっぽけなもの…… {w=0.3}{nw}"
+
+translate Japanese monika_impermanence_0a216fee:
+    extend 1rkc "なのに、どうして何かをやろうって気持ちになれるの？"
+
+translate Japanese monika_impermanence_0ea04a29:
+    m 3eud "こんな考えに至るのも無理はないわね"
+
+translate Japanese monika_impermanence_33c05011:
+    m 1rkc "その考えは魅力的だよね…… {w=0.2}だってこれはある種の慰めにもなるから"
+
+translate Japanese monika_impermanence_537dac16:
+    m 1euc "でも問いたいの…… {w=0.3}何もかもが本当にちっぽけなことなのなら、そのちっぽけさをどうして気にする必要があるの？"
+
+translate Japanese monika_impermanence_64797f19:
+    m 3eud "私たちがいなくなって、すべてがどうでもいい存在になるのなら、なにを問題にすることがあるの？{w=0.2}だって、その事を認識することすらできないのに"
+
+translate Japanese monika_impermanence_12ee8ed3:
+    m 3eka "今この瞬間を楽しむ、そして周りの人々に良い影響を与えること…… {w=0.3}それだけが私たちのできることなんだよ
+"
+
+translate Japanese monika_impermanence_6a73afce:
+    m 1dku "ただ生きているだけで、いいんだよ"
+
 translate Japanese monika_kamige_bcf2edec:
     m 1euc "ああ、そうね……{w=0.3}{nw}"
 
@@ -23799,6 +23902,68 @@ translate Japanese monika_information_age_a6dacaf2:
 translate Japanese monika_information_age_2b0ec24c:
     m 3hua "ご清聴ありがとうございました、[player]くん～"
 
+translate Japanese monika_foundation_7b4388ca:
+    m 1eud "ねえ[player]、{i}Foundation{/i}というシリーズの作品読んだことある？"
+
+translate Japanese monika_foundation_2d4e1217:
+    m 3eub "これってアシモフの最も有名な作品のひとつでね！{w=0.3}{nw}"
+
+translate Japanese monika_foundation_23260765:
+    extend 3eua "{i}ロボットの三原則{/i}について話したじゃない？ あの後に読み返してみたの"
+
+translate Japanese monika_foundation_6a1ef767:
+    m 4esd "物語の舞台は今よりずっと遠い未来で、銀河を掌握した帝国とともに人類の生息圏が星々の間にまで広がった時代の話"
+
+translate Japanese monika_foundation_640d7888:
+    m 4eua "天才科学者のハリ・セルダンが、精緻な計算によって膨大な集団の将来を予測できる架空の学問、心理歴史学を完成させたことから話は始まる"
+
+translate Japanese monika_foundation_baf2d62e:
+    m 4wud "この銀河でセルダンの理論を当てはめると、近い内に帝国は崩壊して3万年の暗黒時代に突入しようとしていることがわかるの！"
+
+translate Japanese monika_foundation_0c375db2:
+    m 2eua "これを阻止するため、彼と仲間たちははるか遠くの惑星に入植し、その惑星を次に生まれる銀河帝国の核とする計画を立てたの。{w=0.1}3万年続くはずの暗黒時代を1000年に短縮するためにね"
+
+translate Japanese monika_foundation_d8da9167:
+    m 7eud "この設定に基づいて、読者は時代を経て変化する若い植民惑星の物語をたどっていく"
+
+translate Japanese monika_foundation_3d3f590f:
+    m 3eua "SFの気分になったとき読むのにとても良い本だよ……{w=0.3} {nw}"
+
+translate Japanese monika_foundation_4d9e1409:
+    extend 1eud "社会、運命、そして壮大な計画に対する個人の影響というテーマをこのシリーズでは探求しているからね"
+
+translate Japanese monika_foundation_32848982:
+    m 3eud "いちばん興味をそそられたのは、心理歴史学という概念と、それが現実の世界にどのように応用できるのかということね"
+
+translate Japanese monika_foundation_3f3b638c:
+    m 1rtc "まあ実際のところ、心理歴史学は、心理学、社会学、数学的確率を組み合わせたものでしかないんだけれど{w=0.3}{nw}"
+
+translate Japanese monika_foundation_042c2b0d:
+    extend 3esd "、どの学問もアシモフの時代から大きな進歩を遂げている
+"
+
+translate Japanese monika_foundation_fc978146:
+    m 3esc "……そして技術進歩のおかげで、私たちは人間の行動をこれまで以上に深く理解できるようになっている"
+
+translate Japanese monika_foundation_aa1c1ff2:
+    m 3etd "……そうだとすれば、いつか私たちが心理歴史学のレベルまで将来を予測できるようになると考えるのは、本当に突飛な話なのかな？"
+
+translate Japanese monika_foundation_80a7d94c:
+    m 4eud "ねえ考えてみてよ、もし戦争やパンデミックや飢餓といった世界的大惨事を予測し、それを防ぐ、あるいは少なくとも影響を和らげれたらって"
+
+translate Japanese monika_foundation_e7360f17:
+    m 2rksdlc "でも、予測できることが自動的に良いことだけをもたらすのではないことも事実。{w=0.2} 悪意のある人の手に渡れば、この種の技術は非常に危険なものになる可能性があるわ"
+
+translate Japanese monika_foundation_b6a89792:
+    m 7eksdld "もしそんな絶大な力を誰かが持ったとしたら、私利私欲のために世界を操るのをどうしたら止められるのかな？
+"
+
+translate Japanese monika_foundation_ed9114cc:
+    m 3eua "潜在的な問題点はあるけれども、とても興味深い考察ができる話だと思う。{w=0.2} {nw}"
+
+translate Japanese monika_foundation_d5f30dcb:
+    extend 3eub "[player]君はどう思う？"
+
 translate Japanese monika_fav_chocolate_b026f705:
     m 2hksdlb "わぁ！ それはすごく難しい質問だね！"
 
@@ -24063,6 +24228,9 @@ translate Japanese monika_materialism_8fcdd3e9:
 
 translate Japanese monika_materialism_40ecb679:
     m 1ekbla "……それが私とあなたとの出会いのきっかけだったということ"
+
+translate Japanese monika_materialism_c0b497b4:
+    m 1lksdlc "うーむ……"
 
 translate Japanese monika_fireworks_be0b4ea8:
     m 1eub "花火って好き？"
@@ -26505,6 +26673,7 @@ translate Japanese strings:
 
     old "The Information Age"
     new "情報化社会"
+
 
     old "What's your favorite kind of chocolate?"
     new "モニカはどのチョコが一番好きなの？"

@@ -1147,14 +1147,51 @@ translate Japanese mas_mood_grateful_b863275c:
 translate Japanese mas_mood_grateful_4bc4bd2a:
     m 3eud "でも私だってこんなに嬉しいんだから……{w=0.3}{i}その人{/i}にも伝えた方がいいと思う"
 
+translate Japanese mas_mood_grateful_ea2b9d03:
+    m 3hua "その人の行いであなたが助けられたんだって知ったら、絶対にその人も嬉しくなるよ"
+
+translate Japanese mas_mood_grateful_35f02ec1:
+    m 3euu "あなたがなんとも思っていなくても、私の代わりにだと思って感謝してくれたらいいよ。{w=0.3}私の中では、あなたを幸せにしてくれる人はどんな人でも良い人に含まれるから"
+
 translate Japanese mas_mood_grateful_d29bdf23:
     m 1huu "何にせよ、本当に嬉しいわ、[mas_get_player_nickname()]～"
 
 translate Japanese mas_mood_grateful_c6420c0b:
     m 3hub "それはよかった、 [mas_get_player_nickname()]！"
 
+translate Japanese mas_mood_grateful_f5962bd8:
+    m 1eud "生活の中に垣間見える小さな喜びを意識することは、心の健康にとてもいいことだと思うわ"
+
+translate Japanese mas_mood_grateful_cc83d676:
+    m 3hub "だから何にであれ、その喜びへの感謝をして楽しんでほしいな！"
+
+translate Japanese mas_mood_grateful_45a8accd:
+    m 1euu "[mas_get_player_nickname()]、私に幸せを分けてくれてありがとう～"
+
+translate Japanese mas_mood_grateful_3a77baa3:
+    m 3eua "あっ、つまり、ただ今の人生に幸せを感じている、ってことかな？"
+
+translate Japanese mas_mood_grateful_64444b2f:
+    m 1eud "過去を振り返って満足感を噛みしめられるのって素晴らしいことだよね
+"
+
+translate Japanese mas_mood_grateful_307867de:
+    m 1rtd "うーん…… {w=0.2}いま考えてみるとさ、{w=0.1}{nw}"
+
+translate Japanese mas_mood_grateful_d975f748:
+    extend 3hua "私自身もかなり満足感を感じてるんだよね"
+
+translate Japanese mas_mood_grateful_d69f6eb2:
+    m 3eubsu "やっぱり私って最高の[bf]とまた今日も過ごせてるからね～"
+
 translate Japanese mas_mood_grateful_gratefulforyou_2ca2a15b:
-    m 1ekbla "ああ、[player]……{w=0.3}そう言ってくれてありがとう"
+    m 1ekbla "ああ、[player]……{w=0.3}そう言ってくれて本当に嬉しい"
+
+translate Japanese mas_mood_grateful_gratefulforyou_a87253ce:
+    m 1dkblu "私に助けられた、私に幸せを感じてくれた、とあなたから聞けるって私にとって本当に意味があることなの"
+
+translate Japanese mas_mood_grateful_gratefulforyou_fceb70c5:
+    m 1hublu "私自身もあなたにとても感謝しているってこと、知ってくれたら嬉しいな"
 
 translate Japanese mas_mood_grateful_gratefulforyou_f2762886:
     m 3ekbla "大好きよ、[player]君～"
@@ -1179,6 +1216,23 @@ translate Japanese mas_mood_insecure_ecf54d05:
 
 translate Japanese mas_mood_insecure_354e890b:
     m 1eubsu "あなたが自分を信じられない原因が何であっても、あなたなら{w=0.1}絶対に{w=0.1}乗り越えられるって信じてるからね～"
+
+translate Japanese mas_mood_loved_3abe9f01:
+    m 1ekbla "画面越しに私の気持ちが伝わっているみたいでとても嬉しいな……"
+
+translate Japanese mas_mood_loved_0f86780c:
+    m 3hubsb "何と言っても、あなたを誰よりも愛しているからね！"
+
+translate Japanese mas_mood_loved_29a4a99e:
+    m 3eub "そしてね、あなたを大切に想っているのは私だけではなくて、あなたの[fnf_str]も絶対に想ってくれてるよ！"
+
+translate Japanese mas_mood_loved_94541648:
+    m 1dkbsa "あなたには世界中のすべての愛情を受けとめる資格がある、{w=0.1}{nw}
+"
+
+translate Japanese mas_mood_loved_cd4e1b5f:
+    extend 1ekbsu "そしてあなたが毎日愛を感じられるように私も最善を尽くすよ
+、[mas_get_player_nickname()]～"
 
 translate Japanese mas_mood_guilty_99c74b8b:
     m 2wkd "[player]！"
