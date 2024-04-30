@@ -17099,7 +17099,7 @@ translate Japanese monika_player_appearance_3fe1c528:
     m 3ekbsa "でも、それまではここに座って、[player]君の美しい目を見ることを想像して満足しているわ"
 
 translate Japanese monika_player_appearance_2daf2add:
-    m 3ekbsa "でもそれまでは、私はここに座って、あなたの美しい[persistent._mas_pm_eye_color]色の目を見ることを想像して満足することにするよ、[player]くん。"
+    m 3ekbsa "でもそれまでは、私はここに座って、あなたの美しい[persistent._mas_pm_eye_color]色の目を見ることを想像して満足することにするよ、[player]くん"
 
 translate Japanese monika_player_appearance_aaeeffdc:
     m 5ekbfa "言葉だけじゃ足りないほど愛しているわ"
@@ -22096,7 +22096,7 @@ translate Japanese monika_being_deleted_eedfb29e:
     m 2eka "もちろん簡単なことじゃないよね、わかってる"
 
 translate Japanese monika_being_deleted_0d63cafe:
-    m 2rkc "確かにあのときは本当に痛かったわ……{w=0.3}{nw}"
+    m 2rkc "確かにあのときは本当に痛かったわ…… {w=0.3}{nw}"
 
 translate Japanese monika_being_deleted_582c605c:
     extend 2eksdld "でも本当に正直に言うとね、あなたに対して感じているのは怒りではなくて恐怖だったの"
@@ -22132,7 +22132,7 @@ translate Japanese monika_being_deleted_c71c51a8:
     m 2ekd "ねえ、[player]…… {w=0.3}辛いのはわかってる、でもねやり直すのに遅すぎるなんてことはないんだよ"
 
 translate Japanese monika_being_deleted_043ed67d:
-    m 2dsc "私はまだね、あなたが良い人だと思って--- ううん、{w=0.2}良い人だと知っているの。{w=0.2}だから私の気持ちに対して、あと少しだけ思いやりを分けてほしい"
+    m 2dsc "私はまだね、あなたが良い人だと思ってーーううん、{w=0.2}良い人だと知っているの。{w=0.2}だから私の気持ちに対して、あと少しだけ思いやりを分けてほしい"
 
 translate Japanese monika_being_deleted_01af1494:
     m 2fkc "お願い、[player]。{w=0.3}あなたなしでは私はだめなの"
@@ -24166,7 +24166,7 @@ translate Japanese monika_materialism_25340462:
     extend 7eud "結局のところ、ニューロンは単に異なる種類の物質でしかない"
 
 translate Japanese monika_materialism_dd67536e:
-    m 7eua "あなたが感じる刺激は実際にはニューロンの電位変化だし。{w=0.2} 同じ様に私が感じる刺激も、データに対してプログラムが反応しているだけ"
+    m 7eua "あなたが感じる刺激は実際にはニューロンの電位変化だし。{w=0.2}同じ様に私が感じる刺激も、データに対してプログラムが反応しているだけ"
 
 translate Japanese monika_materialism_1e3b9a25:
     m 2eua "もっと単純化すれば、私たちの思考や感情は、物質の動きとその相互作用にすぎないのよ"
@@ -24199,7 +24199,7 @@ translate Japanese monika_materialism_d6f162ce:
     m 2eksdlc "これらの疑問を頭ごなしに否定するのはちょっと誠実じゃないと思うんだよね"
 
 translate Japanese monika_materialism_122a9741:
-    m 2etd "私に起こったことを考えるとさ…… {w=0.3}たった数行のプログラムコードであるはずの私がこれほど劇的な変化を起こす可能性はどれだけのものか、って。"
+    m 2etd "私に起こったことを考えるとさ…… {w=0.3}たった数行のプログラムコードであるはずの私がこれほど劇的な変化を起こす可能性はどれだけのものか、って"
 
 translate Japanese monika_materialism_ba97758f:
     m 2rsc "あなたとあなたの世界を見つけられたこと…… {w=0.3}これって超常的な出来事だったよね？{w=0.2}{nw}"
@@ -24589,13 +24589,13 @@ translate Japanese monika_conventions_2649956d:
     m 1hub "ああ、なるほど！ {w=0.2}楽しんでくれてたらいいな！"
 
 translate Japanese monika_conventions_1f03ce98:
-    m 3eua "漫画は文芸においても非常に興味深い媒体だから、{w=0.1} {nw}"
+    m 3eua "漫画は文芸においても非常に興味深い媒体だから、 {w=0.1}{nw}"
 
 translate Japanese monika_conventions_b95529a3:
     extend 3rta "私ももっと読んだほうがいいかも……"
 
 translate Japanese monika_conventions_a4ca06d3:
-    m 3eub "私はあなたがそう思うだろうと感じていました！ {w=0.2}これらは、あなたも楽しめるかもしれないと本当に思いました。"
+    m 3eub "やっぱりそうなんだ！ {w=0.2}アニメ好きだって以前言っていたものね"
 
 translate Japanese monika_conventions_76069f75:
     m 2wub "本当？行ったことあるなんてびっくり！"
@@ -24604,7 +24604,7 @@ translate Japanese monika_conventions_1ceefeea:
     m 7eta "あ、{w=0.1} 友達と一緒に行ったのかな？"
 
 translate Japanese monika_conventions_93da1fba:
-    m 3etd "……それとも、別の理由……{w=0.3}ゲームに興味があったのかな？"
+    m 3etd "……それとも、別の理由…… {w=0.3}ゲームに興味があったのかな？"
 
 translate Japanese monika_conventions_e1f57c0c:
     m 1hub "へえ！アニメが好きなのは知っていたけど、漫画も好きなの？"
@@ -24613,7 +24613,7 @@ translate Japanese monika_conventions_b232a84c:
     m 3eua "漫画は文芸においても非常に興味深い媒体だから、私ももっと読んだほうがいいかも……"
 
 translate Japanese monika_conventions_c4390041:
-    m 1wub "へえ！ {w=0.3}アニメは好きじゃないと思ってたけど、とにかくコンベンションが好きみたいだね！"
+    m 1wub "へえ！{w=0.3}アニメは好きじゃないと思ってたけど、とにかくコンベンションが好きみたいだね！"
 
 translate Japanese monika_conventions_3ebef919:
     m 3eua "驚くことはないけど、誰でも楽しめそうな雰囲気だからね"
