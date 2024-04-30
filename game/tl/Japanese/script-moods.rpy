@@ -473,7 +473,7 @@ translate Japanese mas_mood_angry_a1359b22:
     m 1hua "頭がスッキリするまで止まらないで"
 
 translate Japanese mas_mood_angry_bd84f99d:
-    m 3eub "体を動かす事で頭の中のモヤモヤを晴らす事ができるの"
+    m 3eub "体を動かす事で頭の中のモヤモヤを晴らす事が出来るの"
 
 translate Japanese mas_mood_angry_9bad0fdd:
     m 1eka "それほど私は怒らなささそうって？ 実際そうなんだけど……"
@@ -500,7 +500,7 @@ translate Japanese mas_mood_scared_bd595765:
     m "今すぐにでも慰めて助けてあげられたらいいのに……"
 
 translate Japanese mas_mood_scared_31812bf2:
-    m 3eka "でも、少なくともあなたを落ち着かせる手助けはできるわ"
+    m 3eka "でも、少なくともあなたを落ち着かせる手助けは出来るわ"
 
 translate Japanese mas_mood_scared_a68e5573:
     m 1eua "何があっても、あなたの不安を楽にしてあげるって約束したものね"
@@ -1226,8 +1226,7 @@ translate Japanese mas_mood_loved_29a4a99e:
     m 3eub "そしてね、あなたを大切に想っているのは私だけではなくて、あなたの[fnf_str]も絶対に想ってくれてるよ！"
 
 translate Japanese mas_mood_loved_94541648:
-    m 1dkbsa "あなたには世界中のすべての愛情を受けとめる資格がある、{w=0.1}{nw}
-"
+    m 1dkbsa "あなたには世界中のすべての愛情を受けとめる資格がある、{w=0.1}{nw}"
 
 translate Japanese mas_mood_loved_cd4e1b5f:
     extend 1ekbsu "そしてあなたが毎日愛を感じられるように私も最善を尽くすよ、[mas_get_player_nickname()]～"

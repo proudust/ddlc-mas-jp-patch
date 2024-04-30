@@ -126,52 +126,52 @@ translate Japanese monika_gtod_tip003_ccd93aa6:
     m 3hua "よくなったと思わない？"
 
 translate Japanese monika_gtod_tip003_4eaeaac2:
-    m 1esa "さて、接続詞には3種類あるの。{w=0.5}等位接続詞、相関接続詞、従属接続詞ね。"
+    m 1esa "さて、接続詞には3種類あるの。{w=0.5}等位接続詞、相関接続詞、従属接続詞ね"
 
 translate Japanese monika_gtod_tip003_9702fc83:
-    m 1hksdla "名前だけ見るとちょっと難しいかもしれないけど、ちょっとずつ理解できると思うわ。例も交えて説明するわね。"
+    m 1hksdla "名前だけ見るとちょっと難しいかもしれないけど、ちょっとずつ理解できると思うわ。例も交えて説明するわね"
 
 translate Japanese monika_gtod_tip003_6f3539a7:
-    m 1esd "等位接続詞は、同じ「ランク」の2つの語とか節とか、句とかをつなぎ合わせる言葉よ。つまり、語同士、節同士みたいな組み合わせじゃないといけないってわけ。"
+    m 1esd "等位接続詞は、同じ「ランク」の2つの語とか節とか、句とかをつなぎ合わせる言葉よ。つまり、語同士、節同士みたいな組み合わせじゃないといけないってわけ"
 
 translate Japanese monika_gtod_tip003_9d9bcfb0:
-    m 3euc "一般的なものだと、 '{b}and（そして）{/b}' 、' {b}or（または）{/b}' 、 '{b}but（しかし）{/b}' 、 '{b}so（それで）{/b}' 、あとは '{b}yet（けれども）{/b}' とかがあるわね。"
+    m 3euc "一般的なものだと、 '{b}and（そして）{/b}' 、' {b}or（または）{/b}' 、 '{b}but（しかし）{/b}' 、 '{b}so（それで）{/b}' 、あとは '{b}yet（けれども）{/b}' とかがあるわね"
 
 translate Japanese monika_gtod_tip003_d0b53c4e:
     m 3eub "主節同士をつなげられるし、{i}それに{/i}（{i}and{/i}）コンマ・スプライスも避けられるわ！"
 
 translate Japanese monika_gtod_tip003_afde57de:
-    m 1esd "相関接続詞っていうのは、接続詞の組み合わせのことね。"
+    m 1esd "相関接続詞っていうのは、接続詞の組み合わせのことね"
 
 translate Japanese monika_gtod_tip003_3de0321e:
-    m 3euc "代表的なところは、{w=0.5} '{b}either{/b}/{b}or（…と…のどちらか）{/b}' や '{b}both{/b}/{b}and（…と…のどちらも）{/b}' 、 '{b}whether{/b}/{b}or（…と…のどちらであっても）{/b}' あたりかしら。"
+    m 3euc "代表的なところは、{w=0.5} '{b}either{/b}/{b}or（…と…のどちらか）{/b}' や '{b}both{/b}/{b}and（…と…のどちらも）{/b}' 、 '{b}whether{/b}/{b}or（…と…のどちらであっても）{/b}' あたりかしら"
 
 translate Japanese monika_gtod_tip003_9207a50b:
     m 3eub "気付いていて{i}も{/i}いなく{i}ても{/i}（{i}Whether{/i} you realize it {i}or{/i} not）、日常的に使っているものよ……こんな風にね！"
 
 translate Japanese monika_gtod_tip003_7ff84e9b:
-    m 1esd "最後に、従属接続詞についてだけれど、これは主節と従属節をつなぐ言葉を指すの。"
+    m 1esd "最後に、従属接続詞についてだけれど、これは主節と従属節をつなぐ言葉を指すの"
 
 translate Japanese monika_gtod_tip003_f82c4aeb:
-    m 3eub "想像したように、いろいろあるわ。"
+    m 3eub "想像したように、いろいろあるわ"
 
 translate Japanese monika_gtod_tip003_b588f215:
-    m 3euc "例えば、こんな感じ。{w=0.5} '{b}although（……ではあるけれど）{/b}' 、'{b}until（……するまで）{/b}' 、' {b}since（……であるから）{/b}' 、 '{b}while（……する間）{/b}' 、他には '{b}as long as（……する限り）{/b}' ね。"
+    m 3euc "例えば、こんな感じ。{w=0.5} '{b}although（……ではあるけれど）{/b}' 、'{b}until（……するまで）{/b}' 、' {b}since（……であるから）{/b}' 、 '{b}while（……する間）{/b}' 、他には '{b}as long as（……する限り）{/b}' ね"
 
 translate Japanese monika_gtod_tip003_426a0c7b:
     m 3eub "とてもたくさんある{i}から{/i}（{i}Since{/i} there are so many）、この接続詞のカテゴリーは一番広いの！"
 
 translate Japanese monika_gtod_tip003_fe33df71:
-    m 3tsd "あ、それともう一つ……{w=0.5}よくある誤解に、接続詞で文を始めてはいけない、っていうのがあるの。"
+    m 3tsd "あ、それともう一つ……{w=0.5}よくある誤解に、接続詞で文を始めてはいけない、っていうのがあるの"
 
 translate Japanese monika_gtod_tip003_04da8314:
     m 3hub "さっきの最後2つの例で見せたように、絶対できるのよ、アハハ！"
 
 translate Japanese monika_gtod_tip003_509682de:
-    m 1rksdla "でも、公式な場ではやらないようにね。ちょっと威圧的に聞こえちゃうの。"
+    m 1rksdla "でも、公式な場ではやらないようにね。ちょっと威圧的に聞こえちゃうの"
 
 translate Japanese monika_gtod_tip003_4f8ac4f8:
-    m 1eub "今日はこんなところかしら、[player]君。"
+    m 1eub "今日はこんなところかしら、[player]君"
 
 translate Japanese monika_gtod_tip003_7566f426:
     m 3hub "ご清聴、ありがとうございました！"
@@ -199,31 +199,31 @@ translate Japanese monika_gtod_tip004_41a0edd1:
     m 1euc "セミコロンをコロンの代わりに使ってもいいと考える人もいれば、ピリオドとして扱う人もいるの……"
 
 translate Japanese monika_gtod_tip004_30fe1720:
-    m 1esd "節について話したときのことを思い出してほしいんだけど、セミコロンは実際のところ、2つの主節を繋いでいることを示すの。"
+    m 1esd "節について話したときのことを思い出してほしいんだけど、セミコロンは実際のところ、2つの主節を繋いでいることを示すの"
 
 translate Japanese monika_gtod_tip004_29565698:
     m 3euc "例えば、 '{b}You're here.（あなたはここにいる。）{/b}' と '{b}I'm happy.（私は嬉しい。）{/b}' みたいな2文をまとめたいときは、こんな風に書けるわ……"
 
 translate Japanese monika_gtod_tip004_3a2c6f52:
-    m 3eud "{b}You're here; I'm happy.{/b}' とか '{b}You're here, and I'm happy.{/b}' とか、ほかにも '{b}You're here. I'm happy.{/b}' とかね。"
+    m 3eud "{b}You're here; I'm happy.{/b}' とか '{b}You're here, and I'm happy.{/b}' とか、ほかにも '{b}You're here. I'm happy.{/b}' とかね"
 
 translate Japanese monika_gtod_tip004_53d4afb0:
-    m 1eub "3文とも「あなたがここにいてくれて、私は嬉しい。」みたいな内容なんだけど、比較してみると、 '{b}You're here; I'm happy.{/b}' は2つの節を 'happy' でつないでいるわね。"
+    m 1eub "3文とも「あなたがここにいてくれて、私は嬉しい。」みたいな内容なんだけど、比較してみると、 '{b}You're here; I'm happy.{/b}' は2つの節を 'happy' でつないでいるわね"
 
 translate Japanese monika_gtod_tip004_977aae40:
-    m 1esa "結局はいつだって接続したい言葉によるけれど、トーマスはコンマやピリオドを使うよりもうまく表していると思うわ。"
+    m 1esa "結局はいつだって接続したい言葉によるけれど、トーマスはコンマやピリオドを使うよりもうまく表していると思うわ"
 
 translate Japanese monika_gtod_tip004_139c8635:
     m 1eud "完全に違う文に分けるピリオドとも、同じ文にさらなる要素があることを示すコンマとも違う……"
 
 translate Japanese monika_gtod_tip004_16d6f0d8:
-    m 3eub "セミコロンは実際にはその中間、トーマスが言うところの '{i}a place where you can expect to sit for a moment and catch your breath（息を整えるために、しばらく座っていそうなところ）{/i}' ね。"
+    m 3eub "セミコロンは実際にはその中間、トーマスが言うところの '{i}a place where you can expect to sit for a moment and catch your breath（息を整えるために、しばらく座っていそうなところ）{/i}' ね"
 
 translate Japanese monika_gtod_tip004_1c980485:
     m 1esa "少なくとも、これでほかの選択肢ができたわ；うまくいけば、文章を書くときにうまくセミコロンを使えるわ……"
 
 translate Japanese monika_gtod_tip004_d6e406aa:
-    m 1hua "えへへ。"
+    m 1hua "えへへ"
 
 translate Japanese monika_gtod_tip004_6cd357ef:
     m 1eub "さて、今日はここまでにしましょうか、[player]君。"
@@ -232,7 +232,7 @@ translate Japanese monika_gtod_tip004_7566f426:
     m 3hub "ご清聴、ありがとうございました！"
 
 translate Japanese monika_gtod_tip005_75522dfe:
-    m 1eua "今日は主語と目的語についてお話するわ、[player]君。"
+    m 1eua "今日は主語と目的語についてお話するわ、[player]君"
 
 translate Japanese monika_gtod_tip005_0657058c:
     m 1eud "動詞なんかを含む節について話したときのこと、覚えてる？"
@@ -241,22 +241,22 @@ translate Japanese monika_gtod_tip005_37eef0be:
     m 3eub "目的語は、主語が行動する相手に相当する人物や物体のことよ！"
 
 translate Japanese monika_gtod_tip005_1c3ad591:
-    m 1eua "つまり、 '{b}We watched the fireworks together.（花火を一緒に見た。）{/b}' という文だと、目的語は……{w=0.5} '{b}fireworks（花火）{/b}' になるわね。"
+    m 1eua "つまり、 '{b}We watched the fireworks together.（花火を一緒に見た。）{/b}' という文だと、目的語は……{w=0.5} '{b}fireworks（花火）{/b}' になるわね"
 
 translate Japanese monika_gtod_tip005_e8437802:
     m 3esd "そうそう、ここで注意したいのは、目的語は完全文を作るのに必要、というわけではない点ね……"
 
 translate Japanese monika_gtod_tip005_e050720d:
-    m 1eua "{b}We watched.（私たちは見た。）{/b}' という文でも十分だったはずよ。"
+    m 1eua "{b}We watched.（私たちは見た。）{/b}' という文でも十分だったはずよ"
 
 translate Japanese monika_gtod_tip005_c1706c03:
     m 3hksdlb "たしかに完全文よね……あいまいだけど、アハハ！"
 
 translate Japanese monika_gtod_tip005_089c18e9:
-    m 1eud "それと、目的語は文末に来なくちゃいけない、ってわけじゃないけど、これについてはまた今度にしましょうか。"
+    m 1eud "それと、目的語は文末に来なくちゃいけない、ってわけじゃないけど、これについてはまた今度にしましょうか"
 
 translate Japanese monika_gtod_tip005_701c3d0d:
-    m 3esa "主語が行動をしていて、目的語が行動の対象であることを覚えておいてね。"
+    m 3esa "主語が行動をしていて、目的語が行動の対象であることを覚えておいてね"
 
 translate Japanese monika_gtod_tip005_469c14cb:
     m 1eub "さて、今日はここまで……"
@@ -355,52 +355,52 @@ translate Japanese monika_gtod_tip007_7566f426:
     m 3hub "ご清聴、ありがとうございました！"
 
 translate Japanese monika_gtod_tip008_c75d9b1e:
-    m 1eua "前回、 '{b}who{/b}' と '{b}whom{/b}' の違いについて話したわね。"
+    m 1eua "前回、 '{b}who{/b}' と '{b}whom{/b}' の違いについて話したわね"
 
 translate Japanese monika_gtod_tip008_c5d8852a:
-    m 1esd "他にも、「……と私」と言うときに使う '{b}and I{/b}' と '{b}and me{/b}' っていう紛らわしいフレーズがあるの。"
+    m 1esd "他にも、「……と私」と言うときに使う '{b}and I{/b}' と '{b}and me{/b}' っていう紛らわしいフレーズがあるの"
 
 translate Japanese monika_gtod_tip008_8f97b260:
-    m 3etc "「私は[player]君とデートに行った。」と言いたいとき、正解は '{b}[player] and I went on a date.{/b}' なのか '{b}[player] and me went on a date.{/b}' のどちらなのか、ってことね。"
+    m 3etc "「私は[player]君とデートに行った。」と言いたいとき、正解は '{b}[player] and I went on a date.{/b}' なのか '{b}[player] and me went on a date.{/b}' のどちらなのか、ってことね"
 
 translate Japanese monika_gtod_tip008_9f5daca5:
-    m 3eud "{b}who{/b}' と '{b}whom{/b}' のときと同様に、結局は主語と目的語の問題なの。"
+    m 3eud "{b}who{/b}' と '{b}whom{/b}' のときと同様に、結局は主語と目的語の問題なの"
 
 translate Japanese monika_gtod_tip008_c6aeaa47:
-    m 1esd "話し手が文の主語であれば、 '{b}and I{/b}' が正解。"
+    m 1esd "話し手が文の主語であれば、 '{b}and I{/b}' が正解"
 
 translate Japanese monika_gtod_tip008_0e297d78:
-    m 1euc "逆に、話し手が文の目的語であれば、 '{b}and me{/b}' が正解よ。"
+    m 1euc "逆に、話し手が文の目的語であれば、 '{b}and me{/b}' が正解よ"
 
 translate Japanese monika_gtod_tip008_a0fefe9d:
     m 3eub "幸いなことに、 '{b}who{/b}' と '{b}whom{/b}' について話したときと同じように、どちらが正解かを知る簡単な方法があるの！"
 
 translate Japanese monika_gtod_tip008_04617b10:
-    m 1euc "さっきの例だと、文の中から '{b}[player] and{/b}' を取り出しても、片方は意味が通じるはずよ。"
+    m 1euc "さっきの例だと、文の中から '{b}[player] and{/b}' を取り出しても、片方は意味が通じるはずよ"
 
 translate Japanese monika_gtod_tip008_41948f3e:
     m 1hua "やってみましょうか！"
 
 translate Japanese monika_gtod_tip008_dc037b2d:
-    m 3eud "結果はこうなるわ。{w=0.5} '{b}I went on a date.{/b}' と '{b}Me went on a date.{/b}' 。"
+    m 3eud "結果はこうなるわ。{w=0.5} '{b}I went on a date.{/b}' と '{b}Me went on a date.{/b}' "
 
 translate Japanese monika_gtod_tip008_6cdea02b:
-    m 3eub "明らかに1つ目の方しか意味が通じないから、正解は '{b}[player] and I went on a date.{/b}' ね。"
+    m 3eub "明らかに1つ目の方しか意味が通じないから、正解は '{b}[player] and I went on a date.{/b}' ね"
 
 translate Japanese monika_gtod_tip008_8483b60f:
     m 1tuu "あ、ごめんね、[player]君……{w=1} '{b}I went on a date.（デートに行った。）{/b}' としか言わなかったとき、何か抜けてる気がした？"
 
 translate Japanese monika_gtod_tip008_7f7c7ece:
-    m 1hksdlb "アハハ！心配しないで、置いて行ったりは絶対にしないわよ。"
+    m 1hksdlb "アハハ！心配しないで、置いて行ったりは絶対にしないわよ"
 
 translate Japanese monika_gtod_tip008_07f907be:
-    m 3eub "さて、反対に、私、つまりは語り手が文の目的語だったときには、 '{b}and me{/b}' を使う必要があるの。"
+    m 3eub "さて、反対に、私、つまりは語り手が文の目的語だったときには、 '{b}and me{/b}' を使う必要があるの"
 
 translate Japanese monika_gtod_tip008_1df1bf5e:
     m 3eua "例えば、こんな感じにね。{w=0.5} '{b}Natsuki asked [player] and me if we liked her cupcakes.（ナツキは[player]君と私に、自分のカップケーキが好きか尋ねた。）{/b}'"
 
 translate Japanese monika_gtod_tip008_d6d11850:
-    m 1eub "今度似た状況に出くわしたとき、[player]君のお役に立てたら嬉しいな。"
+    m 1eub "今度似た状況に出くわしたとき、[player]君のお役に立てたら嬉しいな"
 
 translate Japanese monika_gtod_tip008_564ab8cf:
     m 3hub "とにかく、今日はここまで。ご清聴、ありがとうございました！"

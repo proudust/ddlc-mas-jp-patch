@@ -443,7 +443,7 @@ translate Japanese mas_song_my_silver_lining_analysis_a3d0e3f0:
     m 3rksdla "考えてみると、その考え方って実存主義的ニヒリズムに近いんじゃないかな？"
 
 translate Japanese mas_song_my_silver_lining_analysis_ae249e04:
-    m 3eud "ほら、生きることは本当にばかげているというニヒリズム的な考えの中で、私たちができる唯一のことは……{w=0.3}{nw}"
+    m 3eud "ほら、生きることは本当にばかげているというニヒリズム的な考えの中で、私たちができる唯一のことは…… {w=0.3}{nw}"
 
 translate Japanese mas_song_my_silver_lining_analysis_06c6ac85:
     extend 3eksdla "『keep on keeping on』、ただ続けていくことだけなんだから"
