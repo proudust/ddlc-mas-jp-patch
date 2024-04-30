@@ -159,7 +159,7 @@ translate Japanese strings:
     new "ステキだね！"
 
     old "Just like autumn leaves..."
-    new "まるで紅葉みたいだね......"
+    new "まるで紅葉みたいだね……"
 
     old "Ribbon (Pink)"
     new "リボン（ピンク）"

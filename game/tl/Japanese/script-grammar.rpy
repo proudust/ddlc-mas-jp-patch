@@ -56,10 +56,10 @@ translate Japanese monika_gtod_tip002_e5cdb645:
     m 1eua "節の話をしたときのことを覚えてる、[player]君？"
 
 translate Japanese monika_gtod_tip002_c58a1154:
-    m 1eud "実は、多くのひとが文章を書いているときに陥りがちなミスがあるの。"
+    m 1eud "実は、多くのひとが文章を書いているときに陥りがちなミスがあるの"
 
 translate Japanese monika_gtod_tip002_60f390db:
-    m 3esc "コンマ（,）を使って2つ以上の主節を1つの文につなぐことを、コンマ・スプライス、つまりコンマの誤用っていうの。"
+    m 3esc "コンマ（,）を使って2つ以上の主節を1つの文につなぐことを、コンマ・スプライス、つまりコンマの誤用っていうの"
 
 translate Japanese monika_gtod_tip002_06ce347c:
     m 3esa "例えば、こういう場合。{w=0.5} '{b}I visited the park, I looked at the sky, I saw many stars.（公園に行って、空を見上げて、星がたくさん見えた。）{/b}' "

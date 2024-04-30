@@ -996,7 +996,7 @@ translate Japanese mas_song_on_the_front_porch_55343719:
     m 5hkblb "ごめんねちょっと感傷的になっちゃったかな、あはは！"
 
 translate Japanese mas_song_on_the_front_porch_80b357fe:
-    m 5rka "でも、それで本当に責められるの?"
+    m 5rka "でも、それで本当に責められるの？"
 
 translate Japanese mas_song_on_the_front_porch_cfd8d187:
     m 5eka "結局のところ、一緒にそういうことができるってことは…… {w=0.3}{nw}"
