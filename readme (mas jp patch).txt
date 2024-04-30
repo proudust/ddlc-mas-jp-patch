@@ -1,4 +1,4 @@
-DDLC Monika After Story 日本語化サブMOD (23/11/27)
+DDLC Monika After Story 日本語化サブMOD (24/04/30)
 ------------------------------------------------------------
 
 
@@ -75,6 +75,10 @@ https://github.com/proudust/ddlc-mas-jp-patch
 
 
 更新履歴：
+240430
+・翻訳の更新 (2024/04/30 18:55:45 までの変更を反映)
+・話題 "Dealing with haters" で一部翻訳が反映されない不具合を修正
+
 231127
 ・Monika After Story を v0.12.15 にアップデート
 ・翻訳の更新 (2023/11/26 17:13:56 までの変更を反映)
