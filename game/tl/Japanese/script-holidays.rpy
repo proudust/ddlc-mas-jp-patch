@@ -368,7 +368,7 @@ translate Japanese greeting_o31_hatana_2b_ed2b7647:
     m 7rtu "ねえ[player]、前に伝えたことがあるかな、あなたが私の心を落ち着かせてくれるって"
 
 translate Japanese greeting_o31_hatana_2b_de9ba474:
-    m 3euu "えっとね、そのことをあなたに知ってほしかったの。{w=0.2}{nw}"
+    m 3euu "えっとね、そのことをあなたに知ってほしかったの{w=0.2}{nw}"
 
 translate Japanese greeting_o31_hatana_2b_39fa8dce:
     extend 3tuu "そしてあなたの記憶から消えてしまわないように願ってる"

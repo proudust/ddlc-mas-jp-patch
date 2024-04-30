@@ -35,7 +35,7 @@ translate Japanese monika_gtod_tip001_172bf38d:
     m 1euc "ほとんどの場合、節は主節と従属節に分けることが出来るわ"
 
 translate Japanese monika_gtod_tip001_bf730d17:
-    m 1esd "主節は、'{b}I wrote that.（私はそれを書いた。）{/b}' みたいに、その節だけで文を構成することができるの"
+    m 1esd "主節は、'{b}I wrote that.（私はそれを書いた。）{/b}' みたいに、その節だけで文を構成することが出来るの"
 
 translate Japanese monika_gtod_tip001_6b8ceb9e:
     m 3euc "反対に、従属節はそれ単体では文にできなくて、大抵は長い文の一部に出てくるわね"

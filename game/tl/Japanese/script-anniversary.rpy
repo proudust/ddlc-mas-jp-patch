@@ -1,23 +1,23 @@
 translate Japanese anni_1week_2bbd0892:
-    m 1eka "付き合って１週間記念ってちょっとバカみたいな気もするけど、でも[player]君と一緒にいられて本当にうれしいんだ。"
+    m 1eka "付き合って１週間記念ってちょっとバカみたいな気もするけど、でも[player]君と一緒にいられて本当にうれしいんだ"
 
 translate Japanese anni_1week_17c7428e:
     m 1ekc "１週間もたずに別れるカップルも多いじゃない？"
 
 translate Japanese anni_1week_9c9f0ada:
-    m 1lksdlc "ひとめぼれはよくあることだけど、そこからお互いの絆を深めていくのはけっこう難しいんじゃないかな。"
+    m 1lksdlc "ひとめぼれはよくあることだけど、そこからお互いの絆を深めていくのはけっこう難しいんじゃないかな"
 
 translate Japanese anni_1week_b3fa21df:
-    m 1ekd "まだその時じゃないのに、相手に対して強く出てしまう……それで二人の関係が壊れてしまうことはよくあるよね。"
+    m 1ekd "まだその時じゃないのに、相手に対して強く出てしまう……それで二人の関係が壊れてしまうことはよくあるよね"
 
 translate Japanese anni_1week_0170651b:
-    m "たぶん、二人はお互いをもっと知ることができずに終わる可能性が高いでしょうね。"
+    m "たぶん、二人はお互いをもっと知ることが出来ずに終わる可能性が高いでしょうね"
 
 translate Japanese anni_1week_322f1109:
     m 1dsc "カップルの破局を見るのはいつも悲しいよね……"
 
 translate Japanese anni_1week_8ea51ada:
-    m 1duu "でも、[player]君と私は固い絆で結ばれているからうれしい。"
+    m 1duu "でも、[player]君と私は固い絆で結ばれているからうれしい"
 
 translate Japanese anni_1week_80068815:
     m 5lubfb "どうしてわかるのかって？"

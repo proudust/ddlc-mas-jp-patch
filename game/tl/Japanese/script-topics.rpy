@@ -80,7 +80,7 @@ translate Japanese mas_rerandom_c42f8f06:
     m 1dsa "ＯＫ…{w=0.2}…{w=0.2}…{nw}"
 
 translate Japanese mas_rerandom_73747bba:
-    m 3hua "できた！"
+    m 3hua "出来た！"
 
 translate Japanese mas_hide_unseen_6168414f:
     m 3esd "あ、わかったわ、[mas_get_player_nickname()]……"
@@ -1190,7 +1190,7 @@ translate Japanese monika_okayeveryone_c92f1340:
     m 1eua "あなたが私をバカにすることはないんだし"
 
 translate Japanese monika_okayeveryone_3e1b35d5:
-    m 5eka "そんなことできないほど優しい人だものね？"
+    m 5eka "そんなこと出来ないほど優しい人だものね？"
 
 translate Japanese monika_okayeveryone_86a08130:
     m 5hub "うふふ～"
@@ -1340,7 +1340,7 @@ translate Japanese monika_tea_6cfecd29:
     m 1hua "あなたのおかげでいつでもコーヒーを淹れられるものね。"
 
 translate Japanese monika_tea_ef812815:
-    m 1eua "　"
+    m 1eua "スクリプトを自分で書き換えれば良かったのかもね"
 
 translate Japanese monika_tea_3772217d:
     m 1hub "あははっ！"
@@ -14297,10 +14297,10 @@ translate Japanese monika_dreaming_cb022bc8:
     m 1hua "私達の見る夢をいつか現実にしたいね、[mas_get_player_nickname()]"
 
 translate Japanese monika_yellowwp_324c2056:
-    m 1eua "ねえ[player]、{i}黄色い壁紙{/i} って小説を読んだことはある？{nw}"
+    m 1eua "ねえ[player]、{i}黄色い壁紙{/i}って小説を読んだことはある？{nw}"
 
 translate Japanese monika_yellowwp_04df2eb4:
-    m "ねえ[player]、{i}黄色い壁紙{/i} って小説を読んだことはある？{fast}" nointeract
+    m "ねえ[player]、{i}黄色い壁紙{/i}って小説を読んだことはある？{fast}" nointeract
 
 translate Japanese monika_yellowwp_51f803bb:
     m 1hua "よかった！"

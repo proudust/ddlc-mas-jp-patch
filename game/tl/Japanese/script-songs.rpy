@@ -1014,16 +1014,16 @@ translate Japanese mas_monika_plays_yr_b9c79931:
     m 2hub "終わり方はあんまり好きじゃないけど、でも喜んで歌ってあげる！"
 
 translate Japanese mas_monika_plays_yr_fa642de6:
-    m 2eua "ピアノを準備するわね…{w=0.5}…{w=0.5}…{nw}"
+    m 2eua "ピアノを準備するわね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_monika_plays_yr_d7d7d567:
-    m 3eua "もちろんよ、ピアノを準備するわね…{w=0.5}…{w=0.5}…{nw}"
+    m 3eua "もちろんよ、ピアノを準備するわね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_monika_plays_yr_aab38e54:
     m 6hua "ゲームの音量は大丈夫、[player]？"
 
 translate Japanese mas_monika_plays_or_d7d7d567:
-    m 3eua "もちろんよ、ピアノを準備するわね…{w=0.5}…{w=0.5}…{nw}"
+    m 3eua "もちろんよ、ピアノを準備するわね…{w=0.5}…{w=0.5}{nw}"
 
 translate Japanese mas_monika_plays_or_aab38e54:
     m 6hua "ゲームの音量は大丈夫、[player]？"

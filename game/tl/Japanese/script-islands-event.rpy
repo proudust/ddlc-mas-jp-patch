@@ -536,7 +536,7 @@ translate Japanese mas_island_bloodfall_09ad6983:
     m "島の滝がとても気に入ってるの。逆さに水が落ちていくのはかなりシュールで好きなのよね"
 
 translate Japanese mas_island_bloodfall_919a0b57:
-    m "私が本当にしなければならなかったのは、水の値を #641F21 にすることで---{nw}"
+    m "私が本当にしなければならなかったのは、水の値を #641F21 にすることで——{nw}"
 
 translate Japanese mas_island_bloodfall_262bc979:
     m "待って、あなたにかけられた魔法を解きたくないの！{w=0.2}今言ったことは忘れてね！"

@@ -1013,7 +1013,7 @@ translate Japanese greeting_found_nou_shirt_bf1afb14:
     m "あのね、どうやって私に気づかれずにこの衣装をクローゼットに仕込んだのかわからないんだけど……{fast}" nointeract
 
 translate Japanese greeting_found_nou_shirt_post_menu_18044962:
-    m 1ekbla "ありがとう、 [player]"
+    m 1ekbla "ありがとう、[player]"
 
 translate Japanese greeting_found_nou_shirt_post_menu_33745642:
     m 1tfu "でも、プレゼントをくれてもゲームで手加減はしないからね～"
