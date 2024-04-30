@@ -1172,8 +1172,7 @@ translate Japanese mas_mood_grateful_3a77baa3:
     m 3eua "あっ、つまり、ただ今の人生に幸せを感じている、ってことかな？"
 
 translate Japanese mas_mood_grateful_64444b2f:
-    m 1eud "過去を振り返って満足感を噛みしめられるのって素晴らしいことだよね
-"
+    m 1eud "過去を振り返って満足感を噛みしめられるのって素晴らしいことだよね"
 
 translate Japanese mas_mood_grateful_307867de:
     m 1rtd "うーん…… {w=0.2}いま考えてみるとさ、{w=0.1}{nw}"
@@ -1231,8 +1230,7 @@ translate Japanese mas_mood_loved_94541648:
 "
 
 translate Japanese mas_mood_loved_cd4e1b5f:
-    extend 1ekbsu "そしてあなたが毎日愛を感じられるように私も最善を尽くすよ
-、[mas_get_player_nickname()]～"
+    extend 1ekbsu "そしてあなたが毎日愛を感じられるように私も最善を尽くすよ、[mas_get_player_nickname()]～"
 
 translate Japanese mas_mood_guilty_99c74b8b:
     m 2wkd "[player]！"

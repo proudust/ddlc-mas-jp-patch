@@ -69,7 +69,7 @@ translate Japanese monika_change_nou_house_rules_menu_loop_5b31beae:
     m 3esa "たとえば、１ゲームをより長くしたい場合には、初手を10枚にするといいよ"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_bd15364d:
-    m 1eua "ドローの累積は、ドロー２をドロー２で返すたびに数字が溜まっていくルールで…… {w=0.3}{nw}"
+    m 1eua "ドローの累積は、ドロー２をドロー２で返すたびに数字が溜まっていくルールで……{w=0.3}{nw}"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_d40ce0dd:
     extend 4tsb "ドローを返せなかった最後の不幸な人に、溜まった数字分だけカードを引かせるよ"
@@ -90,8 +90,7 @@ translate Japanese monika_change_nou_house_rules_menu_loop_55e6a42e:
     extend 3eua "だからワイルドドロー４の制限をなくすルールにも変更できるよ"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_9bd084e3:
-    m 1eud "カオスルールは選ぶと{w=0.2}{nw}
-"
+    m 1eud "カオスルールは選ぶと{w=0.2}{nw}"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_e5ace509:
     extend 1tsu "ご想像の通り…… {w=0.3}{nw}"
@@ -181,8 +180,7 @@ translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_0ec1
     m 7eka "少なくても4枚で始めたほうがいいと思うよ{nw}"
 
 translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_2bd57ef7:
-    m "少なくても4枚で始めたほうがいいと思うよ{fast}
-" nointeract
+    m "少なくても4枚で始めたほうがいいと思うよ{fast}" nointeract
 
 translate Japanese monika_change_nou_house_rules_change_starting_cards_loop_241dfc57:
     m 3eua "じゃあもう一度設定してね"
@@ -320,7 +318,7 @@ translate Japanese mas_nou_game_start_eaa2f6e6:
     m 1hua "ゲームをやめたい？"
 
 translate Japanese mas_nou_game_start_ebded532:
-    m 3eua "じゃあちょっとスコアをつけさせてね{w=0.2}…{w=0.2}…{w=0.2} {nw}"
+    m 3eua "じゃあちょっとスコアをつけさせてね{w=0.2}…{w=0.2}…{w=0.2}{nw}"
 
 translate Japanese mas_nou_game_start_a785a615:
     m 1eub "カードを配らせてね～"
@@ -434,7 +432,7 @@ translate Japanese mas_nou_reaction_player_wins_round_ffa18286:
     m 1hua "勝つと思ってたよ～"
 
 translate Japanese mas_nou_reaction_player_wins_round_c7ffb5e6:
-    m 3hub "えへへ～　おめでとう！"
+    m 3hub "えへへ～ おめでとう！"
 
 translate Japanese mas_nou_reaction_player_wins_round_d6dd2e21:
     m 1tuu "運が戻ってきたね～"
@@ -533,7 +531,7 @@ translate Japanese mas_nou_reaction_player_wins_round_432d1f96:
     m 1kuu "白熱した試合だったね"
 
 translate Japanese mas_nou_reaction_player_wins_round_38ab750d:
-    m 1hua "えへへ～ {w=0.3}{nw}"
+    m 1hua "えへへ～{w=0.3}{nw}"
 
 translate Japanese mas_nou_reaction_player_wins_round_17812918:
     extend 1eub "本当に上手だね！"
@@ -560,7 +558,7 @@ translate Japanese mas_nou_reaction_player_wins_round_8959364b:
     m 3hub "おめでとう、[player]！"
 
 translate Japanese mas_nou_reaction_player_wins_game_96573da8:
-    m 1eud "あっ！ {w=0.2}{nw}"
+    m 1eud "あっ！{w=0.2}{nw}"
 
 translate Japanese mas_nou_reaction_player_wins_game_1130311b:
     extend 3eub "負けちゃったね！"
@@ -578,14 +576,13 @@ translate Japanese mas_nou_reaction_player_wins_game_0440478f:
     m 1hua "おめでとう！ えへへ～"
 
 translate Japanese mas_nou_reaction_player_wins_game_d2e8503b:
-    m 1rsc "ちょっと待ってね…{w=0.2}…{w=0.2} {w=0.2}{nw}"
+    m 1rsc "ちょっと待ってね…{w=0.2}…{w=0.2}{w=0.2}{nw}"
 
 translate Japanese mas_nou_reaction_player_wins_game_a524d9a1:
     m 4eub "あ、[player]！ あなたの勝ちだよ！"
 
 translate Japanese mas_nou_reaction_player_wins_game_3a8a38ca:
-    m 1hub "近くにいたらお祝いにハグしてあげるのにな〜
-"
+    m 1hub "近くにいたらお祝いにハグしてあげるのにな〜"
 
 translate Japanese mas_nou_reaction_player_wins_game_19428ff1:
     m 1hua "えへへ～"
@@ -771,8 +768,7 @@ translate Japanese mas_nou_reaction_monika_wins_game_b0e8b3f4:
     m 3hua "たくさんやれば、きっと勝てるようになるはずだよ"
 
 translate Japanese mas_nou_reaction_monika_wins_game_dcf223be:
-    m 3hua "次は勝てるかもよ～
-"
+    m 3hua "次は勝てるかもよ～"
 
 translate Japanese mas_nou_reaction_monika_wins_game_acebea6b:
     m 2wub "今回のゲームは私の勝ち！"
@@ -796,7 +792,7 @@ translate Japanese mas_nou_reaction_player_surrenders_7932cd04:
     m 1eka "でも、次は最後まで付き合ってね？{w=0.4}約束だよ〜？"
 
 translate Japanese mas_nou_reaction_player_surrenders_8fb6ffb1:
-    m 1ekc "[player]…… {w=0.3}{nw}"
+    m 1ekc "[player]……{w=0.3}{nw}"
 
 translate Japanese mas_nou_reaction_player_surrenders_6044019b:
     extend 1eksdld "さっきからずっと降参し続けてるよね……？"

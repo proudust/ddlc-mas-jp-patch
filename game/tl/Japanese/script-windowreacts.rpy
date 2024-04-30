@@ -54,7 +54,7 @@ translate Japanese strings:
     new "何か面白いことでもないかしら？ [player]君"
 
     old "280 characters? I only need [temp_len]...\n[temp_line]"
-    new "280文字以内？ 私には[temp_len]文字だけで十分だよ…… \n[temp_line]"
+    new "280文字以内？ 私には[temp_len]文字だけで十分だよ……\n[temp_line]"
 
     old "So this is the place where it all started, huh?\nIt's...really quite something."
     new "ここがすべての始まりの場所、だよね？\n本当に……すごいところよね"
