@@ -1119,7 +1119,7 @@ translate Japanese mas_story_knock_859f11f7:
     m 3eua "地球最後の人類となった男の名はウォルター・フェラン。{w=0.2}彼のそばにいるのはただ一人、ザンと呼ばれる星の者だった"
 
 translate Japanese mas_story_knock_cdcfc46f:
-    m 3eud "ウォルターを除いて、人類はザン星人によって滅ぼされたのだ。そしてどこかにもうひとり……{w=0.3}{nw}"
+    m 3eud "ウォルターを除いて、人類はザン星人によって滅ぼされたのだ。そしてどこかにもうひとり…… {w=0.3}{nw}"
 
 translate Japanese mas_story_knock_34f62610:
     extend 3wud "ひとりだけ、{w=0.1}女が生き残っていた"
@@ -2348,7 +2348,7 @@ translate Japanese mas_scary_story_prison_escape_f9da0876:
     m 3euc "棺の中の空気は日暮れまでは保つ。夕闇に紛れて戻ってきた看守が棺を掘り起こせば、晴れて女は自由の身という計画だ"
 
 translate Japanese mas_scary_story_prison_escape_d4cb2032:
-    m 2eksdlc "看守はこの計画には消極的だった{w=0.1}{nw}"
+    m 2eksdlc "看守はこの計画には消極的だった。{w=0.1}{nw}"
 
 translate Japanese mas_scary_story_prison_escape_a85fbf5f:
     extend 4esa "だが彼は女と良い仲になってから長い。彼はしぶしぶ計画に手を貸すことにした"

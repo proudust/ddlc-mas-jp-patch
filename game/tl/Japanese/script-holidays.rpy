@@ -395,7 +395,7 @@ translate Japanese greeting_o31_deco_a0930c3b:
     m 3tub "まあ、一番不気味な飾りは時々びっくりするほど怖くなっちゃうけど……"
 
 translate Japanese greeting_o31_deco_36c8a86e:
-    m 1eua "蜘蛛の巣もいい感じにできたと思うんだよね"
+    m 1eua "蜘蛛の巣もいい感じに出来たと思うんだよね"
 
 translate Japanese greeting_o31_deco_aa680ddb:
     m 1rka "{cps=*2}エイミーも気に入ってくれるに違いないわ{/cps}{nw}"

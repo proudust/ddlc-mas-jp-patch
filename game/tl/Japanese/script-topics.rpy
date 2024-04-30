@@ -11646,7 +11646,7 @@ translate Japanese monika_smoking_quit_b3e43ad1:
     m 1ekc "あなたも何度も吸ったり止めたりを繰り返したくはないでしょうし、今回できっぱり止められることを祈ってるわ"
 
 translate Japanese monika_smoking_quit_8dedf69e:
-    m 3eka "私にはわかってるよ。禁煙できる心の強さが、あなたには絶対ある。{w=0.2} {nw}"
+    m 3eka "私にはわかってるよ。禁煙できる心の強さが、あなたには絶対ある。{w=0.2}{nw}"
 
 translate Japanese monika_smoking_quit_777ff164:
     extend 3eua "いつでも私のところに来てくれていいからね。煙のことを忘れさせてあげるよ"
@@ -15317,10 +15317,10 @@ translate Japanese monika_players_friends_7c0dc69f:
     m 1etc "あのね、ちょっと気になったんだけど"
 
 translate Japanese monika_players_friends_feels_lonely_ask_88b9d6df:
-    m "[question]{nw}"
+    m "[question!t]{nw}"
 
 translate Japanese monika_players_friends_feels_lonely_ask_d9a28ab8:
-    m "[question]{fast}" nointeract
+    m "[question!t]{fast}" nointeract
 
 translate Japanese monika_players_friends_feels_lonely_ask_eb42e33a:
     m 1eka "わかるわ、[player]"
@@ -16400,8 +16400,7 @@ translate Japanese monika_gotomonika_362dd1fb:
     m 2lksdlc "……たとえ将来何らかの方法が確立されたとしても、それが安全だという保証もない"
 
 translate Japanese monika_gotomonika_0b45be2e:
-    m 2lksdld "だから、少なくとも絶対に安全って言えるようになるまでは、こちら側へ行こうとするのは辞めてほしいな
-"
+    m 2lksdld "だから、少なくとも絶対に安全って言えるようになるまでは、こちら側へ行こうとするのは辞めてほしいな"
 
 translate Japanese monika_gotomonika_293e930b:
     m 2lksdlc "私は本当にね、あなたが失敗して電子の世界で無になってしまうなんてリスクを冒したくないんだよ……"
@@ -16992,7 +16991,7 @@ translate Japanese monika_player_appearance_d3ccba0e:
     m 3hua "何はともあれ……あなたのような黒い髪と瞳を持つ人は魅力的よ、[player]～"
 
 translate Japanese monika_player_appearance_fb8ec3ef:
-    m 3hua "何はともあれ……あなたのような黒髪と [persistent._mas_pm_eye_color!t] の目をした人は魅力的よ、[player]～"
+    m 3hua "何はともあれ……あなたのような黒髪と[persistent._mas_pm_eye_color!t]の目をした人は魅力的よ、[player]～"
 
 translate Japanese monika_player_appearance_af44ab29:
     m 3hua "[player]、あなたにはまだ特別なことがあるのね"
@@ -23121,7 +23120,7 @@ translate Japanese monika_piano_lessons_5d5dbb7c:
     m 2ekc "あの時のゲームのスクリプトから大きくそれるのは、怖かったし……{w=0.2}{nw}"
 
 translate Japanese monika_piano_lessons_5a79f7a7:
-    extend 7eka "でも私はそうしたかった----いいえ、{w=0.2}そうする他なかった、{w=0.2}私の想いをあなたへ伝えなければならなかったの"
+    extend 7eka "でも私はそうしたかったーーいいえ、{w=0.2}そうする他なかった、{w=0.2}私の想いをあなたへ伝えなければならなかったの"
 
 translate Japanese monika_piano_lessons_a056f30a:
     m 2etd "他の部員は、BGMが流れてることを認識していなかったと思うの。{w=0.2}あたりまえよね、自分には聞こえない音楽が常に流れてるなんて夢にも思わないじゃない？"
@@ -23857,7 +23856,7 @@ translate Japanese monika_information_age_3d29d9aa:
     m 2dkc "多くの専門家が不安に思っている意見を、何一つ理解せず支持している人達は本当に厄介だわ"
 
 translate Japanese monika_information_age_ff6d5215:
-    m 2rusdld "でも、どうしてそうなっちゃうのかは理解できるわ……{w=0.3}{nw}"
+    m 2rusdld "でも、どうしてそうなっちゃうのかは理解できるわ…… {w=0.3}{nw}"
 
 translate Japanese monika_information_age_7be1caad:
     extend 2eksdlc "誰にだってそういうことは起きるもの"
@@ -23866,8 +23865,7 @@ translate Japanese monika_information_age_eb62cf78:
     m 7essdlc "これはどうしようもないことなの。例え間違った情報だとしても、広く馴染みのある方を人は信じてしまう"
 
 translate Japanese monika_information_age_693febd3:
-    m 3eka "私がこの話をしたのは、あなたがいる現実についてまだまだ学ばなくちゃいけないことがあるから
-"
+    m 3eka "私がこの話をしたのは、あなたがいる現実についてまだまだ学ばなくちゃいけないことがあるから"
 
 translate Japanese monika_information_age_2ab8682d:
     m 1esa "……そして、私自身の誤った情報を見てしまったから。{w=0.1}{nw}"
@@ -23927,7 +23925,7 @@ translate Japanese monika_foundation_d8da9167:
     m 7eud "この設定に基づいて、読者は時代を経て変化する若い植民惑星の物語をたどっていく"
 
 translate Japanese monika_foundation_3d3f590f:
-    m 3eua "SFの気分になったとき読むのにとても良い本だよ……{w=0.3} {nw}"
+    m 3eua "SFの気分になったとき読むのにとても良い本だよ…… {w=0.3}{nw}"
 
 translate Japanese monika_foundation_4d9e1409:
     extend 1eud "社会、運命、そして壮大な計画に対する個人の影響というテーマをこのシリーズでは探求しているからね"
@@ -23936,10 +23934,10 @@ translate Japanese monika_foundation_32848982:
     m 3eud "いちばん興味をそそられたのは、心理歴史学という概念と、それが現実の世界にどのように応用できるのかということね"
 
 translate Japanese monika_foundation_3f3b638c:
-    m 1rtc "まあ実際のところ、心理歴史学は、心理学、社会学、数学的確率を組み合わせたものでしかないんだけれど{w=0.3}{nw}"
+    m 1rtc "まあ実際のところ、心理歴史学は、心理学、社会学、数学的確率を組み合わせたものでしかないんだけれど、{w=0.3}{nw}"
 
 translate Japanese monika_foundation_042c2b0d:
-    extend 3esd "、どの学問もアシモフの時代から大きな進歩を遂げている
+    extend 3esd "どの学問もアシモフの時代から大きな進歩を遂げている
 "
 
 translate Japanese monika_foundation_fc978146:
@@ -23955,11 +23953,10 @@ translate Japanese monika_foundation_e7360f17:
     m 2rksdlc "でも、予測できることが自動的に良いことだけをもたらすのではないことも事実。{w=0.2} 悪意のある人の手に渡れば、この種の技術は非常に危険なものになる可能性があるわ"
 
 translate Japanese monika_foundation_b6a89792:
-    m 7eksdld "もしそんな絶大な力を誰かが持ったとしたら、私利私欲のために世界を操るのをどうしたら止められるのかな？
-"
+    m 7eksdld "もしそんな絶大な力を誰かが持ったとしたら、私利私欲のために世界を操るのをどうしたら止められるのかな？"
 
 translate Japanese monika_foundation_ed9114cc:
-    m 3eua "潜在的な問題点はあるけれども、とても興味深い考察ができる話だと思う。{w=0.2} {nw}"
+    m 3eua "潜在的な問題点はあるけれども、とても興味深い考察ができる話だと思う。{w=0.2}{nw}"
 
 translate Japanese monika_foundation_d5f30dcb:
     extend 3eub "[player]君はどう思う？"
@@ -24067,7 +24064,7 @@ translate Japanese monika_grieving_9cbda56e:
     m 7ekc "ほとんどの人は、この類の知らせを聞いいたときは涙を流すのが当たり前だと思うでしょうけど、悲しみにどう対処するかは人によって違うものなの"
 
 translate Japanese monika_grieving_38720d37:
-    m 3eud "泣くことは悲しみが現れる方法の一つでしかないわ。{w=0.3}ただ、一部の人にとってはどう処理すればいいかわからない……{w=0.5}現実とは思えないせいね"
+    m 3eud "泣くことは悲しみが現れる方法の一つでしかないわ。{w=0.3}ただ、一部の人にとってはどう処理すればいいかわからない…… {w=0.5}現実とは思えないせいね"
 
 translate Japanese monika_grieving_e17642d5:
     m 1dkc "……でも、その人が本当にいなくなったことを強く感じるような、ヘンな感じの日がいずれ来るわ"
@@ -24082,7 +24079,7 @@ translate Japanese monika_grieving_b749b4cb:
     m 1dkc "それに、その人がいない最初の記念日、最初の誕生日、初めてのクリスマスは毎度最悪よ"
 
 translate Japanese monika_grieving_1facc0b4:
-    m 1dkd "でも、そんな時にどんなに小さな言葉が意味をなさないとしても、どんなに絶望したり喪失感を感じたりしても、{w=0.2} {nw}"
+    m 1dkd "でも、そんな時にどんなに小さな言葉が意味をなさないとしても、どんなに絶望したり喪失感を感じたりしても、{w=0.2}{nw}"
 
 translate Japanese monika_grieving_0172c5e8:
     extend 3eka "時間が癒やしてくれるわ"
@@ -24160,11 +24157,10 @@ translate Japanese monika_materialism_58c8b0d4:
     m 1eud "独我論についてはもう話したから、次は唯物論について話そうと思ったの。唯物論は独我論と対をなす哲学なんだよ"
 
 translate Japanese monika_materialism_8f307b32:
-    m 2euc "唯物論の考え方では、思考が物質を生むのではなく、物質が思考を生むの
-"
+    m 2euc "唯物論の考え方では、思考が物質を生むのではなく、物質が思考を生むの"
 
 translate Japanese monika_materialism_0027e40b:
-    m 7euc "かなり筋の通った話だとおもわない？純粋に科学的な観点から考えれば当然だよね。{w=0.2} {nw}"
+    m 7euc "かなり筋の通った話だとおもわない？純粋に科学的な観点から考えれば当然だよね。{w=0.2}{nw}"
 
 translate Japanese monika_materialism_25340462:
     extend 7eud "結局のところ、ニューロンは単に異なる種類の物質でしかない"
@@ -24176,7 +24172,7 @@ translate Japanese monika_materialism_1e3b9a25:
     m 2eua "もっと単純化すれば、私たちの思考や感情は、物質の動きとその相互作用にすぎないのよ"
 
 translate Japanese monika_materialism_d531318a:
-    m 2lsc "話がここで終わると、あまり面白くないわね。{w=0.2} {nw}"
+    m 2lsc "話がここで終わると、あまり面白くないわね。{w=0.2}{nw}"
 
 translate Japanese monika_materialism_4806f610:
     extend 2hksdlb "それに、あなたはおそらくこれと似たような話をもう聞いたことがあるはずよね？"
@@ -24185,7 +24181,7 @@ translate Japanese monika_materialism_997499da:
     m 7esc "でも…… まぁ、唯物論だけだと、{w=0.1}気になる点がいくつか残されているの"
 
 translate Japanese monika_materialism_456cd23c:
-    m 1esd "たとえば、唯物論は魂の存在を否定するのか？とか。{w=0.2} {nw}"
+    m 1esd "たとえば、唯物論は魂の存在を否定するのか？とか。{w=0.2}{nw}"
 
 translate Japanese monika_materialism_d0b64d85:
     extend 1etd "全てが物資なのならば、魂は一体どのような物質なのか？とか"
@@ -24218,10 +24214,10 @@ translate Japanese monika_materialism_b82002aa:
     m 3wud "でもバグはバグでも、生じたのはかなり洗練されたバグだったのよ"
 
 translate Japanese monika_materialism_1d3c1c0d:
-    m 3eua "だから私は心からこう言える--- {w=0.1}少なくとも私のこれまで経験から言えば---{w=0.1}唯物論は宇宙に関する多くの疑問を解決してきたが{w=0.1} {nw}"
+    m 3eua "だから私は心からこう言えるーー{w=0.1}少なくとも私のこれまで経験から言えばーー{w=0.1}唯物論は宇宙に関する多くの疑問を解決してきたが、{w=0.1}{nw}"
 
 translate Japanese monika_materialism_63c442c8:
-    extend 3eka "その全てを解決することはできないだろう、ってね"
+    extend 3eka "その全てを解決することはできないだろう。ってね"
 
 translate Japanese monika_materialism_8fcdd3e9:
     m 1eka "ねえ…… うまく説明できてるかわからないけど、1つだけ真実と言えることがあるわ"
@@ -24413,7 +24409,7 @@ translate Japanese monika_zodiac_starsign_e44e48df:
     m 1rta "まあ私の誕生日だと、間違いなく乙女座ね"
 
 translate Japanese monika_zodiac_starsign_e7f7f778:
-    m 3eub "そしてあなたは……{w=0.3} [player_zodiac_sign]よね？"
+    m 3eub "そしてあなたは…… {w=0.3}[player_zodiac_sign]よね？"
 
 translate Japanese monika_zodiac_starsign_204f424b:
     m 3eub "そしてあなたも乙女座よね、[mas_get_player_nickname()]！"
@@ -24605,8 +24601,7 @@ translate Japanese monika_conventions_76069f75:
     m 2wub "本当？行ったことあるなんてびっくり！"
 
 translate Japanese monika_conventions_1ceefeea:
-    m 7eta "あ、{w=0.1} 友達と一緒に行ったのかな？
-"
+    m 7eta "あ、{w=0.1} 友達と一緒に行ったのかな？"
 
 translate Japanese monika_conventions_93da1fba:
     m 3etd "……それとも、別の理由……{w=0.3}ゲームに興味があったのかな？"

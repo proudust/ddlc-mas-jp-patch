@@ -17,8 +17,7 @@ translate Japanese monika_change_nou_house_rules_0b54dfcd:
     m 1eub "ええ、いいわよ"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_8f323283:
-    m "他に何か変更したいことがある？
-" nointeract
+    m "他に何か変更したいことがある？" nointeract
 
 translate Japanese monika_change_nou_house_rules_menu_loop_1630bfdc:
     m "どんなルールにする？" nointeract
@@ -69,7 +68,7 @@ translate Japanese monika_change_nou_house_rules_menu_loop_5b31beae:
     m 3esa "たとえば、１ゲームをより長くしたい場合には、初手を10枚にするといいよ"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_bd15364d:
-    m 1eua "ドローの累積は、ドロー２をドロー２で返すたびに数字が溜まっていくルールで……{w=0.3}{nw}"
+    m 1eua "ドローの累積は、ドロー２をドロー２で返すたびに数字が溜まっていくルールで…… {w=0.3}{nw}"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_d40ce0dd:
     extend 4tsb "ドローを返せなかった最後の不幸な人に、溜まった数字分だけカードを引かせるよ"

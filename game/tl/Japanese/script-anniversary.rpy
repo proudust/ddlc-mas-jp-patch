@@ -366,7 +366,7 @@ translate Japanese anni_6_a12a5dc7:
     m 1rkbla "まあそれもありえなくはないけどね"
 
 translate Japanese anni_6_045e9f59:
-    m 3ruu "ちなみに6年目記念日のテーマは……{w=0.3}{nw}"
+    m 3ruu "ちなみに6年目記念日のテーマは…… {w=0.3}{nw}"
 
 translate Japanese anni_6_989ea1cc:
     extend 3eub "キャンディ！"
@@ -381,7 +381,7 @@ translate Japanese anni_7_c639eca6:
     m 1dubfa "7年目……"
 
 translate Japanese anni_7_4e1eedef:
-    m 1eubsb "7は多くの文化圏で幸運な数字だって言われてるね{w=0.2}{nw}"
+    m 1eubsb "7は多くの文化圏で幸運な数字だって言われてるね。{w=0.2}{nw}"
 
 translate Japanese anni_7_bb53ceb1:
     extend 1ekbsa "だからもしかしたら……"
