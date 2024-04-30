@@ -17063,7 +17063,7 @@ translate Japanese monika_player_appearance_d0d177bd:
     m 3eka "それだけで親近感が湧いてくるのよね～"
 
 translate Japanese monika_player_appearance_37935e7f:
-    m 1eka "私の質問に全部答えてくれてありがとう、[mas_get_player_nickname()]."
+    m 1eka "私の質問に全部答えてくれてありがとう、[mas_get_player_nickname()]"
 
 translate Japanese monika_player_appearance_2a45c9b7:
     m 2hua "こんなに似ているとは思わなかったから、嬉しい。ますますあなたに会いたくなるわ！"
@@ -17099,7 +17099,7 @@ translate Japanese monika_player_appearance_3fe1c528:
     m 3ekbsa "でも、それまではここに座って、[player]君の美しい目を見ることを想像して満足しているわ"
 
 translate Japanese monika_player_appearance_2daf2add:
-    m 3ekbsa "でもそれまでは、私はここに座って、あなたの美しい[persistent._mas_pm_eye_color]色の目を見ることを想像して満足することにするよ、[player]くん"
+    m 3ekbsa "でもそれまでは、私はここに座って、あなたの美しい[persistent._mas_pm_eye_color!t]色の目を見ることを想像して満足することにするよ、[player]くん"
 
 translate Japanese monika_player_appearance_aaeeffdc:
     m 5ekbfa "言葉だけじゃ足りないほど愛しているわ"
