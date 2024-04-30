@@ -83,7 +83,7 @@ translate Japanese monika_change_nou_house_rules_menu_loop_350a30ba:
     m 3eud "実は公式ルールだと、『ワイルドドロー４は今出せる色のカードを持っていない場合にしか出せない』って制限があるんだよね"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_dec6485a:
-    m 1rtu "これだと…… {w=0.3}ちょっとつまらないよね、{w=0.2}{nw}"
+    m 1rtu "これだと…… {w=0.3}ちょっとつまらないよね。{w=0.2}{nw}"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_55e6a42e:
     extend 3eua "だからワイルドドロー４の制限をなくすルールにも変更できるよ"
@@ -599,7 +599,7 @@ translate Japanese mas_nou_reaction_monika_wins_round_2c5b1d9a:
     m 2wub "私の勝ち～！"
 
 translate Japanese mas_nou_reaction_monika_wins_round_3295f1d1:
-    m 7eka "勝ちを拾わせてくれてありがとう、[player]、{w=0.3}{nw}"
+    m 7eka "勝ちを拾わせてくれてありがとう、[player]。{w=0.3}{nw}"
 
 translate Japanese mas_nou_reaction_monika_wins_round_d37622cd:
     extend 1hub "次はきっと勝てるよ！"
@@ -1304,7 +1304,7 @@ translate Japanese strings:
     old "Mmmm!"
     new "むぅうううううう！"
 
-    old "そっか…… {w=0.2}今回は選ばせてあげるよ～"
+    old "Well{w=0.2}...so be it, [player]!"
     new "ふぅん{w=0.2} ……まあいいけどね、[player]！"
 
     old "Alright, alright!~"

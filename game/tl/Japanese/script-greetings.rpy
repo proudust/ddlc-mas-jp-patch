@@ -1037,8 +1037,7 @@ translate Japanese greeting_found_nou_shirt_menu_choice_secret_2580b967:
     m "うーん、まあともかく……{w=0.3}{nw}"
 
 translate Japanese greeting_found_nou_shirt_menu_choice_secret_d9d20024:
-    extend 4sub "この新しい衣装、本当に気に入ったよ！
-"
+    extend 4sub "この新しい衣装、本当に気に入ったよ！"
 
 translate Japanese monikaroom_greeting_opendoor_locked_8c59b1c8:
     m "怖がらせちゃったかな？ [player]{nw}"
