@@ -989,7 +989,7 @@ translate Japanese mas_after_bath_cleanup_73af40e5:
     m 1eua "着替えてくるね{w=0.3}…{w=0.3}…{w=0.3}"
 
 translate Japanese mas_after_bath_cleanup_d8fa99f7:
-    m 1eua "ちょっと待っててね[player_nick],{w=0.2}{nw}"
+    m 1eua "ちょっと待っててね[player_nick]、{w=0.2}{nw}"
 
 translate Japanese mas_after_bath_cleanup_da8cb9df:
     extend 3eua "着替えてくるね"
@@ -1001,7 +1001,7 @@ translate Japanese mas_after_bath_cleanup_1579d390:
     m 3hub "よし、ただいま～！"
 
 translate Japanese mas_after_bath_cleanup_22c730c8:
-    m 1eua "それで、今日は何したい、[player]?"
+    m 1eua "それで、今日は何したい、[player]？"
 
 translate Japanese greeting_found_nou_shirt_58145448:
     m "あ、来てくれたね！ {w=0.2}ずっと待ってたんだよ～"
@@ -2785,7 +2785,7 @@ translate Japanese greeting_back_from_work_passed_over_4b9f0bee:
     m 1eua "一生懸命にやれば成果はきっとついてくるし、認めてもらえる日もやってくる"
 
 translate Japanese greeting_back_from_work_passed_over_140aa297:
-    m 1hub "そして忘れないでほしい… {w=0.5}[player]のそばにはいつでもあなたを応援する私がいるってことをね！"
+    m 1hub "そして忘れないでほしい…… {w=0.5}[player]のそばにはいつでもあなたを応援する私がいるってことをね！"
 
 translate Japanese greeting_back_from_work_passed_over_e899baa6:
     m 3eka "これで少しでも気が楽になってくれたら嬉しいな～"
@@ -3959,7 +3959,7 @@ translate Japanese strings:
     new "[glitch_option_text]したんだよ！"
 
     old "I have no idea..."
-    new "何の事かよくわからない…"
+    new "何の事かよくわからない……"
 
     old "...the textbox..."
     new "……メッセージウィンドウが……"

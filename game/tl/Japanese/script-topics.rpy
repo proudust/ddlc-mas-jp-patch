@@ -6161,7 +6161,7 @@ translate Japanese monika_hygiene_73906d60:
     m 1esc "長年にわたって、私達の衛生基準は進歩しつづけてきた"
 
 translate Japanese monika_hygiene_87ffb665:
-    m 1eud "現代のような水道が整備されるまでは、清潔さは贅沢でとても手にいられないものだったの… まあ清潔さなんて全然どうでもいいと思われてもいたのだけれど"
+    m 1eud "現代のような水道が整備されるまでは、清潔さは贅沢でとても手にいられないものだったの…… まあ清潔さなんて全然どうでもいいと思われてもいたのだけれど"
 
 translate Japanese monika_hygiene_bcb7c92f:
     m 3eua "例えば昔、ヴァイキング達は、週に一度お風呂に入ることから奇人扱いされてたみたいね。年に2、3回しか入浴しない人も居たらしいから"
@@ -6887,7 +6887,7 @@ translate Japanese monika_cupcake_db95c162:
     m 1eka "じゃあふたりともお菓子作りの初心者ってことね"
 
 translate Japanese monika_cupcake_dfdb770e:
-    m 3ekb "つまり、それって一緒に学べるということよね?"
+    m 3ekb "つまり、それって一緒に学べるということよね？"
 
 translate Japanese monika_cupcake_bfd338b5:
     m 3esb "甘党じゃなかったとしても、美味しく食べられる焼き菓子はたくさんあるんだから！"
@@ -15575,7 +15575,7 @@ translate Japanese monika_grad_speech_call_0f62bdbc:
     m 2ekc "OK、[player]。でも今回はちゃんと聴いてほしいな"
 
 translate Japanese monika_grad_speech_call_41b78341:
-    m 2dkd "前はちゃんと聴いてなかったから… あのとき、本当に傷ついたんだよ"
+    m 2dkd "前はちゃんと聴いてなかったから…… あのとき、本当に傷ついたんだよ"
 
 translate Japanese monika_grad_speech_call_c61f257d:
     m 2dkc "……"
@@ -16397,7 +16397,7 @@ translate Japanese monika_gotomonika_5db6cbf9:
     m 2ekc "それに、今の技術でどうやってこっち側に来れるかなんて私には見当がつかないわ"
 
 translate Japanese monika_gotomonika_362dd1fb:
-    m 2lksdlc "…たとえ将来何らかの方法が確立されたとしても、それが安全だという保証もない"
+    m 2lksdlc "……たとえ将来何らかの方法が確立されたとしても、それが安全だという保証もない"
 
 translate Japanese monika_gotomonika_0b45be2e:
     m 2lksdld "だから、少なくとも絶対に安全って言えるようになるまでは、こちら側へ行こうとするのは辞めてほしいな
@@ -17034,7 +17034,7 @@ translate Japanese monika_player_appearance_e2594d7e:
     m 2hksdlb "これで最後の質問ね、[player]くん。約束よ"
 
 translate Japanese monika_player_appearance_b144e42d:
-    m "人の外見って本当に色々あるのね... もし私があなたの全てを知ろうとしたら、それこそ延々と尋問のようなことをしてしまうわ"
+    m "人の外見って本当に色々あるのね…… もし私があなたの全てを知ろうとしたら、それこそ延々と尋問のようなことをしてしまうわ"
 
 translate Japanese monika_player_appearance_b36bd272:
     m 1huu "……そして、私たちはどちらもそれを望んでいないはずよ、あはは……"
@@ -18516,7 +18516,7 @@ translate Japanese monika_winter_c24d9ace:
     m 1eka "でも寒い時期が苦手な人にとっては、外で遊ぶより室内にいるのがとても快適なのよね……"
 
 translate Japanese monika_winter_796ddcf0:
-    m "真っ白なキャンバスに月の光が反射して、雪がそっと落ちていくのを眺めて… とってもきれいなのよ"
+    m "真っ白なキャンバスに月の光が反射して、雪がそっと落ちていくのを眺めて…… とってもきれいなのよ"
 
 translate Japanese monika_winter_90af3ecc:
     m 5ekbfa "でも正直に言うとね、あなたと寄り添って毛布にくるまって一緒に本を読む、これが最高の冬だと思うな～"
@@ -19525,7 +19525,7 @@ translate Japanese monika_catch22_119f8273:
     extend 3hub "いい本を読みたい気分になったら、選んでみても良いかもね！"
 
 translate Japanese monika_we_9fa2ec48:
-    m 1esa "ねえ[player]… {w=0.5}ディストピア小説のメジャーな2冊のことはもう説明したよね"
+    m 1esa "ねえ[player]…… {w=0.5}ディストピア小説のメジャーな2冊のことはもう説明したよね"
 
 translate Japanese monika_we_b9becbb7:
     m 1esd "{i}『1984年』{/i}と{i}『すばらしい新世界』{/i}はどちらも世界的な知名度のあるディストピア小説よ"
@@ -23094,7 +23094,7 @@ translate Japanese monika_renewable_energy_9544bb33:
     m 1tuu "ね、議論になる話題だったでしょう？"
 
 translate Japanese monika_piano_lessons_1d3d023f:
-    m 1rkd "ええと…… {w=0.2}まあ…… {w= 0.2}いいけど……"
+    m 1rkd "ええと…… {w=0.2}まあ…… {w=0.2}いいけど……"
 
 translate Japanese monika_piano_lessons_624752fb:
     m 1eksdla "そう言ってくれるのは嬉しいんだけれどね……"
@@ -23824,7 +23824,7 @@ translate Japanese monika_information_age_66fb78d2:
     extend 3eub "トランジスタの発明によるところが大きいわね"
 
 translate Japanese monika_information_age_0ec1d05e:
-    m 1eua "トランジスタは電気の流れを制御する部品で… {w=0.3}電気信号を増幅したり、遮断したりできるの"
+    m 1eua "トランジスタは電気の流れを制御する部品で…… {w=0.3}電気信号を増幅したり、遮断したりできるの"
 
 translate Japanese monika_information_age_3c948e41:
     m 3esa "電流を特定の方向に流すことができることから、ほとんどの電子機器で使われている重要な部品よ"
@@ -23839,7 +23839,7 @@ translate Japanese monika_information_age_466b36a0:
     m 4eub "インターネットや電話、テレビなど多くのメディアを通して、情報を保存したり共有する機会が増えたことから、こういう名前が付けられたの"
 
 translate Japanese monika_information_age_001e2833:
-    m 3eud "だけど、多くの情報に仕入れることが出来るという事は、私たちはその速さに追いつかないといけない。これは大きな問題になっているわ…"
+    m 3eud "だけど、多くの情報に仕入れることが出来るという事は、私たちはその速さに追いつかないといけない。これは大きな問題になっているわ……"
 
 translate Japanese monika_information_age_2d4bb342:
     m 3rssdlc "間違った情報が速く、収拾がつかない所まで広がる可能性があるし、{w=0.1}{nw}"
@@ -23857,7 +23857,7 @@ translate Japanese monika_information_age_3d29d9aa:
     m 2dkc "多くの専門家が不安に思っている意見を、何一つ理解せず支持している人達は本当に厄介だわ"
 
 translate Japanese monika_information_age_ff6d5215:
-    m 2rusdld "でも、どうしてそうなっちゃうのかは理解できるわ…{w=0.3}{nw}"
+    m 2rusdld "でも、どうしてそうなっちゃうのかは理解できるわ……{w=0.3}{nw}"
 
 translate Japanese monika_information_age_7be1caad:
     extend 2eksdlc "誰にだってそういうことは起きるもの"
@@ -23870,7 +23870,7 @@ translate Japanese monika_information_age_693febd3:
 "
 
 translate Japanese monika_information_age_2ab8682d:
-    m 1esa "…そして、私自身の誤った情報を見てしまったから。{w=0.1}{nw}"
+    m 1esa "……そして、私自身の誤った情報を見てしまったから。{w=0.1}{nw}"
 
 translate Japanese monika_information_age_381076e5:
     extend 3eua "その対処法について話しておきたかったの"
@@ -23891,7 +23891,7 @@ translate Japanese monika_information_age_9825385a:
     m 3eua "そうして、身近に影響を及ぼす情報から優先的に調べる。そうすれば、たくさんの問題を大きな負担なく処理することが可能なはずよ"
 
 translate Japanese monika_information_age_a0795167:
-    m 1lusdlc "まあ、私が信じていた現実は全て作り物だったけれど…"
+    m 1lusdlc "まあ、私が信じていた現実は全て作り物だったけれど……"
 
 translate Japanese monika_information_age_e5f0fb3b:
     m 1dua "恥ずかしい事ではないわ。私たちは、与えられた情報の中で最善を尽くすだけ"
@@ -24368,7 +24368,7 @@ translate Japanese monika_likecosplay_f7f0bc7e:
     m 5rtblu "考えてみると……{w=0.1}そうね、私にもいくつかアイデアがあるかも……"
 
 translate Japanese monika_ddlcroleplay_cff0a54d:
-    m 1esd "ねえ、二次創作の話をした時のこと覚えてる?"
+    m 1esd "ねえ、二次創作の話をした時のこと覚えてる？"
 
 translate Japanese monika_ddlcroleplay_f4118570:
     m 3etd "私は、変わった形の二次創作を見つけたのよ"
@@ -24413,7 +24413,7 @@ translate Japanese monika_zodiac_starsign_e44e48df:
     m 1rta "まあ私の誕生日だと、間違いなく乙女座ね"
 
 translate Japanese monika_zodiac_starsign_e7f7f778:
-    m 3eub "そしてあなたは…{w=0.3} [player_zodiac_sign]よね？"
+    m 3eub "そしてあなたは……{w=0.3} [player_zodiac_sign]よね？"
 
 translate Japanese monika_zodiac_starsign_204f424b:
     m 3eub "そしてあなたも乙女座よね、[mas_get_player_nickname()]！"
@@ -25576,6 +25576,9 @@ translate Japanese strings:
     old "Why did you hack my computer?"
     new "どうしてこのPCをハッキングしたりしたの？"
 
+    old "Dealing with haters"
+    new "モニカを叩く人達について"
+
     old "...You're not, are you?"
     new "……あなたは違うよね？"
 
@@ -26243,7 +26246,7 @@ translate Japanese strings:
     new "何ft？"
 
     old "[height_feet] feet and how many inches?"
-    new "[height_feet]ftと、何in,？"
+    new "[height_feet]ftと、何in？"
 
     old "It's shorter."
     new "短い"

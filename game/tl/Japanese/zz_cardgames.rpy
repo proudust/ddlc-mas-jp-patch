@@ -69,7 +69,7 @@ translate Japanese monika_change_nou_house_rules_menu_loop_5b31beae:
     m 3esa "たとえば、１ゲームをより長くしたい場合には、初手を10枚にするといいよ"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_bd15364d:
-    m 1eua "ドローの累積は、ドロー２をドロー２で返すたびに数字が溜まっていくルールで… {w=0.3}{nw}"
+    m 1eua "ドローの累積は、ドロー２をドロー２で返すたびに数字が溜まっていくルールで…… {w=0.3}{nw}"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_d40ce0dd:
     extend 4tsb "ドローを返せなかった最後の不幸な人に、溜まった数字分だけカードを引かせるよ"
@@ -84,7 +84,7 @@ translate Japanese monika_change_nou_house_rules_menu_loop_350a30ba:
     m 3eud "実は公式ルールだと、『ワイルドドロー４は今出せる色のカードを持っていない場合にしか出せない』って制限があるんだよね"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_dec6485a:
-    m 1rtu "これだと… {w=0.3}ちょっとつまらないよね、{w=0.2}{nw}"
+    m 1rtu "これだと…… {w=0.3}ちょっとつまらないよね、{w=0.2}{nw}"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_55e6a42e:
     extend 3eua "だからワイルドドロー４の制限をなくすルールにも変更できるよ"
@@ -94,7 +94,7 @@ translate Japanese monika_change_nou_house_rules_menu_loop_9bd084e3:
 "
 
 translate Japanese monika_change_nou_house_rules_menu_loop_e5ace509:
-    extend 1tsu "ご想像の通り… {w=0.3}{nw}"
+    extend 1tsu "ご想像の通り…… {w=0.3}{nw}"
 
 translate Japanese monika_change_nou_house_rules_menu_loop_b3fcbed8:
     extend 1hub "{i}カオス{/i}になるよ、あはは～"
@@ -377,7 +377,7 @@ translate Japanese mas_nou_reaction_player_wins_round_1e6ad76f:
     m 3eub "おめでとう、[player]！"
 
 translate Japanese mas_nou_reaction_player_wins_round_6914ef6a:
-    m 1wud "[player]… {w=0.5}連勝だね……"
+    m 1wud "[player]…… {w=0.5}連勝だね……"
 
 translate Japanese mas_nou_reaction_player_wins_round_d14b220f:
     m 1hksdlb "なんだか勝てる気がしないよ！"
@@ -452,7 +452,7 @@ translate Japanese mas_nou_reaction_player_wins_round_e6f89ce6:
     m 1hub "あはは～"
 
 translate Japanese mas_nou_reaction_player_wins_round_3965d8b9:
-    m 1ruu "あっ… またもう少しのところでやられちゃった！"
+    m 1ruu "あっ…… またもう少しのところでやられちゃった！"
 
 translate Japanese mas_nou_reaction_player_wins_round_3eb5a55c:
     m 3hua "上手だねえ、[player]"
@@ -491,7 +491,7 @@ translate Japanese mas_nou_reaction_player_wins_round_d424335d:
     m 1hksdla "えへへ、私がなにかする前に[_round!t]を終わらせちゃうね"
 
 translate Japanese mas_nou_reaction_player_wins_round_d98b42ba:
-    m 1hfb "あっ… {w=0.2}もう少しだったのに！"
+    m 1hfb "あっ…… {w=0.2}もう少しだったのに！"
 
 translate Japanese mas_nou_reaction_player_wins_round_d73039b3:
     m 3efb "おめでとう、[player]！"
@@ -989,7 +989,7 @@ translate Japanese strings:
     new "残り１枚！ NOU、[player]～"
 
     old "Ehehe~ No.{w=0.2}.{w=0.2}.{w=0.2}U!"
-    new "えへへ～ NO.{w=0.2}.{w=0.2}.{w=0.2}U！"
+    new "えへへ～ NO{w=0.2}…{w=0.2}…{w=0.2}U！"
 
     old "NOU!"
     new "NOU！"
@@ -1040,7 +1040,7 @@ translate Japanese strings:
     new "遅いよ、[player]！ それじゃ私には追いつけないよ～"
 
     old "Oh... You're right!"
-    new "あっ… 言われちゃった！"
+    new "あっ…… 言われちゃった！"
 
     old "Whoops, you got me there!"
     new "あらら、先に言われちゃった！"
@@ -1262,7 +1262,7 @@ translate Japanese strings:
     new "いいよ、{w=0.1}大丈夫…… {w=0.3}今回は勝たせてあげる"
 
     old "I.{w=0.1}.{w=0.1}.{w=0.1}will let it slide...{w=0.3}but just this time!"
-    new "今回は{w=0.1}…{w=0.1}… {w=0.1}見逃してあげる… {w=0.3}でも次はないよ！"
+    new "今回は{w=0.1}…{w=0.1}… {w=0.1}見逃してあげる…… {w=0.3}でも次はないよ！"
 
     old "You're pretty lucky!"
     new "もう、運がいいんだから！"
@@ -1271,7 +1271,7 @@ translate Japanese strings:
     new "そんな！"
 
     old "You...{w=0.3}{i}could{/i} go a bit easier on your girlfriend, you know~"
-    new "ねえ…{w=0.3} もう少しさ、ガールフレンドに優しくしてもいいんじゃないかな～？"
+    new "ねえ……{w=0.3} もう少しさ、ガールフレンドに優しくしてもいいんじゃないかな～？"
 
     old "[player]!"
     new "[player]！"
@@ -1309,8 +1309,8 @@ translate Japanese strings:
     old "Mmmm!"
     new "むぅうううううう！"
 
-    old "Well{w=0.2}...so be it, [player]!"
-    new "ふぅん{w=0.2} …まあいいけどね、[player]！"
+    old "そっか…… {w=0.2}今回は選ばせてあげるよ～"
+    new "ふぅん{w=0.2} ……まあいいけどね、[player]！"
 
     old "Alright, alright!~"
     new "いいよ、いいよ～！"
@@ -1319,7 +1319,7 @@ translate Japanese strings:
     new "今回は勝たせたげるよ～"
 
     old "Alright...{w=0.2}this time {i}you{/i} choose the color~"
-    new "そっか… {w=0.2}今回は選ばせてあげるよ～"
+    new "そっか…… {w=0.2}今回は選ばせてあげるよ～"
 
     old "Oh jeez!"
     new "あぁ、もう！"

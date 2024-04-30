@@ -1101,7 +1101,7 @@ translate Japanese mas_story_knock_e6e563e9:
     m 1euc "地球最後の人類となった男が部屋の中にいた"
 
 translate Japanese mas_story_knock_462007fc:
-    m 3rud "…部屋の戸を叩く音がする"
+    m 3rud "……部屋の戸を叩く音がする"
 
 translate Japanese mas_story_knock_72160657:
     m 3duc "ここでもうオチがついてるなんていう人がいるかもしれないけど、{w=0.2} {nw}"
@@ -1119,7 +1119,7 @@ translate Japanese mas_story_knock_859f11f7:
     m 3eua "地球最後の人類となった男の名はウォルター・フェラン。{w=0.2}彼のそばにいるのはただ一人、ザンと呼ばれる星の者だった"
 
 translate Japanese mas_story_knock_cdcfc46f:
-    m 3eud "ウォルターを除いて、人類はザン星人によって滅ぼされたのだ。そしてどこかにもうひとり... {w=0.3}{nw}"
+    m 3eud "ウォルターを除いて、人類はザン星人によって滅ぼされたのだ。そしてどこかにもうひとり……{w=0.3}{nw}"
 
 translate Japanese mas_story_knock_34f62610:
     extend 3wud "ひとりだけ、{w=0.1}女が生き残っていた"
@@ -1153,7 +1153,7 @@ translate Japanese mas_story_knock_98bf51a0:
     m 1dsc "最後の人類は即座に頭を巡らせた。{w=0.2}ザン星人たちには、あの動物たちは二度と目を覚まさないと告げた。{w=0.2}つまり、死神が逃げだし、全員を殺してしまったたのだと"
 
 translate Japanese mas_story_knock_43cfb639:
-    m 1euc "…そしてこう付け加えた。「だが私にならなんとかできる。{w=0.2}助けてもいいが条件として、地球最後の女の人類も私に助けさせろ」と"
+    m 1euc "……そしてこう付け加えた。「だが私にならなんとかできる。{w=0.2}助けてもいいが条件として、地球最後の女の人類も私に助けさせろ」と"
 
 translate Japanese mas_story_knock_572c0b62:
     m 1eua "ザン星人はウォルターの願いを許し、動物のもとへと行かせた。そして面会が許された"
@@ -1177,7 +1177,7 @@ translate Japanese mas_story_knock_a2fdcd7e:
     m 3esc "ウォルターはまずザン星人に、地球最後の一体となったアヒルを見せてくれと頼んだ。そして、ザン星人にこれからすべきことを伝えた。"
 
 translate Japanese mas_story_knock_1ceba0b4:
-    m 4eud "「愛情をこめてアヒルの体を撫でるんだ。でないと、残った一体も… {w=0.2}孤独に耐えきれず死んでしまうぞ。」
+    m 4eud "「愛情をこめてアヒルの体を撫でるんだ。でないと、残った一体も…… {w=0.2}孤独に耐えきれず死んでしまうぞ。」
 "
 
 translate Japanese mas_story_knock_e1f53fb9:

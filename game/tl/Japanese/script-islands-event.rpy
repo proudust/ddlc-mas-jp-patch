@@ -521,7 +521,7 @@ translate Japanese mas_island_bookshelf2_88a83baa:
     m "最高のひと時になりそうだな～"
 
 translate Japanese mas_island_spooky_ambience_6d2fedc9:
-    m "「それは暗い嵐の夜だった...…」"
+    m "「それは暗い嵐の夜だった……」"
 
 translate Japanese mas_island_spooky_ambience_799988fb:
     m "えへへ～、怖い話をするのにはピッタリな頃合いじゃない？"

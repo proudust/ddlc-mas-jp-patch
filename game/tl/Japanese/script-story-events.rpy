@@ -362,7 +362,7 @@ translate Japanese birthdate_set_e69b9370:
     m "それにさ、[hol_str]……"
 
 translate Japanese birthdate_set_991add58:
-    m 3hua "そういうのって、魔法みたい~"
+    m 3hua "そういうのって、魔法みたい～"
 
 translate Japanese birthdate_set_839eb0c7:
     m 1wuo "え…… {w=1}ええっ！？"
@@ -1821,7 +1821,7 @@ translate Japanese strings:
     new "それで、あなたは自分がどの性別だと思っているの？"
 
     old "Oh, okay! {w=0.3}And what gender do you identify as?"
-    new "あっ、大丈夫だよ！ {w = 0.3}それで、あなたは自分がどの性別だと思っているの？"
+    new "あっ、大丈夫だよ！ {w=0.3}それで、あなたは自分がどの性別だと思っているの？"
 
     old "Male"
     new "男性"
