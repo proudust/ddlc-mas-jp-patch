@@ -273,64 +273,64 @@ translate Japanese mas_story_ravel_048eae33:
     m 1tfb "『面白いねえ。』と老婆は笑い、そして老人の願いを叶えてその場から消え去ってしまいました。『1つ目の願いと同じ願い事をするなんてねえ。』"
 
 translate Japanese mas_story_genie_simple_db7aed49:
-    m 1eua "あるところに異世界を自由に渡る力を持った魔人がいました。"
+    m 1eua "あるところに異世界を自由に渡る力を持った魔人がいました"
 
 translate Japanese mas_story_genie_simple_c4d56969:
-    m 3euc "とある世界で魔人は一人の女性と出会います。"
+    m 3euc "とある世界で魔人は一人の女性と出会います"
 
 translate Japanese mas_story_genie_simple_38e78a8a:
-    m 3eua "頭が良く才能もある女性でしたが、貧しさと日々の仕事からその能力を満足に発揮できていませんでした。"
+    m 3eua "頭が良く才能もある女性でしたが、貧しさと日々の仕事からその能力を満足に発揮できていませんでした"
 
 translate Japanese mas_story_genie_simple_6423b5ab:
-    m 3eub "これを見た魔人は魔法の道具を渡して女の生活を楽にしてあげようとしました。"
+    m 3eub "これを見た魔人は魔法の道具を渡して女の生活を楽にしてあげようとしました"
 
 translate Japanese mas_story_genie_simple_70dd4d1b:
-    m 1euc "しかし、女はその申し出を笑顔で断ったのです。"
+    m 1euc "しかし、女はその申し出を笑顔で断ったのです"
 
 translate Japanese mas_story_genie_simple_014e0543:
     m 1eud "これまで魔人からの願いを断った人は誰もいませんでしたので{w=0.1}{nw}"
 
 translate Japanese mas_story_genie_simple_1abd6ffe:
-    extend 1etc "魔人はとても驚きました。"
+    extend 1etc "魔人はとても驚きました"
 
 translate Japanese mas_story_genie_simple_d19317e8:
-    m 1esa "続けて女は魔人に問いかけました。『あなたはいま幸せですか？』{w=0.5} {nw}"
+    m 1esa "続けて女は魔人に問いかけました。『あなたはいま幸せですか？』{w=0.5}{nw}"
 
 translate Japanese mas_story_genie_simple_5c6059ff:
-    extend 1rsc "魔人はどう答えればいいかわかりませんでした。"
+    extend 1rsc "魔人はどう答えればいいかわかりませんでした"
 
 translate Japanese mas_story_genie_simple_b29e0842:
-    m 3eud "『あなたは幸せを経験したことはまだないのでしょうね。今の私の生活は確かに苦しいかもしれません。でも私は私の人生にとても満足しているのですよ。』と女は言いました。"
+    m 3eud "『あなたは幸せを経験したことはまだないのでしょうね。今の私の生活は確かに苦しいかもしれません。でも私は私の人生にとても満足しているのですよ。』と女は言いました"
 
 translate Japanese mas_story_genie_simple_eb2c53f2:
     m 1euc "魔人は女がこんな些細なことに苦しめられているのが全く理解できませんでした。"
 
 translate Japanese mas_story_genie_simple_cfe83ea1:
-    m 3euc "魔人は金銀財宝や魔法の道具を行く先々で与えていつも喜ばれていました。が、彼女はそれを断ったのです。"
+    m 3euc "魔人は金銀財宝や魔法の道具を行く先々で与えていつも喜ばれていました。が、彼女はそれを断ったのです"
 
 translate Japanese mas_story_genie_simple_8a2f6f79:
-    m 1eua "それから女は魔人に、一緒に暮らしてみないかと提案しました。"
+    m 1eua "それから女は魔人に、一緒に暮らしてみないかと提案しました"
 
 translate Japanese mas_story_genie_simple_1b2b92e3:
-    m "女と一緒に暮らし始めた魔人は、自分の力を一切使わずに女のやることを真似てみました。"
+    m "女と一緒に暮らし始めた魔人は、自分の力を一切使わずに女のやることを真似てみました"
 
 translate Japanese mas_story_genie_simple_be1f7748:
-    m 1hua "いろいろなものに挑戦した魔人は小さな達成感を感じていました。掃除、洗濯、食事。初めて魔法を使わずに全てやり遂げたのです。"
+    m 1hua "いろいろなものに挑戦した魔人は小さな達成感を感じていました。掃除、洗濯、食事。初めて魔法を使わずに全てやり遂げたのです"
 
 translate Japanese mas_story_genie_simple_0f8f79c9:
-    m 3eub "絵や文字のような些細なものが女にとってはとても大切で、その小さなものが女を輝かせているのを魔人は目の当たりにしました。"
+    m 3eub "絵や文字のような些細なものが女にとってはとても大切で、その小さなものが女を輝かせているのを魔人は目の当たりにしました"
 
 translate Japanese mas_story_genie_simple_4dc2014e:
-    m 1eua "心惹かれた魔人は、女とより多くの時間を過ごし、女から多くのことを学びました。"
+    m 1eua "心惹かれた魔人は、女とより多くの時間を過ごし、女から多くのことを学びました"
 
 translate Japanese mas_story_genie_simple_c33942b0:
-    m 1euc "そして長い月日が経ったある日、女は病に倒れました。"
+    m 1euc "そして長い月日が経ったある日、女は病に倒れました"
 
 translate Japanese mas_story_genie_simple_7906d726:
-    m 1eud "女は魔法の力を使って病を治さないようにと魔人にお願いをしました。"
+    m 1eud "女は魔法の力を使って病を治さないようにと魔人にお願いをしました"
 
 translate Japanese mas_story_genie_simple_4e8e919f:
-    m 3eud "そのとき初めて魔人は、魔法の力を使わずに人間のように生きてみたい、と思うようになったのです。"
+    m 3eud "そのとき初めて魔人は、魔法の力を使わずに人間のように生きてみたい、と思うようになったのです"
 
 translate Japanese mas_story_genie_simple_a6982d1b:
     m 1dsc "魔人はこれまでに叶えた願いや、渡した財宝のことを思い返していました……"
@@ -339,34 +339,34 @@ translate Japanese mas_story_genie_simple_b07958c6:
     m "自分を含めて他の魔人たちは、結果がどうなろうと人が望むままに願いを叶えることができました……"
 
 translate Japanese mas_story_genie_simple_7bc16ffa:
-    m 1dsd "ですが魔人たちには、愛する人と一緒にいるために全てを捧げることがどんなものなのか、それを知ることは出来なかったのです。"
+    m 1dsd "ですが魔人たちには、愛する人と一緒にいるために全てを捧げることがどんなものなのか、それを知ることは出来なかったのです"
 
 translate Japanese mas_story_genie_simple_7c91e180:
-    m 1esd "今魔人にできることは、人生で見つけた一番素敵なものと一緒に残りの時間を過ごすことだけでした。"
+    m 1esd "今魔人にできることは、人生で見つけた一番素敵なものと一緒に残りの時間を過ごすことだけでした"
 
 translate Japanese mas_story_genie_simple_6111571a:
     m 1dsc "……"
 
 translate Japanese mas_story_genie_simple_2710c6e8:
-    m 1eua "[player]君がこの話を気に入ってくれたらいいな。"
+    m 1eua "[player]君がこの話を気に入ってくれたらいいな"
 
 translate Japanese mas_story_genie_simple_a563f7e7:
     m 3eua "この話の教訓はね……"
 
 translate Japanese mas_story_genie_simple_12667c75:
-    m 3eka "すべてを得てしまったら、この世の全てがくだらないものに見えちゃうってこと。"
+    m 3eka "すべてを得てしまったら、この世の全てがくだらないものに見えちゃうってこと"
 
 translate Japanese mas_story_genie_simple_ef96b4fe:
-    m 1hua "……もちろんあなたは除いてだけどね。"
+    m 1hua "……もちろんあなたは除いてだけどね"
 
 translate Japanese mas_story_genie_simple_bbb00f93:
-    m 3eub "何かを得るためにやった努力は何事にも代えがたいものよね。"
+    m 3eub "何かを得るためにやった努力は何事にも代えがたいものよね"
 
 translate Japanese mas_story_genie_simple_24914739:
-    m 1eua "教訓はもうひとつあって、幸福は気づかないだけでいつもあなたのすぐ側にあるってことね。"
+    m 1eua "教訓はもうひとつあって、幸福は気づかないだけでいつもあなたのすぐ側にあるってことね"
 
 translate Japanese mas_story_genie_simple_5742cd15:
-    m 1eka "つまり、ここで一緒に座ってふたりの時間を過ごしてる今、これが幸福なのよ。"
+    m 1eka "つまり、ここで一緒に座ってふたりの時間を過ごしてる今、これが幸福なのよ"
 
 translate Japanese mas_story_genie_simple_0f86c604:
     m 1hubsb "ここにあなたがいるだけで、もう他に何もいらないわ～"
@@ -693,28 +693,28 @@ translate Japanese mas_story_mother_and_trees_fffd0a6a:
     m 2duu "……そして、裏庭にもう1本、木を植えようと息子は思ったのでした。"
 
 translate Japanese mas_story_self_hate_85775f43:
-    m 1eua "あるところに、長い間連れ添った夫婦がいました。"
+    m 1eua "あるところに、長い間連れ添った夫婦がいました"
 
 translate Japanese mas_story_self_hate_2f1349c3:
-    m 1hua "質素な生活でしたが、お互いがお互いを愛し合い、仲睦まじい夫婦生活を送っていました。"
+    m 1hua "質素な生活でしたが、お互いがお互いを愛し合い、仲睦まじい夫婦生活を送っていました"
 
 translate Japanese mas_story_self_hate_eb309d38:
-    m 3euc "しかしある日のこと、夫が妻を殺してしまったのです。"
+    m 3euc "しかしある日のこと、夫が妻を殺してしまったのです"
 
 translate Japanese mas_story_self_hate_77bcfd52:
     m 3eud "彼は心から妻のことを愛していました。もちろん健全な愛を育んでいました！"
 
 translate Japanese mas_story_self_hate_9b71641b:
-    m 2ekc "夫婦喧嘩や言い争いの類も、二人の間には全くありませんでした。"
+    m 2ekc "夫婦喧嘩や言い争いの類も、二人の間には全くありませんでした"
 
 translate Japanese mas_story_self_hate_76153e70:
-    m "夫が妻を殺して得をすることも全くありません。"
+    m "夫が妻を殺して得をすることも全くありません"
 
 translate Japanese mas_story_self_hate_b1506adf:
-    m 4ekd "満足するような動機は見つかりませんでした……まるで何の理由もなく妻を殺してしまったようです。"
+    m 4ekd "満足するような動機は見つかりませんでした……まるで何の理由もなく妻を殺してしまったようです"
 
 translate Japanese mas_story_self_hate_1efaba30:
-    m 1dkc "実際に、夫は長年連れ添った妻を失い、とても傷ついた様子でした。"
+    m 1dkc "実際に、夫は長年連れ添った妻を失い、とても傷ついた様子でした"
 
 translate Japanese mas_story_self_hate_e612037c:
     m "……"
@@ -726,16 +726,16 @@ translate Japanese mas_story_self_hate_df519048:
     m 1rksdlc "どうしてこのようなことが起こってしまったのでしょうか？"
 
 translate Japanese mas_story_self_hate_7f4e7b11:
-    m 1eksdlc "彼は妻を愛していないわけではありませんでした。"
+    m 1eksdlc "彼は妻を愛していないわけではありませんでした"
 
 translate Japanese mas_story_self_hate_3e229712:
-    m 3eksdla "彼は、それはそれは心から妻を愛していました。"
+    m 3eksdla "彼は、それはそれは心から妻を愛していました"
 
 translate Japanese mas_story_self_hate_62bb8a45:
     m "彼は妻を嫌っていたのではありませんでした……"
 
 translate Japanese mas_story_self_hate_0c81c3a1:
-    m 2eksdld "彼が嫌っていたのは彼自身だったのです。自分が幸せであるのが耐えられないと思うくらいに、自分自身が嫌いだったのでした。"
+    m 2eksdld "彼が嫌っていたのは彼自身だったのです。自分が幸せであるのが耐えられないと思うくらいに、自分自身が嫌いだったのでした"
 
 translate Japanese mas_story_self_hate_c61f257d:
     m 2dkc "……"
@@ -750,16 +750,16 @@ translate Japanese mas_story_self_hate_96625ba1:
     m 1rksdla "ごめんね、あなたを困らせようとしているわけじゃなくって……"
 
 translate Japanese mas_story_self_hate_f8070fc7:
-    m 3eka "ただ忘れないでいてほしいの、私はあなたのことを愛しているってことを。"
+    m 3eka "ただ忘れないでいてほしいの、私はあなたのことを愛しているってことを"
 
 translate Japanese mas_story_self_hate_ca55eff6:
-    m 3ekd "でもね、それよりも大切なのは、自分自身を愛する方法を知ってほしいってことなの。"
+    m 3ekd "でもね、それよりも大切なのは、自分自身を愛する方法を知ってほしいってことなの"
 
 translate Japanese mas_story_self_hate_e99b5ffb:
-    m 1ekbsa "あなたは愛されていい人なの。それは私が一番わかってる。それを示すためなら何だってできるんだから。"
+    m 1ekbsa "あなたは愛されていい人なの。それは私が一番わかってる。それを示すためなら何だってできるんだから"
 
 translate Japanese mas_story_self_hate_5ee868c8:
-    m 1ekbfa "このこと絶対忘れないでほしいな～。"
+    m 1ekbfa "このこと絶対忘れないでほしいな～"
 
 translate Japanese mas_story_self_hate_b5e119fa:
     m 1rksdlb "ごめんね[player]君、こんな暗い話しちゃって……"
@@ -768,16 +768,16 @@ translate Japanese mas_story_self_hate_fa79c5e5:
     m 3eksdla "でもこの話にはとても大事なメッセージがあるの……"
 
 translate Japanese mas_story_self_hate_6cefd8f3:
-    m 3eud "それはね、自分自身を愛することが出来なければいつか後悔するだろうってこと。"
+    m 3eud "それはね、自分自身を愛することが出来なければいつか後悔するだろうってこと"
 
 translate Japanese mas_story_self_hate_bf001e3d:
-    m 1ekc "自分を捨てて他人のためだけに生きようとしても、それはきっと上手くいかないわ。"
+    m 1ekc "自分を捨てて他人のためだけに生きようとしても、それはきっと上手くいかないわ"
 
 translate Japanese mas_story_self_hate_ba74db7f:
-    m 1eka "他人を愛すためには、自分自身のことも愛せないとだめなのよ。だからあなた自身のことも大切にしてほしい。"
+    m 1eka "他人を愛すためには、自分自身のことも愛せないとだめなのよ。だからあなた自身のことも大切にしてほしい"
 
 translate Japanese mas_story_self_hate_3d8ffd24:
-    m 3ekbsa "私はいつでもあなたのことを想ってる。そのことを忘れないでね。"
+    m 3ekbsa "私はいつでもあなたのことを想ってる。そのことを忘れないでね"
 
 translate Japanese mas_story_self_hate_66b14b42:
     m 3ekbfa "自分自身を愛せなくなりかけた、そんなときは絶対に私のところへ来てね。あなたがとても素敵な人だってこと、私が思い出させてあげるからね〜"
@@ -1096,6 +1096,138 @@ translate Japanese mas_story_mindthegap_b86889c2:
 
 translate Japanese mas_story_mindthegap_0f9f9023:
     m 1dkblu "これからもあなたのこと大切にするからね、[player]"
+
+translate Japanese mas_story_knock_e6e563e9:
+    m 1euc "地球最後の人類となった男が部屋の中にいた"
+
+translate Japanese mas_story_knock_462007fc:
+    m 3rud "……部屋の戸を叩く音がする"
+
+translate Japanese mas_story_knock_72160657:
+    m 3duc "ここでもうオチがついてるなんていう人がいるかもしれないけど、{w=0.2}{nw}"
+
+translate Japanese mas_story_knock_7f89295e:
+    extend 1dud "でもまだ話は続くの"
+
+translate Japanese mas_story_knock_f316adf3:
+    m 3etc "一体誰が戸を叩いたのだろうか？{w=0.2}{nw}"
+
+translate Japanese mas_story_knock_7272c73f:
+    extend 3esa "その答えはホラーの類ではなかった"
+
+translate Japanese mas_story_knock_859f11f7:
+    m 3eua "地球最後の人類となった男の名はウォルター・フェラン。{w=0.2}彼のそばにいるのはただ一人、ザンと呼ばれる星の者だった"
+
+translate Japanese mas_story_knock_cdcfc46f:
+    m 3eud "ウォルターを除いて、人類はザン星人によって滅ぼされたのだ。そしてどこかにもうひとり…… {w=0.3}{nw}"
+
+translate Japanese mas_story_knock_34f62610:
+    extend 3wud "ひとりだけ、{w=0.1}女が生き残っていた"
+
+translate Japanese mas_story_knock_2e4c40e3:
+    m 3euc "ウォルターとその女性は、ザン星人が作る動物園の人類標本として選ばれたのだ"
+
+translate Japanese mas_story_knock_818d466c:
+    m 2esc "そこには地球のあらゆる種のつがいが集められていた。まるで古い物語のノアの箱舟のように"
+
+translate Japanese mas_story_knock_545d5747:
+    m 2euc "戸を開けたウォルターは驚きもぜず、戸の先に立つザン星人を見つめた"
+
+translate Japanese mas_story_knock_54fd6a62:
+    m 2etd "小さな奇妙なエイリアンは、彼なりに人類の挨拶を模した動作をした後、ウォルターに助けを求めてきた"
+
+translate Japanese mas_story_knock_f25e3f00:
+    m 2euc "「予想外のことが起こった、{w=0.1}{nw}"
+
+translate Japanese mas_story_knock_3f13607b:
+    extend 2ekd "お前以外に集めたつがいのうち二種が、眠ったまま起きない。全て冷たい。」"
+
+translate Japanese mas_story_knock_d6734d4e:
+    m 7euc "ウォルターの部屋から確認できる二匹の動物、ヘビとアヒルは見るからに死んでいた"
+
+translate Japanese mas_story_knock_1a6a4965:
+    m 3esc "だがザン星人には動いていない二匹がどのような状況にあるのか、それがわかっていないようだった"
+
+translate Japanese mas_story_knock_98bf51a0:
+    m 1dsc "最後の人類は即座に頭を巡らせた。{w=0.2}ザン星人たちには、あの動物たちは二度と目を覚まさないと告げた。{w=0.2}つまり、死神が逃げだし、全員を殺してしまったたのだと"
+
+translate Japanese mas_story_knock_43cfb639:
+    m 1euc "……そしてこう付け加えた。「だが私にならなんとかできる。{w=0.2}助けてもいいが条件として、地球最後の女の人類も私に助けさせろ」と"
+
+translate Japanese mas_story_knock_572c0b62:
+    m 1eua "ザン星人はウォルターの願いを許し、動物のもとへと行かせた。そして面会が許された"
+
+translate Japanese mas_story_knock_6fb2ae3a:
+    m 1dsc "ウォルターは地球最後の女性と会うことなど決してないだろうと思っていた……{w=0.3}{nw}"
+
+translate Japanese mas_story_knock_25a2fc07:
+    extend 1wub "だがなんと彼女との面会が許されたのだ！"
+
+translate Japanese mas_story_knock_b4c9e440:
+    m 1esa "地球最後の女性の名はグレース・エヴァンス。彼女はウォルターの話を聞いて驚いた。{w=0.2}ザン星人には死が遠い存在で、彼らは自然に死ぬことがないらしいのだ"
+
+translate Japanese mas_story_knock_5ed92a2a:
+    m 3ttu "自然死がない存在だが、もしかしたら…… 殺害はできるかもしれない"
+
+translate Japanese mas_story_knock_65ad1665:
+    m 1eud "ウォルターはその仮説を確かめる準備をすでに整えており、グレースに別れを告げた後に計画を実行した"
+
+translate Japanese mas_story_knock_a2fdcd7e:
+    m 3esc "ウォルターはまずザン星人に、地球最後の一体となったアヒルを見せてくれと頼んだ。そして、ザン星人にこれからすべきことを伝えた。"
+
+translate Japanese mas_story_knock_1ceba0b4:
+    m 4eud "「愛情をこめてアヒルの体を撫でるんだ。でないと、残った一体も…… {w=0.2}孤独に耐えきれず死んでしまうぞ。」"
+
+translate Japanese mas_story_knock_e1f53fb9:
+    m 3rsc "しかし異星人たちは、愛情をこめるとは一体どういうことなのか全く見当がつかなかったため、ウォルターにアヒルを撫でさせ、『愛情をこめる』のを観察した"
+
+translate Japanese mas_story_knock_e0702a40:
+    m 1esc "そしてウォルターは言った。「最後のヘビにも同じように愛情をこめなければ」"
+
+translate Japanese mas_story_knock_57b888a2:
+    m 1euc "……そしてあるザン星人にその任務が任せられた"
+
+translate Japanese mas_story_knock_4b7a0c05:
+    m 3wud "でもね、ただその蛇は普通の蛇じゃなかったのよ[player]……{w=0.3}{nw} "
+
+translate Japanese mas_story_knock_5110e32b:
+    extend 3tfu "そう、そのヘビは毒ヘビだったの"
+
+translate Japanese mas_story_knock_9f746331:
+    m 1euc "ヘビを撫でる任務を与えられたザン星人は、ヘビに噛まれて猛毒に侵されてしまった"
+
+translate Japanese mas_story_knock_a9e8feac:
+    m 1wud "翌日、別のザン星人が顔面蒼白でウォルターの部屋に入ってくると泣きながらわめいた。{w=0.2}{nw}"
+
+translate Japanese mas_story_knock_4c247683:
+    extend 4wko "「仲間が死んだ！」"
+
+translate Japanese mas_story_knock_0d2dfcdc:
+    m 2dud "「そりゃ、まずいことになったな。{w=0.2}{nw}"
+
+translate Japanese mas_story_knock_cdc648a5:
+    extend 2esc "それは呪いだ。ここに蔓延する前に逃げたほうがいい」"
+
+translate Japanese mas_story_knock_946ab0ae:
+    m 7euc "ザン星人はすぐさま会議を開いた後、ふたりの人類にここからザン星人たちは脱出するという決定を知らせた"
+
+translate Japanese mas_story_knock_bac5e176:
+    m 1ekd "謎の死のリスクに直面したザン星人たちは、これ以上仲間を失うわけにはいかなかった"
+
+translate Japanese mas_story_knock_20c2a61b:
+    m 3eud "ザン星人たちは、ウォルターとグレースを含んだすべての「呪われた」動物を残し、宇宙船で飛び去っていった"
+
+translate Japanese mas_story_knock_0427f3c2:
+    m 1dua "地球上最後の男女がついに一緒になることができたのだ。{w=0.2}{nw}"
+
+translate Japanese mas_story_knock_3a83bc13:
+    extend 1rkbla "さて、永遠にふたりっきりの彼らはこれから一体どうするのだろうか？"
+
+translate Japanese mas_story_knock_905ec016:
+    m 3gsbsu "その後のふたりがどうなったのか、それは皆さんの想像におまかせすることにしよう……"
+
+translate Japanese mas_story_knock_b3f652fa:
+    m 1hubsa "この物語が気に入ってくれたら嬉しいな、[player]"
 
 translate Japanese mas_scary_story_hunter_bd5cd01d:
     m 3esa "ある日、一人の狩人が森へハンティングにでかけました"
@@ -2179,6 +2311,96 @@ translate Japanese mas_scary_story_flowered_lantern_3_c7ce5c0e:
 translate Japanese mas_scary_story_flowered_lantern_3_bb2f7e5e:
     m 2wfc "そしてその傍らには、抱くようにして萩原の首に手を巻いた、女の骸骨が並んでいたのでした。"
 
+translate Japanese mas_scary_story_prison_escape_84f67ead:
+    m 1ekd "殺人の罪で終身刑を宣告された美しい女がいた"
+
+translate Japanese mas_scary_story_prison_escape_03678f6f:
+    m 2tfc "刑務所での待遇に激怒した彼女は、こんなところで一生を棒に振ることできないと決心し、{w=0.2}脱獄の計画をし始めた"
+
+translate Japanese mas_scary_story_prison_escape_42e5abc2:
+    m 7eua "それからしばらく経ち、彼女は刑務所の看守のひとりと良い仲になっていた"
+
+translate Japanese mas_scary_story_prison_escape_bc0fb870:
+    m 3esc "その看守の仕事は囚人の埋葬で、刑務所の壁のすぐ外にある墓地へと行き来ができた"
+
+translate Japanese mas_scary_story_prison_escape_923980fd:
+    m 3esd "囚人が死ぬたびに報せ鐘を鳴らし、囚人全員に刑務所内での死を伝えることが埋葬担当者の最初の仕事だ"
+
+translate Japanese mas_scary_story_prison_escape_5c9c7a21:
+    m 3esc "次に遺体を棺に入れ、看守室で死亡診断書類を用意した後、棺のふたに釘を打ち付けて閉める"
+
+translate Japanese mas_scary_story_prison_escape_5a641248:
+    m 3esd "最後に、棺を荷馬車に乗せて墓地へ行き、埋葬する"
+
+translate Japanese mas_scary_story_prison_escape_9d7e3faa:
+    m 1euc "この一連の業務内容を知って、女は脱出の案を思いつく。そしてその計画を看守に打ち明けた"
+
+translate Japanese mas_scary_story_prison_escape_f9a73625:
+    m 1eud "その内容はこうだ。次に鐘が鳴るのが聞こえたら、すぐに女は独房から離れ、棺が安置されている暗い霊安室へと忍び込む"
+
+translate Japanese mas_scary_story_prison_escape_5cef0000:
+    m 1eud "看守が死亡診断書に記入している間に、遺体の入った棺の中へ女は身を隠し"
+
+translate Japanese mas_scary_story_prison_escape_ded21bc1:
+    m 3euc "棺のところへ戻った看守は何食わぬ顔で釘を打ち、棺を刑務所の外へと運び出して埋葬する"
+
+translate Japanese mas_scary_story_prison_escape_f9da0876:
+    m 3euc "棺の中の空気は日暮れまでは保つ。夕闇に紛れて戻ってきた看守が棺を掘り起こせば、晴れて女は自由の身という計画だ"
+
+translate Japanese mas_scary_story_prison_escape_d4cb2032:
+    m 2eksdlc "看守はこの計画には消極的だった。{w=0.1}{nw}"
+
+translate Japanese mas_scary_story_prison_escape_a85fbf5f:
+    extend 4esa "だが彼は女と良い仲になってから長い。彼はしぶしぶ計画に手を貸すことにした"
+
+translate Japanese mas_scary_story_prison_escape_3184efa1:
+    m 2tsc "それから数か月、女は他の囚人が死ぬのじっと待っていた"
+
+translate Japanese mas_scary_story_prison_escape_f855e430:
+    m 7dsc "ある夜、いつもの独房で眠っていると、死の報せ鐘が鳴り響いた"
+
+translate Japanese mas_scary_story_prison_escape_9806635f:
+    m 3euc "女はすぐさま起き上がり、独房の鍵を開け、そろりそろりと廊下へ出た"
+
+translate Japanese mas_scary_story_prison_escape_f6879bfa:
+    m 3wud "霊安室へたどり着くまでに何度も見つかりそうになった……{w=0.3} その度に彼女の心臓は早鐘を打つ"
+
+translate Japanese mas_scary_story_prison_escape_b6b2883c:
+    m 3ekc "ようやくたどり着き、霊安室のドアを開けると暗闇の中には棺と静かに眠る死体らしきものがあった"
+
+translate Japanese mas_scary_story_prison_escape_ec88ee62:
+    m 3dkc "慎重に棺の中に入り込むと、棺のふたを元に戻して看守が棺に釘を打ちに来るのを待つ女"
+
+translate Japanese mas_scary_story_prison_escape_bdf1c4b5:
+    m 2eka "するとすぐにこちらへと近づく足音が聞こえてくる。そして棺に釘を打ち付ける金槌の音が続いた"
+
+translate Japanese mas_scary_story_prison_escape_6a0880b6:
+    m 4eksdlc "冷たくなった死体の上で寝て待つのは不快だったが、ひとつ釘が棺に打ち込まれるたびに自由の足音が聞こえてくるのを女は感じていた"
+
+translate Japanese mas_scary_story_prison_escape_3dd8d8ae:
+    m 2eud "釘で閉められた棺は荷馬車に積み込まれ、外の墓地へ"
+
+translate Japanese mas_scary_story_prison_escape_95fbb824:
+    m 2eksdlc "棺が墓の底に乱雑に墓穴に落とされたときも、女は一言も声を漏らさなかった"
+
+translate Japanese mas_scary_story_prison_escape_1fab1335:
+    m 4eksdlc "ついに棺に土がかぶされていく音が聞こえてきた。{w=0.1}{nw}"
+
+translate Japanese mas_scary_story_prison_escape_7153b381:
+    extend 4eksdla "ついに自由になれる。あとは時間の問題だった"
+
+translate Japanese mas_scary_story_prison_escape_f53504a2:
+    m 2hksdlb "完全な静寂に包まれてから1時間、静けさのなかで女は声を殺しながら笑っていた"
+
+translate Japanese mas_scary_story_prison_escape_bab84b35:
+    m 2eta "ふと好奇心が湧き、傍らにいる死んだ囚人の顔を拝んでやろうと女はマッチに火を灯す"
+
+translate Japanese mas_scary_story_prison_escape_f1d1d45b:
+    m 2wusdld "するとそこには……！"
+
+translate Japanese mas_scary_story_prison_escape_c01b3923:
+    m 2wusdlo "そこには看守の死体があったのだった！"
+
 translate Japanese strings:
     old "Which story would you like to hear?"
     new "どのお話を聞きたいの？"
@@ -2282,6 +2504,9 @@ translate Japanese strings:
     old "Mind the Gap"
     new "足元にご注意ください"
 
+    old "Knock"
+    new "戸を叩く音"
+
     old "The Hunter"
     new "とある狩人の話"
 
@@ -2335,3 +2560,6 @@ translate Japanese strings:
 
     old "The Flowered Lantern 3"
     new "牡丹灯籠　三"
+
+    old "Prison Escape"
+    new "脱獄計画"

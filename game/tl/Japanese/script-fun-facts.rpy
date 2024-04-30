@@ -392,7 +392,7 @@ translate Japanese mas_fun_fact_density_bf3eff6f:
     m "そして土星が一番密度が低いのよ。"
 
 translate Japanese mas_fun_fact_density_8e972339:
-    m 1eua "結局その惑星が何で出来ているかという話になるんだけど、一番密度が低い土星が大きさでは2番目になるのもちょっと驚きよね。"
+    m 1eua "結局その惑星が何で出来ているかという話になるんだけど、一番密度が低い土星が大きさでは2番目になるのもちょっと驚きよね"
 
 translate Japanese mas_fun_fact_density_e1d52e81:
     m 1eka "密度が一番低いからってサイズが一番大きくなるわけじゃないのよ！"
@@ -419,7 +419,7 @@ translate Japanese mas_fun_fact_binky_030c3e1b:
     m 1hua "うさぎのダンスとも言われているけど、binkyという言葉はとてもかわいい響きがして、飛び跳ね回ってる姿と本当に合ってると思うわ。"
 
 translate Japanese mas_fun_fact_binky_5981bbe6:
-    m 1eua "うさぎが見せる行動の中で『いま一番幸せ！』ってときの行動だから、もしbinkyが見れたときはいい飼育が出来ているってことなのよ。"
+    m 1eua "うさぎが見せる行動の中で『いま一番幸せ！』ってときの行動だから、もしbinkyが見れたときはいい飼育が出来ているってことなのよ"
 
 translate Japanese mas_fun_fact_binky_7f0e9c3b:
     m 1rksdla "[player]君といるととても幸せで、元気満々になっちゃうんだけどさ……"
@@ -785,7 +785,7 @@ translate Japanese mas_fun_fact_synesthesia_80002e89:
     m 1eua "……そして他にも色んな種類の共感覚が存在するの"
 
 translate Japanese mas_fun_fact_synesthesia_945f3e46:
-    m 1esa "共感覚を持つ人がどの程度いるか一致した意見はないのだけれど、中には25％の人が共感覚を持つという研究もあって。でも共感覚なんて現象があることを今まで聞いたこともなかったし、そんなに沢山の人が共感覚を持っているなんてちょっと信じられないわね"
+    m 1esa "共感覚を持つ人がどの程度いるかは明確でないのだけれど、{w=0.1}25％の人が持ってるとする研究もあって。でも共感覚なんて今まで聞いたこともなかったし、そんなに沢山の人が持っているなんてちょっと信じられないわね"
 
 translate Japanese mas_fun_fact_synesthesia_f5afe46e:
     m 3eub "他の推計では人口の4％強ほどというのがあって、それくらいの数字なら納得できるかな！"

@@ -1159,7 +1159,7 @@ translate Japanese mas_reaction_gift_clothes_velius94_shirt_pink_4464c65a:
     m 3eub "それにスカートも！フリルがとってもキュート！"
 
 translate Japanese mas_reaction_gift_clothes_velius94_shirt_pink_f0b2954c:
-    m 2tfbsd "なぜかわからないけど、あなたの目が少し泳いでいるような… "
+    m 2tfbsd "なぜかわからないけど、あなたの目が少し泳いでいるような……"
 
 translate Japanese mas_reaction_gift_clothes_velius94_shirt_pink_a7b43979:
     m 2lfbsp "ジロジロ見るのは行儀が悪いって前に言ったでしょ、[player]"
@@ -1201,7 +1201,7 @@ translate Japanese mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_7750e055:
     m 3eub "この服を着ていると、なんだか瞬きする間に何もかもをこなせるような気がするわ"
 
 translate Japanese mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_e1f54fbd:
-    m 1eua "…忙しくさせない限りだけどね、えへへ～"
+    m 1eua "……忙しくさせない限りだけどね、えへへ～"
 
 translate Japanese mas_reaction_gift_clothes_orcaramelo_sakuya_izayoi_be34e17e:
     m 1lkbfb "あなたともっとたくさんの時間を過ごせるといいわね、ご主人さ{nw}"
@@ -1373,6 +1373,15 @@ translate Japanese mas_reaction_gift_noudeck_0bd97190:
 
 translate Japanese mas_reaction_gift_noudeck_havent_played_66c2b3ee:
     m 1eka "あら、大丈夫よ"
+
+translate Japanese mas_reaction_gift_noudeck_havent_played_8b51673c:
+    m 4eub "トランプを使う遊びでよくあるルールとおなじで、相手よりも先にすべての手札を出し切ったほうが勝ちのゲームなんだよ"
+
+translate Japanese mas_reaction_gift_noudeck_havent_played_a93bafa0:
+    m 1rssdlb "こう言うと、とても単純なゲームに聞こえちゃうよね、あはは～"
+
+translate Japanese mas_reaction_gift_noudeck_havent_played_984466c7:
+    m 3eub "でもね、友達や大好きな人と一緒に遊んだら本当に楽しいんだよ～"
 
 translate Japanese mas_reaction_gift_noudeck_havent_played_8933ee4c:
     m 1eua "基本的なルールは後で説明するから、話しかけてね"

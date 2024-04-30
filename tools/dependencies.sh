@@ -29,7 +29,7 @@ if [ ! -d "/tmp/mas-$MAS_VERSION" ]; then
 
     if [ ! -f unrpyc/unrpyc.py ]; then
         echo "Download unrpyc"
-        git clone https://github.com/CensoredUsername/unrpyc.git unrpyc >/dev/null
+        git clone -b legacy https://github.com/CensoredUsername/unrpyc.git unrpyc >/dev/null
     fi
 
     echo "Download Monika After Story $MAS_VERSION"

@@ -485,7 +485,7 @@ translate Japanese monika_idle_homework_callback_5692408a:
     m 2ekc "一緒に宿題を手伝えたら良かったんだけど……悲しいな、まだここじゃ出来る事があんまり無いんだ"
 
 translate Japanese monika_idle_homework_callback_b419de91:
-    m 7eua "２人で協力出来れば……もっと効率よく宿題を終わらせることができると思うんだ"
+    m 7eua "二人で協力出来れば……もっと効率よく宿題を終わらせることができると思うんだ"
 
 translate Japanese monika_idle_homework_callback_687523a0:
     m 3rkbla "……とはいえ、それは{i}気{/i}が散らないことが前提になるけどね、えへへ……"

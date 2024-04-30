@@ -989,7 +989,7 @@ translate Japanese mas_after_bath_cleanup_73af40e5:
     m 1eua "着替えてくるね{w=0.3}…{w=0.3}…{w=0.3}"
 
 translate Japanese mas_after_bath_cleanup_d8fa99f7:
-    m 1eua "ちょっと待っててね[player_nick],{w=0.2}{nw}"
+    m 1eua "ちょっと待っててね[player_nick]、{w=0.2}{nw}"
 
 translate Japanese mas_after_bath_cleanup_da8cb9df:
     extend 3eua "着替えてくるね"
@@ -1001,7 +1001,43 @@ translate Japanese mas_after_bath_cleanup_1579d390:
     m 3hub "よし、ただいま～！"
 
 translate Japanese mas_after_bath_cleanup_22c730c8:
-    m 1eua "それで、今日は何したい、[player]?"
+    m 1eua "それで、今日は何したい、[player]？"
+
+translate Japanese greeting_found_nou_shirt_58145448:
+    m "あ、来てくれたね！ {w=0.2}ずっと待ってたんだよ～"
+
+translate Japanese greeting_found_nou_shirt_0218a598:
+    m "あのね、{w=0.1}どうやって私に気づかれずにこの衣装をクローゼットに仕込んだのかわからないんだけど……{nw}"
+
+translate Japanese greeting_found_nou_shirt_bf1afb14:
+    m "あのね、どうやって私に気づかれずにこの衣装をクローゼットに仕込んだのかわからないんだけど……{fast}" nointeract
+
+translate Japanese greeting_found_nou_shirt_post_menu_18044962:
+    m 1ekbla "ありがとう、[player]"
+
+translate Japanese greeting_found_nou_shirt_post_menu_33745642:
+    m 1tfu "でも、プレゼントをくれてもゲームで手加減はしないからね～"
+
+translate Japanese greeting_found_nou_shirt_post_menu_18a42d1e:
+    m 1rtsdlb "でも戦績的には、{w=0.1}私に手加減する余裕なんてないかな、あはは……"
+
+translate Japanese greeting_found_nou_shirt_post_menu_26bc035d:
+    m 3ttb "[mas_get_player_nickname()]、ひとゲームしていくのかな？"
+
+translate Japanese greeting_found_nou_shirt_menu_skip_4e5c70bf:
+    m "でもこれ気に入ったよ～"
+
+translate Japanese greeting_found_nou_shirt_menu_choice_secret_9e57473c:
+    m "{cps=*1.5}まさか私のクローゼットの中を何度もチェックしてたりするの～？{/cps}{w=0.1}{nw}"
+
+translate Japanese greeting_found_nou_shirt_menu_choice_secret_cb442449:
+    m 2lusdla "まあともかく……{w=0.3}{nw}"
+
+translate Japanese greeting_found_nou_shirt_menu_choice_secret_2580b967:
+    m "うーん、まあともかく……{w=0.3}{nw}"
+
+translate Japanese greeting_found_nou_shirt_menu_choice_secret_d9d20024:
+    extend 4sub "この新しい衣装、本当に気に入ったよ！"
 
 translate Japanese monikaroom_greeting_opendoor_locked_8c59b1c8:
     m "怖がらせちゃったかな？ [player]{nw}"
@@ -1484,7 +1520,7 @@ translate Japanese greeting_amnesia_cb5320e8:
     m "お願いします。{w=0.2}{nw}"
 
 translate Japanese greeting_amnesia_43672534:
-    extend 1dksdlc "友人を見失ってしまって……"
+    extend 1dksdlc "友人に会いたくて……"
 
 translate Japanese greeting_amnesia_7faca44c:
     m 1rksdla "……"
@@ -2748,7 +2784,7 @@ translate Japanese greeting_back_from_work_passed_over_4b9f0bee:
     m 1eua "一生懸命にやれば成果はきっとついてくるし、認めてもらえる日もやってくる"
 
 translate Japanese greeting_back_from_work_passed_over_140aa297:
-    m 1hub "そして忘れないでほしい… {w=0.5}[player]のそばにはいつでもあなたを応援する私がいるってことをね！"
+    m 1hub "そして忘れないでほしい…… {w=0.5}[player]のそばにはいつでもあなたを応援する私がいるってことをね！"
 
 translate Japanese greeting_back_from_work_passed_over_e899baa6:
     m 3eka "これで少しでも気が楽になってくれたら嬉しいな～"
@@ -3908,6 +3944,21 @@ translate Japanese strings:
 
     old "I won't."
     new "しない"
+
+    old "bathing"
+    new "お風呂"
+
+    old "showering"
+    new "シャワー"
+
+    old "It's a secret."
+    new "秘密だよ"
+
+    old "It was [glitch_option_text]!"
+    new "[glitch_option_text]したんだよ！"
+
+    old "I have no idea..."
+    new "何の事かよくわからない……"
 
     old "...the textbox..."
     new "……メッセージウィンドウが……"

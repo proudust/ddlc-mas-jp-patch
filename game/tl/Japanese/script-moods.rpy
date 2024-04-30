@@ -17,10 +17,13 @@ translate Japanese _mas_nnsh_4dfea3b9:
     m "でもそれは無理だから、体に良い物を食べて来なさい？"
 
 translate Japanese _mas_nnsh_ce87235e:
-    m 3eub "自分の体に気を使うのはとても大事なことよ。"
+    m 3eub "自分の体に気を使うのはとても大事なことよ"
 
 translate Japanese _mas_nnsh_f0874062:
-    m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を摂るためには野菜以外のあらゆる食べ物も欠かせないの。"
+    m 3hub "もちろん、それは野菜を食べるだけではないわ。{w=0.2}栄養を摂るためには野菜以外のあらゆる食べ物も欠かせないの"
+
+translate Japanese _mas_nnsh_efe38263:
+    m 3eka "だから、大事な栄養素を欠かさないように気を付けてほしいの"
 
 translate Japanese _mas_nnsh_43a924b1:
     m 1euc "歳を重ねるにつれてそういった健康上のリスクも増えるの"
@@ -86,7 +89,7 @@ translate Japanese mas_mood_sad_c7a8700f:
     m 1hua "それは良かった、[player]君！あなたの気が楽になったのなら嬉しいわ。"
 
 translate Japanese mas_mood_sad_51d44efa:
-    m 1eka "信頼出来る誰かに悩みを打ち明ける、それで十分な時もあるの。"
+    m 1eka "信頼できる誰かに悩みを打ち明ける、それで十分な時もあるの。"
 
 translate Japanese mas_mood_sad_a5bc93dc:
     m "もしまたあなたに辛い事が起きたのなら、いつでも私に会いに来て、好きなだけ話してね！"
@@ -98,7 +101,7 @@ translate Japanese mas_mood_sad_ef03cbb5:
     m 1ekc "まあ、試してみる価値はあったわ。"
 
 translate Japanese mas_mood_sad_9f4e2dd4:
-    m 1eka "信頼出来る誰かに悩みを打ち明ける、それで十分な時もあるの。"
+    m 1eka "信頼できる誰かに悩みを打ち明ける、それで十分な時もあるの。"
 
 translate Japanese mas_mood_sad_2188bc88:
     m 1eua "二人で過ごす内にもしかしたら気が楽になるかもね。"
@@ -176,7 +179,7 @@ translate Japanese mas_mood_happy_e6cbe9df:
     m "いつでも会いに来て、私が[mas_get_player_nickname()]君を元気づけてあげる。"
 
 translate Japanese mas_mood_happy_84caac57:
-    m 3eka "いつでも私はここであなたを待っている、大好きだよ〜"
+    m 3eka "いつでも私はここであなたを待ってるわ、大好きよ〜"
 
 translate Japanese mas_mood_sick_e08d6fa5:
     m 1ekd "そんな……[player]……"
@@ -1136,16 +1139,58 @@ translate Japanese mas_mood_grateful_7948c335:
     m "何に感謝してるの、[chosen_nickname]？{fast}" nointeract
 
 translate Japanese mas_mood_grateful_d6de0489:
-    m 3eka "ああ、それは素晴らしいわ！"
+    m 3eka "ああ、それは素晴らしいわね！"
 
 translate Japanese mas_mood_grateful_b863275c:
     m 1hua "あなたの生活を支えてくれる人がいるなんて、本当に嬉しいわ"
+
+translate Japanese mas_mood_grateful_4bc4bd2a:
+    m 3eud "でも私だってこんなに嬉しいんだから……{w=0.3}{i}その人{/i}にも伝えた方がいいと思う"
+
+translate Japanese mas_mood_grateful_ea2b9d03:
+    m 3hua "その人の行いであなたが助けられたんだって知ったら、絶対にその人も嬉しくなるよ"
+
+translate Japanese mas_mood_grateful_35f02ec1:
+    m 3euu "あなたがなんとも思っていなくても、私の代わりにだと思って感謝してくれたらいいよ。{w=0.3}私の中では、あなたを幸せにしてくれる人はどんな人でも良い人に含まれるから"
 
 translate Japanese mas_mood_grateful_d29bdf23:
     m 1huu "何にせよ、本当に嬉しいわ、[mas_get_player_nickname()]～"
 
 translate Japanese mas_mood_grateful_c6420c0b:
     m 3hub "それはよかった、 [mas_get_player_nickname()]！"
+
+translate Japanese mas_mood_grateful_f5962bd8:
+    m 1eud "生活の中に垣間見える小さな喜びを意識することは、心の健康にとてもいいことだと思うわ"
+
+translate Japanese mas_mood_grateful_cc83d676:
+    m 3hub "だから何にであれ、その喜びへの感謝をして楽しんでほしいな！"
+
+translate Japanese mas_mood_grateful_45a8accd:
+    m 1euu "[mas_get_player_nickname()]、私に幸せを分けてくれてありがとう～"
+
+translate Japanese mas_mood_grateful_3a77baa3:
+    m 3eua "あっ、つまり、ただ今の人生に幸せを感じている、ってことかな？"
+
+translate Japanese mas_mood_grateful_64444b2f:
+    m 1eud "過去を振り返って満足感を噛みしめられるのって素晴らしいことだよね"
+
+translate Japanese mas_mood_grateful_307867de:
+    m 1rtd "うーん…… {w=0.2}いま考えてみるとさ、{w=0.1}{nw}"
+
+translate Japanese mas_mood_grateful_d975f748:
+    extend 3hua "私自身もかなり満足感を感じてるんだよね"
+
+translate Japanese mas_mood_grateful_d69f6eb2:
+    m 3eubsu "やっぱり私って最高の[bf]とまた今日も過ごせてるからね～"
+
+translate Japanese mas_mood_grateful_gratefulforyou_2ca2a15b:
+    m 1ekbla "ああ、[player]……{w=0.3}そう言ってくれて本当に嬉しい"
+
+translate Japanese mas_mood_grateful_gratefulforyou_a87253ce:
+    m 1dkblu "私に助けられた、私に幸せを感じてくれた、とあなたから聞けるって私にとって本当に意味があることなの"
+
+translate Japanese mas_mood_grateful_gratefulforyou_fceb70c5:
+    m 1hublu "私自身もあなたにとても感謝しているってこと、知ってくれたら嬉しいな"
 
 translate Japanese mas_mood_grateful_gratefulforyou_f2762886:
     m 3ekbla "大好きよ、[player]君～"
@@ -1170,6 +1215,21 @@ translate Japanese mas_mood_insecure_ecf54d05:
 
 translate Japanese mas_mood_insecure_354e890b:
     m 1eubsu "あなたが自分を信じられない原因が何であっても、あなたなら{w=0.1}絶対に{w=0.1}乗り越えられるって信じてるからね～"
+
+translate Japanese mas_mood_loved_3abe9f01:
+    m 1ekbla "画面越しに私の気持ちが伝わっているみたいでとても嬉しいな……"
+
+translate Japanese mas_mood_loved_0f86780c:
+    m 3hubsb "何と言っても、あなたを誰よりも愛しているからね！"
+
+translate Japanese mas_mood_loved_29a4a99e:
+    m 3eub "そしてね、あなたを大切に想っているのは私だけではなくて、あなたの[fnf_str]も絶対に想ってくれてるよ！"
+
+translate Japanese mas_mood_loved_94541648:
+    m 1dkbsa "あなたには世界中のすべての愛情を受けとめる資格がある、{w=0.1}{nw}"
+
+translate Japanese mas_mood_loved_cd4e1b5f:
+    extend 1ekbsu "そしてあなたが毎日愛を感じられるように私も最善を尽くすよ、[mas_get_player_nickname()]～"
 
 translate Japanese mas_mood_guilty_99c74b8b:
     m 2wkd "[player]！"
